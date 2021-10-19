@@ -1,0 +1,10 @@
+# This file lists the main dependencies
+#
+# To create a proper requirements.txt, use pip-tools:
+#
+#    python -m piptools compile requirements.in
+#
+# (you may need to install piptools first by running 'pip install pip-tools')
+
+-r dref_parsing/requirements.in
+-r dref_tagging/requirements.in

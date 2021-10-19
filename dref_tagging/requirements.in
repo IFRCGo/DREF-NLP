@@ -1,0 +1,19 @@
+# This file lists the main dependencies
+#
+# To create a proper requirements.txt, use pip-tools:
+#
+#    python -m piptools compile requirements.in
+#
+# (you may need to install piptools first by running 'pip install pip-tools')
+
+fastapi
+googletrans
+huggingface-hub
+langdetect
+pandas
+spacy
+tokenizers
+torch==1.9.0
+torchtext==0.10.0
+transformers==4.9.2
+uvicorn
