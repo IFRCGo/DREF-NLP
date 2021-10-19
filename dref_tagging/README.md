@@ -1,6 +1,6 @@
 To run this app
 
-Copy the file DREF_docBERT.pt into the folder tagging_app
+Copy the file DREF_docBERT.pt into the folder tagging_app/config
 
 From command line cd into folder tagging_app
 
