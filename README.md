@@ -15,3 +15,6 @@ Running apps
 uvicorn dref_tagging.main:app --reload
 uvicorn dref_parsing.main:app --reload
 ```
+
+To run the dref_tagging app you must download the file DREF_docBERT.pt and add it to the dref_tagging/dref_tagging/config file.
+Currently to download this file you must contact the team at Nextbridge. 
