@@ -150,3 +150,7 @@ dmypy.json
 /data
 /DREF/data
 *.pt
+
+#bert model
+/training_model/DocBERT/hedwig-data/models
+
