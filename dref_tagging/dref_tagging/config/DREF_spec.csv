@@ -1,0 +1,42 @@
+Subdim_digits,DREF_DimCode,Dimension,Subdimension
+1,1-PSS.1,"Policy, Strategy and Standards","RCRC Auxiliary role, mandate and law"
+2,1-PSS.2,"Policy, Strategy and Standards",Disaster Risk Management (DRM) Strategy
+3,1-PSS.3,"Policy, Strategy and Standards",Disaster Risk Management (DRM) Policy
+4,1-PSS.4,"Policy, Strategy and Standards","Disaster Risk Management Laws, Advocacy and Dissemination"
+5,1-PSS.5,"Policy, Strategy and Standards",Quality and Accountability
+6,2-AP.6,Analysis and Planning,"Hazard, Context and Risk Analysis, Monitoring and Early Warning"
+7,2-AP.7,Analysis and Planning,Scenario planning
+8,2-AP.8,Analysis and Planning,Risk Management
+9,2-AP.9,Analysis and Planning,Preparedness Plans and Budgets
+10,2-AP.10,Analysis and Planning,Business Continuity
+11,2-AP.11,Analysis and Planning,Emergency Response Procedures (SOPs)
+12,2-AP.12,Analysis and Planning,Response and Recovery Planning
+13,2-AP.13,Analysis and Planning,Pre-disaster Meetings and Agreements
+14,3-OC.14,Operational Capacity,National Society Specific Areas of intervention
+15,3-OC.15,Operational Capacity,Mapping of NS capacities
+16,3-OC.16,Operational Capacity,Early Action Mechanism
+17,3-OC.17,Operational Capacity,Cash based intervention
+18,3-OC.18,Operational Capacity,Emergency Needs Assessment and Planning
+19,3-OC.19,Operational Capacity,Affected Population Selection
+20,3-OC.20,Operational Capacity,Emergency Operations Centre
+21,3-OC.21,Operational Capacity,Information Management
+22,3-OC.22,Operational Capacity,Testing and Learning
+23,3-OC.23,Operational Capacity,Activation of Regional and International Support
+24,4-C.24,Coordination,Coordination with Movement
+25,4-C.25,Coordination,Coordination with Authorities
+26,4-C.26,Coordination,Coordination with External Agencies and NGOs
+27,4-C.27,Coordination,Civil Military Relations
+28,4-C.28,Coordination,Coordination with Local Community Responders
+29,4-C.29,Coordination,Coordination with Private Sector
+30,5-OS.30,Operations Support,Safety and Security Management
+31,5-OS.31,Operations Support,"Operations Monitoring, Evaluation, Reporting and Learning"
+32,5-OS.32,Operations Support,Finance and Admin. Policy and Emergency Procedures
+33,5-OS.33,Operations Support,Information and Communication Technology (ICT)
+34,5-OS.34-a,Operations Support,Logistics Management
+34,5-OS.34-b,Operations Support,Supply Chain Management
+34,5-OS.34-c,Operations Support,Procurement
+34,5-OS.34-d,Operations Support,Fleet and Transportation Management
+34,5-OS.34-e,Operations Support,Warehouse and Stock Management
+35,5-OS.35,Operations Support,Staff and Volunteer Management
+36,5-OS.36,Operations Support,Communication in emergencies
+37,5-OS.37,Operations Support,Resource Mobilisation

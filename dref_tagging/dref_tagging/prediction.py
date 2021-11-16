@@ -25,6 +25,12 @@ from torch.utils.data import DataLoader, SequentialSampler, TensorDataset
 from transformers import BertTokenizer
 from typing import List, Sequence, Tuple, Union
 
+from dref_tagging.tag_utils import split_into_chunks, merge_predicted_tags
+
+# **************************************************************************
+# SETUP / PREPARATIONS
+# **************************************************************************
+
 # Set default configuration in args.py
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 n_gpu = torch.cuda.device_count()
@@ -66,12 +72,39 @@ model.eval()
 with resources.path("dref_tagging.config", "tags_dict.csv") as tags_file:
     tags_dict = pd.read_csv(tags_file, index_col=0).loc[:, "Category"]
 
+
+# **************************************************************************
+# Predict tags for longer texts:
+# Splits them into chuncks, does tagging and merges the tags
+# **************************************************************************
+def predict_tags_any_length(
+    eval_texts: Union[str, Sequence[str]]
+) -> Tuple[List[str], List[List[str]]]:
+
+    if isinstance(eval_texts, str):
+        eval_texts = [eval_texts]
+
+    # split long text into suitable text chunks
+    max_len = int(args["max_seq_length"] * 0.8)
+    divided_text, text_indicies = split_into_chunks(eval_texts, max_len = max_len, verbose=1) 
+
+    # make predictions on the chunks
+    returned_texts, predictions = predict_tags(divided_text)
+
+    # merge the predictions
+    merged_predictions = merge_predicted_tags(predictions, text_indicies) 
+
+    assert len(eval_texts) == len(merged_predictions)
+    return merged_predictions
+
+
+# **************************************************************************
+# Predict tags (for shorter chunks of text)
+# **************************************************************************
 def predict_tags(
     eval_texts: Union[str, Sequence[str]]
 ) -> Tuple[List[str], List[List[str]]]:
     """
-    predict tags for given texts using the IFRC 2019 master framework
-    
     Given a text or sequence of texts this function automatically
     tags them using the DREF framework. The 
     function uses a trained deep-learning model called docBERT to make 
@@ -131,6 +164,9 @@ def predict_tags(
 
     return (eval_texts, predicted_tags)
 
+
+# **************************************************************************
+# **************************************************************************
 def _get_features(texts: Sequence[str], max_seq_length: int):
     """
     generate input features to the BERT model from texts
