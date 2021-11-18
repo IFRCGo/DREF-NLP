@@ -66,6 +66,11 @@ async def parse_and_tag(
     df2 = df2.fillna('Unknown')   
 
     df2 = df2.rename(columns={'lead':'Appeal code','Modified Excerpt':'Excerpt'})
+
+    # reorder columns
+    cols_order = ['Excerpt', 'Learning', 'DREF_Sector', 'Appeal code', 'Hazard', 'Country', 'Date', 'Region', 'Dimension' ,'Subdimension']
+    df2 = df2[cols_order]
+
     return df2.to_dict()
 
     # For CSV output a different conversion is needed 
