@@ -114,6 +114,7 @@ def translate_text(text):
         translation = translator.translate(text)
 
         text = translation.text  # Update the field to English!
-    except RuntimeError:
+    #except RuntimeError:
+    except: # Some errors broke the code, but were not caught by RuntimeError:
         pass
     return text    
