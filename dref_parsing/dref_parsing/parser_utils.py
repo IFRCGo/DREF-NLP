@@ -425,9 +425,11 @@ def findall_patterns(patterns, s0, region=True, n=30, nback=-1, pattern2='', ign
 
 # ****************************************************************************************
 # If smth strange i.e. 'and' just before the separator
-def is_smth_strange(s1, s2):
-    return s1.rstrip(' ').split(' ')[-1] in ['and','the']
-
+def is_smth_strange(s1, s2, min_len = 10):
+    strange_end = s1.rstrip(' ').split(' ')[-1] in ['and','the']
+    too_short = (len(s2) < min_len) 
+    # adding (len(s1) < min_len) breaks down some excerpts in ID015, VU008, not clear why
+    return strange_end or too_short
 
 def is_sentence_end(s, endings=['.', '?', '!']):
     s2 = strip_all_empty(s, left=False)
@@ -535,9 +537,26 @@ def split_list_by_separator(chs, seps = ['\n\n','\n \n','\n  \n','\n   \n',
 # ****************************************************************************************
 # Locate & Process Challenges
 # ****************************************************************************************
+def is_char_a_letter(c):
+    return c.islower() or c.isupper()
+
+def exist_two_letters_in_a_row(ch):
+    if len(ch)<2:
+        return False
+    is_previous_letter = is_char_a_letter(ch[0])
+    for c in ch[1:]:
+        is_current_letter = is_char_a_letter(c)
+        if is_previous_letter and is_current_letter:
+            return True
+        is_previous_letter = is_current_letter
+    return False
 
 # Skip challenge when it is basically absent
 def skip_ch(ch): 
+    if len(ch)<3:
+        return True
+    if not exist_two_letters_in_a_row(ch):
+        return True
     if strip_all(ch).startswith('None') and (len(ch)<30):
         return True
     if strip_all(ch).startswith('Nothing') and (len(ch)<30):
@@ -633,7 +652,8 @@ def stop_at_multiple_LBs(s0, stop='\n\n\n\n\n'):
     s_before = s.split(stop)[0]
     s_after = s.split(stop)[1].split('\n\n')[0]
     NA_challenge = skip_ch(strip_all_empty(s_before))
-    other_section_after = strip_all_empty(s_after).startswith('Strategies for Implementation')
+    other_section_after = strip_all_empty(s_after).startswith('Strategies for Implementation') 
+    #TODO: add other section names e.g. Health, see CU006
     return NA_challenge or other_section_after
 
 # ****************************************************************************************
@@ -1239,9 +1259,12 @@ def drop_image_caption_one(a, pattern = '(Photo:'):
     return a[:start_caption] +  a[end_caption:]
 
 #*********************************************************************************************
-# Removes a piece of text that presumable is an image caption 
+# Removes a piece of text that presumably is an image caption 
 # because it contains one of 'patterns"
 def drop_image_caption(a, patterns = ['(Photo:', '(Image:', 'Source:'] ):
+    for patt in patterns:
+        a = drop_image_caption_one(a, pattern = patt)
+    # Do it again, in case there are two captions 
     for patt in patterns:
         a = drop_image_caption_one(a, pattern = patt)
     return a
