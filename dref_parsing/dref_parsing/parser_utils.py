@@ -18,6 +18,7 @@ all_bullets = ['•','●','▪','-']
 
 all_pdf_folders = ['../data/PDF-2020',
                    '../data/PDF-API',
+                   '../data/PDF-new-template',
                    '../data/PDF-download-2021',
                    '../data/PDF-download-2020']
                    
@@ -803,7 +804,8 @@ def assess_match_all(pp):
     return match
 
 # ******************************************************************
-# Get Parsed CH & LL
+# Get Parsed CH & LL.
+# source = api or disk
 def get_CHLLs(lead='MDRCD028', Learnings=['CH','LL'], PDFextras=Munch(), 
               do_remove_footer=True, source='api', folder=''):
 
@@ -916,14 +918,18 @@ def get_PDF_names_fresh(q):
 # LESSONS LEARNED
 #############################################################################################
 
-# Find where LL section starts. 
-# We use one linebreak as pattern, though in 99% of cases
+# Find where LL section starts, i.e. strip away its title (smth like 'Lessons Learned:\n')
+# We use one linebreak as pattern, to be safe, even though in 99% of cases
 # there is a double-linebreak after 'Lessons Learned'
 def strip_LL_section_start(s, start =  '\nLessons', pattern='\n'):
     tmp = drop_spaces_between_linebreaks(s.lstrip(start))
+    # text between '\nLessons' and first linebreak:
     before_LB = tmp.split(pattern)[0]
-    is_section_start = before_LB.strip(' ').lower() in ['learned', 'learnt']
-    if is_section_start:
+    before_LB_strip = before_LB.strip(' ').strip(':').strip(' ')
+
+    # OK section start means 'learned' or 'learnt' after 'Lessons'
+    is_section_start_ok = before_LB_strip.lower() in ['learned', 'learnt']
+    if is_section_start_ok:
         return tmp.lstrip(before_LB).lstrip(pattern)
     else:
         return ''
