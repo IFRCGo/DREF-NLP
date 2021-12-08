@@ -54,7 +54,7 @@ def get_bottom_line(s, drop_spaces=False, drop_empty=True):
         s = remove_symbols(s, symbols=[' '])
     lines = s.split('\n')
     if drop_empty:
-        lines = [line for line in lines if line!='']
+        lines = [line for line in lines if line.strip(' ')!='']
     return lines[-1]
 
 # True if there exist at least 2 letters after each other, otherwise it's not a text
@@ -500,7 +500,7 @@ def find_sections_new(txt):
     patterns = ["reached"]
     prs = findall_patterns(patterns, txt, region=True, n=0, nback=100)
 
-    # keep only if the previous line is 'Persons'
+    # keep only if the previous line (or previous word) is 'Persons'
     prs = [pr for pr in prs if get_bottom_line(pr[1], drop_spaces=True)=='Persons']
 
     prs_processed = []
