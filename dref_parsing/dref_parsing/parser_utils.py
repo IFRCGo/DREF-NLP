@@ -18,6 +18,7 @@ all_bullets = ['•','●','▪','-']
 
 all_pdf_folders = ['../data/PDF-2020',
                    '../data/PDF-API',
+                   '../data/PDF-new-template',
                    '../data/PDF-download-2021',
                    '../data/PDF-download-2020']
                    
@@ -30,6 +31,167 @@ class ExceptionNotInAPI(Exception):
 
 class ExceptionNoURLforPDF(Exception):
     "URL for PDF file is not available (with API appeal_document call)"
+
+# ****************************************************************************************
+# STRING OPERATIONS
+# ****************************************************************************************
+
+# Is char a digit 0-9?
+def is_digit(c):
+    return c >= '0' and c<='9'
+
+# If char is neither lower or upper case, it is not a letter
+def is_char_a_letter(c):
+    return c.islower() or c.isupper()
+
+# removes all given symbols from a string
+def remove_symbols(s, symbols=[' ']):
+    return ''.join([c for c in s if not c in symbols])
+
+# get the bottom line, i.e. text after the last linebreak
+def get_bottom_line(s, drop_spaces=False, drop_empty=True):
+    if drop_spaces:
+        s = remove_symbols(s, symbols=[' '])
+    lines = s.split('\n')
+    if drop_empty:
+        lines = [line for line in lines if line.strip(' ')!='']
+    return lines[-1]
+
+# True if there exist at least 2 letters after each other, otherwise it's not a text
+def exist_two_letters_in_a_row(ch):
+    if len(ch)<2:
+        return False
+    is_previous_letter = is_char_a_letter(ch[0])
+    for c in ch[1:]:
+        is_current_letter = is_char_a_letter(c)
+        if is_previous_letter and is_current_letter:
+            return True
+        is_previous_letter = is_current_letter
+    return False
+
+# Removes all text after the LAST occurence of pattern, including the pattern
+def rstrip_from(s, pattern):
+    return s[:s.rfind(pattern)]
+
+# Strip string from special symbols and sequences (from beginning & end)
+def strip_all(s, left=True, right=True, symbols=[' ','\n']+all_bullets, 
+              start_sequences = ['.','1.','2.','3.','4.','5.','6.','7.','8.','9.']):
+    for i in range(20):
+        for symb in symbols:
+            if left:  s = s.lstrip(symb)
+            if right: s = s.rstrip(symb)
+            
+        for seq in start_sequences:
+            if s.startswith(seq):
+                s = s[len(seq):]                
+    return s        
+
+# Strip string from spaces and linebreaks
+def strip_all_empty(s, left=True, right=True):
+    return strip_all(s, left=left, right=right, symbols=[' ','\n'], start_sequences = [])       
+
+# Return bullet char if the string starts with a bullet.
+# Otherwise - returns an empty string
+def starts_with_bullet(s0, bullets=all_bullets):
+    s = strip_all_empty(s0, right=False)
+    if len(s)==0:
+        return ''
+    if s[0] in bullets:
+        return s[0]
+    else:
+        return ''
+
+# -------------------------------------------
+def drop_spaces_between_linebreaks(txt):
+    out = txt
+    for i in range(5):
+        out = out.replace('\n \n','\n\n')
+        out = out.replace('\n  \n','\n\n')
+        out = out.replace('\n   \n','\n\n')
+        out = out.replace('\n    \n','\n\n')
+        out = out.replace('\n     \n','\n\n')
+    return out    
+
+
+# ****************************************************************************************
+# Finding Text
+# ****************************************************************************************
+
+# Alternative findall can be done using:
+# https://docs.python.org/3/library/re.html
+# http://www.learningaboutelectronics.com/Articles/How-to-search-for-a-case-insensitive-string-in-text-Python.php
+
+# import re
+# re.finditer(pattern, s, flags=re.IGNORECASE)
+#>>> text = "He was carefully disguised but captured quickly by police."
+#>>> for m in re.finditer(r"\w+ly", text):
+#...     print('%02d-%02d: %s' % (m.start(), m.end(), m.group(0)))
+#07-16: carefully
+#40-47: quickly
+
+# ****************************************************
+# Simple case-sensitive version, not used anymore
+def findall0(pattern, s, region=True, n=30, nback=-1, pattern2=''):
+    if nback<0: nback=n
+    ii = []
+    i = s.find(pattern)
+    while i != -1:
+        if region:
+            t = s[i-nback : i+n]
+            if pattern2!='' and t.count(pattern2)>0:
+                t = t.split(pattern2)[0]
+            ii.append((i,t))
+        else:
+            ii.append(i)
+        i = s.find(pattern, i+1)
+    return ii
+
+# ****************************************************
+# Finds all positions of the pattern p in the string s,
+# if region=True also outputs the next n chars (and previous nback chars) 
+# The text output is cut at pattern2
+def findall(pattern, s, region=True, n=30, nback=-1, pattern2='', ignoreCase=True):
+
+    if nback<0: nback=n
+    ii = []
+    if ignoreCase:
+        i = s.lower().find(pattern.lower())
+    else:
+        i = s.find(pattern)
+    while i != -1:
+        if region:
+            t = s[max(0,i-nback) : i+n]   
+            
+            # Stop string at pattern2
+            
+            if pattern2 != '':
+                if ignoreCase: index2 = t.lower().find(pattern2.lower())
+                else:          index2 = t.find(pattern2)
+                if index2 != -1:
+                    t = t[:index2]
+
+            ii.append((i,t))
+        else:
+            ii.append(i)
+        i = s.find(pattern, i+1)
+    return ii    
+
+# **************************************************************************************
+# Wrapper: allows calling findall with a list of patterns 
+# (by replacement, i.e. the string fragments can be modified)
+def findall_patterns(patterns, s0, region=True, n=30, nback=-1, pattern2='', ignoreCase=True):
+    if type(patterns) != list:
+        # prepare for usual call 
+        pattern = patterns
+        s = s0
+    else:
+        # Replace in s all other patterns with the 0th pattern and then call
+        pattern = patterns[0]
+        s = s0
+        for p in patterns[1:]:
+            s = s.replace(p,pattern)
+    return findall(pattern=pattern, s=s, region=region, n=n, nback=nback, pattern2=pattern2, ignoreCase=ignoreCase)    
+
 
 # ****************************************************************************************
 # GLOBAL / API
@@ -217,39 +379,45 @@ def get_hazard_from_names(name, dtype_name):
 # SECTORS
 # ****************************************************************************************
 
-# Get df with Sector full names and short names
+# Get df with Sector long names and short names (id)
+# The long names include true names and nicknames
 def get_sectors_df():
-    sector_list = [
-    'Disaster Risk Reduction and Climate Action',
-    'Shelter and Settlements',
-    'Livelihoods and Basic Needs',
-    'Health', 
-    'Water Sanitation and Hygiene', 
-    'Protection, Gender and Inclusion',
-    'Migration and Displacement', 
-    'Strategies for implementation', 
-    'Education']
 
-    sectors = pd.DataFrame(sector_list, columns=['name'])
-    ids = {'Shelter and Settlements':'Shelter', 
-        'Disaster Risk Reduction and Climate Action':'Disaster', 
-        'Water Sanitation and Hygiene':'WASH',
-        'Livelihoods and Basic Needs':'Live',
-        'Strategies for implementation':'Strategies',
-        'Protection, Gender and Inclusion':'PGI',
-        'Migration and Displacement':'Migration'}
-    sectors['id'] = sectors.name
-    sectors.id = sectors.id.apply(lambda x: ids[x] if x in ids.keys() else x)
+    # Dict: Full sector name -> short name (sector ID)
+    ids =  {'Health':'Health',
+            'Education':'Education',
+            'Shelter and Settlements':'Shelter', 
+            'Disaster Risk Reduction and Climate Action':'Disaster', 
+            'Water Sanitation and Hygiene':'WASH',
+            'Livelihoods and Basic Needs':'Live',
+            'Strategies for implementation':'Strategies',
+            'Protection, Gender and Inclusion':'PGI',
+            'Migration and Displacement':'Migration'}
+    n_true_names = len(ids) # these are true sector names
+
+    # Add names of 'Strategy' sections too, to link them to 'Strategy' Sector
+    for sec in strategy_sections:
+        ids[sec] = 'Strategies'
+
+    sectors = pd.DataFrame(ids.items(), columns=['name','id'])
+    # Only the first rows are true sector names
+    sectors['true name'] = sectors.index < n_true_names
     return sectors
+
+# In case we need a list of all sector names
+def all_sector_names():
+    sectors = get_sectors_df()
+    return sectors[sectors['true name']].name.values
 
 # Get short sector name from a long name
 def shorten_sector(sector_name):
-    if sector_name.lower().startswith('livelihoods'): return 'Live'
-    if sector_name.lower().startswith('water'): return 'WASH'
-    if sector_name.lower().startswith('shelter'): return 'Shelter'
-    if sector_name.lower().startswith('inclusion'): return 'PGI'
-    if sector_name.lower().startswith('protection'): return 'PGI'
-    if sector_name.lower().startswith('disaster'): return 'Disaster'
+    if sector_name.lower().count('livelihoods')>0: return 'Live'
+    if sector_name.lower().count('water')>0: return 'WASH'
+    if sector_name.lower().count('shelter')>0: return 'Shelter'
+    if sector_name.lower().count('inclusion')>0: return 'PGI'
+    if sector_name.lower().count('protection')>0: return 'PGI'
+    if sector_name.lower().count('disaster')>0: return 'Disaster'
+    if sector_name.lower().count('health')>0: return 'Health'
 
     sectors = get_sectors_df()
     if sector_name.strip() in sectors.id.values:
@@ -261,52 +429,118 @@ def shorten_sector(sector_name):
 
 def full_sector_name(sector_name):
     sectors = get_sectors_df()
+    sectors = sectors[sectors['true name']]
     if sector_name.strip() in sectors.id.values:
         return sectors.set_index('id').loc[sector_name.strip(),'name']
     return 'Unknown'
 
-# *****************************************************************************
-# Find sections and auxiliary funstions
+# ***************************************************
+# Find sections and auxiliary functions - for SECTORS
+# ***************************************************
 
-# Text between LB and pattern (usually the Section name)
-def get_text_before_LB(s, pattern):
-    a = s.split(pattern)[0]
-    a = strip_all_empty(a, left=False)
-    a = a.split('\n')[-1]
-    return a
+# Usually section starts by stating number of people reached
+section_markers =  ['\nPeople reached',
+                    '\nPeople targeted',
+                    '\nPopulation reached',
+                    '\nPopulation targeted']
 
-# LB preceded the Section name, possibly with spaces in between
-def is_only_spaces_before_LB(s, pattern):
-    between_LB_and_pattern = s.split('\n')[-1]
-    return between_LB_and_pattern.strip(' ') == ''
+# Later sections that correspond to 'Strategy' Sector
+# may have a lot of different names:
+strategy_sections =['National Society Strengthening',
+                    'National Society Capacity',
+                    'Strengthen National Society',
+                    'Strategies for Implementation',
+                    'International Disaster Response',
+                    'Influence others as leading strategic']                    
 
-# Get a list of (relevant) Section names from PDF text
-def find_sections(txt):
-    # Normal sections, with number of people mentioned
-    patterns = ['\nPeople reached',
-                '\nPopulation reached',
-                '\nPeople targeted']
-    # Find text that precedes that pattern
-    prs = findall_patterns(patterns, txt, region=True, n=50, nback=100)
-    prs = [(pr[0], get_text_before_LB(pr[1], patterns[0])) for pr in prs]
+
+# True if there is no text (except possibly spaces) when searching for LB backwards
+def are_there_only_spaces_before_LB(s):
+    before_LB = s.split('\n')[-1]
+    return before_LB.strip(' ') == ''
+
+# ---------------------------------------------------------------
+# Get a list of section names based on 'classic' section markers
+def find_sections_classic(txt):
+
+    # Find text that precedes classic section_markers
+    prs = findall_patterns(section_markers, txt, region=True, n=0, nback=100)
+
+    # Several markers can come close to each other, 
+    # e.g. 'People reached' & 'People targeted'
+    # Then we should keep only the first one:
+    pp = [pr[0] for pr in prs] # only positions
+    too_close_indices = [i for i in range(1, len(pp)) if pp[i] < pp[i-1] + 100]
+    prs = [pr for i,pr in enumerate(prs) if not i in too_close_indices]
+
+    # Take only the bottom line of the text (search for LB backward)
+    # assuming that the last line before the marker is section name
+    prs = [(pr[0], get_bottom_line(pr[1])) for pr in prs]
+    return prs
+
+# ---------------------------------------------------------------
+# Get a list of 'Strategic" sections
+def find_sections_strategy(txt):
 
     # Later sections that all correspond to 'Strategy' Sector
-    patterns = ['National Society Strengthening',
-                'National Society Capacity',
-                'Strengthen National Society',
-                'Strategies for Implementation',
-                'International Disaster Response',
-                'Influence others as leading strategic']
-    # NB: n=0, i.e. find text only before the pattern
-    prs2 = findall_patterns(patterns, txt, region=True, n=0, nback=100)
+    prs = findall_patterns(strategy_sections, txt, region=True, n=0, nback=100)
 
     # Section Title is always preceeded by linebreak & possibly spaces after it.
     # If not, these are not sections (just plain text), exclude them
-    prs2 = [pr for pr in prs2 if is_only_spaces_before_LB(pr[1], patterns[0])]
-    prs2 = [(pr[0], 'Strategies') for pr in prs2]
+    prs = [pr for pr in prs if are_there_only_spaces_before_LB(pr[1])]
 
-    return prs + prs2
+    # Name them 'Strategies'
+    prs = [(pr[0], 'Strategies') for pr in prs]
+    return prs
 
+# --------------------------------------------------------------
+# Sections for the new template
+def find_sections_new(txt):
+    # find what precedes pattern
+    patterns = ["reached"]
+    prs = findall_patterns(patterns, txt, region=True, n=0, nback=100)
+
+    # keep only if the previous line (or previous word) is 'Persons'
+    prs = [pr for pr in prs if get_bottom_line(pr[1], drop_spaces=True)=='Persons']
+
+    prs_processed = []
+    for pr in prs:
+        # Process string:
+        s = pr[1]
+
+        # drop all text starting from 'Persons' 
+        s = rstrip_from(s,'Persons')
+
+        s = strip_all_empty(s, left=False)
+        s = drop_spaces_between_linebreaks(s)
+
+        # keep what's after multiple linebreaks
+        s = s[s.rfind("\n\n\n"):]
+        # remove linebreaks
+        s = remove_symbols(s, symbols=['\n']).strip(' ')
+
+        # Save string back to tuple:
+        prs_processed.append( (pr[0], s) )
+
+    return prs_processed
+
+# ---------------------------------------------------------------
+# Get a list of all Section names from PDF text
+def find_sections(txt):
+
+    # "Classic" sections, by markers:
+    prs1 = find_sections_classic(txt)
+
+    # "Strategy" sections, by names:
+    prs2 = find_sections_strategy(txt)
+
+    # New-template sections, by markers:
+    prs3 = find_sections_new(txt)
+
+    # Return all combined
+    return prs1 + prs2 + prs3
+
+# ---------------------------------------------------------------
 # Find section to which a given position in the text belongs 
 # (to determine Sector)
 def section_from_position(secs, position):
@@ -318,6 +552,7 @@ def section_from_position(secs, position):
     isec = np.argmin([dist[0] for dist in distances])
     return secs[isec][1]
 
+# ---------------------------------------------------------------
 # Compare True and Parsed sectors and output statistics of how they match
 def assess_match_sector(pp):
     df1 = pp.exs_true
@@ -339,85 +574,6 @@ def assess_match_sector(pp):
     nsec_bad = (mm.DREF_Sector_id != mm.DREF_Sector_id_p).sum()
     return nsec_ok, nsec_bad, mm[['position','Modified Excerpt','DREF_Sector_id','DREF_Sector_id_p','Learning','lead']]
 
-# ****************************************************************************************
-# Finding Text
-# ****************************************************************************************
-
-# Alternative findall can be done using:
-# https://docs.python.org/3/library/re.html
-# http://www.learningaboutelectronics.com/Articles/How-to-search-for-a-case-insensitive-string-in-text-Python.php
-
-# import re
-# re.finditer(pattern, s, flags=re.IGNORECASE)
-#>>> text = "He was carefully disguised but captured quickly by police."
-#>>> for m in re.finditer(r"\w+ly", text):
-#...     print('%02d-%02d: %s' % (m.start(), m.end(), m.group(0)))
-#07-16: carefully
-#40-47: quickly
-
-# ****************************************************
-# Simple case-sensitive version, not used anymore
-def findall0(pattern, s, region=True, n=30, nback=-1, pattern2=''):
-    if nback<0: nback=n
-    ii = []
-    i = s.find(pattern)
-    while i != -1:
-        if region:
-            t = s[i-nback : i+n]
-            if pattern2!='' and t.count(pattern2)>0:
-                t = t.split(pattern2)[0]
-            ii.append((i,t))
-        else:
-            ii.append(i)
-        i = s.find(pattern, i+1)
-    return ii
-
-# ****************************************************
-# Finds all positions of the pattern p in the string s,
-# if region=True also outputs the next n chars (and previous nback chars) 
-# The text output is cut at pattern2
-def findall(pattern, s, region=True, n=30, nback=-1, pattern2='', ignoreCase=True):
-
-    if nback<0: nback=n
-    ii = []
-    if ignoreCase:
-        i = s.lower().find(pattern.lower())
-    else:
-        i = s.find(pattern)
-    while i != -1:
-        if region:
-            t = s[max(0,i-nback) : i+n]   
-            
-            # Stop string at pattern2
-            
-            if pattern2 != '':
-                if ignoreCase: index2 = t.lower().find(pattern2.lower())
-                else:          index2 = t.find(pattern2)
-                if index2 != -1:
-                    t = t[:index2]
-
-            ii.append((i,t))
-        else:
-            ii.append(i)
-        i = s.find(pattern, i+1)
-    return ii    
-
-# **************************************************************************************
-# Wrapper: allows calling findall with a list of patterns 
-# (by replacement, i.e. the string fragments can be modified)
-def findall_patterns(patterns, s0, region=True, n=30, nback=-1, pattern2='', ignoreCase=True):
-    if type(patterns) != list:
-        # prepare for usual call 
-        pattern = patterns
-        s = s0
-    else:
-        # Replace in s all other patterns with the 0th pattern and then call
-        pattern = patterns[0]
-        s = s0
-        for p in patterns[1:]:
-            s = s.replace(p,pattern)
-    return findall(pattern=pattern, s=s, region=region, n=n, nback=nback, pattern2=pattern2, ignoreCase=ignoreCase)    
-
 
 # ****************************************************************************************
 # Split Challenge-section into Challenges
@@ -425,15 +581,18 @@ def findall_patterns(patterns, s0, region=True, n=30, nback=-1, pattern2='', ign
 
 # ****************************************************************************************
 # If smth strange i.e. 'and' just before the separator
-def is_smth_strange(s1, s2):
-    return s1.rstrip(' ').split(' ')[-1] in ['and','the']
-
+def is_smth_strange(s1, s2, min_len = 10):
+    strange_end = s1.rstrip(' ').split(' ')[-1] in ['and','the']
+    too_short = (len(s2) < min_len) 
+    # adding (len(s1) < min_len) breaks down some excerpts in ID015, VU008, not clear why
+    return strange_end or too_short
 
 def is_sentence_end(s, endings=['.', '?', '!']):
     s2 = strip_all_empty(s, left=False)
     if len(s2)==0:
         return False
-    return s2[len(s2)-1] in endings    
+    return s2[len(s2)-1] in endings   
+
 # ****************************************************************************************
 # If the first char is upper-case
 def is_sentence_start(s):
@@ -538,6 +697,10 @@ def split_list_by_separator(chs, seps = ['\n\n','\n \n','\n  \n','\n   \n',
 
 # Skip challenge when it is basically absent
 def skip_ch(ch): 
+    if len(ch)<3:
+        return True
+    if not exist_two_letters_in_a_row(ch):
+        return True
     if strip_all(ch).startswith('None') and (len(ch)<30):
         return True
     if strip_all(ch).startswith('Nothing') and (len(ch)<30):
@@ -555,46 +718,6 @@ def skip_ch(ch):
     if ch.strip(' ').strip('\n').strip('\t').startswith('Not enough reporting') and (len(ch)<105):
         return True
     return False
-
-# ****************************************************************************************
-# Strip string from special symbols and sequences (from beginning & end)
-def strip_all(s, left=True, right=True, symbols=[' ','\n']+all_bullets, 
-              start_sequences = ['.','1.','2.','3.','4.','5.','6.','7.','8.','9.']):
-    for i in range(20):
-        for symb in symbols:
-            if left:  s = s.lstrip(symb)
-            if right: s = s.rstrip(symb)
-            
-        for seq in start_sequences:
-            if s.startswith(seq):
-                s = s[len(seq):]                
-    return s        
-
-# Strip string from spaces and linebreaks
-def strip_all_empty(s, left=True, right=True):
-    return strip_all(s, left=left, right=right, symbols=[' ','\n'], start_sequences = [])       
-
-# Return bullet char if the string starts with a bullet.
-# Otherwise - returns empty string
-def starts_with_bullet(s0, bullets=all_bullets):
-    s = strip_all_empty(s0, right=False)
-    if len(s)==0:
-        return ''
-    if s[0] in bullets:
-        return s[0]
-    else:
-        return ''
-
-# ****************************************************************************************
-def drop_spaces_between_linebreaks(txt):
-    out = txt
-    for i in range(5):
-        out = out.replace('\n \n','\n\n')
-        out = out.replace('\n  \n','\n\n')
-        out = out.replace('\n   \n','\n\n')
-        out = out.replace('\n    \n','\n\n')
-        out = out.replace('\n     \n','\n\n')
-    return out    
 
 # ****************************************************************************************
 # Splits CH (or LL) section into separate CHs, and cleans 
@@ -633,7 +756,8 @@ def stop_at_multiple_LBs(s0, stop='\n\n\n\n\n'):
     s_before = s.split(stop)[0]
     s_after = s.split(stop)[1].split('\n\n')[0]
     NA_challenge = skip_ch(strip_all_empty(s_before))
-    other_section_after = strip_all_empty(s_after).startswith('Strategies for Implementation')
+    other_section_after = strip_all_empty(s_after).startswith('Strategies for Implementation') 
+    #TODO: add other section names e.g. Health, see CU006
     return NA_challenge or other_section_after
 
 # ****************************************************************************************
@@ -783,7 +907,8 @@ def assess_match_all(pp):
     return match
 
 # ******************************************************************
-# Get Parsed CH & LL
+# Get Parsed CH & LL.
+# source = api or disk
 def get_CHLLs(lead='MDRCD028', Learnings=['CH','LL'], PDFextras=Munch(), 
               do_remove_footer=True, source='api', folder=''):
 
@@ -800,16 +925,17 @@ def get_CHLLs(lead='MDRCD028', Learnings=['CH','LL'], PDFextras=Munch(),
     if 'CH' in Learnings: parsed += [(ch[0], ch[1], 'Challenges'    ) for ch in get_CHs_from_text(txt)]
     if 'LL' in Learnings: parsed += [(ch[0], ch[1], 'Lessons Learnt') for ch in get_LLs_from_text(txt)]
 
-    # Add sectors based on sections
+    # Add section names
     secs = find_sections(txt)
     exs_parsed = [(ch[0], ch[1], ch[2], section_from_position(secs, ch[0])) for ch in parsed]
-    exs_parsed = pd.DataFrame(exs_parsed, columns=['position','Modified Excerpt','Learning','DREF_Sector'])
+    exs_parsed = pd.DataFrame(exs_parsed, columns=['position','Modified Excerpt','Learning','section'])
+
     # Convert section name to full and short DREF_sector:
-    exs_parsed['DREF_Sector_id'] = exs_parsed.DREF_Sector.apply   (lambda x: shorten_sector(x))
+    exs_parsed['DREF_Sector_id'] = exs_parsed.section.apply       (lambda x: shorten_sector(x))
     exs_parsed['DREF_Sector']    = exs_parsed.DREF_Sector_id.apply(lambda x: full_sector_name(x))
+    #del exs_parsed['section']
 
     exs_parsed['lead'] = lead
-
     return exs_parsed, parsed
 
 
@@ -896,14 +1022,18 @@ def get_PDF_names_fresh(q):
 # LESSONS LEARNED
 #############################################################################################
 
-# Find where LL section starts. 
-# We use one linebreak as pattern, though in 99% of cases
+# Find where LL section starts, i.e. strip away its title (smth like 'Lessons Learned:\n')
+# We use one linebreak as pattern, to be safe, even though in 99% of cases
 # there is a double-linebreak after 'Lessons Learned'
 def strip_LL_section_start(s, start =  '\nLessons', pattern='\n'):
     tmp = drop_spaces_between_linebreaks(s.lstrip(start))
+    # text between '\nLessons' and first linebreak:
     before_LB = tmp.split(pattern)[0]
-    is_section_start = before_LB.strip(' ').lower() in ['learned', 'learnt']
-    if is_section_start:
+    before_LB_strip = before_LB.strip(' ').strip(':').strip(' ')
+
+    # OK section start means 'learned' or 'learnt' after 'Lessons'
+    is_section_start_ok = before_LB_strip.lower() in ['learned', 'learnt']
+    if is_section_start_ok:
         return tmp.lstrip(before_LB).lstrip(pattern)
     else:
         return ''
@@ -1010,9 +1140,6 @@ def get_header_footer_candidates(filename = "../data/PDF-2020/MDRCD030dfr.pdf"):
     return headers, footers, postheaders    
 
 #***************************************************************
-def is_digit(c):
-    return c >= '0' and c<='9'
-
 # Returns substring preceeding a number
 def before_number(s):
     for i in range(len(s)):
@@ -1055,7 +1182,8 @@ def repeatable_element(footers0, threshold=0.5, numbers=''):
 
 #***************************************************************
 # Footers or headers may include page number. This function figures out whether they do
-# and identifies the most repeatable footer(header) ignoring occasional varying page number
+# and identifies the most repeatable footer(header) ignoring occasional varying page number.
+# Threshold 0.3 means that a text is decided to be a footer if it occurs at the bottom of at least 30% of pages
 def repeatable_element_auto(footers0, threshold=0.3):
     output1 = repeatable_element(footers0=footers0, threshold=threshold, numbers='')
     output2 = repeatable_element(footers0=footers0, threshold=threshold, numbers='stop_before')
@@ -1068,6 +1196,7 @@ def repeatable_element_auto(footers0, threshold=0.3):
 # ***********************************************************
 # Removes footers from the text, replaces them by pbflag.
 # Footers may include nearest symbols up to (or only) linebreaks+spaces
+# TODO add comment???
 def cut_footers(txt, footer, n=300, after='', before=''):
 
     if len(footer)<=1: return txt
@@ -1172,6 +1301,7 @@ def remove_double_pbflag(c):
             splits_new.append(split)
     return pbflag.join(splits_new)  
 
+# TODO: other bulets ???
 def is_same_bullet_type(c1, c2):
     c2 = strip_all_empty(c2, right=False)
     bullet = '• '
@@ -1239,14 +1369,17 @@ def drop_image_caption_one(a, pattern = '(Photo:'):
     return a[:start_caption] +  a[end_caption:]
 
 #*********************************************************************************************
-# Removes a piece of text that presumable is an image caption 
+# Removes a piece of text that presumably is an image caption 
 # because it contains one of 'patterns"
 def drop_image_caption(a, patterns = ['(Photo:', '(Image:', 'Source:'] ):
     for patt in patterns:
         a = drop_image_caption_one(a, pattern = patt)
+    # Do it again, in case there are two captions 
+    for patt in patterns:
+        a = drop_image_caption_one(a, pattern = patt)
     return a
 
-
+# Find a year for a lead, PDF is read from disk
 def leads_year(folder = '../data/PDF/', year='all'):
     drefs0 = pd.read_csv(folder + '/drefs.csv')
     drefs = drefs0[drefs0.lead!='Unknown'].reset_index(drop=True)

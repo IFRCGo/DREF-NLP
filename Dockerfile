@@ -1,4 +1,10 @@
-############## FROM section 
+# *****************************
+# Dockerfile for PARSE+TAG API
+# *****************************
+
+
+# *****************************
+# Install Python & Java
 
 # We need to use both Python & Java, because of tika
 # There exist several methods
@@ -18,7 +24,10 @@ RUN java --version
 # Method 2, using a custom docker that has Python & Java (older versions)
 # FROM rappdw/docker-java-python:openjdk1.8.0_171-python3.6.6
 
-############## Rest of Dockerfile
+
+# *****************************
+# Rest of Dockerfile
+ 
 
 # Should we use pip or pip3?
 # It is not really critical here, but a good practice is to use 'python -m pip'
@@ -27,24 +36,24 @@ RUN java --version
 RUN python -m pip install --upgrade pip
 
 # Create working directory
-WORKDIR /dref_parsing/
+#WORKDIR /app
 
-# Install Python dependencies with pip
-COPY requirements.txt .
+# Install Python dependencies with pip & download a spacy model
+COPY requirements.txt ./
+COPY main.py ./ 
 RUN python -m pip install -r requirements.txt --no-cache-dir --disable-pip-version-check
+RUN python -m spacy download en_core_web_md
 
-# Install my app
-COPY setup.cfg setup.py ./
+# Install two dref packages
 COPY dref_parsing ./dref_parsing
-RUN python -m pip install -e . --no-cache-dir --disable-pip-version-check
+COPY dref_tagging ./dref_tagging
+
+RUN python -m pip install -e ./dref_parsing/ --no-cache-dir --disable-pip-version-check
+RUN python -m pip install -e ./dref_tagging/ --no-cache-dir --disable-pip-version-check
 
 # The EXPOSE line can probably be skipped:
 EXPOSE 8000
-CMD ["uvicorn", "dref_parsing.main:app", "--host", "0.0.0.0", "--port", "8000","--workers", "1"]
-
-# The same, but port 5000 instead of 8000:
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000","--workers", "1"]
 #EXPOSE 5000
 #CMD ["uvicorn", "dref_parsing.main:app", "--host", "0.0.0.0", "--port", "5000","--workers", "1"]
 
-# when main.py was not a part of dref_parsing package:
-# CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000","--workers", "1"]
