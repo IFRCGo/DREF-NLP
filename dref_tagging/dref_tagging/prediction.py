@@ -105,9 +105,6 @@ def predict_tags(
     eval_texts: Union[str, Sequence[str]]
 ) -> Tuple[List[str], List[List[str]]]:
     """
-
-    predict tags for given texts using the IFRC DREF framework
-    
     Given a text or sequence of texts this function automatically
     tags them using the DREF framework. The 
     function uses a trained deep-learning model called docBERT to make 
