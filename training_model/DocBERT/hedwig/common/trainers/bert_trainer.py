@@ -116,6 +116,7 @@ class BertTrainer(object):
             if dev_f1 > self.best_dev_f1:
                 self.unimproved_iters = 0
                 self.best_dev_f1 = dev_f1
+                print(f" Saving model at epoch {epoch} for dev_F1 {dev_f1}")
                 torch.save(self.model, self.snapshot_path)
 
             else:
@@ -124,3 +125,7 @@ class BertTrainer(object):
                     self.early_stop = True
                     tqdm.write("Early Stopping. Epoch: {}, Best Dev F1: {}".format(epoch, self.best_dev_f1))
                     break
+
+        if not os.path.exists(self.snapshot_path):
+            print("F1 has not improved, tho the last epoch is reached. Thus saving the latest model")
+            torch.save(self.model, self.snapshot_path)
