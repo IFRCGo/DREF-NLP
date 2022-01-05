@@ -181,7 +181,16 @@ if __name__ == "__main__":
             model, optimizer, processor, scheduler, tokenizer, args
         )
         trainer.train()
+
+        for iii in range(60): 
+            if os.path.exists(trainer.snapshot_path):
+                break
+            else:
+                print('Waiting for the model file to be saved....')
+                time.sleep(2)        
+
         model = torch.load(trainer.snapshot_path)
+        
 
     else:
         model = BertForSequenceClassification.from_pretrained(

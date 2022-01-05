@@ -147,7 +147,7 @@ dmypy.json
 *.xlsx
 
 # DREF data
-/data
+#/data
 /DREF/data
 *.pt
 
