@@ -38,7 +38,14 @@ class BertTrainer(object):
         self.early_stop = False
 
     def train_epoch(self, train_dataloader):
-        for step, batch in enumerate(tqdm(train_dataloader, desc="Training")):
+
+        for step, batch in enumerate(tqdm(train_dataloader, desc="Training", position=0, leave=True)):
+
+            # tdqm progress bar has issues in Colab: it goes to a newline.
+            # To prevent this, the next line is inserted, and "position=0, leave=True" are used in the loop above.
+            # For more details see https://stackoverflow.com/questions/41707229/tqdm-printing-to-newline 
+            tqdm._instances.clear()
+
             self.model.train()
             batch = tuple(t.to(self.args.device) for t in batch)
             input_ids, input_mask, segment_ids, label_ids = batch
