@@ -182,13 +182,17 @@ if __name__ == "__main__":
         )
         trainer.train()
 
-        for iii in range(60): 
+        # Wait some seconds in case the model to be loaded has not yet neen saved.
+        # This turned out to be not needed
+        for iiiqqq in range(60): 
             if os.path.exists(trainer.snapshot_path):
                 break
             else:
                 print('Waiting for the model file to be saved....')
-                time.sleep(2)        
+                time.sleep(1)        
 
+        # We need to load the model from file beacuse the latest model 'model' might be not the best one,
+        # while the best model is always saved to the file
         model = torch.load(trainer.snapshot_path)
         
 
