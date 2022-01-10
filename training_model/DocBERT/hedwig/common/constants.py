@@ -4,7 +4,7 @@ import os
 BERT_MODELS = ['BERT-Base', 'BERT-Large', 'HBERT-Base', 'HBERT-Large']
 
 # String templates for logging results
-LOG_HEADER = 'Split  Dev/Acc.  Dev/Pr.  Dev/Re.   Dev/F1   Dev/Loss'
+LOG_HEADER = 'Split     Acc.      Pr.      Re.      F1       Loss'
 LOG_TEMPLATE = ' '.join('{:>5s},{:>9.4f},{:>8.4f},{:8.4f},{:8.4f},{:10.4f}'.split(','))
 
 # Path to pretrained model and vocab files
