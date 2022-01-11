@@ -1072,16 +1072,6 @@
         "xml2"
       ]
     },
-    "tinytex": {
-      "Package": "tinytex",
-      "Version": "0.35",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Hash": "1d7220fe46159fb9f5c99a44354a2bff",
-      "Requirements": [
-        "xfun"
-      ]
-    },
     "utf8": {
       "Package": "utf8",
       "Version": "1.2.1",
