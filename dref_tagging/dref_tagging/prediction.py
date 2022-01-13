@@ -123,6 +123,7 @@ def predict_tags(
 
     """
 
+    # If eval_texts is a string, make it a list with one element
     if isinstance(eval_texts, str):
         eval_texts = [eval_texts]
 
@@ -164,6 +165,28 @@ def predict_tags(
 
     return (eval_texts, predicted_tags)
 
+
+
+def analyze_predictions(data_path="training_model/DocBERT/hedwig-data/datasets/DREF/dev.tsv",
+                        model_path="\dref_tagging\dref_tagging\config\DREF_docBERT.pt",
+                        basepath = "../DREF_IFRC/",
+                        limit=-1):
+
+    model = torch.load(basepath+model_path, map_location=device)
+    if n_gpu > 1:
+        model = torch.nn.DataParallel(model)
+    model = model.to(device)
+
+    
+    df = pd.read_csv(basepath+data_path, sep="\t", header=None, names=['tags01','text'])
+    if limit>0:
+        df = df[:limit]
+
+    df['tags'] = df.tags01.apply(lambda x: tags_dict.loc[[bool(int(d)) for d in x]].to_list())
+    df['preds'] = df.text.apply(lambda x: predict_tags_any_length(x)[0])
+    df['match'] = df.tags == df.preds
+
+    return df[['text','tags','preds','match']]
 
 # **************************************************************************
 # **************************************************************************
