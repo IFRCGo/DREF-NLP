@@ -22,10 +22,9 @@ class BertEvaluator(object):
         self.processor = processor
         self.tokenizer = tokenizer
 
-        if split == 'test':
-            self.eval_examples = self.processor.get_test_examples(args.data_dir)
-        else:
-            self.eval_examples = self.processor.get_dev_examples(args.data_dir)
+        if split == 'dev':   self.eval_examples = self.processor.get_dev_examples(args.data_dir)
+        if split == 'test':  self.eval_examples = self.processor.get_test_examples(args.data_dir)
+        if split == 'train': self.eval_examples = self.processor.get_train_examples(args.data_dir)
 
     def get_scores(self, silent=False):
         if self.args.is_hierarchical:
@@ -93,4 +92,4 @@ class BertEvaluator(object):
         f1 = metrics.f1_score(target_labels, predicted_labels, average='micro')
         avg_loss = total_loss / nb_eval_steps
 
-        return [accuracy, precision, recall, f1, avg_loss], ['accuracy', 'precision', 'recall', 'f1', 'avg_loss']
+        return [accuracy, precision, recall, f1, avg_loss], ['accuracy', 'precision', 'recall', 'f1', 'avg_loss'], predicted_labels, target_labels
