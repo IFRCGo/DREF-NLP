@@ -144,7 +144,7 @@ dmypy.json
 *.svg
 *.qml
 *.xml
-*.xlsx
+#*.xlsx
 
 # DREF data
 #/data
