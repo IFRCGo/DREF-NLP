@@ -23,7 +23,7 @@ class Trainer(object):
         self.dev_evaluator = dev_evaluator
 
     def evaluate(self, evaluator, dataset_name):
-        scores, metric_names = evaluator.get_scores()
+        scores, metric_names = evaluator.get_scores()[:2]
         if self.logger is not None:
             self.logger.info('Evaluation metrics for {}:'.format(dataset_name))
             self.logger.info('\t'.join([' '] + metric_names))

@@ -25,12 +25,20 @@ from datasets.bert_processors.sst_processor import SST2Processor
 from datasets.bert_processors.yelp2014_processor import Yelp2014Processor
 from models.bert.args import get_args
 
-def evaluate_split(model, processor, tokenizer, args, split='dev'):
+def evaluate_split(model, processor, tokenizer, args, split='dev', verbose=0):
     evaluator = BertEvaluator(model, processor, tokenizer, args, split)
-    accuracy, precision, recall, f1, avg_loss = evaluator.get_scores(silent=True)[0]
-    print('\n' + LOG_HEADER)
+    output = evaluator.get_scores(silent=True) 
+    accuracy, precision, recall, f1, avg_loss = output[0]
+    preds = list(output[2])
+    truth = list(output[3])
+    print('\n' + LOG_HEADER + f"   ({len(preds)} data items)")
     print(LOG_TEMPLATE.format(split.upper(), accuracy, precision, recall, f1, avg_loss))
 
+    # For debugging:
+    if verbose>0:
+        for pr, tr in zip(preds[:verbose],truth[:verbose]):
+            print(np.argmax(pr),'  ',np.argmax(tr))
+    
 if __name__ == "__main__":
     # Set default configuration in args.py
     args = get_args()
@@ -197,6 +205,7 @@ if __name__ == "__main__":
         
 
     else:
+        # a trained model is provided, no training is needed
         model = BertForSequenceClassification.from_pretrained(
             args.model, num_labels=args.num_labels
         )
@@ -210,5 +219,6 @@ if __name__ == "__main__":
         model.load_state_dict(state)
         model = model.to(device)
 
+    evaluate_split(model, processor, tokenizer, args, split="train")
     evaluate_split(model, processor, tokenizer, args, split="dev")
     evaluate_split(model, processor, tokenizer, args, split="test")
