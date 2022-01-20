@@ -18,3 +18,4 @@ torchtext==0.10.0
 transformers==4.9.2
 uvicorn
 fuzzywuzzy
+pyarrow

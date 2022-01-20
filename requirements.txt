@@ -107,6 +107,7 @@ numpy==1.21.2
     #   -r dref_parsing/requirements.in
     #   blis
     #   pandas
+    #   pyarrow
     #   spacy
     #   thinc
     #   torchtext
@@ -128,6 +129,8 @@ preshed==3.0.5
     # via
     #   spacy
     #   thinc
+pyarrow==6.0.1
+    # via -r dref_tagging/requirements.in
 pycparser==2.20
     # via cffi
 pydantic==1.8.2

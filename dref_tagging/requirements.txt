@@ -96,6 +96,7 @@ numpy==1.21.2
     # via
     #   blis
     #   pandas
+    #   pyarrow
     #   spacy
     #   thinc
     #   torchtext
@@ -113,6 +114,8 @@ preshed==3.0.5
     # via
     #   spacy
     #   thinc
+pyarrow==6.0.1
+    # via -r requirements.in
 pydantic==1.8.2
     # via
     #   fastapi
