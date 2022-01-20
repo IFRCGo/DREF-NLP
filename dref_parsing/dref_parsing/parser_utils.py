@@ -10,6 +10,7 @@ import dateutil.parser
 from munch import Munch
 
 import tika.parser
+import pdfminer.high_level
 from pdfminer.high_level import extract_pages
 from pdfminer.layout import LTTextContainer, LTImage, LTFigure, LTTextBox, LTTextBoxHorizontal
 
@@ -205,9 +206,25 @@ def download_pdf(url, filename=''):
             handler.write(pdf_data)
     return pdf_data
 
-# filter only relevant DREF reports
-def filter_DREF_Final_Reports(df, names=['DREF Operation Final Report','DREF Final Report']):
-    return df[df.name.apply(lambda x: x in names)].copy().reset_index(drop=True)
+# Possible names for DREF Final Operation Reports.
+# Unfortunately the names may vary
+DREF_Final_Report_names = [
+'DREF Operation Final Report',
+'DREF Final Report',
+'DREF Operation Final Report 1']
+# Filter only relevant DREF reports. Ignore case. 
+def filter_DREF_Final_Reports(df, names=DREF_Final_Report_names):
+    names_lower = [name.lower() for name in names]
+    return df[df.name.apply(lambda x: x.lower() in names_lower)].copy().reset_index(drop=True)
+# TODO: Should we include more names here?
+# E.g. there are around 500 PDF documents with title "Final Report".
+# Are they DREF Final reports where the word 'DREF' was forgotten, or
+# a different type of reports? NextBridge cannot possibly know.
+# The latest example of such a report is MDRBD024, in Nov-2021
+# https://adore.ifrc.org/Download.aspx?FileId=469368
+# Other possible name variations include:
+# Preliminary DREF Operation Final Report, Final Report 1, DREF Operation Final etc
+
 
 # get all API results as a df
 def download_api_results(call='appeal'):
@@ -815,16 +832,18 @@ def get_PDFfilename_from_lead(lead, folder=''):
     return filenames[0]
 
 # get PDF text from lead (from disk or from API) 
-def get_PDFtext_from_lead(lead, source='disk', folder=''):
+def get_PDFtext_from_lead(lead, source='disk', folder='', method='tika'):
+
     if source=='disk':
         filename = get_PDFfilename_from_lead(lead, folder=folder)
-        txt = tika.parser.from_file(filename)['content'] 
 
-        # NB: there exists another package that extracts text, see code below.
-        # The output looks very similar. I didn't really investigated
-        # which package is better
-        # import pdfminer.high_level.extract_text
-        # txt = pdfminer.high_level.extract_text(filename)        
+        # Two methods to extract text, they give very similar results.
+        # TODO: check which method is better
+        if method == 'tika':
+            txt = tika.parser.from_file(filename)['content'] 
+        else:
+            txt = pdfminer.high_level.extract_text(filename)        
+
     else:
         # source = 'api'.
         # can choose between 2 options:
