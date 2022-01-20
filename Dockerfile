@@ -57,3 +57,8 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000","--workers", "
 #EXPOSE 5000
 #CMD ["uvicorn", "dref_parsing.main:app", "--host", "0.0.0.0", "--port", "5000","--workers", "1"]
 
+# NB, in case of the following error during docker build:
+# "failed to solve with frontend dockerfile.v0: failed to create LLB definition: failed to authorize: rpc error: 
+# run this before build command
+# export DOCKER_BUILDKIT=0
+# export COMPOSE_DOCKER_CLI_BUILD=0
