@@ -1,0 +1,42 @@
+,Category1,Category
+0,dimension,"RCRC Auxiliary role, mandate and law"
+1,dimension,Disaster Risk Management (DRM) Strategy
+2,dimension,Disaster Risk Management (DRM) Policy
+3,dimension,"Disaster Risk Management Laws, Advocacy and Dissemination"
+4,dimension,Quality and Accountability
+5,dimension,Business Continuity
+6,dimension,Emergency Response Procedures (SOPs)
+7,dimension,Response and Recovery Planning
+8,dimension,Pre-disaster Meetings and Agreements
+9,dimension,"Hazard, Context and Risk Analysis, Monitoring and Early Warning"
+10,dimension,Scenario planning
+11,dimension,Risk Management
+12,dimension,Preparedness Plans and Budgets
+13,dimension,National Society Specific Areas of intervention
+14,dimension,Mapping of NS capacities
+15,dimension,Early Action Mechanism
+16,dimension,Cash based intervention
+17,dimension,Emergency Needs Assessment and Planning
+18,dimension,Affected Population Selection
+19,dimension,Emergency Operations Centre
+20,dimension,Information Management
+21,dimension,Testing and Learning
+22,dimension,Activation of Regional and International Support
+23,dimension,Coordination with Movement
+24,dimension,Coordination with Authorities
+25,dimension,Coordination with External Agencies and NGOs
+26,dimension,Civil Military Relations
+27,dimension,Coordination with Local Community Responders
+28,dimension,Coordination with Private Sector
+29,dimension,Safety and Security Management
+30,dimension,"Operations Monitoring, Evaluation, Reporting and Learning"
+31,dimension,Finance and Admin. Policy and Emergency Procedures
+32,dimension,Information and Communication Technology (ICT)
+33,dimension,Logistics Management
+34,dimension,Supply Chain Management
+35,dimension,Procurement
+36,dimension,Fleet and Transportation Management
+37,dimension,Warehouse and Stock Management
+38,dimension,Staff and Volunteer Management
+39,dimension,Communication in emergencies
+40,dimension,Resource Mobilisation
