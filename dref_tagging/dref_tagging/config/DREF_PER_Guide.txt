@@ -1,0 +1,332 @@
+﻿      International Federation of Red Cross and Red Crescent Societies 
+DREF Operational Learning initiative 
+Categorisation of Operational Learning Guide
+Introduction
+As a flagship tool of the Red Cross and Red Crescent Movement, the Disaster Relief Emergency Fund (DREF) has, for decades, supported National Societies to have access to the necessary resources to carry out emergency response interventions and provide lifesaving services to the affected population after a small or medium scale disaster. To ensure that funds are allocated in an adequate manner the DREF Guidelines are there to help the National Society and the Regional Office to asses if what is proposed meets the eligibility criteria and provide guidance on what can and cannot be done, and how. 
+The DREF is a flexible funding source for emergency, which can provide financial support rapidly when a disaster exceeds the National Societies´ response capacities. The DREF provides funding to National Societies in the following situations:
+i. start-up funding loans to allow immediate response to major disasters;
+ii. grants to cover the costs of mobilisation of resources and preparation for emergency response in the case of imminent crisis and to cover the costs of smaller-scale relief operations. 
+The DREF finances the provision of short-term relief which aims to preserve life and to substitute for the loss of means of basic subsistence of people affected.
+From 2011 to 2018, the DREF have supported with grants an average of 88 annually operations worldwide, providing National Societies with the opportunity to support those affected by small disasters and crises. When provided with a grant, National Societies are required to provide with a narrative and financial report of the operation, highlighting the achievements in implementing the response.
+Since 2013 in order to foster learnings from not only big scale emergencies but also small and medium scale emergencies, DREF funded operations started institutionalising the DREF Lessons Learnt workshop to discuss with the NSs what has worked well, what were the challenges and what are the recommendations for the next operations. Typically, after this workshop a NS publishes the DREF final report for the DREF operation. As of now these reports are stored on the ifrc.org and not being utilised systematically by NSs nor IFRC offices. 
+Purpose of this guide
+The main purpose of this initiative is to systematise the collection and use of the valuable lessons learnt, and challenges faced by the NSs during DREF operations. It hopes to contribute to institutionalisation of a learning culture within emergency operations to better respond to disaster and crisis. The initiative will do this by using the Preparedness for Effective Response mechanism (i.e. 37 components) to accomplish additional objectives of:
+• NSs can have systematised and consolidated data on DREF operations over time
+• Support planning of new operations by NSs based upon previous experiences on emergency responses
+• Increasing technical staff and functional departments access and use of the findings from the final DREF reports. This will allow them to better understand the NS to cater technical support based on evidence to strengthen the overall operations
+• Evidence-based systematised learning from DREF funded emergency operations can encourage NSs on peer to peer learning
+• Aligning the DREF operations learnings with the PER mechanism will ensure the continuum of investing into NS preparedness, as the recommendations and learnings from the operations are closely related to improving NS response preparedness elements, and can be incorporated into future operational planning
+About PER/NDPRM
+For most NS, responding to emergencies is a key service that they provide in-country, and in line with their auxiliary role and mandate. As such preparedness activities for NSs are routine. To strengthen these preparedness actions, the IFRC has continuously prioritised NS preparedness1 and developed guidelines and tools to systematise and consolidate preparedness actions, more recently mainstreaming a common NS Preparedness approach. At the core of these preparedness initiatives is the NS preparedness and response mechanism, which has been evolving over time, a diagram below demonstrates the evolution of this mechanism. 
+
+The Preparedness for Effective Response (PER) is a harmonised and revised IFRC NS Preparedness approach that is being utilised among the Partners, NSs and IFRC Secretariat for NSs to be better prepared and provide effective emergency services in times of disaster and crisis. It attempts to ensure that Movement stakeholders have a common understanding and coordinated approach when they invest on NS response capacity. The PER brings together existing institutional disaster preparedness tools and is well-aligned with other Movement initiatives. The PER is not new, in fact, it is built on two decades of learnings from Well-Prepared National Societies (WPNS) and Disaster Response Capacity Enhancement (DRCE) tools. The foundation of the PER is National Disaster Preparedness and Response Mechanism’s (NDPRM) components.
+The NDPRM (2010) guideline presents a set of practical guidelines that are designed to support NSs in developing the preparedness for response processes, systems and teams. By following the guideline NSs will be able to improve their capacity in disaster preparedness and response; to ensure that their work meet global standards on disaster preparedness and response; and to coordinate their approaches with other NSs and organisations. The key considerations in the guideline are that it:
+• explains how to develop the political will within National Society to set up the mechanism. 
+• sets out the tasks involved in ensuring that conditions are ready to establish the mechanism. 
+• outlines the key steps in implementing the mechanism.
+
+The National Disaster Preparedness and Response mechanism currently encompasses thirty-seven components organised across five interrelated areas of (1) Policy, Strategy and Standards, (2) Analysis and Planning, (3) Operational Capacity, (4) Coordination and (5) Operations Support.
+
+
+Use of this guide
+This guide helps to categorise learnings captured in the DREF operations final report within the PER mechanism as a frame. Progress of response operations funded by DREF are usually captured by “output” within Area of Focus (AoF) which includes the activities, or within Strategies for Implementation (SFI) which includes general activities not directly related to a specific area. During the development of the report, for every output, National Societies are expected to write about:
+• Achievements related to the implementation of the planned activities.
+• Challenges and gaps with the implementation of the response
+• Lesson learned coming from implementing the response
+• Develop capacities based on gap analysis 
+Every challenge and lesson will be categorised according to the its AoF or SFI provided by the report and based according to the NDPRM/PER Mechanism component, to ensure a more detailed analysis of the learning coming from the operation. 
+This document provides the necessary guidance to be able to categorise challenges and learnings using the components of the NDPRM. The guide highlights the 5 areas of the mechanism, and their respective components. For each component, the following information is provided to help with categorization of findings:
+• Definition: a short explanation of the component and its relationship with the response operation.
+• Examples: examples of tagging of real challenges and learnings that fall under that component.
+• Considerations: key points to guide the identification of challenges and learnings falling under the component.
+For those involved in categorising operational learning, it is recommended to read this guide first to familiarise with the NDPRM/PER mechanism and the relationship of the components to the response. It is also recommended to use the 1 pager of NDPRM components as a reference to keep in mind of the possible components when tagging a final report. This guide can then be used as a reference to verify during the categorisation. 
+
+
+Guidance for the categorisation of operational learning
+Policy, Strategy and Standards
+Component 1: RCRC Auxiliary role, mandate and lawDefinition: A constitutional reference to the role of the NS in responding to disasters and crises, which may be legislated or included/recognised in the National Response System.Some examples of tagging
+- Challenge: The NS requested this DREF to respond to epidemics, which is not established as part of our mandate and therefore, little capacity had been developed among ours staff and volunteers to deal with this type of emergency.
+- Lesson:  It is clear that there is a need for more awareness to the X Government to clarify the X NS Role as an Auxiliary to the Government.Considerations:
+- Lessons learnt and challenges for the operations related to NS mandate, its role within national response and unclear role of staff and volunteers to provide services in this area/context
+- NS facing challenges during operations due to ambiguity or non-existing legal act establishing NS as auxiliaries to the government, different to other NGOs
+Component 2: Disaster Risk Management (DRM) StrategyDefinition: An outline of the overall goal in disaster risk management that the NS seeks to achieve within a certain timeframe, which may define the target proportion of affected populations that will be reached and define areas/sectors where a NS responds.Some examples of tagging
+- Challenge: There was not enough clarity on the roles of the different departments during the response, the NS needs to develop a strategy with clear roles to ensure a more effective response.
+- Lesson: There is need for DRM activities to focus on strengthening existing shelters to be resilient for future similar disastersConsiderations:
+- Potential operational learnings that highlight the need for a clear DRM strategy to guide a NS on disasters and crises
+- NSs that are responding often to certain disaster types, would mean there is a recommendation of a NS to improve and solidify their intention in this area of work, and have a long-term strategy for such disaster/crisis 
+Component 3: Disaster Risk Management (DRM) PolicyDefinition: Reflects the NS disaster risk management mission in line with RCRC principles and mandate. The NS DRM policy acknowledges other relevant NS policies and aligns with the government policies on disaster management.Some examples of tagging
+- Challenge: NS had difficulties in coordinating with other actors on the ground when responding to epidemics as the national DM policy does not mandate the RC to respond to human epidemics, NSs in the past years have been investing a lot within epidemics preparedness
+- Lesson: NS need to revisit the NS DM policy as cash was not reflected in the wider DM policy and NS in the future operations will be doing Cash Transfer Programming.   Considerations:
+- Challenges and lessons learnt referring to the NS disaster management policy which impacts on the emergency services that NS is providing
+- Challenges that NS may encounter with the conflicting NS DM policies and national DM policies
+- DM policies may impact on the decision-making of NSs in times of disasters and crises as to what to respond, what to prioritise and how to work with other stakeholders
+- The impact of unclarity in terms of NS DM missions on NS response
+Component 4: Disaster Risk Management Laws, Advocacy and DisseminationDefinition: Supports NSs operations in terms of legal facilities (i.e. special entitlements and exemptions including customs clearance and duties, transport permission, visas and others)Some examples of tagging
+- Challenge: NS did not have an expedited visa for RCRC personnel, therefore, the deployment of the RDRT was delayed by a month 
+- Lesson: After the issues with the visa, as well as lack of agreements for expedited customs clearance the NS will be developing IDRL training and awareness to address these issues.Considerations:
+- Restrictions and delays in customs clearance for relief goods and equipment
+- Imposition of duties, tolls and other taxes on relief items and activities
+- Difficulties and delays in obtaining and renewing necessary visas and permits for humanitarian personnel
+- Problems obtaining legal recognition of foreign professional qualifications for specialised personnel (particularly medical staff)
+- Difficulties in legal registration for foreign humanitarian organisations, leading to restrictions in opening bank accounts and hiring local staff
+- Importation of unnecessary or inappropriate relief items
+Component 5: Quality and AccountabilityDefinition: This component describes essential elements of principled, accountable and high-quality humanitarian operation. Some examples of tagging
+- Challenge: Post-distribution survey stated that NFIs distributed was no longer needed, at the time school materials were more necessary than blankets.
+- Lesson: NS needs to strengthen its community engagement and accountability to ensure that the beneficiaries are involved at every stage of the operation, from planning to implementation and reporting
+- Lesson: There is a need to develop better feedback and accountability systems hence, it is recommended that NS would need to get training to improve on Community engagement and accountability.Considerations:
+- Community engagement and accountability
+- Do no harm
+- Code of Conduct for the RCRC Movement
+- Accountability to affected populations and disability considerations
+Analysis and Planning
+Component 6: Hazard, Context and Risk Analysis, Monitoring and Early WarningDefinition: Describes how the NS monitors and maps past, present and potential hazards, disasters and crises and systematically evaluates the damage that could be caused by a potential disaster/crisis and possible challenges during a response operation that is related to hazard, context and risk analysis.Some examples of tagging
+- Challenge: Lack of access due to severely damaged roads delayed the assessment as the branches did not have the necessary equipment and transport to reach the affected population
+- Lesson: For future operations the NS needs to consider setting the Early Warning Systems in place to ensure timely evacuationConsiderations:
+- The impact of gaps, barriers, risks and challenges identified to NS acceptance, security and access during response operations
+- Challenges and lessons learned related to the establishment, management or lack of early warning systems
+Component 7: Scenario planning Definition: A set of practical operation plans that closely mirror the generic disaster or crisis response plan but are tailored to a specific hazard type and a specific scenario.Some examples of tagging
+- Challenge: Initially the harsh weather conditions (temperatures ranged from -20 to -30°C) meant that it was challenging for volunteers to reach some communities 
+- Lesson: It is apparent that colder winters and the spread of season influenza is likely to remain a threat, so the NS will be increasingly aware of making contingency plans for future outbreaks prior to the winter seasonConsiderations:
+- NSs using/not using analysis of humanitarian scenarios for high-risk areas in the country
+- Usage or lessons learnt related to contingency plans
+- Appropriate trigger mechanisms of contingency plans that may impact on the emergency operation
+Component 8: Risk ManagementDefinition: A mapping of the potential organisational, financial and reputational risks along with the related mitigation measures.Some examples of tagging
+- Challenge: Misinformation on social media that NS had prepositioned body bags elicited some degree of mistrust from the community.
+- Lesson: Due to reputational risks faced during the operation, NS will assign a risk management function to a trained staffConsiderations:
+- Overall accountability of risk management during the operation
+- Identified challenges that are related to reputational and organisational risks
+- Operational challenges related to fraud and corruption issues
+- Lessons learnt that reinforces acceptance, reputational and integrity risk management
+Component 9: Preparedness Plans and BudgetsDefinition: Operational challenges and recommendations related to plans identifying organisational resources, determining roles and responsibilities, and developing policies, procedures and activities to reach a level of preparedness and budgets that ensure that the necessary financial support is secured.Some examples of tagging
+- Challenge: Not having emergency resources/funds to provide immediate response also delayed the initial implementation.
+- Lesson: NS should review disaster response capacity at various levels to ensure adequate resources are in place in order to not compromise the HQs capacity when there is more than one emergency operation at the same time. Considerations:
+- Remedial actions for preparedness gaps that are recommended from the operations
+- Identified financial gaps for preparedness and early actions from response
+- Need for updating preparedness actions after a disaster/crisis
+- Policies and procedures to allocate emergency or development budgets for preparedness capacity strengthening
+Component 10: Business ContinuityDefinition: A strategy to counter any potential or anticipated obstacles to effective functioning of the NS, with an eye to ensuring that personnel and assets are protected and able to function in the event of a disaster/crisis.Some examples of tagging
+- Challenge: During the flood response, branch officers could not follow up with the implementation of the X project, this was not properly communicated to the donor. 
+- Lesson: For future response, the NS needs to ensure that a plan b to set up the EOC in case of HQ being affected by the emergency. Considerations:
+- Challenges and impact to implementation of other initiatives due to the response.
+- Challenges of best practices related to the implementation of contingency measures in case of the NS infrastructure or systems being impacted by the disaster.
+- Lessons related to NS procedures to communicate to donors to repurpose funds for unexpected/ emerging needs.
+Component 11: Emergency Response Procedures (SOPs)Definition: Written guidelines that describe duties of personnel, command structures, coordination with other organisations and reporting requirements. SOPs also include organigrams, decision-making flow charts and clearly defined roles and responsibilities.Some examples of tagging
+- Challenge: Existing emergency SOP for Cash distribution was not realistic to NS context which had a negative impact on the operation.
+- Lesson: Consistency in the utilisation of NS SOPs such as 24 hours and 72 hours emergency assessment and response analysis guidelines ensured standardisation of practice thereby ensuring accurate information was collected and analysed right from the beginning.Considerations:
+- Challenges and lessons learnt related to SOPs for areas of intervention and support services to respond to disasters and crises
+- The emergency response can be affected by unclear roles and responsibilities, decision making flowcharts at different levels
+Component 12: Response and Recovery PlanningDefinition: A set of documented procedures for the disasters and crises response, and recovery process (includes types of activities and services provided by NS, activation of response mechanism, mapping of NS capacities, use of local capacities, transition to recovery, budgeting and accessing the funds).Some examples of tagging
+- Challenge:  NS faced a delay in receiving assistance as there was no donation protocols developed.
+- Lesson: Update the existing NS response plan with response and recovery actions of other actors in-country. Considerations:
+- Operational challenges and lessons learnt related to NS response plan for rapid deployment and efficient use of human and material resources, as well as the quality of the response plan which should be multi-sectorial, adhering to Principles and Rules of RCRC Humanitarian Assistance, aligned with IFRC EPoA template
+Component 13: Pre-disaster Meetings and AgreementsDefinition: Describes NS arranged meetings and agreements with Movement partners and other stakeholders to identify, plan for and address any gaps for an upcoming disaster or crisis. Some examples of tagging
+- Challenge: -Our main supplier was involved in a controversial dispute last month; the NS had a challenging time to end this partnership as the contract did not have a clause of breach of code of conduct may result in the termination of the partnership.
+- Lesson: NS will identify regional construction material suppliers and make them aware of the different procurement processes in advance.Considerations:
+- Challenges related to operationalisation of the pre-disaster agreements
+- Unfamiliarity of NS staff with existing agreements with different suppliers of goods and services
+- Lessons learnt about the need for establishing pre-disaster meetings with Movement stakeholders and other external actors
+- Coordination and management arrangements with relevant local and national stakeholders that need to be formalised
+- Formalised agreements with money transfer providers with an agreed mechanism for activation
+- Agreements with existing social protection systems to facilitate access to pre-existing databases of vulnerable populations
+- Recommendations from the operations to have an up-to-date mapping of Movement partners
+
+
+Operational Capacity
+Component 14: National Society Specific Areas of interventionDefinition: Sector-specific or services provided by the NS during emergencies, it is in line with the NS mandate and legislation in country.Some examples of tagging
+Challenge: Full shelter needs were not met for houses with damaged roofs. There were roofs for latrines, but not houses.
+Lesson Learned: Door-to-door distribution proved to be a good way to interact with the affected people. Personal distribution allows volunteers and staff to have discussion with the beneficiaries, establish contact, disseminate information and provide PSS as neededConsiderations:
+- Challenges related directly with technical difficulties to deliver the services
+- Good practices identified to further strengthen the delivery of the specific service
+Component 15: Mapping of NS capacitiesDefinition: A list of the NS capacities including HR (staff, response teams and volunteers) and equipment that are available for disaster/crisis response.Some examples of tagging
+Challenge: There was a shortage of volunteers to support the management of the opened shelters
+Lesson: One lesson is the importance of having enough water treatment pills in stock for immediate responseConsiderations:
+- Challenges related to the insufficient availability of human resources (staff, volunteers, responders) and equipment that leading to a negative impact in the response operation
+- Lessons learned on the use of NS existing resources
+- Lessons on the need to develop further capacities in specific areas to improve the response
+Component 16: Early Action MechanismDefinition: Based on warnings, anticipatory actions to help reduce the impact of specific disaster or crisis events. They focus on consolidating available forecasting information and putting procedures in place to ensure that a NS can act ahead of any disaster/crisis.Some examples of tagging
+Challenge: No system was in place to evacuate people before the floods, and evacuation was done by volunteers once the floods had started which difficulted the tasks.
+Lesson: There is the need to work with communities to create a system so they can be evacuated sooner.Considerations:
+- Any challenge related to the lack of systems for early action which translated into a negative impact to the operation.
+- Any challenge in the implementation of early actions.
+- Any learning point related to the use or need of early action mechanisms.
+Component 17: Cash based interventionDefinition: An effective and flexible way, including all forms of cash and voucher-based assistance, to support people affected by emergencies, maintaining their dignity and choice, while fostering local economies.Some examples of tagging
+Challenge: The distribution of unconditional cash was delayed due to problems with the bank for the top up of the prepaid cards.
+Lesson Learned: Further development of cash transfer programming within the organisation could also be an asset.Considerations:
+- Challenges with the implementation of any form of cash and voucher assistance
+- Lessons related to the implementation of cash by the National Society
+- Lessons about the need to consider cash as a form of assistance for future operations
+Component 18: Emergency Needs Assessment and PlanningDefinition: Assess the extent and impact of the damage caused by the disaster/crisis and the degree of vulnerability of the affected population. The first step in any emergency response, such an assessment will identify the needs that require external intervention and the gaps to be filled.Some examples of tagging
+Challenge: The assessment was conducted two months after the emergency; by this time, the flood water had already receded and some of the affected household had already returned to their respective locations.
+Lesson: There is a need to exchange of best practices between the district branches to provide the best quality of needs assessment of the affected population.Considerations:
+- Challenges in carrying out timely assessment of the needs
+- Challenges with the information from the assessments
+- Challenges with actions in the operation strategy due to errors in the assessment
+- Identified best practices to conduct needs assessments. (e.g. disaggregation of data by gender, age and others.)
+- Lessons about identifying or improving tools, templates and methodologies for emergency needs assessment
+Component 19: Affected Population Selection Definition: Identification and selection of target Affected population for interventions, using a pre-defined set of criteria based on need and vulnerability.Some examples of tagging
+Challenge: Different sizes of families made it difficult to give a preliminary estimate of the number of affected people. 
+Lesson: In future operations, RC will ask possible beneficiaries about their insurance backgrounds at an earlier stage, to avoid eligibility issues that emerged during this operation. Considerations:
+- Challenges in prioritising/targeting the right population to assist
+- Best practices (e.g. sex age disaggregated, disability, culture and diversity reflected data) for selection of affected population
+- Clarity on communicating with affected population the selection criteria
+Component 20: Emergency Operations Centre Definition: A central command and control facility responsible for carrying out disaster/crisis management functions at a strategic level in an emergency situation. The common functions are to collect and analyse data; facilitate decision making that protects life and livelihoods; and disseminate those decisions to all concerned agencies and individuals.Some examples of tagging
+Challenge: The HQ EOC had difficulties to send timely communication about decisions made to NDRT in the field.
+Lesson: There is a need for more cleared definition of roles and responsibilities within the EOC.
+at an earlier stage, to avoid eligibility issues that emerged during this operation. Considerations:
+- Challenges in the management of the operation through the EOC system.
+- Challenges and lessons learnt in terms of information flow between EOC and field responders
+- Challenges with roles and responsibilities within the EOC
+Component 21: Information Management Definition: Ability to manage information including requesting, receiving, analysing and disseminating as per its procedures and partner requirements (IFRC and public authorities in particular). There should be a clear digital/paper trail that documents what, when and how the NS has acted and provides key information for the development of Emergency Plan of Actions.Some examples of tagging
+Challenge: During the planning, the information coming from the field in the assessment form took three days to be systematised, which delayed the implementation due to not having final numbers.
+Lesson: Adopting the use of effective mobile data tools for beneficiary registration is effective and fast and reduces time taken to have clear and clean data of beneficiaries of a response.Considerations:
+- Challenges in the use of tools of procedures for the collection, aggregation and/or systematisation of data related to the emergency
+- Challenges in the quality of information affecting decision making
+- Identification of needs for Information Management systems and/or procedures
+Component 22: Testing and Learning Definition: Drills and Simulations allow the organization to test, identify and learn from the results of these type of exercises and incorporate learning into future preparedness and response planningSome examples of tagging
+Challenges: 
+Lesson Learned: Teams need to be further tested to ensure they can provide quality health servicesConsiderations:
+- Needs identified to increase the technical capacity of the NS through the use of simulation and drills exercises
+Component 23: Activation of Regional and International SupportDefinition: Procedures for requesting and accepting regional and international support in operations, including triggering coordination mechanisms for funding, materials and Rapid Response Personnel. Some examples of tagging
+Challenges: The DREF proposal was made on time, but it took over a month to get funds in country.
+Lesson Learned: It´s necessary to define roles in the NS for a faster request of DREF fundsConsiderations:
+- Challenges for the request or use of DREF allocations
+- Challenges due to the delay in the disbursement of DREF funds
+- Challenges related to the deployment of Rapid Response Personnel (e.g. RDRT)
+- Learnings and best practices in the used of international tools (DREF, Emergency Appeals, Rapid Response Personnel)
+
+
+Coordination
+Component 24: Coordination with MovementDefinition: Mechanisms that facilitate the coordination with ICRC, IFRC and PNSs during response.Some examples of tagging
+- Challenge: ICRC was not informed in time about the operation, creating a delay for the support to deliver RFL services
+- Lesson: The need for information sharing among NSs in preparation and response to epidemics highlighted as priorityConsiderations:
+- Any lessons learnt and challenges that is related to in country coordination mechanisms with movement partners to share information on needs assessment, plans of actions, emerging gaps in resources and operational capacities
+- NS exchanges of information with neighbouring NSs
+- NSs’ framework on receiving, coordinating, accounting and reporting on assistance received in collaboration with IFRC (when international assistance is accepted by NS)
+Component 25: Coordination with AuthoritiesDefinition: Mechanism that facilitates coordination and cooperation with local and national authorities in line with the NS auxiliary role for humanitarian assistance.Some examples of tagging
+- Challenge: To receive data from the health facilities has been challenging but eventually streamlined the process through discussion with Ministry of Public Health at HQ level leading to a quicker sharing of information on numbers reached
+- Lesson: Strong NS involvement in the national disaster coordination meetings ensured effective coordination and synergy in response.Considerations:
+- NS capacity as part of the national humanitarian coordination system and its impact to the operation
+- NS information sharing with national disaster management actors on RCRC Movement actions and capacities in case of international support is activated
+- Challenges of operations related to NS control over assets, resources and use of emblem when working with national authorities to ensure independence
+- Recommendations and challenges of response related to NS coordination mechanisms with relevant local and national authorities (e.g. Ministry of health, national social protection mechanisms, health facilities, police, fire brigades, universities and others) in line with different NS areas of intervention
+Component 26: Coordination with External Agencies and NGOsDefinition: Mechanism that facilitates coordination and collaboration with non-governmental organisation, both local and international, civil society organisations and United Nations agencies in-country.Some examples of tagging
+- Challenge: When the Red Cross volunteers went to the field to talk to the affected individuals to collect initial data on the priority needs, people were unwilling to provide information as they have already been asked many questions by other local organisation.
+- Lesson: The NS needs to make formalised partnership agreements with key UN/NGO emergency partners and to share such information with branches. Considerations:
+- Response challenges and lessons learnt associated with NS as part of the humanitarian community (UN/NGOs) for coordination and efficiency of the response
+- Duplication of efforts and lack of coordination during the operation with the UN and NGOs
+- Impact of UN-led appeals and strategic processes to NS response
+- NS is aware of IFRC’s role in the shelter cluster coordination
+Component 27: Civil Military RelationsDefinition: Dialogue and interaction with military actors during response. It is essential to protect and promote humanitarian principles, minimise inconsistency and when appropriate, pursue common goals.Some examples of tagging
+- Challenge: During mass casualty response, NS image was skewed due to its affiliation with national military assets while collaborating with military.
+- Lesson: The safer access training organised by the NS should have included the participation of military officers since many of them had been deployed to areas perceived to be hotspots. This would have encouraged honest reflections and sharing of experiences from both sides (civil and disciplined forces).Considerations:
+- Potential security impacts affected population when coordinating and collaborating with military forces
+- Appropriate use of emblem while working with military bodies
+- NSs need to adhere to Fundamental principles (particularly to independence, neutrality and impartiality), International Humanitarian Law (IHL) when working with military assets during response operations.
+- The Movement does not use armed protection (e.g. when collaborating with military actors, NS need to ensure there are no use of armed protection nor armed military transports)
+Component 28: Coordination with Local Community RespondersDefinition: Engagement with Community Disaster Response Teams (CDRTs) through coordination, sharing information during emergencies.Some examples of tagging
+- Challenge: Difficulties to deliver assistance due to cultural barriers between the community members and deployed NDRTs. 
+- Lesson: There was good collaboration between volunteers and local leaders during the distribution of roofing materials.Considerations:
+- Challenges with information sharing procedures between community to branches and branch to headquarters and vice versa
+- Difficulties during an operation on NS (HQ and branches) systems and procedures to communicate and coordinate with community disaster response teams
+- Lessons learnt related to trainings, better coordination and development of community disaster preparedness and response plans
+Component 29: Coordination with Private SectorDefinition: Mechanism that allows cooperation with private sector that often plays a strong role in response.Some examples of tagging
+- Challenge: Local company arrived at the field with meals for the affected population, the NS rejected the donation as food was not a need, which was not well taken by the company.
+- Lesson: NS will consider training and collaboration with volunteers from corporate partnersConsiderations:
+- Challenges related to due diligence when working with partners and accepting donations (goods and services)
+- Appropriate use of emblem and protection of NS visual identity
+
+Operations Support
+Component 30: Safety and Security ManagementDefinition: Addresses policy and procedures to ensure that staff and volunteers are capable of
+undertaking the roles during response operations while being safe.Some examples of tagging
+Challenge: Lack of safety and security equipment at the branches delayed the deployment of volunteers to provide first aid.
+Lesson: It is necessary to ensure that staff and volunteers have been trained on Stay Safe before the operationConsiderations:
+- Challenges due to lack of security and safety measures at the NS with negative impact in the response.
+- Any security incidents during the operation
+- Learning related to the need to improve safety and security procedures and measures.
+Component 31: Operations Monitoring, Evaluation, Reporting and LearningDefinition: The PMERL is designed to implement a response operation with results-based planning, monitoring and evaluation system that provides an evidence base of NS performance, including relevance, efficiency, effectiveness, sustainability and impact.Some examples of tagging
+Challenge: The operational update to extend the DREF timeframe was severely delayed due to a lack of monitoring of the implementation.
+Lesson: Branches require greater guidance and strengthening on the drafting of their narrative and financial reports.Considerations:
+- Challenges in monitoring the implementation of the operation
+- Challenges with reporting on progress against plan of action
+- Challenges to conduct lessons learned workshops
+- Identification of best practices or needs to increase capacity for motoring, evaluating, reporting and learning of response operations
+Component 32: Finance and Admin. Policy and Emergency Procedures.Definition: Overall budgeting, accounting, treasury, assets, financial reporting and financial services operations; it also includes the efficient delivery, cost effective and timely services to the NS. Pre-approved, auditable, expedited procedures that allow for flexibility during a disaster/crisis.Some examples of tagging
+Challenge: NDRTs could not be deployed to carry out assessment due to delays to disburse their cash
+Lesson: There is a need to develop/revise financial procedures to ensure cash to be provided during weekends.Considerations:
+- Challenges due to financial procedures, or lack of, with impact on the implementation of the response
+- Learning about the need to establish admin and/or finance emergency procedures
+Component 33: Information and Communication Technology (ICT)Definition: Refers to technologies that provide access to information through telecommunications. This includes Internet, wireless networks, mobile phones, radios and other communication mediums.Some examples of tagging
+Challenge: The flooded areas did not have cellphone reception, and the volunteers did not have radios, which created communications issues during the first days of the operation.
+Lesson: The National Society needs to have an agreed platform for internal communications during emergencies.[MVU1]Considerations:
+- Challenges due to the lack of ICT equipment or systems
+- Lack of mechanism for effective internal communication
+- Lessons about the needs to improve ICT systems and infrastructure
+- Identified good practices in the use of ICTs
+Component 34a: Logistics ManagementDefinition: Clear logistics functions, with the necessary procedures for a coordinated support to the response.Some examples of tagging
+Challenges: Branches involved in the response lack of a logistics focal point which difficulted the coordination for local procurement of household items
+Lesson learned: Branches in disaster-prone areas should establish and keep contingency stocks to achieve better preparedness for future disastersConsiderations:
+- Challenges in the management of logistics processes during the operation
+- Challenges or best practices related to the prepositioning of stock
+- Challenges or best practices in terms of identification of trained logistics focal points
+Component 34b: Supply Chain ManagementDefinition: Used to efficiently integrate suppliers, warehouses, and distributors so that services or products are produced and distributed at right quantities, to the right locations, at the right time.Some examples of tagging
+Challenges: Items acquired internationally through the IFRC were delayed due to customs procedures.
+Lesson learned: The NS will develop agreements with the suppliers of hygiene items used during this operation to ensure expedited distribution in future response.Considerations:
+- Challenges in the identification and/or suppliers at local or international level
+- Challenges related to the acceptance or management of in-kind donations
+- Best practices in the use of suppliers, pre agreements with suppliers and getting items in a timely manner
+
+
+Component 34c: ProcurementDefinition: A clear, transparent, accountable and timely procurement procedure ensures the NS meets emergency needs while achieving global auditable standards.Some examples of tagging
+Challenge: Procurement has been delayed due to the holiday season but was soon back on track. Lesson: Key branch staff and volunteers will be trained in procurement procedures to expedite local procurement for future operationsConsiderations:
+- Challenges with the procurement of items for the operation, either local or international.
+- Challenges with the quality of procured items.
+- Best practices in the mapping of suppliers and expedite procurement procedures.
+Component 34d: Fleet and Transportation ManagementDefinition: Refers to the internal system and procedures to ensure the NS transportation assets (vehicles, boats, etc.) are managed appropriately.Some examples of tagging
+Challenge: Due to two vehicles from the HQ being damaged, the NS had to hire transportation services for the distribution of items from the central warehouse, which delayed the distribution
+ Lesson: Branches would need their own vehicles to transport relief items from their stocks to the distribution points in shorter time particularly to the remote areas, while this was done in collaboration with authoritiesConsiderations:
+- Challenges with the use and management of the NS fleet
+- Challenges and best practices in the procurement of transportation services
+- Lessons about the transportation needs for emergency response
+Component 34e: Warehouse and Stock ManagementDefinition: Prepositioned stock should meet Sphere standards. Some examples of tagging
+Challenge: The available hygiene items at the warehouse did not comply with sphere standards, they were distributed and through the DREF the NS will ensure that newly procured items meet the standards.
+Lesson: After the challenges to identify space for items at the affected areas, all branches with no warehouse will be asked to map the storage spaces available for renting.Considerations:
+- Challenges or best practices related to the quality of prepositioned stocks.
+- Challenges related to the available space for warehousing.
+- Learnings on warehouse management functioning.
+Component 35: Staff and Volunteer ManagementDefinition: Well-functioning staff and volunteer management systems and practices allow for effective recruitment, supervision, support and encouragement of staff and volunteers. Some examples of tagging
+Challenges: Sanitary napkins were distributed to the target population. However, there was a need for capacity building of the branch staff and volunteers on targeting, identification of beneficiaries and inclusive issues.
+Lesson learned: The NS needs to have at least a minimum trained intervention team in each local branch that can be operational with very little briefing.Considerations:
+- Needs identified to strengthen the NS volunteers’ and staff’s technical competencies.
+- NS HQ and branch HR related challenges during the response (Nation Disaster Response Teams)
+- Challenges in the recruitment of new volunteers or staff for the response operation
+- Issues and learnings with visibility items of staff and volunteers during emergency operations
+- Learnings and recommendations related to personnel rotation and retention strategy for response 
+Component 36: Communication in emergenciesDefinition: Incorporates a system of public messaging to enable the NS to share timely, accurate information before, during, and after a disaster or crisis. Some examples of tagging
+Challenge: Volunteers provided wrong information about the distribution of household items to community members.
+Lesson: Having a good communication system enabled early warning & early action between the branch and HQ during the initial stages of the situation and disaster response.Considerations:
+- Challenges with key messages, or lack of, for the emergency response
+- Challenges or best practices in the identification of communications focal points.
+- Best practices in the communication with affected population and general public about the emergency response
+Component 37: Resource MobilisationDefinition: A documented strategy for raising domestic funds from the government, private sector, general public and other in-country actors to support the national society’s response.Some examples of tagging
+Challenge: The NS received donations of funds through a bank account, but it was difficult to track the donations as the back account is used for other projects.
+Lesson: There is also a need to improve local resource mobilisation strategies so that the NS is also able to raise funds to enable timely response and to be first-responders in-country.Considerations:
+- Challenges or best practices for receiving and managing donation of funds.
+- Challenges with accountability for donations received.
+- Identified needs to improve emergency fund raising systems.
+- Identified potential partners/stakeholders during the operation.
+1 Previous Disaster Preparedness policy, with preparedness now included in the revised DRM policy
+[MVU1]Revisit lesson
+---------------
+
+------------------------------------------------------------
+
+
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+
