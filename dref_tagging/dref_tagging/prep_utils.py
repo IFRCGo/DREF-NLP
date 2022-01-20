@@ -22,10 +22,11 @@ def clean_learning_dataset(q):
             q = q.rename(columns={c:'DREF_'+c.split(' ')[-1]})   
             
     # Removing columns that are NaNs except a few typos
-    del q['Original Excerpt']
-    del q['Information date']
-    del q['DREF_Subsectors']
-    
+    cols_to_remove = ['Original Excerpt','Information date','DREF_Subsectors']
+    for c in cols_to_remove:
+        if c in q.columns:
+            del q[c]
+
     # Removing 6 rows where important columns are missing
     # NB: removing them creates some problems when testing PDF parsing
     q = q.dropna(subset=['DREF_Dimension']) # 4 rows, 2020/2021
@@ -119,7 +120,10 @@ def match_subdimension_names(subdimension_list='subdimensions_list-2021-12.txt',
     with resources.path("dref_tagging.config", subdimension_list) as input_file:
         subdims_df = pd.read_csv(input_file, sep='\t', header=None, names=['name'])
     with resources.path("dref_tagging.config", dataset) as input_file:
-        q = pd.read_feather(input_file)
+        if os.path.splitext(dataset)[1]=='.feather':
+            q = pd.read_feather(input_file)
+        else:
+            q = pd.read_csv(input_file)
     
     # read tags-disctionary + some preprocessing
     with resources.path("dref_tagging.config", tags_dict_original) as input_file:
@@ -170,8 +174,11 @@ def fix_names_and_codes_in_dataset(subdims_df,
                                     tags_dict_out='tags_dict.csv'):
 
     with resources.path("dref_tagging.config", dataset_clean_in) as input_file:
-        q = pd.read_feather(input_file)
-    
+        if os.path.splitext(dataset_clean_in)[1]=='.feather':
+            q = pd.read_feather(input_file)
+        else:
+            q = pd.read_csv(input_file)
+
     # Merge dataset with df holding correct names for Dimensions/Subdimensions & codes
     q['DREF_Subdimension_lower'] = q.DREF_Subdimension.apply(lambda x: x.lower())
     q = q.rename(columns={'DREF_Dimension':'DREF_Dimension_in_data'})
@@ -183,6 +190,10 @@ def fix_names_and_codes_in_dataset(subdims_df,
     for c in cols_delete:
         del q[c] 
     q = q.rename(columns = {'name':'DREF_Subdimension'})
+    # remove columns
+    cols_to_remove = [c for c in q.columns if c.startswith('Unnamed')]
+    for c in cols_to_remove:
+        del q[c]
     # reorder columns
     cols = list(q.columns)
     q = q[cols[:3]+cols[-3:]+cols[3:-3]]
@@ -217,7 +228,7 @@ def preprocess_DREF_dataset(dataset_in = 'Ops_learning_Dataset.csv',
                             dataset_out = 'Ops_learning_Dataset_ready.feather',
                             tags_dict_out='tags_dict.csv'):
     
-    dataset_tmp =  'Ops_learning_Dataset_tmp.feather'
+    dataset_tmp =  'Ops_learning_Dataset_tmp.csv'
 
     clean_and_save_dataset(filename_in  = dataset_in, 
                            filename_out = dataset_tmp)
