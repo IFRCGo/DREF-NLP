@@ -17,6 +17,16 @@ class OuputFormat(str, Enum):
     csv = "csv"
 
 
+# Once Subdimension is found, this function helps select the corresponding Dimension
+def get_Dimension_from_Subdimension(subdim, spec):
+    if subdim in list(spec.index):
+        return spec.loc[subdim,'Dimension']
+    return 'ERROR: No Dimension matches this Subdimension :('
+
+
+
+# ------------------------------------------------------
+# Main function for Parsing+Tagging
 @app.get("/parse_and_tag/{output_format}")
 async def parse_and_tag(output_format: OuputFormat, 
     Appeal_code: str = Query(
@@ -74,7 +84,7 @@ async def parse_and_tag(output_format: OuputFormat,
     with resources.path("dref_tagging.config", "DREF_spec.csv") as DREF_spec_file:
         spec = pd.read_csv(DREF_spec_file).set_index('Subdimension')    
     
-    df['Dimension'] = df['Subdimension'].apply(lambda x: spec.loc[x,'Dimension'] if x==x else np.nan)     
+    df['Dimension'] = df['Subdimension'].apply(lambda x: get_Dimension_from_Subdimension(x, spec))     
     df = df.fillna('Unknown')   
 
     df = df.rename(columns={'lead':'Appeal code','Modified Excerpt':'Excerpt'})
