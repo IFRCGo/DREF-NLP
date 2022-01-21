@@ -1,6 +1,6 @@
-library(arrow)
+#library(arrow)
 library(tidyverse)
-training_data<-read_feather(paste0(getwd(), "/data/Ops_learning_Dataset_codes.feather"))
+#training_data<-read_feather(paste0(getwd(), "/data/Ops_learning_Dataset_codes.feather"))
 
 pre_process<- function(dataset, added_info=FALSE){
   
