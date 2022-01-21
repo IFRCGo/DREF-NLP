@@ -459,7 +459,8 @@ def full_sector_name(sector_name):
 section_markers =  ['\nPeople reached',
                     '\nPeople targeted',
                     '\nPopulation reached',
-                    '\nPopulation targeted']
+                    '\nPopulation targeted',
+                    '\nTotal number of people reached']
 
 # Later sections that correspond to 'Strategy' Sector
 # may have a lot of different names:
