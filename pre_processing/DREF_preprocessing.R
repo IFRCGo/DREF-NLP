@@ -27,13 +27,13 @@ pre_process<- function(dataset, added_info=FALSE){
   
   full_data <- transform(full_data,id=as.numeric(factor(dref_dimcode)))
   
-  tags_dict_dref <- full_data %>% 
-    select(id, dref_subdimension) %>% 
-    unique() %>% 
-    mutate(id=id -1)
+#  tags_dict_dref <- full_data %>% 
+#    select(id, dref_subdimension) %>% 
+#    unique() %>% 
+#    mutate(id=id -1)
   
   
-  write.table(tags_dict_dref, file = paste0(getwd(), "/data/training/tags_dict_dref.csv"), sep = "," , fileEncoding = "UTF-8")
+#  write.table(tags_dict_dref, file = paste0(getwd(), "/data/training/tags_dict_dref.csv"), sep = "," , fileEncoding = "UTF-8")
   
   
   for (label in 1:41) {
