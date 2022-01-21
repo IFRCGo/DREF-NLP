@@ -6,23 +6,24 @@ pre_process<- function(dataset, added_info=FALSE){
   
   full_data <- dataset
   
+  #changing the column headings
   names(full_data) <- gsub("- ", "", names(full_data))
   names(full_data) <- gsub(" ", "_", names(full_data))
   names(full_data) <-tolower(names(full_data))
   
-  names(full_data)
+  #names(full_data)
   
-  small_data <- full_data %>% 
-    select(modified_excerpt,
-           dref_dimension, 
-           dref_subdimension,
-           dref_dimcode)
+  #small_data <- full_data %>% 
+  #  select(modified_excerpt,
+  #         dref_dimension, 
+  #         dref_subdimension,
+  #         dref_dimcode)
   
-  dimension <- small_data %>% 
-    group_by(modified_excerpt) %>% 
-    summarise(dref_dimension=paste(dref_dimension, collapse = ", "),
-              dref_dimcode=paste(dref_dimcode, collapse = ", ")) %>% 
-    ungroup()
+ # dimension <- small_data %>% 
+  #group_by(modified_excerpt) %>% 
+   # summarise(dref_dimension=paste(dref_dimension, collapse = ", "),
+  #            dref_dimcode=paste(dref_dimcode, collapse = ", ")) %>% 
+  #  ungroup()
   
   
   full_data <- transform(full_data,id=as.numeric(factor(dref_dimcode)))
@@ -31,7 +32,8 @@ pre_process<- function(dataset, added_info=FALSE){
 #    select(id, dref_subdimension) %>% 
 #    unique() %>% 
 #    mutate(id=id -1)
-  
+ 
+tags_dict_dref <- read_csv(paste0(getwd(), "/dref_tagging/dref_tagging/config/tags_dict_original.csv"))
   
 #  write.table(tags_dict_dref, file = paste0(getwd(), "/data/training/tags_dict_dref.csv"), sep = "," , fileEncoding = "UTF-8")
   
@@ -125,9 +127,9 @@ pre_process<- function(dataset, added_info=FALSE){
     mutate(id40 =ifelse(40 %in% id, 1, 0)) %>% 
     mutate(id41 =ifelse(41 %in% id, 1, 0)) 
   
-  my_cols <- c("id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10", "id11", "id12", "id13", "id14", "id15",
-               "id16", "id17", "id18", "id19", "id20", "id21", "id22", "id23", "id24", "id25", "id26", "id27", "id28", "id29", "id30",
-               "id31", "id32", "id33", "id34", "id35", "id36", "id37", "id38", "id39", "id40", "id41")   
+  #my_cols <- c("id1", "id2", "id3", "id4", "id5", "id6", "id7", "id8", "id9", "id10", "id11", "id12", "id13", "id14", "id15",
+  #             "id16", "id17", "id18", "id19", "id20", "id21", "id22", "id23", "id24", "id25", "id26", "id27", "id28", "id29", "id30",
+  #             "id31", "id32", "id33", "id34", "id35", "id36", "id37", "id38", "id39", "id40", "id41")   
   
   
   subdimension$Categories <- do.call(paste, c(subdimension[my_cols], sep = ""))
