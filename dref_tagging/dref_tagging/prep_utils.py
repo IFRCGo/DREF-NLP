@@ -199,7 +199,10 @@ def fix_names_and_codes_in_dataset(subdims_df,
     q = q[cols[:3]+cols[-3:]+cols[3:-3]]
     # save (to both csv and feather)
     output_filename = os.path.join(os.path.dirname(input_file), dataset_out)
-    q.to_feather(os.path.splitext(output_filename)[0]+'.feather')
+    try:
+        q.to_feather(os.path.splitext(output_filename)[0]+'.feather')
+    except:
+        print('WARNING: Failure to save FEATHER file, thus saving only CSV')
     q.to_csv    (os.path.splitext(output_filename)[0]+'.csv')
 
     # Save tags_dict 
