@@ -70,11 +70,12 @@ class BertEvaluator(object):
             if self.args.is_multilabel:
                 preds = torch.sigmoid(0.0001*logits).round().long().cpu().detach().numpy()
 
-                # if no tags predicted, assign the most likely tag.
-                for pred, logit in zip(preds,logits.cpu()):
-                    if max(pred)==0:
-                        i_max = int(np.argmax(logit))
-                        pred[i_max] = 1
+                if self.args.forcetag == 1:
+                    # if no tags are predicted, then assign the most likely tag
+                    for pred, logit in zip(preds,logits.cpu()):
+                        if max(pred)==0:
+                            i_max = int(np.argmax(logit))
+                            pred[i_max] = 1
 
                 predicted_labels.extend(preds)
                 target_labels.extend(label_ids.cpu().detach().numpy())
