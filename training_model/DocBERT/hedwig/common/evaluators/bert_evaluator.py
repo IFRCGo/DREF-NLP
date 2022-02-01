@@ -68,7 +68,16 @@ class BertEvaluator(object):
                 logits = self.model(input_ids, input_mask, segment_ids)[0]
 
             if self.args.is_multilabel:
-                predicted_labels.extend(torch.sigmoid(0.0001*logits).round().long().cpu().detach().numpy())
+                preds = torch.sigmoid(0.0001*logits).round().long().cpu().detach().numpy()
+
+                if self.args.forcetag == 1:
+                    # if no tags are predicted, then assign the most likely tag
+                    for pred, logit in zip(preds,logits.cpu()):
+                        if max(pred)==0:
+                            i_max = int(np.argmax(logit))
+                            pred[i_max] = 1
+
+                predicted_labels.extend(preds)
                 target_labels.extend(label_ids.cpu().detach().numpy())
                 loss = F.binary_cross_entropy_with_logits(logits, label_ids.float(), size_average=False)
             else:
