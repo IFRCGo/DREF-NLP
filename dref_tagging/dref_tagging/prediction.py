@@ -53,8 +53,7 @@ if n_gpu > 0:
     torch.cuda.manual_seed_all(seed)
 
 args = dict()
-args["num_labels"] = 46
-args["max_seq_length"] = 400
+args["max_seq_length"] = 128
 args["batch_size"] = 2
 args["device"] = device
 
@@ -78,7 +77,7 @@ with resources.path("dref_tagging.config", "tags_dict.csv") as tags_file:
 # Splits them into chuncks, does tagging and merges the tags
 # **************************************************************************
 def predict_tags_any_length(
-    eval_texts: Union[str, Sequence[str]]
+    eval_texts: Union[str, Sequence[str]], forcetag = 0
 ) -> Tuple[List[str], List[List[str]]]:
 
     if isinstance(eval_texts, str):
@@ -86,10 +85,10 @@ def predict_tags_any_length(
 
     # split long text into suitable text chunks
     max_len = int(args["max_seq_length"] * 0.8)
-    divided_text, text_indicies = split_into_chunks(eval_texts, max_len = max_len, verbose=1) 
+    divided_text, text_indicies = split_into_chunks(eval_texts, max_len = max_len, verbose=0) 
 
     # make predictions on the chunks
-    returned_texts, predictions = predict_tags(divided_text)
+    returned_texts, predictions = predict_tags(divided_text, forcetag = forcetag)
 
     # merge the predictions
     merged_predictions = merge_predicted_tags(predictions, text_indicies) 
@@ -102,7 +101,7 @@ def predict_tags_any_length(
 # Predict tags (for shorter chunks of text)
 # **************************************************************************
 def predict_tags(
-    eval_texts: Union[str, Sequence[str]]
+    eval_texts: Union[str, Sequence[str]], forcetag = 0
 ) -> Tuple[List[str], List[List[str]]]:
     """
     Given a text or sequence of texts this function automatically
@@ -145,31 +144,38 @@ def predict_tags(
     eval_dataloader = DataLoader(
         eval_data, sampler=eval_sampler, batch_size=args["batch_size"]
     )
-
+    
     predicted_tags = []
-
+    # loop over batches
     for input_ids, input_mask, segment_ids in eval_dataloader:
         input_ids = input_ids.to(args["device"])
         input_mask = input_mask.to(args["device"])
         segment_ids = segment_ids.to(args["device"])
 
+        
         with torch.no_grad():
             logits = model(input_ids, input_mask, segment_ids)[0]
-            predicted_tags.extend(
-                torch.sigmoid(logits*5).round().long().cpu().detach().numpy()
-            )
+            preds = torch.sigmoid(logits*5).round().long().cpu().detach().numpy()
+
+            if forcetag == 1:                    
+                # if no tags predicted, assign the most likely tag.
+                for pred, logit in zip(preds,logits.cpu()):
+                    if max(pred)==0:
+                        i_max = int(np.argmax(logit))
+                        pred[i_max] = 1
+
+            predicted_tags.extend(preds)
 
     for i, prediction in enumerate(predicted_tags):
         prediction = [bool(d) for d in prediction]
         predicted_tags[i] = tags_dict.loc[prediction].to_list()
-
     return (eval_texts, predicted_tags)
 
 
 
 def analyze_predictions(data_path="training_model/DocBERT/hedwig-data/datasets/DREF/dev.tsv",
                         model_path="\dref_tagging\dref_tagging\config\DREF_docBERT.pt",
-                        basepath = "../DREF_IFRC/",
+                        basepath = "../DREF_IFRC/", forcetag = 0,
                         limit=-1):
 
     model = torch.load(basepath+model_path, map_location=device)
@@ -183,7 +189,7 @@ def analyze_predictions(data_path="training_model/DocBERT/hedwig-data/datasets/D
         df = df[:limit]
 
     df['tags'] = df.tags01.apply(lambda x: tags_dict.loc[[bool(int(d)) for d in x]].to_list())
-    df['preds'] = df.text.apply(lambda x: predict_tags_any_length(x)[0])
+    df['preds'] = df.text.apply(lambda x: predict_tags_any_length(x, forcetag = forcetag)[0])
     df['match'] = df.tags == df.preds
 
     return df[['text','tags','preds','match']]

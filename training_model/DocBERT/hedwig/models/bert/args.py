@@ -11,6 +11,7 @@ def get_args():
     parser.add_argument('--save-path', type=str, default=os.path.join('model_checkpoints', 'bert'))
     parser.add_argument('--cache-dir', default='cache', type=str)
     parser.add_argument('--trained-model', default=None, type=str)
+    parser.add_argument('--forcetag', default=0, type=int, help='force most likely tag if no tag is given')
     parser.add_argument('--fp16', action='store_true', help='use 16-bit floating point precision')
 
     parser.add_argument('--max-seq-length',
