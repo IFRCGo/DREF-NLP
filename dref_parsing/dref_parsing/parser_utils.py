@@ -270,20 +270,24 @@ def initialize_apdo(refresh = False):
 
 # For a given lead get all global features using an API call
 def get_global_features(lead):
-    initialize_aadf()
-    if not lead in aadf.code.unique():
-        print('print ERROR: '+lead+' is not among API codes')
-        raise ExceptionNotInAPI(f'Error: {lead} is not among API codes')
-    
-    row = aadf[aadf.code==lead]
-    if len(row)!=1:
-        print(f'WARNING: {lead} is present in API codes {len(row)} times (must be 1)')
-        row = row[0:1]
-    
-    hazard = get_hazard_from_names(row.name.values[0], row.dtype.values[0]['name'])
-    country = row.country.values[0]['name']
-    region = row.region.values[0]['region_name']
-    start_date = row.start_date.values[0][:10]
+
+    if lead == 'Unknown':
+        hazard = country = region = start_date = 'Unknown'
+    else:
+        initialize_aadf()
+        if not lead in aadf.code.unique():
+            print('print ERROR: '+lead+' is not among API codes')
+            raise ExceptionNotInAPI(f'Error: {lead} is not among API codes')
+        
+        row = aadf[aadf.code==lead]
+        if len(row)!=1:
+            print(f'WARNING: {lead} is present in API codes {len(row)} times (must be 1)')
+            row = row[0:1]
+        
+        hazard = get_hazard_from_names(row.name.values[0], row.dtype.values[0]['name'])
+        country = row.country.values[0]['name']
+        region = row.region.values[0]['region_name']
+        start_date = row.start_date.values[0][:10]
     
     output = Munch(lead=lead, Hazard=hazard, Country=country, Region=region, Date=start_date)
     return output
@@ -314,10 +318,10 @@ def get_pdf_io_object(lead):
     return pdf_io
 
 # Complete PDF parsing
-def parse_PDF_combined(lead, PDFextras=Munch()):
+def parse_PDF_combined(lead, PDFextras=Munch(), pdf_file = None):
     gf_parsed = get_global_features(lead)
-    PDFextras = get_PDFextras([lead], PDFextras, source='api', renew=False)
-    exs_parsed, _ = get_CHLLs(lead=lead, PDFextras=PDFextras, source='api')
+    PDFextras = get_PDFextras([lead], PDFextras, source='api', renew=False, pdf_file = pdf_file)
+    exs_parsed, _ = get_CHLLs(lead=lead, PDFextras=PDFextras, source='api', pdf_file = pdf_file)
     all_parsed = exs_parsed.merge(pd.DataFrame([gf_parsed]), on='lead')
     return all_parsed
 
@@ -930,9 +934,14 @@ def assess_match_all(pp):
 # Get Parsed CH & LL.
 # source = api or disk
 def get_CHLLs(lead='MDRCD028', Learnings=['CH','LL'], PDFextras=Munch(), 
-              do_remove_footer=True, source='api', folder=''):
+              do_remove_footer=True, source='api', folder='', pdf_file = None):
 
-    txt = get_PDFtext_from_lead(lead, source=source, folder=folder) 
+    if pdf_file:
+        # get text directly from bytes of PDF file
+        txt = tika.parser.from_buffer(pdf_file)['content']
+    else:
+        # get text from lead (by downloading the corresponding PDF file first)
+        txt = get_PDFtext_from_lead(lead, source=source, folder=folder) 
     
     if do_remove_footer:
         if not lead in PDFextras.keys():
@@ -1299,14 +1308,20 @@ def remove_header(txt, PDFextra):
 # Load PDFextras for all leads where it's missing.
 # Keep existing values if renew=False.
 # (Makes sense since it takes long time to process all PDFs)
-def get_PDFextras(leads, PDFextras, renew=False, source='disk', folder=''):
+def get_PDFextras(leads, PDFextras, renew=False, source='disk', folder='', pdf_file = None):
     for lead in leads:
         if renew or (not lead in PDFextras.keys()):
-            if source=='disk':
-                filename = get_PDFfilename_from_lead(lead, folder=folder)
+            # get pdf_io which is either filename or a file-like object
+            if pdf_file:
+                # if pdf_file (as bytes) is given:
+                pdf_io = io.BytesIO(pdf_file)
             else:
-                filename = get_pdf_io_object(lead) # IO object with PDF data
-            headers, footers, postheaders  = get_header_footer_candidates(filename = filename)
+                # otherwise, read pdf file from disk, or download
+                if source=='disk':
+                    pdf_io = get_PDFfilename_from_lead(lead, folder=folder)
+                else:
+                    pdf_io = get_pdf_io_object(lead) # IO object with PDF data
+            headers, footers, postheaders  = get_header_footer_candidates(filename = pdf_io)
             PDFextras[lead] = Munch(headers = headers, footers=footers, postheaders = postheaders)
     return PDFextras    
 
