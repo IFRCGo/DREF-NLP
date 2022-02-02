@@ -8,6 +8,7 @@
 
 fastapi 
 uvicorn
+python-multipart
 
 numpy
 pandas

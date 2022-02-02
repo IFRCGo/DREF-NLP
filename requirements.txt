@@ -142,6 +142,8 @@ pyparsing==2.4.7
     # via packaging
 python-dateutil==2.8.2
     # via pandas
+python-multipart==0.0.5
+    # via -r dref_parsing/requirements.in
 pytz==2021.3
     # via pandas
 pyyaml==6.0
@@ -167,6 +169,7 @@ six==1.16.0
     #   langdetect
     #   munch
     #   python-dateutil
+    #   python-multipart
     #   sacremoses
 smart-open==5.2.1
     # via pathy
