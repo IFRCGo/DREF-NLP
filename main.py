@@ -2,6 +2,8 @@
 
 from fastapi import FastAPI, Query, HTTPException
 from fastapi.responses import StreamingResponse
+from fastapi import File, UploadFile
+from typing import Optional
 from importlib import resources
 import io
 from enum import Enum
@@ -27,8 +29,10 @@ def get_Dimension_from_Subdimension(subdim, spec):
 
 # ------------------------------------------------------
 # Main function for Parsing+Tagging
-@app.get("/parse_and_tag/{output_format}")
+@app.post("/parse_and_tag/{output_format}")
 async def parse_and_tag(output_format: OuputFormat, 
+    pdf_file: Optional[bytes] = File(None, 
+              description='Optional input of PDF file. If given, overwrites MDR code'), 
     Appeal_code: str = Query(
         'MDRDO013',
         title="Appeal code",
@@ -37,7 +41,7 @@ async def parse_and_tag(output_format: OuputFormat,
         max_length=8)):
     """
     App for Parsing PDFs of DREF Final Reports and Tagging Excerpts.   
-    <b>Input</b>: Appeal code of the report, MDR*****  
+    <b>Input</b>: Appeal code of the report, MDR*****  (or a PDF file)
     <b>Output</b>:  
     &nbsp;&nbsp; a list of excerpts extracted from the PDF with its features: 'Learning', 'DREF_Sector',  
     &nbsp;&nbsp; and global features: 'Hazard', 'Country', 'Date', 'Region', 'Appeal code'.  
@@ -57,11 +61,15 @@ async def parse_and_tag(output_format: OuputFormat,
     # Renaming: In the program we call it 'lead', while IFRC calls it 'Appeal_code'
     lead = Appeal_code 
     
+    # if PDF file is given, lead input is ignored
+    if pdf_file:
+        lead = 'Unknown'
+
     # ---------------------------------------------------------
     # Parsing PDF
     try:
         # excerpts (and other relevant columns)
-        all_parsed = parse_PDF_combined(lead)
+        all_parsed = parse_PDF_combined(lead, pdf_file = pdf_file)
     except ExceptionNotInAPI:
         raise HTTPException(status_code=404, 
                             detail=f"{lead} doesn't have a DREF Final Report in IFRC GO appeal database")
