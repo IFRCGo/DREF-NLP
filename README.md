@@ -36,14 +36,10 @@ usually http://127.0.0.1:8000/docs
 
 ## Azure / Docker
 
-The current versions of the apps are available at:
+The current version of the apps is available at:
+https://drefnlpdev.azurewebsites.net/docs
 
-https://dref-pdf-parsing.azurewebsites.net/docs  
-https://dreftagging.azurewebsites.net/docs
-
-The joint app:
-
-https://dref-ptag.azurewebsites.net/docs 
+It contains the joint apps (for parsing the data and tagging it).
 
 The docker images uploaded to Azure were created 
 by running the following build command from the folders 
