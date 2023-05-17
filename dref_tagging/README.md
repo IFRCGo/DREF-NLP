@@ -10,3 +10,6 @@ run commands
 docker build -t tagging2 .  
 docker run -p 8000:8000 tagging2
 ```
+
+On IFRC Azure infrastructure the app is available at: 
+https://dreftagging.azurewebsites.net/docs
