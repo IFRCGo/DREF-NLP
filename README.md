@@ -41,6 +41,9 @@ https://drefnlpdev.azurewebsites.net/docs
 
 It contains the joint apps (for parsing the data and tagging it).
 
+If the dref_tagging is needed (without parsing the data), it is available at:
+https://dreftagging.azurewebsites.net/docs
+
 The docker images uploaded to Azure were created 
 by running the following build command from the folders 
 ```dref_tagging```, ```dref_parsing``` or the root folder:
