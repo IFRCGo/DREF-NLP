@@ -21,7 +21,7 @@ python -m pip install -e ./dref_tagging
 
 To run the dref_tagging app (or the joint app) you must download the file DREF_docBERT.pt 
 and add it to the dref_tagging/dref_tagging/config file.
-Currently to download this file you must contact the team at Nextbridge. 
+Currently to download this file you must contact the [IM team at IFRC](&#105;&#109;&#64;&#105;&#102;&#114;&#99;&#46;&#111;&#114;&#103;)
 
 ## Running apps
 
