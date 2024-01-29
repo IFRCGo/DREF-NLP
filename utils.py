@@ -121,14 +121,20 @@ def get_similar_sector(text):
 
     # First, check if there is an exact match with the titles
     for sector_name, details in sectors.items():
-        titles = (details['titles'] if 'titles' in details else [])+[sector_name]
+        if details is None:
+            titles = [sector_name]
+        else:
+            titles = (details['titles'] if 'titles' in details else [])+[sector_name]
         for title in titles:
             if text_base == strip_non_alpha(title).lower():
                 return sector_name, 1
 
     # Next, check if there is an exact match with any keywords
     for sector_name, details in sectors.items():
-        keywords = (details['keywords'] if 'keywords' in details else [])
+        if details is None:
+            keywords = []
+        else:
+            keywords = (details['keywords'] if 'keywords' in details else [])
         for keyword in keywords:
             if text_base == strip_non_alpha(keyword).lower():
                 return sector_name, 0.9
@@ -139,7 +145,10 @@ def get_similar_sector(text):
     text_base_words = [word for word in text_base_words if word not in filler_words]
     proportion_text_covered_by_sector = {}
     for sector_name, details in sectors.items():
-        keywords = (details['keywords'] if 'keywords' in details else [])
+        if details is None:
+            keywords = []
+        else:
+            keywords = (details['keywords'] if 'keywords' in details else [])
         overlap = [word for word in text_base_words if word in keywords]
         proportion_text_covered_by_sector[sector_name] = len(overlap)/len(text_base_words)
 
