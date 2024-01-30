@@ -18,9 +18,10 @@ def extract_text_and_fontsizes(document_path):
                     if s['text'].strip():
                         data.append({
                             'text': s["text"],
-                            'fontsizes': [s["size"]],
-                            'fontnames': [s["font"]],
-                            'bold': [(True if 'bold' in s["font"] else False)],
+                            'fontsize': s["size"],
+                            'fontname': s["font"],
+                            'color': s["color"],
+                            'bold': (True if 'bold' in s["font"] else False),
                             'page': page_number
                         })
     return data
@@ -46,13 +47,13 @@ def get_lessons_learned_section_end(lines, size_threshold=0.2):
 
     # Get lessons learned title information
     title = lines.iloc[0]
-    title_size = mean(title['fontsizes'])
-    title_bold = any(title['bold'])
+    title_size = title['fontsize']
+    title_bold = title['bold']
 
     # Get first line information
     first_line = lines.iloc[1]
-    first_line_size = mean(first_line['fontsizes'])
-    first_line_bold = any(first_line['bold'])
+    first_line_size = first_line['fontsize']
+    first_line_bold = first_line['bold']
 
     # If the title is larger than the first line, consider this font size to represent a new section
     # Could do this based on exact fontsizes - doubled and rounded to int (i.e. exact halves)
@@ -71,14 +72,12 @@ def get_lessons_learned_section_end(lines, size_threshold=0.2):
     previous_index = None
     for i, line in lines.iloc[1:].iterrows():
 
-        if line['fontsizes']:
-            average_line_size = mean(line['fontsizes'])
-            if average_line_size >= (title_size - size_threshold):
+        if line['fontsize']:
+            if line['fontsize'] >= (title_size - size_threshold):
                 size_condition_met = True
 
         if line['bold']:
-            line_bold = any(line['bold'])
-            if line_bold:
+            if line['bold']:
                 bold_condition_met = True
 
         if require_large_size and require_bold:
