@@ -24,7 +24,7 @@ def extract_text_and_fontsizes(document_path):
                             if isinstance(character, LTChar):
                                 if character.get_text().strip():
                                     font_sizes.append(character.size)
-                                    font_names.append(character.fontname.split('+', 1)[-1])
+                                    font_names.append(character.fontname)
                                     bold.append(True if 'bold' in character.fontname.lower() else False)
                     data.append({
                         'text': text_line.get_text().strip(),
