@@ -11,20 +11,53 @@ def extract_text_and_fontsizes(document_path):
 
     # Loop through pages and paragraphs
     for page_number, page_layout in enumerate(fitz.open(document_path)):
+
+        # Get drawings to get text highlights
+        coloured_drawings = [drawing for drawing in page_layout.get_drawings() if (drawing['fill'] != (0.0, 0.0, 0.0))]
+
+        # Loop through blocks
         blocks = page_layout.get_text("dict", flags=11)["blocks"]
         for b in blocks:
             for l in b["lines"]:
                 for s in l["spans"]:
                     if s['text'].strip():
+                        
+                        # Check if the text block is contained in a drawing
+                        highlights = []
+                        for drawing in coloured_drawings:
+                            if box_inside_box(s['bbox'], drawing['rect']):
+                                highlights.append(
+                                    {
+                                        'type': drawing['type'],
+                                        'fill_opacity': drawing['fill_opacity'],
+                                        'fill': drawing['fill']
+                                    }
+                                )
+                        # Append results
                         data.append({
-                            'text': s["text"],
+                            'text': s["text"].strip(),
                             'fontsize': s["size"],
                             'fontname': s["font"],
                             'color': s["color"],
-                            'bold': (True if 'bold' in s["font"] else False),
+                            'bold': (True if 'bold' in s["font"].lower() else False),
+                            'highlights': highlights,
                             'page': page_number
                         })
+
     return data
+
+
+def box_inside_box(bbox1, bbox2, tolerance=0.1):
+    # bbox = (x0, y0, x1, y1)
+    # Check if bbox1 in bbox2
+    if (
+            (bbox2[0]-bbox1[0]) <= (tolerance*bbox1[0]) and 
+            (bbox2[1]-bbox1[1]) <= (tolerance*bbox1[1]) and 
+            (bbox1[2]-bbox2[2]) <= (tolerance*bbox1[2]) and 
+            (bbox1[3]-bbox2[3]) <= (tolerance*bbox1[3])
+        ):
+        return True
+    return False
 
 
 def is_lessons_learned_section_title(text):
