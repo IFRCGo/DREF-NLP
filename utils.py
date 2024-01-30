@@ -41,8 +41,7 @@ def is_lessons_learned_section_title(text):
     if text != text:
         return False
 
-    processed_text = strip_non_alpha(text)
-    if processed_text.lower() == 'lessons learned':
+    if strip_non_alpha(text).lower() in ['lessons learned', 'lessons learnt']:
         return True
 
     return False
@@ -83,13 +82,15 @@ def get_lessons_learned_section_end(lines, size_threshold=0.2):
     previous_index = None
     for i, line in lines.iloc[1:].iterrows():
 
-        average_line_size = mean(line['fontsizes'])
-        if average_line_size >= (title_size - size_threshold):
-            size_condition_met = True
+        if line['fontsizes']:
+            average_line_size = mean(line['fontsizes'])
+            if average_line_size >= (title_size - size_threshold):
+                size_condition_met = True
 
-        line_bold = any(line['bold'])
-        if line_bold:
-            bold_condition_met = True
+        if line['bold']:
+            line_bold = any(line['bold'])
+            if line_bold:
+                bold_condition_met = True
 
         if require_large_size and require_bold:
             if size_condition_met and bold_condition_met:
