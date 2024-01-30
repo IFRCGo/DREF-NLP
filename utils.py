@@ -4,36 +4,25 @@ import yaml
 from statistics import mean
 import requests
 from collections import Counter
-from pdfminer.high_level import extract_pages
-from pdfminer.layout import LTTextContainer, LTChar, LTTextLine, LTLine, LAParams
+import fitz
 
 def extract_text_and_fontsizes(document_path):
     data = []
 
     # Loop through pages and paragraphs
-    for page_number, page_layout in enumerate(extract_pages(document_path)):
-        for paragraph in page_layout:
-            if isinstance(paragraph, LTTextContainer) and paragraph.get_text().strip():
-
-                for text_line in paragraph:
-                    font_sizes = []
-                    font_names = []
-                    bold = []
-                    if isinstance(text_line, LTTextLine):
-                        for character in text_line:
-                            if isinstance(character, LTChar):
-                                if character.get_text().strip():
-                                    font_sizes.append(character.size)
-                                    font_names.append(character.fontname)
-                                    bold.append(True if 'bold' in character.fontname.lower() else False)
-                    data.append({
-                        'text': text_line.get_text().strip(),
-                        'fontsizes': font_sizes,
-                        'fontnames': font_names,
-                        'bold': bold,
-                        'page': page_number
-                    })
-
+    for page_number, page_layout in enumerate(fitz.open(document_path)):
+        blocks = page_layout.get_text("dict", flags=11)["blocks"]
+        for b in blocks:
+            for l in b["lines"]:
+                for s in l["spans"]:
+                    if s['text'].strip():
+                        data.append({
+                            'text': s["text"],
+                            'fontsizes': [s["size"]],
+                            'fontnames': [s["font"]],
+                            'bold': [(True if 'bold' in s["font"] else False)],
+                            'page': page_number
+                        })
     return data
 
 
