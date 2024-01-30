@@ -25,14 +25,16 @@ def extract_text_and_fontsizes(document_path):
                         # Check if the text block is contained in a drawing
                         highlights = []
                         for drawing in coloured_drawings:
-                            if box_inside_box(s['bbox'], drawing['rect']):
-                                highlights.append(
-                                    {
-                                        'type': drawing['type'],
-                                        'fill_opacity': drawing['fill_opacity'],
-                                        'fill': drawing['fill']
-                                    }
-                                )
+                            if get_overlap(s['bbox'], drawing['rect']):
+                                drawing['overlap'] = get_overlap(s['bbox'], drawing['rect'])
+                                highlights.append(drawing)
+
+                        # Get largest overlap
+                        if highlights:
+                            largest_highlight = max(highlights, key=lambda x: x['overlap'])
+                            highlight_colour = largest_highlight['fill']
+                            highlight_colour_hex = '#%02x%02x%02x' % (int(255*highlight_colour[0]), int(255*highlight_colour[1]), int(255*highlight_colour[2]))
+                        
                         # Append results
                         data.append({
                             'text': s["text"].strip(),
@@ -40,14 +42,14 @@ def extract_text_and_fontsizes(document_path):
                             'fontname': s["font"],
                             'color': s["color"],
                             'bold': (True if 'bold' in s["font"].lower() else False),
-                            'highlights': highlights,
+                            'highlight_colour': (highlight_colour_hex if highlights else None),
                             'page': page_number
                         })
 
     return data
 
 
-def box_inside_box(bbox1, bbox2, tolerance=0.1):
+def box_inside_box(bbox1, bbox2, tolerance=0.05):
     # bbox = (x0, y0, x1, y1)
     # Check if bbox1 in bbox2
     if (
@@ -58,6 +60,14 @@ def box_inside_box(bbox1, bbox2, tolerance=0.1):
         ):
         return True
     return False
+
+
+def get_overlap(bbox1, bbox2):
+    # Get overlap area between boxes
+    dx = min(bbox1[2], bbox2[2]) - max(bbox1[0], bbox2[0])
+    dy = min(bbox1[3], bbox2[3]) - max(bbox1[1], bbox2[1])
+    if (dx >= 0) and (dy >= 0):
+        return dx*dy
 
 
 def is_lessons_learned_section_title(text):
