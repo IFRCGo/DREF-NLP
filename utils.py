@@ -73,9 +73,15 @@ def get_overlap(bbox1, bbox2):
 
 
 def is_lessons_learned_section_title(text):
+    # If nan
     if text != text:
         return False
-
+    # Check first letter is uppercase
+    letters = [char for char in text if char.isalpha()]
+    if letters:
+        if not letters[0].isupper():
+            return False
+    # If lessons learned
     if strip_non_alpha(text).lower() in ['lessons learned', 'lessons learnt']:
         return True
 
