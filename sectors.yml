@@ -2,6 +2,7 @@ Shelter, Housing and Settlements:
   titles:
     - shelter and settlements
     - shelter and settlements and household items
+    - shelter and settlement
   keywords:
     - shelter
     - house
@@ -12,6 +13,7 @@ Livelihoods:
   titles:
     - livelihoods
     - livelihoods and basic needs
+    - livelihood support
 
 Multi-Purpose Cash:
   titles:
@@ -71,8 +73,12 @@ National Society Strengthening:
   titles:
     - national society development
     - national society capacity building
+    - organizational development
+    - strengthen national society
   keywords:
     - nsd
+    - national society
+    - strengthen
 
 Community Engagement and Accountability:
   titles:
@@ -87,9 +93,15 @@ Quality Programming:
     - quality programming a common factor in all sectors
     - quality programming areas common to all sectors
 
+Migration and displacement:
+
 Disaster Risk Reduction:
   keywords:
     - disaster risk
+
+Disaster Management:
+
+International Disaster Response:
 
 Communications:
 
@@ -98,3 +110,7 @@ Restoring family links:
 Social and community development:
 
 Camp management and coordination:
+
+Influence others as leading strategic partner:
+
+Effective, credible and accountable IFRC:
