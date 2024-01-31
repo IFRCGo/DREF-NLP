@@ -40,7 +40,7 @@ def extract_text_and_fontsizes(document_path):
                             'text': s["text"].strip(),
                             'fontsize': s["size"],
                             'fontname': s["font"],
-                            'color': s["color"],
+                            'colour': s["color"],
                             'bold': (True if 'bold' in s["font"].lower() else False),
                             'highlight_colour': (highlight_colour_hex if highlights else None),
                             'page': page_number
