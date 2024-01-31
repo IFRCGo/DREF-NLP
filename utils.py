@@ -124,20 +124,26 @@ def get_lessons_learned_section_end(lines, size_threshold=0.2):
     for i, line in lines.iloc[1:].iterrows():
 
         if line['fontsize']:
-            if line['fontsize'] >= (title_size - size_threshold):
+            if line['fontsize'] >= (title_size + size_threshold):
                 size_condition_met = True
 
         if line['bold']:
             if line['bold']:
                 bold_condition_met = True
 
+        # If required conditions are met, return
         if require_large_size and require_bold:
             if size_condition_met and bold_condition_met:
                 return previous_index
-        elif require_large_size and size_condition_met:
-            return previous_index
-        elif require_bold and bold_condition_met:
-            return previous_index
+        elif require_large_size:
+            if size_condition_met:
+                return previous_index
+        elif require_bold:
+            if bold_condition_met:
+                return previous_index
+        else:
+            if bold_condition_met or size_condition_met:
+                return previous_index
 
         previous_index = i
                 
