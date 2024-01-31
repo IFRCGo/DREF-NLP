@@ -30,10 +30,12 @@ def extract_text_and_fontsizes(document_path):
                                 highlights.append(drawing)
 
                         # Get largest overlap
+                        highlight_colour_hex = None
                         if highlights:
                             largest_highlight = max(highlights, key=lambda x: x['overlap'])
                             highlight_colour = largest_highlight['fill']
-                            highlight_colour_hex = '#%02x%02x%02x' % (int(255*highlight_colour[0]), int(255*highlight_colour[1]), int(255*highlight_colour[2]))
+                            if highlight_colour:
+                                highlight_colour_hex = '#%02x%02x%02x' % (int(255*highlight_colour[0]), int(255*highlight_colour[1]), int(255*highlight_colour[2]))
                         
                         # Append results
                         data.append({
@@ -42,7 +44,7 @@ def extract_text_and_fontsizes(document_path):
                             'fontname': s["font"],
                             'colour': s["color"],
                             'bold': (True if 'bold' in s["font"].lower() else False),
-                            'highlight_colour': (highlight_colour_hex if highlights else None),
+                            'highlight_colour': highlight_colour_hex,
                             'page': page_number
                         })
 
