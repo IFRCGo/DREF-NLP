@@ -206,6 +206,8 @@ def get_ifrc_go_final_report(mdr_code, save_path):
     # Get final reports
     final_reports = [document for document in appeal_documents.json()['results'] if ('final' in document['name'].lower())]
     if len(final_reports)>1:
+        final_reports = [document for document in final_reports if ('prelim' not in document['name'].lower())]
+    if len(final_reports)>1:
         raise RuntimeError(f'More than one appeal document found for {mdr_code}\n\n{final_reports}')
     elif len(final_reports)==0:
         raise RuntimeError(f'No appeal documents found for {mdr_code}')
