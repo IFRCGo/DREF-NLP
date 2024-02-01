@@ -17,16 +17,16 @@ def extract_text_and_fontsizes(document_path):
 
         # Loop through blocks
         blocks = page_layout.get_text("dict", flags=11)["blocks"]
-        for b in blocks:
-            for l in b["lines"]:
-                for s in l["spans"]:
-                    if s['text'].strip():
+        for block in blocks:
+            for line_number, line in enumerate(block["lines"]):
+                for span_number, span in enumerate(line["spans"]):
+                    if span['text'].strip():
                         
                         # Check if the text block is contained in a drawing
                         highlights = []
                         for drawing in coloured_drawings:
-                            if get_overlap(s['bbox'], drawing['rect']):
-                                drawing['overlap'] = get_overlap(s['bbox'], drawing['rect'])
+                            if get_overlap(span['bbox'], drawing['rect']):
+                                drawing['overlap'] = get_overlap(span['bbox'], drawing['rect'])
                                 highlights.append(drawing)
 
                         # Get largest overlap
@@ -39,13 +39,15 @@ def extract_text_and_fontsizes(document_path):
                         
                         # Append results
                         data.append({
-                            'text': s["text"].strip(),
-                            'fontsize': s["size"],
-                            'fontname': s["font"],
-                            'colour': s["color"],
-                            'bold': (True if 'bold' in s["font"].lower() else False),
+                            'text': span["text"].strip(),
+                            'fontsize': span["size"],
+                            'fontname': span["font"],
+                            'colour': span["color"],
+                            'bold': (True if 'bold' in span["font"].lower() else False),
                             'highlight_colour': highlight_colour_hex,
-                            'page': page_number
+                            'page_number': page_number,
+                            'line_number': line_number,
+                            'span_number': span_number
                         })
 
     return data
@@ -72,17 +74,22 @@ def get_overlap(bbox1, bbox2):
         return dx*dy
 
 
-def is_lessons_learned_section_title(text):
-    # If nan
-    if text != text:
+def is_lessons_learned_section_title(row):
+    if row['text'] != row['text']:
         return False
+
     # Check first letter is uppercase
-    letters = [char for char in text if char.isalpha()]
+    letters = [char for char in row['text'] if char.isalpha()]
     if letters:
         if not letters[0].isupper():
             return False
-    # If lessons learned
-    if strip_non_alpha(text).lower() in ['lessons learned', 'lessons learnt']:
+
+    # If not at front of line, return False
+    if row['span_number'] > 0:
+        return False
+
+    # If lessons learned text
+    if strip_non_alpha(row['text']).lower() in ['lessons learned', 'lessons learnt']:
         return True
 
     return False
