@@ -74,15 +74,23 @@ def get_overlap(bbox1, bbox2):
         return dx*dy
 
 
+def is_title(text):
+    # Check first letter is uppercase
+    letters = [char for char in text if char.isalpha()]
+    if letters:
+        if letters[0].isupper():
+            return True
+        else:
+            return False
+
+
 def is_lessons_learned_section_title(row):
     if row['text'] != row['text']:
         return False
 
     # Check first letter is uppercase
-    letters = [char for char in row['text'] if char.isalpha()]
-    if letters:
-        if not letters[0].isupper():
-            return False
+    if not is_title(row['text']):
+        return False
 
     # If not at front of line, return False
     if row['span_number'] > 0:
@@ -101,55 +109,32 @@ def strip_non_alpha(text):
     return text.strip()
 
 
-def get_lessons_learned_section_end(lines, size_threshold=0.2):
+def get_lessons_learned_section_end(lines):
 
     # Get lessons learned title information
     title = lines.iloc[0]
-    title_size = title['fontsize']
-    title_bold = title['bold']
+    first_line_chars = lines.loc[lines['text'].str.contains('[a-zA-Z]')].iloc[1]
 
-    # Get first line information
-    first_line = lines.iloc[1]
-    first_line_size = first_line['fontsize']
-    first_line_bold = first_line['bold']
+    # Round sizes
+    title_size = 2*round(title['fontsize'])
+    first_line_size = 2*round(first_line_chars['fontsize'])
 
-    # If the title is larger than the first line, consider this font size to represent a new section
-    # Could do this based on exact fontsizes - doubled and rounded to int (i.e. exact halves)
-    require_large_size = False
-    if (title_size - first_line_size) >= size_threshold:
-        require_large_size = True
-
-    # Else, if title is bold and the first line is not bold, consider boldness to represent the new section
-    require_bold = False
-    if title_bold and not first_line_bold:
-        require_bold = True
-
-    # Loop through lines until required conditions are met
+    # Loop through lines
     # Returns index of last element in the lessons learned section
-    size_condition_met = False; bold_condition_met = False
     previous_index = None
     for i, line in lines.iloc[1:].iterrows():
 
-        if line['fontsize']:
-            if line['fontsize'] >= (title_size + size_threshold):
-                size_condition_met = True
+        line_size = 2*round(line['fontsize'])
 
-        if line['bold']:
-            if line['bold']:
-                bold_condition_met = True
+        # If line is a page number, continue
+        any_letters = [char for char in line['text'].strip() if char.isalpha()]
+        if not any_letters:
+            continue
 
-        # If required conditions are met, return
-        if require_large_size and require_bold:
-            if size_condition_met and bold_condition_met:
-                return previous_index
-        elif require_large_size:
-            if size_condition_met:
-                return previous_index
-        elif require_bold:
-            if bold_condition_met:
-                return previous_index
-        else:
-            if bold_condition_met or size_condition_met:
+        if line_size >= title_size:
+            return previous_index
+        elif line_size == title_size:
+            if (title['bold'] and line['bold']) and not first_line_chars['bold']:
                 return previous_index
 
         previous_index = i
@@ -157,14 +142,30 @@ def get_lessons_learned_section_end(lines, size_threshold=0.2):
     return lines.index[-1]
 
 
+def remove_dict_values(dct, remove_values):
+    # Dict in form: {66: [], 68: [], 71: [], 72: [497, 911, 1016, ...
+    # Remove values, and remove dict items if values is empty list
+    dct = {
+        k: [v for v in vals if v not in remove_values] 
+        for k, vals in dct.items()
+    }
+    return dct
+
+
+def remove_empty_dict_values(dct):
+    # Remove empty or None or False dict values
+    dct = {
+        k: v 
+        for k, v in dct.items()
+        if v
+    }
+    return dct
+
+
 def get_similar_sector(text):
     # If the text is not capitalised, return
-    for char in text:
-        if char.isalpha():
-            if not char.isupper():
-                return None
-            else:
-                break
+    if not is_title(text):
+        return None
 
     # If no alphanumeric characters, return
     sectors = yaml.safe_load(open('sectors.yml'))
