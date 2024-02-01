@@ -17,7 +17,7 @@ def extract_text_and_fontsizes(document_path):
 
         # Loop through blocks
         blocks = page_layout.get_text("dict", flags=11)["blocks"]
-        for block in blocks:
+        for block_number, block in enumerate(blocks):
             for line_number, line in enumerate(block["lines"]):
                 for span_number, span in enumerate(line["spans"]):
                     if span['text'].strip():
@@ -46,6 +46,7 @@ def extract_text_and_fontsizes(document_path):
                             'bold': (True if 'bold' in span["font"].lower() else False),
                             'highlight_colour': highlight_colour_hex,
                             'page_number': page_number,
+                            'block_number': block_number,
                             'line_number': line_number,
                             'span_number': span_number
                         })
@@ -75,6 +76,8 @@ def get_overlap(bbox1, bbox2):
 
 
 def is_title(text):
+    if text!=text: 
+        return False
     # Check first letter is uppercase
     letters = [char for char in text if char.isalpha()]
     if letters:
@@ -121,8 +124,8 @@ def get_lessons_learned_section_end(lines):
 
     # Loop through lines
     # Returns index of last element in the lessons learned section
-    previous_index = None
-    for i, line in lines.iloc[1:].iterrows():
+    previous_idx = 0
+    for idx, line in lines.iloc[1:].iterrows():
 
         line_size = 2*round(line['fontsize'])
 
@@ -131,13 +134,20 @@ def get_lessons_learned_section_end(lines):
         if not any_letters:
             continue
 
-        if line_size >= title_size:
-            return previous_index
-        elif line_size == title_size:
-            if (title['bold'] and line['bold']) and not first_line_chars['bold']:
-                return previous_index
+        # If the line is in a new block on the same page, return
+        if (line['block_number']!=first_line_chars['block_number']) and (line['page_number']==first_line_chars['page_number']):
+            return previous_idx
 
-        previous_index = i
+        # Next title if text is bigger than the lessons learned title, or bold
+        if line_size > title_size:
+            return previous_idx
+        elif line_size == title_size:
+            if first_line_size < title_size:
+                return previous_idx
+            if (title['bold'] and line['bold']) and not first_line_chars['bold']:
+                return previous_idx
+
+        previous_idx = idx
                 
     return lines.index[-1]
 
