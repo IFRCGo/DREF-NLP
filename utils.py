@@ -117,7 +117,7 @@ def get_lessons_learned_section_end(lines):
 
     # Get lessons learned title information
     title = lines.iloc[0]
-    first_line_chars = lines.loc[lines['text'].str.contains('[a-zA-Z]')].iloc[1]
+    first_line_chars = lines.loc[lines['text'].astype(str).str.contains('[a-zA-Z]')].iloc[1]
 
     # Round sizes
     title_size = 2*round(title['fontsize'])
