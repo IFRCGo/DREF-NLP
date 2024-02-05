@@ -135,10 +135,6 @@ def get_lessons_learned_section_end(lines):
         if not any_letters:
             continue
 
-        # If the line is in a new block on the same page, return
-        if (line['block_number']!=first_line_chars['block_number']) and (line['page_number']==first_line_chars['page_number']):
-            return previous_idx
-
         # Next title if text is bigger than the lessons learned title, or bold
         if line_size > title_size:
             return previous_idx
@@ -206,16 +202,25 @@ def get_similar_sector(text):
 
     # Next, check how many words in the text are covered by each sector and sector keywords
     text_base_words = text_base.split(' ')
-    filler_words = ['and']
-    text_base_words = [word for word in text_base_words if word not in filler_words]
     proportion_text_covered_by_sector = {}
     for sector_name, details in sectors.items():
         if details is None:
             keywords = []
         else:
             keywords = (details['keywords'] if 'keywords' in details else [])
-        overlap = [word for word in text_base_words if word in keywords]
-        proportion_text_covered_by_sector[sector_name] = len(overlap)/len(text_base_words)
+        
+        # Extract keywords from string to get overlap proportion
+        text_base_without_keywords = text_base
+        for keyword in keywords:
+            text_base_without_keywords = text_base_without_keywords.replace(keyword, '')
+        text_base_without_keywords_words = text_base_without_keywords.split(' ')
+
+        # Remove filler words
+        filler_words = ['and']
+        text_base_without_keywords_words = [word for word in text_base_without_keywords_words if (word and (word not in filler_words))]
+        text_base_without_filler_worlds = [word for word in text_base_words if (word and (word not in filler_words))]
+        number_words_covered = len(text_base_without_filler_worlds) - len(text_base_without_keywords_words)
+        proportion_text_covered_by_sector[sector_name] = number_words_covered/len(text_base_without_filler_worlds)
 
     max_sector = max(proportion_text_covered_by_sector, key=proportion_text_covered_by_sector.get)
     max_proportion = proportion_text_covered_by_sector[max_sector]
