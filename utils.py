@@ -100,7 +100,8 @@ def is_lessons_learned_section_title(row):
         return False
 
     # If lessons learned text
-    if strip_non_alpha(row['text']).lower() in ['lessons learned', 'lessons learnt']:
+    lessons_learned_titles = yaml.safe_load(open('lessons_learned_titles.yml'))
+    if strip_non_alpha(row['text']).lower() in lessons_learned_titles:
         return True
 
     return False
