@@ -75,9 +75,9 @@ def strip_non_alpha(text):
     return text.strip()
 
 
-def get_lessons_learned_section_end(lines):
+def get_section_end(lines):
 
-    # Get lessons learned title information
+    # Get title information
     title = lines.iloc[0]
     first_line_chars = lines.loc[lines['text'].astype(str).str.contains('[a-zA-Z]')].iloc[1]
 
@@ -86,7 +86,7 @@ def get_lessons_learned_section_end(lines):
     first_line_size = 2*round(first_line_chars['size'])
 
     # Loop through lines
-    # Returns index of last element in the lessons learned section
+    # Returns index of last element in the section
     previous_idx = 0
     for idx, line in lines.iloc[1:].iterrows():
 
@@ -97,7 +97,7 @@ def get_lessons_learned_section_end(lines):
         if not any_letters:
             continue
 
-        # Next title if text is bigger than the lessons learned title, or bold
+        # Next title if text is bigger than the title, or bold
         if line_size > title_size:
             return previous_idx
         elif line_size == title_size:

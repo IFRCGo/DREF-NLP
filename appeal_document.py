@@ -77,7 +77,7 @@ class AppealDocument:
                 section_lines = section_lines.loc[:min(following_sector_titles)-1]
 
             # Get end of lessons learned section based on font styles
-            lessons_learned_text_end = get_lessons_learned_section_end(section_lines)
+            lessons_learned_text_end = get_section_end(section_lines)
             section_lines = section_lines.loc[:lessons_learned_text_end]
 
             # Add section index to lessons learned
