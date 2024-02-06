@@ -42,16 +42,14 @@ class AppealDocument:
         lessons_learned_titles_idxs = lessons_learned_titles.index.tolist()
 
         # Match the lessons learned to the sector indexes
-        sector_names_map = None
+        sector_titles = None
         lessons_learned_sector_map = None
         if len(lessons_learned_titles) > 1:
             lessons_learned_processor = LessonsLearnedProcessor(
-                lines=self.lines,
                 lessons_learned=lessons_learned_titles_idxs
             )
             sector_titles = self.get_sector_titles(sector_title_texts)
-            sector_names_map = sector_titles['Sector title'].to_dict()
-            sectors_lessons_learned_map = lessons_learned_processor.match_sectors(
+            sectors_lessons_learned_map = lessons_learned_processor.get_lessons_learned_sectors(
                 sectors=sector_titles
             )
             lessons_learned_sector_map = {v:k for k,v in sectors_lessons_learned_map.items()}
@@ -89,7 +87,8 @@ class AppealDocument:
                     lessons_learned.loc[section_lines.index, 'Sector index'] = lessons_learned_sector_map[idx]
 
         # Filter for only lessons learned
-        if sector_names_map:
+        if sector_titles is not None:
+            sector_names_map = sector_titles['Sector title'].to_dict()
             lessons_learned['Sector title'] = lessons_learned['Sector index'].map(sector_names_map)
         lessons_learned = lessons_learned.loc[lessons_learned['Section index'].notnull()]
 

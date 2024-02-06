@@ -2,7 +2,7 @@ from utils import styles_are_similar
 
 
 class LessonsLearnedProcessor:
-    def __init__(self, lines, lessons_learned):
+    def __init__(self, lessons_learned):
         """
         Parameters
         ----------
@@ -16,19 +16,18 @@ class LessonsLearnedProcessor:
             Pandas DataFrame of sectors.
         """
         self.style_columns = ['font', 'double_fontsize_int', 'color', 'highlight_color']
-        self.lines = lines
         self.lessons_learned = lessons_learned
         self.sectors_lessons_learned_map = None
 
     
-    def match_sectors(self, sectors):
+    def get_lessons_learned_sectors(self, sectors):
         """
         """
         # Get the most likely font style of the sector titles
         primary_sector_style = self.match_sectors_by_style(
             sectors=sectors
         )
-        if self.unmatched_sectors:
+        if self.unmatched_lessons_learned:
 
             # Match lessons learned to sectors for sectors of a similar style
             similar_sector_styles = self.get_sectors_similar_styles(
@@ -43,7 +42,7 @@ class LessonsLearnedProcessor:
 
 
     @property
-    def unmatched_sectors(self):
+    def unmatched_lessons_learned(self):
         if self.sectors_lessons_learned_map is None:
             return self.lessons_learned
         else:
@@ -96,7 +95,7 @@ class LessonsLearnedProcessor:
         Match lessons learned to given sectors by distance between lessons learned and sectors.
         """    
         # Get other possible sector titles: texts with similar style, that are not the selected style
-        while self.unmatched_sectors and not sectors.empty:
+        while self.unmatched_lessons_learned and not sectors.empty:
 
             sectors['Lessons learned covered'] = sectors\
                 .index\
@@ -133,7 +132,7 @@ class LessonsLearnedProcessor:
         """
         lessons_learned_covered = []
         next_sector_idxs = [i for i in sector_idxs if i > sector_idx]
-        next_lessons_learned_idxs = [i for i in self.unmatched_sectors if i > sector_idx]
+        next_lessons_learned_idxs = [i for i in self.unmatched_lessons_learned if i > sector_idx]
         if next_lessons_learned_idxs:
             next_lessons_learned_idx = min(next_lessons_learned_idxs)
             if not next_sector_idxs:
