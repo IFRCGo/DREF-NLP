@@ -37,7 +37,7 @@ def extract_text_and_fontsizes(document_path):
                                 highlight_color_hex = '#%02x%02x%02x' % (int(255*highlight_color[0]), int(255*highlight_color[1]), int(255*highlight_color[2]))
                         
                         # Append results
-                        span['bold'] = (True if 'bold' in span["font"].lower() else False)
+                        span['bold'] = is_bold(span["font"])
                         span['highlight_color'] = highlight_color_hex
                         span['page_number'] = page_number
                         span['block_number'] = block_number
@@ -46,6 +46,12 @@ def extract_text_and_fontsizes(document_path):
                         data.append(span)
 
     return data
+
+
+def is_bold(text):
+    if ("black" in text.lower()) or ("bold" in text.lower()):
+        return True
+    return False
 
 
 def get_overlap(bbox1, bbox2):

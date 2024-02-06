@@ -19,7 +19,7 @@ class LessonsLearnedProcessor:
         sectors : pandas DataFrame (required)
             Pandas DataFrame of sectors.
         """
-        self.style_columns = ['font', 'double_fontsize_int', 'color', 'highlight_color']
+        self.style_columns = ['font', 'double_fontsize_int', 'color', 'highlight_color', 'bold']
         self.lines = self.process_lines(lines)
         self.sectors_lessons_learned_map = None
 
@@ -49,14 +49,14 @@ class LessonsLearnedProcessor:
         return lines
 
 
-    def get_lessons_learned_titles(self):
+    @cached_property
+    def lessons_learned_titles(self):
         """
         Get lessons learned titles
         """
         lessons_learned_title_texts = yaml.safe_load(open('lessons_learned_titles.yml'))
-        titles = self.get_titles()
-        lessons_learned_titles = titles.loc[
-            titles['text']\
+        lessons_learned_titles = self.titles.loc[
+            self.titles['text']\
                 .str.replace(r'[^A-Za-z ]+', ' ', regex=True)\
                 .str.replace(' +', ' ', regex=True)\
                 .str.lower()\
@@ -67,14 +67,10 @@ class LessonsLearnedProcessor:
 
 
     @cached_property
-    def lessons_learned(self):
-        return self.get_lessons_learned_titles().index.tolist()
-
-
-    def get_sector_titles(self, threshold=0.5):
+    def sector_titles(self):
         """
         """
-        sector_estimates = self.get_titles()
+        sector_estimates = self.titles.copy()
         sector_estimates[['Sector title', 'Sector similarity score']] = sector_estimates.apply(
             lambda row: 
                 None if row['text']!=row['text'] else \
@@ -85,7 +81,7 @@ class LessonsLearnedProcessor:
                 ), axis=1
             )
         
-        return sector_estimates.loc[sector_estimates['Sector similarity score'] >= threshold]
+        return sector_estimates.loc[sector_estimates['Sector similarity score'] >= 0.5]
 
 
     def get_similar_sector(self, text):
@@ -141,7 +137,8 @@ class LessonsLearnedProcessor:
             return max_sector, max_proportion
         
 
-    def get_titles(self):
+    @cached_property
+    def titles(self):
         """
         Get all titles in the documents
         """
@@ -155,6 +152,7 @@ class LessonsLearnedProcessor:
     
     def get_lessons_learned_sectors(self, sectors):
         """
+        Get a map between sector title IDs and lessons learned title IDs.
         """
         # Get the most likely font style of the sector titles
         primary_sector_style = self.match_sectors_by_style(
@@ -177,10 +175,10 @@ class LessonsLearnedProcessor:
     @property
     def unmatched_lessons_learned(self):
         if self.sectors_lessons_learned_map is None:
-            return self.lessons_learned
+            return self.lessons_learned_titles.index.tolist()
         else:
             return [
-                idx for idx in self.lessons_learned 
+                idx for idx in self.lessons_learned_titles.index.tolist()
                 if idx not in self.sectors_lessons_learned_map.values()
             ]
 
@@ -278,14 +276,9 @@ class LessonsLearnedProcessor:
         # Check if two styles are similar
         if abs(style1["double_fontsize_int"] - style2["double_fontsize_int"]) <= 4:
             if style1["highlight_color"] and style2["highlight_color"]:
-                if self.is_bold(style1['font']) == self.is_bold(style2['font']):
+                if style1['bold'] == style2['bold']:
                     return True
         return False
-
-
-    def is_bold(self, text):
-        if ("black" in text.lower()) or ("bold" in text.lower()):
-            return True
 
 
     def get_sectors_similar_styles(self, style, sectors):
@@ -302,25 +295,19 @@ class LessonsLearnedProcessor:
         """
         Get lessons learned
         """
-        # Get lessons learned titles
-        lessons_learned_titles = self.get_lessons_learned_titles()
-        lessons_learned_titles_idxs = lessons_learned_titles.index.tolist()
-
         # Match the lessons learned to the sector indexes
-        sector_titles = None
         lessons_learned_sector_map = None
-        if len(lessons_learned_titles) > 1:
+        if len(self.lessons_learned_titles) > 1:
 
             # Get the document sector titles
-            sector_titles = self.get_sector_titles()
             sectors_lessons_learned_map = self.get_lessons_learned_sectors(
-                sectors=sector_titles
+                sectors=self.sector_titles
             )
             lessons_learned_sector_map = {v:k for k,v in sectors_lessons_learned_map.items()}
         
         # Get the span of each lessons learned section
         lessons_learned = self.lines.copy()
-        for idx, row in lessons_learned_titles.iterrows():
+        for idx, row in self.lessons_learned_titles.iterrows():
 
             section_lines = lessons_learned.loc[idx:]
 
@@ -331,7 +318,7 @@ class LessonsLearnedProcessor:
             )]
 
             # Lessons learned section must end before the next lessons learned section
-            following_lessons_learned_titles = [i for i in lessons_learned_titles_idxs if i > idx]
+            following_lessons_learned_titles = [i for i in self.lessons_learned_titles.index if i > idx]
             if following_lessons_learned_titles:
                 section_lines = section_lines.loc[:min(following_lessons_learned_titles)-1]
 
@@ -341,7 +328,10 @@ class LessonsLearnedProcessor:
                 section_lines = section_lines.loc[:min(following_sector_titles)-1]
 
             # Get end of lessons learned section based on font styles
-            lessons_learned_text_end = self.get_section_end(section_lines)
+            lessons_learned_text_end = self.get_section_end(
+                title=section_lines.iloc[0],
+                lines=section_lines.iloc[1:]
+            )
             section_lines = section_lines.loc[:lessons_learned_text_end]
 
             # Add section index to lessons learned
@@ -350,21 +340,23 @@ class LessonsLearnedProcessor:
                 if idx in lessons_learned_sector_map:
                     lessons_learned.loc[section_lines.index, 'Sector index'] = lessons_learned_sector_map[idx]
 
-        # Filter for only lessons learned
-        if sector_titles is not None:
-            sector_names_map = sector_titles['Sector title'].to_dict()
+        # Add sector title
+        if lessons_learned_sector_map:
+            sector_names_map = self.sector_titles['Sector title'].to_dict()
             lessons_learned['Sector title'] = lessons_learned['Sector index'].map(sector_names_map)
+
+        # Filter for only lessons learned
         lessons_learned = lessons_learned.loc[lessons_learned['Section index'].notnull()]
 
         return lessons_learned
 
 
-    def get_section_end(self, lines):
+    def get_section_end(self, title, lines):
         """
+        Get the end of a section by comparing font properties of the section title to font properties of the section contents.
         """
         # Get title information
-        title = lines.iloc[0]
-        first_line_chars = lines.loc[lines['text'].astype(str).str.contains('[a-zA-Z]')].iloc[1]
+        first_line_chars = lines.loc[lines['text'].astype(str).str.contains('[a-zA-Z]')].iloc[0]
 
         # Round sizes
         title_size = 2*round(title['size'])
@@ -373,7 +365,7 @@ class LessonsLearnedProcessor:
         # Loop through lines
         # Returns index of last element in the section
         previous_idx = 0
-        for idx, line in lines.iloc[1:].iterrows():
+        for idx, line in lines.iterrows():
 
             line_size = 2*round(line['size'])
 
