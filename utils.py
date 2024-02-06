@@ -1,6 +1,5 @@
 import re
 import io
-import yaml
 from statistics import mean
 import requests
 from collections import Counter
@@ -159,19 +158,11 @@ def styles_are_similar(style1, style2):
     return False
 
 
-def get_similar_sector(text):
-    # If the text is not capitalised, return
-    if not is_text_title(text):
-        return None
-
-    # If no alphanumeric characters, return
-    sectors = yaml.safe_load(open('sectors.yml'))
+def get_similar_sector(text, sector_title_texts):
     text_base = strip_non_alpha(text).lower()
-    if text_base != text_base:
-        return
 
     # First, check if there is an exact match with the titles
-    for sector_name, details in sectors.items():
+    for sector_name, details in sector_title_texts.items():
         if details is None:
             titles = [sector_name]
         else:
@@ -181,7 +172,7 @@ def get_similar_sector(text):
                 return sector_name, 1
 
     # Next, check if there is an exact match with any keywords
-    for sector_name, details in sectors.items():
+    for sector_name, details in sector_title_texts.items():
         if details is None:
             keywords = []
         else:
@@ -193,7 +184,7 @@ def get_similar_sector(text):
     # Next, check how many words in the text are covered by each sector and sector keywords
     text_base_words = text_base.split(' ')
     proportion_text_covered_by_sector = {}
-    for sector_name, details in sectors.items():
+    for sector_name, details in sector_title_texts.items():
         if details is None:
             keywords = []
         else:
