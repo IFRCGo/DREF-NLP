@@ -309,30 +309,8 @@ class LessonsLearnedProcessor:
         lessons_learned = self.lines.copy()
         for idx, row in self.lessons_learned_titles.iterrows():
 
-            section_lines = lessons_learned.loc[idx:]
-
-            # Lessons learned section should only contain text lower than the title
-            section_lines = section_lines.loc[~(
-                (section_lines["page_number"]==row["page_number"]) & \
-                (section_lines["origin"].apply(literal_eval).str[1] < literal_eval(row["origin"])[1])
-            )]
-
-            # Lessons learned section must end before the next lessons learned section
-            following_lessons_learned_titles = [i for i in self.lessons_learned_titles.index if i > idx]
-            if following_lessons_learned_titles:
-                section_lines = section_lines.loc[:min(following_lessons_learned_titles)-1]
-
-            # Lessons learned section must end before the next sector title
-            following_sector_titles = [sector_idx for sector_idx in sectors_lessons_learned_map if sector_idx > idx]
-            if following_sector_titles:
-                section_lines = section_lines.loc[:min(following_sector_titles)-1]
-
-            # Get end of lessons learned section based on font styles
-            lessons_learned_text_end = self.get_section_end(
-                title=section_lines.iloc[0],
-                lines=section_lines.iloc[1:]
-            )
-            section_lines = section_lines.loc[:lessons_learned_text_end]
+            # Get lessons learned section lines
+            section_lines = self.get_lessons_learned_section_lines(idx=idx)
 
             # Add section index to lessons learned
             lessons_learned.loc[section_lines.index, 'Section index'] = idx
@@ -349,6 +327,39 @@ class LessonsLearnedProcessor:
         lessons_learned = lessons_learned.loc[lessons_learned['Section index'].notnull()]
 
         return lessons_learned
+
+
+    def get_lessons_learned_section_lines(self, idx):
+        """
+        Get the lines of a lessons learned section given the index of the title.
+        """
+        section_lines = self.lines.loc[idx:]
+        lessons_learned_title = self.lessons_learned_titles.loc[idx]
+
+        # Lessons learned section should only contain text lower than the title
+        section_lines = section_lines.loc[~(
+            (section_lines["page_number"]==lessons_learned_title["page_number"]) & \
+            (section_lines["origin"].apply(literal_eval).str[1] < literal_eval(lessons_learned_title["origin"])[1])
+        )]
+
+        # Lessons learned section must end before the next lessons learned section
+        following_lessons_learned_titles = [i for i in self.lessons_learned_titles.index if i > idx]
+        if following_lessons_learned_titles:
+            section_lines = section_lines.loc[:min(following_lessons_learned_titles)-1]
+
+        # Lessons learned section must end before the next sector title
+        following_sector_titles = [sector_idx for sector_idx in self.sectors_lessons_learned_map if sector_idx > idx]
+        if following_sector_titles:
+            section_lines = section_lines.loc[:min(following_sector_titles)-1]
+
+        # Get end of lessons learned section based on font styles
+        lessons_learned_text_end = self.get_section_end(
+            title=section_lines.iloc[0],
+            lines=section_lines.iloc[1:]
+        )
+        section_lines = section_lines.loc[:lessons_learned_text_end]
+
+        return section_lines
 
 
     def get_section_end(self, title, lines):
