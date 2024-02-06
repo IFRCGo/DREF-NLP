@@ -169,6 +169,20 @@ def remove_empty_dict_values(dct):
     return dct
 
 
+def is_bold(text):
+    if ("black" in text.lower()) or ("bold" in text.lower()):
+        return True
+
+
+def styles_are_similar(style1, style2):
+    # Check if two styles are similar
+    if abs(style1["double_fontsize_int"] - style2["double_fontsize_int"]) <= 4:
+        if style1["highlight_colour"] and style2["highlight_colour"]:
+            if is_bold(style1['fontname']) == is_bold(style2['fontname']):
+                return True
+    return False
+
+
 def get_similar_sector(text):
     # If the text is not capitalised, return
     if not is_title(text):
