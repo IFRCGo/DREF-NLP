@@ -3,6 +3,7 @@ Shelter, Housing and Settlements:
     - shelter and settlements
     - shelter and settlements and household items
     - shelter and settlement
+    - shelter
   keywords:
     - shelter
     - house
@@ -65,26 +66,33 @@ Food insecurity and nutrition:
 Risk Reduction, Climate adaptation and Recovery:
   titles:
     - risk reduction climate adaption and recovery
+    - disaster response preparedness early warning risk reduction
+    - disaster risk reduction
+    - disaster preparedness and risk reduction
   keywords:
     - risk reduction
     - climate
     - recovery
+    - disaster risk
 
 National Society Strengthening:
   titles:
     - national society development
     - national society capacity building
+    - ns capacity building
     - organizational development
     - strengthen national society
+    - ns capacity building and disaster preparedness
   keywords:
     - nsd
-    - national society
-    - strengthen
 
 Community Engagement and Accountability:
   titles:
     - cea
+    - community engagement and accountability
+    - community engagement and accountability cea
   keywords:
+    - cea
     - community engagement
     - accountability
 
@@ -96,13 +104,11 @@ Quality Programming:
 
 Migration and displacement:
 
-Disaster Risk Reduction:
-  keywords:
-    - disaster risk
-
 Disaster Management:
 
 International Disaster Response:
+  titles:
+    - response management and coordination
 
 Communications:
   titles:
