@@ -48,19 +48,6 @@ def extract_text_and_fontsizes(document_path):
     return data
 
 
-def box_inside_box(bbox1, bbox2, tolerance=0.05):
-    # bbox = (x0, y0, x1, y1)
-    # Check if bbox1 in bbox2
-    if (
-            (bbox2[0]-bbox1[0]) <= (tolerance*bbox1[0]) and 
-            (bbox2[1]-bbox1[1]) <= (tolerance*bbox1[1]) and 
-            (bbox1[2]-bbox2[2]) <= (tolerance*bbox1[2]) and 
-            (bbox1[3]-bbox2[3]) <= (tolerance*bbox1[3])
-        ):
-        return True
-    return False
-
-
 def get_overlap(bbox1, bbox2):
     # Get overlap area between boxes
     dx = min(bbox1[2], bbox2[2]) - max(bbox1[0], bbox2[0])
@@ -122,26 +109,6 @@ def get_lessons_learned_section_end(lines):
         previous_idx = idx
                 
     return lines.index[-1]
-
-
-def remove_dict_values(dct, remove_values):
-    # Dict in form: {66: [], 68: [], 71: [], 72: [497, 911, 1016, ...
-    # Remove values, and remove dict items if values is empty list
-    dct = {
-        k: [v for v in vals if v not in remove_values] 
-        for k, vals in dct.items()
-    }
-    return dct
-
-
-def remove_empty_dict_values(dct):
-    # Remove empty or None or False dict values
-    dct = {
-        k: v 
-        for k, v in dct.items()
-        if v
-    }
-    return dct
 
 
 def is_bold(text):
