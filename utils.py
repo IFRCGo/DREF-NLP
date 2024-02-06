@@ -30,26 +30,21 @@ def extract_text_and_fontsizes(document_path):
                                 highlights.append(drawing)
 
                         # Get largest overlap
-                        highlight_colour_hex = None
+                        highlight_color_hex = None
                         if highlights:
                             largest_highlight = max(highlights, key=lambda x: x['overlap'])
-                            highlight_colour = largest_highlight['fill']
-                            if highlight_colour:
-                                highlight_colour_hex = '#%02x%02x%02x' % (int(255*highlight_colour[0]), int(255*highlight_colour[1]), int(255*highlight_colour[2]))
+                            highlight_color = largest_highlight['fill']
+                            if highlight_color:
+                                highlight_color_hex = '#%02x%02x%02x' % (int(255*highlight_color[0]), int(255*highlight_color[1]), int(255*highlight_color[2]))
                         
                         # Append results
-                        data.append({
-                            'text': span["text"].strip(),
-                            'fontsize': span["size"],
-                            'fontname': span["font"],
-                            'colour': span["color"],
-                            'bold': (True if 'bold' in span["font"].lower() else False),
-                            'highlight_colour': highlight_colour_hex,
-                            'page_number': page_number,
-                            'block_number': block_number,
-                            'line_number': line_number,
-                            'span_number': span_number
-                        })
+                        span['bold'] = (True if 'bold' in span["font"].lower() else False)
+                        span['highlight_color'] = highlight_color_hex
+                        span['page_number'] = page_number
+                        span['block_number'] = block_number
+                        span['line_number'] = line_number
+                        span['span_number'] = span_number
+                        data.append(span)
 
     return data
 
@@ -101,15 +96,15 @@ def get_lessons_learned_section_end(lines):
     first_line_chars = lines.loc[lines['text'].astype(str).str.contains('[a-zA-Z]')].iloc[1]
 
     # Round sizes
-    title_size = 2*round(title['fontsize'])
-    first_line_size = 2*round(first_line_chars['fontsize'])
+    title_size = 2*round(title['size'])
+    first_line_size = 2*round(first_line_chars['size'])
 
     # Loop through lines
     # Returns index of last element in the lessons learned section
     previous_idx = 0
     for idx, line in lines.iloc[1:].iterrows():
 
-        line_size = 2*round(line['fontsize'])
+        line_size = 2*round(line['size'])
 
         # If line is a page number, continue
         any_letters = [char for char in line['text'].strip() if char.isalpha()]
@@ -158,8 +153,8 @@ def is_bold(text):
 def styles_are_similar(style1, style2):
     # Check if two styles are similar
     if abs(style1["double_fontsize_int"] - style2["double_fontsize_int"]) <= 4:
-        if style1["highlight_colour"] and style2["highlight_colour"]:
-            if is_bold(style1['fontname']) == is_bold(style2['fontname']):
+        if style1["highlight_color"] and style2["highlight_color"]:
+            if is_bold(style1['font']) == is_bold(style2['font']):
                 return True
     return False
 
