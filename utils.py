@@ -75,7 +75,7 @@ def get_overlap(bbox1, bbox2):
         return dx*dy
 
 
-def is_title(text):
+def is_text_title(text):
     if text!=text: 
         return False
     # Check first letter is uppercase
@@ -85,25 +85,6 @@ def is_title(text):
             return True
         else:
             return False
-
-
-def is_lessons_learned_section_title(row):
-    if row['text'] != row['text']:
-        return False
-
-    # Check first letter is uppercase
-    if not is_title(row['text']):
-        return False
-
-    # If not at front of line, return False
-    if row['span_number'] > 0:
-        return False
-
-    # If lessons learned text
-    lessons_learned_titles = yaml.safe_load(open('lessons_learned_titles.yml'))
-    if strip_non_alpha(row['text']).lower() in lessons_learned_titles:
-        return True
-
     return False
 
 
@@ -185,7 +166,7 @@ def styles_are_similar(style1, style2):
 
 def get_similar_sector(text):
     # If the text is not capitalised, return
-    if not is_title(text):
+    if not is_text_title(text):
         return None
 
     # If no alphanumeric characters, return
