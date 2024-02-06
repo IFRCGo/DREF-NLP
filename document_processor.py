@@ -1,8 +1,12 @@
-from utils import styles_are_similar
+from ast import literal_eval
+from functools import cached_property
+import yaml
+import pandas as pd
+from utils import is_text_title, strip_non_alpha
 
 
 class LessonsLearnedProcessor:
-    def __init__(self, lessons_learned):
+    def __init__(self, lines):
         """
         Parameters
         ----------
@@ -16,8 +20,137 @@ class LessonsLearnedProcessor:
             Pandas DataFrame of sectors.
         """
         self.style_columns = ['font', 'double_fontsize_int', 'color', 'highlight_color']
-        self.lessons_learned = lessons_learned
+        self.lines = self.process_lines(lines)
         self.sectors_lessons_learned_map = None
+
+
+    def process_lines(self, lines):
+        """
+        Add some more information.
+        """
+        # Remove photo blocks
+        lines = self.remove_photo_blocks(lines)
+
+        # Add more info
+        lines['double_fontsize_int'] = (lines['size']*2).round(0).astype('Int64')
+        lines['style'] = lines['font'].astype(str)+', '+lines['double_fontsize_int'].astype(str)+', '+lines['color'].astype(str)+', '+lines['highlight_color'].astype(str)
+
+        return lines
+
+
+    def remove_photo_blocks(self, lines):
+        """
+        Remove blocks which look like photos from the document lines.
+        """
+        lines['block_page'] = lines['block_number'].astype(str)+'_'+lines['page_number'].astype(str)
+        photo_blocks = lines.loc[lines['text'].astype(str).str.contains('Photo: '), 'block_page'].unique()
+        lines = lines.loc[~lines['block_page'].isin(photo_blocks)].drop(columns=['block_page'])
+
+        return lines
+
+
+    def get_lessons_learned_titles(self):
+        """
+        Get lessons learned titles
+        """
+        lessons_learned_title_texts = yaml.safe_load(open('lessons_learned_titles.yml'))
+        titles = self.get_titles()
+        lessons_learned_titles = titles.loc[
+            titles['text']\
+                .str.replace(r'[^A-Za-z ]+', ' ', regex=True)\
+                .str.replace(' +', ' ', regex=True)\
+                .str.lower()\
+                .str.strip()\
+                .isin(lessons_learned_title_texts)
+        ]
+        return lessons_learned_titles
+
+
+    @cached_property
+    def lessons_learned(self):
+        return self.get_lessons_learned_titles().index.tolist()
+
+
+    def get_sector_titles(self, threshold=0.5):
+        """
+        """
+        sector_estimates = self.get_titles()
+        sector_estimates[['Sector title', 'Sector similarity score']] = sector_estimates.apply(
+            lambda row: 
+                None if row['text']!=row['text'] else \
+                pd.Series(
+                    self.get_similar_sector(
+                        row['text']
+                    )
+                ), axis=1
+            )
+        
+        return sector_estimates.loc[sector_estimates['Sector similarity score'] >= threshold]
+
+
+    def get_similar_sector(self, text):
+        text_base = strip_non_alpha(text).lower()
+        sector_title_texts = yaml.safe_load(open('sectors.yml'))
+
+        # First, check if there is an exact match with the titles
+        for sector_name, details in sector_title_texts.items():
+            if details is None:
+                titles = [sector_name]
+            else:
+                titles = (details['titles'] if 'titles' in details else [])+[sector_name]
+            for title in titles:
+                if text_base == strip_non_alpha(title).lower():
+                    return sector_name, 1
+
+        # Next, check if there is an exact match with any keywords
+        for sector_name, details in sector_title_texts.items():
+            if details is None:
+                keywords = []
+            else:
+                keywords = (details['keywords'] if 'keywords' in details else [])
+            for keyword in keywords:
+                if text_base == strip_non_alpha(keyword).lower():
+                    return sector_name, 0.9
+
+        # Next, check how many words in the text are covered by each sector and sector keywords
+        text_base_words = text_base.split(' ')
+        proportion_text_covered_by_sector = {}
+        for sector_name, details in sector_title_texts.items():
+            if details is None:
+                keywords = []
+            else:
+                keywords = (details['keywords'] if 'keywords' in details else [])
+            
+            # Extract keywords from string to get overlap proportion
+            text_base_without_keywords = text_base
+            for keyword in keywords:
+                text_base_without_keywords = text_base_without_keywords.replace(keyword, '')
+            text_base_without_keywords_words = text_base_without_keywords.split(' ')
+
+            # Remove filler words
+            filler_words = ['and']
+            text_base_without_keywords_words = [word for word in text_base_without_keywords_words if (word and (word not in filler_words))]
+            text_base_without_filler_worlds = [word for word in text_base_words if (word and (word not in filler_words))]
+            number_words_covered = len(text_base_without_filler_worlds) - len(text_base_without_keywords_words)
+            proportion_text_covered_by_sector[sector_name] = number_words_covered/len(text_base_without_filler_worlds)
+
+        max_sector = max(proportion_text_covered_by_sector, key=proportion_text_covered_by_sector.get)
+        max_proportion = proportion_text_covered_by_sector[max_sector]
+
+        if max_proportion > 0:
+            return max_sector, max_proportion
+        
+
+    def get_titles(self):
+        """
+        Get all titles in the documents
+        """
+        titles = self.lines.dropna(subset=['text'])\
+                            .loc[
+                                (self.lines['span_number']==0) & 
+                                (self.lines['text'].apply(is_text_title))
+                            ]
+        return titles
 
     
     def get_lessons_learned_sectors(self, sectors):
@@ -145,16 +278,119 @@ class LessonsLearnedProcessor:
         # Check if two styles are similar
         if abs(style1["double_fontsize_int"] - style2["double_fontsize_int"]) <= 4:
             if style1["highlight_color"] and style2["highlight_color"]:
-                if is_bold(style1['font']) == is_bold(style2['font']):
+                if self.is_bold(style1['font']) == self.is_bold(style2['font']):
                     return True
         return False
+
+
+    def is_bold(self, text):
+        if ("black" in text.lower()) or ("bold" in text.lower()):
+            return True
 
 
     def get_sectors_similar_styles(self, style, sectors):
         return sectors.loc[
             (sectors['style']!=style.name) & 
             sectors.apply(
-                lambda row: styles_are_similar(row, style), 
+                lambda row: self.styles_are_similar(row, style), 
                 axis=1
             )
         ]
+
+
+    def get_lessons_learned(self):
+        """
+        Get lessons learned
+        """
+        # Get lessons learned titles
+        lessons_learned_titles = self.get_lessons_learned_titles()
+        lessons_learned_titles_idxs = lessons_learned_titles.index.tolist()
+
+        # Match the lessons learned to the sector indexes
+        sector_titles = None
+        lessons_learned_sector_map = None
+        if len(lessons_learned_titles) > 1:
+
+            # Get the document sector titles
+            sector_titles = self.get_sector_titles()
+            sectors_lessons_learned_map = self.get_lessons_learned_sectors(
+                sectors=sector_titles
+            )
+            lessons_learned_sector_map = {v:k for k,v in sectors_lessons_learned_map.items()}
+        
+        # Get the span of each lessons learned section
+        lessons_learned = self.lines.copy()
+        for idx, row in lessons_learned_titles.iterrows():
+
+            section_lines = lessons_learned.loc[idx:]
+
+            # Lessons learned section should only contain text lower than the title
+            section_lines = section_lines.loc[~(
+                (section_lines["page_number"]==row["page_number"]) & \
+                (section_lines["origin"].apply(literal_eval).str[1] < literal_eval(row["origin"])[1])
+            )]
+
+            # Lessons learned section must end before the next lessons learned section
+            following_lessons_learned_titles = [i for i in lessons_learned_titles_idxs if i > idx]
+            if following_lessons_learned_titles:
+                section_lines = section_lines.loc[:min(following_lessons_learned_titles)-1]
+
+            # Lessons learned section must end before the next sector title
+            following_sector_titles = [sector_idx for sector_idx in sectors_lessons_learned_map if sector_idx > idx]
+            if following_sector_titles:
+                section_lines = section_lines.loc[:min(following_sector_titles)-1]
+
+            # Get end of lessons learned section based on font styles
+            lessons_learned_text_end = self.get_section_end(section_lines)
+            section_lines = section_lines.loc[:lessons_learned_text_end]
+
+            # Add section index to lessons learned
+            lessons_learned.loc[section_lines.index, 'Section index'] = idx
+            if lessons_learned_sector_map:
+                if idx in lessons_learned_sector_map:
+                    lessons_learned.loc[section_lines.index, 'Sector index'] = lessons_learned_sector_map[idx]
+
+        # Filter for only lessons learned
+        if sector_titles is not None:
+            sector_names_map = sector_titles['Sector title'].to_dict()
+            lessons_learned['Sector title'] = lessons_learned['Sector index'].map(sector_names_map)
+        lessons_learned = lessons_learned.loc[lessons_learned['Section index'].notnull()]
+
+        return lessons_learned
+
+
+    def get_section_end(self, lines):
+        """
+        """
+        # Get title information
+        title = lines.iloc[0]
+        first_line_chars = lines.loc[lines['text'].astype(str).str.contains('[a-zA-Z]')].iloc[1]
+
+        # Round sizes
+        title_size = 2*round(title['size'])
+        first_line_size = 2*round(first_line_chars['size'])
+
+        # Loop through lines
+        # Returns index of last element in the section
+        previous_idx = 0
+        for idx, line in lines.iloc[1:].iterrows():
+
+            line_size = 2*round(line['size'])
+
+            # If line is a page number, continue
+            any_letters = [char for char in line['text'].strip() if char.isalpha()]
+            if not any_letters:
+                continue
+
+            # Next title if text is bigger than the title, or bold
+            if line_size > title_size:
+                return previous_idx
+            elif line_size == title_size:
+                if first_line_size < title_size:
+                    return previous_idx
+                if (title['bold'] and line['bold']) and not first_line_chars['bold']:
+                    return previous_idx
+
+            previous_idx = idx
+                    
+        return lines.index[-1]
