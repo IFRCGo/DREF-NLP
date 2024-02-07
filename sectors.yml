@@ -18,6 +18,12 @@ Livelihoods:
     - livelihoods and basic needs
     - livelihood support
 
+Relief:
+  titles:
+    - relief
+    - relief distributions
+    - relief distributions food and basic non food items
+
 Multi-Purpose Cash:
   titles:
     - multipurpose cash
@@ -85,6 +91,9 @@ National Society Strengthening:
     - organizational development
     - strengthen national society
     - ns capacity building and disaster preparedness
+    - ns capacity building and preparedness
+    - national society capacity building and preparedness
+    - national society capacity building and disaster preparedness
   keywords:
     - nsd
 
@@ -104,6 +113,7 @@ Quality Programming:
     - quality programming a common factor in all sectors
     - quality programming areas common to all sectors
     - quality programming areas common to all the sectors
+    - quality programming programming support services
 
 Migration and displacement:
 
