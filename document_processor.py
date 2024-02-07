@@ -34,7 +34,7 @@ class LessonsLearnedProcessor:
         self.remove_page_labels_references()
         self.drop_repeating_headers_footers()
 
-        # Remove headers and footers again in case they were below or above the repeating headers and footers
+        # Have to run again in case page labels or references were below or above the repeating headers and footers
         self.remove_page_labels_references()
 
         # Add more info
@@ -139,6 +139,7 @@ class LessonsLearnedProcessor:
 
             # Get repeating texts
             elements = lines.loc[lines['page_block'].isin(page_blocks['page_block'].unique())]
+            elements.loc[:, 'text'] = elements.loc[:, 'text'].apply(strip_non_alphanumeric).str.lower()
             repeating_texts = elements\
                 .reset_index()\
                 .groupby(['page_number'])\
