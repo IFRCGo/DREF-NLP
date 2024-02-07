@@ -146,8 +146,9 @@ class LessonsLearnedProcessor:
                 .groupby(['text'])\
                 .filter(lambda x: len(x)>1)
 
-            # Remove indexes
-            self.lines = self.lines.drop(repeating_texts['index'].explode())
+            # Remove indexes - check exists in case page top block overlaps bottom block
+            remove_indexes = [idx for idx in repeating_texts['index'].explode() if idx in self.lines.index]
+            self.lines = self.lines.drop(remove_indexes)
 
 
     @cached_property
