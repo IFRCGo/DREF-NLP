@@ -2,7 +2,7 @@ from ast import literal_eval
 from functools import cached_property
 import yaml
 import pandas as pd
-from utils import is_text_title, strip_non_alpha
+from utils import is_text_title, strip_non_alpha, strip_filler_words
 
 
 class LessonsLearnedProcessor:
@@ -98,6 +98,16 @@ class LessonsLearnedProcessor:
                 if text_base == strip_non_alpha(title).lower():
                     return sector_name, 1
 
+        # Next, check if the title is any title plus filler words 
+        for sector_name, details in sector_title_texts.items():
+            if details is None:
+                titles = [sector_name]
+            else:
+                titles = (details['titles'] if 'titles' in details else [])+[sector_name]
+            for title in titles:
+                if strip_filler_words(text_base) == strip_filler_words(strip_non_alpha(title).lower()):
+                    return sector_name, 1
+
         # Next, check if there is an exact match with any keywords
         for sector_name, details in sector_title_texts.items():
             if details is None:
@@ -124,7 +134,7 @@ class LessonsLearnedProcessor:
             text_base_without_keywords_words = text_base_without_keywords.split(' ')
 
             # Remove filler words
-            filler_words = ['and']
+            filler_words = ['and', 'the']
             text_base_without_keywords_words = [word for word in text_base_without_keywords_words if (word and (word not in filler_words))]
             text_base_without_filler_worlds = [word for word in text_base_words if (word and (word not in filler_words))]
             number_words_covered = len(text_base_without_filler_worlds) - len(text_base_without_keywords_words)
@@ -324,7 +334,8 @@ class LessonsLearnedProcessor:
             lessons_learned['Sector similarity score'] = lessons_learned['Sector index'].map(self.sector_titles['Sector similarity score'].to_dict())
 
         # Filter for only lessons learned
-        lessons_learned = lessons_learned.loc[lessons_learned['Section index'].notnull()]
+        if not self.lessons_learned_titles.empty:
+            lessons_learned = lessons_learned.loc[lessons_learned['Section index'].notnull()]
 
         return lessons_learned
 

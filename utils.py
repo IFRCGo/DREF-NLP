@@ -82,6 +82,12 @@ def strip_non_alpha(text):
     return text.strip()
 
 
+def strip_filler_words(text):
+    filler_words = ['and', 'the']
+    words = text.split(' ')
+    return [word for word in words if word not in filler_words]
+
+
 def get_ifrc_go_final_report(mdr_code, save_path):
     # Get Appeal ID
     appeals = requests.get(f'https://goadmin.ifrc.org/api/v2/appeal/?format=json&code={mdr_code}')
