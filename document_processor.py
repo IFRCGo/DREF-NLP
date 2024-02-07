@@ -32,7 +32,7 @@ class LessonsLearnedProcessor:
         lines = self.remove_photo_blocks(lines)
 
         # Add more info
-        lines['double_fontsize_int'] = (lines['size']*2).round(0).astype('Int64')
+        lines['double_fontsize_int'] = (lines['size'].astype(float)*2).round(0).astype('Int64')
         lines['style'] = lines['font'].astype(str)+', '+lines['double_fontsize_int'].astype(str)+', '+lines['color'].astype(str)+', '+lines['highlight_color'].astype(str)
 
         return lines
@@ -320,8 +320,8 @@ class LessonsLearnedProcessor:
 
         # Add sector title
         if lessons_learned_sector_map:
-            sector_names_map = self.sector_titles['Sector title'].to_dict()
-            lessons_learned['Sector title'] = lessons_learned['Sector index'].map(sector_names_map)
+            lessons_learned['Sector title'] = lessons_learned['Sector index'].map(self.sector_titles['Sector title'].to_dict())
+            lessons_learned['Sector similarity score'] = lessons_learned['Sector index'].map(self.sector_titles['Sector similarity score'].to_dict())
 
         # Filter for only lessons learned
         lessons_learned = lessons_learned.loc[lessons_learned['Section index'].notnull()]
@@ -348,9 +348,10 @@ class LessonsLearnedProcessor:
             section_lines = section_lines.loc[:min(following_lessons_learned_titles)-1]
 
         # Lessons learned section must end before the next sector title
-        following_sector_titles = [sector_idx for sector_idx in self.sectors_lessons_learned_map if sector_idx > idx]
-        if following_sector_titles:
-            section_lines = section_lines.loc[:min(following_sector_titles)-1]
+        if self.sectors_lessons_learned_map:
+            following_sector_titles = [sector_idx for sector_idx in self.sectors_lessons_learned_map if sector_idx > idx]
+            if following_sector_titles:
+                section_lines = section_lines.loc[:min(following_sector_titles)-1]
 
         # Get end of lessons learned section based on font styles
         lessons_learned_text_end = self.get_section_end(

@@ -37,6 +37,7 @@ def extract_text_and_fontsizes(document_path):
                                 highlight_color_hex = '#%02x%02x%02x' % (int(255*highlight_color[0]), int(255*highlight_color[1]), int(255*highlight_color[2]))
                         
                         # Append results
+                        span['text'] = span['text'].strip().replace('\r', '\n')
                         span['bold'] = is_bold(span["font"])
                         span['highlight_color'] = highlight_color_hex
                         span['page_number'] = page_number
