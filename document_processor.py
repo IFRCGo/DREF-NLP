@@ -38,7 +38,7 @@ class LessonsLearnedProcessor:
 
         # Add more info
         self.lines['double_fontsize_int'] = (self.lines['size'].astype(float)*2).round(0).astype('Int64')
-        self.lines['style'] = self.lines['font'].astype(str)+', '+self.lines['double_fontsize_int'].astype(str)+', '+lines['color'].astype(str)+', '+self.lines['highlight_color'].astype(str)
+        self.lines['style'] = self.lines['font'].astype(str)+', '+self.lines['double_fontsize_int'].astype(str)+', '+self.lines['color'].astype(str)+', '+self.lines['highlight_color'].astype(str)
 
 
     def remove_photo_blocks(self):
