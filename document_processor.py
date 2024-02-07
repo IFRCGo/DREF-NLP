@@ -228,7 +228,7 @@ class LessonsLearnedProcessor:
         sector_title_styles['Number lessons learned covered'] = sector_title_styles['Lessons learned covered'].apply(lambda x: x if x is None else len(x))
 
         # Get distance from lessons learned
-        sector_title_styles['Distance from lessons learned'] = sector_title_styles['Lessons learned covered'].apply(lambda x: np.mean([v-k for k,v in x.items()]))
+        sector_title_styles['Distance from lessons learned'] = sector_title_styles['Lessons learned covered'].apply(lambda x: np.mean([v-k for k,v in x.items()]) if x else float('nan'))
         
         # Select the largest style that covers most lessons learned sections
         primary_sector_style = sector_title_styles\
@@ -279,8 +279,9 @@ class LessonsLearnedProcessor:
 
     def get_next_lessons_learned(self, sector_idx, sector_idxs):
         """
-        Get the next unmatched lessons learned index after the sector position, unless there is a sector index first.
+        Get the next unmatched lessons learned index after the sector position at sector_idx, unless there is a sector index first (in sector_idxs).
         """
+        # Loop through next lessons learned section indexes, and return if before the nearest sector index
         lessons_learned_covered = []
         next_sector_idxs = [i for i in sector_idxs if i > sector_idx]
         next_lessons_learned_idxs = [i for i in self.unmatched_lessons_learned if i > sector_idx]
