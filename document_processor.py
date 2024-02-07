@@ -88,6 +88,19 @@ class LessonsLearnedProcessor:
                 .isin(lessons_learned_title_texts)
         ]
         return lessons_learned_titles
+        
+
+    @cached_property
+    def titles(self):
+        """
+        Get all titles in the documents
+        """
+        titles = self.lines.dropna(subset=['text'])\
+                            .loc[
+                                (self.lines['span_number']==0) & 
+                                (self.lines['text'].apply(is_text_title))
+                            ]
+        return titles
 
 
     @cached_property
@@ -114,6 +127,9 @@ class LessonsLearnedProcessor:
 
 
     def get_similar_sector(self, text):
+        """
+        Check if text is similar to a list of known sector titles.
+        """
         text_base = strip_non_alpha(text).lower()
         sector_title_texts = yaml.safe_load(open('sectors.yml'))
 
@@ -177,19 +193,45 @@ class LessonsLearnedProcessor:
 
         if max_proportion > 0:
             return max_sector, max_proportion
-        
 
-    @cached_property
-    def titles(self):
+
+    def get_lessons_learned(self):
         """
-        Get all titles in the documents
+        Get lessons learned
         """
-        titles = self.lines.dropna(subset=['text'])\
-                            .loc[
-                                (self.lines['span_number']==0) & 
-                                (self.lines['text'].apply(is_text_title))
-                            ]
-        return titles
+        # Match the lessons learned to the sector indexes
+        lessons_learned_sector_map = None
+        if len(self.lessons_learned_titles) > 1:
+
+            # Get the document sector titles
+            sectors_lessons_learned_map = self.get_lessons_learned_sectors(
+                sectors=self.sector_titles
+            )
+            lessons_learned_sector_map = {v:k for k,v in sectors_lessons_learned_map.items()}
+        
+        # Get the span of each lessons learned section
+        lessons_learned = self.lines.copy()
+        for idx, row in self.lessons_learned_titles.iterrows():
+
+            # Get lessons learned section lines
+            section_lines = self.get_lessons_learned_section_lines(idx=idx)
+
+            # Add section index to lessons learned
+            lessons_learned.loc[section_lines.index, 'Section index'] = idx
+            if lessons_learned_sector_map:
+                if idx in lessons_learned_sector_map:
+                    lessons_learned.loc[section_lines.index, 'Sector index'] = lessons_learned_sector_map[idx]
+
+        # Add sector title
+        if lessons_learned_sector_map:
+            lessons_learned['Sector title'] = lessons_learned['Sector index'].map(self.sector_titles['Sector title'].to_dict())
+            lessons_learned['Sector similarity score'] = lessons_learned['Sector index'].map(self.sector_titles['Sector similarity score'].to_dict())
+
+        # Filter for only lessons learned
+        if not self.lessons_learned_titles.empty:
+            lessons_learned = lessons_learned.loc[lessons_learned['Section index'].notnull()]
+
+        return lessons_learned
 
     
     def get_lessons_learned_sectors(self, sectors):
@@ -333,45 +375,6 @@ class LessonsLearnedProcessor:
                 axis=1
             )
         ]
-
-
-    def get_lessons_learned(self):
-        """
-        Get lessons learned
-        """
-        # Match the lessons learned to the sector indexes
-        lessons_learned_sector_map = None
-        if len(self.lessons_learned_titles) > 1:
-
-            # Get the document sector titles
-            sectors_lessons_learned_map = self.get_lessons_learned_sectors(
-                sectors=self.sector_titles
-            )
-            lessons_learned_sector_map = {v:k for k,v in sectors_lessons_learned_map.items()}
-        
-        # Get the span of each lessons learned section
-        lessons_learned = self.lines.copy()
-        for idx, row in self.lessons_learned_titles.iterrows():
-
-            # Get lessons learned section lines
-            section_lines = self.get_lessons_learned_section_lines(idx=idx)
-
-            # Add section index to lessons learned
-            lessons_learned.loc[section_lines.index, 'Section index'] = idx
-            if lessons_learned_sector_map:
-                if idx in lessons_learned_sector_map:
-                    lessons_learned.loc[section_lines.index, 'Sector index'] = lessons_learned_sector_map[idx]
-
-        # Add sector title
-        if lessons_learned_sector_map:
-            lessons_learned['Sector title'] = lessons_learned['Sector index'].map(self.sector_titles['Sector title'].to_dict())
-            lessons_learned['Sector similarity score'] = lessons_learned['Sector index'].map(self.sector_titles['Sector similarity score'].to_dict())
-
-        # Filter for only lessons learned
-        if not self.lessons_learned_titles.empty:
-            lessons_learned = lessons_learned.loc[lessons_learned['Section index'].notnull()]
-
-        return lessons_learned
 
 
     def get_lessons_learned_section_lines(self, idx):
