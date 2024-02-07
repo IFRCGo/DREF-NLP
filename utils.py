@@ -18,33 +18,33 @@ def extract_text_and_fontsizes(document_path):
         blocks = page_layout.get_text("dict", flags=11)["blocks"]
         for block_number, block in enumerate(blocks):
             for line_number, line in enumerate(block["lines"]):
-                for span_number, span in enumerate(line["spans"]):
-                    if span['text'].strip():
+                spans = [span for span in line['spans'] if span['text'].strip()]
+                for span_number, span in enumerate(spans):
                         
-                        # Check if the text block is contained in a drawing
-                        highlights = []
-                        for drawing in coloured_drawings:
-                            if get_overlap(span['bbox'], drawing['rect']):
-                                drawing['overlap'] = get_overlap(span['bbox'], drawing['rect'])
-                                highlights.append(drawing)
+                    # Check if the text block is contained in a drawing
+                    highlights = []
+                    for drawing in coloured_drawings:
+                        if get_overlap(span['bbox'], drawing['rect']):
+                            drawing['overlap'] = get_overlap(span['bbox'], drawing['rect'])
+                            highlights.append(drawing)
 
-                        # Get largest overlap
-                        highlight_color_hex = None
-                        if highlights:
-                            largest_highlight = max(highlights, key=lambda x: x['overlap'])
-                            highlight_color = largest_highlight['fill']
-                            if highlight_color:
-                                highlight_color_hex = '#%02x%02x%02x' % (int(255*highlight_color[0]), int(255*highlight_color[1]), int(255*highlight_color[2]))
-                        
-                        # Append results
-                        span['text'] = span['text'].strip().replace('\r', '\n')
-                        span['bold'] = is_bold(span["font"])
-                        span['highlight_color'] = highlight_color_hex
-                        span['page_number'] = page_number
-                        span['block_number'] = block_number
-                        span['line_number'] = line_number
-                        span['span_number'] = span_number
-                        data.append(span)
+                    # Get largest overlap
+                    highlight_color_hex = None
+                    if highlights:
+                        largest_highlight = max(highlights, key=lambda x: x['overlap'])
+                        highlight_color = largest_highlight['fill']
+                        if highlight_color:
+                            highlight_color_hex = '#%02x%02x%02x' % (int(255*highlight_color[0]), int(255*highlight_color[1]), int(255*highlight_color[2]))
+                    
+                    # Append results
+                    span['text'] = span['text'].strip().replace('\r', '\n')
+                    span['bold'] = is_bold(span["font"])
+                    span['highlight_color'] = highlight_color_hex
+                    span['page_number'] = page_number
+                    span['block_number'] = block_number
+                    span['line_number'] = line_number
+                    span['span_number'] = span_number
+                    data.append(span)
 
     return data
 
