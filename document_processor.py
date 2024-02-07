@@ -21,34 +21,57 @@ class LessonsLearnedProcessor:
             Pandas DataFrame of sectors.
         """
         self.style_columns = ['font', 'double_fontsize_int', 'color', 'highlight_color', 'bold']
-        self.lines = self.process_lines(lines)
+        self.lines = lines
+        self.process_lines()
         self.sectors_lessons_learned_map = None
 
 
-    def process_lines(self, lines):
+    def process_lines(self):
         """
         Add some more information.
         """
         # Remove photo blocks
-        lines = self.remove_photo_blocks(lines)
+        self.remove_photo_blocks()
+
+        # Remove page numbers
+        self.remove_page_numbers()
 
         # Add more info
-        lines['double_fontsize_int'] = (lines['size'].astype(float)*2).round(0).astype('Int64')
-        lines['style'] = lines['font'].astype(str)+', '+lines['double_fontsize_int'].astype(str)+', '+lines['color'].astype(str)+', '+lines['highlight_color'].astype(str)
-
-        return lines
+        self.lines['double_fontsize_int'] = (self.lines['size'].astype(float)*2).round(0).astype('Int64')
+        self.lines['style'] = self.lines['font'].astype(str)+', '+self.lines['double_fontsize_int'].astype(str)+', '+lines['color'].astype(str)+', '+self.lines['highlight_color'].astype(str)
 
 
-    def remove_photo_blocks(self, lines):
+    def remove_photo_blocks(self):
         """
         Remove blocks which look like photos from the document lines.
         """
-        lines['block_page'] = lines['block_number'].astype(str)+'_'+lines['page_number'].astype(str)
-        photo_blocks = lines.loc[lines['text'].astype(str).str.contains('Photo: '), 'block_page'].unique()
-        lines = lines.loc[~lines['block_page'].isin(photo_blocks)].drop(columns=['block_page'])
+        self.lines['block_page'] = self.lines['block_number'].astype(str)+'_'+self.lines['page_number'].astype(str)
+        photo_blocks = self.lines.loc[self.lines['text'].astype(str).str.contains('Photo: '), 'block_page'].unique()
+        self.lines = self.lines.loc[~self.lines['block_page'].isin(photo_blocks)].drop(columns=['block_page'])
 
-        return lines
 
+    def remove_page_numbers(self):
+        """
+        Remove page numbers from page headers and footers.
+        """
+        # Loop through pages
+        for page in self.lines['page_number'].unique():
+            page = self.lines.loc[self.lines['page_number']==page]
+
+            # Get document first and last lines
+            first_block = page.loc[page['block_number']==page['block_number'].min()]
+            first_line = first_block.loc[first_block['line_number']==first_block['line_number'].min()]
+            last_block = page.loc[page['block_number']==page['block_number'].max()]
+            last_line = last_block.loc[last_block['line_number']==last_block['line_number'].max()]
+
+            # Assume that if the line starts with "page", it is page number
+            check_lines = ([first_line, last_line] if first_line.equals(last_line) else [first_line])
+            for line_spans in check_lines:
+                line_spans['text'] = line_spans['text'].apply(strip_non_alpha).str.lower()
+                line_spans = line_spans.loc[line_spans['text'].notnull()]
+                first_text = line_spans.loc[line_spans['span_number'].idxmin(), 'text']
+                if strip_non_alpha(first_text).lower().startswith('page'):
+                    self.lines.drop(labels=line_spans.index, inplace=True)
 
     @cached_property
     def lessons_learned_titles(self):
