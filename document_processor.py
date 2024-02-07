@@ -1,9 +1,8 @@
-from ast import literal_eval
 from functools import cached_property
 import yaml
 import numpy as np
 import pandas as pd
-from utils import is_text_title, strip_non_alpha, strip_filler_words
+from utils import is_text_title, strip_non_alpha, strip_non_alphanumeric, strip_filler_words
 
 
 class LessonsLearnedProcessor:
@@ -30,11 +29,13 @@ class LessonsLearnedProcessor:
         """
         Add some more information.
         """
-        # Remove photo blocks
+        # Remove photo blocks, page numbers, references
         self.remove_photo_blocks()
+        self.remove_page_labels_references()
+        self.drop_repeating_headers_footers()
 
-        # Remove page numbers
-        self.remove_page_numbers()
+        # Remove headers and footers again in case they were below or above the repeating headers and footers
+        self.remove_page_labels_references()
 
         # Add more info
         self.lines['double_fontsize_int'] = (self.lines['size'].astype(float)*2).round(0).astype('Int64')
@@ -50,28 +51,104 @@ class LessonsLearnedProcessor:
         self.lines = self.lines.loc[~self.lines['block_page'].isin(photo_blocks)].drop(columns=['block_page'])
 
 
-    def remove_page_numbers(self):
+    def remove_page_labels_references(self):
         """
         Remove page numbers from page headers and footers.
-        """
+        Assumes headers and footers are the vertically highest and lowest elementes on the page.
+        """        
         # Loop through pages
-        for page in self.lines['page_number'].unique():
-            page = self.lines.loc[self.lines['page_number']==page]
+        for page_number in self.lines['page_number'].unique():
+            page_lines = self.lines.loc[self.lines['page_number']==page_number]
 
-            # Get document first and last lines
-            first_block = page.loc[page['block_number']==page['block_number'].min()]
-            first_line = first_block.loc[first_block['line_number']==first_block['line_number'].min()]
-            last_block = page.loc[page['block_number']==page['block_number'].max()]
-            last_line = last_block.loc[last_block['line_number']==last_block['line_number'].max()]
+            # Get document vertically highest and lowest spans
+            page_lines = page_lines.sort_values(by=['origin_y'], ascending=True)
+            block_numbers = page_lines['block_number'].drop_duplicates().tolist()
 
-            # Assume that if the line starts with "page", it is page number
-            check_lines = ([first_line, last_line] if first_line.equals(last_line) else [first_line])
-            for line_spans in check_lines:
-                line_spans['text'] = line_spans['text'].apply(strip_non_alpha).str.lower()
-                line_spans = line_spans.loc[line_spans['text'].notnull()]
-                first_text = line_spans.loc[line_spans['span_number'].idxmin(), 'text']
-                if strip_non_alpha(first_text).lower().startswith('page'):
-                    self.lines.drop(labels=line_spans.index, inplace=True)
+            # Loop through blocks and remove header page labels and references
+            for block_number in block_numbers:
+                block_lines = page_lines.loc[page_lines['block_number']==block_number]
+                if self.is_page_label(block_lines) or self.is_reference(block_lines):
+                    self.lines.drop(labels=block_lines.index, inplace=True)
+                else:
+                    break
+
+            # Loop through blocks and remove footer page labels and references
+            for block_number in block_numbers[::-1]:
+                block_lines = page_lines.loc[page_lines['block_number']==block_number]
+                if self.is_page_label(block_lines) or self.is_reference(block_lines):
+                    self.lines.drop(labels=block_lines.index, inplace=True)
+                else:
+                    break
+
+
+    def is_page_label(self, block):
+        """
+        """
+        # Get the first text containing alphanumeric characters
+        block = block.copy()
+        block['text'] = block['text'].apply(strip_non_alphanumeric).str.lower()
+        block = block.dropna(subset=['text']).sort_values(by=['line_number', 'span_number'])
+        first_span = block.iloc[0]
+
+        # If the the first word is page, assume page label
+        if first_span['text'].startswith('page'):
+            return True
+        
+        # If only a single number, assume page label
+        if len(block)==1 and first_span['text'].isdigit():
+            return True
+
+        return False
+
+
+    def is_reference(self, block):
+        """
+        Remove references denoted by a superscript number in document headers and footers.
+        """
+        # Get the first text containing alphanumeric characters
+        block = block.copy()
+        block.loc[:, 'text_test'] = block.loc[:, 'text'].apply(strip_non_alphanumeric).str.lower()
+        block = block.dropna(subset=['text']).sort_values(by=['line_number', 'span_number'])
+        first_span = block.iloc[0]
+
+        # If the first span is small and a number
+        if len(block)==1:
+            if first_span['text'].isdigit():
+                return True
+        elif len(block)>1:
+            if first_span['text'].isdigit():
+                if (block.iloc[1]['size'] - first_span['size']) >= 1:
+                    return True
+
+        return False
+
+
+    def drop_repeating_headers_footers(self):
+        """
+        Drop any repeating elements at the top or bottom of pages.
+        """
+        # Get spans in blocks at top of each page
+        lines = self.lines.copy()
+        lines['page_block'] = lines['page_number'].astype(str)+'_'+lines['block_number'].astype(str)
+        
+        # Get top and bottom page blocks
+        top_page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmax()]
+        bottom_page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmin()]
+
+        for page_blocks in [top_page_blocks, bottom_page_blocks]:
+
+            # Get repeating texts
+            elements = lines.loc[lines['page_block'].isin(page_blocks['page_block'].unique())]
+            repeating_texts = elements\
+                .reset_index()\
+                .groupby(['page_number'])\
+                .agg({'text': lambda x: ' '.join(x), 'index': tuple})\
+                .groupby(['text'])\
+                .filter(lambda x: len(x)>1)
+
+            # Remove indexes
+            self.lines = self.lines.drop(repeating_texts['index'].explode())
+
 
     @cached_property
     def lessons_learned_titles(self):
@@ -387,7 +464,7 @@ class LessonsLearnedProcessor:
         # Lessons learned section should only contain text lower than the title
         section_lines = section_lines.loc[~(
             (section_lines["page_number"]==lessons_learned_title["page_number"]) & \
-            (section_lines["origin"].apply(literal_eval).str[1] < literal_eval(lessons_learned_title["origin"])[1])
+            (section_lines["origin_y"] < lessons_learned_title["origin_y"])
         )]
 
         # Lessons learned section must end before the next lessons learned section

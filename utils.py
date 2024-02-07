@@ -44,6 +44,8 @@ def extract_text_and_fontsizes(document_path):
                     span['block_number'] = block_number
                     span['line_number'] = line_number
                     span['span_number'] = span_number
+                    span['origin_x'] = span['origin'][0]
+                    span['origin_y'] = span['origin'][1]
                     data.append(span)
 
     return data
@@ -78,6 +80,12 @@ def is_text_title(text):
 
 def strip_non_alpha(text):
     text = re.sub(r'[^A-Za-z ]+', ' ', text)
+    text = re.sub(' +', ' ', text)
+    return text.strip()
+
+
+def strip_non_alphanumeric(text):
+    text = re.sub(r'[^A-Za-z0-9 ]+', ' ', text)
     text = re.sub(' +', ' ', text)
     return text.strip()
 
