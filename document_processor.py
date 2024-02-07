@@ -1,6 +1,7 @@
 from ast import literal_eval
 from functools import cached_property
 import yaml
+import numpy as np
 import pandas as pd
 from utils import is_text_title, strip_non_alpha, strip_filler_words
 
@@ -70,8 +71,10 @@ class LessonsLearnedProcessor:
     def sector_titles(self):
         """
         """
-        sector_estimates = self.titles.copy()
-        sector_estimates[['Sector title', 'Sector similarity score']] = sector_estimates.apply(
+        sector_titles = self.titles.copy()
+
+        # Get a score representing how "sector titley" it is
+        sector_titles[['Sector title', 'Sector similarity score']] = sector_titles.apply(
             lambda row: 
                 None if row['text']!=row['text'] else \
                 pd.Series(
@@ -80,8 +83,11 @@ class LessonsLearnedProcessor:
                     )
                 ), axis=1
             )
+
+        # Filter to only where the score is >= 0.5
+        sector_titles = sector_titles.loc[sector_titles['Sector similarity score'] >= 0.5]
         
-        return sector_estimates.loc[sector_estimates['Sector similarity score'] >= 0.5]
+        return sector_titles
 
 
     def get_similar_sector(self, text):
@@ -138,7 +144,10 @@ class LessonsLearnedProcessor:
             text_base_without_keywords_words = [word for word in text_base_without_keywords_words if (word and (word not in filler_words))]
             text_base_without_filler_worlds = [word for word in text_base_words if (word and (word not in filler_words))]
             number_words_covered = len(text_base_without_filler_worlds) - len(text_base_without_keywords_words)
-            proportion_text_covered_by_sector[sector_name] = number_words_covered/len(text_base_without_filler_worlds)
+            if len(text_base_without_filler_worlds) > 0:
+                proportion_text_covered_by_sector[sector_name] = number_words_covered/len(text_base_without_filler_worlds)
+            else:
+                return float('nan')
 
         max_sector = max(proportion_text_covered_by_sector, key=proportion_text_covered_by_sector.get)
         max_proportion = proportion_text_covered_by_sector[max_sector]
@@ -165,9 +174,10 @@ class LessonsLearnedProcessor:
         Get a map between sector title IDs and lessons learned title IDs.
         """
         # Get the most likely font style of the sector titles
-        primary_sector_style = self.match_sectors_by_style(
+        primary_sector_style = self.get_primary_sector_style(
             sectors=sectors
         )
+        self.sectors_lessons_learned_map = primary_sector_style['Lessons learned covered']
         if self.unmatched_lessons_learned:
 
             # Match lessons learned to sectors for sectors of a similar style
@@ -193,7 +203,7 @@ class LessonsLearnedProcessor:
             ]
 
 
-    def match_sectors_by_style(self, sectors):
+    def get_primary_sector_style(self, sectors):
         """
         Match lessons learned to sectors by getting the style which matches most sectors.
         """
@@ -216,17 +226,17 @@ class LessonsLearnedProcessor:
                 }
             )
         sector_title_styles['Number lessons learned covered'] = sector_title_styles['Lessons learned covered'].apply(lambda x: x if x is None else len(x))
+
+        # Get distance from lessons learned
+        sector_title_styles['Distance from lessons learned'] = sector_title_styles['Lessons learned covered'].apply(lambda x: np.mean([v-k for k,v in x.items()]))
         
         # Select the largest style that covers most lessons learned sections
         primary_sector_style = sector_title_styles\
             .sort_values(
-                by=['Number lessons learned covered', 'double_fontsize_int'],
-                ascending=[False, False]
+                by=['Number lessons learned covered', 'double_fontsize_int', 'Distance from lessons learned'],
+                ascending=[False, False, True]
             )\
             .iloc[0]
-
-        # Set the matched lessons learned
-        self.sectors_lessons_learned_map = primary_sector_style['Lessons learned covered']
             
         return primary_sector_style
 
@@ -244,7 +254,7 @@ class LessonsLearnedProcessor:
                 .apply(
                     lambda sector_idx: self.get_next_lessons_learned(
                         sector_idx, 
-                        self.sectors_lessons_learned_map.values()
+                        self.sectors_lessons_learned_map
                     )
                 )
             sectors.dropna(subset=['Lessons learned covered'], inplace=True)
@@ -382,15 +392,15 @@ class LessonsLearnedProcessor:
         first_line_chars = lines.loc[lines['text'].astype(str).str.contains('[a-zA-Z]')].iloc[0]
 
         # Round sizes
-        title_size = 2*round(title['size'])
-        first_line_size = 2*round(first_line_chars['size'])
+        title_size = title['double_fontsize_int']
+        first_line_size = first_line_chars['double_fontsize_int']
 
         # Loop through lines
         # Returns index of last element in the section
         previous_idx = 0
         for idx, line in lines.iterrows():
 
-            line_size = 2*round(line['size'])
+            line_size = line['double_fontsize_int']
 
             # If line is a page number, continue
             any_letters = [char for char in line['text'].strip() if char.isalpha()]
