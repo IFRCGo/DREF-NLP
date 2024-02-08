@@ -31,11 +31,12 @@ class LessonsLearnedProcessor:
         """
         # Remove photo blocks, page numbers, references
         self.remove_photo_blocks()
-        self.remove_page_labels_references()
         self.drop_repeating_headers_footers()
+        self.remove_headers_page_labels_references()
+        self.remove_footers_page_labels_references()
 
-        # Have to run again in case page labels or references were below or above the repeating headers and footers
-        self.remove_page_labels_references()
+        # Have to run again in case repeating headers or footers were below or above the page labels or references
+        self.drop_repeating_headers_footers()
 
         # Add more info
         self.lines['double_fontsize_int'] = (self.lines['size'].astype(float)*2).round(0).astype('Int64')
@@ -51,20 +52,20 @@ class LessonsLearnedProcessor:
         self.lines = self.lines.loc[~self.lines['block_page'].isin(photo_blocks)].drop(columns=['block_page'])
 
 
-    def remove_page_labels_references(self):
+    def remove_headers_page_labels_references(self):
         """
         Remove page numbers from page headers and footers.
         Assumes headers and footers are the vertically highest and lowest elementes on the page.
         """        
         # Loop through pages
         for page_number in self.lines['page_number'].unique():
-            page_lines = self.lines.loc[self.lines['page_number']==page_number]
 
             # Get document vertically highest and lowest spans
+            page_lines = self.lines.loc[self.lines['page_number']==page_number]
             page_lines = page_lines.sort_values(by=['origin_y'], ascending=True)
             block_numbers = page_lines['block_number'].drop_duplicates().tolist()
 
-            # Loop through blocks and remove header page labels and references
+            # Headers: Loop through blocks and remove header page labels and references
             for block_number in block_numbers:
                 block_lines = page_lines.loc[page_lines['block_number']==block_number]
                 if self.is_page_label(block_lines) or self.is_reference(block_lines):
@@ -72,7 +73,21 @@ class LessonsLearnedProcessor:
                 else:
                     break
 
-            # Loop through blocks and remove footer page labels and references
+
+    def remove_footers_page_labels_references(self):
+        """
+        Remove page numbers from page headers and footers.
+        Assumes headers and footers are the vertically highest and lowest elementes on the page.
+        """        
+        # Loop through pages
+        for page_number in self.lines['page_number'].unique():
+
+            # Get document vertically highest and lowest spans
+            page_lines = self.lines.loc[self.lines['page_number']==page_number]
+            page_lines = page_lines.sort_values(by=['origin_y'], ascending=True)
+            block_numbers = page_lines['block_number'].drop_duplicates().tolist()
+
+            # Footers: Loop through blocks and remove footer page labels and references
             for block_number in block_numbers[::-1]:
                 block_lines = page_lines.loc[page_lines['block_number']==block_number]
                 if self.is_page_label(block_lines) or self.is_reference(block_lines):
