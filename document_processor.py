@@ -423,6 +423,7 @@ class LessonsLearnedProcessor:
         # Get other possible sector titles: texts with similar style, that are not the selected style
         while self.unmatched_lessons_learned and not sectors.empty:
 
+            sectors = sectors.copy()
             sectors['Lessons learned covered'] = sectors\
                 .index\
                 .to_series()\
@@ -522,7 +523,7 @@ class LessonsLearnedProcessor:
 
         # Lessons learned section should only contain text lower than the title
         section_lines = self.lines.loc[
-            self.lines['total_y'] > lessons_learned_title['total_y']
+            self.lines['total_y'] >= lessons_learned_title['total_y']
         ]
 
         # Lessons learned section must end before the next lessons learned section
