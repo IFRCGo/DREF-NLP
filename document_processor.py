@@ -301,7 +301,7 @@ class LessonsLearnedProcessor:
             sectors_lessons_learned_map = self.get_lessons_learned_sectors(
                 sectors=self.sector_titles
             )
-            lessons_learned_sector_map = {v:k for k,v in sectors_lessons_learned_map.items()}
+            lessons_learned_sector_map = {v['idx']:k for k,v in sectors_lessons_learned_map.items()}
         
         # Get the span of each lessons learned section
         lessons_learned = self.lines.copy()
@@ -387,7 +387,7 @@ class LessonsLearnedProcessor:
         sector_title_styles['Number lessons learned covered'] = sector_title_styles['Lessons learned covered'].apply(lambda x: x if x is None else len(x))
 
         # Get distance from lessons learned
-        sector_title_styles['Distance from lessons learned'] = sector_title_styles['Lessons learned covered'].apply(lambda x: np.mean([v-k for k,v in x.items()]) if x else float('nan'))
+        sector_title_styles['Distance from lessons learned'] = sector_title_styles['Lessons learned covered'].apply(lambda x: np.mean([v['distance'] for k,v in x.items()]) if x else float('nan'))
         
         # Select the largest style that covers most lessons learned sections
         primary_sector_style = sector_title_styles\
@@ -421,7 +421,7 @@ class LessonsLearnedProcessor:
             if not sectors.empty:
 
                 # Get distance between sector title and lessons learned section
-                sectors['Distance from lessons learned'] = sectors.apply(lambda row: abs(row['Lessons learned covered'] - row.name), axis=1)
+                sectors['Distance from lessons learned'] = sectors['Lessons learned covered'].apply(lambda x: np.mean([v['distance'] for k,v in x.items()]) if x else float('nan'))
 
                 # Get the titles which are closest to the lessons learned
                 best_sector = sectors\
@@ -438,18 +438,61 @@ class LessonsLearnedProcessor:
 
     def get_next_lessons_learned(self, sector_idx, sector_idxs):
         """
-        Get the next unmatched lessons learned index after the sector position at sector_idx, unless there is a sector index first (in sector_idxs).
+        Get the next unmatched lessons learned index after the sector position at sector_idx, unless there is a sector index first (in sector_idxs). Compare by page number and origin_y.
+
+        Parameters
+        ----------
+        sector_idx : int (required)
+            Index of the sector title to get the next lessons learned section for.
+
+        sector_idxs : list of ints (required)
+            List of indexes of known sector titles.
         """
+        # Get y position of sectors and lessons learned
+        sector_idx_position = self.lines.loc[sector_idx, ['origin_y', 'page_number', 'total_y']]
+        sector_idxs_positions = self.lines.loc[list(sector_idxs), ['origin_y', 'page_number', 'total_y']]
+        unmatched_lessons_learned_positions = self.lines.loc[self.unmatched_lessons_learned, ['origin_y', 'page_number', 'total_y']]
+        
+        # Get the sectors and lessons learned which are after the sector - compare page number and origin_y
+        next_sector_idxs = self.get_lines_after_pos(
+            pos=sector_idx_position,
+            lines=sector_idxs_positions
+        )
+        next_lessons_learned_idxs = self.get_lines_after_pos(
+            pos=sector_idx_position,
+            lines=unmatched_lessons_learned_positions
+        )
+
         # Loop through next lessons learned section indexes, and return if before the nearest sector index
-        lessons_learned_covered = []
-        next_sector_idxs = [i for i in sector_idxs if i > sector_idx]
-        next_lessons_learned_idxs = [i for i in self.unmatched_lessons_learned if i > sector_idx]
-        if next_lessons_learned_idxs:
-            next_lessons_learned_idx = min(next_lessons_learned_idxs)
-            if not next_sector_idxs:
-                return next_lessons_learned_idx
-            elif next_lessons_learned_idx < min(next_sector_idxs):
-                return next_lessons_learned_idx
+        if not next_lessons_learned_idxs.empty:
+            next_lessons_learned = next_lessons_learned_idxs.iloc[0]
+            next_lessons_learned_distance = {
+                "idx": next_lessons_learned.name,
+                "distance": next_lessons_learned['total_y'] - sector_idx_position['total_y']
+            }
+
+            # If no sectors, return the nearest lessons learned section
+            if next_sector_idxs.empty:
+                return next_lessons_learned_distance
+            
+            # If lessons learned section is nearer than the section, return it
+            next_sector = next_sector_idxs.iloc[0]
+            if next_lessons_learned['total_y'] < next_sector['total_y']:
+                return next_lessons_learned_distance
+
+
+    def get_lines_after_pos(self, pos, lines):
+        """
+        Filter lines so that they are after pos.
+        """
+        lines_after_pos = lines.loc[
+            (lines['page_number'] > pos['page_number']) | 
+            (
+                (lines['page_number']==pos['page_number']) & 
+                (lines['origin_y'] > pos['origin_y'])
+            )
+        ].sort_values(by=['page_number', 'origin_y'], ascending=True)
+        return lines_after_pos
 
 
     def styles_are_similar(self, style1, style2):

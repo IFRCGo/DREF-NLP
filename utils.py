@@ -7,6 +7,7 @@ import fitz
 
 def extract_text_and_fontsizes(document_path):
     data = []
+    total_y = 0
 
     # Loop through pages and paragraphs
     for page_number, page_layout in enumerate(fitz.open(document_path)):
@@ -46,7 +47,10 @@ def extract_text_and_fontsizes(document_path):
                     span['span_number'] = span_number
                     span['origin_x'] = span['origin'][0]
                     span['origin_y'] = span['origin'][1]
+                    span['total_y'] = span['origin'][1]+total_y
                     data.append(span)
+
+        total_y += page_layout.rect.height
 
     return data
 
