@@ -61,8 +61,9 @@ class LessonsLearnedProcessor:
         for page_number in self.lines['page_number'].unique():
 
             # Get document vertically highest and lowest spans
-            page_lines = self.lines.loc[self.lines['page_number']==page_number]
-            page_lines = page_lines.sort_values(by=['origin_y'], ascending=True)
+            page_lines = self.lines\
+                .loc[self.lines['page_number']==page_number]\
+                .sort_values(by=['origin_y'], ascending=True)
             block_numbers = page_lines['block_number'].drop_duplicates().tolist()
 
             # Headers: Loop through blocks and remove header page labels and references
@@ -83,8 +84,9 @@ class LessonsLearnedProcessor:
         for page_number in self.lines['page_number'].unique():
 
             # Get document vertically highest and lowest spans
-            page_lines = self.lines.loc[self.lines['page_number']==page_number]
-            page_lines = page_lines.sort_values(by=['origin_y'], ascending=True)
+            page_lines = self.lines\
+                .loc[self.lines['page_number']==page_number]\
+                .sort_values(by=['origin_y'], ascending=True)
             block_numbers = page_lines['block_number'].drop_duplicates().tolist()
 
             # Footers: Loop through blocks and remove footer page labels and references
@@ -438,7 +440,7 @@ class LessonsLearnedProcessor:
 
     def get_next_lessons_learned(self, sector_idx, sector_idxs):
         """
-        Get the next unmatched lessons learned index after the sector position at sector_idx, unless there is a sector index first (in sector_idxs). Compare by page number and origin_y.
+        Get the next unmatched lessons learned index after the sector position at sector_idx, unless there is a sector index first (in sector_idxs). Compare by vertical position in whole document.
 
         Parameters
         ----------
@@ -449,19 +451,17 @@ class LessonsLearnedProcessor:
             List of indexes of known sector titles.
         """
         # Get y position of sectors and lessons learned
-        sector_idx_position = self.lines.loc[sector_idx, ['origin_y', 'page_number', 'total_y']]
-        sector_idxs_positions = self.lines.loc[list(sector_idxs), ['origin_y', 'page_number', 'total_y']]
-        unmatched_lessons_learned_positions = self.lines.loc[self.unmatched_lessons_learned, ['origin_y', 'page_number', 'total_y']]
+        sector_idx_position = self.lines.loc[sector_idx, ['page_number', 'total_y']]
+        sector_idxs_positions = self.lines.loc[list(sector_idxs), ['page_number', 'total_y']]
+        unmatched_lessons_learned_positions = self.lines.loc[self.unmatched_lessons_learned, ['page_number', 'total_y']]
         
-        # Get the sectors and lessons learned which are after the sector - compare page number and origin_y
-        next_sector_idxs = self.get_lines_after_pos(
-            pos=sector_idx_position,
-            lines=sector_idxs_positions
-        )
-        next_lessons_learned_idxs = self.get_lines_after_pos(
-            pos=sector_idx_position,
-            lines=unmatched_lessons_learned_positions
-        )
+        # Get the sectors and lessons learned which are after the sector - compare vertical position
+        next_sector_idxs = sector_idxs_positions.loc[
+            sector_idxs_positions['total_y'] > sector_idx_position['total_y']
+        ].sort_values(by=['total_y'], ascending=True)
+        next_lessons_learned_idxs = unmatched_lessons_learned_positions.loc[
+            unmatched_lessons_learned_positions['total_y'] > sector_idx_position['total_y']
+        ].sort_values(by=['total_y'], ascending=True)
 
         # Loop through next lessons learned section indexes, and return if before the nearest sector index
         if not next_lessons_learned_idxs.empty:
@@ -479,20 +479,6 @@ class LessonsLearnedProcessor:
             next_sector = next_sector_idxs.iloc[0]
             if next_lessons_learned['total_y'] < next_sector['total_y']:
                 return next_lessons_learned_distance
-
-
-    def get_lines_after_pos(self, pos, lines):
-        """
-        Filter lines so that they are after pos.
-        """
-        lines_after_pos = lines.loc[
-            (lines['page_number'] > pos['page_number']) | 
-            (
-                (lines['page_number']==pos['page_number']) & 
-                (lines['origin_y'] > pos['origin_y'])
-            )
-        ].sort_values(by=['page_number', 'origin_y'], ascending=True)
-        return lines_after_pos
 
 
     def styles_are_similar(self, style1, style2):
@@ -518,25 +504,29 @@ class LessonsLearnedProcessor:
         """
         Get the lines of a lessons learned section given the index of the title.
         """
-        section_lines = self.lines.loc[idx:]
         lessons_learned_title = self.lessons_learned_titles.loc[idx]
 
         # Lessons learned section should only contain text lower than the title
-        section_lines = section_lines.loc[~(
-            (section_lines["page_number"]==lessons_learned_title["page_number"]) & \
-            (section_lines["origin_y"] < lessons_learned_title["origin_y"])
-        )]
+        section_lines = self.lines.loc[
+            self.lines['total_y'] > lessons_learned_title['total_y']
+        ]
 
         # Lessons learned section must end before the next lessons learned section
-        following_lessons_learned_titles = [i for i in self.lessons_learned_titles.index if i > idx]
-        if following_lessons_learned_titles:
-            section_lines = section_lines.loc[:min(following_lessons_learned_titles)-1]
+        next_lessons_learned = self.lessons_learned_titles.loc[
+            self.lessons_learned_titles['total_y'] > lessons_learned_title['total_y']
+        ]
+        if not next_lessons_learned.empty:
+            next_lessons_learned_y = next_lessons_learned.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
+            section_lines = section_lines.loc[section_lines['total_y'] < next_lessons_learned_y]
 
-        # Lessons learned section must end before the next sector title
-        if self.sectors_lessons_learned_map:
-            following_sector_titles = [sector_idx for sector_idx in self.sectors_lessons_learned_map if sector_idx > idx]
-            if following_sector_titles:
-                section_lines = section_lines.loc[:min(following_sector_titles)-1]
+        # Lessons learned section must end before the next sector_title
+        next_sector_titles = self.sector_titles.loc[self.sectors_lessons_learned_map.keys()]
+        next_sector_titles = next_sector_titles.loc[
+            next_sector_titles['total_y'] > lessons_learned_title['total_y']
+        ]
+        if not next_sector_titles.empty:
+            next_sector_title_y = next_sector_titles.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
+            section_lines = section_lines.loc[section_lines['total_y'] < next_sector_title_y]
 
         # Get end of lessons learned section based on font styles
         lessons_learned_text_end = self.get_section_end(
