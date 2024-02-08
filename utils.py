@@ -55,6 +55,21 @@ def extract_text_and_fontsizes(document_path):
     return data
 
 
+def phrase_in_sentence(phrase, sentence):
+    if re.search(r"\b{}\b".format(phrase), sentence.lower().strip()):
+        return True
+    return False
+
+
+def replace_phrases_in_sentence(phrases, repl, sentence):
+    replaced = sentence.lower().strip()
+    if isinstance(phrases, str):
+        phrases = [phrases]
+    for phrase in phrases:
+        replaced = re.sub(r"\b{}\b".format(phrase), repl, replaced)
+    return replaced
+
+
 def is_bold(text):
     if ("black" in text.lower()) or ("bold" in text.lower()):
         return True
