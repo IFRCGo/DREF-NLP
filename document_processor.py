@@ -2,7 +2,7 @@ from functools import cached_property
 import yaml
 import numpy as np
 import pandas as pd
-from utils import is_text_title, strip_non_alpha, strip_non_alphanumeric, strip_filler_words
+from utils import is_text_title, strip_non_alpha, strip_non_alphanumeric, strip_filler_words, phrase_in_sentence, replace_phrases_in_sentence
 
 
 class LessonsLearnedProcessor:
@@ -228,6 +228,24 @@ class LessonsLearnedProcessor:
         """
         text_base = strip_non_alpha(text).lower()
         sector_title_texts = yaml.safe_load(open('sectors.yml'))
+        abbreviations = yaml.safe_load(open('abbreviations.yml'))
+
+        # Process the titles - add sector name, and swap common words
+        for sector_name, details in sector_title_texts.items():
+            if details is not None:
+                if 'titles' in details:
+                    # Add sector title
+                    sector_name_base = strip_non_alpha(sector_name).lower()
+                    if sector_name_base not in details['titles']:
+                        details['titles'].append(sector_name_base)
+                    # Swap abbreviations
+                    for title in details['titles']:
+                        for phrase in abbreviations:
+                            if phrase_in_sentence(phrase, title):
+                                for abbreviation in abbreviations[phrase]:
+                                    swapped = replace_phrases_in_sentence(phrase, abbreviation, title)
+                                    if swapped not in details['titles']:
+                                        details['titles'].append(swapped)
 
         # First, check if there is an exact match with the titles
         for sector_name, details in sector_title_texts.items():
@@ -268,19 +286,15 @@ class LessonsLearnedProcessor:
             else:
                 keywords = (details['keywords'] if 'keywords' in details else [])
             
-            # Extract keywords from string to get overlap proportion
-            text_base_without_keywords = text_base
-            for keyword in keywords:
-                text_base_without_keywords = text_base_without_keywords.replace(keyword, '')
-            text_base_without_keywords_words = text_base_without_keywords.split(' ')
-
-            # Remove filler words
+            # Extract filler words and keywords
             filler_words = ['and', 'the']
-            text_base_without_keywords_words = [word for word in text_base_without_keywords_words if (word and (word not in filler_words))]
-            text_base_without_filler_worlds = [word for word in text_base_words if (word and (word not in filler_words))]
-            number_words_covered = len(text_base_without_filler_worlds) - len(text_base_without_keywords_words)
-            if len(text_base_without_filler_worlds) > 0:
-                proportion_text_covered_by_sector[sector_name] = number_words_covered/len(text_base_without_filler_worlds)
+            text_without_fillers = replace_phrases_in_sentence(filler_words, '', text_base).strip()
+            text_without_keywords = replace_phrases_in_sentence(keywords, '', text_without_fillers).strip()
+
+            # Get the proportion of words covered
+            if text_without_fillers != text_without_keywords:
+                number_words_covered = len(text_without_keywords.split(' ')) - len(text_without_fillers.split(' '))
+                proportion_text_covered_by_sector[sector_name] = number_words_covered/len(text_without_fillers.split(' '))
             else:
                 return float('nan')
 
