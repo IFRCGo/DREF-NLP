@@ -535,13 +535,14 @@ class LessonsLearnedProcessor:
             section_lines = section_lines.loc[section_lines['total_y'] < next_lessons_learned_y]
 
         # Lessons learned section must end before the next sector_title
-        next_sector_titles = self.sector_titles.loc[self.sectors_lessons_learned_map.keys()]
-        next_sector_titles = next_sector_titles.loc[
-            next_sector_titles['total_y'] > lessons_learned_title['total_y']
-        ]
-        if not next_sector_titles.empty:
-            next_sector_title_y = next_sector_titles.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
-            section_lines = section_lines.loc[section_lines['total_y'] < next_sector_title_y]
+        if self.sectors_lessons_learned_map:
+            next_sector_titles = self.sector_titles.loc[self.sectors_lessons_learned_map.keys()]
+            next_sector_titles = next_sector_titles.loc[
+                next_sector_titles['total_y'] > lessons_learned_title['total_y']
+            ]
+            if not next_sector_titles.empty:
+                next_sector_title_y = next_sector_titles.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
+                section_lines = section_lines.loc[section_lines['total_y'] < next_sector_title_y]
 
         # Get end of lessons learned section based on font styles
         lessons_learned_text_end = self.get_section_end(
