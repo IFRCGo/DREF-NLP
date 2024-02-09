@@ -31,6 +31,13 @@ class LessonsLearnedProcessor:
         """
         Add some more information.
         """
+        # Add more info
+        self.lines['double_fontsize_int'] = (self.lines['size'].astype(float)*2).round(0).astype('Int64')
+        self.lines['style'] = self.lines['font'].astype(str)+', '+self.lines['double_fontsize_int'].astype(str)+', '+self.lines['color'].astype(str)+', '+self.lines['highlight_color'].astype(str)
+
+        # Combine spans on same line with same styles
+        self.combine_spans_same_style()
+
         # Remove photo blocks, page numbers, references
         self.remove_photo_blocks()
         self.drop_repeating_headers_footers()
@@ -40,9 +47,14 @@ class LessonsLearnedProcessor:
         # Have to run again in case repeating headers or footers were below or above the page labels or references
         self.drop_repeating_headers_footers()
 
-        # Add more info
-        self.lines['double_fontsize_int'] = (self.lines['size'].astype(float)*2).round(0).astype('Int64')
-        self.lines['style'] = self.lines['font'].astype(str)+', '+self.lines['double_fontsize_int'].astype(str)+', '+self.lines['color'].astype(str)+', '+self.lines['highlight_color'].astype(str)
+
+    def combine_spans_same_style(self):
+        """
+        """
+        self.lines['text'] = self.lines\
+            .groupby(['page_number', 'block_number', 'line_number', 'style'])['text']\
+            .transform(lambda x: ' '.join(x))
+        self.lines = self.lines.drop_duplicates(subset=['page_number', 'block_number', 'line_number', 'style'])
 
 
     def remove_photo_blocks(self):
