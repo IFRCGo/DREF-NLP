@@ -297,9 +297,10 @@ class LessonsLearnedProcessor:
         if self.sectors_lessons_learned_map is None:
             return self.lessons_learned_titles.index.tolist()
         else:
+            matched_lessons_learned = [x['idx'] for x in self.sectors_lessons_learned_map.values()]
             return [
                 idx for idx in self.lessons_learned_titles.index.tolist()
-                if idx not in self.sectors_lessons_learned_map.values()
+                if idx not in matched_lessons_learned
             ]
 
 
