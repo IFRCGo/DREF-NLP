@@ -478,15 +478,17 @@ class LessonsLearnedProcessor:
         Get the end of a section by comparing font properties of the section title to font properties of the section contents.
         """
         # Get title information
-        lines_with_chars = section.loc[section['text'].astype(str).str.contains('[a-zA-Z]')]
-        first_line = lines_with_chars.iloc[0]
+        first_section_line_with_chars = section.loc[section['text'].astype(str).str.contains('[a-zA-Z]')].iloc[0]
 
-        # Loop through lines, return index of last element in the section
+        # Filter to only consider titles in section
+        section_titles = section.loc[[idx for idx in section.index if idx in self.titles.index]]
+        
+        # Loop through title lines, return index of last element in the section
         previous_idx = 0
-        for idx, line in section.iterrows():
+        for idx, line in section_titles.iterrows():
 
             # Next title if text is bigger than the title, or bold
-            if self.more_titley(title, first_line, line):
+            if self.more_titley(title, first_section_line_with_chars, line):
                 return previous_idx
 
             previous_idx = idx
