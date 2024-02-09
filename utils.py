@@ -112,7 +112,8 @@ def strip_non_alphanumeric(text):
 def strip_filler_words(text):
     filler_words = ['and', 'the']
     words = text.split(' ')
-    return [word for word in words if word not in filler_words]
+    text_without_fillers = [word for word in words if word not in filler_words]
+    return ' '.join(text_without_fillers)
 
 
 def get_ifrc_go_final_report(mdr_code, save_path):

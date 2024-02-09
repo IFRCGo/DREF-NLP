@@ -478,33 +478,39 @@ class LessonsLearnedProcessor:
         Get the end of a section by comparing font properties of the section title to font properties of the section contents.
         """
         # Get title information
-        first_line_chars = lines.loc[lines['text'].astype(str).str.contains('[a-zA-Z]')].iloc[0]
-
-        # Round sizes
-        title_size = title['double_fontsize_int']
-        first_line_size = first_line_chars['double_fontsize_int']
+        lines_with_chars = lines.loc[lines['text'].astype(str).str.contains('[a-zA-Z]')]
+        first_line = lines_with_chars.iloc[0]
 
         # Loop through lines
         # Returns index of last element in the section
         previous_idx = 0
         for idx, line in lines.iterrows():
 
-            line_size = line['double_fontsize_int']
-
-            # If line is a page number, continue
-            any_letters = [char for char in line['text'].strip() if char.isalpha()]
-            if not any_letters:
-                continue
-
             # Next title if text is bigger than the title, or bold
-            if line_size > title_size:
+            if self.more_titley(title, first_line, line):
                 return previous_idx
-            elif line_size == title_size:
-                if first_line_size < title_size:
-                    return previous_idx
-                if (title['bold'] and line['bold']) and not first_line_chars['bold']:
-                    return previous_idx
 
             previous_idx = idx
                     
         return lines.index[-1]
+
+
+    def more_titley(self, title, nontitle, line):
+        """
+        Check if line is more titley than title.
+        """
+        # If line is larger, it is more titley
+        if line['double_fontsize_int'] > title['double_fontsize_int']:
+            return True
+
+        if line['double_fontsize_int'] == title['double_fontsize_int']:
+            
+            # If same size but nontitle is smaller, it is more titley
+            if nontitle['double_fontsize_int'] < title['double_fontsize_int']:
+                return True
+
+            # If same size but nontitle is not bold
+            if line['bold'] and not nontitle['bold']:
+                return True
+
+        return False
