@@ -21,6 +21,7 @@ class LessonsLearnedProcessor:
             Pandas DataFrame of sectors.
         """
         self.style_columns = ['font', 'double_fontsize_int', 'color', 'highlight_color', 'bold']
+        self.lessons_learned_title_texts = yaml.safe_load(open('lessons_learned_titles.yml'))
         self.lines = lines
         self.process_lines()
         self.sectors_lessons_learned_map = None
@@ -165,6 +166,16 @@ class LessonsLearnedProcessor:
                 .groupby(['text'])\
                 .filter(lambda x: len(x)>1)
 
+            # Remove titles
+            repeating_texts = repeating_texts.loc[~(
+                repeating_texts['text']\
+                .str.replace(r'[^A-Za-z ]+', ' ', regex=True)\
+                .str.replace(' +', ' ', regex=True)\
+                .str.lower()\
+                .str.strip()\
+                .isin(self.lessons_learned_title_texts)
+            )]
+
             # Remove indexes - check exists in case page top block overlaps bottom block
             remove_indexes = [idx for idx in repeating_texts['index'].explode() if idx in self.lines.index]
             self.lines = self.lines.drop(remove_indexes)
@@ -175,14 +186,13 @@ class LessonsLearnedProcessor:
         """
         Get lessons learned titles
         """
-        lessons_learned_title_texts = yaml.safe_load(open('lessons_learned_titles.yml'))
         lessons_learned_titles = self.titles.loc[
             self.titles['text']\
                 .str.replace(r'[^A-Za-z ]+', ' ', regex=True)\
                 .str.replace(' +', ' ', regex=True)\
                 .str.lower()\
                 .str.strip()\
-                .isin(lessons_learned_title_texts)
+                .isin(self.lessons_learned_title_texts)
         ]
         return lessons_learned_titles
         
