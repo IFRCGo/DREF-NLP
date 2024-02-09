@@ -466,25 +466,24 @@ class LessonsLearnedProcessor:
         # Get end of lessons learned section based on font styles
         lessons_learned_text_end = self.get_section_end(
             title=section_lines.iloc[0],
-            lines=section_lines.iloc[1:]
+            section=section_lines.iloc[1:]
         )
         section_lines = section_lines.loc[:lessons_learned_text_end]
 
         return section_lines
 
 
-    def get_section_end(self, title, lines):
+    def get_section_end(self, title, section):
         """
         Get the end of a section by comparing font properties of the section title to font properties of the section contents.
         """
         # Get title information
-        lines_with_chars = lines.loc[lines['text'].astype(str).str.contains('[a-zA-Z]')]
+        lines_with_chars = section.loc[section['text'].astype(str).str.contains('[a-zA-Z]')]
         first_line = lines_with_chars.iloc[0]
 
-        # Loop through lines
-        # Returns index of last element in the section
+        # Loop through lines, return index of last element in the section
         previous_idx = 0
-        for idx, line in lines.iterrows():
+        for idx, line in section.iterrows():
 
             # Next title if text is bigger than the title, or bold
             if self.more_titley(title, first_line, line):
@@ -492,12 +491,13 @@ class LessonsLearnedProcessor:
 
             previous_idx = idx
                     
-        return lines.index[-1]
+        return section.index[-1]
 
 
     def more_titley(self, title, nontitle, line):
         """
         Check if line is more titley than title.
+        Use nontitle to check what a title looks like.
         """
         # If line is larger, it is more titley
         if line['double_fontsize_int'] > title['double_fontsize_int']:
