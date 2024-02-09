@@ -31,6 +31,12 @@ class LessonsLearnedProcessor:
         """
         Add some more information.
         """
+        # Sort lines by y of blocks
+        self.lines['page_block'] = self.lines['page_number'].astype(str)+'_'+self.lines['block_number'].astype(str)
+        block_y = self.lines.groupby(['page_block'])['total_y'].min().to_dict()
+        self.lines['order'] = self.lines['page_block'].map(block_y)
+        self.lines = self.lines.sort_values(by=['order', 'line_number', 'span_number']).drop(columns=['page_block', 'order'])
+
         # Add style columns
         self.lines['double_fontsize_int'] = (self.lines['size'].astype(float)*2).round(0).astype('Int64')
         self.lines['style'] = self.lines['font'].astype(str)+', '+self.lines['double_fontsize_int'].astype(str)+', '+self.lines['color'].astype(str)+', '+self.lines['highlight_color'].astype(str)
@@ -491,7 +497,7 @@ class LessonsLearnedProcessor:
         # Lessons learned section should only contain text lower than the title
         section_lines = self.lines.loc[
             self.lines['total_y'] >= lessons_learned_title['total_y']
-        ].sort_values(by=['total_y'])
+        ]
 
         # Lessons learned section must end before the next lessons learned section
         next_lessons_learned = self.lessons_learned_titles.loc[
