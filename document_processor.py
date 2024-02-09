@@ -31,17 +31,19 @@ class LessonsLearnedProcessor:
         """
         Add some more information.
         """
-        # Add more info
-        self.lines['text_base'] = self.lines['text']\
-            .str.replace(r'[^A-Za-z0-9 ]+', ' ', regex=True)\
-            .str.replace(' +', ' ', regex=True)\
-            .str.lower()\
-            .str.strip()
+        # Add style columns
         self.lines['double_fontsize_int'] = (self.lines['size'].astype(float)*2).round(0).astype('Int64')
         self.lines['style'] = self.lines['font'].astype(str)+', '+self.lines['double_fontsize_int'].astype(str)+', '+self.lines['color'].astype(str)+', '+self.lines['highlight_color'].astype(str)
 
         # Combine spans on same line with same styles
         self.combine_spans_same_style()
+
+        # Add text_base
+        self.lines['text_base'] = self.lines['text']\
+            .str.replace(r'[^A-Za-z0-9 ]+', ' ', regex=True)\
+            .str.replace(' +', ' ', regex=True)\
+            .str.lower()\
+            .str.strip()
 
         # Remove photo blocks, page numbers, references
         self.remove_photo_blocks()
@@ -489,7 +491,7 @@ class LessonsLearnedProcessor:
         # Lessons learned section should only contain text lower than the title
         section_lines = self.lines.loc[
             self.lines['total_y'] >= lessons_learned_title['total_y']
-        ]
+        ].sort_values(by=['total_y'])
 
         # Lessons learned section must end before the next lessons learned section
         next_lessons_learned = self.lessons_learned_titles.loc[
