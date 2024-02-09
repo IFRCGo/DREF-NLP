@@ -463,37 +463,41 @@ class LessonsLearnedProcessor:
                 next_sector_title_y = next_sector_titles.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
                 section_lines = section_lines.loc[section_lines['total_y'] < next_sector_title_y]
 
-        # Get end of lessons learned section based on font styles
-        lessons_learned_text_end = self.get_section_end(
-            title=section_lines.iloc[0],
-            section=section_lines.iloc[1:]
+        # Cut the lessons learned section at the next title
+        section_lines = self.cut_at_first_title(
+            section=section_lines
         )
-        section_lines = section_lines.loc[:lessons_learned_text_end]
 
         return section_lines
 
 
-    def get_section_end(self, title, section):
+    def cut_at_first_title(self, section):
         """
-        Get the end of a section by comparing font properties of the section title to font properties of the section contents.
+        Cut the section lines at the first title.
+        Assume that the first line is the title of the section.
         """
+        # Assume that the title is the first line of the section
+        title = section.iloc[0]
+        section_content = section.iloc[1:]
+
         # Get title information
-        first_section_line_with_chars = section.loc[section['text'].astype(str).str.contains('[a-zA-Z]')].iloc[0]
+        first_section_line_with_chars = section_content.loc[section_content['text'].astype(str).str.contains('[a-zA-Z]')].iloc[0]
 
         # Filter to only consider titles in section
-        section_titles = section.loc[[idx for idx in section.index if idx in self.titles.index]]
+        section_titles = section_content.loc[[idx for idx in section_content.index if idx in self.titles.index]]
         
         # Loop through title lines, return index of last element in the section
-        previous_idx = 0
+        previous_idx = section_titles.index[0]
         for idx, line in section_titles.iterrows():
 
             # Next title if text is bigger than the title, or bold
             if self.more_titley(title, first_section_line_with_chars, line):
-                return previous_idx
+                break
 
             previous_idx = idx
-                    
-        return section.index[-1]
+
+        # Cut the section at the title index found
+        return section.loc[:previous_idx]
 
 
     def more_titley(self, title, nontitle, line):
