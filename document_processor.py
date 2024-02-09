@@ -522,17 +522,23 @@ class LessonsLearnedProcessor:
         ].sort_values(by=['total_y'])
         
         # Get the next title which is more titley than the title
-        more_titley_y = None
+        more_titley = None
         for idx, line in section_titles.iterrows():
             if self.more_titley(title, first_section_line_with_chars, line):
-                more_titley_y = line['total_y']
+                more_titley = line
                 break
 
         # Cut the section at the title index found
-        if more_titley_y is None:
+        if more_titley is None:
             return section
 
-        return section.loc[section['total_y'] < more_titley_y]
+        more_titley_line = self.lines.loc[
+            (self.lines['page_number']==more_titley['page_number']) & 
+            (self.lines['block_number']==more_titley['block_number']) & 
+            (self.lines['line_number']==more_titley['line_number'])
+        ]
+
+        return section.loc[section['total_y'] < more_titley_line['total_y'].min()]
 
 
     def more_titley(self, title, nontitle, line):
