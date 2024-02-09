@@ -32,7 +32,7 @@ class Sectors:
             sector_name_base = strip_non_alpha(sector_name).lower()
             if details is None:
                 sectors_processed[sector_name] = {
-                    'titles': sector_name_base,
+                    'titles': [sector_name_base],
                     'keywords': []
                 }
             else:
