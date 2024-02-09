@@ -484,20 +484,22 @@ class LessonsLearnedProcessor:
         first_section_line_with_chars = section_content.loc[section_content['text'].astype(str).str.contains('[a-zA-Z]')].iloc[0]
 
         # Filter to only consider titles in section
-        section_titles = section_content.loc[[idx for idx in section_content.index if idx in self.titles.index]]
+        section_titles = section_content.loc[
+            [idx for idx in section_content.index if idx in self.titles.index]
+        ].sort_values(by=['total_y'])
         
-        # Loop through title lines, return index of last element in the section
-        previous_idx = section_titles.index[0]
+        # Get the next title which is more titley than the title
+        more_titley_y = None
         for idx, line in section_titles.iterrows():
-
-            # Next title if text is bigger than the title, or bold
             if self.more_titley(title, first_section_line_with_chars, line):
+                more_titley_y = line['total_y']
                 break
 
-            previous_idx = idx
-
         # Cut the section at the title index found
-        return section.loc[:previous_idx]
+        if more_titley_y is None:
+            return section
+
+        return section.loc[section['total_y'] < more_titley_y]
 
 
     def more_titley(self, title, nontitle, line):
