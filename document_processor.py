@@ -2,7 +2,7 @@ from functools import cached_property
 import yaml
 import numpy as np
 import pandas as pd
-from utils import is_text_title, strip_non_alpha, strip_non_alphanumeric, colour_diff
+from utils import is_text_title, colour_diff
 from sectors import Sectors
 
 
@@ -32,6 +32,11 @@ class LessonsLearnedProcessor:
         Add some more information.
         """
         # Add more info
+        self.lines['text_base'] = self.lines['text']\
+            .str.replace(r'[^A-Za-z0-9 ]+', ' ', regex=True)\
+            .str.replace(' +', ' ', regex=True)\
+            .str.lower()\
+            .str.strip()
         self.lines['double_fontsize_int'] = (self.lines['size'].astype(float)*2).round(0).astype('Int64')
         self.lines['style'] = self.lines['font'].astype(str)+', '+self.lines['double_fontsize_int'].astype(str)+', '+self.lines['color'].astype(str)+', '+self.lines['highlight_color'].astype(str)
 
@@ -117,16 +122,15 @@ class LessonsLearnedProcessor:
         """
         # Get the first text containing alphanumeric characters
         block = block.copy()
-        block.loc[:, 'text'] = block.loc[:, 'text'].apply(strip_non_alphanumeric).str.lower()
-        block = block.dropna(subset=['text']).sort_values(by=['line_number', 'span_number'])
+        block = block.dropna(subset=['text_base']).sort_values(by=['line_number', 'span_number'])
         first_span = block.iloc[0]
 
         # If the the first word is page, assume page label
-        if first_span['text'].startswith('page'):
+        if first_span['text_base'].startswith('page'):
             return True
         
         # If only a single number, assume page label
-        if len(block)==1 and first_span['text'].isdigit():
+        if len(block)==1 and first_span['text_base'].isdigit():
             return True
 
         return False
@@ -138,16 +142,15 @@ class LessonsLearnedProcessor:
         """
         # Get the first text containing alphanumeric characters
         block = block.copy()
-        block.loc[:, 'text'] = block.loc[:, 'text'].apply(strip_non_alphanumeric).str.lower()
-        block = block.dropna(subset=['text']).sort_values(by=['line_number', 'span_number'])
+        block = block.dropna(subset=['text_base']).sort_values(by=['line_number', 'span_number'])
         first_span = block.iloc[0]
 
         # If the first span is small and a number
         if len(block)==1:
-            if first_span['text'].isdigit():
+            if first_span['text_base'].isdigit():
                 return True
         elif len(block)>1:
-            if first_span['text'].isdigit():
+            if first_span['text_base'].isdigit():
                 if (block.iloc[1]['size'] - first_span['size']) >= 1:
                     return True
 
@@ -170,22 +173,16 @@ class LessonsLearnedProcessor:
 
             # Get repeating texts
             elements = lines.loc[lines['page_block'].isin(page_blocks['page_block'].unique())]
-            elements.loc[:, 'text'] = elements.loc[:, 'text'].apply(strip_non_alphanumeric).str.lower()
             repeating_texts = elements\
                 .reset_index()\
                 .groupby(['page_number'])\
-                .agg({'text': lambda x: ' '.join(x), 'index': tuple})\
-                .groupby(['text'])\
+                .agg({'text_base': lambda x: ' '.join(x), 'index': tuple})\
+                .groupby(['text_base'])\
                 .filter(lambda x: len(x)>2)
 
             # Remove titles
             repeating_texts = repeating_texts.loc[~(
-                repeating_texts['text']\
-                .str.replace(r'[^A-Za-z ]+', ' ', regex=True)\
-                .str.replace(' +', ' ', regex=True)\
-                .str.lower()\
-                .str.strip()\
-                .isin(self.lessons_learned_title_texts)
+                repeating_texts['text_base'].isin(self.lessons_learned_title_texts)
             )]
 
             # Remove indexes - check exists in case page top block overlaps bottom block
@@ -199,12 +196,7 @@ class LessonsLearnedProcessor:
         Get lessons learned titles
         """
         lessons_learned_titles = self.titles.loc[
-            self.titles['text']\
-                .str.replace(r'[^A-Za-z ]+', ' ', regex=True)\
-                .str.replace(' +', ' ', regex=True)\
-                .str.lower()\
-                .str.strip()\
-                .isin(self.lessons_learned_title_texts)
+            self.titles['text_base'].isin(self.lessons_learned_title_texts)
         ]
         return lessons_learned_titles
         
@@ -301,9 +293,8 @@ class LessonsLearnedProcessor:
 
         filtered_lessons_learned = []
         for details in lessons_learned:
-            text_content = ' '.join(details['section_lines']['text'].tolist())
-            text_content_base = strip_non_alphanumeric(text_content).lower()
-            if text_content_base not in empty_texts:
+            text_content = ' '.join(details['section_lines']['text_base'].tolist())
+            if text_content not in empty_texts:
                 filtered_lessons_learned.append(details)
 
         return filtered_lessons_learned
