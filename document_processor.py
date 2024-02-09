@@ -192,11 +192,17 @@ class LessonsLearnedProcessor:
         """
         Get all titles in the documents
         """
+        # Get all lines starting with capital letter
         titles = self.lines.dropna(subset=['text'])\
                             .loc[
                                 (self.lines['span_number']==0) & 
                                 (self.lines['text'].apply(is_text_title))
                             ]
+        
+        # Assume that the body text is most common, and drop titles not bigger than this
+        body_style = self.lines['style'].value_counts().idxmax()
+        titles = titles.loc[titles['style']!=body_style]
+        
         return titles
 
 
