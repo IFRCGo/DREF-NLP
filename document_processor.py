@@ -245,28 +245,46 @@ class LessonsLearnedProcessor:
             lessons_learned_sector_map = {v['idx']:k for k,v in sectors_lessons_learned_map.items()}
         
         # Get the span of each lessons learned section
-        lessons_learned = self.lines.copy()
+        lessons_learned = []
         for idx, row in self.lessons_learned_titles.iterrows():
 
-            # Get lessons learned section lines
+            # Get lessons learned section lines, remove title
             section_lines = self.get_lessons_learned_section_lines(idx=idx)
 
+            lessons_learned_details = {
+                "title_text": section_lines.iloc[0],
+                "title_idx": idx,
+                "section_lines": section_lines.iloc[1:],
+            }
             # Add section index to lessons learned
-            lessons_learned.loc[section_lines.index, 'Section index'] = idx
             if lessons_learned_sector_map:
                 if idx in lessons_learned_sector_map:
-                    lessons_learned.loc[section_lines.index, 'Sector index'] = lessons_learned_sector_map[idx]
+                    lessons_learned_details['sector_idx'] = lessons_learned_sector_map[idx]
+                    lessons_learned_details['sector_title'] = self.sector_titles['Sector title'].to_dict()[lessons_learned_sector_map[idx]]
+                    lessons_learned_details['sector_similarity_score'] = self.sector_titles['Sector similarity score'].to_dict()[lessons_learned_sector_map[idx]]
+            
+            lessons_learned.append(lessons_learned_details)
 
-        # Add sector title
-        if lessons_learned_sector_map:
-            lessons_learned['Sector title'] = lessons_learned['Sector index'].map(self.sector_titles['Sector title'].to_dict())
-            lessons_learned['Sector similarity score'] = lessons_learned['Sector index'].map(self.sector_titles['Sector similarity score'].to_dict())
-
-        # Filter for only lessons learned
-        if not self.lessons_learned_titles.empty:
-            lessons_learned = lessons_learned.loc[lessons_learned['Section index'].notnull()]
+        # Remove empty lessons learned sections
+        lessons_learned = self.remove_empty_lessons_learned(lessons_learned)
 
         return lessons_learned
+
+
+    def remove_empty_lessons_learned(self, lessons_learned):
+        """
+        Filter the lessons learned sections to remove blank ones.
+        """
+        empty_texts = ['nothing to report']
+
+        filtered_lessons_learned = []
+        for details in lessons_learned:
+            text_content = ' '.join(details['section_lines']['text'].tolist())
+            text_content_base = strip_non_alphanumeric(text_content).lower()
+            if text_content_base not in empty_texts:
+                filtered_lessons_learned.append(details)
+
+        return filtered_lessons_learned
 
     
     def get_lessons_learned_sectors(self, sectors):
