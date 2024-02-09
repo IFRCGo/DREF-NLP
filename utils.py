@@ -1,5 +1,6 @@
 import re
 import io
+from math import sqrt
 from statistics import mean
 import requests
 from collections import Counter
@@ -114,6 +115,37 @@ def strip_filler_words(text):
     words = text.split(' ')
     text_without_fillers = [word for word in words if word not in filler_words]
     return ' '.join(text_without_fillers)
+
+
+def colour_diff(colour1, colour2):
+    """
+    Find the difference between two colours
+    """
+    # If both nan, return True
+    if (colour1!=colour1) and (colour2!=colour2):
+        return 0
+
+    # Calculate distance if both not nan
+    elif (colour1==colour1) and (colour2==colour2):
+
+        # If the same, return
+        if colour1==colour2:
+            return 0
+        
+        # Convert to RGB
+        if isinstance(colour1, str):
+            colour1 = tuple(int(colour1.lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
+        if isinstance(colour2, str):
+            colour2 = tuple(int(colour2.lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
+
+        # Calculate distance, and normalize to 1
+        distance = sqrt((colour1[0] - colour2[0])**2 + (colour1[1] - colour2[1])**2 + (colour1[2] - colour2[2])**2)/sqrt(3*(255**2))
+        
+        return distance
+    
+    # If one is nan and the other is not nan, return max distance 1
+    else:
+        return 1
 
 
 def get_ifrc_go_final_report(mdr_code, save_path):

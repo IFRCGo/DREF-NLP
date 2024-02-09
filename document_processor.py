@@ -2,7 +2,7 @@ from functools import cached_property
 import yaml
 import numpy as np
 import pandas as pd
-from utils import is_text_title, strip_non_alpha, strip_non_alphanumeric
+from utils import is_text_title, strip_non_alpha, strip_non_alphanumeric, colour_diff
 from sectors import Sectors
 
 
@@ -431,9 +431,10 @@ class LessonsLearnedProcessor:
     def styles_are_similar(self, style1, style2):
         # Check if two styles are similar
         if abs(style1["double_fontsize_int"] - style2["double_fontsize_int"]) <= 4:
-            if style1["highlight_color"] and style2["highlight_color"]:
-                if style1['bold'] == style2['bold']:
-                    return True
+            if colour_diff(style1["highlight_color"], style2["highlight_color"]) < 0.1:
+                if colour_diff(style1['color'], style2['color']) < 0.1:
+                    if style1['bold'] == style2['bold']:
+                        return True
         return False
 
 
