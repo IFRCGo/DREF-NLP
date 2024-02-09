@@ -2,7 +2,8 @@ from functools import cached_property
 import yaml
 import numpy as np
 import pandas as pd
-from utils import is_text_title, strip_non_alpha, strip_non_alphanumeric, strip_filler_words, phrase_in_sentence, replace_phrases_in_sentence
+from utils import is_text_title, strip_non_alpha, strip_non_alphanumeric
+from sectors import Sectors
 
 
 class LessonsLearnedProcessor:
@@ -103,7 +104,7 @@ class LessonsLearnedProcessor:
         """
         # Get the first text containing alphanumeric characters
         block = block.copy()
-        block['text'] = block['text'].apply(strip_non_alphanumeric).str.lower()
+        block.loc[:, 'text'] = block.loc[:, 'text'].apply(strip_non_alphanumeric).str.lower()
         block = block.dropna(subset=['text']).sort_values(by=['line_number', 'span_number'])
         first_span = block.iloc[0]
 
@@ -124,7 +125,7 @@ class LessonsLearnedProcessor:
         """
         # Get the first text containing alphanumeric characters
         block = block.copy()
-        block.loc[:, 'text_test'] = block.loc[:, 'text'].apply(strip_non_alphanumeric).str.lower()
+        block.loc[:, 'text'] = block.loc[:, 'text'].apply(strip_non_alphanumeric).str.lower()
         block = block.dropna(subset=['text']).sort_values(by=['line_number', 'span_number'])
         first_span = block.iloc[0]
 
@@ -206,11 +207,12 @@ class LessonsLearnedProcessor:
         sector_titles = self.titles.copy()
 
         # Get a score representing how "sector titley" it is
+        sectors = Sectors()
         sector_titles[['Sector title', 'Sector similarity score']] = sector_titles.apply(
             lambda row: 
                 None if row['text']!=row['text'] else \
                 pd.Series(
-                    self.get_similar_sector(
+                    sectors.get_similar_sector(
                         row['text']
                     )
                 ), axis=1
@@ -220,89 +222,6 @@ class LessonsLearnedProcessor:
         sector_titles = sector_titles.loc[sector_titles['Sector similarity score'] >= 0.5]
         
         return sector_titles
-
-
-    def get_similar_sector(self, text):
-        """
-        Check if text is similar to a list of known sector titles.
-        """
-        text_base = strip_non_alpha(text).lower()
-        sector_title_texts = yaml.safe_load(open('sectors.yml'))
-        abbreviations = yaml.safe_load(open('abbreviations.yml'))
-
-        # Process the titles - add sector name, and swap common words
-        for sector_name, details in sector_title_texts.items():
-            if details is not None:
-                if 'titles' in details:
-                    # Add sector title
-                    sector_name_base = strip_non_alpha(sector_name).lower()
-                    if sector_name_base not in details['titles']:
-                        details['titles'].append(sector_name_base)
-                    # Swap abbreviations
-                    for title in details['titles']:
-                        for phrase in abbreviations:
-                            if phrase_in_sentence(phrase, title):
-                                for abbreviation in abbreviations[phrase]:
-                                    swapped = replace_phrases_in_sentence(phrase, abbreviation, title)
-                                    if swapped not in details['titles']:
-                                        details['titles'].append(swapped)
-
-        # First, check if there is an exact match with the titles
-        for sector_name, details in sector_title_texts.items():
-            if details is None:
-                titles = [sector_name]
-            else:
-                titles = (details['titles'] if 'titles' in details else [])+[sector_name]
-            for title in titles:
-                if text_base == strip_non_alpha(title).lower():
-                    return sector_name, 1
-
-        # Next, check if the title is any title plus filler words 
-        for sector_name, details in sector_title_texts.items():
-            if details is None:
-                titles = [sector_name]
-            else:
-                titles = (details['titles'] if 'titles' in details else [])+[sector_name]
-            for title in titles:
-                if strip_filler_words(text_base) == strip_filler_words(strip_non_alpha(title).lower()):
-                    return sector_name, 1
-
-        # Next, check if there is an exact match with any keywords
-        for sector_name, details in sector_title_texts.items():
-            if details is None:
-                keywords = []
-            else:
-                keywords = (details['keywords'] if 'keywords' in details else [])
-            for keyword in keywords:
-                if text_base == strip_non_alpha(keyword).lower():
-                    return sector_name, 0.9
-
-        # Next, check how many words in the text are covered by each sector and sector keywords
-        text_base_words = text_base.split(' ')
-        proportion_text_covered_by_sector = {}
-        for sector_name, details in sector_title_texts.items():
-            if details is None:
-                keywords = []
-            else:
-                keywords = (details['keywords'] if 'keywords' in details else [])
-            
-            # Extract filler words and keywords
-            filler_words = ['and', 'the']
-            text_without_fillers = replace_phrases_in_sentence(filler_words, '', text_base).strip()
-            text_without_keywords = replace_phrases_in_sentence(keywords, '', text_without_fillers).strip()
-
-            # Get the proportion of words covered
-            if text_without_fillers != text_without_keywords:
-                number_words_covered = len(text_without_keywords.split(' ')) - len(text_without_fillers.split(' '))
-                proportion_text_covered_by_sector[sector_name] = number_words_covered/len(text_without_fillers.split(' '))
-            else:
-                return float('nan')
-
-        max_sector = max(proportion_text_covered_by_sector, key=proportion_text_covered_by_sector.get)
-        max_proportion = proportion_text_covered_by_sector[max_sector]
-
-        if max_proportion > 0:
-            return max_sector, max_proportion
 
 
     def get_lessons_learned(self):
