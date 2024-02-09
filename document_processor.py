@@ -374,7 +374,7 @@ class LessonsLearnedProcessor:
 
     def get_next_lessons_learned(self, sector_idx, sector_idxs):
         """
-        Get the next unmatched lessons learned index after the sector position at sector_idx, unless there is a sector index first (in sector_idxs). Compare by vertical position in whole document.
+        Get the next unmatched lessons learned index in the document after the sector position at sector_idx, unless there is a sector index first (in sector_idxs). Compare by vertical position in the whole document.
 
         Parameters
         ----------
@@ -384,6 +384,10 @@ class LessonsLearnedProcessor:
         sector_idxs : list of ints (required)
             List of indexes of known sector titles.
         """
+        # The lessons learned must be in the sector section
+        # Define the sector section as before the next "more titley" title
+        sector_section = self.cut_at_first_title(self.lines.loc[sector_idx:])
+
         # Get y position of sectors and lessons learned
         sector_idx_position = self.lines.loc[sector_idx, ['page_number', 'total_y']]
         sector_idxs_positions = self.lines.loc[list(sector_idxs), ['page_number', 'total_y']]
@@ -405,14 +409,17 @@ class LessonsLearnedProcessor:
                 "distance": next_lessons_learned['total_y'] - sector_idx_position['total_y']
             }
 
-            # If no sectors, return the nearest lessons learned section
-            if next_sector_idxs.empty:
-                return next_lessons_learned_distance
-            
-            # If lessons learned section is nearer than the section, return it
-            next_sector = next_sector_idxs.iloc[0]
-            if next_lessons_learned['total_y'] < next_sector['total_y']:
-                return next_lessons_learned_distance
+            # If lessons learned is before the end of the sector section
+            if next_lessons_learned['total_y'] < sector_section['total_y'].max():
+
+                # If no sectors, return the nearest lessons learned section
+                if next_sector_idxs.empty:
+                    return next_lessons_learned_distance
+                
+                # If lessons learned section is nearer than the section, return it
+                next_sector = next_sector_idxs.iloc[0]
+                if next_lessons_learned['total_y'] < next_sector['total_y']:
+                    return next_lessons_learned_distance
 
 
     def styles_are_similar(self, style1, style2):
