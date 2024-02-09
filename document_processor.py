@@ -364,7 +364,7 @@ class LessonsLearnedProcessor:
             if not sectors.empty:
 
                 # Get distance between sector title and lessons learned section
-                sectors['Distance from lessons learned'] = sectors['Lessons learned covered'].apply(lambda x: np.mean([v['distance'] for k,v in x.items()]) if x else float('nan'))
+                sectors['Distance from lessons learned'] = sectors['Lessons learned covered'].apply(lambda x: x.get('distance'))
 
                 # Get the titles which are closest to the lessons learned
                 best_sector = sectors\
