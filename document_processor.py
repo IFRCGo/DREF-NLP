@@ -164,7 +164,7 @@ class LessonsLearnedProcessor:
                 .groupby(['page_number'])\
                 .agg({'text': lambda x: ' '.join(x), 'index': tuple})\
                 .groupby(['text'])\
-                .filter(lambda x: len(x)>1)
+                .filter(lambda x: len(x)>2)
 
             # Remove titles
             repeating_texts = repeating_texts.loc[~(
