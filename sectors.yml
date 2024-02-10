@@ -52,6 +52,7 @@ Water, Sanitation and Hygiene:
 Protection, Gender and Inclusion:
   titles:
     - protection gender and inclusion
+    - protection gender and diversity
   keywords:
     - pgi
     - protection
@@ -65,6 +66,7 @@ Food insecurity and nutrition:
   titles:
     - food security nutrition and livelihoods
     - food insecurity
+    - livelihoods nutrition and food security
   keywords:
     - food
     - food insecurity
@@ -77,6 +79,7 @@ Risk Reduction, Climate adaptation and Recovery:
     - disaster response preparedness early warning risk reduction
     - disaster risk reduction
     - disaster preparedness and risk reduction
+    - early warning and emergency response preparedness
   keywords:
     - risk reduction
     - climate
@@ -87,11 +90,10 @@ National Society Strengthening:
   titles:
     - national society development
     - national society capacity building
-    - ns capacity building
     - organizational development
     - strengthen national society
-    - ns capacity building and disaster preparedness
-    - ns capacity building and preparedness
+    - strengthening national society
+    - national society capacity building and disaster preparedness
     - national society capacity building and preparedness
     - national society capacity building and disaster preparedness
   keywords:
@@ -116,6 +118,8 @@ Quality Programming:
     - quality programming programming support services
 
 Migration and displacement:
+  titles:
+    - migration
 
 Disaster Management:
 
