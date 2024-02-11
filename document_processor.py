@@ -2,11 +2,11 @@ from functools import cached_property
 import yaml
 import numpy as np
 import pandas as pd
-from utils import is_text_title, colour_diff
 from sectors import Sectors
+from lines import Lines
 
 
-class LessonsLearnedProcessor:
+class AppealDocument:
     def __init__(self, lines):
         """
         Parameters
@@ -20,26 +20,23 @@ class LessonsLearnedProcessor:
         sectors : pandas DataFrame (required)
             Pandas DataFrame of sectors.
         """
-        self.style_columns = ['font', 'double_fontsize_int', 'color', 'highlight_color', 'bold']
         self.lessons_learned_title_texts = yaml.safe_load(open('lessons_learned_titles.yml'))
-        self.lines = lines
-        self.process_lines()
+
+        # Add style columns
+        lines['double_fontsize_int'] = (lines['size'].astype(float)*2).round(0).astype('Int64')
+        lines['style'] = lines['font'].astype(str)+', '+lines['double_fontsize_int'].astype(str)+', '+lines['color'].astype(str)+', '+lines['highlight_color'].astype(str)
+        self.lines = Lines(lines)
+        
+        self.process_content()
         self.sectors_lessons_learned_map = None
 
 
-    def process_lines(self):
+    def process_content(self):
         """
         Add some more information.
         """
         # Sort lines by y of blocks
-        self.lines['page_block'] = self.lines['page_number'].astype(str)+'_'+self.lines['block_number'].astype(str)
-        block_y = self.lines.groupby(['page_block'])['total_y'].min().to_dict()
-        self.lines['order'] = self.lines['page_block'].map(block_y)
-        self.lines = self.lines.sort_values(by=['order', 'line_number', 'span_number']).drop(columns=['page_block', 'order'])
-
-        # Add style columns
-        self.lines['double_fontsize_int'] = (self.lines['size'].astype(float)*2).round(0).astype('Int64')
-        self.lines['style'] = self.lines['font'].astype(str)+', '+self.lines['double_fontsize_int'].astype(str)+', '+self.lines['color'].astype(str)+', '+self.lines['highlight_color'].astype(str)
+        self.lines = self.lines.sort_blocks_by_y()
 
         # Combine spans on same line with same styles
         self.combine_spans_same_style()
@@ -96,7 +93,7 @@ class LessonsLearnedProcessor:
             # Headers: Loop through blocks and remove header page labels and references
             for block_number in block_numbers:
                 block_lines = page_lines.loc[page_lines['block_number']==block_number]
-                if self.is_page_label(block_lines) or self.is_reference(block_lines):
+                if block_lines.starts_with_page_label() or block_lines.starts_with_reference():
                     self.lines.drop(labels=block_lines.index, inplace=True)
                 else:
                     break
@@ -119,51 +116,11 @@ class LessonsLearnedProcessor:
             # Footers: Loop through blocks and remove footer page labels and references
             for block_number in block_numbers[::-1]:
                 block_lines = page_lines.loc[page_lines['block_number']==block_number]
-                if self.is_page_label(block_lines) or self.is_reference(block_lines):
+                if block_lines.starts_with_page_label() or block_lines.starts_with_reference():
                     self.lines.drop(labels=block_lines.index, inplace=True)
                 else:
                     break
-
-
-    def is_page_label(self, block):
-        """
-        """
-        # Get the first text containing alphanumeric characters
-        block = block.copy()
-        block = block.dropna(subset=['text_base']).sort_values(by=['line_number', 'span_number'])
-        first_span = block.iloc[0]
-
-        # If the the first word is page, assume page label
-        if first_span['text_base'].startswith('page'):
-            return True
-        
-        # If only a single number, assume page label
-        if len(block)==1 and first_span['text_base'].isdigit():
-            return True
-
-        return False
-
-
-    def is_reference(self, block):
-        """
-        Remove references denoted by a superscript number in document headers and footers.
-        """
-        # Get the first text containing alphanumeric characters
-        block = block.copy()
-        block = block.dropna(subset=['text_base']).sort_values(by=['line_number', 'span_number'])
-        first_span = block.iloc[0]
-
-        # If the first span is small and a number
-        if len(block)==1:
-            if first_span['text_base'].isdigit():
-                return True
-        elif len(block)>1:
-            if first_span['text_base'].isdigit():
-                if (block.iloc[1]['size'] - first_span['size']) >= 1:
-                    return True
-
-        return False
-
+    
 
     def drop_repeating_headers_footers(self):
         """
@@ -203,36 +160,17 @@ class LessonsLearnedProcessor:
         """
         Get lessons learned titles
         """
-        lessons_learned_titles = self.titles.loc[
-            self.titles['text_base'].isin(self.lessons_learned_title_texts)
+        lessons_learned_titles = self.lines.titles.loc[
+            self.lines.titles['text_base'].isin(self.lessons_learned_title_texts)
         ]
         return lessons_learned_titles
-        
-
-    @cached_property
-    def titles(self):
-        """
-        Get all titles in the documents
-        """
-        # Get all lines starting with capital letter
-        titles = self.lines.dropna(subset=['text'])\
-                            .loc[
-                                (self.lines['span_number']==0) & 
-                                (self.lines['text'].apply(is_text_title))
-                            ]
-        
-        # Assume that the body text is most common, and drop titles not bigger than this
-        body_style = self.lines['style'].value_counts().idxmax()
-        titles = titles.loc[titles['style']!=body_style]
-        
-        return titles
 
 
     @cached_property
     def sector_titles(self):
         """
         """
-        sector_titles = self.titles.copy()
+        sector_titles = self.lines.titles.copy()
 
         # Get a score representing how "sector titley" it is
         sectors = Sectors()
@@ -320,10 +258,13 @@ class LessonsLearnedProcessor:
         if self.unmatched_lessons_learned:
 
             # Match lessons learned to sectors for sectors of a similar style
-            similar_sector_styles = self.get_sectors_similar_styles(
-                style=primary_sector_style,
-                sectors=sectors
-            )
+            similar_sector_styles = sectors.loc[
+                (sectors['style']!=primary_sector_style.name) & 
+                sectors.apply(
+                    lambda row: row.is_similar_style(primary_sector_style), 
+                    axis=1
+                )
+            ]
             self.match_sectors_by_distance(
                 sectors=similar_sector_styles
             )
@@ -351,7 +292,7 @@ class LessonsLearnedProcessor:
         sector_title_styles = sectors\
             .reset_index()\
             .rename(columns={'index': 'Sector title indexes'})\
-            .groupby(['style']+self.style_columns, dropna=False)\
+            .groupby(['style', 'font', 'double_fontsize_int', 'color', 'highlight_color', 'bold'], dropna=False)\
             .agg({'text': tuple, 'Sector title': tuple, 'Sector title indexes': tuple, 'Sector similarity score': 'mean'})\
             .reset_index()\
             .set_index('style')
@@ -432,7 +373,7 @@ class LessonsLearnedProcessor:
         """
         # The lessons learned must be in the sector section
         # Define the sector section as before the next "more titley" title
-        sector_section = self.cut_at_first_title(self.lines.loc[sector_idx:])
+        sector_section = self.lines.loc[sector_idx:].cut_at_first_title()
 
         # Get y position of sectors and lessons learned
         sector_idx_position = self.lines.loc[sector_idx, ['page_number', 'total_y']]
@@ -468,26 +409,6 @@ class LessonsLearnedProcessor:
                     return next_lessons_learned_distance
 
 
-    def styles_are_similar(self, style1, style2):
-        # Check if two styles are similar
-        if abs(style1["double_fontsize_int"] - style2["double_fontsize_int"]) <= 4:
-            if colour_diff(style1["highlight_color"], style2["highlight_color"]) < 0.1:
-                if colour_diff(style1['color'], style2['color']) < 0.1:
-                    if style1['bold'] == style2['bold']:
-                        return True
-        return False
-
-
-    def get_sectors_similar_styles(self, style, sectors):
-        return sectors.loc[
-            (sectors['style']!=style.name) & 
-            sectors.apply(
-                lambda row: self.styles_are_similar(row, style), 
-                axis=1
-            )
-        ]
-
-
     def get_lessons_learned_section_lines(self, idx):
         """
         Get the lines of a lessons learned section given the index of the title.
@@ -518,67 +439,6 @@ class LessonsLearnedProcessor:
                 section_lines = section_lines.loc[section_lines['total_y'] < next_sector_title_y]
 
         # Cut the lessons learned section at the next title
-        section_lines = self.cut_at_first_title(
-            section=section_lines
-        )
+        section_lines = section_lines.cut_at_first_title()
 
         return section_lines
-
-
-    def cut_at_first_title(self, section):
-        """
-        Cut the section lines at the first title.
-        Assume that the first line is the title of the section.
-        """
-        # Assume that the title is the first line of the section
-        title = section.iloc[0]
-        section_content = section.iloc[1:]
-
-        # Get title information
-        first_section_line_with_chars = section_content.loc[section_content['text'].astype(str).str.contains('[a-zA-Z]')].iloc[0]
-
-        # Filter to only consider titles in section
-        section_titles = section_content.loc[
-            [idx for idx in section_content.index if idx in self.titles.index]
-        ].sort_values(by=['total_y'])
-        
-        # Get the next title which is more titley than the title
-        more_titley = None
-        for idx, line in section_titles.iterrows():
-            if self.more_titley(title, first_section_line_with_chars, line):
-                more_titley = line
-                break
-
-        # Cut the section at the title index found
-        if more_titley is None:
-            return section
-
-        more_titley_line = self.lines.loc[
-            (self.lines['page_number']==more_titley['page_number']) & 
-            (self.lines['block_number']==more_titley['block_number']) & 
-            (self.lines['line_number']==more_titley['line_number'])
-        ]
-
-        return section.loc[section['total_y'] < more_titley_line['total_y'].min()]
-
-
-    def more_titley(self, title, nontitle, line):
-        """
-        Check if line is more titley than title.
-        Use nontitle to check what a title looks like.
-        """
-        # If line is larger, it is more titley
-        if line['double_fontsize_int'] > title['double_fontsize_int']:
-            return True
-
-        if line['double_fontsize_int'] == title['double_fontsize_int']:
-            
-            # If same size but nontitle is smaller, it is more titley
-            if nontitle['double_fontsize_int'] < title['double_fontsize_int']:
-                return True
-
-            # If same size but nontitle is not bold
-            if line['bold'] and not nontitle['bold']:
-                return True
-
-        return False
