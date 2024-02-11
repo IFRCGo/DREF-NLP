@@ -25,9 +25,11 @@ class AppealDocument:
         # Add style columns
         lines['double_fontsize_int'] = (lines['size'].astype(float)*2).round(0).astype('Int64')
         lines['style'] = lines['font'].astype(str)+', '+lines['double_fontsize_int'].astype(str)+', '+lines['color'].astype(str)+', '+lines['highlight_color'].astype(str)
+
+        # Process the lines: remove headers footers, etc.
         self.lines = Lines(lines)
-        
         self.process_content()
+
         self.sectors_lessons_learned_map = None
 
 
@@ -39,7 +41,7 @@ class AppealDocument:
         self.lines = self.lines.sort_blocks_by_y()
 
         # Combine spans on same line with same styles
-        self.combine_spans_same_style()
+        self.lines.combine_spans_same_style()
 
         # Add text_base
         self.lines['text_base'] = self.lines['text']\
@@ -56,15 +58,6 @@ class AppealDocument:
 
         # Have to run again in case repeating headers or footers were below or above the page labels or references
         self.drop_repeating_headers_footers()
-
-
-    def combine_spans_same_style(self):
-        """
-        """
-        self.lines['text'] = self.lines\
-            .groupby(['page_number', 'block_number', 'line_number', 'style'])['text']\
-            .transform(lambda x: ' '.join(x))
-        self.lines = self.lines.drop_duplicates(subset=['page_number', 'block_number', 'line_number', 'style'])
 
 
     def remove_photo_blocks(self):

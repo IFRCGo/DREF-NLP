@@ -90,6 +90,18 @@ class Lines(pd.DataFrame):
         return lines
 
 
+    def combine_spans_same_style(self):
+        """
+        """
+        lines = self.copy()
+        lines['text'] = lines\
+            .groupby(['page_number', 'block_number', 'line_number', 'style'])['text']\
+            .transform(lambda x: ' '.join(x))
+        lines = lines.drop_duplicates(subset=['page_number', 'block_number', 'line_number', 'style'])
+
+        return lines
+
+
     def starts_with_page_label(self):
         """
         """
