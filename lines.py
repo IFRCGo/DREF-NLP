@@ -58,25 +58,6 @@ class Lines(pd.DataFrame):
         return Line
 
 
-    @cached_property
-    def titles(self):
-        """
-        Get all titles in the documents
-        """        
-        # Get all lines starting with capital letter
-        titles = self.dropna(subset=['text'])\
-                     .loc[
-                         (self['span_number']==0) & 
-                         (self['text'].apply(is_text_title))
-                     ]
-        
-        # Assume that the body text is most common, and drop titles not bigger than this
-        body_style = self['style'].value_counts().idxmax()
-        titles = titles.loc[titles['style']!=body_style]
-        
-        return titles
-
-
     def sort_blocks_by_y(self):
         """
         Sort blocks in the lines by the y position in the document.
@@ -138,6 +119,25 @@ class Lines(pd.DataFrame):
                     return True
 
         return False
+
+
+    @cached_property
+    def titles(self):
+        """
+        Get all titles in the documents
+        """        
+        # Get all lines starting with capital letter
+        titles = self.dropna(subset=['text'])\
+                     .loc[
+                         (self['span_number']==0) & 
+                         (self['text'].apply(is_text_title))
+                     ]
+        
+        # Assume that the body text is most common, and drop titles not bigger than this
+        body_style = self['style'].value_counts().idxmax()
+        titles = titles.loc[titles['style']!=body_style]
+        
+        return titles
 
 
     def cut_at_first_title(self):
