@@ -30,6 +30,8 @@ class LessonsLearnedExtractor:
         
         # Get the span of each lessons learned section
         lessons_learned = []
+        sector_titles_dict = self.document.sector_titles['Sector title'].to_dict()
+        sector_similarity_scores_dict = self.document.sector_titles['Sector title'].to_dict()
         for idx, row in self.lessons_learned_titles.iterrows():
 
             # Get lessons learned section lines, remove title
@@ -42,10 +44,10 @@ class LessonsLearnedExtractor:
             }
             # Add section index to lessons learned
             if lessons_learned_sector_map:
-                if idx in lessons_learned_sector_map:
-                    lessons_learned_details['sector_idx'] = lessons_learned_sector_map[idx]
-                    lessons_learned_details['sector_title'] = self.document.sector_titles['Sector title'].to_dict()[lessons_learned_sector_map[idx]]
-                    lessons_learned_details['sector_similarity_score'] = self.document.sector_titles['Sector similarity score'].to_dict()[lessons_learned_sector_map[idx]]
+                sector_idx = lessons_learned_sector_map.get(idx)                
+                lessons_learned_details['sector_idx'] = sector_idx
+                lessons_learned_details['sector_title'] = sector_titles_dict.get(sector_idx)
+                lessons_learned_details['sector_similarity_score'] = sector_similarity_scores_dict.get(sector_idx)
             
             lessons_learned.append(lessons_learned_details)
 
