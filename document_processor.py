@@ -178,6 +178,7 @@ class AppealDocument:
     @cached_property
     def lessons_learned(self):
         """
+        Extract lessons learned from the document.
         """
         lessons_learned_extractor = LessonsLearnedExtractor()
         lessons_learned = lessons_learned_extractor.get_lessons_learned(
