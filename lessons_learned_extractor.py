@@ -211,7 +211,7 @@ class LessonsLearnedExtractor:
         """
         # The lessons learned must be in the sector section
         # Define the sector section as before the next "more titley" title
-        sector_section = self.document.lines.loc[sector_idx:].cut_at_first_title()
+        sector_section = self.document.lines.loc[sector_idx:]
 
         # Get y position of sectors and lessons learned
         sector_idx_position = self.document.lines.loc[sector_idx, ['page_number', 'total_y']]
