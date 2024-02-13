@@ -17,11 +17,12 @@ class Line(pd.Series):
 
     def is_similar_style(self, line2):
         # Check if two styles are similar
-        if abs(self["double_fontsize_int"] - line2["double_fontsize_int"]) <= 4:
-            if colour_diff(self["highlight_color"], line2["highlight_color"]) < 0.1:
-                if colour_diff(self['color'], line2['color']) < 0.1:
-                    if self['bold'] == line2['bold']:
-                        return True
+        if abs(self["double_fontsize_int"] - line2["double_fontsize_int"]) <= 6:
+            if self['font'].split('-')[0] == line2['font'].split('-')[0]:
+                if colour_diff(self["highlight_color"], line2["highlight_color"]) < 0.1:
+                    if colour_diff(self['color'], line2['color']) < 0.1:
+                        if self['bold'] == line2['bold']:
+                            return True
         return False
 
 
