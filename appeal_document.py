@@ -151,6 +151,11 @@ class AppealDocument:
         """
         sector_titles = self.titles.copy()
 
+        # Get only sector titles in the "Detailed operational plan" section, if it exists
+        detailed_operational_plan_titles = sector_titles.loc[sector_titles['text_base']=='c detailed operational plan']
+        if not detailed_operational_plan_titles.empty:
+            sector_titles = sector_titles.loc[sector_titles['total_y'] > detailed_operational_plan_titles['total_y'].min()]
+
         # Get a score representing how "sector titley" it is
         sectors = Sectors()
         sector_titles[['Sector title', 'Sector similarity score']] = sector_titles.apply(
