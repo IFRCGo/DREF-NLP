@@ -31,7 +31,7 @@ class LessonsLearnedExtractor:
         # Get the span of each lessons learned section
         lessons_learned = []
         sector_titles_dict = self.document.sector_titles['Sector title'].to_dict()
-        sector_similarity_scores_dict = self.document.sector_titles['Sector title'].to_dict()
+        sector_similarity_scores_dict = self.document.sector_titles['Sector similarity score'].to_dict()
         for idx, row in self.lessons_learned_titles.iterrows():
 
             # Get lessons learned section lines, remove title
@@ -72,7 +72,7 @@ class LessonsLearnedExtractor:
         """
         Filter the lessons learned sections to remove blank ones.
         """
-        empty_texts = ['nothing to report']
+        empty_texts = ['nothing to report', 'none was reported']
 
         filtered_lessons_learned = []
         for details in lessons_learned:
