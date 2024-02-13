@@ -5,6 +5,7 @@ Shelter, Housing and Settlements:
     - shelter and settlement
     - shelter
     - emergency shelter and non food items
+    - temporary and emergency shelter and human settlements
   keywords:
     - shelter
     - house
@@ -45,6 +46,7 @@ Water, Sanitation and Hygiene:
     - water sanitation and hygiene
     - water sanitation and hygiene promotion
     - water sanitation and hygiene promotion wash
+    - water and sanitation
   keywords:
     - water
     - wash
@@ -55,6 +57,7 @@ Protection, Gender and Inclusion:
   titles:
     - protection gender and inclusion
     - protection gender and diversity
+    - protection gender
   keywords:
     - pgi
     - protection
@@ -69,6 +72,7 @@ Food insecurity and nutrition:
     - food security nutrition and livelihoods
     - food insecurity
     - livelihoods nutrition and food security
+    - food security
   keywords:
     - food
     - food insecurity
@@ -153,3 +157,5 @@ Programme monitoring and evaluation:
 Logistics:
 
 Strategies for implementation:
+
+Secretariat services:
