@@ -30,7 +30,12 @@ class Line(pd.Series):
         """
         Check if line is more titley than title.
         Use nontitle to check what a title looks like.
+        Don't consider titles in images as titles.
         """
+        # Don't consider titles in images as titles
+        if self['img']:
+            return False
+
         # If line is larger, it is more titley
         if self['double_fontsize_int'] > title['double_fontsize_int']:
             return True
