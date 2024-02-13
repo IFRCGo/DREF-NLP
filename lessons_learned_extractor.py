@@ -35,12 +35,15 @@ class LessonsLearnedExtractor:
         for idx, row in self.lessons_learned_titles.iterrows():
 
             # Get lessons learned section lines, remove title
-            section_lines = self.get_lessons_learned_section_lines(idx=idx)
+            lessons_learned_section_title = self.lessons_learned_titles.loc[idx]
+            section_lines = self.get_lessons_learned_section_lines(
+                title=lessons_learned_section_title
+            )
 
             lessons_learned_details = {
-                "title_text": section_lines.iloc[0],
+                "title_text": lessons_learned_section_title,
                 "title_idx": idx,
-                "section_lines": section_lines.iloc[1:],
+                "section_lines": section_lines,
             }
             # Add section index to lessons learned
             if lessons_learned_sector_map:
@@ -91,6 +94,7 @@ class LessonsLearnedExtractor:
         primary_sector_style = self.get_primary_sector_style(
             sectors=sectors
         )
+        print(f'\nPrimary sector style: {primary_sector_style.name}')
         self.sectors_lessons_learned_map = primary_sector_style['Lessons learned covered']
         if self.unmatched_lessons_learned:
 
@@ -247,20 +251,18 @@ class LessonsLearnedExtractor:
                     return next_lessons_learned_distance
 
 
-    def get_lessons_learned_section_lines(self, idx):
+    def get_lessons_learned_section_lines(self, title):
         """
         Get the lines of a lessons learned section given the index of the title.
         """
-        lessons_learned_title = self.lessons_learned_titles.loc[idx]
-
         # Lessons learned section should only contain text lower than the title
         section_lines = self.document.lines.loc[
-            self.document.lines['total_y'] >= lessons_learned_title['total_y']
+            self.document.lines['total_y'] > title['total_y']
         ]
 
         # Lessons learned section must end before the next lessons learned section
         next_lessons_learned = self.lessons_learned_titles.loc[
-            self.lessons_learned_titles['total_y'] > lessons_learned_title['total_y']
+            self.lessons_learned_titles['total_y'] > title['total_y']
         ]
         if not next_lessons_learned.empty:
             next_lessons_learned_y = next_lessons_learned.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
@@ -270,13 +272,15 @@ class LessonsLearnedExtractor:
         if self.sectors_lessons_learned_map:
             next_sector_titles = self.document.sector_titles.loc[self.sectors_lessons_learned_map.keys()]
             next_sector_titles = next_sector_titles.loc[
-                next_sector_titles['total_y'] > lessons_learned_title['total_y']
+                next_sector_titles['total_y'] > title['total_y']
             ]
             if not next_sector_titles.empty:
                 next_sector_title_y = next_sector_titles.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
                 section_lines = section_lines.loc[section_lines['total_y'] < next_sector_title_y]
 
         # Cut the lessons learned section at the next title
-        section_lines = section_lines.cut_at_first_title()
+        section_lines = section_lines.cut_at_more_titley_title(
+            title=title
+        )
 
         return section_lines

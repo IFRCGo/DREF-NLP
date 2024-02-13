@@ -16,8 +16,11 @@ class Line(pd.Series):
 
 
     def is_similar_style(self, line2):
-        # Check if two styles are similar
-        if abs(self["double_fontsize_int"] - line2["double_fontsize_int"]) <= 6:
+        # Size tolerance greater if highlight_colour
+        size_tolerance = 6 if not self['highlight_color'] else 100
+
+        # Check if sizes are similar
+        if abs(self["double_fontsize_int"] - line2["double_fontsize_int"]) <= size_tolerance:
 
             # Check if fonts are similar
             font = self['font'].split('-')[0].lower()
@@ -46,7 +49,7 @@ class Line(pd.Series):
             return False
 
         # If line is larger, it is more titley
-        if self['double_fontsize_int'] > title['double_fontsize_int']:
+        if self['double_fontsize_int'] > max(title['double_fontsize_int'], nontitle['double_fontsize_int']):
             return True
 
         if self['double_fontsize_int'] == title['double_fontsize_int']:
@@ -81,7 +84,7 @@ class Lines(pd.DataFrame):
         lines['page_block'] = lines['page_number'].astype(str)+'_'+lines['block_number'].astype(str)
         block_y = lines.groupby(['page_block'])['total_y'].min().to_dict()
         lines['order'] = lines['page_block'].map(block_y)
-        lines = lines.sort_values(by=['order', 'line_number', 'span_number']).drop(columns=['page_block', 'order'])
+        lines = lines.sort_values(by=['order', 'total_y']).drop(columns=['page_block', 'order'])
 
         return lines
 
@@ -142,7 +145,7 @@ class Lines(pd.DataFrame):
     def titles(self):
         """
         Get all titles in the documents
-        """        
+        """
         # Get all lines starting with capital letter
         titles = self.dropna(subset=['text'])\
                      .loc[
@@ -157,21 +160,17 @@ class Lines(pd.DataFrame):
         return titles
 
 
-    def cut_at_first_title(self):
+    def cut_at_more_titley_title(self, title):
         """
         Cut the section lines at the first title.
         Assume that the first line is the title of the section.
         """
-        # Assume that the title is the first line of the section
-        title = self.iloc[0]
-        section_content = self.iloc[1:]
-
         # Get title information
-        first_section_line_with_chars = section_content.loc[section_content['text'].astype(str).str.contains('[a-zA-Z]')].iloc[0]
+        first_section_line_with_chars = self.loc[self['text'].astype(str).str.contains('[a-zA-Z]')].iloc[0]
 
         # Filter to only consider titles in section
-        section_titles = section_content.loc[section_content.index.isin(
-            [idx for idx in section_content.index if idx in self.titles.index]
+        section_titles = self.loc[self.index.isin(
+            [idx for idx in self.index if idx in self.titles.index]
         )].sort_values(by=['total_y'])
         
         # Get the next title which is more titley than the title
@@ -181,7 +180,7 @@ class Lines(pd.DataFrame):
                 more_titley = line
                 break
 
-        # Cut the section at the title index found
+        # Cut the section at the minimum y position of the more_titley line
         if more_titley is None:
             return self
 
