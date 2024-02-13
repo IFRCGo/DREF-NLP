@@ -31,7 +31,7 @@ class AppealDocument:
         self.lines = self.lines.sort_blocks_by_y()
 
         # Combine spans on same line with same styles
-        self.lines.combine_spans_same_style()
+        self.lines = self.lines.combine_spans_same_style()
 
         # Add text_base
         self.lines['text_base'] = self.lines['text']\
