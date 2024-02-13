@@ -194,6 +194,7 @@ class LessonsLearnedExtractor:
                     .iloc[0]
 
                 self.sectors_lessons_learned_map[best_sector.name] = best_sector['Lessons learned covered']
+                sectors.drop(best_sector.name, inplace=True)
 
 
     def get_next_lessons_learned(self, sector_idx, sector_idxs):
