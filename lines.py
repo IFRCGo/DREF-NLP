@@ -18,11 +18,20 @@ class Line(pd.Series):
     def is_similar_style(self, line2):
         # Check if two styles are similar
         if abs(self["double_fontsize_int"] - line2["double_fontsize_int"]) <= 6:
-            if self['font'].split('-')[0] == line2['font'].split('-')[0]:
+
+            # Check if fonts are similar
+            font = self['font'].split('-')[0].lower()
+            other_font = line2['font'].split('-')[0].lower()
+            similar_fonts = [['arial', 'calibri']]
+            common_fonts = [fonts for fonts in similar_fonts if ((font in fonts) and (other_font in fonts))]
+            if (font == other_font) or common_fonts:
+
+                # Check if colours and bold are similar
                 if colour_diff(self["highlight_color"], line2["highlight_color"]) < 0.1:
                     if colour_diff(self['color'], line2['color']) < 0.1:
                         if self['bold'] == line2['bold']:
                             return True
+        
         return False
 
 
