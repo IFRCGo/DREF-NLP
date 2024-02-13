@@ -13,12 +13,6 @@ class AppealDocument:
         ----------
         lines : pandas DataFrame (required)
             Pandas DataFrame, where each row is an element in the document.
-
-        lessons_learned : list (required)
-            List of indexes, where each index represents the position of a lessons learned section.
-
-        sectors : pandas DataFrame (required)
-            Pandas DataFrame of sectors.
         """
         # Add style columns
         lines['double_fontsize_int'] = (lines['size'].astype(float)*2).round(0).astype('Int64')
@@ -92,7 +86,7 @@ class AppealDocument:
         """
         Remove page numbers from page headers and footers.
         Assumes headers and footers are the vertically highest and lowest elementes on the page.
-        """        
+        """
         # Loop through pages
         for page_number in self.lines['page_number'].unique():
 
