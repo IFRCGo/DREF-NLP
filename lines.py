@@ -154,9 +154,9 @@ class Lines(pd.DataFrame):
         first_section_line_with_chars = section_content.loc[section_content['text'].astype(str).str.contains('[a-zA-Z]')].iloc[0]
 
         # Filter to only consider titles in section
-        section_titles = section_content.loc[
+        section_titles = section_content.loc[section_content.index.isin(
             [idx for idx in section_content.index if idx in self.titles.index]
-        ].sort_values(by=['total_y'])
+        )].sort_values(by=['total_y'])
         
         # Get the next title which is more titley than the title
         more_titley = None
