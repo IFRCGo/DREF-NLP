@@ -23,6 +23,7 @@ Relief:
     - relief
     - relief distributions
     - relief distributions food and basic non food items
+    - food and non food item distribution
 
 Multi-Purpose Cash:
   titles:
@@ -35,6 +36,7 @@ Health and Care:
   titles:
     - health care
     - health
+    - health nutrition
   keywords:
     - health
 
@@ -75,11 +77,13 @@ Food insecurity and nutrition:
 
 Risk Reduction, Climate adaptation and Recovery:
   titles:
-    - risk reduction climate adaption and recovery
+    - risk reduction climate adaptation and recovery
     - disaster response preparedness early warning risk reduction
     - disaster risk reduction
     - disaster preparedness and risk reduction
     - early warning and emergency response preparedness
+    - risk reduction climate adaptation
+    - community preparedness and risk reduction
   keywords:
     - risk reduction
     - climate
@@ -96,6 +100,8 @@ National Society Strengthening:
     - national society capacity building and disaster preparedness
     - national society capacity building and preparedness
     - national society capacity building and disaster preparedness
+    - national society institutional preparedness and capacity development
+    - national society institutional preparedness
   keywords:
     - nsd
 
@@ -145,3 +151,5 @@ Effective, credible and accountable IFRC:
 Programme monitoring and evaluation:
 
 Logistics:
+
+Strategies for implementation:
