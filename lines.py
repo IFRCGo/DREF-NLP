@@ -106,7 +106,8 @@ class Lines(pd.DataFrame):
         first_span = self.iloc[0]
 
         # If the the first word is page, assume page label
-        if first_span['text_base'].startswith('page'):
+        first_section_line_with_chars = self.loc[self['text_base'].astype(str).str.contains('[a-z]')].iloc[0]
+        if first_section_line_with_chars['text_base'].startswith('page'):
             return True
         
         # If only a single number, assume page label
