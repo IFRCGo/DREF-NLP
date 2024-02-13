@@ -115,13 +115,13 @@ class Sectors:
 
             # Get the proportion of words covered
             if text_without_fillers != text_without_keywords:
-                number_words_covered = len(text_without_keywords.split(' ')) - len(text_without_fillers.split(' '))
+                number_words_covered = len(text_without_fillers.split(' ')) - len(text_without_keywords.split(' '))
                 proportion_text_covered_by_sector[sector_name] = number_words_covered/len(text_without_fillers.split(' '))
             else:
-                return float('nan')
+                proportion_text_covered_by_sector[sector_name] = 0
 
         # Return the best matching sector
-        max_sector = max(proportion_text_covered_by_sector, key=proportion_text_covered_by_sector.get)
+        max_sector = max(proportion_text_covered_by_sector, key=lambda x: 0 if proportion_text_covered_by_sector[x]!=proportion_text_covered_by_sector[x] else proportion_text_covered_by_sector[x])
         max_proportion = proportion_text_covered_by_sector[max_sector]
 
         if max_proportion > 0:
