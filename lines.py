@@ -68,7 +68,9 @@ class Line(pd.Series):
 
             # Text and title same boldness, and same case
             if title['text'].isupper() == self['text'].isupper():
-                if nontitle['double_fontsize_int'] < title['double_fontsize_int']:
+                if title['double_fontsize_int'] > nontitle['double_fontsize_int']:
+                    return True
+                if title['bold'] and not nontitle['bold']:
                     return True
 
         return False
