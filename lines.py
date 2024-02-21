@@ -106,6 +106,8 @@ class Lines(pd.DataFrame):
         """
         # Get the first text containing alphanumeric characters
         self = self.dropna(subset=['text_base']).sort_values(by=['line_number', 'span_number'])
+        if self.empty:
+            return False
         first_span = self.iloc[0]
 
         # If the the first word is page, assume page label
@@ -127,6 +129,8 @@ class Lines(pd.DataFrame):
         """
         # Get the first text containing alphanumeric characters
         self = self.dropna(subset=['text_base']).sort_values(by=['line_number', 'span_number'])
+        if self.empty:
+            return False
         first_span = self.iloc[0]
 
         # If the first span is small and a number
@@ -166,7 +170,10 @@ class Lines(pd.DataFrame):
         Assume that the first line is the title of the section.
         """
         # Get title information
-        first_section_line_with_chars = self.loc[self['text'].astype(str).str.contains('[a-zA-Z]')].iloc[0]
+        lines_with_chars = self.loc[self['text'].astype(str).str.contains('[a-zA-Z]')]
+        if lines_with_chars.empty:
+            return self
+        first_section_line_with_chars = lines_with_chars.iloc[0]
 
         # Filter to only consider titles in section
         section_titles = self.loc[self.index.isin(
