@@ -139,10 +139,9 @@ def strip_non_alphanumeric(text):
 
 
 def strip_filler_words(text):
-    filler_words = ['and', 'the']
-    words = text.split(' ')
-    text_without_fillers = [word for word in words if word not in filler_words]
-    return ' '.join(text_without_fillers)
+    filler_words = ['and', 'the', 'to', 'for']
+    text_without_fillers = replace_phrases_in_sentence(filler_words, '', text).strip()
+    return text_without_fillers
 
 
 def colour_diff(colour1, colour2):

@@ -94,7 +94,7 @@ class Sectors:
         # Next, check if the title is any title plus filler words 
         for sector_name, details in self.sectors.items():
             for title in details['titles']:
-                if strip_filler_words(text_base).strip() == strip_filler_words(title).strip():
+                if strip_filler_words(text_base) == strip_filler_words(title):
                     return sector_name, 1
 
         # Next, check if there is an exact match with any keywords
@@ -109,8 +109,7 @@ class Sectors:
             keywords = details['keywords']
             
             # Extract filler words and keywords
-            filler_words = ['and', 'the']
-            text_without_fillers = replace_phrases_in_sentence(filler_words, '', text_base).strip()
+            text_without_fillers = strip_filler_words(text_base)
             text_without_keywords = replace_phrases_in_sentence(keywords, '', text_without_fillers).strip()
 
             # Get the proportion of words covered
