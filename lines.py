@@ -101,29 +101,29 @@ class Lines(pd.DataFrame):
         return lines
 
 
-    def starts_with_page_label(self):
+    def is_page_label(self):
         """
+        Check if a block of lines are a page label.
         """
-        # Get the first text containing alphanumeric characters
-        self = self.dropna(subset=['text_base']).sort_values(by=['line_number', 'span_number'])
-        if self.empty:
+        # Return if no alphanumeric characters in text block
+        lines = self.dropna(subset=['text_base']).sort_values(by=['line_number', 'span_number'])
+        if lines.empty:
             return False
-        first_span = self.iloc[0]
 
         # If the the first word is page, assume page label
-        lines_with_chars = self.loc[self['text_base'].astype(str).str.contains('[a-z]')]
+        lines_with_chars = lines.loc[lines['text_base'].astype(str).str.contains('[a-z]')]
         if not lines_with_chars.empty:
             if lines_with_chars.iloc[0]['text_base'].startswith('page'):
                 return True
         
         # If only a single number, assume page label
-        if len(self)==1 and first_span['text_base'].isdigit():
+        if len(lines)==1 and lines.iloc[0]['text_base'].isdigit():
             return True
 
         return False
 
 
-    def starts_with_reference(self):
+    def is_reference(self):
         """
         Remove references denoted by a superscript number in document headers and footers.
         """
