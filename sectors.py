@@ -114,11 +114,13 @@ class Sectors:
             text_without_keywords = replace_phrases_in_sentence(keywords, '', text_without_fillers).strip()
 
             # Get the proportion of words covered
-            if text_without_fillers != text_without_keywords:
+            if text_without_fillers == text_without_keywords:
+                proportion_text_covered_by_sector[sector_name] = 0
+            elif not text_without_keywords:
+                proportion_text_covered_by_sector[sector_name] = 1
+            else:
                 number_words_covered = len(text_without_fillers.split(' ')) - len(text_without_keywords.split(' '))
                 proportion_text_covered_by_sector[sector_name] = number_words_covered/len(text_without_fillers.split(' '))
-            else:
-                proportion_text_covered_by_sector[sector_name] = 0
 
         # Return the best matching sector
         max_sector = max(proportion_text_covered_by_sector, key=lambda x: 0 if proportion_text_covered_by_sector[x]!=proportion_text_covered_by_sector[x] else proportion_text_covered_by_sector[x])

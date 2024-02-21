@@ -79,6 +79,7 @@ def replace_phrases_in_sentence(phrases, repl, sentence):
         phrases = [phrases]
     for phrase in phrases:
         replaced = re.sub(r"\b{}\b".format(phrase), repl, replaced)
+    replaced = re.sub(' +', ' ', replaced)
     return replaced
 
 
