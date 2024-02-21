@@ -47,6 +47,7 @@ class AppealDocument:
 
         # Have to run again in case repeating headers or footers were below or above the page labels or references
         self.drop_all_repeating_headers_footers()
+        self.remove_page_labels_references()
 
 
     def remove_photo_blocks(self):
@@ -84,21 +85,19 @@ class AppealDocument:
 
                     # Check if the whole block is a page label or reference
                     if block.is_page_label() or block.is_reference():
-                        page_labels_references_idxs += block.index.tolist()
+                        self.lines.drop(labels=block.index, inplace=True)
+                        continue
 
-                    # Check if individual lines are page numbers
-                    block_lines = block.copy()
-                    if option=='footers':
-                        block_lines = block_lines[::-1]
-                    for idx, line in block_lines.iterrows():
-                        if line.is_page_label():
-                            page_labels_references_idxs.append(idx)
+                    # Loop through lines and remove page numbers and references
+                    for line in block['line_number'].unique():
+                        line_lines = block.loc[block['line_number']==line]
+                        if line_lines.is_page_label() or line_lines.is_reference():
+                            block = block.drop(labels=line_lines.index)
+                            self.lines.drop(labels=line_lines.index, inplace=True)
+                    if block.empty:
+                        continue
 
-                    # Drop. If non page labels or references, break.
-                    page_labels_references_idxs = list(set(page_labels_references_idxs))
-                    self.lines.drop(labels=page_labels_references_idxs, inplace=True)
-                    if sorted(page_labels_references_idxs)==block.index.tolist():
-                        break
+                    break
 
 
     def drop_all_repeating_headers_footers(self):
