@@ -20,13 +20,12 @@ class LessonsLearnedExtractor:
 
         # Match the lessons learned to the sector indexes
         lessons_learned_sector_map = None
-        if len(self.lessons_learned_titles) > 1:
 
-            # Get the document sector titles
-            sectors_lessons_learned_map = self.get_lessons_learned_sectors(
-                sectors=self.document.sector_titles
-            )
-            lessons_learned_sector_map = {v['idx']:k for k,v in sectors_lessons_learned_map.items()}
+        # Get the document sector titles
+        sectors_lessons_learned_map = self.get_lessons_learned_sectors(
+            sectors=self.document.sector_titles
+        )
+        lessons_learned_sector_map = {v['idx']:k for k,v in sectors_lessons_learned_map.items()}
         
         # Get the span of each lessons learned section
         lessons_learned = []
