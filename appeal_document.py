@@ -112,14 +112,14 @@ class AppealDocument:
         """
         # Drop headers
         while True:
-            repeating_texts = self.get_repeating(which='headers')
+            repeating_texts = self.get_repeating(which='top')
             if repeating_texts.empty:
                 break
             self.lines = self.lines.drop(repeating_texts['index'].explode())
 
         # Drop footers
         while True:
-            repeating_texts = self.get_repeating(which='footers')
+            repeating_texts = self.get_repeating(which='bottom')
             if repeating_texts.empty:
                 break
             self.lines = self.lines.drop(repeating_texts['index'].explode())
@@ -134,12 +134,12 @@ class AppealDocument:
         lines['page_block'] = lines['page_number'].astype(str)+'_'+lines['block_number'].astype(str)
         
         # Get the top and bottom blocks on each page
-        if which=='headers':
+        if which=='top':
             page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmax()]
-        elif which=='footers':
+        elif which=='bottom':
             page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmin()]
         else:
-            raise RuntimeError('Unrecognised value for "which", should be "headers" or "footers"')
+            raise RuntimeError('Unrecognised value for "which", should be "top" or "bottom"')
         page_lines = lines.loc[lines['page_block'].isin(page_blocks['page_block'].unique())]
 
         # Get repeating texts
