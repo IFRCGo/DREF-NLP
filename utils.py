@@ -139,7 +139,7 @@ def strip_non_alphanumeric(text):
 
 
 def strip_filler_words(text):
-    filler_words = ['and', 'the', 'to', 'for']
+    filler_words = ['and', 'the', 'to', 'for', 'in', 'a', 'in']
     text_without_fillers = replace_phrases_in_sentence(filler_words, '', text).strip()
     return text_without_fillers
 
