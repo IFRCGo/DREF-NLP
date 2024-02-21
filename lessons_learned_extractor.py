@@ -75,7 +75,7 @@ class LessonsLearnedExtractor:
         """
         Filter the lessons learned sections to remove blank ones.
         """
-        empty_texts = ['nothing to report', 'none was reported', 'none reported', 'na', 'n a']
+        empty_texts = ['nothing to report', 'none was reported', 'none reported', 'na', 'n a', 'none']
 
         filtered_lessons_learned = []
         for details in lessons_learned:
