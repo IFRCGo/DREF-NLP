@@ -15,6 +15,18 @@ class Line(pd.Series):
         return Lines
 
 
+    def is_page_label(self):
+        # If the the first word is page, assume page label
+        if str(self['text_base']).startswith('page'):
+            return True
+        
+        # If only a single number, assume page label
+        if self['text_base'].isdigit():
+            return True
+
+        return False
+
+
     def is_similar_style(self, line2):
         # Size tolerance greater if highlight_colour
         size_tolerance = 6 if not self['highlight_color'] else 100

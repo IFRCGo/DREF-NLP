@@ -79,18 +79,25 @@ class AppealDocument:
                     block_numbers = block_numbers[::-1]
                 for block_number in block_numbers:
 
-                    block_lines = page_lines.loc[page_lines['block_number']==block_number]
-                    top_bottom_line = block_lines.iloc[[-1]] if option=='footers' else block_lines.iloc[[0]]
+                    block = page_lines.loc[page_lines['block_number']==block_number]
+                    page_labels_references_idxs = []
 
-                    # If the block of first/ last line is a page label or reference
-                    if (
-                            block_lines.is_page_label() or 
-                            block_lines.is_reference() or 
-                            top_bottom_line.is_page_label() or 
-                            top_bottom_line.is_reference()
-                        ):
-                        self.lines.drop(labels=block_lines.index, inplace=True)                    
-                    else:
+                    # Check if the whole block is a page label or reference
+                    if block.is_page_label() or block.is_reference():
+                        page_labels_references_idxs += block.index.tolist()
+
+                    # Check if individual lines are page numbers
+                    block_lines = block.copy()
+                    if option=='footers':
+                        block_lines = block_lines[::-1]
+                    for idx, line in block_lines.iterrows():
+                        if line.is_page_label():
+                            page_labels_references_idxs.append(idx)
+
+                    # Drop. If non page labels or references, break.
+                    page_labels_references_idxs = list(set(page_labels_references_idxs))
+                    self.lines.drop(labels=page_labels_references_idxs, inplace=True)
+                    if sorted(page_labels_references_idxs)==block.index.tolist():
                         break
 
 
