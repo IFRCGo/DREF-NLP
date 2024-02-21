@@ -25,7 +25,8 @@ class LessonsLearnedExtractor:
         sectors_lessons_learned_map = self.get_lessons_learned_sectors(
             sectors=self.document.sector_titles
         )
-        lessons_learned_sector_map = {v['idx']:k for k,v in sectors_lessons_learned_map.items()}
+        if sectors_lessons_learned_map:
+            lessons_learned_sector_map = {v['idx']:k for k,v in sectors_lessons_learned_map.items()}
         
         # Get the span of each lessons learned section
         lessons_learned = []
@@ -90,6 +91,9 @@ class LessonsLearnedExtractor:
         """
         Get a map between sector title IDs and lessons learned title IDs.
         """
+        if sectors.empty:
+            return
+
         # Get the most likely font style of the sector titles
         primary_sector_style = self.get_primary_sector_style(
             sectors=sectors
@@ -129,6 +133,9 @@ class LessonsLearnedExtractor:
         """
         Match lessons learned to sectors by getting the style which matches most sectors.
         """
+        if sectors.empty:
+            return
+        
         # Group the sector estimates into styles
         sector_title_styles = sectors\
             .reset_index()\
@@ -159,7 +166,7 @@ class LessonsLearnedExtractor:
                 ascending=[False, False, True]
             )\
             .iloc[0]
-            
+        
         return primary_sector_style
 
 
@@ -188,17 +195,18 @@ class LessonsLearnedExtractor:
                 sectors['Distance from lessons learned'] = sectors['Lessons learned covered'].apply(lambda x: x.get('distance'))
 
                 # Get the titles which are closest to the lessons learned
-                best_sector = sectors\
+                best_sectors = sectors\
                     .sort_values(
                         by=['Sector similarity score', 'Distance from lessons learned'], 
                         ascending=[False, True]
                     )\
                     .drop_duplicates(subset=['Lessons learned covered'])\
-                    .drop_duplicates(subset=['Sector title'])\
-                    .iloc[0]
-
-                self.sectors_lessons_learned_map[best_sector.name] = best_sector['Lessons learned covered']
-                sectors.drop(best_sector.name, inplace=True)
+                    .drop_duplicates(subset=['Sector title'])
+                if not best_sectors.empty:
+                    
+                    best_sector = best_sectors.iloc[0]
+                    self.sectors_lessons_learned_map[best_sector.name] = best_sector['Lessons learned covered']
+                    sectors.drop(best_sector.name, inplace=True)
 
 
     def get_next_lessons_learned(self, sector_idx, sector_idxs):
