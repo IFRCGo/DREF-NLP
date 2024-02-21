@@ -30,8 +30,8 @@ class Line(pd.Series):
             if (font == other_font) or common_fonts:
 
                 # Check if colours and bold are similar
-                if colour_diff(self["highlight_color"], line2["highlight_color"]) < 0.1:
-                    if colour_diff(self['color'], line2['color']) < 0.1:
+                if colour_diff(self["highlight_color"], line2["highlight_color"]) < 0.2:
+                    if colour_diff(self['color'], line2['color']) < 0.2:
                         if self['bold'] == line2['bold']:
                             return True
         
