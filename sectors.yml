@@ -1,9 +1,8 @@
 Shelter, Housing and Settlements:
   titles:
+    - shelter
     - shelter settlements
     - shelter settlements household items
-    - shelter settlement
-    - shelter
     - emergency shelter non food items
     - temporary emergency shelter human settlements
     - shelter settlements non food items
@@ -15,17 +14,15 @@ Shelter, Housing and Settlements:
 
 Livelihoods:
   titles:
-    - livelihoods
-    - livelihood
     - livelihoods and basic needs
-    - livelihood support
+    - livelihoods support
 
 Relief:
   titles:
     - relief
     - relief distributions
     - relief distributions food and basic non food items
-    - food and non food item distribution
+    - food and non food item distributions
 
 Multi-Purpose Cash:
   titles:
@@ -36,8 +33,8 @@ Multi-Purpose Cash:
 
 Health and Care:
   titles:
-    - health care
     - health
+    - health care
     - health nutrition
     - emergency health
   keywords:
@@ -45,10 +42,10 @@ Health and Care:
 
 Water, Sanitation and Hygiene:
   titles:
+    - water sanitation
     - water sanitation and hygiene
     - water sanitation and hygiene promotion
     - water sanitation and hygiene promotion wash
-    - water and sanitation
   keywords:
     - water
     - wash
@@ -72,25 +69,23 @@ Education:
 
 Food insecurity and nutrition:
   titles:
-    - food security nutrition and livelihoods
+    - food insecurity nutrition livelihoods
     - food insecurity
-    - livelihoods nutrition and food security
-    - food security
+    - livelihoods nutrition and food insecurity
   keywords:
     - food
     - food insecurity
-    - food security
     - nutrition
 
 Risk Reduction, Climate adaptation and Recovery:
   titles:
-    - risk reduction climate adaptation and recovery
+    - risk reduction climate adaptation recovery
     - disaster response preparedness early warning risk reduction
     - disaster risk reduction
-    - disaster preparedness and risk reduction
-    - early warning and emergency response preparedness
+    - disaster preparedness risk reduction
+    - early warning emergency response preparedness
     - risk reduction climate adaptation
-    - community preparedness and risk reduction
+    - community preparedness risk reduction
     - early warning preparedness emergency response
   keywords:
     - risk reduction
@@ -107,7 +102,6 @@ National Society Strengthening:
     - strengthening national society
     - national society capacity building and disaster preparedness
     - national society capacity building and preparedness
-    - national society capacity building and disaster preparedness
     - national society institutional preparedness and capacity development
     - national society institutional preparedness
   keywords:
@@ -116,8 +110,8 @@ National Society Strengthening:
 Community Engagement and Accountability:
   titles:
     - cea
-    - community engagement and accountability
-    - community engagement and accountability cea
+    - community engagement accountability
+    - community engagement accountability cea
   keywords:
     - cea
     - community engagement

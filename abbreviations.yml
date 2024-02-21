@@ -7,3 +7,18 @@ adaptation:
 
 influence:
   - influencing
+
+settlements:
+  - settlement
+
+items:
+  - item
+
+livelihoods:
+  - livelihood
+
+distributions:
+  - distribution
+
+insecurity:
+  - security
