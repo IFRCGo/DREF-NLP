@@ -42,12 +42,12 @@ class AppealDocument:
 
         # Remove photo blocks, page numbers, references
         self.remove_photo_blocks()
-        self.drop_repeating_headers_footers()
+        self.drop_all_repeating_headers_footers()
         self.remove_headers_page_labels_references()
         self.remove_footers_page_labels_references()
 
         # Have to run again in case repeating headers or footers were below or above the page labels or references
-        self.drop_repeating_headers_footers()
+        self.drop_all_repeating_headers_footers()
 
 
     def remove_photo_blocks(self):
@@ -62,8 +62,8 @@ class AppealDocument:
     def remove_headers_page_labels_references(self):
         """
         Remove page numbers from page headers and footers.
-        Assumes headers and footers are the vertically highest and lowest elementes on the page.
-        """        
+        Assumes headers and footers are the vertically highest and lowest elements on the page.
+        """
         # Loop through pages
         for page_number in self.lines['page_number'].unique():
 
@@ -85,7 +85,7 @@ class AppealDocument:
     def remove_footers_page_labels_references(self):
         """
         Remove page numbers from page headers and footers.
-        Assumes headers and footers are the vertically highest and lowest elementes on the page.
+        Assumes headers and footers are the vertically highest and lowest elements on the page.
         """
         # Loop through pages
         for page_number in self.lines['page_number'].unique():
@@ -103,9 +103,29 @@ class AppealDocument:
                     self.lines.drop(labels=block_lines.index, inplace=True)
                 else:
                     break
+
+
+    def drop_all_repeating_headers_footers(self):
+        """
+        Drop all repeating headers and footers.
+        Run until there are no more repeating headers or footers.
+        """
+        # Drop headers
+        while True:
+            repeating_texts = self.get_repeating(which='headers')
+            if repeating_texts.empty:
+                break
+            self.lines = self.lines.drop(repeating_texts['index'].explode())
+
+        # Drop footers
+        while True:
+            repeating_texts = self.get_repeating(which='footers')
+            if repeating_texts.empty:
+                break
+            self.lines = self.lines.drop(repeating_texts['index'].explode())
     
 
-    def drop_repeating_headers_footers(self):
+    def get_repeating(self, which):
         """
         Drop any repeating elements at the top or bottom of pages.
         """
@@ -113,31 +133,32 @@ class AppealDocument:
         lines = self.lines.copy()
         lines['page_block'] = lines['page_number'].astype(str)+'_'+lines['block_number'].astype(str)
         
-        # Get top and bottom page blocks
-        top_page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmax()]
-        bottom_page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmin()]
+        # Get the top and bottom blocks on each page
+        if which=='headers':
+            page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmax()]
+        elif which=='footers':
+            page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmin()]
+        else:
+            raise RuntimeError('Unrecognised value for "which", should be "headers" or "footers"')
+        page_lines = lines.loc[lines['page_block'].isin(page_blocks['page_block'].unique())]
 
+        # Get repeating texts
+        elements = lines.loc[lines['page_block'].isin(page_blocks['page_block'].unique())]
+        repeating_texts = elements\
+            .reset_index()\
+            .groupby(['page_number'])\
+            .agg({'text_base': lambda x: ' '.join(x), 'index': tuple})\
+            .groupby(['text_base'])\
+            .filter(lambda x: len(x)>2)
+
+        # Don't remove lessons learned titles
         lessons_learned_title_texts = LessonsLearnedExtractor().lessons_learned_title_texts
+        repeating_texts = repeating_texts.loc[~(
+            repeating_texts['text_base'].isin(lessons_learned_title_texts)
+        )]
 
-        for page_blocks in [top_page_blocks, bottom_page_blocks]:
-
-            # Get repeating texts
-            elements = lines.loc[lines['page_block'].isin(page_blocks['page_block'].unique())]
-            repeating_texts = elements\
-                .reset_index()\
-                .groupby(['page_number'])\
-                .agg({'text_base': lambda x: ' '.join(x), 'index': tuple})\
-                .groupby(['text_base'])\
-                .filter(lambda x: len(x)>2)
-
-            # Remove titles
-            repeating_texts = repeating_texts.loc[~(
-                repeating_texts['text_base'].isin(lessons_learned_title_texts)
-            )]
-
-            # Remove indexes - check exists in case page top block overlaps bottom block
-            remove_indexes = [idx for idx in repeating_texts['index'].explode() if idx in self.lines.index]
-            self.lines = self.lines.drop(remove_indexes)
+        # Remove indexes
+        return repeating_texts
 
 
     @cached_property
