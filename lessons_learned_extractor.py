@@ -1,7 +1,7 @@
 """
 """
-import numpy as np
 from functools import cached_property
+import numpy as np
 import yaml
 
 
@@ -75,13 +75,14 @@ class LessonsLearnedExtractor:
         """
         Filter the lessons learned sections to remove blank ones.
         """
-        empty_texts = ['nothing to report', 'none was reported']
+        empty_texts = ['nothing to report', 'none was reported', 'na', 'n a']
 
         filtered_lessons_learned = []
         for details in lessons_learned:
-            text_content = ' '.join(details['section_lines']['text_base'].tolist())
-            if text_content not in empty_texts:
-                filtered_lessons_learned.append(details)
+            text_content = ' '.join(details['section_lines']['text_base'].tolist()).strip()
+            if (not text_content) or (text_content in empty_texts):
+                details['section_lines'] = None
+            filtered_lessons_learned.append(details)
 
         return filtered_lessons_learned
 
