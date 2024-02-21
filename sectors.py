@@ -85,6 +85,13 @@ class Sectors:
         """
         text_base = strip_non_alpha(text).lower()
 
+        # Remove any prefix text
+        prefixes = ['strategies for implementation']
+        for prefix in prefixes:
+            if text_base!=prefix:
+                if text_base.startswith(prefix):
+                    text_base = text_base[len(prefix):].strip()
+
         # First, check if there is an exact match with the titles
         for sector_name, details in self.sectors.items():
             for title in details['titles']:
