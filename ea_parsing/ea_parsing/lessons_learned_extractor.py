@@ -53,7 +53,7 @@ class LessonsLearnedExtractor:
                 'sector_title': sector_titles_dict.get(sector_idx),
                 'sector_idx': None if sector_idx is None else int(sector_idx),
                 'sector_similarity_score': sector_similarity_scores_dict.get(sector_idx),
-                'content': section_content[[col for col in select_columns if col in section_content.columns]].to_dict('index')
+                'content': section_content[[col for col in select_columns if col in section_content.columns]].reset_index().to_dict('records')
             }            
             lessons_learned.append(lessons_learned_details)
 
