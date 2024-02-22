@@ -20,6 +20,12 @@ async def run_parsing(
     """
     # Get the Emergency Appeal document
     document = get_ifrc_go_final_report(mdr_code=mdr_code)
+
+    # Extract the lines from the document - each row is one span
     lines = extract_text_and_fontsizes(document=document)
-    
-    return lines
+
+    # Extract the lessons learned
+    lessons_learned_extractor = AppealDocument(lines=lines)
+    lessons_learned = lessons_learned_extractor.lessons_learned
+
+    return lessons_learned
