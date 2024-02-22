@@ -12,11 +12,9 @@ class TestResults(unittest.TestCase):
         """
         Compare appeal document parse results against previously saved expected results.
         """
-        base_url = "http://127.0.0.1:8000"
-        TESTS_DIR = os.path.dirname(os.path.realpath(__file__))
-
         # Read in the lessons learned results from yaml files
         lessons_learned_results = {}
+        TESTS_DIR = os.path.dirname(os.path.realpath(__file__))
         files = os.listdir(os.path.join(TESTS_DIR, 'results'))
         for file in files:
             mdr_code = os.path.splitext(file)[0]
