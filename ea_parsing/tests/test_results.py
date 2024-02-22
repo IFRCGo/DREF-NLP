@@ -8,7 +8,7 @@ from ea_parsing.appeal_document import Appeal
 
 class TestResults(unittest.TestCase):
 
-    def test_mdr_codes_results(self):
+    def test_lessons_learned_extraction(self):
         """
         Compare appeal document parse results against previously saved expected results.
         """
