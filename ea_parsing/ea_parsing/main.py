@@ -19,13 +19,10 @@ async def run_parsing(
     """
     # Get appeal final report
     appeal = Appeal(mdr_code=mdr_code)
-    final_report_details = appeal.final_report_details
-    if final_report_details is not None:
+    final_report = appeal.final_report
+    if final_report is not None:
 
         # Get lessons learned
-        final_report = AppealDocument(
-            document_url=final_report_details['document_url']
-        )
         lessons_learned = final_report.lessons_learned
 
         return lessons_learned

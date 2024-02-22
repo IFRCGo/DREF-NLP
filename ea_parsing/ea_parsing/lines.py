@@ -77,6 +77,14 @@ class Line(pd.Series):
 
 
 class Lines(pd.DataFrame):
+    def __init__(self, *args, **kwargs):
+        super(Lines,  self).__init__(*args, **kwargs)
+        
+        if 'size' in self.columns:
+            self['double_fontsize_int'] = (self['size'].astype(float)*2).round(0).astype('Int64')
+        if ('font' in self.columns) and ('double_fontsize_int' in self.columns) and ('color' in self.columns) and ('highlight_color' in self.columns):
+            self['style'] = self['font'].astype(str)+', '+self['double_fontsize_int'].astype(str)+', '+self['color'].astype(str)+', '+self['highlight_color'].astype(str)
+
 
     @property
     def _constructor(self):

@@ -98,16 +98,27 @@ class Appeal:
         """
         # Get appeal document data and convert to AppealDocument
         documents_data = GOAPI().get_appeal_document_data(id=self.id)
-        return documents_data
+        documents = [
+            AppealDocument(
+                document_url=data['document_url'], 
+                name=data['name']
+            )
+            for data in documents_data
+        ]
+        return documents
 
 
     @cached_property
-    def final_report_details(self):
+    def final_report(self):
         """
         Get the final report for the appeal.
         """
         # Get final reports
-        final_reports = [document for document in self.documents if ('final' in document['name'].lower())]
+        final_reports = [
+            document 
+            for document in self.documents 
+            if ('final' in document.name.lower())
+        ]
         
         if len(final_reports)==0:
             return None
@@ -123,24 +134,15 @@ class Appeal:
 
 
 class AppealDocument:
-    def __init__(self, document_url):
+    def __init__(self, name, document_url):
         """
         """
+        self.name = name
         self.document_url = document_url
-        
-        # Get the document lines
-        lines = self.get_lines()
-
-        # Add style columns
-        lines['double_fontsize_int'] = (lines['size'].astype(float)*2).round(0).astype('Int64')
-        lines['style'] = lines['font'].astype(str)+', '+lines['double_fontsize_int'].astype(str)+', '+lines['color'].astype(str)+', '+lines['highlight_color'].astype(str)
-
-        # Process the lines: remove headers footers, etc.
-        self.lines = Lines(lines)
-        self.process_lines()
 
 
-    def get_lines(self):
+    @cached_property
+    def raw_lines(self):
         """
         Extract lines from the appeal document.
         """
@@ -205,46 +207,53 @@ class AppealDocument:
 
             total_y += page_layout.rect.height
 
-        return pd.DataFrame(data)
+        return Lines(pd.DataFrame(data))
 
 
-    def process_lines(self):
+    @cached_property
+    def lines(self):
         """
-        Add some more information.
+        Process the raw lines to get the document content.
         """
+        lines = self.raw_lines.copy()
+
         # Sort lines by y of blocks
-        self.lines = self.lines.sort_blocks_by_y()
+        lines = lines.sort_blocks_by_y()
 
         # Combine spans on same line with same styles
-        self.lines = self.lines.combine_spans_same_style()
+        lines = lines.combine_spans_same_style()
 
         # Add text_base
-        self.lines['text_base'] = self.lines['text']\
+        lines['text_base'] = lines['text']\
             .str.replace(r'[^A-Za-z0-9 ]+', ' ', regex=True)\
             .str.replace(' +', ' ', regex=True)\
             .str.lower()\
             .str.strip()
 
         # Remove photo blocks, page numbers, references
-        self.remove_photo_blocks()
-        self.drop_all_repeating_headers_footers()
-        self.remove_page_labels_references()
+        lines = self.remove_photo_blocks(lines=lines)
+        lines = self.drop_all_repeating_headers_footers(lines=lines)
+        lines = self.remove_page_labels_references(lines=lines)
 
         # Have to run again in case repeating headers or footers were below or above the page labels or references
-        self.drop_all_repeating_headers_footers()
-        self.remove_page_labels_references()
+        lines = self.drop_all_repeating_headers_footers(lines=lines)
+        lines = self.remove_page_labels_references(lines=lines)
+
+        return lines
 
 
-    def remove_photo_blocks(self):
+    def remove_photo_blocks(self, lines):
         """
         Remove blocks which look like photos from the document lines.
         """
-        self.lines['block_page'] = self.lines['block_number'].astype(str)+'_'+self.lines['page_number'].astype(str)
-        photo_blocks = self.lines.loc[self.lines['text'].astype(str).str.contains('Photo: '), 'block_page'].unique()
-        self.lines = self.lines.loc[~self.lines['block_page'].isin(photo_blocks)].drop(columns=['block_page'])
+        lines['block_page'] = lines['block_number'].astype(str)+'_'+lines['page_number'].astype(str)
+        photo_blocks = lines.loc[lines['text'].astype(str).str.contains('Photo: '), 'block_page'].unique()
+        lines = lines.loc[~lines['block_page'].isin(photo_blocks)].drop(columns=['block_page'])
+
+        return lines
 
 
-    def remove_page_labels_references(self):
+    def remove_page_labels_references(self, lines):
         """
         Remove page numbers from page headers and footers.
         Assumes headers and footers are the vertically highest and lowest elements on the page.
@@ -252,11 +261,11 @@ class AppealDocument:
         for option in ['headers', 'footers']:
         
             # Loop through pages
-            for page_number in self.lines['page_number'].unique():
+            for page_number in lines['page_number'].unique():
 
                 # Get document vertically highest and lowest spans
-                page_lines = self.lines\
-                    .loc[self.lines['page_number']==page_number]\
+                page_lines = lines\
+                    .loc[lines['page_number']==page_number]\
                     .sort_values(by=['origin_y'], ascending=True)
                 block_numbers = page_lines['block_number'].drop_duplicates().tolist()
 
@@ -270,7 +279,7 @@ class AppealDocument:
 
                     # Check if the whole block is a page label or reference
                     if block.is_page_label() or block.is_reference():
-                        self.lines.drop(labels=block.index, inplace=True)
+                        lines.drop(labels=block.index, inplace=True)
                         continue
 
                     # Loop through lines and remove page numbers and references
@@ -278,39 +287,42 @@ class AppealDocument:
                         line_lines = block.loc[block['line_number']==line]
                         if line_lines.is_page_label() or line_lines.is_reference():
                             block = block.drop(labels=line_lines.index)
-                            self.lines.drop(labels=line_lines.index, inplace=True)
+                            lines.drop(labels=line_lines.index, inplace=True)
                     if block.empty:
                         continue
 
                     break
 
+        return lines
 
-    def drop_all_repeating_headers_footers(self):
+
+    def drop_all_repeating_headers_footers(self, lines):
         """
         Drop all repeating headers and footers.
         Run until there are no more repeating headers or footers.
         """
         # Drop headers
         while True:
-            repeating_texts = self.get_repeating(which='top')
+            repeating_texts = self.get_repeating(which='top', lines=lines)
             if repeating_texts.empty:
                 break
-            self.lines = self.lines.drop(repeating_texts['index'].explode())
+            lines = lines.drop(repeating_texts['index'].explode())
 
         # Drop footers
         while True:
-            repeating_texts = self.get_repeating(which='bottom')
+            repeating_texts = self.get_repeating(which='bottom', lines=lines)
             if repeating_texts.empty:
                 break
-            self.lines = self.lines.drop(repeating_texts['index'].explode())
+            lines = lines.drop(repeating_texts['index'].explode())
+
+        return lines
     
 
-    def get_repeating(self, which):
+    def get_repeating(self, which, lines):
         """
         Drop any repeating elements at the top or bottom of pages.
         """
         # Get spans in blocks at top of each page
-        lines = self.lines.copy()
         lines['page_block'] = lines['page_number'].astype(str)+'_'+lines['block_number'].astype(str)
         
         # Get the top and bottom blocks on each page
