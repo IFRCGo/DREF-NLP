@@ -23,12 +23,6 @@ def replace_phrases_in_sentence(phrases, repl, sentence):
     return replaced
 
 
-def is_bold(text):
-    if ("black" in text.lower()) or ("bold" in text.lower()):
-        return True
-    return False
-
-
 def contains(bbox1, bbox2):
     # Check if bbox1 contains bbox2
     if (

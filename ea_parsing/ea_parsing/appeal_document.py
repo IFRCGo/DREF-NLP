@@ -193,7 +193,7 @@ class AppealDocument:
                         
                         # Append results
                         span['text'] = span['text'].replace('\r', '\n')
-                        span['bold'] = utils.is_bold(span["font"])
+                        span['bold'] = if ("black" in span['font'].lower()) or ("bold" in span['font'].lower())
                         span['highlight_color'] = highlight_color_hex
                         span['page_number'] = page_number
                         span['block_number'] = block_number
