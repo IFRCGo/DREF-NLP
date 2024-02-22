@@ -1,0 +1,203 @@
+- content:
+  - block_number: 25
+    index: 498
+    line_number: 4
+    page_number: 6
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: 'It is important to understand that in the conflict setting, there is no
+      need to target beneficiaries and come back some days '
+    text_base: it is important to understand that in the conflict setting there is
+      no need to target beneficiaries and come back some days
+    total_y: 5433.0
+  - block_number: 25
+    index: 499
+    line_number: 5
+    page_number: 6
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: "back for the humanitarians\u2019 assistance. Because, they are not stable.\
+      \ They move from one place to another to save their "
+    text_base: back for the humanitarians assistance because they are not stable they
+      move from one place to another to save their
+    total_y: 5444.52001953125
+  - block_number: 25
+    index: 500
+    line_number: 6
+    page_number: 6
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: 'life. Further, it was also noted that the mobile clinic was in the conflict
+      context therefore nobody will think of going to the '
+    text_base: life further it was also noted that the mobile clinic was in the conflict
+      context therefore nobody will think of going to the
+    total_y: 5456.043701171875
+  - block_number: 25
+    index: 501
+    line_number: 7
+    page_number: 6
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: hospital rather than hiding himself from the enemies.
+    text_base: hospital rather than hiding himself from the enemies
+    total_y: 5467.559997558594
+  sector_idx: 452
+  sector_similarity_score: 1.0
+  sector_title: Health and Care
+  title:
+    block_number: 25
+    idx: 497
+    line_number: 3
+    page_number: 6
+    span_number: 0
+    style: 'Arial-Black, 20, 0, #edebe0'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 5420.1600341796875
+- content:
+  - block_number: 2
+    index: 564
+    line_number: 4
+    page_number: 8
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: 'It is important for Red Cross volunteers to have completed Stay Safe security
+      course before undertaking activities in the '
+    text_base: it is important for red cross volunteers to have completed stay safe
+      security course before undertaking activities in the
+    total_y: 6434.52001953125
+  - block_number: 2
+    index: 565
+    line_number: 5
+    page_number: 8
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: 'conflict areas. '
+    text_base: conflict areas
+    total_y: 6446.039978027344
+  sector_idx: 506
+  sector_similarity_score: 1.0
+  sector_title: Water, Sanitation and Hygiene
+  title:
+    block_number: 2
+    idx: 563
+    line_number: 3
+    page_number: 8
+    span_number: 0
+    style: 'Arial-Black, 20, 0, #edebe0'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 6421.559997558594
+- content:
+  - block_number: 11
+    index: 665
+    line_number: 5
+    page_number: 9
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: 'It is important to engage idle young people (boys and girls) in operation
+      through various activities to avoid abuse of being '
+    text_base: it is important to engage idle young people boys and girls in operation
+      through various activities to avoid abuse of being
+    total_y: 7788.47998046875
+  - block_number: 11
+    index: 666
+    line_number: 6
+    page_number: 9
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: 'bomb users. '
+    text_base: bomb users
+    total_y: 7800.0
+  sector_idx: 566
+  sector_similarity_score: 1.0
+  sector_title: Food insecurity and nutrition
+  title:
+    block_number: 11
+    idx: 664
+    line_number: 4
+    page_number: 9
+    span_number: 0
+    style: 'Arial-Black, 20, 0, #edebe0'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 7775.52001953125
+- content:
+  - block_number: 16
+    index: 700
+    line_number: 6
+    page_number: 10
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: 'In the context of conflict, sometimes the needs are enormous and only one
+      organisation cannot fill the gap. Therefore, it is '
+    text_base: in the context of conflict sometimes the needs are enormous and only
+      one organisation cannot fill the gap therefore it is
+    total_y: 8407.079986572266
+  - block_number: 16
+    index: 701
+    line_number: 7
+    page_number: 10
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: 'important to work in collaboration and coordination with other humanitarian
+      actors to complement the effort already deployed '
+    text_base: important to work in collaboration and coordination with other humanitarian
+      actors to complement the effort already deployed
+    total_y: 8418.600006103516
+  - block_number: 16
+    index: 702
+    line_number: 8
+    page_number: 10
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: 'by one organisation. '
+    text_base: by one organisation
+    total_y: 8430.123718261719
+  sector_idx: 671
+  sector_similarity_score: 1.0
+  sector_title: Shelter, Housing and Settlements
+  title:
+    block_number: 16
+    idx: 699
+    line_number: 5
+    page_number: 10
+    span_number: 0
+    style: 'Arial-Black, 20, 0, #edebe0'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 8394.119995117188
+- content:
+  - block_number: 16
+    index: 750
+    line_number: 6
+    page_number: 11
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: 'While we are supporting the indemnities and salaries of the national staff
+      within an operation, it is important to explain that '
+    text_base: while we are supporting the indemnities and salaries of the national
+      staff within an operation it is important to explain that
+    total_y: 9152.16000366211
+  - block_number: 16
+    index: 751
+    line_number: 7
+    page_number: 11
+    span_number: 0
+    style: ArialMT, 20, 0, None
+    text: 'this assistance will stop at the end of the operation timeframe. '
+    text_base: this assistance will stop at the end of the operation timeframe
+    total_y: 9163.559997558594
+  sector_idx: 703
+  sector_similarity_score: 1.0
+  sector_title: National Society Strengthening
+  title:
+    block_number: 16
+    idx: 749
+    line_number: 5
+    page_number: 11
+    span_number: 0
+    style: 'Arial-Black, 20, 0, #edebe0'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 9139.200012207031
