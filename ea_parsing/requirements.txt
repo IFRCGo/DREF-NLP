@@ -42,6 +42,7 @@ pandas==1.3.3
     # via -r requirements.in
 pdfminer.six==20201018
     # via -r requirements.in
+pymupdf==1.23.20
 pycparser==2.20
     # via cffi
 pydantic==1.8.2

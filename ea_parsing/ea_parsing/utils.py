@@ -6,12 +6,12 @@ import requests
 from collections import Counter
 import fitz
 
-def extract_text_and_fontsizes(document_path):
+def extract_text_and_fontsizes(document):
     data = []
     total_y = 0
 
     # Loop through pages and paragraphs
-    doc = fitz.open(document_path)
+    doc = fitz.open(stream=document.content, filetype='pdf')
     for page_number, page_layout in enumerate(doc):
 
         # Get drawings to get text highlights
@@ -180,7 +180,7 @@ def colour_diff(colour1, colour2):
         return 1
 
 
-def get_ifrc_go_final_report(mdr_code, save_path):
+def get_ifrc_go_final_report(mdr_code):
     # Get Appeal ID
     appeals = requests.get(f'https://goadmin.ifrc.org/api/v2/appeal/?format=json&code={mdr_code}')
     appeals.raise_for_status()
@@ -202,6 +202,5 @@ def get_ifrc_go_final_report(mdr_code, save_path):
 
     # Download the report
     document_url = final_reports[0]['document_url']
-    pdf = requests.get(document_url)
-    with open(save_path, 'wb') as f:
-        f.write(pdf.content)
+    document = requests.get(document_url)
+    return document
