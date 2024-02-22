@@ -6,66 +6,6 @@ import requests
 from collections import Counter
 import fitz
 
-def extract_text_and_fontsizes(document):
-    data = []
-    total_y = 0
-
-    # Loop through pages and paragraphs
-    doc = fitz.open(stream=document.content, filetype='pdf')
-    for page_number, page_layout in enumerate(doc):
-
-        # Get drawings to get text highlights
-        coloured_drawings = [drawing for drawing in page_layout.get_drawings() if (drawing['fill'] != (0.0, 0.0, 0.0))]
-        page_images = page_layout.get_image_info()
-
-        # Loop through blocks
-        blocks = page_layout.get_text("dict", flags=11)["blocks"]
-        for block_number, block in enumerate(blocks):
-            for line_number, line in enumerate(block["lines"]):
-                spans = [span for span in line['spans'] if span['text'].strip()]
-                for span_number, span in enumerate(spans):
-                        
-                    # Check if the text block is contained in a drawing
-                    highlights = []
-                    for drawing in coloured_drawings:
-                        if get_overlap(span['bbox'], drawing['rect']):
-                            drawing['overlap'] = get_overlap(span['bbox'], drawing['rect'])
-                            highlights.append(drawing)
-
-                    # Get largest overlap
-                    highlight_color_hex = None
-                    if highlights:
-                        largest_highlight = max(highlights, key=lambda x: x['overlap'])
-                        highlight_color = largest_highlight['fill']
-                        if highlight_color:
-                            highlight_color_hex = '#%02x%02x%02x' % (int(255*highlight_color[0]), int(255*highlight_color[1]), int(255*highlight_color[2]))
-
-                    # Check if the span overlaps with an image
-                    max_overlap = None
-                    overlapping_images = [get_overlap(span['bbox'], img['bbox'])/get_area(span['bbox']) for img in page_images if get_overlap(span['bbox'], img['bbox'])]
-                    if overlapping_images:
-                        max_overlap = max(overlapping_images)
-
-                    contains_images = [img for img in page_images if contains(img['bbox'], span['bbox'])]
-                    
-                    # Append results
-                    span['text'] = span['text'].replace('\r', '\n')
-                    span['bold'] = is_bold(span["font"])
-                    span['highlight_color'] = highlight_color_hex
-                    span['page_number'] = page_number
-                    span['block_number'] = block_number
-                    span['line_number'] = line_number
-                    span['span_number'] = span_number
-                    span['origin_x'] = span['origin'][0]
-                    span['origin_y'] = span['origin'][1]
-                    span['total_y'] = span['origin'][1]+total_y
-                    span['img'] = bool(contains_images)
-                    data.append(span)
-
-        total_y += page_layout.rect.height
-
-    return data
-
 
 def phrase_in_sentence(phrase, sentence):
     if re.search(r"\b{}\b".format(phrase), sentence.lower().strip()):
@@ -178,29 +118,3 @@ def colour_diff(colour1, colour2):
     # If one is nan and the other is not nan, return max distance 1
     else:
         return 1
-
-
-def get_ifrc_go_final_report(mdr_code):
-    # Get Appeal ID
-    appeals = requests.get(f'https://goadmin.ifrc.org/api/v2/appeal/?format=json&code={mdr_code}')
-    appeals.raise_for_status()
-    appeal_id = appeals.json()['results'][0]['id']
-
-    # Get appeal documents
-    appeal_documents = requests.get(f'https://goadmin.ifrc.org/api/v2/appeal_document/?format=json&appeal={appeal_id}')
-    appeal_documents.raise_for_status()
-
-    # Get final reports
-    final_reports = [document for document in appeal_documents.json()['results'] if ('final' in document['name'].lower())]
-    if len(final_reports)==0:
-        raise RuntimeError(f'No final report appeal documents found for {mdr_code}')
-    
-    if len(final_reports)>1:
-        final_reports = [document for document in final_reports if ('prelim' not in document['name'].lower())]
-    if len(final_reports)>1:
-        final_reports = sorted(final_reports, key=lambda d: d['created_at'], reverse=True)
-
-    # Download the report
-    document_url = final_reports[0]['document_url']
-    document = requests.get(document_url)
-    return document

@@ -1,9 +1,74 @@
 import requests
 from functools import cached_property
+import fitz
 import pandas as pd
+from ea_parsing import utils
 from ea_parsing.sectors import Sectors
 from ea_parsing.lines import Lines
 from ea_parsing.lessons_learned_extractor import LessonsLearnedExtractor
+
+
+class GOAPI:
+    def __init__(self):
+        """
+        Class to interact with the IFRC GO API.
+        """
+        pass
+
+
+    def get_appeal_data(self, mdr_code):
+        """
+        Get appeal details for an appeal specified by the MDR code.
+        """
+        # Get the results
+        results = self._get_results(
+            url=f'https://goadmin.ifrc.org/api/v2/appeal/',
+            params={
+                'format': 'json', 
+                'code': mdr_code
+            }
+        )
+        # Check only one appeal
+        if len(results)==0:
+            raise RuntimeError(f'No results found for MDR code {mdr_code}')
+        if len(results) > 1:
+            raise RuntimeError(f'Multiple results found for MDR code {mdr_code}:\n{results}')
+        
+        return results[0]
+
+
+    def get_appeal_document_data(self, id):
+        """
+        Get appeal documents for an appeal specified by the appeal ID.
+        """
+        documents = self._get_results(
+            url='https://goadmin.ifrc.org/api/v2/appeal_document/', 
+            params={
+                'format': 'json', 
+                'appeal': id
+            }
+        )
+        return documents
+
+    
+    def _get_results(self, url, params):
+        """
+        Get results for the URL, looping through pages.
+        """
+        # Loop through pages until there are no pages left
+        results = []
+        while url:
+            response = requests.get(
+                url=url, 
+                params=params
+            )
+            response.raise_for_status()
+            json = response.json()
+            results += json['results']
+            url = json['next']
+
+        return results
+
 
 
 class Appeal:
@@ -17,43 +82,55 @@ class Appeal:
         self.mdr_code = mdr_code
         
         # Set appeal details
-        appeal_details = self._get_details()
-        for k, v in appeal_details.items():
+        appeal_data = GOAPI().get_appeal_data(mdr_code=self.mdr_code)
+        for k, v in appeal_data.items():
             setattr(self, k, v)
 
+        # Check that appeal is an emergency appeal
+        if self.atype != 1:
+            raise RuntimeError(f'Appeal with MDR code {mdr_code} is a {self.atype_display}, not an Emergency Appeal')
 
-    def _get_details(self):
+    
+    @cached_property
+    def documents(self):
         """
-        Get details of the appeal from the IFRC GO API.
+        Get all documents for the appeal from the IFRC GO API.
         """
-        # Get appeal details
-        response = requests.get(f'https://goadmin.ifrc.org/api/v2/appeal/?format=json&code={self.mdr_code}')
-        response.raise_for_status()
-        appeal_results = response.json()['results']
+        # Get appeal document data and convert to AppealDocument
+        documents_data = GOAPI().get_appeal_document_data(id=self.id)
+        return documents_data
 
-        # Check only one appeal
-        if len(appeal_results)==0:
-            raise RuntimeError(f'No appeals found for MDR code {self.mdr_code}')
-        elif len(appeal_results) > 1:
-            raise RuntimeError(f'Multiple appeals found for MDR code {self.mdr_code}: {appeal_results}')
 
-        return appeal_results[0]
+    @cached_property
+    def final_report_details(self):
+        """
+        Get the final report for the appeal.
+        """
+        # Get final reports
+        final_reports = [document for document in self.documents if ('final' in document['name'].lower())]
+        
+        if len(final_reports)==0:
+            return None
+        
+        if len(final_reports) > 1:
+            final_reports = [document for document in final_reports if ('prelim' not in document['name'].lower())]
+
+        if len(final_reports) > 1:
+            final_reports = sorted(final_reports, key=lambda d: d['created_at'], reverse=True)
+
+        return final_reports[0]
 
 
 
 class AppealDocument:
-    def __init__(self, document):
+    def __init__(self, document_url):
         """
-        Parameters
-        ----------
-        document : pandas DataFrame or list (required)
-            Pandas DataFrame, where each row is an element in the document.
         """
-        # Get lines
-        # Convert lines to dataframe
-        if isinstance(lines, list):
-            lines = pd.DataFrame(lines)
+        self.document_url = document_url
         
+        # Get the document lines
+        lines = self.get_lines()
+
         # Add style columns
         lines['double_fontsize_int'] = (lines['size'].astype(float)*2).round(0).astype('Int64')
         lines['style'] = lines['font'].astype(str)+', '+lines['double_fontsize_int'].astype(str)+', '+lines['color'].astype(str)+', '+lines['highlight_color'].astype(str)
@@ -61,6 +138,74 @@ class AppealDocument:
         # Process the lines: remove headers footers, etc.
         self.lines = Lines(lines)
         self.process_lines()
+
+
+    def get_lines(self):
+        """
+        Extract lines from the appeal document.
+        """
+        data = []
+        total_y = 0
+
+        # Get the document content and open with fitz
+        document_url = self.document_url
+        document = requests.get(document_url)
+        doc = fitz.open(stream=document.content, filetype='pdf')
+
+        # Loop through pages and paragraphs
+        for page_number, page_layout in enumerate(doc):
+
+            # Get drawings to get text highlights
+            coloured_drawings = [drawing for drawing in page_layout.get_drawings() if (drawing['fill'] != (0.0, 0.0, 0.0))]
+            page_images = page_layout.get_image_info()
+
+            # Loop through blocks
+            blocks = page_layout.get_text("dict", flags=11)["blocks"]
+            for block_number, block in enumerate(blocks):
+                for line_number, line in enumerate(block["lines"]):
+                    spans = [span for span in line['spans'] if span['text'].strip()]
+                    for span_number, span in enumerate(spans):
+                            
+                        # Check if the text block is contained in a drawing
+                        highlights = []
+                        for drawing in coloured_drawings:
+                            if utils.get_overlap(span['bbox'], drawing['rect']):
+                                drawing['overlap'] = utils.get_overlap(span['bbox'], drawing['rect'])
+                                highlights.append(drawing)
+
+                        # Get largest overlap
+                        highlight_color_hex = None
+                        if highlights:
+                            largest_highlight = max(highlights, key=lambda x: x['overlap'])
+                            highlight_color = largest_highlight['fill']
+                            if highlight_color:
+                                highlight_color_hex = '#%02x%02x%02x' % (int(255*highlight_color[0]), int(255*highlight_color[1]), int(255*highlight_color[2]))
+
+                        # Check if the span overlaps with an image
+                        max_overlap = None
+                        overlapping_images = [utils.get_overlap(span['bbox'], img['bbox'])/utils.get_area(span['bbox']) for img in page_images if utils.get_overlap(span['bbox'], img['bbox'])]
+                        if overlapping_images:
+                            max_overlap = max(overlapping_images)
+
+                        contains_images = [img for img in page_images if utils.contains(img['bbox'], span['bbox'])]
+                        
+                        # Append results
+                        span['text'] = span['text'].replace('\r', '\n')
+                        span['bold'] = utils.is_bold(span["font"])
+                        span['highlight_color'] = highlight_color_hex
+                        span['page_number'] = page_number
+                        span['block_number'] = block_number
+                        span['line_number'] = line_number
+                        span['span_number'] = span_number
+                        span['origin_x'] = span['origin'][0]
+                        span['origin_y'] = span['origin'][1]
+                        span['total_y'] = span['origin'][1]+total_y
+                        span['img'] = bool(contains_images)
+                        data.append(span)
+
+            total_y += page_layout.rect.height
+
+        return pd.DataFrame(data)
 
 
     def process_lines(self):
