@@ -3,6 +3,7 @@ import yaml
 import unittest
 import requests
 import pandas as pd
+from ea_parsing.appeal_document import Appeal
 
 
 class TestResults(unittest.TestCase):
@@ -25,16 +26,13 @@ class TestResults(unittest.TestCase):
         for mdr_code, validated_results in lessons_learned_results.items():
             with self.subTest(msg=mdr_code):
 
-                # Get MDR code parse results from API parse
-                response = requests.post(
-                    url=f'{base_url}/parse/', 
-                    params={'mdr_code': mdr_code}
-                )
-                response.raise_for_status()
-                results = response.json()
+                # Get appeal final report
+                appeal = Appeal(mdr_code=mdr_code)
+                final_report = appeal.final_report
+                lessons_learned = final_report.lessons_learned
 
                 # Compare results
                 self.assertTrue(
-                    results == validated_results, 
-                    f'Results do not match expected results for MDR code {mdr_code}\n\nResults:\n{results}\n\nExpected results:\n{validated_results}'
+                    lessons_learned == validated_results, 
+                    f'Results do not match expected results for MDR code {mdr_code}\n\nResults:\n{lessons_learned}\n\nExpected results:\n{validated_results}'
                 )
