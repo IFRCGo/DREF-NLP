@@ -1,3 +1,4 @@
+import requests
 from functools import cached_property
 import pandas as pd
 from ea_parsing.sectors import Sectors
@@ -5,14 +6,50 @@ from ea_parsing.lines import Lines
 from ea_parsing.lessons_learned_extractor import LessonsLearnedExtractor
 
 
-class AppealDocument:
-    def __init__(self, lines):
+class Appeal:
+    def __init__(self, mdr_code):
         """
         Parameters
         ----------
-        lines : pandas DataFrame or list (required)
+        mdr_code : string (required)
+            MDR code of the appeal.
+        """
+        self.mdr_code = mdr_code
+        
+        # Set appeal details
+        appeal_details = self._get_details()
+        for k, v in appeal_details.items():
+            setattr(self, k, v)
+
+
+    def _get_details(self):
+        """
+        Get details of the appeal from the IFRC GO API.
+        """
+        # Get appeal details
+        response = requests.get(f'https://goadmin.ifrc.org/api/v2/appeal/?format=json&code={self.mdr_code}')
+        response.raise_for_status()
+        appeal_results = response.json()['results']
+
+        # Check only one appeal
+        if len(appeal_results)==0:
+            raise RuntimeError(f'No appeals found for MDR code {self.mdr_code}')
+        elif len(appeal_results) > 1:
+            raise RuntimeError(f'Multiple appeals found for MDR code {self.mdr_code}: {appeal_results}')
+
+        return appeal_results[0]
+
+
+
+class AppealDocument:
+    def __init__(self, document):
+        """
+        Parameters
+        ----------
+        document : pandas DataFrame or list (required)
             Pandas DataFrame, where each row is an element in the document.
         """
+        # Get lines
         # Convert lines to dataframe
         if isinstance(lines, list):
             lines = pd.DataFrame(lines)
