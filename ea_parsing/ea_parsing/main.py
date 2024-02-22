@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Query, HTTPException
-from ea_parsing.appeal_document import Appeal, AppealDocument
+from ea_parsing.appeal_document import Appeal
 
 app = FastAPI()
 
