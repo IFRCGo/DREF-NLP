@@ -96,6 +96,8 @@ def colour_diff(colour1, colour2):
         # Convert colour to RGB
         colours = [colour1, colour2]
         for i, colour in enumerate(colours):
+
+            # Convert to RGB
             if not ((type(colour) is list) or (type(colour) is tuple)):
                 if not isinstance(colour, str):
                     colour = hex(int(colour)).replace("0x", "")
