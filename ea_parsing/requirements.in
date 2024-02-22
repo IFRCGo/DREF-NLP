@@ -6,6 +6,15 @@
 #
 # (you may need to install piptools first by running 'pip install pip-tools')
 
--r dref_parsing/requirements.in
--r ea_parsing/requirements.in
--r dref_tagging/requirements.in
+fastapi 
+uvicorn
+python-multipart
+
+numpy
+pandas
+requests
+
+munch
+
+tika
+pdfminer.six
