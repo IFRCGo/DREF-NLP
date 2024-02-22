@@ -2,6 +2,7 @@
 """
 from functools import cached_property
 import numpy as np
+import pandas as pd
 import yaml
 
 
@@ -41,7 +42,7 @@ class LessonsLearnedExtractor:
             )
 
             lessons_learned_details = {
-                "title_text": lessons_learned_section_title,
+                "title": lessons_learned_section_title,
                 "title_idx": idx,
                 "section_lines": section_lines,
             }
@@ -81,7 +82,7 @@ class LessonsLearnedExtractor:
         for details in lessons_learned:
             text_content = ' '.join(details['section_lines']['text_base'].tolist()).strip()
             if (not text_content) or (text_content in empty_texts):
-                details['section_lines'] = None
+                details['section_lines'] = pd.DataFrame()
             filtered_lessons_learned.append(details)
 
         return filtered_lessons_learned
