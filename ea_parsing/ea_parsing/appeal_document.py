@@ -10,9 +10,13 @@ class AppealDocument:
         """
         Parameters
         ----------
-        lines : pandas DataFrame (required)
+        lines : pandas DataFrame or list (required)
             Pandas DataFrame, where each row is an element in the document.
         """
+        # Convert lines to dataframe
+        if isinstance(lines, list):
+            lines = pd.DataFrame(lines)
+        
         # Add style columns
         lines['double_fontsize_int'] = (lines['size'].astype(float)*2).round(0).astype('Int64')
         lines['style'] = lines['font'].astype(str)+', '+lines['double_fontsize_int'].astype(str)+', '+lines['color'].astype(str)+', '+lines['highlight_color'].astype(str)
