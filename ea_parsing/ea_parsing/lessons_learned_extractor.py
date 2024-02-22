@@ -3,13 +3,13 @@
 from functools import cached_property
 import numpy as np
 import pandas as pd
-import yaml
+import ea_parsing.definitions
 
 
 class LessonsLearnedExtractor:
     def __init__(self):
 
-        self.lessons_learned_title_texts = yaml.safe_load(open('lessons_learned_titles.yml'))
+        self.lessons_learned_title_texts = ea_parsing.definitions.LESSONS_LEARNED_TITLES
 
 
     def get_lessons_learned(self, document):

@@ -1,16 +1,17 @@
 """
 """
 from functools import cached_property
-import yaml
-from utils import strip_non_alpha, strip_filler_words, phrase_in_sentence, replace_phrases_in_sentence
+import ea_parsing.definitions
+from ea_parsing.utils import strip_non_alpha, strip_filler_words, phrase_in_sentence, replace_phrases_in_sentence
+
 
 class Sectors:
     def __init__(self):
         """
         """
         self.sectors = self._process_sectors(
-            sectors = yaml.safe_load(open('sectors.yml')), 
-            abbreviations = yaml.safe_load(open('abbreviations.yml'))
+            sectors = ea_parsing.definitions.SECTORS,
+            abbreviations = ea_parsing.definitions.ABBREVIATIONS
         )
 
 

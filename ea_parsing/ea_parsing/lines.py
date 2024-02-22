@@ -2,7 +2,7 @@
 """
 from functools import cached_property
 import pandas as pd
-from utils import colour_diff, is_text_title
+from ea_parsing.utils import colour_diff, is_text_title
 
 
 class Line(pd.Series):

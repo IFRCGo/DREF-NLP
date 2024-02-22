@@ -1,9 +1,8 @@
 from functools import cached_property
-import yaml
 import pandas as pd
-from sectors import Sectors
-from lines import Lines
-from lessons_learned_extractor import LessonsLearnedExtractor
+from ea_parsing.sectors import Sectors
+from ea_parsing.lines import Lines
+from ea_parsing.lessons_learned_extractor import LessonsLearnedExtractor
 
 
 class AppealDocument:
