@@ -157,6 +157,19 @@ class Lines(pd.DataFrame):
 
 
     @cached_property
+    def is_nothing(self):
+        """
+        Check if the lines only contain placeholders for nothing.
+        """
+        nothing_texts = ['nothing to report', 'none was reported', 'none reported', 'na', 'n a', 'none']
+        text_content = ' '.join(self['text_base'].astype(str).tolist()).strip()
+        if (not text_content) or (text_content in nothing_texts):
+            return True
+
+        return False
+
+
+    @cached_property
     def titles(self):
         """
         Get all titles in the documents
