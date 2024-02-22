@@ -193,7 +193,7 @@ class AppealDocument:
                         
                         # Append results
                         span['text'] = span['text'].replace('\r', '\n')
-                        span['bold'] = if ("black" in span['font'].lower()) or ("bold" in span['font'].lower())
+                        span['bold'] = ("black" in span['font'].lower()) or ("bold" in span['font'].lower())
                         span['highlight_color'] = highlight_color_hex
                         span['page_number'] = page_number
                         span['block_number'] = block_number
@@ -357,12 +357,17 @@ class AppealDocument:
     def titles(self):
         return self.lines.titles
 
+    
+    @cached_property
+    def headings(self):
+        return self.lines.headings
+
 
     @cached_property
     def sector_titles(self):
         """
         """
-        sector_titles = self.titles.copy()
+        sector_titles = self.headings.copy()
 
         # Get only sector titles in the "Detailed operational plan" section, if it exists
         detailed_operational_plan_titles = sector_titles.loc[sector_titles['text_base']=='c detailed operational plan']

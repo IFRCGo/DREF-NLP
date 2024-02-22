@@ -169,7 +169,7 @@ class Lines(pd.DataFrame):
         """
         Check if the lines only contain placeholders for nothing.
         """
-        nothing_texts = ['nothing to report', 'none was reported', 'none reported', 'na', 'n a', 'none']
+        nothing_texts = ['nothing to report', 'none was reported', 'none reported', 'na', 'n a', 'none', 'not applicable']
         text_content = ' '.join(self['text_base'].astype(str).tolist()).strip()
         if (not text_content) or (text_content in nothing_texts):
             return True
@@ -188,12 +188,20 @@ class Lines(pd.DataFrame):
                          (self['span_number']==0) & 
                          (self['text'].apply(is_text_title))
                      ]
+
+        return titles
         
+
+    @cached_property
+    def headings(self):
+        """
+        Filter titles to greater than body text.
+        """
         # Assume that the body text is most common, and drop titles not bigger than this
         body_style = self['style'].value_counts().idxmax()
-        titles = titles.loc[titles['style']!=body_style]
+        headings = self.titles.loc[self.titles['style']!=body_style]
         
-        return titles
+        return headings
 
 
     def cut_at_more_titley_title(self, title):
