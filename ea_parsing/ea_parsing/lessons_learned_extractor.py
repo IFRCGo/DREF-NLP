@@ -93,16 +93,9 @@ class LessonsLearnedExtractor:
         self.sectors_lessons_learned_map = primary_sector_style['Lessons learned covered']
         if self.unmatched_lessons_learned:
 
-            # Match lessons learned to sectors for sectors of a similar style
-            similar_sector_styles = sectors.loc[
-                (sectors['style']!=primary_sector_style.name) & 
-                sectors.apply(
-                    lambda row: row.is_similar_style(primary_sector_style), 
-                    axis=1
-                )
-            ]
+            # Get closest sectors to match unmatched lessons learned
             self.match_sectors_by_distance(
-                sectors=similar_sector_styles
+                sectors=sectors.loc[sectors['style']!=primary_sector_style.name]
             )
             
         return self.sectors_lessons_learned_map
