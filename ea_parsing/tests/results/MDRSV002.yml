@@ -1,0 +1,260 @@
+- content:
+  - block_number: 7
+    index: 532
+    line_number: 1
+    page_number: 5
+    span_number: 0
+    style: 'Symbol, 20, #000000, None'
+    text: "\uF0B7"
+    text_base: ''
+    total_y: 4708.14990234375
+  - block_number: 7
+    index: 533
+    line_number: 2
+    page_number: 5
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'The National Society took security measures during the distributions since
+      several areas have gang groups '
+    text_base: the national society took security measures during the distributions
+      since several areas have gang groups
+    total_y: 4708.14990234375
+  - block_number: 7
+    index: 534
+    line_number: 3
+    page_number: 5
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'present and there was the risk of them threatening to take the relief items
+      from the beneficiaries. '
+    text_base: present and there was the risk of them threatening to take the relief
+      items from the beneficiaries
+    total_y: 4719.549896240234
+  - block_number: 7
+    index: 535
+    line_number: 4
+    page_number: 5
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'Fortunately, the precautionary measures were effective and no major problems
+      were encountered. '
+    text_base: fortunately the precautionary measures were effective and no major
+      problems were encountered
+    total_y: 4731.069885253906
+  - block_number: 8
+    index: 536
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'Symbol, 20, #000000, None'
+    text: "\uF0B7"
+    text_base: ''
+    total_y: 4743.309875488281
+  - block_number: 8
+    index: 537
+    line_number: 1
+    page_number: 5
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'Many of the affected areas were inaccessible by land; therefore, distributions
+      were carried out using boats, '
+    text_base: many of the affected areas were inaccessible by land therefore distributions
+      were carried out using boats
+    total_y: 4743.309875488281
+  - block_number: 8
+    index: 538
+    line_number: 2
+    page_number: 5
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'which delayed delivery and incurred certain risks. Nevertheless, the distributions
+      were completed and the '
+    text_base: which delayed delivery and incurred certain risks nevertheless the
+      distributions were completed and the
+    total_y: 4754.709899902344
+  - block_number: 8
+    index: 539
+    line_number: 3
+    page_number: 5
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: objective was successfully achieved.
+    text_base: objective was successfully achieved
+    total_y: 4766.229919433594
+  sector_idx: 191
+  sector_similarity_score: 1.0
+  sector_title: Relief
+  title:
+    block_number: 7
+    idx: 531
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'Arial,Bold, 20, #000000, None'
+    text: 'Challenges and Lessons Learned  '
+    text_base: challenges and lessons learned
+    total_y: 4695.789886474609
+- content:
+  - block_number: 18
+    index: 833
+    line_number: 1
+    page_number: 8
+    span_number: 0
+    style: 'Symbol, 20, #000000, None'
+    text: "\uF0B7"
+    text_base: ''
+    total_y: 7185.289855957031
+  - block_number: 18
+    index: 834
+    line_number: 2
+    page_number: 8
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'Delays as a result of bureaucratic processes of government institutions.  '
+    text_base: delays as a result of bureaucratic processes of government institutions
+    total_y: 7185.289855957031
+  - block_number: 19
+    index: 835
+    line_number: 0
+    page_number: 8
+    span_number: 0
+    style: 'Symbol, 20, #000000, None'
+    text: "\uF0B7"
+    text_base: ''
+    total_y: 7197.529846191406
+  - block_number: 19
+    index: 836
+    line_number: 1
+    page_number: 8
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'There was a very limited amount of land available to relocate the affected
+      families, meaning smaller and '
+    text_base: there was a very limited amount of land available to relocate the affected
+      families meaning smaller and
+    total_y: 7197.529846191406
+  - block_number: 19
+    index: 837
+    line_number: 2
+    page_number: 8
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'more dispersed lots to build on which delayed the timeframe due to logistics
+      complexity and also increased '
+    text_base: more dispersed lots to build on which delayed the timeframe due to
+      logistics complexity and also increased
+    total_y: 7208.949859619141
+  - block_number: 19
+    index: 838
+    line_number: 3
+    page_number: 8
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'the indirect costs.  '
+    text_base: the indirect costs
+    total_y: 7220.4698486328125
+  - block_number: 20
+    index: 839
+    line_number: 0
+    page_number: 8
+    span_number: 0
+    style: 'Symbol, 20, #000000, None'
+    text: "\uF0B7"
+    text_base: ''
+    total_y: 7232.7098388671875
+  - block_number: 20
+    index: 840
+    line_number: 1
+    page_number: 8
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'The main difficulty for the shelter objective of the appeal was that the
+      government did not have the capacity '
+    text_base: the main difficulty for the shelter objective of the appeal was that
+      the government did not have the capacity
+    total_y: 7232.7098388671875
+  - block_number: 20
+    index: 841
+    line_number: 2
+    page_number: 8
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'to comply with its agreement (provision of appropriate land for building
+      shelters in line with legal '
+    text_base: to comply with its agreement provision of appropriate land for building
+      shelters in line with legal
+    total_y: 7244.109832763672
+  - block_number: 20
+    index: 842
+    line_number: 3
+    page_number: 8
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'requirements for the intervention), given technical and political reasons.
+      Therefore, it was necessary to '
+    text_base: requirements for the intervention given technical and political reasons
+      therefore it was necessary to
+    total_y: 7255.6298828125
+  - block_number: 20
+    index: 843
+    line_number: 4
+    page_number: 8
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'formulate an alternative plan to use safe land in a different area.  '
+    text_base: formulate an alternative plan to use safe land in a different area
+    total_y: 7267.149841308594
+  - block_number: 21
+    index: 844
+    line_number: 0
+    page_number: 8
+    span_number: 0
+    style: 'Symbol, 20, #000000, None'
+    text: "\uF0B7"
+    text_base: ''
+    total_y: 7279.389831542969
+  - block_number: 21
+    index: 845
+    line_number: 1
+    page_number: 8
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'The effects of Tropical Storm Agatha and Hurricane Alex in the country
+      prompted the National Society to '
+    text_base: the effects of tropical storm agatha and hurricane alex in the country
+      prompted the national society to
+    total_y: 7279.389831542969
+  - block_number: 21
+    index: 846
+    line_number: 2
+    page_number: 8
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'mobilize personnel and resources to the affected areas, and delayed planned
+      activities under this and other '
+    text_base: mobilize personnel and resources to the affected areas and delayed
+      planned activities under this and other
+    total_y: 7290.789855957031
+  - block_number: 21
+    index: 847
+    line_number: 3
+    page_number: 8
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'sectors as the SRCS concentrated its efforts on responding to the new emergencies.  '
+    text_base: sectors as the srcs concentrated its efforts on responding to the new
+      emergencies
+    total_y: 7302.309814453125
+  sector_idx: 540
+  sector_similarity_score: 1.0
+  sector_title: Shelter, Housing and Settlements
+  title:
+    block_number: 18
+    idx: 832
+    line_number: 0
+    page_number: 8
+    span_number: 0
+    style: 'Arial,Bold, 20, #000000, None'
+    text: 'Challenges and Lessons Learned: '
+    text_base: challenges and lessons learned
+    total_y: 7173.049835205078
