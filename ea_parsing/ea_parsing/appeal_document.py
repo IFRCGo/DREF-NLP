@@ -307,24 +307,38 @@ class AppealDocument:
         Drop all repeating headers and footers.
         Run until there are no more repeating headers or footers.
         """
-        # Drop headers
+        # Drop header blocks
         while True:
-            repeating_texts = self.get_repeating(which='top', lines=lines)
-            if repeating_texts.empty:
+            repeating_blocks = self.get_repeating_blocks(which='top', lines=lines)
+            if repeating_blocks.empty:
                 break
-            lines = lines.drop(repeating_texts['index'].explode())
+            lines = lines.drop(repeating_blocks['index'].explode())
 
-        # Drop footers
+        # Drop header lines
         while True:
-            repeating_texts = self.get_repeating(which='bottom', lines=lines)
-            if repeating_texts.empty:
+            repeating_lines = self.get_repeating_lines(which='top', lines=lines)
+            if repeating_lines.empty:
                 break
-            lines = lines.drop(repeating_texts['index'].explode())
+            lines = lines.drop(repeating_lines['index'].explode())
+
+        # Drop footer blocks
+        while True:
+            repeating_blocks = self.get_repeating_blocks(which='bottom', lines=lines)
+            if repeating_blocks.empty:
+                break
+            lines = lines.drop(repeating_blocks['index'].explode())
+
+        # Drop footer lines
+        while True:
+            repeating_lines = self.get_repeating_lines(which='bottom', lines=lines)
+            if repeating_lines.empty:
+                break
+            lines = lines.drop(repeating_lines['index'].explode())
 
         return lines
     
 
-    def get_repeating(self, which, lines):
+    def get_repeating_blocks(self, which, lines):
         """
         Drop any repeating elements at the top or bottom of pages.
         """
@@ -333,12 +347,11 @@ class AppealDocument:
         
         # Get the top and bottom blocks on each page
         if which=='top':
-            page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmax()]
-        elif which=='bottom':
             page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmin()]
+        elif which=='bottom':
+            page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmax()]
         else:
             raise RuntimeError('Unrecognised value for "which", should be "top" or "bottom"')
-        page_lines = lines.loc[lines['page_block'].isin(page_blocks['page_block'].unique())]
 
         # Get repeating texts
         elements = lines.loc[lines['page_block'].isin(page_blocks['page_block'].unique())]
@@ -346,6 +359,33 @@ class AppealDocument:
             .reset_index()\
             .groupby(['page_number'])\
             .agg({'text_base': lambda x: ' '.join(x), 'index': tuple})\
+            .groupby(['text_base'])\
+            .filter(lambda x: len(x)>2)
+
+        # Don't remove lessons learned titles
+        lessons_learned_title_texts = LessonsLearnedExtractor().lessons_learned_title_texts
+        repeating_texts = repeating_texts.loc[~(
+            repeating_texts['text_base'].isin(lessons_learned_title_texts)
+        )]
+
+        # Remove indexes
+        return repeating_texts
+
+
+    def get_repeating_lines(self, which, lines):
+        """
+        """
+        # Get the top and bottom lines on each page
+        if which=='top':
+            page_lines = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmin()]
+        elif which=='bottom':
+            page_lines = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmax()]
+        else:
+            raise RuntimeError('Unrecognised value for "which", should be "top" or "bottom"')
+
+        # Get repeating texts
+        repeating_texts = page_lines\
+            .reset_index()\
             .groupby(['text_base'])\
             .filter(lambda x: len(x)>2)
 
