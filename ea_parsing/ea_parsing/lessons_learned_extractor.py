@@ -24,8 +24,8 @@ class LessonsLearnedExtractor:
         for title in lessons_learned_titles_details['titles']:
 
             lessons_learned_title_texts += generate_sentence_variations(
-                    sentence=title, 
-                    abbreviations=abbreviations
+                sentence=title, 
+                abbreviations=abbreviations
             )
 
         return lessons_learned_title_texts
