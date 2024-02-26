@@ -46,7 +46,7 @@ class Line(pd.Series):
 
     def more_titley(self, title, nontitle):
         """
-        Check if line is more titley than title.
+        Check if line is more titley, or just as titley, as title.
         Use nontitle to check what a title looks like.
         Don't consider titles in images as titles.
         """
@@ -212,7 +212,7 @@ class Lines(pd.DataFrame):
 
     def cut_at_more_titley_title(self, title):
         """
-        Cut the section lines at the first title.
+        Cut the section lines at the first title that is more titley, or just as titley, as title.
         Assume that the first line is the title of the section.
         """
         # Get title information
