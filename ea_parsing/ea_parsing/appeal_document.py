@@ -226,6 +226,9 @@ class AppealDocument:
         # Combine spans on same line with same styles
         lines = lines.combine_spans_same_style()
 
+        # Combine bullet points and lines
+        lines = lines.combine_bullet_spans()
+
         # Add text_base
         lines['text_base'] = lines['text']\
             .str.replace(r'[^A-Za-z0-9 ]+', ' ', regex=True)\

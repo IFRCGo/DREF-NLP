@@ -126,6 +126,42 @@ class Lines(pd.DataFrame):
         return lines
 
 
+    def combine_bullet_spans(self):
+        """
+        Sometimes, bullet points are listed as separate lines than the text which follows them.
+        Combine these onto the same line, with different span numbers.
+        """
+        lines = self.copy()
+
+        # Get bullets: span zero, bullet character
+        bullet_chars = ['•']
+        bullets = lines.loc[
+            (lines['text'].str.strip().isin(bullet_chars)) &
+            (lines['span_number']==0)
+        ]
+        
+        # Loop through bullets and put bullet item text on the same line_number
+        for i, bullet in bullets.iterrows():
+            bullet_block = lines.loc[
+                (lines['page_number']==bullet['page_number']) &
+                (lines['block_number']==bullet['block_number'])
+            ]
+            bullet_line = bullet_block.loc[
+                (lines['line_number']==bullet['line_number'])
+            ]
+            text_at_bullet_level = bullet_block.loc[
+                (lines['line_number']!=bullet['line_number']) &
+                (lines['span_number']==0) &
+                (lines['total_y']==bullet['total_y'])
+            ]
+            if not text_at_bullet_level.empty:
+                first_text_at_bullet_level = text_at_bullet_level.index[0]
+                lines.loc[first_text_at_bullet_level, 'line_number'] = bullet['line_number']
+                lines.loc[first_text_at_bullet_level, 'span_number'] = bullet_line['span_number'].max() + 1
+
+        return lines
+
+
     def is_page_label(self):
         """
         Check if a block of lines are a page label.

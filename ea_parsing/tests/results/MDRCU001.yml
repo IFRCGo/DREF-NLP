@@ -1,0 +1,713 @@
+- content:
+  - block_number: 1
+    index: 111
+    line_number: 31
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'The response to the 2008 hurricane season was the largest emergency response
+      operation conducted by '
+    text_base: the response to the 2008 hurricane season was the largest emergency
+      response operation conducted by
+    total_y: 1280.080322265625
+  - block_number: 1
+    index: 112
+    line_number: 32
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'the National Society in the last 15 years, and as such has had a notable
+      impact on the institution, '
+    text_base: the national society in the last 15 years and as such has had a notable
+      impact on the institution
+    total_y: 1291.6003112792969
+  - block_number: 1
+    index: 113
+    line_number: 33
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'strengthening existing processes and highlighting capacity-building areas
+      for future emergency response '
+    text_base: strengthening existing processes and highlighting capacity building
+      areas for future emergency response
+    total_y: 1303.1203002929688
+  - block_number: 1
+    index: 114
+    line_number: 34
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'operations. '
+    text_base: operations
+    total_y: 1314.6402893066406
+  - block_number: 1
+    index: 115
+    line_number: 36
+    page_number: 1
+    span_number: 0
+    style: 'Symbol, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 1338.1602783203125
+  - block_number: 1
+    index: 116
+    line_number: 36
+    page_number: 1
+    span_number: 1
+    style: 'Arial,Bold, 20, #000000, None'
+    text: 'Emergency relief:'
+    text_base: emergency relief
+    total_y: 1338.1602783203125
+  - block_number: 1
+    index: 117
+    line_number: 37
+    page_number: 1
+    span_number: 1
+    style: 'Arial, 20, #000000, None'
+    text: ' The quick response of and close coordination between the National Society '
+    text_base: the quick response of and close coordination between the national society
+    total_y: 1338.1602783203125
+  - block_number: 1
+    index: 118
+    line_number: 38
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'and the Pan American Disaster Response Unit (PADRU) following the impact
+      of the hurricane '
+    text_base: and the pan american disaster response unit padru following the impact
+      of the hurricane
+    total_y: 1349.9202880859375
+  - block_number: 1
+    index: 119
+    line_number: 39
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'ensured that a coherent Plan of Action was drawn up that responded to the
+      immediate needs of the '
+    text_base: ensured that a coherent plan of action was drawn up that responded
+      to the immediate needs of the
+    total_y: 1361.4403076171875
+  - block_number: 1
+    index: 120
+    line_number: 40
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'affected population.  In particular, the use of prepositioned relief items
+      in warehouses in the region '
+    text_base: affected population in particular the use of prepositioned relief items
+      in warehouses in the region
+    total_y: 1372.7202758789062
+  - block_number: 1
+    index: 121
+    line_number: 41
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'and their quick deployment to the country made it possible for the Red
+      Cross to provide immediate '
+    text_base: and their quick deployment to the country made it possible for the
+      red cross to provide immediate
+    total_y: 1384.240234375
+  - block_number: 1
+    index: 122
+    line_number: 42
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'relief to beneficiaries. However, the fluctuation of the prices of some
+      relief items indicates that it '
+    text_base: relief to beneficiaries however the fluctuation of the prices of some
+      relief items indicates that it
+    total_y: 1395.76025390625
+  - block_number: 1
+    index: 123
+    line_number: 43
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'may be necessary to conduct a study of the market and existing agreements
+      with suppliers in the '
+    text_base: may be necessary to conduct a study of the market and existing agreements
+      with suppliers in the
+    total_y: 1407.2802734375
+  - block_number: 1
+    index: 124
+    line_number: 44
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'region, in particular for those products for which there is the greatest
+      demand.   '
+    text_base: region in particular for those products for which there is the greatest
+      demand
+    total_y: 1418.8002319335938
+  - block_number: 1
+    index: 125
+    line_number: 45
+    page_number: 1
+    span_number: 0
+    style: 'Symbol, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 1430.8002319335938
+  - block_number: 1
+    index: 126
+    line_number: 45
+    page_number: 1
+    span_number: 1
+    style: 'Arial,Bold, 20, #000000, None'
+    text: 'Institutional strengthening: '
+    text_base: institutional strengthening
+    total_y: 1430.8002319335938
+  - block_number: 1
+    index: 127
+    line_number: 46
+    page_number: 1
+    span_number: 1
+    style: 'Arial, 20, #000000, None'
+    text: 'The operation has served to strengthen links between the Cuban '
+    text_base: the operation has served to strengthen links between the cuban
+    total_y: 1430.8002319335938
+  - block_number: 1
+    index: 128
+    line_number: 47
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: "Red Cross\u2019 national headquarters and the provincial and municipal\
+      \ branches, not only improving "
+    text_base: red cross national headquarters and the provincial and municipal branches
+      not only improving
+    total_y: 1442.5602416992188
+  - block_number: 1
+    index: 129
+    line_number: 48
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'internal relations but also transferring capacity in the technical and
+      operational roles of emergency '
+    text_base: internal relations but also transferring capacity in the technical
+      and operational roles of emergency
+    total_y: 1454.0802001953125
+  - block_number: 1
+    index: 130
+    line_number: 49
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'management.  '
+    text_base: management
+    total_y: 1465.6002197265625
+  - block_number: 1
+    index: 131
+    line_number: 50
+    page_number: 1
+    span_number: 0
+    style: 'Symbol, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 1477.6002197265625
+  - block_number: 1
+    index: 132
+    line_number: 50
+    page_number: 1
+    span_number: 1
+    style: 'Arial,Bold, 20, #000000, None'
+    text: 'Development and integration of broader, longer-term recovery strategies: '
+    text_base: development and integration of broader longer term recovery strategies
+    total_y: 1477.6002197265625
+  - block_number: 1
+    index: 133
+    line_number: 51
+    page_number: 1
+    span_number: 1
+    style: 'Arial, 20, #000000, None'
+    text: 'The inclusion of an '
+    text_base: the inclusion of an
+    total_y: 1477.6002197265625
+  - block_number: 1
+    index: 134
+    line_number: 52
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: early recovery component in the CRC plan of action has provided much needed,
+      valuable longer-
+    text_base: early recovery component in the crc plan of action has provided much
+      needed valuable longer
+    total_y: 1489.1202392578125
+  - block_number: 1
+    index: 135
+    line_number: 53
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'term support to the affected communities in their recovery from the aftermath
+      of the hurricanes. At '
+    text_base: term support to the affected communities in their recovery from the
+      aftermath of the hurricanes at
+    total_y: 1500.6402587890625
+  - block_number: 1
+    index: 136
+    line_number: 54
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'the same time it is promoting and developing new skill sets within the
+      Cuban Red Cross regional '
+    text_base: the same time it is promoting and developing new skill sets within
+      the cuban red cross regional
+    total_y: 1512.1602783203125
+  - block_number: 1
+    index: 137
+    line_number: 55
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'branches which will be key in providing integral response. '
+    text_base: branches which will be key in providing integral response
+    total_y: 1523.6802368164062
+  - block_number: 1
+    index: 138
+    line_number: 56
+    page_number: 1
+    span_number: 0
+    style: 'Symbol, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 1535.6802368164062
+  - block_number: 1
+    index: 139
+    line_number: 56
+    page_number: 1
+    span_number: 1
+    style: 'Arial,Bold, 20, #000000, None'
+    text: 'Recruitment, training and promotion of volunteers:'
+    text_base: recruitment training and promotion of volunteers
+    total_y: 1535.6802368164062
+  - block_number: 1
+    index: 140
+    line_number: 57
+    page_number: 1
+    span_number: 1
+    style: 'Arial, 20, #000000, None'
+    text: ' In total, 139 new volunteers were recruited '
+    text_base: in total 139 new volunteers were recruited
+    total_y: 1535.6802368164062
+  - block_number: 1
+    index: 141
+    line_number: 58
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'from the affected communities, with local populations keen to support the
+      work of the Red Cross in '
+    text_base: from the affected communities with local populations keen to support
+      the work of the red cross in
+    total_y: 1547.4402465820312
+  - block_number: 1
+    index: 142
+    line_number: 59
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'the development of the operation. The response also afforded the opportunity
+      to provide training to '
+    text_base: the development of the operation the response also afforded the opportunity
+      to provide training to
+    total_y: 1558.9602661132812
+  - block_number: 1
+    index: 143
+    line_number: 60
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'volunteers at the local level, including specialized training in disaster
+      response and preparedness. '
+    text_base: volunteers at the local level including specialized training in disaster
+      response and preparedness
+    total_y: 1570.240234375
+  - block_number: 1
+    index: 144
+    line_number: 61
+    page_number: 1
+    span_number: 0
+    style: 'Symbol, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 1582.240234375
+  - block_number: 1
+    index: 145
+    line_number: 61
+    page_number: 1
+    span_number: 1
+    style: 'Arial,Bold, 20, #000000, None'
+    text: 'Strengthening of inter-institutional links: '
+    text_base: strengthening of inter institutional links
+    total_y: 1582.240234375
+  - block_number: 1
+    index: 146
+    line_number: 62
+    page_number: 1
+    span_number: 1
+    style: 'Arial, 20, #000000, None'
+    text: 'Close coordination with all actors involved in the '
+    text_base: close coordination with all actors involved in the
+    total_y: 1582.240234375
+  - block_number: 1
+    index: 147
+    line_number: 63
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: response was required, improving relations with national and local authorities
+      and non-
+    text_base: response was required improving relations with national and local authorities
+      and non
+    total_y: 1594.000244140625
+  - block_number: 1
+    index: 148
+    line_number: 64
+    page_number: 1
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'governmental organizations, as well as with members of the Red Cross Red
+      Crescent Movement. '
+    text_base: governmental organizations as well as with members of the red cross
+      red crescent movement
+    total_y: 1605.520263671875
+  - block_number: 1
+    index: 150
+    line_number: 0
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, #7f7f7f'
+    text: 'This served to consolidate existing and new partnerships vital to respond
+      not only to this but to '
+    text_base: this served to consolidate existing and new partnerships vital to respond
+      not only to this but to
+    total_y: 1765.679931640625
+  - block_number: 1
+    index: 151
+    line_number: 1
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'future emergencies. '
+    text_base: future emergencies
+    total_y: 1777.199951171875
+  - block_number: 1
+    index: 152
+    line_number: 2
+    page_number: 2
+    span_number: 0
+    style: 'Symbol, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 1789.199951171875
+  - block_number: 1
+    index: 153
+    line_number: 2
+    page_number: 2
+    span_number: 1
+    style: 'Arial,Bold, 20, #000000, None'
+    text: 'Strengthening of community links:'
+    text_base: strengthening of community links
+    total_y: 1789.199951171875
+  - block_number: 1
+    index: 154
+    line_number: 3
+    page_number: 2
+    span_number: 1
+    style: 'Arial, 20, #000000, None'
+    text: ' By its very nature, an operation such as this serves to '
+    text_base: by its very nature an operation such as this serves to
+    total_y: 1789.199951171875
+  - block_number: 1
+    index: 155
+    line_number: 4
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'strengthen links with affected communities, not only in the immediate response
+      but in the early '
+    text_base: strengthen links with affected communities not only in the immediate
+      response but in the early
+    total_y: 1800.9599609375
+  - block_number: 1
+    index: 156
+    line_number: 5
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'recovery and recovery phases, enhancing a greater understanding of community
+      needs and '
+    text_base: recovery and recovery phases enhancing a greater understanding of community
+      needs and
+    total_y: 1812.47998046875
+  - block_number: 1
+    index: 157
+    line_number: 6
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'establishing priorities for continued action in these areas. Actions developed
+      under the operation '
+    text_base: establishing priorities for continued action in these areas actions
+      developed under the operation
+    total_y: 1823.760009765625
+  - block_number: 1
+    index: 158
+    line_number: 7
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'have served to strengthen links with formal and informal community leaders,
+      as well as in the '
+    text_base: have served to strengthen links with formal and informal community
+      leaders as well as in the
+    total_y: 1835.280029296875
+  - block_number: 1
+    index: 159
+    line_number: 8
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'recruitment of community volunteers. '
+    text_base: recruitment of community volunteers
+    total_y: 1846.800048828125
+  - block_number: 1
+    index: 160
+    line_number: 10
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'Although the operation has officially ended, the CRC continues its work
+      in responding to community needs '
+    text_base: although the operation has officially ended the crc continues its work
+      in responding to community needs
+    total_y: 1869.840087890625
+  - block_number: 1
+    index: 161
+    line_number: 11
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'and in addressing broader disaster risk reduction issues. '
+    text_base: and in addressing broader disaster risk reduction issues
+    total_y: 1881.360107421875
+  - block_number: 1
+    index: 162
+    line_number: 13
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 19, #000000, None'
+    text: 'On behalf of Cuban Red Cross, the International Federation would like to
+      thank all partners and donors for their '
+    text_base: on behalf of cuban red cross the international federation would like
+      to thank all partners and donors for their
+    total_y: 1903.9201049804688
+  - block_number: 1
+    index: 163
+    line_number: 14
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 19, #000000, None'
+    text: generous response to this appeal.
+    text_base: generous response to this appeal
+    total_y: 1915.2001342773438
+  - block_number: 1
+    index: 164
+    line_number: 14
+    page_number: 2
+    span_number: 1
+    style: 'Arial, 20, #000000, None'
+    text: ' The operation received multilateral contributions from the American Red '
+    text_base: the operation received multilateral contributions from the american
+      red
+    total_y: 1915.2001342773438
+  - block_number: 1
+    index: 165
+    line_number: 15
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'Cross, the Australian government/Australian Red Cross, the Barbados Red
+      Cross Society, the British '
+    text_base: cross the australian government australian red cross the barbados red
+      cross society the british
+    total_y: 1926.7201538085938
+  - block_number: 1
+    index: 166
+    line_number: 16
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'government/British Red Cross, the Canadian government/Canadian Red Cross,
+      the Danish Red Cross, the '
+    text_base: government british red cross the canadian government canadian red cross
+      the danish red cross the
+    total_y: 1938.2401733398438
+  - block_number: 1
+    index: 167
+    line_number: 17
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: "European Community\u2019s Humanitarian Aid Office (ECHO), the Finnish Red\
+      \ Cross, the Irish government, the "
+    text_base: european community s humanitarian aid office echo the finnish red cross
+      the irish government the
+    total_y: 1949.7601928710938
+  - block_number: 1
+    index: 168
+    line_number: 18
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'Italian government, the Japanese Red Cross Society, the Monaco Red Cross,
+      the Netherlands Red Cross, '
+    text_base: italian government the japanese red cross society the monaco red cross
+      the netherlands red cross
+    total_y: 1961.2802124023438
+  - block_number: 1
+    index: 169
+    line_number: 19
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'the Nicaraguan Red Cross, the Norwegian government/Norwegian Red Cross,
+      the OPEC Fund For '
+    text_base: the nicaraguan red cross the norwegian government norwegian red cross
+      the opec fund for
+    total_y: 1972.8002319335938
+  - block_number: 1
+    index: 170
+    line_number: 20
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'International '
+    text_base: international
+    total_y: 1984.3202514648438
+  - block_number: 1
+    index: 171
+    line_number: 21
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'Development, '
+    text_base: development
+    total_y: 1984.3202514648438
+  - block_number: 1
+    index: 172
+    line_number: 22
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'the '
+    text_base: the
+    total_y: 1984.3202514648438
+  - block_number: 1
+    index: 173
+    line_number: 23
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'Spanish '
+    text_base: spanish
+    total_y: 1984.3202514648438
+  - block_number: 1
+    index: 174
+    line_number: 24
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'government/Spanish '
+    text_base: government spanish
+    total_y: 1984.3202514648438
+  - block_number: 1
+    index: 175
+    line_number: 25
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'Red '
+    text_base: red
+    total_y: 1984.3202514648438
+  - block_number: 1
+    index: 176
+    line_number: 26
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'Cross, '
+    text_base: cross
+    total_y: 1984.3202514648438
+  - block_number: 1
+    index: 177
+    line_number: 27
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'the '
+    text_base: the
+    total_y: 1984.3202514648438
+  - block_number: 1
+    index: 178
+    line_number: 28
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'Swedish '
+    text_base: swedish
+    total_y: 1984.3202514648438
+  - block_number: 1
+    index: 179
+    line_number: 29
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'government/Swedish Red Cross, the United Arab Emirates Red Crescent, the
+      Western Union Foundation '
+    text_base: government swedish red cross the united arab emirates red crescent
+      the western union foundation
+    total_y: 1995.8402709960938
+  - block_number: 1
+    index: 180
+    line_number: 30
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'and private donors. The Cuban Red Cross response was also bilaterally supported
+      by the Finnish Red '
+    text_base: and private donors the cuban red cross response was also bilaterally
+      supported by the finnish red
+    total_y: 2007.3602905273438
+  - block_number: 1
+    index: 181
+    line_number: 31
+    page_number: 2
+    span_number: 0
+    style: 'Arial, 20, #000000, None'
+    text: 'Cross and the Spanish Red Cross.  '
+    text_base: cross and the spanish red cross
+    total_y: 2018.8802795410156
+  sector_idx: null
+  sector_similarity_score: null
+  sector_title: null
+  title:
+    block_number: 1
+    idx: 110
+    line_number: 30
+    page_number: 1
+    span_number: 0
+    style: 'Arial,Bold, 20, #000000, None'
+    text: 'Lessons learnt: '
+    text_base: lessons learnt
+    total_y: 1268.3203125
