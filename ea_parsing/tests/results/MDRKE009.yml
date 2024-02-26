@@ -10,9 +10,9 @@
     total_y: 1096.925537109375
   - block_number: 1
     index: 73
-    line_number: 16
+    line_number: 15
     page_number: 1
-    span_number: 0
+    span_number: 1
     style: 'Arial, 20, #000000, None'
     text: 'Water supply is a critical component to the success of the greenhouse projects.
       Schools with an '
@@ -52,9 +52,9 @@
     total_y: 1132.0957641601562
   - block_number: 1
     index: 77
-    line_number: 20
+    line_number: 19
     page_number: 1
-    span_number: 0
+    span_number: 1
     style: 'Arial, 20, #000000, None'
     text: "The greenhouse supervisor\u2019s technical knowledge in agriculture and/or\
       \ agricultural entomology "
@@ -92,9 +92,9 @@
     total_y: 1167.2659912109375
   - block_number: 1
     index: 81
-    line_number: 24
+    line_number: 23
     page_number: 1
-    span_number: 0
+    span_number: 1
     style: 'Arial, 20, #000000, None'
     text: 'Knowledge of local market trends greatly influences profits. Many schools
       were selling their '

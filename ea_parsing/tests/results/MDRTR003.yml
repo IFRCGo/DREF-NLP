@@ -353,9 +353,9 @@
     total_y: 22059.259521484375
   - block_number: 6
     index: 1682
-    line_number: 1
+    line_number: 0
     page_number: 26
-    span_number: 0
+    span_number: 1
     style: 'ArialMT, 20, #000000, None'
     text: 'Ensure that TRCS has capacity and resources in place to implement the project,
       including the support service '
@@ -382,9 +382,9 @@
     total_y: 22086.379516601562
   - block_number: 7
     index: 1685
-    line_number: 1
+    line_number: 0
     page_number: 26
-    span_number: 0
+    span_number: 1
     style: 'ArialMT, 20, #000000, None'
     text: 'Reduce transferring staff among different projects or stretching their
       work responsibilities across multiple '
@@ -413,9 +413,9 @@
     total_y: 22113.49951171875
   - block_number: 8
     index: 1688
-    line_number: 1
+    line_number: 0
     page_number: 26
-    span_number: 0
+    span_number: 1
     style: 'ArialMT, 20, #000000, None'
     text: 'Avoid an ad-hoc way of working and constant stop-gap measures that are
       not sustainable or practical in the '
@@ -442,9 +442,9 @@
     total_y: 22140.619567871094
   - block_number: 9
     index: 1691
-    line_number: 1
+    line_number: 0
     page_number: 26
-    span_number: 0
+    span_number: 1
     style: 'ArialMT, 20, #000000, None'
     text: 'Work to retain key programme staff to ensure institutional memory of project
       implementation and support the '

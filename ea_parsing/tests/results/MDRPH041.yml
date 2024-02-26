@@ -55,9 +55,9 @@
     total_y: 11643.519897460938
   - block_number: 10
     index: 1004
-    line_number: 3
+    line_number: 2
     page_number: 14
-    span_number: 0
+    span_number: 1
     style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
     text: 'Capacity-building programme should be in place, to enable staff and volunteers
       to again knowledge on '
@@ -84,9 +84,9 @@
     total_y: 11670.759948730469
   - block_number: 11
     index: 1007
-    line_number: 1
+    line_number: 0
     page_number: 14
-    span_number: 0
+    span_number: 1
     style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
     text: 'There is a need for improved CSG and CMLP implementing guidelines. '
     text_base: there is a need for improved csg and cmlp implementing guidelines
@@ -116,9 +116,9 @@
     total_y: 13809.859924316406
   - block_number: 4
     index: 1184
-    line_number: 3
+    line_number: 2
     page_number: 17
-    span_number: 0
+    span_number: 1
     style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
     text: 'Proper coordination and understanding among the stakeholders for a smooth
       implementation of the '
@@ -145,9 +145,9 @@
     total_y: 13837.099914550781
   - block_number: 5
     index: 1187
-    line_number: 1
+    line_number: 0
     page_number: 17
-    span_number: 0
+    span_number: 1
     style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
     text: 'Capacity building specially on different health response and to allocate
       adequate budgets for '
@@ -188,9 +188,9 @@
     total_y: 15543.939910888672
   - block_number: 4
     index: 1296
-    line_number: 3
+    line_number: 2
     page_number: 19
-    span_number: 0
+    span_number: 1
     style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
     text: 'Encourage the chapters to build the capacity of the volunteers by providing
       specific WASH-related trainings. '
@@ -208,9 +208,9 @@
     total_y: 15557.55990600586
   - block_number: 5
     index: 1298
-    line_number: 1
+    line_number: 0
     page_number: 19
-    span_number: 0
+    span_number: 1
     style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
     text: 'Regular monitoring of assets and quarterly inventory checks to ensure assets
       are maintained in good condition '
@@ -251,9 +251,9 @@
     total_y: 16937.479888916016
   - block_number: 3
     index: 1414
-    line_number: 3
+    line_number: 2
     page_number: 21
-    span_number: 0
+    span_number: 1
     style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
     text: 'Annually conduct capacity-building trainings to chapter staff/volunteers
       to increase the number of trained '
@@ -305,9 +305,9 @@
     total_y: 21086.01986694336
   - block_number: 9
     index: 1708
-    line_number: 3
+    line_number: 2
     page_number: 26
-    span_number: 0
+    span_number: 1
     style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
     text: 'Learned the importance of having trained and experienced Chapter Service
       Representatives (CSR) or focal '
@@ -345,9 +345,9 @@
     total_y: 21126.8798828125
   - block_number: 10
     index: 1712
-    line_number: 1
+    line_number: 0
     page_number: 26
-    span_number: 0
+    span_number: 1
     style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
     text: 'Focus on volunteer recruitment, retention, and appreciation programmes.
       Good coordination and '
