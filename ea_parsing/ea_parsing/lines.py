@@ -60,24 +60,23 @@ class Line(pd.Series):
 
         if self['double_fontsize_int'] == title['double_fontsize_int']:
 
-            # Title bold and text NOT bold
+            # Bolder = more titley
             if title['bold'] and not self['bold']:
                 return False
-            
-            # Title NOT bold and text bold
             if not title['bold'] and self['bold']:
                 return True
             
-            # Text and title same boldness, but title uppercase and text not uppercase
+            # Same boldness, uppercase = more titley
             if title['text'].isupper() and not self['text'].isupper():
                 return False
+            if self['text'].isupper() and not title['text'].isupper():
+                return True
 
-            # Text and title same boldness, and same case
-            if title['text'].isupper() == self['text'].isupper():
-                if title['double_fontsize_int'] > nontitle['double_fontsize_int']:
-                    return True
-                if title['bold'] and not nontitle['bold']:
-                    return True
+            # Same boldness and case, compare with nontitle
+            if title['double_fontsize_int'] > nontitle['double_fontsize_int']:
+                return True
+            if title['bold'] and not nontitle['bold']:
+                return True
 
         return False
 
