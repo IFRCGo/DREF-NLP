@@ -2,7 +2,7 @@
 """
 from functools import cached_property
 import ea_parsing.definitions
-from ea_parsing.utils import strip_non_alpha, strip_filler_words, phrase_in_sentence, replace_phrases_in_sentence
+from ea_parsing.utils import strip_non_alpha, strip_filler_words, phrase_in_sentence, replace_phrases_in_sentence, generate_sentence_variations
 
 
 class Sectors:
@@ -66,17 +66,20 @@ class Sectors:
     def _add_abbreviations(self, sectors, abbreviations):
         """
         """
+        sectors_with_abbs = {}
         for sector_name, details in sectors.items():
+            sectors_with_abbs[sector_name] = {
+                'titles': [], 
+                'keywords': details['keywords']
+            }
             for title in details['titles']:
-                for phrase in abbreviations:
-                    phrase_base = strip_non_alpha(phrase).lower() 
-                    if phrase_in_sentence(phrase, title):
-                        for abbreviation in abbreviations[phrase]:
-                            abbreviation_base = strip_non_alpha(abbreviation).lower() 
-                            swapped = replace_phrases_in_sentence(phrase_base, abbreviation_base, title)
-                            if swapped not in details['titles']:
-                                details['titles'].append(swapped)
-        return sectors
+                sector_options = generate_sentence_variations(
+                    sentence=title, 
+                    abbreviations=abbreviations
+                )
+                sectors_with_abbs[sector_name]['titles'] += sector_options
+
+        return sectors_with_abbs
 
 
     def get_similar_sector(self, text):
