@@ -355,10 +355,12 @@ class AppealDocument:
 
         # Get repeating texts
         elements = lines.loc[lines['page_block'].isin(page_blocks['page_block'].unique())]
-        repeating_texts = elements\
+        elements = elements\
             .reset_index()\
             .groupby(['page_number'])\
-            .agg({'text_base': lambda x: ' '.join(x), 'index': tuple})\
+            .agg({'text_base': lambda x: ' '.join(x), 'index': tuple})
+        elements = elements.loc[elements['text_base'].astype(bool)]
+        repeating_texts = elements\
             .groupby(['text_base'])\
             .filter(lambda x: len(x)>2)
 
@@ -384,6 +386,7 @@ class AppealDocument:
             raise RuntimeError('Unrecognised value for "which", should be "top" or "bottom"')
 
         # Get repeating texts
+        page_lines = page_lines.loc[page_lines['text_base'].astype(bool)]
         repeating_texts = page_lines\
             .reset_index()\
             .groupby(['text_base'])\
