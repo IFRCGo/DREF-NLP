@@ -192,9 +192,9 @@ class Lines(pd.DataFrame):
         self = self.dropna(subset=['text_base']).sort_values(by=['line_number', 'span_number'])
         if self.empty:
             return False
-        first_span = self.iloc[0]
 
         # If the first span is small and a number
+        first_span = self.iloc[0]
         if len(self)==1:
             if first_span['text_base'].isdigit():
                 return True
