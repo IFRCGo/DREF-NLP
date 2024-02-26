@@ -1,0 +1,77 @@
+- content:
+  - block_number: 1
+    index: 80
+    line_number: 25
+    page_number: 1
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'The response to the cholera epidemic showed that volunteers can be an important '
+    text_base: the response to the cholera epidemic showed that volunteers can be
+      an important
+    total_y: 1211.8543701171875
+  - block_number: 1
+    index: 81
+    line_number: 26
+    page_number: 1
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'component of cholera eradication if adequate training and material are
+      provided to them. The prepositioning '
+    text_base: component of cholera eradication if adequate training and material
+      are provided to them the prepositioning
+    total_y: 1223.3773803710938
+  - block_number: 1
+    index: 82
+    line_number: 27
+    page_number: 1
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'of cholera NFIs in key cholera-prone areas is also a major issue to be
+      tackled to provide for a rapid '
+    text_base: of cholera nfis in key cholera prone areas is also a major issue to
+      be tackled to provide for a rapid
+    total_y: 1234.900390625
+  - block_number: 1
+    index: 83
+    line_number: 28
+    page_number: 1
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'assistance to beneficiaries (Chad is a landlocked country and importation
+      from neighboring countries causes '
+    text_base: assistance to beneficiaries chad is a landlocked country and importation
+      from neighboring countries causes
+    total_y: 1246.36328125
+  - block_number: 1
+    index: 84
+    line_number: 29
+    page_number: 1
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'unacceptable delays). Advocacy at NS level should also focus on contingency
+      funding in support of running '
+    text_base: unacceptable delays advocacy at ns level should also focus on contingency
+      funding in support of running
+    total_y: 1257.8862915039062
+  - block_number: 1
+    index: 85
+    line_number: 30
+    page_number: 1
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'costs, such as the payment of volunteers and transportation costs.  '
+    text_base: costs such as the payment of volunteers and transportation costs
+    total_y: 1269.4093017578125
+  sector_idx: null
+  sector_similarity_score: null
+  sector_title: null
+  title:
+    block_number: 1
+    idx: 79
+    line_number: 25
+    page_number: 1
+    span_number: 0
+    style: 'Arial-BoldMT, 20, #000000, None'
+    text: 'Lessons learned: '
+    text_base: lessons learned
+    total_y: 1211.8543701171875

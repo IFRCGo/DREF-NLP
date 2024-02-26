@@ -1,0 +1,475 @@
+- content:
+  - block_number: 16
+    index: 804
+    line_number: 6
+    page_number: 13
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'According to the final evaluation, there was a lack of initial feedback
+      gathered from people targeted under this appeal. '
+    text_base: according to the final evaluation there was a lack of initial feedback
+      gathered from people targeted under this appeal
+    total_y: 11585.949768066406
+  - block_number: 16
+    index: 805
+    line_number: 7
+    page_number: 13
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'This led to considerable quantities of in-kind items wasted. Importantly,
+      this was taken as a learning opportunity and '
+    text_base: this led to considerable quantities of in kind items wasted importantly
+      this was taken as a learning opportunity and
+    total_y: 11597.469787597656
+  - block_number: 16
+    index: 806
+    line_number: 8
+    page_number: 13
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'encouraged the transition to conditional cash for food (e-cards) in the
+      camps. For more details, please refer to '
+    text_base: encouraged the transition to conditional cash for food e cards in the
+      camps for more details please refer to
+    total_y: 11608.899780273438
+  - block_number: 16
+    index: 807
+    line_number: 9
+    page_number: 13
+    span_number: 0
+    style: 'ArialMT, 20, #0000ff, #0000ff'
+    text: "Operations Update 1 \u2013 10"
+    text_base: operations update 1 10
+    total_y: 11620.419738769531
+  - block_number: 16
+    index: 808
+    line_number: 9
+    page_number: 13
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: '. '
+    text_base: ''
+    total_y: 11620.419738769531
+  sector_idx: 757
+  sector_similarity_score: 1.0
+  sector_title: Shelter, Housing and Settlements
+  title:
+    block_number: 16
+    idx: 803
+    line_number: 5
+    page_number: 13
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons Learned
+    text_base: lessons learned
+    total_y: 11571.549743652344
+- content:
+  - block_number: 5
+    index: 1041
+    line_number: 6
+    page_number: 17
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'In terms of sustainability, livelihoods interventions were considered very
+      helpful where beneficiaries could set up their '
+    text_base: in terms of sustainability livelihoods interventions were considered
+      very helpful where beneficiaries could set up their
+    total_y: 14458.219665527344
+  - block_number: 5
+    index: 1042
+    line_number: 7
+    page_number: 17
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'own businesses or initiatives, but less so for securing employment or work
+      opportunities, or teaching new skills. '
+    text_base: own businesses or initiatives but less so for securing employment or
+      work opportunities or teaching new skills
+    total_y: 14469.739685058594
+  - block_number: 5
+    index: 1043
+    line_number: 8
+    page_number: 17
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Financial support would be helpful to set up a business in order to capitalize
+      on training received. The number of '
+    text_base: financial support would be helpful to set up a business in order to
+      capitalize on training received the number of
+    total_y: 14481.259704589844
+  - block_number: 5
+    index: 1044
+    line_number: 9
+    page_number: 17
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'targeted beneficiaries can be reduced to enhance the quality of livelihoods
+      services. This would allow the budget '
+    text_base: targeted beneficiaries can be reduced to enhance the quality of livelihoods
+      services this would allow the budget
+    total_y: 14492.779663085938
+  - block_number: 5
+    index: 1045
+    line_number: 10
+    page_number: 17
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'allocation per beneficiary to be higher, and to expand the range of services
+      for individual beneficiaries. Lastly in terms '
+    text_base: allocation per beneficiary to be higher and to expand the range of
+      services for individual beneficiaries lastly in terms
+    total_y: 14504.1796875
+  - block_number: 5
+    index: 1046
+    line_number: 11
+    page_number: 17
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'of monitoring, processes should be amended to capture the number of activities
+      and participants in online activities, '
+    text_base: of monitoring processes should be amended to capture the number of
+      activities and participants in online activities
+    total_y: 14515.69970703125
+  - block_number: 5
+    index: 1047
+    line_number: 12
+    page_number: 17
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'which gained momentum with the COVID-19 outbreak. '
+    text_base: which gained momentum with the covid 19 outbreak
+    total_y: 14527.219665527344
+  sector_idx: 823
+  sector_similarity_score: 1.0
+  sector_title: Livelihoods
+  title:
+    block_number: 5
+    idx: 1040
+    line_number: 5
+    page_number: 17
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons Learned
+    text_base: lessons learned
+    total_y: 14443.819702148438
+- content:
+  - block_number: 6
+    index: 1266
+    line_number: 19
+    page_number: 20
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'In terms of attendance, both the EUTF MADAD baseline and endline showed
+      that women were more likely to attend '
+    text_base: in terms of attendance both the eutf madad baseline and endline showed
+      that women were more likely to attend
+    total_y: 17288.929626464844
+  - block_number: 6
+    index: 1267
+    line_number: 20
+    page_number: 20
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'the community centres and avail of the services provided, especially CBHFA
+      trainings and PSS activities. Although '
+    text_base: the community centres and avail of the services provided especially
+      cbhfa trainings and pss activities although
+    total_y: 17300.449645996094
+  - block_number: 6
+    index: 1268
+    line_number: 21
+    page_number: 20
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'working hours were a barrier, the main barrier was more around the cultural
+      perception that such activities were more '
+    text_base: working hours were a barrier the main barrier was more around the cultural
+      perception that such activities were more
+    total_y: 17311.989654541016
+  - block_number: 6
+    index: 1269
+    line_number: 22
+    page_number: 20
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'appropriate for women. '
+    text_base: appropriate for women
+    total_y: 17323.509643554688
+  sector_idx: 1048
+  sector_similarity_score: 1.0
+  sector_title: Health and Care
+  title:
+    block_number: 6
+    idx: 1265
+    line_number: 18
+    page_number: 20
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons Learned
+    text_base: lessons learned
+    total_y: 17274.52963256836
+- content:
+  - block_number: 7
+    index: 1520
+    line_number: 5
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'The protection component, mainly funded by DG ECHO, was a highly (perhaps
+      overly) ambitious project, considering '
+    text_base: the protection component mainly funded by dg echo was a highly perhaps
+      overly ambitious project considering
+    total_y: 19989.189575195312
+  - block_number: 7
+    index: 1521
+    line_number: 6
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'TRCS was being a sole implementer of a full-blown protection programme.
+      Greater coordination and information '
+    text_base: trcs was being a sole implementer of a full blown protection programme
+      greater coordination and information
+    total_y: 20000.709594726562
+  - block_number: 7
+    index: 1522
+    line_number: 7
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'sharing between partners; more clarity regarding roles, responsibilities
+      and guidance for field staff; and better '
+    text_base: sharing between partners more clarity regarding roles responsibilities
+      and guidance for field staff and better
+    total_y: 20012.229553222656
+  - block_number: 7
+    index: 1523
+    line_number: 8
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'adherence to planned timelines on the part of both donor and implementers
+      are among the factors that could have '
+    text_base: adherence to planned timelines on the part of both donor and implementers
+      are among the factors that could have
+    total_y: 20023.62957763672
+  - block_number: 7
+    index: 1524
+    line_number: 9
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'contributed towards achievement of the original targets. As such, the need
+      for modification requests and return of funds '
+    text_base: contributed towards achievement of the original targets as such the
+      need for modification requests and return of funds
+    total_y: 20035.179626464844
+  - block_number: 7
+    index: 1525
+    line_number: 10
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'may have been avoided. All said, this project has achieved some success
+      in helping a fair number (111%) of its original '
+    text_base: may have been avoided all said this project has achieved some success
+      in helping a fair number 111 of its original
+    total_y: 20046.699584960938
+  - block_number: 7
+    index: 1526
+    line_number: 11
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'target population. Other than that, it was a highly successful learning
+      experience, which will hold TRCS in good stead '
+    text_base: target population other than that it was a highly successful learning
+      experience which will hold trcs in good stead
+    total_y: 20058.219604492188
+  - block_number: 7
+    index: 1527
+    line_number: 12
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'for similar projects in the future. '
+    text_base: for similar projects in the future
+    total_y: 20069.73956298828
+  - block_number: 7
+    index: 1528
+    line_number: 14
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'In terms of gender, both the EUTF MADAD baseline and endline showed that
+      women were more likely to attend the '
+    text_base: in terms of gender both the eutf madad baseline and endline showed
+      that women were more likely to attend the
+    total_y: 20092.659606933594
+  - block_number: 7
+    index: 1529
+    line_number: 15
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'community centres and avail of the services provided. Although working
+      hours were a barrier, the main barrier was '
+    text_base: community centres and avail of the services provided although working
+      hours were a barrier the main barrier was
+    total_y: 20104.179565429688
+  - block_number: 7
+    index: 1530
+    line_number: 16
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'more around the cultural perception that such activities were more appropriate
+      for women. '
+    text_base: more around the cultural perception that such activities were more
+      appropriate for women
+    total_y: 20115.69561767578
+  sector_idx: 1270
+  sector_similarity_score: 1.0
+  sector_title: Protection, Gender and Inclusion
+  title:
+    block_number: 7
+    idx: 1519
+    line_number: 4
+    page_number: 23
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons Learned
+    text_base: lessons learned
+    total_y: 19974.789611816406
+- content:
+  - block_number: 6
+    index: 1681
+    line_number: 0
+    page_number: 26
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 22059.259521484375
+  - block_number: 6
+    index: 1682
+    line_number: 1
+    page_number: 26
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Ensure that TRCS has capacity and resources in place to implement the project,
+      including the support service '
+    text_base: ensure that trcs has capacity and resources in place to implement the
+      project including the support service
+    total_y: 22059.259521484375
+  - block_number: 6
+    index: 1683
+    line_number: 2
+    page_number: 26
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'functions such as finance, administration, and PMER/IM. '
+    text_base: functions such as finance administration and pmer im
+    total_y: 22072.459533691406
+  - block_number: 7
+    index: 1684
+    line_number: 0
+    page_number: 26
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 22086.379516601562
+  - block_number: 7
+    index: 1685
+    line_number: 1
+    page_number: 26
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Reduce transferring staff among different projects or stretching their
+      work responsibilities across multiple '
+    text_base: reduce transferring staff among different projects or stretching their
+      work responsibilities across multiple
+    total_y: 22086.379516601562
+  - block_number: 7
+    index: 1686
+    line_number: 2
+    page_number: 26
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'projects to the point that they are unable to prioritize their dedicated
+      project. '
+    text_base: projects to the point that they are unable to prioritize their dedicated
+      project
+    total_y: 22099.579528808594
+  - block_number: 8
+    index: 1687
+    line_number: 0
+    page_number: 26
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 22113.49951171875
+  - block_number: 8
+    index: 1688
+    line_number: 1
+    page_number: 26
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Avoid an ad-hoc way of working and constant stop-gap measures that are
+      not sustainable or practical in the '
+    text_base: avoid an ad hoc way of working and constant stop gap measures that
+      are not sustainable or practical in the
+    total_y: 22113.49951171875
+  - block_number: 8
+    index: 1689
+    line_number: 2
+    page_number: 26
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'long-term '
+    text_base: long term
+    total_y: 22126.69952392578
+  - block_number: 9
+    index: 1690
+    line_number: 0
+    page_number: 26
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 22140.619567871094
+  - block_number: 9
+    index: 1691
+    line_number: 1
+    page_number: 26
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Work to retain key programme staff to ensure institutional memory of project
+      implementation and support the '
+    text_base: work to retain key programme staff to ensure institutional memory of
+      project implementation and support the
+    total_y: 22140.619567871094
+  - block_number: 9
+    index: 1692
+    line_number: 2
+    page_number: 26
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'learning-by-doing process '
+    text_base: learning by doing process
+    total_y: 22152.01953125
+  sector_idx: 1533
+  sector_similarity_score: 1.0
+  sector_title: National Society Strengthening
+  title:
+    block_number: 5
+    idx: 1680
+    line_number: 6
+    page_number: 26
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons Learned
+    text_base: lessons learned
+    total_y: 22032.619567871094
