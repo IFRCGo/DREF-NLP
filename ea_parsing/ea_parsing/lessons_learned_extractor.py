@@ -28,7 +28,7 @@ class LessonsLearnedExtractor:
         """
         Total number of lessons learned sections in the document.
         """
-        return int(len(lessons_learned_titles))
+        return int(len(self.lessons_learned_titles))
 
 
     def get_lessons_learned(self, document):
@@ -210,14 +210,17 @@ class LessonsLearnedExtractor:
         if not next_lessons_learned_idxs.empty:
             next_lessons_learned = next_lessons_learned_idxs.iloc[0]
 
-            sector_idx_y = self.document.lines.loc[sector_idx, 'total_y']
+            sector_title_line = self.document.lines.loc[sector_idx]
             next_lessons_learned_distance = {
                 "idx": next_lessons_learned.name,
-                "distance": next_lessons_learned['total_y'] - sector_idx_y
+                "distance": next_lessons_learned['total_y'] - sector_title_line['total_y']
             }
 
-            # If lessons learned is before the end of the sector section
+            # Lessons learned must be before the end of the sector section
+            # If only one lessons learned, impose stricter rule: sector section ends at next titley title
             sector_bounds = self.document.lines.loc[sector_idx:]
+            if self.number_of_lessons_learned_sections <= 1:
+                sector_bounds = sector_bounds.cut_at_more_titley_title(sector_title_line)
             if next_lessons_learned['total_y'] < sector_bounds['total_y'].max():
                 
                 # Get the sectors after the given sector_idx
