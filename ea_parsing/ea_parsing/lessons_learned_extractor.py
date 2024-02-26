@@ -139,9 +139,9 @@ class LessonsLearnedExtractor:
         # Get which sector idxs correspond to lessons learned
         sector_title_styles['Lessons learned covered'] = sector_title_styles['Sector title indexes'].apply(
             lambda sector_idxs: {
-                sector_idx: self.get_lessons_learned_covered(sector_idx, sector_idxs)
+                sector_idx: self.get_lessons_learned_covered_by_sector(sector_idx, sector_idxs)
                 for sector_idx in sector_idxs
-                if self.get_lessons_learned_covered(sector_idx, sector_idxs)
+                if self.get_lessons_learned_covered_by_sector(sector_idx, sector_idxs)
             }
         )
         sector_title_styles['Number lessons learned covered'] = sector_title_styles['Lessons learned covered'].apply(lambda x: x if x is None else len(x))
@@ -172,7 +172,7 @@ class LessonsLearnedExtractor:
                 .index\
                 .to_series()\
                 .apply(
-                    lambda sector_idx: self.get_lessons_learned_covered(
+                    lambda sector_idx: self.get_lessons_learned_covered_by_sector(
                         sector_idx, 
                         self.sectors_lessons_learned_map
                     )
@@ -198,10 +198,10 @@ class LessonsLearnedExtractor:
                     sectors.drop(best_sector.name, inplace=True)
 
 
-    def get_lessons_learned_covered(self, sector_idx, sector_idxs):
+    def get_lessons_learned_covered_by_sector(self, sector_idx, sector_idxs):
         """
         Get lessons learned covered by the sector at sector_idx, given the other sectors at sector_idxs.
-        """
+        """            
         # Get the lessons learned after the sector_idx
         next_lessons_learned_idxs = self.get_idxs_after_idx(
             idx=sector_idx,
