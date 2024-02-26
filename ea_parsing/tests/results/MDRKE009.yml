@@ -4,7 +4,7 @@
     line_number: 15
     page_number: 1
     span_number: 0
-    style: SymbolMT, 20, 0, None
+    style: 'SymbolMT, 20, #000000, None'
     text: "\u2022"
     text_base: ''
     total_y: 1096.925537109375
@@ -13,7 +13,7 @@
     line_number: 16
     page_number: 1
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'Water supply is a critical component to the success of the greenhouse projects.
       Schools with an '
     text_base: water supply is a critical component to the success of the greenhouse
@@ -24,7 +24,7 @@
     line_number: 17
     page_number: 1
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'assured supply of water enjoyed impressive success in the project activities
       since activities such as '
     text_base: assured supply of water enjoyed impressive success in the project activities
@@ -35,7 +35,7 @@
     line_number: 18
     page_number: 1
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'fertilizer flooding were carried out at the necessary time and crop yield
       was not compromised. '
     text_base: fertilizer flooding were carried out at the necessary time and crop
@@ -46,7 +46,7 @@
     line_number: 19
     page_number: 1
     span_number: 0
-    style: SymbolMT, 20, 0, None
+    style: 'SymbolMT, 20, #000000, None'
     text: "\u2022"
     text_base: ''
     total_y: 1132.0957641601562
@@ -55,7 +55,7 @@
     line_number: 20
     page_number: 1
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: "The greenhouse supervisor\u2019s technical knowledge in agriculture and/or\
       \ agricultural entomology "
     text_base: the greenhouse supervisor s technical knowledge in agriculture and
@@ -66,7 +66,7 @@
     line_number: 21
     page_number: 1
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'greatly influenced the quality of harvest by effectively anticipating plant
       needs such as addition of '
     text_base: greatly influenced the quality of harvest by effectively anticipating
@@ -77,7 +77,7 @@
     line_number: 22
     page_number: 1
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'specific nutrients, need for pesticides at the first sign of pests etc.  '
     text_base: specific nutrients need for pesticides at the first sign of pests etc
     total_y: 1155.1417846679688
@@ -86,7 +86,7 @@
     line_number: 23
     page_number: 1
     span_number: 0
-    style: SymbolMT, 20, 0, None
+    style: 'SymbolMT, 20, #000000, None'
     text: "\u2022"
     text_base: ''
     total_y: 1167.2659912109375
@@ -95,7 +95,7 @@
     line_number: 24
     page_number: 1
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'Knowledge of local market trends greatly influences profits. Many schools
       were selling their '
     text_base: knowledge of local market trends greatly influences profits many schools
@@ -106,7 +106,7 @@
     line_number: 25
     page_number: 1
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'tomatoes during seasons when tomatoes were saturated in the market thereby
       reducing their profits. '
     text_base: tomatoes during seasons when tomatoes were saturated in the market
@@ -117,7 +117,7 @@
     line_number: 26
     page_number: 1
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'Schools that sold produce during times of scarcity made at least 35% higher
       profits than the rest.  '
     text_base: schools that sold produce during times of scarcity made at least 35
@@ -132,7 +132,7 @@
     line_number: 14
     page_number: 1
     span_number: 0
-    style: Arial,Bold, 20, 0, None
+    style: 'Arial,Bold, 20, #000000, None'
     text: 'Lessons learned: '
     text_base: lessons learned
     total_y: 1084.8013305664062

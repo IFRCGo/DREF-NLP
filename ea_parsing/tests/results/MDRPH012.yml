@@ -4,7 +4,7 @@
     line_number: 13
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'Based on the feedback from beneficiaries, community members who did not
       received PRC assistance, '
     text_base: based on the feedback from beneficiaries community members who did
@@ -15,7 +15,7 @@
     line_number: 14
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'community leaders and local authorities; the community-led beneficiary
       selection process used in livelihood '
     text_base: community leaders and local authorities the community led beneficiary
@@ -26,7 +26,7 @@
     line_number: 15
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'interventions was appreciated as fair and transparent. The selection process
       has since been adopted and is being '
     text_base: interventions was appreciated as fair and transparent the selection
@@ -37,7 +37,7 @@
     line_number: 16
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'applied in other sectors, including shelter.  '
     text_base: applied in other sectors including shelter
     total_y: 10370.569763183594
@@ -46,7 +46,7 @@
     line_number: 18
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'The operation re-affirmed that cash-based programming is the most suitable
       modality where the specific context '
     text_base: the operation re affirmed that cash based programming is the most suitable
@@ -57,7 +57,7 @@
     line_number: 19
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'permits. This was based on feedback from the people reached, most of whom
       felt empowered to be able to '
     text_base: permits this was based on feedback from the people reached most of
@@ -68,7 +68,7 @@
     line_number: 20
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: "choose their own solutions \u2013 albeit within some guidance. However,\
       \ where cash programming is used, engaged "
     text_base: choose their own solutions albeit within some guidance however where
@@ -79,7 +79,7 @@
     line_number: 21
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'remittance providers will need to have presence so that pay-outs are made
       closer to the beneficiaries.  '
     text_base: remittance providers will need to have presence so that pay outs are
@@ -90,7 +90,7 @@
     line_number: 23
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'In view of the number of storms and severe conditions that were expected
       during the season, it was deemed '
     text_base: in view of the number of storms and severe conditions that were expected
@@ -101,7 +101,7 @@
     line_number: 24
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'practical to launch one appeal to cover the entire period. However, in
       November 2013, Typhoon Haiyan struck '
     text_base: practical to launch one appeal to cover the entire period however in
@@ -112,7 +112,7 @@
     line_number: 25
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: "with a colossal humanitarian impact. This new typhoon demanded a dedicated\
       \ and separate response \u2013 appeal \u2013 "
     text_base: with a colossal humanitarian impact this new typhoon demanded a dedicated
@@ -123,7 +123,7 @@
     line_number: 26
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'owing to the magnitude of needs, the scale of response envisioned, the
       geographical coverage and the financial '
     text_base: owing to the magnitude of needs the scale of response envisioned the
@@ -134,7 +134,7 @@
     line_number: 27
     page_number: 12
     span_number: 0
-    style: Arial, 20, 0, None
+    style: 'Arial, 20, #000000, None'
     text: 'resources needed.  '
     text_base: resources needed
     total_y: 10497.049774169922
@@ -147,7 +147,7 @@
     line_number: 12
     page_number: 12
     span_number: 0
-    style: Arial,Bold, 22, 0, None
+    style: 'Arial,Bold, 22, #000000, None'
     text: 'Lessons learned '
     text_base: lessons learned
     total_y: 10324.219787597656

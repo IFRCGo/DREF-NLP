@@ -4,7 +4,7 @@
     line_number: 1
     page_number: 11
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'LRC has limited human resources yet has several ongoing projects. This
       means that all activities need to be '
     text_base: lrc has limited human resources yet has several ongoing projects this
@@ -15,7 +15,7 @@
     line_number: 2
     page_number: 11
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'planned well in advance to fit within the timeframe of the project. The
       disaster management team also requires '
     text_base: planned well in advance to fit within the timeframe of the project
@@ -26,7 +26,7 @@
     line_number: 3
     page_number: 11
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'more capacity building to function as trainers.  '
     text_base: more capacity building to function as trainers
     total_y: 9978.459777832031
@@ -39,7 +39,7 @@
     line_number: 0
     page_number: 11
     span_number: 0
-    style: 'Arial-BoldMT, 20, 0, #f4f4f4'
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
     text: 'Lessons Learned '
     text_base: lessons learned
     total_y: 9929.859802246094
@@ -49,7 +49,7 @@
     line_number: 2
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'This EA operation has yielded several important lessons in working together
       which are applicable to all aspects of the '
     text_base: this ea operation has yielded several important lessons in working
@@ -60,7 +60,7 @@
     line_number: 3
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'operational plan. One of the key lessons is that, in future operations,
       IFRC needs to work with LRC on needs '
     text_base: operational plan one of the key lessons is that in future operations
@@ -71,7 +71,7 @@
     line_number: 4
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'assessments early on and that, training and capacity building of LRC (on
       areas detailed below) is essential for LRC '
     text_base: assessments early on and that training and capacity building of lrc
@@ -82,7 +82,7 @@
     line_number: 5
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'to deal with large recovery operations in future. IFRC is including this
       in its operational plan going forward. '
     text_base: to deal with large recovery operations in future ifrc is including
@@ -93,7 +93,7 @@
     line_number: 7
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'Some aspects of project implementation, especially cash-based interventions
       were new for the LRC, and it took '
     text_base: some aspects of project implementation especially cash based interventions
@@ -104,7 +104,7 @@
     line_number: 8
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'additional time and effort to understand and implement by the team. LRC
       has gained a lot of valuable experience from '
     text_base: additional time and effort to understand and implement by the team
@@ -115,7 +115,7 @@
     line_number: 9
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'this operation. Further support from IFRC in development of disaster response
       and recovery SOPS and training for '
     text_base: this operation further support from ifrc in development of disaster
@@ -126,7 +126,7 @@
     line_number: 10
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'staff and volunteers will help them to be better prepared to manage such
       disasters in future. '
     text_base: staff and volunteers will help them to be better prepared to manage
@@ -137,7 +137,7 @@
     line_number: 12
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'Lack of trained volunteers also hampered the operation. Implementation
       of all activities like beneficiary verification, '
     text_base: lack of trained volunteers also hampered the operation implementation
@@ -148,7 +148,7 @@
     line_number: 13
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'assessment, distribution, and monitoring was done by Red Cross staff, which
       in fact, could have been done by '
     text_base: assessment distribution and monitoring was done by red cross staff
@@ -159,7 +159,7 @@
     line_number: 14
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'volunteers. Hence, creation of a trained pool of volunteers is needed. '
     text_base: volunteers hence creation of a trained pool of volunteers is needed
     total_y: 12350.229736328125
@@ -168,7 +168,7 @@
     line_number: 16
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'Having gained experience of a large recovery operation, moving forward
       LRC should develop further SOPs and '
     text_base: having gained experience of a large recovery operation moving forward
@@ -179,7 +179,7 @@
     line_number: 17
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'conduct training at HQ and chapter level to be prepared for all eventualities.
       SOPs and training should focus on the '
     text_base: conduct training at hq and chapter level to be prepared for all eventualities
@@ -190,7 +190,7 @@
     line_number: 18
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'entire process from conducting needs assessments, community engagement,
       planning and preparation of activities '
     text_base: entire process from conducting needs assessments community engagement
@@ -201,7 +201,7 @@
     line_number: 19
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'through to implementation and monitoring. The LRC team would also benefit
       from trainings on templates for reporting, '
     text_base: through to implementation and monitoring the lrc team would also benefit
@@ -212,7 +212,7 @@
     line_number: 20
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'assessments, and monitoring, helping the team to embed practices into all
       projects as well as disaster response and '
     text_base: assessments and monitoring helping the team to embed practices into
@@ -223,7 +223,7 @@
     line_number: 21
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'recovery operations. As a part of the process of continual improvement
       LRC should engage with IFRC to implement '
     text_base: recovery operations as a part of the process of continual improvement
@@ -234,7 +234,7 @@
     line_number: 22
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'Preparedness for Effective Response (PER).  '
     text_base: preparedness for effective response per
     total_y: 12443.94970703125
@@ -243,7 +243,7 @@
     line_number: 24
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'IFRC will provide procurement and logistics training and capacity building
       support to the LRC, to better carry out '
     text_base: ifrc will provide procurement and logistics training and capacity building
@@ -254,7 +254,7 @@
     line_number: 25
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'significant procurement of materials. IFRC and LRC have identified the
       technical support needed when it comes to '
     text_base: significant procurement of materials ifrc and lrc have identified the
@@ -265,7 +265,7 @@
     line_number: 26
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'such large operations in Laos, to complement LRC staff and capacity and
       IFRC is including this in its operational plan '
     text_base: such large operations in laos to complement lrc staff and capacity
@@ -276,7 +276,7 @@
     line_number: 27
     page_number: 14
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'going forward. '
     text_base: going forward
     total_y: 12501.459716796875
@@ -289,7 +289,7 @@
     line_number: 0
     page_number: 14
     span_number: 0
-    style: 'Arial-BoldMT, 20, 0, #f4f4f4'
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
     text: 'Lessons Learned '
     text_base: lessons learned
     total_y: 12183.769744873047
@@ -299,7 +299,7 @@
     line_number: 2
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'Cash based interventions were new for the NS, and it took additional time
       and effort to understand and implement by '
     text_base: cash based interventions were new for the ns and it took additional
@@ -310,7 +310,7 @@
     line_number: 3
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'the NS team. LRC has gained a lot of valuable experience from this operation.
       Further support from IFRC in '
     text_base: the ns team lrc has gained a lot of valuable experience from this operation
@@ -321,7 +321,7 @@
     line_number: 4
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'development of disaster response and recovery SOPS and training for staff
       and volunteers will help them to be better '
     text_base: development of disaster response and recovery sops and training for
@@ -332,7 +332,7 @@
     line_number: 5
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'prepared to manage such disasters in future. '
     text_base: prepared to manage such disasters in future
     total_y: 14532.619689941406
@@ -341,7 +341,7 @@
     line_number: 7
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'From the experience of implementing a conditional cash programme, LRC is
       now more confident of implementing a '
     text_base: from the experience of implementing a conditional cash programme lrc
@@ -352,7 +352,7 @@
     line_number: 8
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'cash based programme that provides target households with more options
       in deciding what is best for them with the '
     text_base: cash based programme that provides target households with more options
@@ -363,7 +363,7 @@
     line_number: 9
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'flexibility to receive support based on a proposal that shows how the cash
       will be utilized to restart or build household '
     text_base: flexibility to receive support based on a proposal that shows how the
@@ -374,7 +374,7 @@
     line_number: 10
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'livelihoods. '
     text_base: livelihoods
     total_y: 14593.69970703125
@@ -383,7 +383,7 @@
     line_number: 12
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'Lack of trained volunteers also hampered the operation. Implementation
       of all activities like beneficiary verification, '
     text_base: lack of trained volunteers also hampered the operation implementation
@@ -394,7 +394,7 @@
     line_number: 13
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'assessment, distribution and monitoring was done by Red Cross staff, which
       in fact, could have been done by '
     text_base: assessment distribution and monitoring was done by red cross staff
@@ -405,7 +405,7 @@
     line_number: 14
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'volunteers. Hence, creation of a trained pool of volunteers is needed. '
     text_base: volunteers hence creation of a trained pool of volunteers is needed
     total_y: 14643.409698486328
@@ -414,7 +414,7 @@
     line_number: 16
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'Having gained experience of a large recovery operation, moving forward
       LRC should develop further SOPs and '
     text_base: having gained experience of a large recovery operation moving forward
@@ -425,7 +425,7 @@
     line_number: 17
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'conduct training at HQ and chapter level to be prepared for all eventualities.
       SOPs and training should focus on the '
     text_base: conduct training at hq and chapter level to be prepared for all eventualities
@@ -436,7 +436,7 @@
     line_number: 18
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'entire process from conducting needs assessments, community engagement,
       planning and preparation of activities '
     text_base: entire process from conducting needs assessments community engagement
@@ -447,7 +447,7 @@
     line_number: 19
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'through to implementation and monitoring. The LRC team would also benefit
       from trainings on templates for reporting, '
     text_base: through to implementation and monitoring the lrc team would also benefit
@@ -458,7 +458,7 @@
     line_number: 20
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'assessments and monitoring, helping the team to embed practices into all
       projects as well as disaster response and '
     text_base: assessments and monitoring helping the team to embed practices into
@@ -469,7 +469,7 @@
     line_number: 21
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'recovery operations. As a part of the process of continual improvement
       LRC should engage with IFRC to implement '
     text_base: recovery operations as a part of the process of continual improvement
@@ -480,7 +480,7 @@
     line_number: 22
     page_number: 17
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'Preparedness for Effective Response (PER).  '
     text_base: preparedness for effective response per
     total_y: 14737.129699707031
@@ -493,7 +493,7 @@
     line_number: 0
     page_number: 17
     span_number: 0
-    style: 'Arial-BoldMT, 20, 0, #f4f4f4'
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
     text: 'Lessons Learned '
     text_base: lessons learned
     total_y: 14472.499694824219
@@ -503,7 +503,7 @@
     line_number: 19
     page_number: 18
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'There is a requirement for LRC to have more trained personnel and volunteers
       that can be deployed to support a '
     text_base: there is a requirement for lrc to have more trained personnel and volunteers
@@ -514,7 +514,7 @@
     line_number: 20
     page_number: 18
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'disaster response or recovery operation, rather than relying on ad-hoc
       community based volunteers with little or no '
     text_base: disaster response or recovery operation rather than relying on ad hoc
@@ -525,7 +525,7 @@
     line_number: 21
     page_number: 18
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'training or experience. '
     text_base: training or experience
     total_y: 15865.419677734375
@@ -534,7 +534,7 @@
     line_number: 23
     page_number: 18
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'Further work is required to edit and adapt the health training packages
       and promotion guidelines to the Laos context '
     text_base: further work is required to edit and adapt the health training packages
@@ -545,7 +545,7 @@
     line_number: 24
     page_number: 18
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: and capacities of staff and volunteers. The LRC health team also needs to
       set participant criteria for health and first-
     text_base: and capacities of staff and volunteers the lrc health team also needs
@@ -556,7 +556,7 @@
     line_number: 25
     page_number: 18
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'aid trainings based on experience and existing capacity. '
     text_base: aid trainings based on experience and existing capacity
     total_y: 15911.495666503906
@@ -565,7 +565,7 @@
     line_number: 0
     page_number: 19
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'After trainings there is a need for HQ and chapters to monitor and conduct
       refresher training of staff and volunteers '
     text_base: after trainings there is a need for hq and chapters to monitor and
@@ -576,7 +576,7 @@
     line_number: 1
     page_number: 19
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'on an annual basis. In addition, the First Aid kits provided to volunteers,
       communities and schools needs to be checked '
     text_base: on an annual basis in addition the first aid kits provided to volunteers
@@ -587,7 +587,7 @@
     line_number: 2
     page_number: 19
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'every three to six months to ensure they are properly stocked and useable. '
     text_base: every three to six months to ensure they are properly stocked and useable
     total_y: 16077.359680175781
@@ -600,7 +600,7 @@
     line_number: 17
     page_number: 18
     span_number: 0
-    style: 'Arial-BoldMT, 20, 0, #f4f4f4'
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
     text: 'Lessons Learned '
     text_base: lessons learned
     total_y: 15816.819702148438
@@ -610,7 +610,7 @@
     line_number: 6
     page_number: 21
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'There should be a focus on increasing volunteer engagement and training.
       Hence, the maintenance of water '
     text_base: there should be a focus on increasing volunteer engagement and training
@@ -621,7 +621,7 @@
     line_number: 7
     page_number: 21
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: "purification units and training of volunteers for their upkeep needs to\
       \ be factored into the regular budget of LRC\u2019s "
     text_base: purification units and training of volunteers for their upkeep needs
@@ -632,7 +632,7 @@
     line_number: 8
     page_number: 21
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'operations. This will enable them to remain ready for deployment in case
       of any emergency.  '
     text_base: operations this will enable them to remain ready for deployment in
@@ -643,7 +643,7 @@
     line_number: 10
     page_number: 21
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'It will be beneficial for LRC HQ and chapters to improve coordination of
       WASH personnel to maintain good flow of '
     text_base: it will be beneficial for lrc hq and chapters to improve coordination
@@ -654,7 +654,7 @@
     line_number: 11
     page_number: 21
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'information and coordination. Contingency planning at HQ and chapters should
       be included in annual planning in '
     text_base: information and coordination contingency planning at hq and chapters
@@ -665,7 +665,7 @@
     line_number: 12
     page_number: 21
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'order to be prepared for potential disaster response requirements. '
     text_base: order to be prepared for potential disaster response requirements
     total_y: 18094.249633789062
@@ -678,7 +678,7 @@
     line_number: 4
     page_number: 21
     span_number: 0
-    style: 'Arial-BoldMT, 20, 0, #f4f4f4'
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
     text: 'Lessons Learned '
     text_base: lessons learned
     total_y: 17999.56964111328
@@ -688,7 +688,7 @@
     line_number: 2
     page_number: 23
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'As PGI and SGBV are technical areas in which it is possible to create further
       harm in communities, it is important to '
     text_base: as pgi and sgbv are technical areas in which it is possible to create
@@ -699,7 +699,7 @@
     line_number: 3
     page_number: 23
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'have adequately trained staff and volunteers. This makes having a proficient
       translator during community events and '
     text_base: have adequately trained staff and volunteers this makes having a proficient
@@ -710,7 +710,7 @@
     line_number: 4
     page_number: 23
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'trainings necessary, and PGI should be prioritized in this regard.  '
     text_base: trainings necessary and pgi should be prioritized in this regard
     total_y: 19612.57958984375
@@ -719,7 +719,7 @@
     line_number: 6
     page_number: 23
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'Early inclusion of PGI staff and focal points in the planning periods are
       necessary for sufficient mainstreaming. This '
     text_base: early inclusion of pgi staff and focal points in the planning periods
@@ -730,7 +730,7 @@
     line_number: 7
     page_number: 23
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'was done in the early planning period with LRC, but it was more of a coincidence
       than a planned event. '
     text_base: was done in the early planning period with lrc but it was more of a
@@ -741,7 +741,7 @@
     line_number: 9
     page_number: 23
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'A situation where additional trained staff could be allocated to support
       the PGI work would be required in future '
     text_base: a situation where additional trained staff could be allocated to support
@@ -752,7 +752,7 @@
     line_number: 10
     page_number: 23
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'disaster response work with LRC in order to ensure better overall program
       quality and to ensure that there are less '
     text_base: disaster response work with lrc in order to ensure better overall program
@@ -763,7 +763,7 @@
     line_number: 11
     page_number: 23
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'disruptions in planned activities.  '
     text_base: disruptions in planned activities
     total_y: 19699.48959350586
@@ -776,7 +776,7 @@
     line_number: 0
     page_number: 23
     span_number: 0
-    style: 'Arial-BoldMT, 20, 0, #f4f4f4'
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
     text: 'Lessons Learned '
     text_base: lessons learned
     total_y: 19561.219604492188
@@ -786,7 +786,7 @@
     line_number: 1
     page_number: 24
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'As mentioned earlier in this report, the EA operation has yielded several
       important lessons in working together '
     text_base: as mentioned earlier in this report the ea operation has yielded several
@@ -797,7 +797,7 @@
     line_number: 2
     page_number: 24
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'which are mainly related to technical and managerial capacity building
       of LRC. Accordingly, IFRC has planned '
     text_base: which are mainly related to technical and managerial capacity building
@@ -808,7 +808,7 @@
     line_number: 3
     page_number: 24
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'for the National Society enhancement activities mentioned above and is
       incorporating all the lessons learnt in its '
     text_base: for the national society enhancement activities mentioned above and
@@ -819,7 +819,7 @@
     line_number: 4
     page_number: 24
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'operational plan going forward. '
     text_base: operational plan going forward
     total_y: 20935.779541015625
@@ -832,7 +832,7 @@
     line_number: 0
     page_number: 24
     span_number: 0
-    style: 'Arial-BoldMT, 20, 0, #f4f4f4'
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
     text: 'Lessons Learned '
     text_base: lessons learned
     total_y: 20875.659545898438
@@ -842,7 +842,7 @@
     line_number: 11
     page_number: 26
     span_number: 0
-    style: 'ArialMT, 20, 0, #ffffff'
+    style: 'ArialMT, 20, #000000, #ffffff'
     text: 'LRC would benefit from having further development of logistics and procurement
       management SOPs and training at '
     text_base: lrc would benefit from having further development of logistics and
@@ -853,7 +853,7 @@
     line_number: 12
     page_number: 26
     span_number: 0
-    style: 'ArialMT, 20, 0, #ffffff'
+    style: 'ArialMT, 20, #000000, #ffffff'
     text: 'HQ and chapter level.  '
     text_base: hq and chapter level
     total_y: 22555.179565429688
@@ -862,7 +862,7 @@
     line_number: 0
     page_number: 26
     span_number: 0
-    style: 'ArialMT, 20, 0, #ffffff'
+    style: 'ArialMT, 20, #000000, #ffffff'
     text: 'LRC should consider creating the position of logistics manager to guide
       LRC logistics and procurement processes to '
     text_base: lrc should consider creating the position of logistics manager to guide
@@ -873,7 +873,7 @@
     line_number: 1
     page_number: 26
     span_number: 0
-    style: 'ArialMT, 20, 0, #ffffff'
+    style: 'ArialMT, 20, #000000, #ffffff'
     text: 'avoid delays in future operations. '
     text_base: avoid delays in future operations
     total_y: 22589.619506835938
@@ -886,7 +886,7 @@
     line_number: 9
     page_number: 26
     span_number: 0
-    style: 'Arial-BoldMT, 20, 0, #f4f4f4'
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
     text: 'Lessons Learned '
     text_base: lessons learned
     total_y: 22518.06951904297
@@ -896,7 +896,7 @@
     line_number: 2
     page_number: 27
     span_number: 0
-    style: 'ArialMT, 20, 0, #ffffff'
+    style: 'ArialMT, 20, #000000, #ffffff'
     text: 'The experience of their first EA operation has been valuable to LRC, and
       through strong technical support from '
     text_base: the experience of their first ea operation has been valuable to lrc
@@ -907,7 +907,7 @@
     line_number: 3
     page_number: 27
     span_number: 0
-    style: 'ArialMT, 20, 0, #ffffff'
+    style: 'ArialMT, 20, #000000, #ffffff'
     text: 'IFRC the capacity for implementation of large recovery programmes has improved. '
     text_base: ifrc the capacity for implementation of large recovery programmes has
       improved
@@ -917,7 +917,7 @@
     line_number: 5
     page_number: 27
     span_number: 0
-    style: 'ArialMT, 20, 0, #ffffff'
+    style: 'ArialMT, 20, #000000, #ffffff'
     text: 'The experience of implementing conditional cash based programme was new
       for LRC. The guidelines and SOPs '
     text_base: the experience of implementing conditional cash based programme was
@@ -928,7 +928,7 @@
     line_number: 6
     page_number: 27
     span_number: 0
-    style: 'ArialMT, 20, 0, #ffffff'
+    style: 'ArialMT, 20, #000000, #ffffff'
     text: 'developed for this program can be used to support affected communities
       in the future. '
     text_base: developed for this program can be used to support affected communities
@@ -943,7 +943,7 @@
     line_number: 0
     page_number: 27
     span_number: 0
-    style: 'Arial-BoldMT, 20, 0, #f4f4f4'
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
     text: 'Lessons Learned '
     text_base: lessons learned
     total_y: 23451.21954345703
@@ -953,7 +953,7 @@
     line_number: 1
     page_number: 28
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'By undertaking large conditional cash programme to support affected communities,
       LRC learnt a new modality of '
     text_base: by undertaking large conditional cash programme to support affected
@@ -964,7 +964,7 @@
     line_number: 2
     page_number: 28
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'program implementation, and have developed capacity at the HQ and chapter
       level to implement such projects in '
     text_base: program implementation and have developed capacity at the hq and chapter
@@ -975,7 +975,7 @@
     line_number: 3
     page_number: 28
     span_number: 0
-    style: ArialMT, 20, 0, None
+    style: 'ArialMT, 20, #000000, None'
     text: 'future. '
     text_base: future
     total_y: 24053.2294921875
@@ -988,7 +988,7 @@
     line_number: 0
     page_number: 28
     span_number: 0
-    style: 'Arial-BoldMT, 20, 0, #f4f4f4'
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
     text: 'Lessons Learned '
     text_base: lessons learned
     total_y: 24004.489501953125
