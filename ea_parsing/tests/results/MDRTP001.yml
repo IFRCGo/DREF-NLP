@@ -1,0 +1,510 @@
+- content:
+  - block_number: 5
+    index: 239
+    line_number: 2
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'A two-day review meeting of the storms and floods operation was organized
+      by CVTL in cooperation with '
+    text_base: a two day review meeting of the storms and floods operation was organized
+      by cvtl in cooperation with
+    total_y: 3795.3796997070312
+  - block_number: 5
+    index: 240
+    line_number: 3
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'Federation on 29-30 January 2007. Participants from five districts, as
+      well as disaster management, health, logistic '
+    text_base: federation on 29 30 january 2007 participants from five districts as
+      well as disaster management health logistic
+    total_y: 3808.0396423339844
+  - block_number: 5
+    index: 241
+    line_number: 4
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'and finance departments at headquarters attend the meeting and discussed
+      mainly on the following aspects: '
+    text_base: and finance departments at headquarters attend the meeting and discussed
+      mainly on the following aspects
+    total_y: 3820.6336975097656
+  - block_number: 5
+    index: 242
+    line_number: 5
+    page_number: 4
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 3834.0787048339844
+  - block_number: 5
+    index: 243
+    line_number: 5
+    page_number: 4
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'What achievements were  made, '
+    text_base: what achievements were made
+    total_y: 3834.0787048339844
+  - block_number: 6
+    index: 244
+    line_number: 0
+    page_number: 4
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 3847.5181884765625
+  - block_number: 6
+    index: 245
+    line_number: 0
+    page_number: 4
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'What was done well, '
+    text_base: what was done well
+    total_y: 3847.5181884765625
+  - block_number: 7
+    index: 246
+    line_number: 0
+    page_number: 4
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 3860.9577026367188
+  - block_number: 7
+    index: 247
+    line_number: 0
+    page_number: 4
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'What problems and difficulties were  encountered and  '
+    text_base: what problems and difficulties were encountered and
+    total_y: 3860.9577026367188
+  - block_number: 8
+    index: 248
+    line_number: 0
+    page_number: 4
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 3874.3973083496094
+  - block_number: 8
+    index: 249
+    line_number: 0
+    page_number: 4
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'What can be done better for the future. '
+    text_base: what can be done better for the future
+    total_y: 3874.3973083496094
+  - block_number: 9
+    index: 250
+    line_number: 1
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'The meeting revisited the past and made some recommendations for improvements
+      for the future programmes as '
+    text_base: the meeting revisited the past and made some recommendations for improvements
+      for the future programmes as
+    total_y: 3899.7171020507812
+  - block_number: 9
+    index: 251
+    line_number: 2
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'follows:   '
+    text_base: follows
+    total_y: 3912.3770751953125
+  - block_number: 9
+    index: 252
+    line_number: 3
+    page_number: 4
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 3925.8165893554688
+  - block_number: 9
+    index: 253
+    line_number: 3
+    page_number: 4
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'Limited staff members and capacity of the available staff and volunteers
+      were the main bottleneck in '
+    text_base: limited staff members and capacity of the available staff and volunteers
+      were the main bottleneck in
+    total_y: 3925.8165893554688
+  - block_number: 9
+    index: 254
+    line_number: 5
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'delivering services. Poor road condition and bad weather made delivering
+      materials to the community very '
+    text_base: delivering services poor road condition and bad weather made delivering
+      materials to the community very
+    total_y: 3938.4765625
+  - block_number: 9
+    index: 255
+    line_number: 6
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: "difficult and also limited the CVTL\u2019s service to the community. Therefore,\
+      \ it is important to develop "
+    text_base: difficult and also limited the cvtl s service to the community therefore
+      it is important to develop
+    total_y: 3951.070556640625
+  - block_number: 9
+    index: 256
+    line_number: 7
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'contingency plans at the beginning so that the over all operation would
+      not be affected.  '
+    text_base: contingency plans at the beginning so that the over all operation would
+      not be affected
+    total_y: 3963.7305297851562
+  - block_number: 10
+    index: 257
+    line_number: 0
+    page_number: 4
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 3977.1755981445312
+  - block_number: 10
+    index: 258
+    line_number: 0
+    page_number: 4
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'Lack of transportation support and poor communication means with the communities
+      and the national '
+    text_base: lack of transportation support and poor communication means with the
+      communities and the national
+    total_y: 3977.1755981445312
+  - block_number: 10
+    index: 259
+    line_number: 2
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'headquarters affected the operation. '
+    text_base: headquarters affected the operation
+    total_y: 3989.8355712890625
+  - block_number: 11
+    index: 260
+    line_number: 0
+    page_number: 4
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4003.2750244140625
+  - block_number: 11
+    index: 261
+    line_number: 0
+    page_number: 4
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'Project was not implemented in line with the original plan because of security
+      problems and the continuous '
+    text_base: project was not implemented in line with the original plan because
+      of security problems and the continuous
+    total_y: 4003.2750244140625
+  - block_number: 11
+    index: 262
+    line_number: 2
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'wet weather in the mountains. '
+    text_base: wet weather in the mountains
+    total_y: 4015.9349365234375
+  - block_number: 12
+    index: 263
+    line_number: 0
+    page_number: 4
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4029.37451171875
+  - block_number: 12
+    index: 264
+    line_number: 0
+    page_number: 4
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: "Community\u2019s involvement throughout the whole process \u2013 from operation\
+      \ planning through implementation "
+    text_base: community s involvement throughout the whole process from operation
+      planning through implementation
+    total_y: 4029.37451171875
+  - block_number: 12
+    index: 265
+    line_number: 2
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: "and monitoring \u2013 needs to improve. "
+    text_base: and monitoring needs to improve
+    total_y: 4042.034423828125
+  - block_number: 13
+    index: 266
+    line_number: 1
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPS-BoldMT, 22, #000000, None'
+    text: 'Recommendations:  '
+    text_base: recommendations
+    total_y: 4067.3543090820312
+  - block_number: 13
+    index: 267
+    line_number: 2
+    page_number: 4
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4080.7344970703125
+  - block_number: 13
+    index: 268
+    line_number: 2
+    page_number: 4
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: "Training and support needed to increase staff and volunteers\u2019 skill\
+      \ and knowledge about project management "
+    text_base: training and support needed to increase staff and volunteers skill
+      and knowledge about project management
+    total_y: 4080.7344970703125
+  - block_number: 13
+    index: 269
+    line_number: 4
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'and implementation. Moreover, it is important to increase overall organizational
+      capacity to manage '
+    text_base: and implementation moreover it is important to increase overall organizational
+      capacity to manage
+    total_y: 4093.3944091796875
+  - block_number: 13
+    index: 270
+    line_number: 5
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'emergency operations.  '
+    text_base: emergency operations
+    total_y: 4106.054382324219
+  - block_number: 14
+    index: 271
+    line_number: 0
+    page_number: 4
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4119.493896484375
+  - block_number: 14
+    index: 272
+    line_number: 0
+    page_number: 4
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'Improved communication with government, community and stakeholders is important.
+      This could be '
+    text_base: improved communication with government community and stakeholders is
+      important this could be
+    total_y: 4119.493896484375
+  - block_number: 14
+    index: 273
+    line_number: 2
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'facilitated through a better coordination mechanism.  '
+    text_base: facilitated through a better coordination mechanism
+    total_y: 4132.15380859375
+  - block_number: 0
+    index: 274
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4294.599670410156
+  - block_number: 0
+    index: 275
+    line_number: 0
+    page_number: 5
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'Improvements in the framework for working with communities required. There
+      is a need to work together with '
+    text_base: improvements in the framework for working with communities required
+      there is a need to work together with
+    total_y: 4294.599670410156
+  - block_number: 0
+    index: 276
+    line_number: 2
+    page_number: 5
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'communities and develop community-based approaches to increase their participation
+      in emergency '
+    text_base: communities and develop community based approaches to increase their
+      participation in emergency
+    total_y: 4307.259582519531
+  - block_number: 0
+    index: 277
+    line_number: 3
+    page_number: 5
+    span_number: 0
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'operations.  '
+    text_base: operations
+    total_y: 4319.919494628906
+  - block_number: 1
+    index: 278
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4333.359069824219
+  - block_number: 1
+    index: 279
+    line_number: 0
+    page_number: 5
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'Improvements in transportation and communication to support the community
+      needed.  '
+    text_base: improvements in transportation and communication to support the community
+      needed
+    total_y: 4333.359069824219
+  - block_number: 2
+    index: 280
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4346.798583984375
+  - block_number: 2
+    index: 281
+    line_number: 0
+    page_number: 5
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'Radio communication and the volunteer networks need to be strengthened
+      for this purpose.  '
+    text_base: radio communication and the volunteer networks need to be strengthened
+      for this purpose
+    total_y: 4346.798583984375
+  - block_number: 3
+    index: 282
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4360.238098144531
+  - block_number: 3
+    index: 283
+    line_number: 0
+    page_number: 5
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'Activities need to be carried out according to the plan.  '
+    text_base: activities need to be carried out according to the plan
+    total_y: 4360.238098144531
+  - block_number: 4
+    index: 284
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4373.677673339844
+  - block_number: 4
+    index: 285
+    line_number: 0
+    page_number: 5
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'Operation schedule to be developed in consultation with districts as well. '
+    text_base: operation schedule to be developed in consultation with districts as
+      well
+    total_y: 4373.677673339844
+  - block_number: 5
+    index: 286
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4387.1171875
+  - block_number: 5
+    index: 287
+    line_number: 0
+    page_number: 5
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'Regular monitoring, reporting and evaluation should be in place. '
+    text_base: regular monitoring reporting and evaluation should be in place
+    total_y: 4387.1171875
+  - block_number: 6
+    index: 288
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'SymbolMT, 22, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4400.556701660156
+  - block_number: 6
+    index: 289
+    line_number: 0
+    page_number: 5
+    span_number: 1
+    style: 'TimesNewRomanPSMT, 22, #000000, None'
+    text: 'Evaluation should be done by a third party to avoid biases. '
+    text_base: evaluation should be done by a third party to avoid biases
+    total_y: 4400.556701660156
+  sector_idx: null
+  sector_similarity_score: null
+  sector_title: null
+  title:
+    block_number: 5
+    idx: 238
+    line_number: 1
+    page_number: 4
+    span_number: 0
+    style: 'TimesNewRomanPS-BoldMT, 24, #000000, None'
+    text: 'Lessons Learned: '
+    text_base: lessons learned
+    total_y: 3782.5997009277344
