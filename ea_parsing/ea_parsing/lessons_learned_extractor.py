@@ -137,9 +137,17 @@ class LessonsLearnedExtractor:
                 if self.get_lessons_learned_covered_by_sector(sector_idx, sector_idxs)
             }
         )
-        sector_title_styles['Number lessons learned covered'] = sector_title_styles['Lessons learned covered'].apply(lambda x: x if x is None else len(x))
 
-        # Get distance from lessons learned
+        # Drop repeat lessons learned sections, keep sector title which is closest
+        sector_title_styles['Lessons learned covered'] = sector_title_styles['Lessons learned covered'].apply(
+            lambda results:
+                pd.DataFrame(index=results.keys(), data=results.values()).sort_values(by='distance', ascending=True).drop_duplicates(subset='idx', keep='first').to_dict('index')
+                if results 
+                else results
+        )
+        
+        # Get total and distance from lessons learned
+        sector_title_styles['Number lessons learned covered'] = sector_title_styles['Lessons learned covered'].apply(lambda x: x if x is None else len(x))
         sector_title_styles['Distance from lessons learned'] = sector_title_styles['Lessons learned covered'].apply(lambda x: float(np.mean([v['distance'] for k,v in x.items()]) if x else float('nan')))
         
         # Select the largest style that covers most lessons learned sections
