@@ -101,7 +101,8 @@ class Appeal:
         documents = [
             AppealDocument(
                 document_url=data['document_url'], 
-                name=data['name']
+                name=data['name'],
+                created_at=data['created_at']
             )
             for data in documents_data
         ]
@@ -124,21 +125,22 @@ class Appeal:
             return None
         
         if len(final_reports) > 1:
-            final_reports = [document for document in final_reports if ('prelim' not in document['name'].lower())]
+            final_reports = [document for document in final_reports if ('prelim' not in document.name.lower())]
 
         if len(final_reports) > 1:
-            final_reports = sorted(final_reports, key=lambda d: d['created_at'], reverse=True)
+            final_reports = sorted(final_reports, key=lambda d: d.created_at, reverse=True)
 
         return final_reports[0]
 
 
 
 class AppealDocument:
-    def __init__(self, name, document_url):
+    def __init__(self, name, document_url, created_at):
         """
         """
         self.name = name
         self.document_url = document_url
+        self.created_at = created_at
 
 
     @cached_property
