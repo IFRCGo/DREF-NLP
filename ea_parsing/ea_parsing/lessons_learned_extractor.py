@@ -267,8 +267,9 @@ class LessonsLearnedExtractor:
         """
         # Lessons learned section should only contain text lower than the title
         section_lines = self.document.lines.loc[
-            self.document.lines['total_y'] > title['total_y']
+            self.document.lines['total_y'] >= title['total_y']
         ]
+        section_lines = section_lines.drop(title.name)
 
         # Lessons learned section must end before the next lessons learned section
         next_lessons_learned = self.lessons_learned_titles.loc[
