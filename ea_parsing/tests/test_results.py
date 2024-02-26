@@ -21,8 +21,8 @@ class TestResults(unittest.TestCase):
             lessons_learned_results[mdr_code] = yaml.safe_load(open(os.path.join(TESTS_DIR, 'results', file)))
 
         # Loop through results
-        for mdr_code, validated_results in lessons_learned_results.items():
-            with self.subTest(msg=mdr_code):
+        for i, (mdr_code, validated_results) in enumerate(lessons_learned_results.items()):
+            with self.subTest(i=i, msg=mdr_code):
 
                 # Get appeal final report
                 appeal = Appeal(mdr_code=mdr_code)
@@ -32,5 +32,5 @@ class TestResults(unittest.TestCase):
                 # Compare results
                 self.assertTrue(
                     lessons_learned == validated_results, 
-                    f'Results do not match expected results for MDR code {mdr_code}\n\nResults:\n{lessons_learned}\n\nExpected results:\n{validated_results}'
+                    f'Results do not match expected results for MDR code: {mdr_code}'
                 )
