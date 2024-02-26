@@ -80,7 +80,8 @@ def strip_filler_words(text):
 
 def colour_diff(colour1, colour2):
     """
-    Find the difference between two colours
+    Find the difference between two colours.
+    Both colours must be in hex format.
     """
     # If both nan, return True
     if (colour1!=colour1) and (colour2!=colour2):
@@ -93,21 +94,16 @@ def colour_diff(colour1, colour2):
         if colour1==colour2:
             return 0
         
-        # Convert colour to RGB
-        colours = [colour1, colour2]
-        for i, colour in enumerate(colours):
-
-            # Convert to RGB
-            if not ((type(colour) is list) or (type(colour) is tuple)):
-                if not isinstance(colour, str):
-                    colour = hex(int(colour)).replace("0x", "")
-                if colour=='0':
-                    colour=colour*6
-                colours[i] = tuple(int(str(colour).lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
+        # Convert hex to RGB
+        colour1 = tuple(int(str(colour1).lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
+        colour2 = tuple(int(str(colour2).lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
 
         # Calculate distance, and normalize to 1
-        colour1, colour2 = colours
-        distance = sqrt((colour1[0] - colour2[0])**2 + (colour1[1] - colour2[1])**2 + (colour1[2] - colour2[2])**2)/sqrt(3*(255**2))
+        distance = sqrt(
+            (colour1[0] - colour2[0])**2 + 
+            (colour1[1] - colour2[1])**2 + 
+            (colour1[2] - colour2[2])**2
+        )/sqrt(3*(255**2))
         
         return distance
     
