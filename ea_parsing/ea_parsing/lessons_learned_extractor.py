@@ -221,7 +221,8 @@ class LessonsLearnedExtractor:
             # If only one lessons learned, impose stricter rule: sector section ends at next titley title
             sector_bounds = self.document.lines.loc[sector_idx:]
             if self.number_of_lessons_learned_sections <= 1:
-                sector_bounds = sector_bounds.cut_at_more_titley_title(sector_title_line)
+                sector_bounds = sector_bounds.iloc[1:].cut_at_more_titley_title(sector_title_line)
+
             if next_lessons_learned['total_y'] < sector_bounds['total_y'].max():
                 
                 # Get the sectors after the given sector_idx
