@@ -12,6 +12,25 @@ class LessonsLearnedExtractor:
         self.lessons_learned_title_texts = ea_parsing.definitions.LESSONS_LEARNED_TITLES
 
 
+    @cached_property
+    def lessons_learned_titles(self):
+        """
+        Get lessons learned titles
+        """
+        lessons_learned_titles = self.document.titles.loc[
+            self.document.titles['text_base'].isin(self.lessons_learned_title_texts)
+        ]
+        return lessons_learned_titles
+
+
+    @property
+    def number_of_lessons_learned_sections(self):
+        """
+        Total number of lessons learned sections in the document.
+        """
+        return int(len(lessons_learned_titles))
+
+
     def get_lessons_learned(self, document):
         """
         Get lessons learned
@@ -58,17 +77,6 @@ class LessonsLearnedExtractor:
             lessons_learned.append(lessons_learned_details)
 
         return lessons_learned
-
-
-    @cached_property
-    def lessons_learned_titles(self):
-        """
-        Get lessons learned titles
-        """
-        lessons_learned_titles = self.document.titles.loc[
-            self.document.titles['text_base'].isin(self.lessons_learned_title_texts)
-        ]
-        return lessons_learned_titles
 
     
     def get_lessons_learned_sectors(self, sectors):
@@ -129,14 +137,13 @@ class LessonsLearnedExtractor:
             .set_index('style')
 
         # Get which sector idxs correspond to lessons learned
-        sector_title_styles['Lessons learned covered'] = sector_title_styles['Sector title indexes']\
-            .apply(
-                lambda sector_idxs: {
-                    sector_idx: self.get_next_lessons_learned(sector_idx, sector_idxs) 
-                    for sector_idx in sector_idxs 
-                    if self.get_next_lessons_learned(sector_idx, sector_idxs)
-                }
-            )
+        sector_title_styles['Lessons learned covered'] = sector_title_styles['Sector title indexes'].apply(
+            lambda sector_idxs: {
+                sector_idx: self.get_lessons_learned_covered(sector_idx, sector_idxs)
+                for sector_idx in sector_idxs
+                if self.get_lessons_learned_covered(sector_idx, sector_idxs)
+            }
+        )
         sector_title_styles['Number lessons learned covered'] = sector_title_styles['Lessons learned covered'].apply(lambda x: x if x is None else len(x))
 
         # Get distance from lessons learned
@@ -165,7 +172,7 @@ class LessonsLearnedExtractor:
                 .index\
                 .to_series()\
                 .apply(
-                    lambda sector_idx: self.get_next_lessons_learned(
+                    lambda sector_idx: self.get_lessons_learned_covered(
                         sector_idx, 
                         self.sectors_lessons_learned_map
                     )
@@ -191,54 +198,64 @@ class LessonsLearnedExtractor:
                     sectors.drop(best_sector.name, inplace=True)
 
 
-    def get_next_lessons_learned(self, sector_idx, sector_idxs):
+    def get_lessons_learned_covered(self, sector_idx, sector_idxs):
         """
-        Get the next unmatched lessons learned index in the document after the sector position at sector_idx, unless there is a sector index first (in sector_idxs). Compare by vertical position in the whole document.
-
-        Parameters
-        ----------
-        sector_idx : int (required)
-            Index of the sector title to get the next lessons learned section for.
-
-        sector_idxs : list of ints (required)
-            List of indexes of known sector titles.
+        Get lessons learned covered by the sector at sector_idx, given the other sectors at sector_idxs.
         """
-        # The lessons learned must be in the sector section
-        # Define the sector section as before the next "more titley" title
-        sector_section = self.document.lines.loc[sector_idx:]
-
-        # Get y position of sectors and lessons learned
-        sector_idx_position = self.document.lines.loc[sector_idx, ['page_number', 'total_y']]
-        sector_idxs_positions = self.document.lines.loc[list(sector_idxs), ['page_number', 'total_y']]
-        unmatched_lessons_learned_positions = self.document.lines.loc[self.unmatched_lessons_learned, ['page_number', 'total_y']]
-        
-        # Get the sectors and lessons learned which are after the sector - compare vertical position
-        next_sector_idxs = sector_idxs_positions.loc[
-            sector_idxs_positions['total_y'] > sector_idx_position['total_y']
-        ].sort_values(by=['total_y'], ascending=True)
-        next_lessons_learned_idxs = unmatched_lessons_learned_positions.loc[
-            unmatched_lessons_learned_positions['total_y'] > sector_idx_position['total_y']
-        ].sort_values(by=['total_y'], ascending=True)
-
-        # Loop through next lessons learned section indexes, and return if before the nearest sector index
+        # Get the lessons learned after the sector_idx
+        next_lessons_learned_idxs = self.get_idxs_after_idx(
+            idx=sector_idx,
+            idxs=self.unmatched_lessons_learned
+        )
         if not next_lessons_learned_idxs.empty:
             next_lessons_learned = next_lessons_learned_idxs.iloc[0]
+
+            sector_idx_y = self.document.lines.loc[sector_idx, 'total_y']
             next_lessons_learned_distance = {
                 "idx": next_lessons_learned.name,
-                "distance": next_lessons_learned['total_y'] - sector_idx_position['total_y']
+                "distance": next_lessons_learned['total_y'] - sector_idx_y
             }
 
             # If lessons learned is before the end of the sector section
-            if next_lessons_learned['total_y'] < sector_section['total_y'].max():
+            sector_bounds = self.document.lines.loc[sector_idx:]
+            if next_lessons_learned['total_y'] < sector_bounds['total_y'].max():
+                
+                # Get the sectors after the given sector_idx
+                next_sector_idxs = self.get_idxs_after_idx(
+                    idx=sector_idx,
+                    idxs=sector_idxs
+                )
 
-                # If no sectors, return the nearest lessons learned section
+                # If no sectors, return the lessons learned section
                 if next_sector_idxs.empty:
                     return next_lessons_learned_distance
                 
                 # If lessons learned section is nearer than the section, return it
-                next_sector = next_sector_idxs.iloc[0]
-                if next_lessons_learned['total_y'] < next_sector['total_y']:
-                    return next_lessons_learned_distance
+                else:
+                    next_sector = next_sector_idxs.iloc[0]
+                    if next_lessons_learned['total_y'] < next_sector['total_y']:
+                        return next_lessons_learned_distance
+
+
+    def get_idxs_after_idx(self, idx, idxs):
+        """
+        Get idxs after a given idx, comparing by total_y.
+
+        Parameters
+        ----------
+        idx : int (required)
+            Index to get the next lessons learned section after.
+        """
+        # Get y position of idx and idxs
+        idx_position = self.document.lines.loc[idx]
+        idxs_positions = self.document.lines.loc[list(idxs)]
+        
+        # Get the lessons learned which are after the idx - compare vertical position
+        idxs_after = idxs_positions.loc[
+            idxs_positions['total_y'] > idx_position['total_y']
+        ].sort_values(by=['total_y'], ascending=True)
+
+        return idxs_after
 
 
     def get_lessons_learned_section_lines(self, title):
