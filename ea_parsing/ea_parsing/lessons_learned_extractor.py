@@ -4,12 +4,31 @@ from functools import cached_property
 import numpy as np
 import pandas as pd
 import ea_parsing.definitions
+from ea_parsing.utils import generate_sentence_variations
 
 
 class LessonsLearnedExtractor:
     def __init__(self):
+        pass
 
-        self.lessons_learned_title_texts = ea_parsing.definitions.LESSONS_LEARNED_TITLES
+    
+    @cached_property
+    def lessons_learned_title_texts(self):
+        """
+        Get the lessons learned title texts, including abbreviations.
+        """
+        # Get all possible title variations, considering abbreviations
+        lessons_learned_title_texts = []
+        lessons_learned_titles_details = ea_parsing.definitions.LESSONS_LEARNED_TITLES
+        abbreviations = lessons_learned_titles_details['abbreviations']
+        for title in lessons_learned_titles_details['titles']:
+
+            lessons_learned_title_texts += generate_sentence_variations(
+                    sentence=title, 
+                    abbreviations=abbreviations
+            )
+
+        return lessons_learned_title_texts
 
 
     @cached_property

@@ -1,4 +1,5 @@
 import re
+import itertools
 import io
 from math import sqrt
 from statistics import mean
@@ -21,6 +22,26 @@ def replace_phrases_in_sentence(phrases, repl, sentence):
         replaced = re.sub(r"\b{}\b".format(phrase), repl, replaced)
     replaced = re.sub(' +', ' ', replaced)
     return replaced
+
+
+def generate_sentence_variations(sentence, abbreviations):
+    """
+    Given a sentence, sentence, and possible abbreviations, abbreviations, generate all possible sentences with different abbreviation options.
+    """
+    # Find which abbreviations are in sentence
+    lsources = [phrase for phrase in abbreviations if phrase_in_sentence(phrase, sentence)]
+    ldests = [[phrase]+abbreviations[phrase] for phrase in lsources]
+
+    # Generate the various pairings
+    sentence_options = []
+    for lproduct in itertools.product(*ldests):
+        output = sentence
+        for src, dest in zip(lsources, lproduct):
+            output = replace_phrases_in_sentence(src, dest, output)
+
+        sentence_options.append(output)
+
+    return sentence_options
 
 
 def contains(bbox1, bbox2):

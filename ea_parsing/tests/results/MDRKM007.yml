@@ -1,0 +1,279 @@
+- content:
+  - block_number: 6
+    index: 317
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'Given the limited funding received, only 7% of the identified needs were
+      able to be covered through the operation; '
+    text_base: given the limited funding received only 7 of the identified needs were
+      able to be covered through the operation
+    total_y: 4596.739898681641
+  - block_number: 6
+    index: 318
+    line_number: 1
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'therefore with the support of the IFRC, developed an advocacy campaign  at
+      local level in collaboration with UN '
+    text_base: therefore with the support of the ifrc developed an advocacy campaign
+      at local level in collaboration with un
+    total_y: 4608.2598876953125
+  - block_number: 6
+    index: 319
+    line_number: 2
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'agencies (UNICEF, UNDP, WFP). This campaign  at the local level contributed
+      to the achievement of results in the '
+    text_base: agencies unicef undp wfp this campaign at the local level contributed
+      to the achievement of results in the
+    total_y: 4619.719909667969
+  - block_number: 6
+    index: 320
+    line_number: 3
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'shelter sector which were unmet by the EA; but able to be addressed in
+      cooperation with other organizations.. This '
+    text_base: shelter sector which were unmet by the ea but able to be addressed
+      in cooperation with other organizations this
+    total_y: 4631.2598876953125
+  - block_number: 6
+    index: 321
+    line_number: 4
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'suggests that CoRC should explore the potential for strengthening local
+      partnership and opportunities for resource '
+    text_base: suggests that corc should explore the potential for strengthening local
+      partnership and opportunities for resource
+    total_y: 4642.7799072265625
+  - block_number: 6
+    index: 322
+    line_number: 5
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'mobilisation at the country level, especially in advance of another disaster
+      situation.  '
+    text_base: mobilisation at the country level especially in advance of another
+      disaster situation
+    total_y: 4654.239898681641
+  - block_number: 6
+    index: 323
+    line_number: 7
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Another lesson learned is the advantage of community participation. In
+      localities where the CoRC has established '
+    text_base: another lesson learned is the advantage of community participation
+      in localities where the corc has established
+    total_y: 4677.2799072265625
+  - block_number: 6
+    index: 324
+    line_number: 8
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: '77 community management committees, it did not encounter any difficulties
+      in targeting within the affected '
+    text_base: 77 community management committees it did not encounter any difficulties
+      in targeting within the affected
+    total_y: 4688.739898681641
+  - block_number: 6
+    index: 325
+    line_number: 9
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'population (identifying the recipients) or implementation of the activities
+      planned (relief distributions). However, in '
+    text_base: population identifying the recipients or implementation of the activities
+      planned relief distributions however in
+    total_y: 4700.2598876953125
+  - block_number: 6
+    index: 326
+    line_number: 10
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'localities where community management committees had not been established,
+      targeting, selection and planning '
+    text_base: localities where community management committees had not been established
+      targeting selection and planning
+    total_y: 4711.7799072265625
+  - block_number: 6
+    index: 327
+    line_number: 11
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'and implemention was more challenging, resulting in delays in reaching
+      the affected population with necessary '
+    text_base: and implemention was more challenging resulting in delays in reaching
+      the affected population with necessary
+    total_y: 4723.239929199219
+  - block_number: 6
+    index: 328
+    line_number: 12
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'assistance.  '
+    text_base: assistance
+    total_y: 4734.7598876953125
+  sector_idx: 217
+  sector_similarity_score: 1.0
+  sector_title: Shelter, Housing and Settlements
+  title:
+    block_number: 5
+    idx: 316
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: 'Lesson learned '
+    text_base: lesson learned
+    total_y: 4583.719909667969
+- content:
+  - block_number: 14
+    index: 402
+    line_number: 0
+    page_number: 6
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'CoRC benefited from a good coordination with other organizations during
+      the implementation of the response to '
+    text_base: corc benefited from a good coordination with other organizations during
+      the implementation of the response to
+    total_y: 5627.7398681640625
+  - block_number: 14
+    index: 403
+    line_number: 1
+    page_number: 6
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'TC Kenneth (MoH, UNICEF, WHO etc.) '
+    text_base: tc kenneth moh unicef who etc
+    total_y: 5639.199890136719
+  sector_idx: 329
+  sector_similarity_score: 1.0
+  sector_title: Health and Care
+  title:
+    block_number: 13
+    idx: 401
+    line_number: 0
+    page_number: 6
+    span_number: 0
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 5611.4798583984375
+- content:
+  - block_number: 17
+    index: 491
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'Establishment of a National Community Platform facilitated the decision
+      to construct 10 latrines as it enabled '
+    text_base: establishment of a national community platform facilitated the decision
+      to construct 10 latrines as it enabled
+    total_y: 6628.619873046875
+  - block_number: 17
+    index: 492
+    line_number: 1
+    page_number: 7
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'consultation with the targeted population on the lack of financial resources
+      to construct the intended 50; and enabled '
+    text_base: consultation with the targeted population on the lack of financial
+      resources to construct the intended 50 and enabled
+    total_y: 6640.079895019531
+  - block_number: 17
+    index: 493
+    line_number: 2
+    page_number: 7
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'their participation in the selection of benefitting schools.  Through this
+      operation, a lesson learned was to have better '
+    text_base: their participation in the selection of benefitting schools through
+      this operation a lesson learned was to have better
+    total_y: 6651.599853515625
+  - block_number: 17
+    index: 494
+    line_number: 3
+    page_number: 7
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'community engagement for accountability and transparency. It encourages
+      a positive image of the CoRC within the '
+    text_base: community engagement for accountability and transparency it encourages
+      a positive image of the corc within the
+    total_y: 6663.119873046875
+  - block_number: 17
+    index: 495
+    line_number: 4
+    page_number: 7
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'affected population '
+    text_base: affected population
+    total_y: 6674.579895019531
+  sector_idx: 404
+  sector_similarity_score: 1.0
+  sector_title: Water, Sanitation and Hygiene
+  title:
+    block_number: 16
+    idx: 490
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 6614.4598388671875
+- content:
+  - block_number: 24
+    index: 551
+    line_number: 0
+    page_number: 8
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'CoRC benefited from a good coordination with other organizations during
+      the implementation of the response to TC '
+    text_base: corc benefited from a good coordination with other organizations during
+      the implementation of the response to tc
+    total_y: 7262.919860839844
+  - block_number: 24
+    index: 552
+    line_number: 1
+    page_number: 8
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Kenneth (MoH, UNICEF, WHO etc.) '
+    text_base: kenneth moh unicef who etc
+    total_y: 7274.4398193359375
+  sector_idx: 496
+  sector_similarity_score: 1.0
+  sector_title: National Society Strengthening
+  title:
+    block_number: 23
+    idx: 550
+    line_number: 2
+    page_number: 8
+    span_number: 0
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
+    text: 'Lessons learnt '
+    text_base: lessons learnt
+    total_y: 7246.659851074219
