@@ -373,7 +373,7 @@ class AppealDocument:
         sector_titles = self.headings.copy()
 
         # Get only sector titles in the "Detailed operational plan" section, if it exists
-        detailed_operational_plan_titles = sector_titles.loc[sector_titles['text_base']=='c detailed operational plan']
+        detailed_operational_plan_titles = sector_titles.loc[sector_titles['text_base'].isin(['c detailed operational plan', 'c detailed operational report'])]
         if not detailed_operational_plan_titles.empty:
             sector_titles = sector_titles.loc[sector_titles['total_y'] > detailed_operational_plan_titles['total_y'].min()]
 
