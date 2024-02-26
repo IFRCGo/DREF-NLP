@@ -1,0 +1,519 @@
+- content:
+  - block_number: 5
+    index: 339
+    line_number: 3
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: "At the end of the Emergency Appeal operation a lesson learnt workshop held,\
+      \ including all operation\u2019s key actors "
+    text_base: at the end of the emergency appeal operation a lesson learnt workshop
+      held including all operation s key actors
+    total_y: 4356.7698974609375
+  - block_number: 5
+    index: 340
+    line_number: 4
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: "(MRC headquarters and field staff, MRC volunteers, IFRC field team, IFRC\
+      \ Dakar CCST staff, households\u2019 "
+    text_base: mrc headquarters and field staff mrc volunteers ifrc field team ifrc
+      dakar ccst staff households
+    total_y: 4368.2899169921875
+  - block_number: 5
+    index: 341
+    line_number: 5
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'representatives and humanitarian partners). The workshop enabled to identify
+      key successes and challenges and '
+    text_base: representatives and humanitarian partners the workshop enabled to identify
+      key successes and challenges and
+    total_y: 4379.809875488281
+  - block_number: 5
+    index: 342
+    line_number: 6
+    page_number: 5
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'listed recommendations for the MRC and the IFRC:   '
+    text_base: listed recommendations for the mrc and the ifrc
+    total_y: 4391.329895019531
+  - block_number: 6
+    index: 343
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4403.569885253906
+  - block_number: 6
+    index: 344
+    line_number: 0
+    page_number: 5
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Practicing more targeting to limit errors  '
+    text_base: practicing more targeting to limit errors
+    total_y: 4403.569885253906
+  - block_number: 7
+    index: 345
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4415.569885253906
+  - block_number: 7
+    index: 346
+    line_number: 0
+    page_number: 5
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Include Arabic in the questionnaire '
+    text_base: include arabic in the questionnaire
+    total_y: 4415.569885253906
+  - block_number: 8
+    index: 347
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4427.829895019531
+  - block_number: 8
+    index: 348
+    line_number: 0
+    page_number: 5
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Prioritize market analysis for a future operation '
+    text_base: prioritize market analysis for a future operation
+    total_y: 4427.829895019531
+  - block_number: 9
+    index: 349
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4440.069885253906
+  - block_number: 9
+    index: 350
+    line_number: 0
+    page_number: 5
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Anticipate the issue of cash amounts to be distributed in doing a market
+      analysis '
+    text_base: anticipate the issue of cash amounts to be distributed in doing a market
+      analysis
+    total_y: 4440.069885253906
+  - block_number: 10
+    index: 351
+    line_number: 0
+    page_number: 5
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 4452.069885253906
+  - block_number: 10
+    index: 352
+    line_number: 0
+    page_number: 5
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Set-up cooperatives for female beneficiaries of cash '
+    text_base: set up cooperatives for female beneficiaries of cash
+    total_y: 4452.069885253906
+  sector_idx: 205
+  sector_similarity_score: 1.0
+  sector_title: Livelihoods
+  title:
+    block_number: 5
+    idx: 338
+    line_number: 1
+    page_number: 5
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons Learned
+    text_base: lessons learned
+    total_y: 4330.819885253906
+- content:
+  - block_number: 3
+    index: 426
+    line_number: 22
+    page_number: 6
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'The following recommendations resulted from the Lessons learnt workshop  '
+    text_base: the following recommendations resulted from the lessons learnt workshop
+    total_y: 5374.89990234375
+  - block_number: 4
+    index: 427
+    line_number: 0
+    page_number: 6
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 5386.899871826172
+  - block_number: 4
+    index: 428
+    line_number: 0
+    page_number: 6
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Increase the awareness sessions '
+    text_base: increase the awareness sessions
+    total_y: 5386.899871826172
+  - block_number: 5
+    index: 429
+    line_number: 0
+    page_number: 6
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 5399.139892578125
+  - block_number: 5
+    index: 430
+    line_number: 0
+    page_number: 6
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Ensure an optimal communication with households '
+    text_base: ensure an optimal communication with households
+    total_y: 5399.139892578125
+  - block_number: 6
+    index: 431
+    line_number: 0
+    page_number: 6
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 5411.3798828125
+  - block_number: 6
+    index: 432
+    line_number: 0
+    page_number: 6
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Simplify the procurement procedures  '
+    text_base: simplify the procurement procedures
+    total_y: 5411.3798828125
+  - block_number: 7
+    index: 433
+    line_number: 0
+    page_number: 6
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 5423.399871826172
+  - block_number: 7
+    index: 434
+    line_number: 0
+    page_number: 6
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Involve the nutritionist in the entire process of the procurement of the
+      enriched flour  '
+    text_base: involve the nutritionist in the entire process of the procurement of
+      the enriched flour
+    total_y: 5423.399871826172
+  - block_number: 8
+    index: 435
+    line_number: 0
+    page_number: 6
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 5435.639892578125
+  - block_number: 8
+    index: 436
+    line_number: 0
+    page_number: 6
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Dedicate more time and resources to distribution activities '
+    text_base: dedicate more time and resources to distribution activities
+    total_y: 5435.639892578125
+  sector_idx: 353
+  sector_similarity_score: 1.0
+  sector_title: Health and Care
+  title:
+    block_number: 3
+    idx: 425
+    line_number: 20
+    page_number: 6
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons Learned
+    text_base: lessons learned
+    total_y: 5348.9798583984375
+- content:
+  - block_number: 12
+    index: 502
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'The following recommendations resulted from the Lessons learnt workshop  '
+    text_base: the following recommendations resulted from the lessons learnt workshop
+    total_y: 6404.059875488281
+  - block_number: 13
+    index: 503
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 6416.299865722656
+  - block_number: 13
+    index: 504
+    line_number: 0
+    page_number: 7
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Comply with the action plan '
+    text_base: comply with the action plan
+    total_y: 6416.299865722656
+  - block_number: 14
+    index: 505
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 6428.539855957031
+  - block_number: 14
+    index: 506
+    line_number: 0
+    page_number: 7
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Anticipate operational challenges '
+    text_base: anticipate operational challenges
+    total_y: 6428.539855957031
+  - block_number: 15
+    index: 507
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 6440.569885253906
+  - block_number: 15
+    index: 508
+    line_number: 0
+    page_number: 7
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Clarify communication lines for a future operation '
+    text_base: clarify communication lines for a future operation
+    total_y: 6440.569885253906
+  - block_number: 16
+    index: 509
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 6452.809875488281
+  - block_number: 16
+    index: 510
+    line_number: 0
+    page_number: 7
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Improve IFRC validation process within '
+    text_base: improve ifrc validation process within
+    total_y: 6452.809875488281
+  - block_number: 17
+    index: 511
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 6465.049865722656
+  - block_number: 17
+    index: 512
+    line_number: 0
+    page_number: 7
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Carry out an in-depth evaluation through which axes of a possible medium-term
+      resilience project should be '
+    text_base: carry out an in depth evaluation through which axes of a possible medium
+      term resilience project should be
+    total_y: 6465.049865722656
+  - block_number: 17
+    index: 513
+    line_number: 2
+    page_number: 7
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'identified '
+    text_base: identified
+    total_y: 6476.569885253906
+  - block_number: 18
+    index: 514
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 6488.569885253906
+  - block_number: 18
+    index: 515
+    line_number: 0
+    page_number: 7
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Recruitment of several technicians  '
+    text_base: recruitment of several technicians
+    total_y: 6488.569885253906
+  - block_number: 19
+    index: 516
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 6500.809875488281
+  - block_number: 19
+    index: 517
+    line_number: 0
+    page_number: 7
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Simplification of the monitoring system  '
+    text_base: simplification of the monitoring system
+    total_y: 6500.809875488281
+  - block_number: 20
+    index: 518
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 6513.069885253906
+  - block_number: 20
+    index: 519
+    line_number: 0
+    page_number: 7
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Train community relays for animal monitoring '
+    text_base: train community relays for animal monitoring
+    total_y: 6513.069885253906
+  sector_idx: 437
+  sector_similarity_score: 1.0
+  sector_title: National Society Strengthening
+  title:
+    block_number: 11
+    idx: 501
+    line_number: 3
+    page_number: 7
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons Learned
+    text_base: lessons learned
+    total_y: 6389.659851074219
+- content:
+  - block_number: 14
+    index: 575
+    line_number: 2
+    page_number: 8
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'The activities carried out in the reporting period were successful, as
+      the targeted beneficiaries during the emergency '
+    text_base: the activities carried out in the reporting period were successful
+      as the targeted beneficiaries during the emergency
+    total_y: 7238.299835205078
+  - block_number: 14
+    index: 576
+    line_number: 3
+    page_number: 8
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: "phase were reached and the National Society\u2019s capacity was strengthened.\
+      \ Looking ahead, the MRC with support from "
+    text_base: phase were reached and the national society s capacity was strengthened
+      looking ahead the mrc with support from
+    total_y: 7249.81982421875
+  - block_number: 14
+    index: 577
+    line_number: 4
+    page_number: 8
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'IFRC needs to elaborate a long-term resilience plan to support affected
+      communities in Mauritania. Indeed, while this '
+    text_base: ifrc needs to elaborate a long term resilience plan to support affected
+      communities in mauritania indeed while this
+    total_y: 7261.33984375
+  - block_number: 14
+    index: 578
+    line_number: 5
+    page_number: 8
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Emergency Appeal included resilience components (such as support to cooperatives)
+      it mostly provided life-saving '
+    text_base: emergency appeal included resilience components such as support to
+      cooperatives it mostly provided life saving
+    total_y: 7272.889831542969
+  - block_number: 14
+    index: 579
+    line_number: 6
+    page_number: 8
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'support for the 2018-2019 crisis. This operation has closed, while Mauritania
+      will undoubtedly continue to face regular '
+    text_base: support for the 2018 2019 crisis this operation has closed while mauritania
+      will undoubtedly continue to face regular
+    total_y: 7284.409851074219
+  - block_number: 14
+    index: 580
+    line_number: 7
+    page_number: 8
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'difficult lean seasons in future years.  '
+    text_base: difficult lean seasons in future years
+    total_y: 7295.9298095703125
+  sector_idx: 520
+  sector_similarity_score: 1.0
+  sector_title: International Disaster Response
+  title:
+    block_number: 14
+    idx: 574
+    line_number: 0
+    page_number: 8
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons Learned
+    text_base: lessons learned
+    total_y: 7212.379852294922

@@ -1,0 +1,405 @@
+- content:
+  - block_number: 4
+    index: 657
+    line_number: 0
+    page_number: 12
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 9573.239990234375
+  - block_number: 4
+    index: 658
+    line_number: 0
+    page_number: 12
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Reviews and engagements of implementors at the beginning of each operation
+      cycle is key to timely and effective '
+    text_base: reviews and engagements of implementors at the beginning of each operation
+      cycle is key to timely and effective
+    total_y: 9573.239990234375
+  - block_number: 5
+    index: 659
+    line_number: 0
+    page_number: 12
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'implementation. It also helps to have a common understanding  requirements
+      and targets. '
+    text_base: implementation it also helps to have a common understanding requirements
+      and targets
+    total_y: 9590.400024414062
+  - block_number: 6
+    index: 660
+    line_number: 0
+    page_number: 12
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 9608.400024414062
+  - block_number: 6
+    index: 661
+    line_number: 0
+    page_number: 12
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Engaging the government sectors at each level of the project phase made
+      the operation very successful '
+    text_base: engaging the government sectors at each level of the project phase
+      made the operation very successful
+    total_y: 9608.400024414062
+  - block_number: 7
+    index: 662
+    line_number: 0
+    page_number: 12
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 9626.278198242188
+  - block_number: 7
+    index: 663
+    line_number: 0
+    page_number: 12
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Flexibility on design and implementation of the operation based on community
+      felt needs helped the NS to complete '
+    text_base: flexibility on design and implementation of the operation based on
+      community felt needs helped the ns to complete
+    total_y: 9626.278198242188
+  - block_number: 8
+    index: 664
+    line_number: 0
+    page_number: 12
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'the overall implementation as per the agreement. '
+    text_base: the overall implementation as per the agreement
+    total_y: 9643.558776855469
+  - block_number: 9
+    index: 665
+    line_number: 0
+    page_number: 12
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 9661.436950683594
+  - block_number: 9
+    index: 666
+    line_number: 0
+    page_number: 12
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Community engagement at all stages of the operation is important for accountability
+      and sustainability.  '
+    text_base: community engagement at all stages of the operation is important for
+      accountability and sustainability
+    total_y: 9661.436950683594
+  - block_number: 10
+    index: 667
+    line_number: 0
+    page_number: 12
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 9679.434692382812
+  - block_number: 10
+    index: 668
+    line_number: 0
+    page_number: 12
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Delegation of works to the branches can facilitate the implementation. '
+    text_base: delegation of works to the branches can facilitate the implementation
+    total_y: 9679.434692382812
+  - block_number: 11
+    index: 669
+    line_number: 0
+    page_number: 12
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 9697.312866210938
+  - block_number: 11
+    index: 670
+    line_number: 0
+    page_number: 12
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Close monitoring and follow will enable the branches to take action as
+      fast as possible. '
+    text_base: close monitoring and follow will enable the branches to take action
+      as fast as possible
+    total_y: 9697.312866210938
+  sector_idx: 535
+  sector_similarity_score: 1.0
+  sector_title: Water, Sanitation and Hygiene
+  title:
+    block_number: 3
+    idx: 656
+    line_number: 0
+    page_number: 12
+    span_number: 0
+    style: 'Arial-BoldMT, 20, #000000, #edebe0'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 9560.52001953125
+- content:
+  - block_number: 12
+    index: 764
+    line_number: 0
+    page_number: 13
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 10846.559997558594
+  - block_number: 12
+    index: 765
+    line_number: 0
+    page_number: 13
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Community engagement is key in ensuring that the needs  and priorities
+      of the beneficiaries are identified, discussed '
+    text_base: community engagement is key in ensuring that the needs and priorities
+      of the beneficiaries are identified discussed
+    total_y: 10846.559997558594
+  - block_number: 13
+    index: 766
+    line_number: 0
+    page_number: 13
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'and addresses appropriately.   '
+    text_base: and addresses appropriately
+    total_y: 10863.719970703125
+  - block_number: 14
+    index: 767
+    line_number: 0
+    page_number: 13
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 10881.719970703125
+  - block_number: 14
+    index: 768
+    line_number: 0
+    page_number: 13
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Involvement of staff with other actors help the implementation to achieve
+      its objective and reach out the targeted '
+    text_base: involvement of staff with other actors help the implementation to achieve
+      its objective and reach out the targeted
+    total_y: 10881.719970703125
+  - block_number: 15
+    index: 769
+    line_number: 0
+    page_number: 13
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'beneficiaries. '
+    text_base: beneficiaries
+    total_y: 10898.881103515625
+  - block_number: 16
+    index: 770
+    line_number: 0
+    page_number: 13
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 10916.878784179688
+  - block_number: 16
+    index: 771
+    line_number: 0
+    page_number: 13
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'It is very vital that comprehensive and accurate beneficiary data is recorded
+      and screened ahead of the operation. '
+    text_base: it is very vital that comprehensive and accurate beneficiary data is
+      recorded and screened ahead of the operation
+    total_y: 10916.878784179688
+  - block_number: 17
+    index: 772
+    line_number: 0
+    page_number: 13
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 10934.757019042969
+  - block_number: 17
+    index: 773
+    line_number: 0
+    page_number: 13
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'It was realized through time that recruitment of nutrition officer for
+      the implementation would be better to do the activity '
+    text_base: it was realized through time that recruitment of nutrition officer
+      for the implementation would be better to do the activity
+    total_y: 10934.757019042969
+  - block_number: 18
+    index: 774
+    line_number: 0
+    page_number: 13
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'very professionally and in maintaining the quality. '
+    text_base: very professionally and in maintaining the quality
+    total_y: 10952.03759765625
+  - block_number: 19
+    index: 775
+    line_number: 0
+    page_number: 13
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 10969.915832519531
+  - block_number: 19
+    index: 776
+    line_number: 0
+    page_number: 13
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'The distribution of supplementary food assistance should be in complete
+      package which contains (e.g. Milk and other '
+    text_base: the distribution of supplementary food assistance should be in complete
+      package which contains e g milk and other
+    total_y: 10969.915832519531
+  - block_number: 20
+    index: 777
+    line_number: 0
+    page_number: 13
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'recommended food stuffs) to recover the malnourished to normal in the given
+      recommended period by WHO. '
+    text_base: recommended food stuffs to recover the malnourished to normal in the
+      given recommended period by who
+    total_y: 10987.196411132812
+  sector_idx: 671
+  sector_similarity_score: 1.0
+  sector_title: Food insecurity and nutrition
+  title:
+    block_number: 11
+    idx: 763
+    line_number: 0
+    page_number: 13
+    span_number: 0
+    style: 'Arial-BoldMT, 20, #000000, #edebe0'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 10828.079956054688
+- content:
+  - block_number: 5
+    index: 872
+    line_number: 0
+    page_number: 15
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 11985.359985351562
+  - block_number: 5
+    index: 873
+    line_number: 0
+    page_number: 15
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'High dedication of Senior management bodies of the NS, Project staff and
+      volunteers paved the way to complete '
+    text_base: high dedication of senior management bodies of the ns project staff
+      and volunteers paved the way to complete
+    total_y: 11985.359985351562
+  - block_number: 5
+    index: 874
+    line_number: 2
+    page_number: 15
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'the activities as per the agreement '
+    text_base: the activities as per the agreement
+    total_y: 11996.883728027344
+  - block_number: 6
+    index: 875
+    line_number: 0
+    page_number: 15
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 12009.124572753906
+  - block_number: 6
+    index: 876
+    line_number: 0
+    page_number: 15
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Close monitoring and communication mechanisms putting in place played a
+      great role in the implementation '
+    text_base: close monitoring and communication mechanisms putting in place played
+      a great role in the implementation
+    total_y: 12009.124572753906
+  - block_number: 6
+    index: 877
+    line_number: 2
+    page_number: 15
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'throughout the course of the operation '
+    text_base: throughout the course of the operation
+    total_y: 12020.528747558594
+  - block_number: 7
+    index: 878
+    line_number: 0
+    page_number: 15
+    span_number: 0
+    style: 'SymbolMT, 20, #000000, None'
+    text: "\u2022"
+    text_base: ''
+    total_y: 12032.769592285156
+  - block_number: 7
+    index: 879
+    line_number: 0
+    page_number: 15
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Engagement of the local government sectors and user communities contributed
+      much in facilitating the successful '
+    text_base: engagement of the local government sectors and user communities contributed
+      much in facilitating the successful
+    total_y: 12032.769592285156
+  - block_number: 7
+    index: 880
+    line_number: 2
+    page_number: 15
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: implementation of the operation
+    text_base: implementation of the operation
+    total_y: 12044.173767089844
+  sector_idx: 781
+  sector_similarity_score: 1.0
+  sector_title: Health and Care
+  title:
+    block_number: 4
+    idx: 871
+    line_number: 1
+    page_number: 15
+    span_number: 0
+    style: 'Arial-BoldMT, 20, #000000, None'
+    text: 'Lessons Learnt '
+    text_base: lessons learnt
+    total_y: 11973.119995117188

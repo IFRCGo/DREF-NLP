@@ -1,0 +1,353 @@
+- content:
+  - block_number: 11
+    index: 496
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'Software activities such as safe shelter construction awareness should
+      always be accompanied with hardware '
+    text_base: software activities such as safe shelter construction awareness should
+      always be accompanied with hardware
+    total_y: 6542.4698486328125
+  - block_number: 11
+    index: 497
+    line_number: 1
+    page_number: 7
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'interventions such as support for the construction of houses. Implementation
+      of software activities followed by direct '
+    text_base: interventions such as support for the construction of houses implementation
+      of software activities followed by direct
+    total_y: 6555.699890136719
+  - block_number: 11
+    index: 498
+    line_number: 2
+    page_number: 7
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'support for shelter construction helps in retaining knowledge gained. During
+      the end line survey, it was found that the '
+    text_base: support for shelter construction helps in retaining knowledge gained
+      during the end line survey it was found that the
+    total_y: 6568.899841308594
+  - block_number: 11
+    index: 499
+    line_number: 3
+    page_number: 7
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: per cent of target families that increased their knowledge on safe shelter
+      construction was low due to non-
+    text_base: per cent of target families that increased their knowledge on safe
+      shelter construction was low due to non
+    total_y: 6582.099853515625
+  - block_number: 11
+    index: 500
+    line_number: 4
+    page_number: 7
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'implementation of support for construction of houses by different agencies.  '
+    text_base: implementation of support for construction of houses by different agencies
+    total_y: 6595.299865722656
+  sector_idx: 392
+  sector_similarity_score: 1.0
+  sector_title: Shelter, Housing and Settlements
+  title:
+    block_number: 10
+    idx: 495
+    line_number: 0
+    page_number: 7
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 6526.869873046875
+- content:
+  - block_number: 3
+    index: 689
+    line_number: 0
+    page_number: 11
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'A flexible CBI covering whole costs and/or linking with local government
+      schemes/community groups covering the '
+    text_base: a flexible cbi covering whole costs and or linking with local government
+      schemes community groups covering the
+    total_y: 9319.559814453125
+  - block_number: 3
+    index: 690
+    line_number: 1
+    page_number: 11
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'purchasing of livestock would be useful to avoid debt burden on beneficiary
+      and to sustain livelihood activities in the '
+    text_base: purchasing of livestock would be useful to avoid debt burden on beneficiary
+      and to sustain livelihood activities in the
+    total_y: 9332.759765625
+  - block_number: 3
+    index: 691
+    line_number: 2
+    page_number: 11
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'future. As district authorities were involved in beneficiary selection
+      processes and monitoring, involving them in '
+    text_base: future as district authorities were involved in beneficiary selection
+      processes and monitoring involving them in
+    total_y: 9345.959777832031
+  - block_number: 3
+    index: 692
+    line_number: 3
+    page_number: 11
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'designing and planning, can   better support the sustainability of livelihood
+      interventions.  '
+    text_base: designing and planning can better support the sustainability of livelihood
+      interventions
+    total_y: 9359.179809570312
+  sector_idx: 507
+  sector_similarity_score: 1.0
+  sector_title: Livelihoods
+  title:
+    block_number: 17
+    idx: 672
+    line_number: 0
+    page_number: 10
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons learned
+    text_base: lessons learned
+    total_y: 9183.935791015625
+- content:
+  - block_number: 7
+    index: 902
+    line_number: 0
+    page_number: 14
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'A higher level of NFRI stocks should be maintained at strategically located
+      warehouses and procurement processes '
+    text_base: a higher level of nfri stocks should be maintained at strategically
+      located warehouses and procurement processes
+    total_y: 11960.179748535156
+  - block_number: 7
+    index: 903
+    line_number: 1
+    page_number: 14
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'should be fast tracked especially for relief phase to avoid delayed distribution.  '
+    text_base: should be fast tracked especially for relief phase to avoid delayed
+      distribution
+    total_y: 11973.379760742188
+  sector_idx: 693
+  sector_similarity_score: 1.0
+  sector_title: Health and Care
+  title:
+    block_number: 6
+    idx: 901
+    line_number: 0
+    page_number: 14
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons learned
+    text_base: lessons learned
+    total_y: 11945.059753417969
+- content:
+  - block_number: 5
+    index: 1190
+    line_number: 29
+    page_number: 17
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: "Community driven approach related to construction is much faster. NRCS\u2019\
+      s decision to decentralize the procurement "
+    text_base: community driven approach related to construction is much faster nrcs
+      s decision to decentralize the procurement
+    total_y: 15052.539672851562
+  - block_number: 5
+    index: 1191
+    line_number: 30
+    page_number: 17
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'of materials for the construction of tube wells and toilets through a user
+      committee formed by the district chapters, '
+    text_base: of materials for the construction of tube wells and toilets through
+      a user committee formed by the district chapters
+    total_y: 15064.055725097656
+  - block_number: 5
+    index: 1192
+    line_number: 31
+    page_number: 17
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'contributed to greater efficiency and speedier construction.  '
+    text_base: contributed to greater efficiency and speedier construction
+    total_y: 15075.57568359375
+  sector_idx: 904
+  sector_similarity_score: 1.0
+  sector_title: Water, Sanitation and Hygiene
+  title:
+    block_number: 5
+    idx: 1189
+    line_number: 28
+    page_number: 17
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 15038.859680175781
+- content:
+  - block_number: 6
+    index: 1306
+    line_number: 1
+    page_number: 19
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'Based on learning from the Floods Operation, NRCS should be updating and
+      contextualizing its response mechanism '
+    text_base: based on learning from the floods operation nrcs should be updating
+      and contextualizing its response mechanism
+    total_y: 16712.259643554688
+  - block_number: 6
+    index: 1307
+    line_number: 2
+    page_number: 19
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'as well as planning process such as the Disaster Response Operation Manual
+      (DROM) which was developed in 2010. '
+    text_base: as well as planning process such as the disaster response operation
+      manual drom which was developed in 2010
+    total_y: 16725.45965576172
+  - block_number: 6
+    index: 1308
+    line_number: 3
+    page_number: 19
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Regularly reviewed and updated DROM will be useful to ensure a more effective
+      and efficient response.  '
+    text_base: regularly reviewed and updated drom will be useful to ensure a more
+      effective and efficient response
+    total_y: 16738.655639648438
+  sector_idx: 1205
+  sector_similarity_score: 1.0
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  title:
+    block_number: 6
+    idx: 1305
+    line_number: 0
+    page_number: 19
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons learned
+    text_base: lessons learned
+    total_y: 16697.85968017578
+- content:
+  - block_number: 21
+    index: 1384
+    line_number: 0
+    page_number: 20
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'The participation of community people in orientation and trainings and
+      at the implementation was high.  '
+    text_base: the participation of community people in orientation and trainings
+      and at the implementation was high
+    total_y: 17444.949645996094
+  sector_idx: 1326
+  sector_similarity_score: 1.0
+  sector_title: Protection, Gender and Inclusion
+  title:
+    block_number: 20
+    idx: 1383
+    line_number: 0
+    page_number: 20
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons learned
+    text_base: lessons learned
+    total_y: 17429.349609375
+- content: []
+  sector_idx: 1385
+  sector_similarity_score: 1.0
+  sector_title: National Society Strengthening
+  title:
+    block_number: 9
+    idx: 1432
+    line_number: 0
+    page_number: 21
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 18145.36962890625
+- content: []
+  sector_idx: 1434
+  sector_similarity_score: 1.0
+  sector_title: International Disaster Response
+  title:
+    block_number: 8
+    idx: 1484
+    line_number: 0
+    page_number: 22
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons learned
+    text_base: lessons learned
+    total_y: 18826.729614257812
+- content:
+  - block_number: 6
+    index: 1559
+    line_number: 1
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, #f4f4f4'
+    text: 'There is a need for establishing a functional quality control unity at
+      programme/operational level with dedicated PMER '
+    text_base: there is a need for establishing a functional quality control unity
+      at programme operational level with dedicated pmer
+    total_y: 19816.00958251953
+  - block_number: 6
+    index: 1560
+    line_number: 2
+    page_number: 23
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'focal point in all future operations.   '
+    text_base: focal point in all future operations
+    total_y: 19829.209594726562
+  sector_idx: 1486
+  sector_similarity_score: 1.0
+  sector_title: Influence others as leading strategic partner
+  title:
+    block_number: 6
+    idx: 1558
+    line_number: 0
+    page_number: 23
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: 'Lessons learned '
+    text_base: lessons learned
+    total_y: 19801.609588623047
+- content: []
+  sector_idx: 1561
+  sector_similarity_score: 1.0
+  sector_title: Effective, credible and accountable IFRC
+  title:
+    block_number: 11
+    idx: 1696
+    line_number: 0
+    page_number: 24
+    span_number: 0
+    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    text: Lessons Learned
+    text_base: lessons learned
+    total_y: 20963.855590820312

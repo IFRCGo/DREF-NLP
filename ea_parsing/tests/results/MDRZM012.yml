@@ -1,0 +1,250 @@
+- content:
+  - block_number: 31
+    index: 691
+    line_number: 0
+    page_number: 18
+    span_number: 0
+    style: 'Wingdings-Regular, 20, #000000, None'
+    text: "\uF0D8"
+    text_base: ''
+    total_y: 15699.479675292969
+  - block_number: 31
+    index: 692
+    line_number: 0
+    page_number: 18
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: ' Protection, gender, and inclusion issues are important aspects to consider
+      in selecting beneficiaries and '
+    text_base: protection gender and inclusion issues are important aspects to consider
+      in selecting beneficiaries and
+    total_y: 15699.479675292969
+  - block_number: 32
+    index: 693
+    line_number: 0
+    page_number: 18
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'volunteers signing of code of conduct at the beginning of the operation.
+      In addition, this operation brought forth '
+    text_base: volunteers signing of code of conduct at the beginning of the operation
+      in addition this operation brought forth
+    total_y: 15716.640747070312
+  - block_number: 33
+    index: 694
+    line_number: 0
+    page_number: 18
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'a lesson that public selection and validation of beneficiaries minimizes
+      bias and increases chances that the '
+    text_base: a lesson that public selection and validation of beneficiaries minimizes
+      bias and increases chances that the
+    total_y: 15733.92138671875
+  - block_number: 34
+    index: 695
+    line_number: 0
+    page_number: 18
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'marginalised populations in communities will be identified and selected
+      to benefit from humanitarian assistance.  '
+    text_base: marginalised populations in communities will be identified and selected
+      to benefit from humanitarian assistance
+    total_y: 15751.201965332031
+  - block_number: 35
+    index: 696
+    line_number: 0
+    page_number: 18
+    span_number: 0
+    style: 'Wingdings-Regular, 20, #000000, None'
+    text: "\uF0D8"
+    text_base: ''
+    total_y: 15768.482543945312
+  - block_number: 35
+    index: 697
+    line_number: 0
+    page_number: 18
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: ' Feedback collection mechanisms and ensuring a process of listening to
+      and incorporating insights from all '
+    text_base: feedback collection mechanisms and ensuring a process of listening
+      to and incorporating insights from all
+    total_y: 15768.482543945312
+  - block_number: 36
+    index: 698
+    line_number: 0
+    page_number: 18
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'types, of feedback, including complaints and compliment, are important
+      tools in cash transfer projects.  '
+    text_base: types of feedback including complaints and compliment are important
+      tools in cash transfer projects
+    total_y: 15785.643615722656
+  - block_number: 37
+    index: 699
+    line_number: 0
+    page_number: 18
+    span_number: 0
+    style: 'Wingdings-Regular, 20, #000000, None'
+    text: "\uF0D8"
+    text_base: ''
+    total_y: 15802.924194335938
+  - block_number: 37
+    index: 700
+    line_number: 0
+    page_number: 18
+    span_number: 1
+    style: 'ArialMT, 20, #000000, None'
+    text: ' Multiple modes of feedback are important as they provide opportunities
+      to beneficiaries and non-beneficiaries '
+    text_base: multiple modes of feedback are important as they provide opportunities
+      to beneficiaries and non beneficiaries
+    total_y: 15802.924194335938
+  - block_number: 38
+    index: 701
+    line_number: 0
+    page_number: 18
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'to take part in improving the project strategies for improved implementation.
+      Red Cross actors can also use '
+    text_base: to take part in improving the project strategies for improved implementation
+      red cross actors can also use
+    total_y: 15820.204833984375
+  - block_number: 39
+    index: 702
+    line_number: 0
+    page_number: 18
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'these different streams of information to triangulate feedback and identify
+      the most critical to apply to improving '
+    text_base: these different streams of information to triangulate feedback and
+      identify the most critical to apply to improving
+    total_y: 15837.365905761719
+  - block_number: 40
+    index: 703
+    line_number: 0
+    page_number: 18
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'the response.   '
+    text_base: the response
+    total_y: 15854.646484375
+  sector_idx: 632
+  sector_similarity_score: 1.0
+  sector_title: Protection, Gender and Inclusion
+  title:
+    block_number: 29
+    idx: 690
+    line_number: 0
+    page_number: 18
+    span_number: 0
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    total_y: 15663.959686279297
+- content:
+  - block_number: 7
+    index: 763
+    line_number: 0
+    page_number: 20
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Through implementation of the Emergency Appeal operation, it was learnt
+      that coordinated collaboration with all key '
+    text_base: through implementation of the emergency appeal operation it was learnt
+      that coordinated collaboration with all key
+    total_y: 16968.83966064453
+  - block_number: 8
+    index: 764
+    line_number: 0
+    page_number: 20
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'stakeholders is fundamental to effective project implementation to avert
+      duplication and misapplication of support. '
+    text_base: stakeholders is fundamental to effective project implementation to
+      avert duplication and misapplication of support
+    total_y: 16985.999633789062
+  - block_number: 9
+    index: 765
+    line_number: 0
+    page_number: 20
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Additionally, it was learnt that engagement of key stakeholders in the
+      project cycle from start to finish is an important '
+    text_base: additionally it was learnt that engagement of key stakeholders in the
+      project cycle from start to finish is an important
+    total_y: 17003.280212402344
+  - block_number: 10
+    index: 766
+    line_number: 0
+    page_number: 20
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'ingredient to successful project implementation.  '
+    text_base: ingredient to successful project implementation
+    total_y: 17020.560791015625
+  sector_idx: 705
+  sector_similarity_score: 1.0
+  sector_title: National Society Strengthening
+  title:
+    block_number: 6
+    idx: 762
+    line_number: 0
+    page_number: 20
+    span_number: 0
+    style: 'Arial-BoldMT, 20, #000000, None'
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    total_y: 16950.599670410156
+- content:
+  - block_number: 33
+    index: 836
+    line_number: 0
+    page_number: 21
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: 'Stakeholder collaboration is key to project success, in this operation,
+      ZRCS worked hand in hand with the Government '
+    text_base: stakeholder collaboration is key to project success in this operation
+      zrcs worked hand in hand with the government
+    total_y: 18251.39959716797
+  - block_number: 34
+    index: 837
+    line_number: 0
+    page_number: 21
+    span_number: 0
+    style: 'ArialMT, 20, #000000, None'
+    text: including structures at community level, this helps in sustainability of
+      the interventions
+    text_base: including structures at community level this helps in sustainability
+      of the interventions
+    total_y: 18268.679626464844
+  - block_number: 34
+    index: 838
+    line_number: 0
+    page_number: 21
+    span_number: 1
+    style: 'Arial-ItalicMT, 20, #000000, None'
+    text: .
+    text_base: ''
+    total_y: 18268.679626464844
+  sector_idx: 805
+  sector_similarity_score: 1.0
+  sector_title: Influence others as leading strategic partner
+  title:
+    block_number: 32
+    idx: 835
+    line_number: 0
+    page_number: 21
+    span_number: 0
+    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    total_y: 18233.159606933594
