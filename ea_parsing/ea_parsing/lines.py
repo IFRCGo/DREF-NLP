@@ -196,6 +196,11 @@ class Lines(pd.DataFrame):
                      ]
 
         return titles
+
+
+    @cached_property
+    def body_style(self):
+        return self['style'].value_counts().idxmax()
         
 
     @cached_property
@@ -204,8 +209,7 @@ class Lines(pd.DataFrame):
         Filter titles to greater than body text.
         """
         # Assume that the body text is most common, and drop titles not bigger than this
-        body_style = self['style'].value_counts().idxmax()
-        headings = self.titles.loc[self.titles['style']!=body_style]
+        headings = self.titles.loc[self.titles['style']!=self.body_style]
         
         return headings
 

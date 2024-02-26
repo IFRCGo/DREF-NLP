@@ -282,9 +282,14 @@ class LessonsLearnedExtractor:
 
         # Lessons learned section must end before the next sector_title
         if self.sectors_lessons_learned_map:
-            next_sector_titles = self.document.sector_titles.loc[self.sectors_lessons_learned_map.keys()]
-            next_sector_titles = next_sector_titles.loc[
-                next_sector_titles['total_y'] > title['total_y']
+
+            # Get all sector titles with the same styles as the lessons learned sector titles
+            lessons_learned_sector_styles = self.document.lines.loc[self.sectors_lessons_learned_map.keys(), 'style'].unique()
+            all_sector_titles = self.document.sector_titles.loc[self.document.sector_titles['style'].isin([style for style in lessons_learned_sector_styles if style!=self.document.lines.body_style])]
+
+            # End lessons learned section before next sector title
+            next_sector_titles = all_sector_titles.loc[
+                all_sector_titles['total_y'] > title['total_y']
             ]
             if not next_sector_titles.empty:
                 next_sector_title_y = next_sector_titles.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
