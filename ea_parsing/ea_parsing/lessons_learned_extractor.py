@@ -110,9 +110,15 @@ class LessonsLearnedExtractor:
             sectors=sectors
         )
         self.sectors_lessons_learned_map = primary_sector_style['Lessons learned covered']
-        if self.unmatched_lessons_learned:
 
-            # Get closest sectors to match unmatched lessons learned
+        # If only one lessons learned, and after all sectors, set to no sector
+        sector_titles_primary_style = sectors.loc[sectors['style']==primary_sector_style.name]
+        if (self.number_of_lessons_learned_sections <= 1) and (self.lessons_learned_titles['total_y'].max() >= sector_titles_primary_style['total_y'].max()):
+            self.sectors_lessons_learned_map = {}
+            return self.sectors_lessons_learned_map
+
+        # Get closest sectors to match unmatched lessons learned
+        if self.unmatched_lessons_learned:
             self.match_sectors_by_distance(
                 sectors=sectors.loc[sectors['style']!=primary_sector_style.name]
             )
