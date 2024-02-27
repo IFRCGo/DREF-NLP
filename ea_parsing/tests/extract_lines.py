@@ -5,6 +5,7 @@ from ea_parsing.appeal_document import Appeal
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-o', "--overwrite", action='store_true')
+parser.add_argument('-no', "--no_overwrite", action='store_true')
 args = parser.parse_args()
 
 # Read in the lessons learned results from yaml files
@@ -19,12 +20,12 @@ for file in files:
     final_report = appeal.final_report
     
     # Extract the lines from the PDF documents and save
-    document_lines_path = os.path.join(TESTS_DIR, 'results', f'{mdr_code}.csv')
+    document_lines_path = os.path.join(TESTS_DIR, 'raw_lines', f'{mdr_code}.csv')
 
     # Check whether to overwrite
     save_results = None
     if os.path.isfile(document_lines_path):
-        if not args.overwrite:
+        if (not args.overwrite) and (not args.no_overwrite):
             while True:
                 save_results = input(f'\nOverwrite file {mdr_code}.csv? (y/n) ')
                 if save_results in ['y', 'n']:
