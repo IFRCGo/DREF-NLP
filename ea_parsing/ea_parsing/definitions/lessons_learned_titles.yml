@@ -2,9 +2,15 @@ titles:
   - lessons learned
   - constraints challenges and lessons learned
   - challenges and lessons learned
+  - challenges achievements and lessons learned
+  - achievements challenges and lessons learned
 
 abbreviations:
   lessons:
     - lesson
   learned:
     - learnt
+  challenges:
+    - challenge
+  achievements:
+    - achievement
