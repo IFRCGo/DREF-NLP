@@ -1,0 +1,47 @@
+- title:
+    text: 'Lessons learned: '
+    text_base: lessons learned
+    style: 'Arial-BoldMT, 20, #000000, None'
+    page_number: 0
+    block_number: 17
+    line_number: 11
+    span_number: 0
+    total_y: 730.0780029296875
+    idx: 49
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 50
+    text: 'To ensure timely emergency response and reduce logistics costs in the future,
+      the RCC '
+    text_base: to ensure timely emergency response and reduce logistics costs in the
+      future the rcc
+    style: 'ArialMT, 20, #000000, None'
+    page_number: 0
+    block_number: 17
+    line_number: 11
+    span_number: 1
+    total_y: 730.0780029296875
+  - index: 51
+    text: 'should advocate for an emergency stock to be pre-positioned in the capital
+      to be able to respond to '
+    text_base: should advocate for an emergency stock to be pre positioned in the
+      capital to be able to respond to
+    style: 'ArialMT, 20, #000000, None'
+    page_number: 0
+    block_number: 17
+    line_number: 12
+    span_number: 0
+    total_y: 741.6010131835938
+  - index: 52
+    text: 'disasters. Logistics costs absorbed an excessive proportion of the funds
+      donated to the appeal.  '
+    text_base: disasters logistics costs absorbed an excessive proportion of the funds
+      donated to the appeal
+    style: 'ArialMT, 20, #000000, None'
+    page_number: 0
+    block_number: 17
+    line_number: 13
+    span_number: 0
+    total_y: 753.1240234375

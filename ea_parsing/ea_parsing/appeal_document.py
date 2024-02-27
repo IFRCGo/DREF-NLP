@@ -288,10 +288,11 @@ class AppealDocument:
                     block = page_lines.loc[page_lines['block_number']==block_number]
                     page_labels_references_idxs = []
 
-                    # Check if the whole block is a page label or reference
-                    if block.is_page_label() or block.is_reference():
-                        lines.drop(labels=block.index, inplace=True)
-                        continue
+                    # Check if the whole block is a page label or reference - only for footers otherwise risk of dropping too much
+                    if option=='footers':
+                        if block.is_page_label() or block.is_reference():
+                            lines.drop(labels=block.index, inplace=True)
+                            continue
 
                     # Loop through lines and remove page numbers and references
                     for line in block['line_number'].unique():
