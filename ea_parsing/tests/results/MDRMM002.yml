@@ -1,814 +1,805 @@
-- content:
-  - block_number: 7
-    index: 80
-    line_number: 34
+- title:
+    text: 'Lessons learnt  '
+    text_base: lessons learnt
+    style: 'Arial,Bold, 20, #000000, nan'
     page_number: 1
-    span_number: 1
-    style: 'Arial, 13, #000000, None'
+    block_number: 7
+    line_number: 33
+    span_number: 0
+    total_y: 1432.4199829101562
+    idx: 78
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 80
     text: '2'
     text_base: '2'
-    total_y: 1439.0199584960938
-  - block_number: 7
-    index: 79
-    line_number: 34
+    style: 'Arial, 13, #000000, nan'
     page_number: 1
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 7
+    line_number: 34
+    span_number: 1
+    total_y: 1439.0199584960938
+  - index: 79
     text: "There has been a considerable amount of lessons learnt and documented \
       \ from this operation \u2013 the result of "
     text_base: there has been a considerable amount of lessons learnt and documented
       from this operation the result of
-    total_y: 1444.0599975585938
-  - block_number: 7
-    index: 82
-    line_number: 35
+    style: 'Arial, 20, #000000, nan'
     page_number: 1
+    block_number: 7
+    line_number: 34
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1444.0599975585938
+  - index: 82
     text: 'a concerted effort among programmes, operations management and support
       services in the months '
     text_base: a concerted effort among programmes operations management and support
       services in the months
-    total_y: 1455.5799560546875
-  - block_number: 7
-    index: 83
-    line_number: 36
+    style: 'Arial, 20, #000000, nan'
     page_number: 1
+    block_number: 7
+    line_number: 35
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1455.5799560546875
+  - index: 83
     text: 'preceding the closing of the operation, to take a step back and reflect
       on successes and challenges '
     text_base: preceding the closing of the operation to take a step back and reflect
       on successes and challenges
-    total_y: 1467.0999755859375
-  - block_number: 7
-    index: 84
-    line_number: 37
+    style: 'Arial, 20, #000000, nan'
     page_number: 1
+    block_number: 7
+    line_number: 36
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1467.0999755859375
+  - index: 84
     text: 'encountered over the past three years. For the purposes of brevity and
       external relevance, only the most '
     text_base: encountered over the past three years for the purposes of brevity and
       external relevance only the most
-    total_y: 1478.6199951171875
-  - block_number: 7
-    index: 85
-    line_number: 38
+    style: 'Arial, 20, #000000, nan'
     page_number: 1
+    block_number: 7
+    line_number: 37
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1478.6199951171875
+  - index: 85
     text: 'essential lessons learnt are presented in this report:  '
     text_base: essential lessons learnt are presented in this report
-    total_y: 1490.1399536132812
-  - block_number: 9
-    index: 86
-    line_number: 0
+    style: 'Arial, 20, #000000, nan'
     page_number: 1
+    block_number: 7
+    line_number: 38
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 1490.1399536132812
+  - index: 86
     text: "\uF0B7"
     text_base: ''
-    total_y: 1513.7799682617188
-  - block_number: 9
-    index: 87
-    line_number: 1
+    style: 'Symbol, 20, #000000, nan'
     page_number: 1
+    block_number: 9
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1513.7799682617188
+  - index: 87
     text: 'The most important learning gained from the Cyclone Nargis operation is
       that, through good '
     text_base: the most important learning gained from the cyclone nargis operation
       is that through good
-    total_y: 1513.7799682617188
-  - block_number: 9
-    index: 88
-    line_number: 2
+    style: 'Arial, 20, #000000, nan'
     page_number: 1
+    block_number: 9
+    line_number: 1
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1513.7799682617188
+  - index: 88
     text: 'coordination, communication and the focused resourcing of required skills,
       it is possible to successfully '
     text_base: coordination communication and the focused resourcing of required skills
       it is possible to successfully
-    total_y: 1525.2999877929688
-  - block_number: 9
-    index: 89
-    line_number: 3
+    style: 'Arial, 20, #000000, nan'
     page_number: 1
+    block_number: 9
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1525.2999877929688
+  - index: 89
     text: 'run a large and complex recovery operation within a country context that
       is filled with various challenges. '
     text_base: run a large and complex recovery operation within a country context
       that is filled with various challenges
-    total_y: 1536.699951171875
-  - block_number: 10
-    index: 90
-    line_number: 0
+    style: 'Arial, 20, #000000, nan'
     page_number: 1
+    block_number: 9
+    line_number: 3
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 1536.699951171875
+  - index: 90
     text: "\uF0B7"
     text_base: ''
-    total_y: 1560.4599609375
-  - block_number: 10
-    index: 91
-    line_number: 1
+    style: 'Symbol, 20, #000000, nan'
     page_number: 1
+    block_number: 10
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1560.4599609375
+  - index: 91
     text: 'Key factors which ensured the success of this operation are: '
     text_base: key factors which ensured the success of this operation are
-    total_y: 1560.4599609375
-  - block_number: 11
-    index: 92
-    line_number: 0
+    style: 'Arial, 20, #000000, nan'
     page_number: 1
+    block_number: 10
+    line_number: 1
     span_number: 0
-    style: 'Courier New, 20, #000000, None'
+    total_y: 1560.4599609375
+  - index: 92
     text: o
     text_base: o
-    total_y: 1571.97998046875
-  - block_number: 11
-    index: 93
-    line_number: 1
+    style: 'Courier New, 20, #000000, nan'
     page_number: 1
+    block_number: 11
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1571.97998046875
+  - index: 93
     text: 'The fact that 77 per cent of funding was secured within the first seven
       months of the operation, '
     text_base: the fact that 77 per cent of funding was secured within the first seven
       months of the operation
-    total_y: 1571.97998046875
-  - block_number: 11
-    index: 94
-    line_number: 2
+    style: 'Arial, 20, #000000, nan'
     page_number: 1
+    block_number: 11
+    line_number: 1
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1571.97998046875
+  - index: 94
     text: 'followed by close to 100 per cent of funding by the end of the first year
       of operations.   '
     text_base: followed by close to 100 per cent of funding by the end of the first
       year of operations
+    style: 'Arial, 20, #000000, nan'
+    page_number: 1
+    block_number: 11
+    line_number: 2
+    span_number: 0
     total_y: 1583.3999633789062
-  - block_number: 2
-    index: 98
-    line_number: 0
-    page_number: 2
-    span_number: 0
-    style: 'Courier New, 20, #000000, None'
-    text: o
-    text_base: o
-    total_y: 1765.0799560546875
-  - block_number: 2
-    index: 99
-    line_number: 1
-    page_number: 2
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+  - index: 99
     text: "Restricting the focus of the operation to an \u201Cambitious yet achievable\
       \ scope\u201D as pointed out in "
     text_base: restricting the focus of the operation to an ambitious yet achievable
       scope as pointed out in
-    total_y: 1765.0799560546875
-  - block_number: 2
-    index: 101
-    line_number: 2
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
-    span_number: 1
-    style: 'Arial, 13, #000000, None'
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 1765.0799560546875
+  - index: 101
     text: '3'
     text_base: '3'
-    total_y: 1771.5799560546875
-  - block_number: 2
-    index: 100
-    line_number: 2
+    style: 'Arial, 13, #000000, nan'
     page_number: 2
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 2
+    line_number: 2
+    span_number: 1
+    total_y: 1771.5799560546875
+  - index: 100
     text: 'the final evaluation  of the operation. '
     text_base: the final evaluation of the operation
-    total_y: 1776.6199340820312
-  - block_number: 3
-    index: 103
-    line_number: 0
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 2
+    line_number: 2
     span_number: 0
-    style: 'Courier New, 20, #000000, None'
+    total_y: 1776.6199340820312
+  - index: 103
     text: o
     text_base: o
-    total_y: 1788.1399536132812
-  - block_number: 3
-    index: 104
-    line_number: 1
+    style: 'Courier New, 20, #000000, nan'
     page_number: 2
+    block_number: 3
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1788.1399536132812
+  - index: 104
     text: 'The availability of experienced delegates during both the relief and recovery
       phases. '
     text_base: the availability of experienced delegates during both the relief and
       recovery phases
-    total_y: 1788.1399536132812
-  - block_number: 4
-    index: 105
-    line_number: 0
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 3
+    line_number: 1
     span_number: 0
-    style: 'Courier New, 20, #000000, None'
+    total_y: 1788.1399536132812
+  - index: 105
     text: o
     text_base: o
-    total_y: 1799.5399780273438
-  - block_number: 4
-    index: 106
-    line_number: 1
+    style: 'Courier New, 20, #000000, nan'
     page_number: 2
+    block_number: 4
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1799.5399780273438
+  - index: 106
     text: 'The relatively low turnover of delegates and their National Society counterparts
       during the '
     text_base: the relatively low turnover of delegates and their national society
       counterparts during the
-    total_y: 1799.5399780273438
-  - block_number: 4
-    index: 107
-    line_number: 2
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 4
+    line_number: 1
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1799.5399780273438
+  - index: 107
     text: 'recovery phase of the operation. In particular, it should be noted that
       while management of the '
     text_base: recovery phase of the operation in particular it should be noted that
       while management of the
-    total_y: 1811.0599975585938
-  - block_number: 4
-    index: 108
-    line_number: 3
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 4
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1811.0599975585935
+  - index: 108
     text: 'operations changed hands three times during the first seven months of the
       operation, the '
     text_base: operations changed hands three times during the first seven months
       of the operation the
-    total_y: 1822.5800170898438
-  - block_number: 4
-    index: 109
-    line_number: 4
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 4
+    line_number: 3
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1822.580017089844
+  - index: 109
     text: 'presence of the fourth head of operations over a 30-month period (January
       2009-June 2011), '
     text_base: presence of the fourth head of operations over a 30 month period january
       2009 june 2011
-    total_y: 1834.1000366210938
-  - block_number: 4
-    index: 110
-    line_number: 5
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 4
+    line_number: 4
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1834.1000366210935
+  - index: 110
     text: 'was instrumental in ensuring good direction, momentum and stability for
       the operation. '
     text_base: was instrumental in ensuring good direction momentum and stability
       for the operation
-    total_y: 1845.6200561523438
-  - block_number: 5
-    index: 111
-    line_number: 0
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 4
+    line_number: 5
     span_number: 0
-    style: 'Courier New, 20, #000000, None'
+    total_y: 1845.620056152344
+  - index: 111
     text: o
     text_base: o
-    total_y: 1857.1400756835938
-  - block_number: 5
-    index: 112
-    line_number: 1
+    style: 'Courier New, 20, #000000, nan'
     page_number: 2
+    block_number: 5
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1857.1400756835935
+  - index: 112
     text: 'Positive and productive daily interaction between MRCS and the IFRC country
       delegation. '
     text_base: positive and productive daily interaction between mrcs and the ifrc
       country delegation
-    total_y: 1857.1400756835938
-  - block_number: 7
-    index: 113
-    line_number: 0
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 5
+    line_number: 1
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 1857.1400756835935
+  - index: 113
     text: "\uF0B7"
     text_base: ''
-    total_y: 1880.7799682617188
-  - block_number: 7
-    index: 114
-    line_number: 1
+    style: 'Symbol, 20, #000000, nan'
     page_number: 2
+    block_number: 7
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1880.7799682617188
+  - index: 114
     text: 'Having adequate organizational structures and procedures ready is essential
       for timely and effective '
     text_base: having adequate organizational structures and procedures ready is essential
       for timely and effective
-    total_y: 1880.7799682617188
-  - block_number: 7
-    index: 115
-    line_number: 2
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 7
+    line_number: 1
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1880.7799682617188
+  - index: 115
     text: 'emergency response and recovery operations. In this regard, the lack or
       inadequacy of important '
     text_base: emergency response and recovery operations in this regard the lack
       or inadequacy of important
-    total_y: 1892.2999877929688
-  - block_number: 7
-    index: 116
-    line_number: 3
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 7
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1892.2999877929688
+  - index: 116
     text: 'organizational structures (e.g. logistics, human resources) and standard
       operating procedures within '
     text_base: organizational structures e g logistics human resources and standard
       operating procedures within
-    total_y: 1903.8200073242188
-  - block_number: 7
-    index: 117
-    line_number: 4
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 7
+    line_number: 3
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1903.8200073242188
+  - index: 117
     text: 'MRCS at the outset of the Cyclone Nargis operation, meant that more time
       was needed to scale up and '
     text_base: mrcs at the outset of the cyclone nargis operation meant that more
       time was needed to scale up and
-    total_y: 1915.2200317382812
-  - block_number: 7
-    index: 119
-    line_number: 5
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
-    span_number: 1
-    style: 'Arial, 13, #000000, None'
+    block_number: 7
+    line_number: 4
+    span_number: 0
+    total_y: 1915.2200317382808
+  - index: 119
     text: '4'
     text_base: '4'
-    total_y: 1921.699951171875
-  - block_number: 7
-    index: 118
-    line_number: 5
+    style: 'Arial, 13, #000000, nan'
     page_number: 2
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 7
+    line_number: 5
+    span_number: 1
+    total_y: 1921.699951171875
+  - index: 118
     text: effectively deliver programmes.
     text_base: effectively deliver programmes
-    total_y: 1926.7400512695312
-  - block_number: 8
-    index: 120
-    line_number: 1
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 7
+    line_number: 5
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 1926.7400512695312
+  - index: 120
     text: "\uF0B7"
     text_base: ''
-    total_y: 1950.5299682617188
-  - block_number: 8
-    index: 121
-    line_number: 2
+    style: 'Symbol, 20, #000000, nan'
     page_number: 2
+    block_number: 8
+    line_number: 1
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1950.5299682617188
+  - index: 121
     text: 'The fact that recovery planning began without much delay during the relief
       phase, facilitated a timely '
     text_base: the fact that recovery planning began without much delay during the
       relief phase facilitated a timely
-    total_y: 1950.5299682617188
-  - block_number: 8
-    index: 122
-    line_number: 3
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 8
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1950.5299682617188
+  - index: 122
     text: 'transition from relief to recovery which enabled emerging recovery interventions
       to be conducted along '
     text_base: transition from relief to recovery which enabled emerging recovery
       interventions to be conducted along
-    total_y: 1961.9299926757812
-  - block_number: 8
-    index: 123
-    line_number: 4
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 8
+    line_number: 3
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1961.9299926757808
+  - index: 123
     text: 'with outgoing relief activities. However, some locations saw significant
       gaps between the time of '
     text_base: with outgoing relief activities however some locations saw significant
       gaps between the time of
-    total_y: 1973.4500122070312
-  - block_number: 8
-    index: 124
-    line_number: 5
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 8
+    line_number: 4
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 1973.4500122070312
+  - index: 124
     text: 'recovery assessments and the launch of activity planning and implementation
       because of the decision to '
     text_base: recovery assessments and the launch of activity planning and implementation
       because of the decision to
-    total_y: 1984.9700317382812
-  - block_number: 8
-    index: 126
-    line_number: 6
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
-    span_number: 1
-    style: 'Arial, 13, #000000, None'
+    block_number: 8
+    line_number: 5
+    span_number: 0
+    total_y: 1984.9700317382808
+  - index: 126
     text: '5'
     text_base: '5'
-    total_y: 1991.449951171875
-  - block_number: 8
-    index: 127
-    line_number: 6
+    style: 'Arial, 13, #000000, nan'
     page_number: 2
-    span_number: 2
-    style: 'Arial, 20, #000000, None'
+    block_number: 8
+    line_number: 6
+    span_number: 1
+    total_y: 1991.449951171875
+  - index: 127
     text: ) prior to planning and  complete all assessments over a large geographical
       area (about 17,558 sq km
     text_base: prior to planning and complete all assessments over a large geographical
       area about 17 558 sq km
-    total_y: 1996.4899291992188
-  - block_number: 8
-    index: 128
-    line_number: 7
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 8
+    line_number: 6
+    span_number: 2
+    total_y: 1996.4899291992188
+  - index: 128
     text: "implementation \u2013 the learning gained from this is that staggering\
       \ assessments and recovery action "
     text_base: implementation the learning gained from this is that staggering assessments
       and recovery action
-    total_y: 2008.0099487304688
-  - block_number: 8
-    index: 129
-    line_number: 8
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 8
+    line_number: 7
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2008.0099487304688
+  - index: 129
     text: 'according to geographical and accessibility conditions, can be an option
       to ensure recovery assistance is '
     text_base: according to geographical and accessibility conditions can be an option
       to ensure recovery assistance is
-    total_y: 2019.4099426269531
-  - block_number: 8
-    index: 130
-    line_number: 9
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 8
+    line_number: 8
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2019.409942626953
+  - index: 130
     text: 'initiated as early as possible.  '
     text_base: initiated as early as possible
-    total_y: 2030.929931640625
-  - block_number: 9
-    index: 131
-    line_number: 1
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 8
+    line_number: 9
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 2030.929931640625
+  - index: 131
     text: "\uF0B7"
     text_base: ''
-    total_y: 2054.68994140625
-  - block_number: 9
-    index: 132
-    line_number: 2
+    style: 'Symbol, 20, #000000, nan'
     page_number: 2
+    block_number: 9
+    line_number: 1
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2054.68994140625
+  - index: 132
     text: 'A lack of integration of recovery assistance was experienced as a result
       of the initiation of different '
     text_base: a lack of integration of recovery assistance was experienced as a result
       of the initiation of different
-    total_y: 2054.68994140625
-  - block_number: 9
-    index: 133
-    line_number: 3
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 9
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2054.68994140625
+  - index: 133
     text: 'sectoral activities according to different timelines as well as the wide
       operational area which needed to '
     text_base: sectoral activities according to different timelines as well as the
       wide operational area which needed to
-    total_y: 2066.0899353027344
-  - block_number: 9
-    index: 134
-    line_number: 4
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 9
+    line_number: 3
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2066.0899353027344
+  - index: 134
     text: 'be covered. More efforts should therefore have been made at the outset
       of recovery planning towards '
     text_base: be covered more efforts should therefore have been made at the outset
       of recovery planning towards
-    total_y: 2077.6099243164062
-  - block_number: 9
-    index: 135
-    line_number: 5
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 9
+    line_number: 4
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2077.6099243164062
+  - index: 135
     text: 'integrating activities for the benefit of affected communities.  '
     text_base: integrating activities for the benefit of affected communities
-    total_y: 2089.129913330078
-  - block_number: 10
-    index: 136
-    line_number: 1
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 9
+    line_number: 5
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 2089.129913330078
+  - index: 136
     text: "\uF0B7"
     text_base: ''
-    total_y: 2112.909912109375
-  - block_number: 10
-    index: 137
-    line_number: 2
+    style: 'Symbol, 20, #000000, nan'
     page_number: 2
+    block_number: 10
+    line_number: 1
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2112.909912109375
+  - index: 137
     text: 'The transition of a large recovery operation to regular programming needs
       to begin as early as possible, '
     text_base: the transition of a large recovery operation to regular programming
       needs to begin as early as possible
-    total_y: 2112.909912109375
-  - block_number: 10
-    index: 138
-    line_number: 3
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 10
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2112.909912109375
+  - index: 138
     text: 'and consultation with beneficiaries, field offices, volunteers and staff
       has to be carried out with care and '
     text_base: and consultation with beneficiaries field offices volunteers and staff
       has to be carried out with care and
-    total_y: 2124.3099060058594
-  - block_number: 10
-    index: 139
-    line_number: 4
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 10
+    line_number: 3
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2124.3099060058594
+  - index: 139
     text: 'on a continuous basis. These practices were adopted to a large extent in
       the Nargis operation and '
     text_base: on a continuous basis these practices were adopted to a large extent
       in the nargis operation and
-    total_y: 2135.8298950195312
-  - block_number: 10
-    index: 140
-    line_number: 5
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 10
+    line_number: 4
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2135.8298950195312
+  - index: 140
     text: 'helped enormously towards its smooth transition. '
     text_base: helped enormously towards its smooth transition
-    total_y: 2147.349884033203
-  - block_number: 11
-    index: 141
-    line_number: 1
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 10
+    line_number: 5
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 2147.349884033203
+  - index: 141
     text: "\uF0B7"
     text_base: ''
-    total_y: 2170.9898681640625
-  - block_number: 11
-    index: 142
-    line_number: 2
+    style: 'Symbol, 20, #000000, nan'
     page_number: 2
+    block_number: 11
+    line_number: 1
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2170.9898681640625
+  - index: 142
     text: 'The hub model which was adopted in the operation and provided for the establishment
       of new National '
     text_base: the hub model which was adopted in the operation and provided for the
       establishment of new national
-    total_y: 2170.9898681640625
-  - block_number: 11
-    index: 143
-    line_number: 3
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 11
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2170.9898681640625
+  - index: 143
     text: 'Society field offices (known as hub offices) to complement existing Red
       Cross structures, to facilitate the '
     text_base: society field offices known as hub offices to complement existing red
       cross structures to facilitate the
-    total_y: 2182.5098571777344
-  - block_number: 11
-    index: 144
-    line_number: 4
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 11
+    line_number: 3
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2182.5098571777344
+  - index: 144
     text: 'robust implementation required of the large-scale Cyclone Nargis operation,
       has proven to be '
     text_base: robust implementation required of the large scale cyclone nargis operation
       has proven to be
-    total_y: 2194.0298461914062
-  - block_number: 11
-    index: 145
-    line_number: 5
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 11
+    line_number: 4
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2194.0298461914062
+  - index: 145
     text: 'appropriate and successful. Appropriate measures to counter friction between
       Red Cross stalwarts '
     text_base: appropriate and successful appropriate measures to counter friction
       between red cross stalwarts
-    total_y: 2205.4298095703125
-  - block_number: 11
-    index: 146
-    line_number: 6
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 11
+    line_number: 5
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2205.4298095703125
+  - index: 146
     text: "(leaders of township\u2013level volunteer brigades) and \u201Enewcomers\u201F\
       \ (hub managers), were also adopted "
     text_base: leaders of township level volunteer brigades and newcomers hub managers
       were also adopted
-    total_y: 2216.9498291015625
-  - block_number: 11
-    index: 147
-    line_number: 7
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 11
+    line_number: 6
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2216.9498291015625
+  - index: 147
     text: 'early on, and foremost among these was the monthly hub managers meeting
       in Yangon attended by '
     text_base: early on and foremost among these was the monthly hub managers meeting
       in yangon attended by
-    total_y: 2228.4698486328125
-  - block_number: 11
-    index: 148
-    line_number: 8
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 11
+    line_number: 7
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2228.4698486328125
+  - index: 148
     text: 'leaders of both old and new structures, and who provided insightful updates
       on field successes and '
     text_base: leaders of both old and new structures and who provided insightful
       updates on field successes and
-    total_y: 2239.9898071289062
-  - block_number: 11
-    index: 149
-    line_number: 9
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 11
+    line_number: 8
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2239.9898071289062
+  - index: 149
     text: 'challenges. It should also be noted that the hub model in place of IFRC
       sub-delegations in the field '
     text_base: challenges it should also be noted that the hub model in place of ifrc
       sub delegations in the field
-    total_y: 2251.509765625
-  - block_number: 11
-    index: 150
-    line_number: 10
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 11
+    line_number: 9
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2251.509765625
+  - index: 150
     text: 'rightfully gave the National Society a stronger sense of ownership of the
       operation.  '
     text_base: rightfully gave the national society a stronger sense of ownership
       of the operation
-    total_y: 2263.059814453125
-  - block_number: 12
-    index: 151
-    line_number: 0
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 11
+    line_number: 10
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 2263.059814453125
+  - index: 151
     text: "\uF0B7"
     text_base: ''
-    total_y: 2286.699951171875
-  - block_number: 12
-    index: 152
-    line_number: 1
+    style: 'Symbol, 20, #000000, nan'
     page_number: 2
+    block_number: 12
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2286.699951171875
+  - index: 152
     text: 'Providing assistance holistically to communities is likely to have greater
       impact than wide and sparse '
     text_base: providing assistance holistically to communities is likely to have
       greater impact than wide and sparse
-    total_y: 2286.699951171875
-  - block_number: 12
-    index: 154
-    line_number: 2
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
-    span_number: 1
-    style: 'Arial, 13, #000000, None'
+    block_number: 12
+    line_number: 1
+    span_number: 0
+    total_y: 2286.699951171875
+  - index: 154
     text: '6'
     text_base: '6'
-    total_y: 2293.179931640625
-  - block_number: 12
-    index: 153
-    line_number: 2
+    style: 'Arial, 13, #000000, nan'
     page_number: 2
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 12
+    line_number: 2
+    span_number: 1
+    total_y: 2293.179931640625
+  - index: 153
     text: 'delivery to individual households . To a large extent, this holistic targeting
       was practised in the Cyclone '
     text_base: delivery to individual households to a large extent this holistic targeting
       was practised in the cyclone
-    total_y: 2298.219970703125
-  - block_number: 12
-    index: 156
-    line_number: 3
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 12
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2298.219970703125
+  - index: 156
     text: 'Nargis operation. '
     text_base: nargis operation
-    total_y: 2309.6199340820312
-  - block_number: 13
-    index: 157
-    line_number: 0
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
+    block_number: 12
+    line_number: 3
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 2309.6199340820312
+  - index: 157
     text: "\uF0B7"
     text_base: ''
-    total_y: 2333.3799438476562
-  - block_number: 13
-    index: 158
-    line_number: 1
+    style: 'Symbol, 20, #000000, nan'
     page_number: 2
+    block_number: 13
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2333.379943847656
+  - index: 158
     text: 'The meaningful involvement of communities in assessment, planning, beneficiary
       selections and '
     text_base: the meaningful involvement of communities in assessment planning beneficiary
       selections and
-    total_y: 2333.3799438476562
-  - block_number: 13
-    index: 160
-    line_number: 2
+    style: 'Arial, 20, #000000, nan'
     page_number: 2
-    span_number: 1
-    style: 'Arial, 13, #000000, None'
+    block_number: 13
+    line_number: 1
+    span_number: 0
+    total_y: 2333.379943847656
+  - index: 160
     text: '7'
     text_base: '7'
-    total_y: 2339.8599853515625
-  - block_number: 13
-    index: 159
-    line_number: 2
+    style: 'Arial, 13, #000000, nan'
     page_number: 2
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 13
+    line_number: 2
+    span_number: 1
+    total_y: 2339.8599853515625
+  - index: 159
     text: monitoring has brought about a high sense of ownership, one of the key ingredients
       of sustainability.
     text_base: monitoring has brought about a high sense of ownership one of the key
       ingredients of sustainability
-    total_y: 2344.8999633789062
-  - block_number: 2
-    index: 173
-    line_number: 0
-    page_number: 3
+    style: 'Arial, 20, #000000, nan'
+    page_number: 2
+    block_number: 13
+    line_number: 2
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 2344.8999633789062
+  - index: 173
     text: "\uF0B7"
     text_base: ''
-    total_y: 2607.739990234375
-  - block_number: 2
-    index: 174
-    line_number: 1
+    style: 'Symbol, 20, #000000, nan'
     page_number: 3
+    block_number: 2
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2607.739990234375
+  - index: 174
     text: 'MRCS has proven that a National Society is capable of stepping up to immense
       challenges and in the '
     text_base: mrcs has proven that a national society is capable of stepping up to
       immense challenges and in the
-    total_y: 2607.739990234375
-  - block_number: 2
-    index: 175
-    line_number: 2
+    style: 'Arial, 20, #000000, nan'
     page_number: 3
+    block_number: 2
+    line_number: 1
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2607.739990234375
+  - index: 175
     text: "process, scale up its capacity, if it has the leadership and \u201Eheart\u201F\
       \ to do so.  "
     text_base: process scale up its capacity if it has the leadership and heart to
       do so
-    total_y: 2619.1400146484375
-  sector_idx: null
-  sector_similarity_score: null
-  sector_title: null
-  title:
-    block_number: 7
-    idx: 78
-    line_number: 33
-    page_number: 1
+    style: 'Arial, 20, #000000, nan'
+    page_number: 3
+    block_number: 2
+    line_number: 2
     span_number: 0
-    style: 'Arial,Bold, 20, #000000, None'
-    text: 'Lessons learnt  '
-    text_base: lessons learnt
-    total_y: 1432.4199829101562
+    total_y: 2619.140014648437
