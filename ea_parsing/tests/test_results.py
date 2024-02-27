@@ -16,21 +16,68 @@ class TestResults(unittest.TestCase):
         lessons_learned_results = {}
         TESTS_DIR = os.path.dirname(os.path.realpath(__file__))
         files = os.listdir(os.path.join(TESTS_DIR, 'results'))
-        for file in files:
-            mdr_code = os.path.splitext(file)[0]
-            lessons_learned_results[mdr_code] = yaml.safe_load(open(os.path.join(TESTS_DIR, 'results', file)))
+        for i, file in enumerate(files):
 
-        # Loop through results
-        for i, (mdr_code, validated_results) in enumerate(lessons_learned_results.items()):
-            with self.subTest(i=i, msg=mdr_code):
+            if file.split('.')[-1]!='yml': continue
+
+            # Get MDR code and validated results
+            mdr_code = os.path.splitext(file)[0]
+            validated_lessons_learned = yaml.safe_load(open(os.path.join(TESTS_DIR, 'results', file)))
+
+            with self.subTest(msg=mdr_code, i=i):
 
                 # Get appeal final report
                 appeal = Appeal(mdr_code=mdr_code)
                 final_report = appeal.final_report
-                lessons_learned = final_report.lessons_learned
 
-                # Compare results
-                self.assertTrue(
-                    lessons_learned == validated_results, 
-                    f'Results do not match expected results for MDR code: {mdr_code}'
+                # Get the document lines
+                document_lines_path = os.path.join(TESTS_DIR, 'raw_lines', f'{mdr_code}.csv')
+                if os.path.isfile(document_lines_path):
+                    final_report.raw_lines_input = pd.read_csv(document_lines_path, index_col=0)
+
+                # Get lessons learned
+                lessons_leared_results = final_report.lessons_learned
+
+                # Compare number of lessons learned
+                self.assertEqual(
+                    len(lessons_leared_results),
+                    len(validated_lessons_learned),
+                    f"Different number of lessons learned for MDR code: {mdr_code}"
                 )
+
+                # Loop through lessons to compare
+                for i, lesson_result in enumerate(lessons_leared_results):
+                    lesson_validated = validated_lessons_learned[i]
+
+                    # Compare title and sector title
+                    self.assertEqual(
+                        lesson_result['title']['text'],
+                        lesson_validated['title']['text'],
+                        f"Different titles for MDR code: {mdr_code}\n\nResults: {lesson_result['title']}\nValidated results: {lesson_validated['title']}"
+                    )
+                    self.assertEqual(
+                        lesson_result['sector_title'],
+                        lesson_validated['sector_title'],
+                        f"Different sector titles for MDR code: {mdr_code}\n\nResults: {lesson_result['sector_title']}\nValidated results: {lesson_validated['sector_title']}"
+                    )
+
+                    # Compare content length
+                    self.assertEqual(
+                        len(lesson_validated['content']),
+                        len(lesson_result['content']),
+                        f"Different length of content for MDR code: {mdr_code}"
+                    )
+
+                    # Compare content
+                    validated_content = pd.DataFrame(
+                        [item['text'] for item in lesson_validated['content']], 
+                        columns=['content']
+                    )
+                    results_content = pd.DataFrame(
+                        [item['text'] for item in lesson_result['content']], 
+                        columns=['content']
+                    )
+                    self.assertTrue(
+                        validated_content.equals(results_content),
+                        f'Lessons learned contents does not match for MDR code: {mdr_code}\n\n{results_content.compare(validated_content)}'
+                    )
