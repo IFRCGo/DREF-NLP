@@ -1,148 +1,104 @@
 Shelter, Housing and Settlements:
-  titles:
-    - shelter
-    - shelter settlements
-    - shelter settlements household items
-    - emergency shelter non food items
-    - temporary emergency shelter human settlements
-    - shelter settlements non food items
-  keywords:
-    - shelter
-    - house
-    - housing
-    - settlements
+  - shelter
+  - shelter settlements
+  - shelter settlements household items
+  - emergency shelter non food items
+  - temporary emergency shelter human settlements
+  - shelter settlements non food items
 
 Livelihoods:
-  titles:
-    - livelihoods and basic needs
-    - livelihoods support
+  - livelihoods and basic needs
+  - livelihoods support
 
 Relief:
-  titles:
-    - relief
-    - relief distributions
-    - relief distributions food and basic non food items
-    - food and non food item distributions
+  - relief
+  - relief distributions
+  - relief distributions food
+  - relief distributions food items
+  - relief distributions non food items
+  - relief distributions food and basic non food items
+  - food and non food item distributions
 
 Multi-Purpose Cash:
-  titles:
-    - multipurpose cash
-  keywords:
-    - cash
-    - cva
+  - multipurpose cash
+  - cash
+  - cva
 
 Health and Care:
-  titles:
-    - health
-    - health care
-    - health nutrition
-    - emergency health
-  keywords:
-    - health
+  - health
+  - health care
+  - health nutrition
+  - emergency health
 
 Water, Sanitation and Hygiene:
-  titles:
-    - water sanitation
-    - water sanitation and hygiene
-    - water sanitation and hygiene promotion
-    - water sanitation and hygiene promotion wash
-  keywords:
-    - water
-    - wash
-    - sanitation
-    - hygiene
+  - water sanitation
+  - water sanitation and hygiene
+  - water sanitation and hygiene promotion
+  - water sanitation and hygiene promotion wash
 
 Protection, Gender and Inclusion:
-  titles:
-    - protection gender and inclusion
-    - protection gender and diversity
-    - protection gender
-    - inclusion protection
-  keywords:
-    - pgi
-    - protection
-    - gender
-    - inclusion
+  - protection gender and inclusion
+  - protection gender and diversity
+  - protection gender
+  - inclusion protection
 
 Education:
 - education
 
 Food insecurity and nutrition:
-  titles:
-    - food insecurity nutrition livelihoods
-    - food insecurity
-    - livelihoods nutrition and food insecurity
-  keywords:
-    - food
-    - food insecurity
-    - nutrition
+  - food insecurity
+  - food insecurity nutrition livelihoods
+  - food insecurity livelihoods basic needs
+  - livelihoods nutrition and food insecurity
 
 Risk Reduction, Climate adaptation and Recovery:
-  titles:
-    - risk reduction climate adaptation recovery
-    - disaster response preparedness early warning risk reduction
-    - disaster risk reduction
-    - disaster preparedness risk reduction
-    - early warning emergency response preparedness
-    - risk reduction climate adaptation
-    - community preparedness risk reduction
-    - early warning preparedness emergency response
-  keywords:
-    - risk reduction
-    - climate
-    - recovery
-    - disaster risk
+  - risk reduction climate adaptation recovery
+  - disaster response preparedness early warning risk reduction
+  - disaster risk reduction
+  - disaster preparedness risk reduction
+  - early warning emergency response preparedness
+  - risk reduction climate adaptation
+  - community preparedness risk reduction
+  - community preparedness disaster risk reduction
+  - early warning preparedness emergency response
 
 National Society Strengthening:
-  titles:
-    - national society development
-    - national society capacity building
-    - organizational development
-    - strengthen national society
-    - strengthening national society
-    - national society capacity building and disaster preparedness
-    - national society capacity building and preparedness
-    - national society institutional preparedness and capacity development
-    - national society institutional preparedness
-  keywords:
-    - nsd
+  - national society development
+  - national society capacity building
+  - organizational development
+  - strengthen national society
+  - strengthening national society
+  - national society capacity building and disaster preparedness
+  - national society capacity building and preparedness
+  - national society institutional preparedness and capacity development
+  - national society institutional preparedness
 
 Community Engagement and Accountability:
-  titles:
-    - cea
-    - community engagement accountability
-    - community engagement accountability cea
-  keywords:
-    - cea
-    - community engagement
-    - accountability
+  - cea
+  - community engagement accountability
+  - community engagement accountability cea
 
 Quality Programming:
-  titles:
-    - quality programming
-    - quality programming common factor all sectors
-    - quality programming areas common all sectors
-    - quality programming programming support services
-    - quality programming common areas all sectors
+  - quality programming
+  - quality programming common factor all sectors
+  - quality programming areas common all sectors
+  - quality programming common areas all sectors
+  - quality programming programming support services
 
 Migration and displacement:
-  titles:
-    - migration
+  - migration
 
 Disaster Management:
-  titles:
-    - international disaster management
+  - international disaster management
 
 International Disaster Response:
-  titles:
-    - response management and coordination
-    - institutional disaster response capacity enhancement
+  - response management and coordination
+  - institutional disaster response capacity enhancement
 
 Communications:
-  titles:
-    - communications advocacy and public information
-    - communications IT
-    - communications IT reporting monitoring
+  - communications advocacy and public information
+  - communications IT
+  - communications IT reporting monitoring
 
 Restoring family links:
 
@@ -151,9 +107,8 @@ Social and community development:
 Camp management and coordination:
 
 Influence others as leading strategic partner:
-  titles:
-    - influence others as leading strategic partners
-    - influence others as leading strategic partners in humanitarian action and resilience
+  - influence others as leading strategic partners
+  - influence others as leading strategic partners in humanitarian action and resilience
 
 Effective, credible and accountable IFRC:
 
