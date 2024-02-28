@@ -1,582 +1,582 @@
-- content:
-  - block_number: 6
-    index: 573
-    line_number: 2
+- title:
+    text: 'Lesson Learned: '
+    text_base: lesson learned
+    style: 'bold, 20, #000000, #f4f4f4'
     page_number: 8
+    block_number: 6
+    line_number: 1
     span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    total_y: 7007.4599609375
+    idx: 572
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 234
+  sector_similarity_score: 1.0
+  content:
+  - index: 573
     text: 'PRC engaged in multiple suppliers which led to competition as a mitigation
       measure for the delay in the delivery of '
     text_base: prc engaged in multiple suppliers which led to competition as a mitigation
       measure for the delay in the delivery of
-    total_y: 7021.0799560546875
-  - block_number: 6
-    index: 574
-    line_number: 3
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 8
+    block_number: 6
+    line_number: 2
     span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    total_y: 7021.079956054688
+  - index: 574
     text: 'suppliers. An agreement was made between the community and supplier to
       have the capacity required like the '
     text_base: suppliers an agreement was made between the community and supplier
       to have the capacity required like the
-    total_y: 7034.699951171875
-  - block_number: 6
-    index: 575
-    line_number: 4
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 8
+    block_number: 6
+    line_number: 3
     span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    total_y: 7034.699951171875
+  - index: 575
     text: 'number of materials needed. '
     text_base: number of materials needed
-    total_y: 7048.3199462890625
-  sector_idx: 234
-  sector_similarity_score: 1.0
-  sector_title: Shelter, Housing and Settlements
-  title:
-    block_number: 6
-    idx: 572
-    line_number: 1
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 8
+    block_number: 6
+    line_number: 4
     span_number: 0
-    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
-    text: 'Lesson Learned: '
-    text_base: lesson learned
-    total_y: 7007.4599609375
-- content:
-  - block_number: 10
-    index: 1003
-    line_number: 2
+    total_y: 7048.319946289063
+- title:
+    text: 'Lessons Learned: '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
     page_number: 14
+    block_number: 10
+    line_number: 1
     span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    total_y: 11629.89990234375
+    idx: 1002
+  sector_title: Livelihoods
+  sector_idx: 581
+  sector_similarity_score: 1.0
+  content:
+  - index: 1003
     text: "\u2022"
     text_base: ''
-    total_y: 11643.519897460938
-  - block_number: 10
-    index: 1004
-    line_number: 2
+    style: 'symbolmt, 20, #000000, #f4f4f4'
     page_number: 14
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 11643.519897460938
+  - index: 1004
     text: 'Capacity-building programme should be in place, to enable staff and volunteers
       to again knowledge on '
     text_base: capacity building programme should be in place to enable staff and
       volunteers to again knowledge on
-    total_y: 11643.519897460938
-  - block_number: 10
-    index: 1005
-    line_number: 4
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 14
-    span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 10
+    line_number: 2
+    span_number: 1
+    total_y: 11643.519897460938
+  - index: 1005
     text: 'conducting livelihood activities on the ground. '
     text_base: conducting livelihood activities on the ground
-    total_y: 11657.139892578125
-  - block_number: 11
-    index: 1006
-    line_number: 0
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 14
+    block_number: 10
+    line_number: 4
     span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    total_y: 11657.139892578123
+  - index: 1006
     text: "\u2022"
     text_base: ''
-    total_y: 11670.759948730469
-  - block_number: 11
-    index: 1007
-    line_number: 0
+    style: 'symbolmt, 20, #000000, #f4f4f4'
     page_number: 14
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 11670.759948730469
+  - index: 1007
     text: 'There is a need for improved CSG and CMLP implementing guidelines. '
     text_base: there is a need for improved csg and cmlp implementing guidelines
-    total_y: 11670.759948730469
-  sector_idx: 581
-  sector_similarity_score: 1.0
-  sector_title: Livelihoods
-  title:
-    block_number: 10
-    idx: 1002
-    line_number: 1
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 14
-    span_number: 0
-    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    block_number: 11
+    line_number: 0
+    span_number: 1
+    total_y: 11670.759948730469
+- title:
     text: 'Lessons Learned: '
     text_base: lessons learned
-    total_y: 11629.89990234375
-- content:
-  - block_number: 4
-    index: 1183
-    line_number: 2
+    style: 'bold, 20, #000000, #f4f4f4'
     page_number: 17
+    block_number: 4
+    line_number: 1
     span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    total_y: 13796.23989868164
+    idx: 1182
+  sector_title: Health and Care
+  sector_idx: 1008
+  sector_similarity_score: 1.0
+  content:
+  - index: 1183
     text: "\u2022"
     text_base: ''
-    total_y: 13809.859924316406
-  - block_number: 4
-    index: 1184
-    line_number: 2
+    style: 'symbolmt, 20, #000000, #f4f4f4'
     page_number: 17
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 13809.859924316406
+  - index: 1184
     text: 'Proper coordination and understanding among the stakeholders for a smooth
       implementation of the '
     text_base: proper coordination and understanding among the stakeholders for a
       smooth implementation of the
-    total_y: 13809.859924316406
-  - block_number: 4
-    index: 1185
-    line_number: 4
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 17
-    span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 4
+    line_number: 2
+    span_number: 1
+    total_y: 13809.859924316406
+  - index: 1185
     text: 'operation. '
     text_base: operation
-    total_y: 13823.479919433594
-  - block_number: 5
-    index: 1186
-    line_number: 0
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 17
+    block_number: 4
+    line_number: 4
     span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    total_y: 13823.479919433594
+  - index: 1186
     text: "\u2022"
     text_base: ''
-    total_y: 13837.099914550781
-  - block_number: 5
-    index: 1187
-    line_number: 0
+    style: 'symbolmt, 20, #000000, #f4f4f4'
     page_number: 17
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 13837.09991455078
+  - index: 1187
     text: 'Capacity building specially on different health response and to allocate
       adequate budgets for '
     text_base: capacity building specially on different health response and to allocate
       adequate budgets for
-    total_y: 13837.099914550781
-  - block_number: 5
-    index: 1188
-    line_number: 2
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 17
-    span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 13837.09991455078
+  - index: 1188
     text: 'trainings/capacity building under regular programming. '
     text_base: trainings capacity building under regular programming
-    total_y: 13850.73989868164
-  sector_idx: 1008
-  sector_similarity_score: 1.0
-  sector_title: Health and Care
-  title:
-    block_number: 4
-    idx: 1182
-    line_number: 1
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 17
+    block_number: 5
+    line_number: 2
     span_number: 0
-    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    total_y: 13850.73989868164
+- title:
     text: 'Lessons Learned: '
     text_base: lessons learned
-    total_y: 13796.23989868164
-- content:
-  - block_number: 4
-    index: 1295
-    line_number: 2
+    style: 'bold, 20, #000000, #f4f4f4'
     page_number: 19
+    block_number: 4
+    line_number: 1
     span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    total_y: 15530.319915771484
+    idx: 1294
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 1189
+  sector_similarity_score: 1.0
+  content:
+  - index: 1295
     text: "\u2022"
     text_base: ''
-    total_y: 15543.939910888672
-  - block_number: 4
-    index: 1296
-    line_number: 2
+    style: 'symbolmt, 20, #000000, #f4f4f4'
     page_number: 19
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 15543.939910888672
+  - index: 1296
     text: 'Encourage the chapters to build the capacity of the volunteers by providing
       specific WASH-related trainings. '
     text_base: encourage the chapters to build the capacity of the volunteers by providing
       specific wash related trainings
-    total_y: 15543.939910888672
-  - block_number: 5
-    index: 1297
-    line_number: 0
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 19
-    span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    block_number: 4
+    line_number: 2
+    span_number: 1
+    total_y: 15543.939910888672
+  - index: 1297
     text: "\u2022"
     text_base: ''
-    total_y: 15557.55990600586
-  - block_number: 5
-    index: 1298
-    line_number: 0
+    style: 'symbolmt, 20, #000000, #f4f4f4'
     page_number: 19
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 15557.55990600586
+  - index: 1298
     text: 'Regular monitoring of assets and quarterly inventory checks to ensure assets
       are maintained in good condition '
     text_base: regular monitoring of assets and quarterly inventory checks to ensure
       assets are maintained in good condition
-    total_y: 15557.55990600586
-  - block_number: 5
-    index: 1299
-    line_number: 2
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 19
-    span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 15557.55990600586
+  - index: 1299
     text: 'and ready to deploy. '
     text_base: and ready to deploy
-    total_y: 15571.179931640625
-  sector_idx: 1189
-  sector_similarity_score: 1.0
-  sector_title: Water, Sanitation and Hygiene
-  title:
-    block_number: 4
-    idx: 1294
-    line_number: 1
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 19
+    block_number: 5
+    line_number: 2
     span_number: 0
-    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    total_y: 15571.179931640623
+- title:
     text: 'Lessons Learned: '
     text_base: lessons learned
-    total_y: 15530.319915771484
-- content:
-  - block_number: 3
-    index: 1413
-    line_number: 2
+    style: 'bold, 20, #000000, #f4f4f4'
     page_number: 21
+    block_number: 3
+    line_number: 1
     span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    total_y: 16923.859893798828
+    idx: 1412
+  sector_title: Protection, Gender and Inclusion
+  sector_idx: 1300
+  sector_similarity_score: 1.0
+  content:
+  - index: 1413
     text: "\u2022"
     text_base: ''
-    total_y: 16937.479888916016
-  - block_number: 3
-    index: 1414
-    line_number: 2
+    style: 'symbolmt, 20, #000000, #f4f4f4'
     page_number: 21
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 16937.479888916016
+  - index: 1414
     text: 'Annually conduct capacity-building trainings to chapter staff/volunteers
       to increase the number of trained '
     text_base: annually conduct capacity building trainings to chapter staff volunteers
       to increase the number of trained
-    total_y: 16937.479888916016
-  - block_number: 3
-    index: 1415
-    line_number: 4
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 21
-    span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 3
+    line_number: 2
+    span_number: 1
+    total_y: 16937.479888916016
+  - index: 1415
     text: 'volunteers who are available to deploy. Furthermore, ensure debriefing
       sessions are conducted for staff and '
     text_base: volunteers who are available to deploy furthermore ensure debriefing
       sessions are conducted for staff and
-    total_y: 16951.099884033203
-  - block_number: 3
-    index: 1416
-    line_number: 5
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 21
+    block_number: 3
+    line_number: 4
     span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    total_y: 16951.099884033203
+  - index: 1416
     text: 'volunteers involved in the operation. '
     text_base: volunteers involved in the operation
-    total_y: 16964.71987915039
-  sector_idx: 1300
-  sector_similarity_score: 1.0
-  sector_title: Protection, Gender and Inclusion
-  title:
-    block_number: 3
-    idx: 1412
-    line_number: 1
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 21
+    block_number: 3
+    line_number: 5
     span_number: 0
-    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    total_y: 16964.71987915039
+- title:
     text: 'Lessons Learned: '
     text_base: lessons learned
-    total_y: 16923.859893798828
-- content:
-  - block_number: 9
-    index: 1707
-    line_number: 2
+    style: 'bold, 20, #000000, #f4f4f4'
     page_number: 26
+    block_number: 9
+    line_number: 1
     span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    total_y: 21072.39987182617
+    idx: 1706
+  sector_title: National Society Strengthening
+  sector_idx: 1635
+  sector_similarity_score: 1.0
+  content:
+  - index: 1707
     text: "\u2022"
     text_base: ''
-    total_y: 21086.01986694336
-  - block_number: 9
-    index: 1708
-    line_number: 2
+    style: 'symbolmt, 20, #000000, #f4f4f4'
     page_number: 26
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 9
+    line_number: 2
+    span_number: 0
+    total_y: 21086.01986694336
+  - index: 1708
     text: 'Learned the importance of having trained and experienced Chapter Service
       Representatives (CSR) or focal '
     text_base: learned the importance of having trained and experienced chapter service
       representatives csr or focal
-    total_y: 21086.01986694336
-  - block_number: 9
-    index: 1709
-    line_number: 4
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 26
-    span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 9
+    line_number: 2
+    span_number: 1
+    total_y: 21086.01986694336
+  - index: 1709
     text: 'persons in each chapter. Provision of NHQ training capacity-building activities
       in the chapters as well as '
     text_base: persons in each chapter provision of nhq training capacity building
       activities in the chapters as well as
-    total_y: 21099.639862060547
-  - block_number: 9
-    index: 1710
-    line_number: 5
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 26
+    block_number: 9
+    line_number: 4
     span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    total_y: 21099.639862060547
+  - index: 1710
     text: 'simulations exercise. '
     text_base: simulations exercise
-    total_y: 21113.259887695312
-  - block_number: 10
-    index: 1711
-    line_number: 0
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 26
+    block_number: 9
+    line_number: 5
     span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    total_y: 21113.259887695312
+  - index: 1711
     text: "\u2022"
     text_base: ''
-    total_y: 21126.8798828125
-  - block_number: 10
-    index: 1712
-    line_number: 0
+    style: 'symbolmt, 20, #000000, #f4f4f4'
     page_number: 26
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 21126.8798828125
+  - index: 1712
     text: 'Focus on volunteer recruitment, retention, and appreciation programmes.
       Good coordination and '
     text_base: focus on volunteer recruitment retention and appreciation programmes
       good coordination and
-    total_y: 21126.8798828125
-  - block_number: 10
-    index: 1713
-    line_number: 2
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 26
-    span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 10
+    line_number: 0
+    span_number: 1
+    total_y: 21126.8798828125
+  - index: 1713
     text: 'communication among NHQ / chapter / LGUs play a vital role in the success
       of the operation. '
     text_base: communication among nhq chapter lgus play a vital role in the success
       of the operation
-    total_y: 21140.499877929688
-  sector_idx: 1635
-  sector_similarity_score: 1.0
-  sector_title: National Society Strengthening
-  title:
-    block_number: 9
-    idx: 1706
-    line_number: 1
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 26
+    block_number: 10
+    line_number: 2
     span_number: 0
-    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    total_y: 21140.499877929688
+- title:
     text: 'Lessons Learned: '
     text_base: lessons learned
-    total_y: 21072.399871826172
-- content:
-  - block_number: 9
-    index: 2138
-    line_number: 3
+    style: 'bold, 20, #000000, #f4f4f4'
     page_number: 34
+    block_number: 9
+    line_number: 2
     span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
-    text: "\u2022"
-    text_base: ''
-    total_y: 27511.239807128906
-  - block_number: 9
-    index: 2139
-    line_number: 3
-    page_number: 34
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
-    text: 'Adopt and adapt new approaches in delivering services including safety
-      protocols. '
-    text_base: adopt and adapt new approaches in delivering services including safety
-      protocols
-    total_y: 27511.239807128906
-  - block_number: 9
-    index: 2140
-    line_number: 4
-    page_number: 34
-    span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
-    text: "\u2022"
-    text_base: ''
-    total_y: 27524.85986328125
-  - block_number: 9
-    index: 2141
-    line_number: 4
-    page_number: 34
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
-    text: 'Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue
-      implementing innovations on '
-    text_base: due to the covid 19 lockdown and restrictions nhq and chapters to continue
-      implementing innovations on
-    total_y: 27524.85986328125
-  - block_number: 10
-    index: 2142
-    line_number: 0
-    page_number: 34
-    span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
-    text: 'project implementation such as using online messaging applications for
-      monitoring and submission of reports. '
-    text_base: project implementation such as using online messaging applications
-      for monitoring and submission of reports
-    total_y: 27538.479858398438
+    total_y: 27497.61981201172
+    idx: 2137
+  sector_title: Shelter, Housing and Settlements
   sector_idx: 2082
   sector_similarity_score: 1.0
-  sector_title: Shelter, Housing and Settlements
-  title:
-    block_number: 9
-    idx: 2137
-    line_number: 2
-    page_number: 34
-    span_number: 0
-    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
-    text: 'Lessons Learned: '
-    text_base: lessons learned
-    total_y: 27497.61981201172
-- content:
-  - block_number: 14
-    index: 2405
-    line_number: 9
-    page_number: 38
-    span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+  content:
+  - index: 2138
     text: "\u2022"
     text_base: ''
-    total_y: 30475.63980102539
-  - block_number: 14
-    index: 2406
-    line_number: 9
-    page_number: 38
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 34
+    block_number: 9
+    line_number: 3
+    span_number: 0
+    total_y: 27511.239807128903
+  - index: 2139
     text: 'Adopt and adapt new approaches in delivering services including safety
       protocols. '
     text_base: adopt and adapt new approaches in delivering services including safety
       protocols
-    total_y: 30475.63980102539
-  - block_number: 14
-    index: 2407
-    line_number: 10
-    page_number: 38
-    span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 34
+    block_number: 9
+    line_number: 3
+    span_number: 1
+    total_y: 27511.239807128903
+  - index: 2140
     text: "\u2022"
     text_base: ''
-    total_y: 30489.279815673828
-  - block_number: 14
-    index: 2408
-    line_number: 10
-    page_number: 38
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 34
+    block_number: 9
+    line_number: 4
+    span_number: 0
+    total_y: 27524.85986328125
+  - index: 2141
     text: 'Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue
       implementing innovations on '
     text_base: due to the covid 19 lockdown and restrictions nhq and chapters to continue
       implementing innovations on
-    total_y: 30489.279815673828
-  - block_number: 15
-    index: 2409
-    line_number: 0
-    page_number: 38
-    span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 34
+    block_number: 9
+    line_number: 4
+    span_number: 1
+    total_y: 27524.85986328125
+  - index: 2142
     text: 'project implementation such as using online messaging applications for
       monitoring and submission of reports. '
     text_base: project implementation such as using online messaging applications
       for monitoring and submission of reports
-    total_y: 30502.899810791016
-  sector_idx: 2143
-  sector_similarity_score: 1.0
-  sector_title: Livelihoods
-  title:
-    block_number: 14
-    idx: 2404
-    line_number: 8
-    page_number: 38
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 34
+    block_number: 10
+    line_number: 0
     span_number: 0
-    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    total_y: 27538.47985839844
+- title:
     text: 'Lessons Learned: '
     text_base: lessons learned
-    total_y: 30462.019805908203
-- content:
-  - block_number: 6
-    index: 2583
-    line_number: 2
-    page_number: 41
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 38
+    block_number: 14
+    line_number: 8
     span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    total_y: 30462.019805908203
+    idx: 2404
+  sector_title: Livelihoods
+  sector_idx: 2143
+  sector_similarity_score: 1.0
+  content:
+  - index: 2405
     text: "\u2022"
     text_base: ''
-    total_y: 32670.919799804688
-  - block_number: 6
-    index: 2584
-    line_number: 2
-    page_number: 41
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 38
+    block_number: 14
+    line_number: 9
+    span_number: 0
+    total_y: 30475.63980102539
+  - index: 2406
+    text: 'Adopt and adapt new approaches in delivering services including safety
+      protocols. '
+    text_base: adopt and adapt new approaches in delivering services including safety
+      protocols
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 38
+    block_number: 14
+    line_number: 9
     span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    total_y: 30475.63980102539
+  - index: 2407
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 38
+    block_number: 14
+    line_number: 10
+    span_number: 0
+    total_y: 30489.279815673828
+  - index: 2408
+    text: 'Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue
+      implementing innovations on '
+    text_base: due to the covid 19 lockdown and restrictions nhq and chapters to continue
+      implementing innovations on
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 38
+    block_number: 14
+    line_number: 10
+    span_number: 1
+    total_y: 30489.279815673828
+  - index: 2409
+    text: 'project implementation such as using online messaging applications for
+      monitoring and submission of reports. '
+    text_base: project implementation such as using online messaging applications
+      for monitoring and submission of reports
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 38
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 30502.899810791016
+- title:
+    text: 'Lessons Learned: '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 41
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 32657.359802246094
+    idx: 2582
+  sector_title: Health and Care
+  sector_idx: 2410
+  sector_similarity_score: 1.0
+  content:
+  - index: 2583
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 41
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 32670.919799804688
+  - index: 2584
     text: 'Proper coordination and understanding among the stakeholders led to a smooth
       implementation of the '
     text_base: proper coordination and understanding among the stakeholders led to
       a smooth implementation of the
-    total_y: 32670.919799804688
-  - block_number: 7
-    index: 2585
-    line_number: 0
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 41
-    span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 6
+    line_number: 2
+    span_number: 1
+    total_y: 32670.919799804688
+  - index: 2585
     text: 'response operation. '
     text_base: response operation
-    total_y: 32684.539794921875
-  - block_number: 8
-    index: 2586
-    line_number: 0
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 41
+    block_number: 7
+    line_number: 0
     span_number: 0
-    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    total_y: 32684.539794921875
+  - index: 2586
     text: "\u2022"
     text_base: ''
-    total_y: 32698.159790039062
-  - block_number: 8
-    index: 2587
-    line_number: 0
+    style: 'symbolmt, 20, #000000, #f4f4f4'
     page_number: 41
-    span_number: 1
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 32698.159790039062
+  - index: 2587
     text: 'Capacity building, especially on different health responses and to allocate
       adequate budgets for '
     text_base: capacity building especially on different health responses and to allocate
       adequate budgets for
-    total_y: 32698.159790039062
-  - block_number: 9
-    index: 2588
-    line_number: 0
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 41
-    span_number: 0
-    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 32698.159790039062
+  - index: 2588
     text: 'trainings/capacity building under regular programming. '
     text_base: trainings capacity building under regular programming
-    total_y: 32711.77978515625
-  sector_idx: 2410
-  sector_similarity_score: 1.0
-  sector_title: Health and Care
-  title:
-    block_number: 6
-    idx: 2582
-    line_number: 1
+    style: 'regular, 20, #000000, #f4f4f4'
     page_number: 41
+    block_number: 9
+    line_number: 0
     span_number: 0
-    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
-    text: 'Lessons Learned: '
-    text_base: lessons learned
-    total_y: 32657.359802246094
+    total_y: 32711.77978515625
