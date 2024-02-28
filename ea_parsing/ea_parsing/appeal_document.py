@@ -123,14 +123,16 @@ class Appeal:
         
         if len(final_reports)==0:
             return None
-        
-        if len(final_reports) > 1:
-            final_reports = [document for document in final_reports if ('prelim' not in document.name.lower())]
+        elif len(final_reports)==1:
+            return final_reports[0]
 
-        if len(final_reports) > 1:
-            final_reports = sorted(final_reports, key=lambda d: d.created_at, reverse=True)
-
-        return final_reports[0]
+        # More than 1 final report: return non-prelim report, and/ or latest
+        final_reports = sorted(final_reports, key=lambda d: d.created_at, reverse=True)
+        non_prelim_reports = [document for document in final_reports if ('prelim' not in document.name.lower())]
+        if len(non_prelim_reports) >= 1:
+            return non_prelim_reports[0]
+        else:
+            return final_reports[0]
 
 
 
