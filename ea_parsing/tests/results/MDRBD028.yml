@@ -1,0 +1,1091 @@
+- title:
+    text: 'Lessons Learned:  '
+    text_base: lessons learned
+    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 11
+    line_number: 1
+    span_number: 0
+    total_y: 7657.9599609375
+    idx: 487
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 331
+  sector_similarity_score: 1.0
+  content:
+  - index: 488
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 7685.139953613281
+  - index: 489
+    text: 'Appropriate Selection Criteria:'
+    text_base: appropriate selection criteria
+    style: 'OpenSans-Italic, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 12
+    line_number: 0
+    span_number: 1
+    total_y: 7685.139953613281
+  - index: 490
+    text: ' The evaluation team (ET) found that the criteria for selecting the target '
+    text_base: the evaluation team et found that the criteria for selecting the target
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 12
+    line_number: 1
+    span_number: 1
+    total_y: 7685.139953613281
+  - index: 491
+    text: 'population were appropriate and relevant to the needs of the affected population.
+      It is recommended that '
+    text_base: population were appropriate and relevant to the needs of the affected
+      population it is recommended that
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 12
+    line_number: 2
+    span_number: 0
+    total_y: 7698.759948730469
+  - index: 492
+    text: 'similar criteria be used in future operations. However, it was noted that
+      the selection criteria restricted the '
+    text_base: similar criteria be used in future operations however it was noted
+      that the selection criteria restricted the
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 12
+    line_number: 3
+    span_number: 0
+    total_y: 7712.379943847656
+  - index: 493
+    text: 'inclusion of landless vulnerable populations in receiving support from
+      recovery operations, especially for '
+    text_base: inclusion of landless vulnerable populations in receiving support from
+      recovery operations especially for
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 12
+    line_number: 4
+    span_number: 0
+    total_y: 7725.999938964844
+  - index: 494
+    text: 'shelter. Some affected populations, with similar or worse vulnerability
+      compared to the target population '
+    text_base: shelter some affected populations with similar or worse vulnerability
+      compared to the target population
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 12
+    line_number: 5
+    span_number: 0
+    total_y: 7739.619934082031
+  - index: 495
+    text: 'of this flood operation, could not benefit solely based on these criteria.
+      While these criteria were essential '
+    text_base: of this flood operation could not benefit solely based on these criteria
+      while these criteria were essential
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 12
+    line_number: 6
+    span_number: 0
+    total_y: 7753.239929199219
+  - index: 496
+    text: 'to ensure the appropriate use of shelter and WASH support, alternative
+      support mechanisms may be '
+    text_base: to ensure the appropriate use of shelter and wash support alternative
+      support mechanisms may be
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 12
+    line_number: 7
+    span_number: 0
+    total_y: 7766.879943847656
+  - index: 497
+    text: 'considered for these vulnerable populations. '
+    text_base: considered for these vulnerable populations
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 12
+    line_number: 8
+    span_number: 0
+    total_y: 7780.499938964844
+  - index: 498
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 22, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 7808.0999755859375
+  - index: 499
+    text: 'Community Participation and Owner-Driven Approach:'
+    text_base: community participation and owner driven approach
+    style: 'OpenSans-Italic, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 13
+    line_number: 0
+    span_number: 1
+    total_y: 7808.0999755859375
+  - index: 500
+    text: ' Community participation and an owner-driven '
+    text_base: community participation and an owner driven
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 13
+    line_number: 1
+    span_number: 1
+    total_y: 7808.0999755859375
+  - index: 501
+    text: 'approach to shelter reconstruction were highly appreciated by community
+      members. The targeted '
+    text_base: approach to shelter reconstruction were highly appreciated by community
+      members the targeted
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 13
+    line_number: 2
+    span_number: 0
+    total_y: 7821.719970703125
+  - index: 502
+    text: households expressed satisfaction with the quality of CGI sheets and recommended
+      providing similar in-
+    text_base: households expressed satisfaction with the quality of cgi sheets and
+      recommended providing similar in
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 13
+    line_number: 3
+    span_number: 0
+    total_y: 7835.339965820312
+  - index: 503
+    text: kind and conditional cash assistance along with technical guidance in future
+      operations.
+    text_base: kind and conditional cash assistance along with technical guidance
+      in future operations
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 13
+    line_number: 4
+    span_number: 0
+    total_y: 7848.9599609375
+  - index: 507
+    text: '150,000 (Female: '
+    text_base: 150 000 female
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 10
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 8316.639953613281
+- title:
+    text: 'Lessons Learned: '
+    text_base: lessons learned
+    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 10409.879943847656
+    idx: 691
+  sector_title: Livelihoods
+  sector_idx: 505
+  sector_similarity_score: 1.0
+  content:
+  - index: 692
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 10437.13995361328
+  - index: 693
+    text: 'Currently, BDRCS has established a framework agreement with financial service
+      providers, notably the '
+    text_base: currently bdrcs has established a framework agreement with financial
+      service providers notably the
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 10437.13995361328
+  - index: 694
+    text: 'Bangladesh Post Office, to facilitate cash assistance through mobile money
+      transfer services. This '
+    text_base: bangladesh post office to facilitate cash assistance through mobile
+      money transfer services this
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 10450.759948730469
+  - index: 695
+    text: 'arrangement has enabled BDRCS to reach affected individuals across the
+      country, even in remote locations. '
+    text_base: arrangement has enabled bdrcs to reach affected individuals across
+      the country even in remote locations
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 10464.379943847656
+  - index: 696
+    text: 'Working in coordination with the financial service provider, BDRCS has
+      set up distribution centers at '
+    text_base: working in coordination with the financial service provider bdrcs has
+      set up distribution centers at
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 10477.999938964844
+  - index: 697
+    text: 'convenient locations for the targeted households. However, BDRCS does not
+      yet have a framework '
+    text_base: convenient locations for the targeted households however bdrcs does
+      not yet have a framework
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 4
+    line_number: 5
+    span_number: 0
+    total_y: 10491.559936523438
+  - index: 698
+    text: 'agreement with suppliers for the delivery of food items. To enhance its
+      response capabilities and reach '
+    text_base: agreement with suppliers for the delivery of food items to enhance
+      its response capabilities and reach
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 4
+    line_number: 6
+    span_number: 0
+    total_y: 10505.179931640623
+  - index: 699
+    text: 'affected people in a timely manner, BDRCS is planning to establish long-term
+      framework agreements with '
+    text_base: affected people in a timely manner bdrcs is planning to establish long
+      term framework agreements with
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 4
+    line_number: 7
+    span_number: 0
+    total_y: 10518.799926757812
+  - index: 700
+    text: 'suppliers for essential relief items. '
+    text_base: suppliers for essential relief items
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 4
+    line_number: 8
+    span_number: 0
+    total_y: 10532.419921875
+  - index: 701
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 10559.659912109377
+  - index: 702
+    text: 'Market assessments have proven to be instrumental in helping BDRCS make
+      informed decisions regarding '
+    text_base: market assessments have proven to be instrumental in helping bdrcs
+      make informed decisions regarding
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 10559.659912109377
+  - index: 703
+    text: 'various cash-based interventions. It is recommended that similar market
+      assessments be conducted in '
+    text_base: various cash based interventions it is recommended that similar market
+      assessments be conducted in
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 10573.279907226562
+  - index: 704
+    text: 'future operations. Furthermore, providing training to volunteers and staff
+      in this regard will be beneficial. '
+    text_base: future operations furthermore providing training to volunteers and
+      staff in this regard will be beneficial
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 5
+    line_number: 3
+    span_number: 0
+    total_y: 10586.899932861328
+  - index: 707
+    text: '1 ,000 (Female: '
+    text_base: 1 000 female
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 10
+    line_number: 1
+    span_number: 0
+    total_y: 10638.619934082031
+  - index: 708
+    text: '50'
+    text_base: '50'
+    style: 'TimesNewRomanPSMT, 22, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 10
+    line_number: 1
+    span_number: 1
+    total_y: 10638.619934082031
+  - index: 706
+    text: 'People targeted '
+    text_base: people targeted
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 10645.399932861328
+  - index: 710
+    text: '78 /Male: 7 )'
+    text_base: 78 male 7
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 10652.23992919922
+  - index: 711
+    text: ',000 2,000'
+    text_base: 000 2 000
+    style: 'TimesNewRomanPSMT, 22, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 10
+    line_number: 2
+    span_number: 1
+    total_y: 10652.23992919922
+- title:
+    text: 'Lessons Learned: '
+    text_base: lessons learned
+    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 11933.999938964844
+    idx: 823
+  sector_title: Multi-Purpose Cash
+  sector_idx: 705
+  sector_similarity_score: 1.0
+  content:
+  - index: 824
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 11961.23992919922
+  - index: 825
+    text: 'Strong coordination with government agencies, local administration, and
+      other humanitarian '
+    text_base: strong coordination with government agencies local administration and
+      other humanitarian
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 11961.23992919922
+  - index: 826
+    text: 'organizations is essential for identifying the most vulnerable geographical
+      areas and demographics. This '
+    text_base: organizations is essential for identifying the most vulnerable geographical
+      areas and demographics this
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 11974.859924316406
+  - index: 827
+    text: 'collaborative approach ensures effective intervention by the RCRC (Red
+      Cross Red Crescent) movement. '
+    text_base: collaborative approach ensures effective intervention by the rcrc red
+      cross red crescent movement
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 3
+    line_number: 3
+    span_number: 0
+    total_y: 11988.419921875
+  - index: 828
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 12015.679931640623
+  - index: 829
+    text: 'The use of real-time ICT-based data significantly enhances the pace (speed
+      and accuracy) of beneficiary '
+    text_base: the use of real time ict based data significantly enhances the pace
+      speed and accuracy of beneficiary
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 12015.679931640623
+  - index: 830
+    text: 'selection analysis. BDRCS employed mobile-based applications like KoboCollect
+      for conducting household '
+    text_base: selection analysis bdrcs employed mobile based applications like kobocollect
+      for conducting household
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 12029.299926757812
+  - index: 831
+    text: 'assessments, and a dedicated Information Management (IM) team supported
+      the necessary data analysis. '
+    text_base: assessments and a dedicated information management im team supported
+      the necessary data analysis
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 12042.919921875
+  - index: 832
+    text: 'This streamlined approach ultimately aided BDRCS in completing beneficiary
+      selection in a timely manner. '
+    text_base: this streamlined approach ultimately aided bdrcs in completing beneficiary
+      selection in a timely manner
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 12056.539916992188
+  - index: 833
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 12083.779907226562
+  - index: 834
+    text: 'The final evaluation highlighted the security and effectiveness of cash
+      distribution through the BPO, '
+    text_base: the final evaluation highlighted the security and effectiveness of
+      cash distribution through the bpo
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 12083.779907226562
+  - index: 835
+    text: 'especially during disasters. This preference is attributed to the broader
+      network of the BPO and its mobile '
+    text_base: especially during disasters this preference is attributed to the broader
+      network of the bpo and its mobile
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 12097.39990234375
+  - index: 836
+    text: 'phone-based verification technique, which ensures a reliable mode of cash
+      distribution. '
+    text_base: phone based verification technique which ensures a reliable mode of
+      cash distribution
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 5
+    line_number: 3
+    span_number: 0
+    total_y: 12111.019897460938
+  - index: 843
+    text: '300,000 (Female: '
+    text_base: 300 000 female
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 9
+    line_number: 1
+    span_number: 0
+    total_y: 12179.719909667969
+- title:
+    text: 'Lessons Learned: '
+    text_base: lessons learned
+    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 14411.359924316406
+    idx: 957
+  sector_title: Health and Care
+  sector_idx: 837
+  sector_similarity_score: 1.0
+  content:
+  - index: 958
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 14438.59991455078
+  - index: 959
+    text: 'During the lessons learned workshop, it was recommended to engage more
+      MMT based on need along '
+    text_base: during the lessons learned workshop it was recommended to engage more
+      mmt based on need along
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 14438.59991455078
+  - index: 960
+    text: 'with PFA service in future operations as well.  '
+    text_base: with pfa service in future operations as well
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 14452.159912109377
+  - index: 963
+    text: '300,000 (Female: '
+    text_base: 300 000 female
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 14516.539916992188
+- title:
+    text: Lessons Learned
+    text_base: lessons learned
+    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 16363.299926757812
+    idx: 1102
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 961
+  sector_similarity_score: 1.0
+  content:
+  - index: 1103
+    text: ': '
+    text_base: ''
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 6
+    line_number: 1
+    span_number: 1
+    total_y: 16363.299926757812
+  - index: 1104
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 16390.539916992188
+  - index: 1105
+    text: 'Due to the flood''s impact on water sources, BDRCS initiated a tube well
+      repair and disinfection programme '
+    text_base: due to the flood s impact on water sources bdrcs initiated a tube well
+      repair and disinfection programme
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 16390.539916992188
+  - index: 1106
+    text: 'for target households. Despite requesting local branches to procure new
+      tube wells, a lack of contractor '
+    text_base: for target households despite requesting local branches to procure
+      new tube wells a lack of contractor
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 16404.159912109375
+  - index: 1107
+    text: 'interest hindered progress. To expedite installation, BDRCS engaged local
+      communities in a participatory '
+    text_base: interest hindered progress to expedite installation bdrcs engaged local
+      communities in a participatory
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 7
+    line_number: 3
+    span_number: 0
+    total_y: 16417.779907226562
+  - index: 1108
+    text: 'approach. They formed small groups in need of safe drinking water, receiving
+      cash assistance and technical '
+    text_base: approach they formed small groups in need of safe drinking water receiving
+      cash assistance and technical
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 7
+    line_number: 4
+    span_number: 0
+    total_y: 16431.39990234375
+  - index: 1109
+    text: 'guidance. This resulted in 13 new tube wells in flood-affected areas, a
+      successful approach to be replicated '
+    text_base: guidance this resulted in 13 new tube wells in flood affected areas
+      a successful approach to be replicated
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 7
+    line_number: 5
+    span_number: 0
+    total_y: 16445.019897460938
+  - index: 1110
+    text: 'in future operations. '
+    text_base: in future operations
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 7
+    line_number: 6
+    span_number: 0
+    total_y: 16458.639892578125
+  - index: 1113
+    text: '300,000 (Female: '
+    text_base: 300 000 female
+    style: 'OpenSans-Regular, 18, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 11
+    line_number: 1
+    span_number: 0
+    total_y: 16521.89990234375
+- title:
+    text: 'Lessons Learned: '
+    text_base: lessons learned
+    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 9
+    line_number: 1
+    span_number: 0
+    total_y: 17811.339874267578
+    idx: 1198
+  sector_title: Protection, Gender and Inclusion
+  sector_idx: 1111
+  sector_similarity_score: 1.0
+  content:
+  - index: 1199
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 17838.57989501953
+  - index: 1200
+    text: 'According to the evaluation, PWDs found the assistive devices highly beneficial
+      for their mobility. These '
+    text_base: according to the evaluation pwds found the assistive devices highly
+      beneficial for their mobility these
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 10
+    line_number: 0
+    span_number: 1
+    total_y: 17838.57989501953
+  - index: 1201
+    text: 'assistive devices enable them to carry out daily activities and participate
+      actively in community life. '
+    text_base: assistive devices enable them to carry out daily activities and participate
+      actively in community life
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 17852.19989013672
+  - index: 1202
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 17879.439880371094
+  - index: 1203
+    text: 'To provide appropriate support to PWDs, BDRCS need to maintain strong collaboration
+      and coordination '
+    text_base: to provide appropriate support to pwds bdrcs need to maintain strong
+      collaboration and coordination
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 11
+    line_number: 0
+    span_number: 1
+    total_y: 17879.439880371094
+  - index: 1204
+    text: 'with specialized service providers or organizations. This will allow the
+      specialized organizations/service '
+    text_base: with specialized service providers or organizations this will allow
+      the specialized organizations service
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 11
+    line_number: 2
+    span_number: 0
+    total_y: 17893.05987548828
+  - index: 1205
+    text: providers to share their expertise, knowledge, strategies, methods, and
+      technologies in providing long-
+    text_base: providers to share their expertise knowledge strategies methods and
+      technologies in providing long
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 11
+    line_number: 3
+    span_number: 0
+    total_y: 17906.679901123047
+  - index: 1206
+    text: 'term solution and ensure sustainability. It is also recommended to have
+      formal MoU or agreement with '
+    text_base: term solution and ensure sustainability it is also recommended to have
+      formal mou or agreement with
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 11
+    line_number: 4
+    span_number: 0
+    total_y: 17920.299896240234
+  - index: 1207
+    text: 'such specialized organizations or service providers to reach the targeted
+      person timely and efficiently. '
+    text_base: such specialized organizations or service providers to reach the targeted
+      person timely and efficiently
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 11
+    line_number: 5
+    span_number: 0
+    total_y: 17933.919891357422
+  - index: 1211
+    text: '300,000 (Female: '
+    text_base: 300 000 female
+    style: 'OpenSans-Regular, 18, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 16
+    line_number: 1
+    span_number: 0
+    total_y: 17997.159912109375
+- title:
+    text: 'Lessons Learned: '
+    text_base: lessons learned
+    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 18669.639892578125
+    idx: 1256
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 1208
+  sector_similarity_score: 1.0
+  content:
+  - index: 1257
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 18696.8798828125
+  - index: 1258
+    text: 'Particularly BDRCS branches in Sylhet region, there is no dedicated localized
+      fund available to carry out '
+    text_base: particularly bdrcs branches in sylhet region there is no dedicated
+      localized fund available to carry out
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 18696.8798828125
+  - index: 1259
+    text: 'anticipatory actions. Based on lessons learned, it is recommended to consider
+      these branches for '
+    text_base: anticipatory actions based on lessons learned it is recommended to
+      consider these branches for
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 18710.499877929688
+  - index: 1260
+    text: 'allocating dedicated fund similar like cyclone prone BDRCS branches, which
+      will allow local BDRCS branch '
+    text_base: allocating dedicated fund similar like cyclone prone bdrcs branches
+      which will allow local bdrcs branch
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 18724.05987548828
+  - index: 1261
+    text: to take necessary anticipatory actions on time.
+    text_base: to take necessary anticipatory actions on time
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 18737.67987060547
+  - index: 1262
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 18764.919860839844
+  - index: 1263
+    text: 'Due to low funding coverage, BDRCS was not able run the tree plantation
+      campaign widely. It is '
+    text_base: due to low funding coverage bdrcs was not able run the tree plantation
+      campaign widely it is
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 18764.919860839844
+  - index: 1264
+    text: 'recommended to include similar green response activities more widely through
+      reaching more people.  '
+    text_base: recommended to include similar green response activities more widely
+      through reaching more people
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 18778.539916992188
+- title:
+    text: 'Lessons Learned: '
+    text_base: lessons learned
+    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    page_number: 25
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 19874.459899902344
+    idx: 1319
+  sector_title: National Society Strengthening
+  sector_idx: 1266
+  sector_similarity_score: 1.0
+  content:
+  - index: 1320
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 25
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 19901.69989013672
+  - index: 1321
+    text: 'To ensure smooth running of emergency operation one of the evolution findings
+      is to review and Update '
+    text_base: to ensure smooth running of emergency operation one of the evolution
+      findings is to review and update
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 25
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 19901.69989013672
+  - index: 1322
+    text: 'Standing Orders of Finance, Administration, Audit and Services, and Organizational
+      Structure of BDRCS  '
+    text_base: standing orders of finance administration audit and services and organizational
+      structure of bdrcs
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 25
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 19915.319885253903
+  - index: 1323
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 25
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 19942.57989501953
+  - index: 1324
+    text: 'To manage simultaneous emergency operations, it is recommended to develop
+      a pool of midlevel skillful '
+    text_base: to manage simultaneous emergency operations it is recommended to develop
+      a pool of midlevel skillful
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 25
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 19942.57989501953
+  - index: 1325
+    text: 'operational team members in BDRCS.  '
+    text_base: operational team members in bdrcs
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 25
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 19956.19989013672
+- title:
+    text: 'Lessons Learned: '
+    text_base: lessons learned
+    style: 'OpenSans-Bold, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 24326.67987060547
+    idx: 1557
+  sector_title: Community Engagement and Accountability
+  sector_idx: 1490
+  sector_similarity_score: 1.0
+  content:
+  - index: 1558
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 24353.919860839844
+  - index: 1559
+    text: 'Identification of community needs and preferences through focus group discussion
+      and detail '
+    text_base: identification of community needs and preferences through focus group
+      discussion and detail
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 24353.919860839844
+  - index: 1560
+    text: 'multisectoral household assessment are considered as best practices in
+      this operation and recommended '
+    text_base: multisectoral household assessment are considered as best practices
+      in this operation and recommended
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 24367.53985595703
+  - index: 1561
+    text: 'for future.  '
+    text_base: for future
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 24381.15985107422
+  - index: 1562
+    text: "\u2022"
+    text_base: ''
+    style: 'SymbolMT, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 24408.419860839844
+  - index: 1563
+    text: 'BDRCS published the list of potential households for providing humanitarian
+      assistance and aware '
+    text_base: bdrcs published the list of potential households for providing humanitarian
+      assistance and aware
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 24408.419860839844
+  - index: 1564
+    text: 'community people about feedback and complaint mechanism. As a result, BDRCS
+      start receiving feedbacks '
+    text_base: community people about feedback and complaint mechanism as a result
+      bdrcs start receiving feedbacks
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 24422.03985595703
+  - index: 1565
+    text: 'and complaint from community people; and helped BDRCS to make necessary
+      corrective measures to '
+    text_base: and complaint from community people and helped bdrcs to make necessary
+      corrective measures to
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 8
+    line_number: 3
+    span_number: 0
+    total_y: 24435.65985107422
+  - index: 1566
+    text: 'enhance the operation effectiveness.  '
+    text_base: enhance the operation effectiveness
+    style: 'OpenSans-Regular, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 8
+    line_number: 4
+    span_number: 0
+    total_y: 24449.279846191406
