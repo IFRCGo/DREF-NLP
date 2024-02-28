@@ -1,0 +1,1254 @@
+- title:
+    text: ' Constraints, challenges and lessons learned '
+    text_base: constraints challenges and lessons learned
+    style: 'Montserrat-Bold, 32, #f5333e, None'
+    page_number: 38
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 32305.72930908203
+    idx: 2170
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 2171
+    text: 'After the operational activities of the Croatian Red Cross in the area
+      affected by the earthquake, a process of '
+    text_base: after the operational activities of the croatian red cross in the area
+      affected by the earthquake a process of
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 32332.36932373047
+  - index: 2172
+    text: 'lessons learned was launched in order to improve future operations. All
+      participants in the operation were given '
+    text_base: lessons learned was launched in order to improve future operations
+      all participants in the operation were given
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 7
+    line_number: 1
+    span_number: 0
+    total_y: 32345.929321289062
+  - index: 2173
+    text: 'the opportunity to point out the shortcomings and suggest measures for
+      improvement. A working group has been '
+    text_base: the opportunity to point out the shortcomings and suggest measures
+      for improvement a working group has been
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 32359.609344482422
+  - index: 2174
+    text: 'established to analyze the lessons learned. The group meets once a quarter.  '
+    text_base: established to analyze the lessons learned the group meets once a quarter
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 7
+    line_number: 3
+    span_number: 0
+    total_y: 32373.169342041016
+  - index: 2175
+    text: 'Process of collecting the observations from CRC personnel and volunteers
+      involved into earthquake response '
+    text_base: process of collecting the observations from crc personnel and volunteers
+      involved into earthquake response
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 32392.849334716797
+  - index: 2176
+    text: 'operation started in September 2021 and will continue by the end of EA
+      implementation with final meeting and '
+    text_base: operation started in september 2021 and will continue by the end of
+      ea implementation with final meeting and
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 8
+    line_number: 1
+    span_number: 0
+    total_y: 32406.40933227539
+  - index: 2177
+    text: 'report after collecting information from CRC assistance recipients. '
+    text_base: report after collecting information from crc assistance recipients
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 32420.089324951172
+  - index: 2178
+    text: 'The Croatian Red Cross launched the Concept on the Lessons Learned based
+      on the concept and guidelines '
+    text_base: the croatian red cross launched the concept on the lessons learned
+      based on the concept and guidelines
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 32439.649322509766
+  - index: 2179
+    text: 'developed by the Croatian Armed Forces respecting the fundamental principles
+      and conceptual solutions of '
+    text_base: developed by the croatian armed forces respecting the fundamental principles
+      and conceptual solutions of
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 1
+    span_number: 0
+    total_y: 32453.329345703125
+  - index: 2180
+    text: 'NATO''s system of lessons learned. The concept describes in detail the
+      process of identifying, analyzing, approving, '
+    text_base: nato s system of lessons learned the concept describes in detail the
+      process of identifying analyzing approving
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 2
+    span_number: 0
+    total_y: 32466.90933227539
+  - index: 2181
+    text: 'and applying lessons learned, the responsibilities of individuals and all
+      components of organization in support of '
+    text_base: and applying lessons learned the responsibilities of individuals and
+      all components of organization in support of
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 3
+    span_number: 0
+    total_y: 32480.589324951172
+  - index: 2182
+    text: 'a single system of lessons learned, and technical solutions as well as
+      availability of a single database of lessons '
+    text_base: a single system of lessons learned and technical solutions as well
+      as availability of a single database of lessons
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 4
+    span_number: 0
+    total_y: 32494.149322509766
+  - index: 2183
+    text: 'learned. The aim of drafting the Concept of Lessons Learned (hereinafter:
+      the Concept) is to establish a '
+    text_base: learned the aim of drafting the concept of lessons learned hereinafter
+      the concept is to establish a
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 5
+    span_number: 0
+    total_y: 32507.829345703125
+  - index: 2184
+    text: 'standardized and harmonized approach to the field of lessons learned in
+      the organization and division of '
+    text_base: standardized and harmonized approach to the field of lessons learned
+      in the organization and division of
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 6
+    span_number: 0
+    total_y: 32521.38934326172
+  - index: 2185
+    text: 'responsibilities in the process of collecting, processing, and publishing
+      lessons learned. The concept describes '
+    text_base: responsibilities in the process of collecting processing and publishing
+      lessons learned the concept describes
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 7
+    span_number: 0
+    total_y: 32535.0693359375
+  - index: 2186
+    text: 'ways in which the system of lessons learned can best be applied to support
+      leadership and decision-making, and '
+    text_base: ways in which the system of lessons learned can best be applied to
+      support leadership and decision making and
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 8
+    span_number: 0
+    total_y: 32548.629333496094
+  - index: 2187
+    text: 'how lessons learned can be applied in correcting perceived shortcomings
+      or finding better solutions in the '
+    text_base: how lessons learned can be applied in correcting perceived shortcomings
+      or finding better solutions in the
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 9
+    span_number: 0
+    total_y: 32562.309326171875
+  - index: 2188
+    text: 'implementation of tasks. In addition, the Concept describes how to identify
+      and permanently store the best '
+    text_base: implementation of tasks in addition the concept describes how to identify
+      and permanently store the best
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 10
+    span_number: 0
+    total_y: 32575.86932373047
+  - index: 2189
+    text: 'experiences and solutions in operations and other activities and how to
+      inform other team members about such '
+    text_base: experiences and solutions in operations and other activities and how
+      to inform other team members about such
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 11
+    span_number: 0
+    total_y: 32589.54931640625
+  - index: 2190
+    text: 'positive experiences. '
+    text_base: positive experiences
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 9
+    line_number: 12
+    span_number: 0
+    total_y: 32603.109313964844
+  - index: 2191
+    text: 'Lessons learned and suggestions for improvement '
+    text_base: lessons learned and suggestions for improvement
+    style: 'OpenSans-BoldItalic, 20, #000000, None'
+    page_number: 38
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 32642.349365234375
+  - index: 2192
+    text: "\u2013 list of collected observations from CRC and local branches "
+    text_base: list of collected observations from crc and local branches
+    style: 'OpenSans-Italic, 20, #000000, None'
+    page_number: 38
+    block_number: 11
+    line_number: 0
+    span_number: 1
+    total_y: 32642.349365234375
+  - index: 2193
+    text: 'staff and volunteers involved in the operation '
+    text_base: staff and volunteers involved in the operation
+    style: 'OpenSans-Italic, 20, #000000, None'
+    page_number: 38
+    block_number: 11
+    line_number: 1
+    span_number: 0
+    total_y: 32656.059326171875
+  - index: 2194
+    text: 'Identified challenge '
+    text_base: identified challenge
+    style: 'OpenSans-Bold, 20, #000000, None'
+    page_number: 38
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 32683.779296875
+  - index: 2195
+    text: 'Task '
+    text_base: task
+    style: 'OpenSans-Bold, 20, #000000, None'
+    page_number: 38
+    block_number: 12
+    line_number: 1
+    span_number: 0
+    total_y: 32683.779296875
+  - index: 2196
+    text: 'Conclusions '
+    text_base: conclusions
+    style: 'OpenSans-Bold, 20, #000000, None'
+    page_number: 38
+    block_number: 12
+    line_number: 2
+    span_number: 0
+    total_y: 32683.779296875
+  - index: 2197
+    text: 'Lack of qualified logistics '
+    text_base: lack of qualified logistics
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 32697.8193359375
+  - index: 2199
+    text: 'List the employees from the '
+    text_base: list the employees from the
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 32697.8193359375
+  - index: 2204
+    text: 'Training for drivers (volunteers / employees) with '
+    text_base: training for drivers volunteers employees with
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 32697.8193359375
+  - index: 2198
+    text: 'staff '
+    text_base: staff
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 13
+    line_number: 1
+    span_number: 0
+    total_y: 32711.49932861328
+  - index: 2200
+    text: 'Red Cross system who already '
+    text_base: red cross system who already
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 14
+    line_number: 1
+    span_number: 0
+    total_y: 32711.49932861328
+  - index: 2205
+    text: 'C category; it is necessary to make a list of '
+    text_base: c category it is necessary to make a list of
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 15
+    line_number: 1
+    span_number: 0
+    total_y: 32711.49932861328
+  - index: 2201
+    text: 'have existing training and '
+    text_base: have existing training and
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 14
+    line_number: 2
+    span_number: 0
+    total_y: 32725.059326171875
+  - index: 2206
+    text: 'persons; a circular is sent with an invitation to '
+    text_base: persons a circular is sent with an invitation to
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 15
+    line_number: 2
+    span_number: 0
+    total_y: 32725.059326171875
+  - index: 2202
+    text: 'organize and describe '
+    text_base: organize and describe
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 14
+    line_number: 3
+    span_number: 0
+    total_y: 32738.7353515625
+  - index: 2207
+    text: 'contact the persons that local Red Cross has as '
+    text_base: contact the persons that local red cross has as
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 15
+    line_number: 3
+    span_number: 0
+    total_y: 32738.7353515625
+  - index: 2203
+    text: 'additional training '
+    text_base: additional training
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 14
+    line_number: 4
+    span_number: 0
+    total_y: 32752.295349121094
+  - index: 2208
+    text: 'drivers, those who have the required categories '
+    text_base: drivers those who have the required categories
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 38
+    block_number: 15
+    line_number: 4
+    span_number: 0
+    total_y: 32752.295349121094
+  - index: 2210
+    text: 'Setting up large tents in '
+    text_base: setting up large tents in
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 32899.67932128906
+  - index: 2213
+    text: 'Organize several times a year '
+    text_base: organize several times a year
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 32899.67932128906
+  - index: 2216
+    text: 'Setting up the Alaska tents mentored by supplier '
+    text_base: setting up the alaska tents mentored by supplier
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 32899.67932128906
+  - index: 2211
+    text: 'the area of the crisis '
+    text_base: the area of the crisis
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 32913.359313964844
+  - index: 2214
+    text: 'activity in which tents of larger '
+    text_base: activity in which tents of larger
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 32913.359313964844
+  - index: 2217
+    text: 'and Croatian Army experts; tent-raising training '
+    text_base: and croatian army experts tent raising training
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 32913.359313964844
+  - index: 2212
+    text: 'operation '
+    text_base: operation
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 32926.91931152344
+  - index: 2215
+    text: 'dimensions are erected '
+    text_base: dimensions are erected
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 32926.91931152344
+  - index: 2218
+    text: 'to be organized every 6 months; identify who will '
+    text_base: to be organized every 6 months identify who will
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 32926.91931152344
+  - index: 2219
+    text: 'be responsible for tents and training among '
+    text_base: be responsible for tents and training among
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 32940.61932373047
+  - index: 2220
+    text: 'participants: 1) Persons from the DM department '
+    text_base: participants 1 persons from the dm department
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 32954.17932128906
+  - index: 2221
+    text: '2) Red Cross employees 3) Members of the '
+    text_base: 2 red cross employees 3 members of the
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 6
+    line_number: 5
+    span_number: 0
+    total_y: 32967.859313964844
+  - index: 2222
+    text: 'intervention team '
+    text_base: intervention team
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 6
+    line_number: 6
+    span_number: 0
+    total_y: 32981.41931152344
+  - index: 2223
+    text: 'Protection of private '
+    text_base: protection of private
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 32995.579345703125
+  - index: 2228
+    text: 'Make a proposal for a solution '
+    text_base: make a proposal for a solution
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 32995.579345703125
+  - index: 2236
+    text: 'Planned for procurement in January 2022: 5 '
+    text_base: planned for procurement in january 2022 5
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 32995.579345703125
+  - index: 2224
+    text: 'property of staff and '
+    text_base: property of staff and
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 7
+    line_number: 1
+    span_number: 0
+    total_y: 33009.13934326172
+  - index: 2229
+    text: 'and cost estimate for this '
+    text_base: and cost estimate for this
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 8
+    line_number: 1
+    span_number: 0
+    total_y: 33009.13934326172
+  - index: 2237
+    text: 'cabinets with 20 compartments - 100 pieces, '
+    text_base: cabinets with 20 compartments 100 pieces
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 9
+    line_number: 1
+    span_number: 0
+    total_y: 33009.13934326172
+  - index: 2225
+    text: 'volunteers when '
+    text_base: volunteers when
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 33022.8193359375
+  - index: 2230
+    text: 'solution (development in two '
+    text_base: solution development in two
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 33022.8193359375
+  - index: 2238
+    text: 'from the funds of National Society '
+    text_base: from the funds of national society
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 9
+    line_number: 2
+    span_number: 0
+    total_y: 33022.8193359375
+  - index: 2226
+    text: 'working in the field in '
+    text_base: working in the field in
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 7
+    line_number: 3
+    span_number: 0
+    total_y: 33036.379333496094
+  - index: 2231
+    text: 'directions - when there are few '
+    text_base: directions when there are few
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 8
+    line_number: 3
+    span_number: 0
+    total_y: 33036.379333496094
+  - index: 2227
+    text: 'crisis situations '
+    text_base: crisis situations
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 7
+    line_number: 4
+    span_number: 0
+    total_y: 33050.059326171875
+  - index: 2232
+    text: 'people in one location and we '
+    text_base: people in one location and we
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 8
+    line_number: 4
+    span_number: 0
+    total_y: 33050.059326171875
+  - index: 2233
+    text: 'have several locations, and '
+    text_base: have several locations and
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 8
+    line_number: 5
+    span_number: 0
+    total_y: 33063.61932373047
+  - index: 2234
+    text: 'when a lot of people are in the '
+    text_base: when a lot of people are in the
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 8
+    line_number: 6
+    span_number: 0
+    total_y: 33077.29931640625
+  - index: 2235
+    text: 'same location) '
+    text_base: same location
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 8
+    line_number: 7
+    span_number: 0
+    total_y: 33090.859313964844
+  - index: 2239
+    text: 'Flow of key information '
+    text_base: flow of key information
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 33105.019287109375
+  - index: 2242
+    text: 'Make a solution proposal, '
+    text_base: make a solution proposal
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 33105.019287109375
+  - index: 2244
+    text: 'Problems of information flow; it is necessary to '
+    text_base: problems of information flow it is necessary to
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 33105.019287109375
+  - index: 2240
+    text: 'for the operation from '
+    text_base: for the operation from
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 10
+    line_number: 1
+    span_number: 0
+    total_y: 33118.609313964844
+  - index: 2243
+    text: 'form  '
+    text_base: form
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 11
+    line_number: 1
+    span_number: 0
+    total_y: 33118.609313964844
+  - index: 2245
+    text: 'make a distribution of information; use a unified '
+    text_base: make a distribution of information use a unified
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 12
+    line_number: 1
+    span_number: 0
+    total_y: 33118.609313964844
+  - index: 2241
+    text: 'the Call Center '
+    text_base: the call center
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 33132.289306640625
+  - index: 2246
+    text: 'tool for the distribution and dissemination of '
+    text_base: tool for the distribution and dissemination of
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 12
+    line_number: 2
+    span_number: 0
+    total_y: 33132.289306640625
+  - index: 2247
+    text: 'information; A short online course during crisis '
+    text_base: information a short online course during crisis
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 12
+    line_number: 3
+    span_number: 0
+    total_y: 33145.84930419922
+  - index: 2248
+    text: 'to inform others about the situation and needs; '
+    text_base: to inform others about the situation and needs
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 12
+    line_number: 4
+    span_number: 0
+    total_y: 33159.529296875
+  - index: 2249
+    text: 'INFO HUB with level of permits-confirmation of '
+    text_base: info hub with level of permits confirmation of
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 12
+    line_number: 5
+    span_number: 0
+    total_y: 33173.08932495117
+  - index: 2250
+    text: 'information; Define when the info desk is '
+    text_base: information define when the info desk is
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 12
+    line_number: 6
+    span_number: 0
+    total_y: 33186.76931762695
+  - index: 2251
+    text: 'launched, who runs it - info center in National '
+    text_base: launched who runs it info center in national
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 12
+    line_number: 7
+    span_number: 0
+    total_y: 33200.32931518555
+  - index: 2252
+    text: 'logistic center; to describe what happened '
+    text_base: logistic center to describe what happened
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 12
+    line_number: 8
+    span_number: 0
+    total_y: 33214.00930786133
+  - index: 2253
+    text: 'during the work of info desk, what was a '
+    text_base: during the work of info desk what was a
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 12
+    line_number: 9
+    span_number: 0
+    total_y: 33227.56930541992
+  - index: 2254
+    text: 'problem, ... to sketch infographics and describe '
+    text_base: problem to sketch infographics and describe
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 12
+    line_number: 10
+    span_number: 0
+    total_y: 33241.24932861328
+  - index: 2255
+    text: 'the levels of communication '
+    text_base: the levels of communication
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 12
+    line_number: 11
+    span_number: 0
+    total_y: 33254.809326171875
+  - index: 2256
+    text: 'Volunteer coordination '
+    text_base: volunteer coordination
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 33268.969329833984
+  - index: 2257
+    text: '1. List the employees from the '
+    text_base: 1 list the employees from the
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 33268.969329833984
+  - index: 2262
+    text: 'Development of the database - which is under '
+    text_base: development of the database which is under
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 33268.969329833984
+  - index: 2258
+    text: 'local Red Cross system who '
+    text_base: local red cross system who
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 14
+    line_number: 1
+    span_number: 0
+    total_y: 33282.52932739258
+  - index: 2263
+    text: 'construction; additional training for basic unit '
+    text_base: construction additional training for basic unit
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 15
+    line_number: 1
+    span_number: 0
+    total_y: 33282.52932739258
+  - index: 2259
+    text: 'already have existing training '
+    text_base: already have existing training
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 14
+    line_number: 2
+    span_number: 0
+    total_y: 33296.20932006836
+  - index: 2264
+    text: "intervention team - communication - volunteer \u2013 "
+    text_base: intervention team communication volunteer
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 15
+    line_number: 2
+    span_number: 0
+    total_y: 33296.20932006836
+  - index: 2260
+    text: '2. Describe and organize '
+    text_base: 2 describe and organize
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 14
+    line_number: 3
+    span_number: 0
+    total_y: 33309.789306640625
+  - index: 2265
+    text: 'administration '
+    text_base: administration
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 15
+    line_number: 3
+    span_number: 0
+    total_y: 33309.789306640625
+  - index: 2261
+    text: 'additional education  '
+    text_base: additional education
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 14
+    line_number: 4
+    span_number: 0
+    total_y: 33323.469329833984
+  - index: 2266
+    text: 'Records of humanitarian '
+    text_base: records of humanitarian
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 33339.309326171875
+  - index: 2268
+    text: 'The establishment of a '
+    text_base: the establishment of a
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 33339.309326171875
+  - index: 2275
+    text: 'Proposal for creation of a single catalog with '
+    text_base: proposal for creation of a single catalog with
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 18
+    line_number: 0
+    span_number: 0
+    total_y: 33339.309326171875
+  - index: 2267
+    text: 'aid in crisis situations '
+    text_base: aid in crisis situations
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 16
+    line_number: 1
+    span_number: 0
+    total_y: 33352.86932373047
+  - index: 2269
+    text: 'centralized system within the '
+    text_base: centralized system within the
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 17
+    line_number: 1
+    span_number: 0
+    total_y: 33352.86932373047
+  - index: 2276
+    text: 'prices for recording humanitarian aid; a single '
+    text_base: prices for recording humanitarian aid a single
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 18
+    line_number: 1
+    span_number: 0
+    total_y: 33352.86932373047
+  - index: 2270
+    text: 'Red Cross '
+    text_base: red cross
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 17
+    line_number: 2
+    span_number: 0
+    total_y: 33366.54931640625
+  - index: 2277
+    text: 'form for receiving humanitarian aid; online '
+    text_base: form for receiving humanitarian aid online
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 18
+    line_number: 2
+    span_number: 0
+    total_y: 33366.54931640625
+  - index: 2271
+    text: 'List the employees from the '
+    text_base: list the employees from the
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 17
+    line_number: 3
+    span_number: 0
+    total_y: 33380.109313964844
+  - index: 2278
+    text: 'database with receipts connected to local '
+    text_base: database with receipts connected to local
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 18
+    line_number: 3
+    span_number: 0
+    total_y: 33380.109313964844
+  - index: 2272
+    text: 'Red Cross system who already '
+    text_base: red cross system who already
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 17
+    line_number: 4
+    span_number: 0
+    total_y: 33393.789306640625
+  - index: 2279
+    text: 'branches operating in the area; plan for '
+    text_base: branches operating in the area plan for
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 18
+    line_number: 4
+    span_number: 0
+    total_y: 33393.789306640625
+  - index: 2273
+    text: 'have existing education or '
+    text_base: have existing education or
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 17
+    line_number: 5
+    span_number: 0
+    total_y: 33407.34930419922
+  - index: 2280
+    text: 'education of Red Cross employees on collection '
+    text_base: education of red cross employees on collection
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 18
+    line_number: 5
+    span_number: 0
+    total_y: 33407.34930419922
+  - index: 2274
+    text: 'knowledge in this area '
+    text_base: knowledge in this area
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 17
+    line_number: 6
+    span_number: 0
+    total_y: 33421.029296875
+  - index: 2281
+    text: 'and distribution of humanitarian aid including '
+    text_base: and distribution of humanitarian aid including
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 18
+    line_number: 6
+    span_number: 0
+    total_y: 33421.029296875
+  - index: 2282
+    text: 'local RC branches directors '
+    text_base: local rc branches directors
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 18
+    line_number: 7
+    span_number: 0
+    total_y: 33434.589294433594
+  - index: 2283
+    text: 'Developed protocol for '
+    text_base: developed protocol for
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 33448.74932861328
+  - index: 2288
+    text: 'Establishment of a commission '
+    text_base: establishment of a commission
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 20
+    line_number: 0
+    span_number: 0
+    total_y: 33448.74932861328
+  - index: 2292
+    text: 'Use the document that exists by the IFRC - its '
+    text_base: use the document that exists by the ifrc its
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 21
+    line_number: 0
+    span_number: 0
+    total_y: 33448.74932861328
+  - index: 2284
+    text: 'managing situations of '
+    text_base: managing situations of
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 19
+    line_number: 1
+    span_number: 0
+    total_y: 33462.309326171875
+  - index: 2289
+    text: 'for such and similar situations, '
+    text_base: for such and similar situations
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 20
+    line_number: 1
+    span_number: 0
+    total_y: 33462.309326171875
+  - index: 2293
+    text: 'inclusion in the Rules of the Croatian Red Cross; '
+    text_base: inclusion in the rules of the croatian red cross
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 21
+    line_number: 1
+    span_number: 0
+    total_y: 33462.309326171875
+  - index: 2285
+    text: 'sexual harassment of '
+    text_base: sexual harassment of
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 19
+    line_number: 2
+    span_number: 0
+    total_y: 33475.989318847656
+  - index: 2290
+    text: 'COMMISSION FOR CONFLICT '
+    text_base: commission for conflict
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 20
+    line_number: 2
+    span_number: 0
+    total_y: 33475.989318847656
+  - index: 2294
+    text: 'write a harassment or similar reporting '
+    text_base: write a harassment or similar reporting
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 21
+    line_number: 2
+    span_number: 0
+    total_y: 33475.989318847656
+  - index: 2286
+    text: 'Red Cross employees '
+    text_base: red cross employees
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 19
+    line_number: 3
+    span_number: 0
+    total_y: 33489.54931640625
+  - index: 2291
+    text: 'SITUATIONS '
+    text_base: situations
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 20
+    line_number: 3
+    span_number: 0
+    total_y: 33489.54931640625
+  - index: 2295
+    text: "procedure; establishment of commission \u2013 "
+    text_base: procedure establishment of commission
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 21
+    line_number: 3
+    span_number: 0
+    total_y: 33489.54931640625
+  - index: 2287
+    text: 'and volunteers '
+    text_base: and volunteers
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 19
+    line_number: 4
+    span_number: 0
+    total_y: 33503.259338378906
+  - index: 2296
+    text: 'address for information reporting, implemented '
+    text_base: address for information reporting implemented
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 21
+    line_number: 4
+    span_number: 0
+    total_y: 33503.259338378906
+  - index: 2297
+    text: 'the process of case confirmation and finally '
+    text_base: the process of case confirmation and finally
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 21
+    line_number: 5
+    span_number: 0
+    total_y: 33516.8193359375
+  - index: 2298
+    text: 'decision-making: if confirmed goes to the ethics '
+    text_base: decision making if confirmed goes to the ethics
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 21
+    line_number: 6
+    span_number: 0
+    total_y: 33530.49932861328
+  - index: 2299
+    text: 'commission which decides further '
+    text_base: commission which decides further
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 21
+    line_number: 7
+    span_number: 0
+    total_y: 33544.059326171875
+  - index: 2300
+    text: 'NIT - National '
+    text_base: nit national
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 22
+    line_number: 0
+    span_number: 0
+    total_y: 33558.219299316406
+  - index: 2302
+    text: 'Marking, education, evaluation '
+    text_base: marking education evaluation
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 23
+    line_number: 0
+    span_number: 0
+    total_y: 33558.219299316406
+  - index: 2303
+    text: 'Compose a program for establishment of '
+    text_base: compose a program for establishment of
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 24
+    line_number: 0
+    span_number: 0
+    total_y: 33558.219299316406
+  - index: 2301
+    text: 'Intervention Team '
+    text_base: intervention team
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 22
+    line_number: 1
+    span_number: 0
+    total_y: 33571.779296875
+  - index: 2304
+    text: 'National intervention team with 50 people, in line '
+    text_base: national intervention team with 50 people in line
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 24
+    line_number: 1
+    span_number: 0
+    total_y: 33571.779296875
+  - index: 2305
+    text: 'with existing CRC guidelines '
+    text_base: with existing crc guidelines
+    style: 'OpenSans-Regular, 20, #000000, None'
+    page_number: 39
+    block_number: 24
+    line_number: 2
+    span_number: 0
+    total_y: 33585.455322265625
