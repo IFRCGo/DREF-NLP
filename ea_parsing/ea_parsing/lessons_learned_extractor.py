@@ -149,7 +149,7 @@ class LessonsLearnedExtractor:
         sector_title_styles = sectors\
             .reset_index()\
             .rename(columns={'index': 'Sector title indexes'})\
-            .groupby(['style', 'font', 'double_fontsize_int', 'color', 'highlight_color', 'bold'], dropna=False)\
+            .groupby(['style', 'double_fontsize_int'], dropna=False)\
             .agg({'text': tuple, 'Sector title': tuple, 'Sector title indexes': tuple, 'Sector similarity score': 'mean'})\
             .reset_index()\
             .set_index('style')

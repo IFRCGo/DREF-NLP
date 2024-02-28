@@ -88,7 +88,10 @@ class Lines(pd.DataFrame):
         if 'size' in self.columns:
             self['double_fontsize_int'] = (self['size'].astype(float)*2).round(0).astype('Int64')
         if ('font' in self.columns) and ('double_fontsize_int' in self.columns) and ('color' in self.columns) and ('highlight_color' in self.columns):
-            self['style'] = self['font'].astype(str)+', '+self['double_fontsize_int'].astype(str)+', '+self['color'].astype(str)+', '+self['highlight_color'].astype(str)
+            self['style'] = self['font'].str.lower().str.split(pat='-', n=1).str[-1].replace({'boldmt': 'bold'})+', '+\
+                            self['double_fontsize_int'].astype(str)+', '+\
+                            self['color'].astype(str)+', '+\
+                            self['highlight_color'].astype(str)
 
 
     @property
