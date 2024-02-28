@@ -19,6 +19,11 @@ class GOAPI:
     def get_appeal_data(self, mdr_code):
         """
         Get appeal details for an appeal specified by the MDR code.
+
+        Parameters
+        ----------
+        mdr_code : string (required)
+            MDR code for the appeal, e.g. MDRNG037.
         """
         # Get the results
         results = self._get_results(
@@ -40,6 +45,11 @@ class GOAPI:
     def get_appeal_document_data(self, id):
         """
         Get appeal documents for an appeal specified by the appeal ID.
+
+        Parameters
+        ----------
+        id : int or string (required)
+            ID of the appeal in IFRC GO.
         """
         documents = self._get_results(
             url='https://goadmin.ifrc.org/api/v2/appeal_document/', 
@@ -51,9 +61,17 @@ class GOAPI:
         return documents
 
     
-    def _get_results(self, url, params):
+    def _get_results(self, url, params=None):
         """
-        Get results for the URL, looping through pages.
+        Get results from the GO API from the URL, looping through pages.
+
+        Parameters
+        ----------
+        url : string (required)
+            URL to request.
+
+        params : dict (default=None)
+            Params to pass in the request.
         """
         # Loop through pages until there are no pages left
         results = []
@@ -74,6 +92,8 @@ class GOAPI:
 class Appeal:
     def __init__(self, mdr_code):
         """
+        Class representing an Emergency Appeal.
+
         Parameters
         ----------
         mdr_code : string (required)
@@ -139,6 +159,21 @@ class Appeal:
 class AppealDocument:
     def __init__(self, name, document_url, created_at, raw_lines=None):
         """
+        Class representing an Emergency Appeal document, e.g. a final report.
+
+        Parameters
+        ----------
+        name : string (required)
+            Name of the document.
+
+        document_url : string (required)
+            Download URL for the document.
+
+        created_at : string (required)
+            Date the document was created in the IFRC GO platform.
+
+        raw_lines : pandas DataFrame (default=None)
+            Lines extracted from the document. Used for testing and debugging to speed up the processing.
         """
         self.name = name
         self.document_url = document_url
@@ -149,7 +184,7 @@ class AppealDocument:
     @cached_property
     def raw_lines(self):
         """
-        Extract lines from the appeal document.
+        Extract lines from the appeal document using PyMuPDF.
         """
         if self.raw_lines_input is not None:
             return Lines(self.raw_lines_input)
