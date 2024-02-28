@@ -18,8 +18,6 @@ class TestResults(unittest.TestCase):
         files = os.listdir(os.path.join(TESTS_DIR, 'results'))
         for i, file in enumerate(files):
 
-            if file.split('.')[-1]!='yml': continue
-
             # Get MDR code and validated results
             mdr_code = os.path.splitext(file)[0]
             validated_lessons_learned = yaml.safe_load(open(os.path.join(TESTS_DIR, 'results', file)))
