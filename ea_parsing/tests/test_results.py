@@ -62,13 +62,6 @@ class TestResults(unittest.TestCase):
                     )
 
                     # Compare content length
-                    self.assertEqual(
-                        len(lesson_validated['content']),
-                        len(lesson_result['content']),
-                        f"Different length of content for MDR code: {mdr_code}"
-                    )
-
-                    # Compare content
                     validated_content = pd.DataFrame(
                         [item['text'] for item in lesson_validated['content']], 
                         columns=['content']
@@ -77,7 +70,14 @@ class TestResults(unittest.TestCase):
                         [item['text'] for item in lesson_result['content']], 
                         columns=['content']
                     )
+                    self.assertEqual(
+                        len(lesson_validated['content']),
+                        len(lesson_result['content']),
+                        f"Different length of content for MDR code: {mdr_code}, sector: {lesson_result['sector_title']}\n\nResults: {results_content}\nValidated results: {validated_content}"
+                    )
+
+                    # Compare content
                     self.assertTrue(
                         validated_content.equals(results_content),
-                        f'Lessons learned contents does not match for MDR code: {mdr_code}\n\n{results_content.compare(validated_content)}'
+                        f"Lessons learned contents does not match for MDR code: {mdr_code}, sector: {lesson_result['sector_title']}\n\n{results_content.compare(validated_content)}"
                     )
