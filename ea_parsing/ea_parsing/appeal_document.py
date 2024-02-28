@@ -151,71 +151,74 @@ class AppealDocument:
         """
         if self.raw_lines_input is not None:
             return Lines(self.raw_lines_input)
-        else:
-            # Extract lines from the PDF
-            data = []
-            total_y = 0
 
-            # Get the document content and open with fitz
-            document_url = self.document_url
-            document = requests.get(document_url)
-            doc = fitz.open(stream=document.content, filetype='pdf')
+        if not self.document_url:
+            return None
 
-            # Loop through pages and paragraphs
-            for page_number, page_layout in enumerate(doc):
+        # Extract lines from the PDF
+        data = []
+        total_y = 0
 
-                # Get drawings to get text highlights
-                coloured_drawings = [drawing for drawing in page_layout.get_drawings() if (drawing['fill'] != (0.0, 0.0, 0.0))]
-                page_images = page_layout.get_image_info()
+        # Get the document content and open with fitz
+        document_url = self.document_url
+        document = requests.get(document_url)
+        doc = fitz.open(stream=document.content, filetype='pdf')
 
-                # Loop through blocks
-                blocks = page_layout.get_text("dict", flags=11)["blocks"]
-                for block_number, block in enumerate(blocks):
-                    for line_number, line in enumerate(block["lines"]):
-                        spans = [span for span in line['spans'] if span['text'].strip()]
-                        for span_number, span in enumerate(spans):
-                                
-                            # Check if the text block is contained in a drawing
-                            highlights = []
-                            for drawing in coloured_drawings:
-                                if utils.get_overlap(span['bbox'], drawing['rect']):
-                                    drawing['overlap'] = utils.get_overlap(span['bbox'], drawing['rect'])
-                                    highlights.append(drawing)
+        # Loop through pages and paragraphs
+        for page_number, page_layout in enumerate(doc):
 
-                            # Get largest overlap
-                            highlight_color_hex = None
-                            if highlights:
-                                largest_highlight = max(highlights, key=lambda x: x['overlap'])
-                                highlight_color = largest_highlight['fill']
-                                if highlight_color:
-                                    highlight_color_hex = '#%02x%02x%02x' % (int(255*highlight_color[0]), int(255*highlight_color[1]), int(255*highlight_color[2]))
+            # Get drawings to get text highlights
+            coloured_drawings = [drawing for drawing in page_layout.get_drawings() if (drawing['fill'] != (0.0, 0.0, 0.0))]
+            page_images = page_layout.get_image_info()
 
-                            # Check if the span overlaps with an image
-                            max_overlap = None
-                            overlapping_images = [utils.get_overlap(span['bbox'], img['bbox'])/utils.get_area(span['bbox']) for img in page_images if utils.get_overlap(span['bbox'], img['bbox'])]
-                            if overlapping_images:
-                                max_overlap = max(overlapping_images)
-
-                            contains_images = [img for img in page_images if utils.contains(img['bbox'], span['bbox'])]
+            # Loop through blocks
+            blocks = page_layout.get_text("dict", flags=11)["blocks"]
+            for block_number, block in enumerate(blocks):
+                for line_number, line in enumerate(block["lines"]):
+                    spans = [span for span in line['spans'] if span['text'].strip()]
+                    for span_number, span in enumerate(spans):
                             
-                            # Append results
-                            span['text'] = span['text'].replace('\r', '\n')
-                            span['bold'] = ("black" in span['font'].lower()) or ("bold" in span['font'].lower())
-                            span['color'] = "#%06x" % span['color']
-                            span['highlight_color'] = highlight_color_hex
-                            span['page_number'] = page_number
-                            span['block_number'] = block_number
-                            span['line_number'] = line_number
-                            span['span_number'] = span_number
-                            span['origin_x'] = span['origin'][0]
-                            span['origin_y'] = span['origin'][1]
-                            span['total_y'] = span['origin'][1]+total_y
-                            span['img'] = bool(contains_images)
-                            data.append(span)
+                        # Check if the text block is contained in a drawing
+                        highlights = []
+                        for drawing in coloured_drawings:
+                            if utils.get_overlap(span['bbox'], drawing['rect']):
+                                drawing['overlap'] = utils.get_overlap(span['bbox'], drawing['rect'])
+                                highlights.append(drawing)
 
-                total_y += page_layout.rect.height
+                        # Get largest overlap
+                        highlight_color_hex = None
+                        if highlights:
+                            largest_highlight = max(highlights, key=lambda x: x['overlap'])
+                            highlight_color = largest_highlight['fill']
+                            if highlight_color:
+                                highlight_color_hex = '#%02x%02x%02x' % (int(255*highlight_color[0]), int(255*highlight_color[1]), int(255*highlight_color[2]))
 
-            return Lines(pd.DataFrame(data))
+                        # Check if the span overlaps with an image
+                        max_overlap = None
+                        overlapping_images = [utils.get_overlap(span['bbox'], img['bbox'])/utils.get_area(span['bbox']) for img in page_images if utils.get_overlap(span['bbox'], img['bbox'])]
+                        if overlapping_images:
+                            max_overlap = max(overlapping_images)
+
+                        contains_images = [img for img in page_images if utils.contains(img['bbox'], span['bbox'])]
+                        
+                        # Append results
+                        span['text'] = span['text'].replace('\r', '\n')
+                        span['bold'] = ("black" in span['font'].lower()) or ("bold" in span['font'].lower())
+                        span['color'] = "#%06x" % span['color']
+                        span['highlight_color'] = highlight_color_hex
+                        span['page_number'] = page_number
+                        span['block_number'] = block_number
+                        span['line_number'] = line_number
+                        span['span_number'] = span_number
+                        span['origin_x'] = span['origin'][0]
+                        span['origin_y'] = span['origin'][1]
+                        span['total_y'] = span['origin'][1]+total_y
+                        span['img'] = bool(contains_images)
+                        data.append(span)
+
+            total_y += page_layout.rect.height
+
+        return Lines(pd.DataFrame(data))
 
 
     @cached_property
@@ -223,6 +226,9 @@ class AppealDocument:
         """
         Process the raw lines to get the document content.
         """
+        if self.raw_lines is None:
+            return None
+        
         lines = self.raw_lines.copy()
 
         # Sort lines by y of blocks
@@ -452,6 +458,9 @@ class AppealDocument:
         """
         Extract lessons learned from the document.
         """
+        if self.lines is None:
+            return None
+        
         lessons_learned_extractor = LessonsLearnedExtractor()
         lessons_learned = lessons_learned_extractor.get_lessons_learned(
             document=self
