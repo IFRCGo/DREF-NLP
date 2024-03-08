@@ -1,10 +1,13 @@
-titles:
+lessons_learned_titles:
   - lessons learned
   - on lessons learned
   - constraints challenges and lessons learned
   - challenges and lessons learned
   - challenges achievements and lessons learned
   - achievements challenges and lessons learned
+
+challenges_titles:
+  - challenges
 
 abbreviations:
   lessons:

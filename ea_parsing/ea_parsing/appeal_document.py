@@ -5,7 +5,7 @@ import pandas as pd
 from ea_parsing import utils
 from ea_parsing.sectors import Sectors
 from ea_parsing.lines import Lines
-from ea_parsing.lessons_learned_extractor import LessonsLearnedExtractor
+from ea_parsing.lessons_learned_extractor import ChallengesLessonsLearnedExtractor
 
 
 class GOAPI:
@@ -414,7 +414,7 @@ class AppealDocument:
             .filter(lambda x: len(x)>2)
 
         # Don't remove lessons learned titles
-        lessons_learned_title_texts = LessonsLearnedExtractor().lessons_learned_title_texts
+        lessons_learned_title_texts = ChallengesLessonsLearnedExtractor(section_type='lessons_learned').title_texts
         repeating_texts = repeating_texts.loc[~(
             repeating_texts['text_base'].isin(lessons_learned_title_texts)
         )]
@@ -442,7 +442,7 @@ class AppealDocument:
             .filter(lambda x: len(x)>2)
 
         # Don't remove lessons learned titles
-        lessons_learned_title_texts = LessonsLearnedExtractor().lessons_learned_title_texts
+        lessons_learned_title_texts = ChallengesLessonsLearnedExtractor(section_type='lessons_learned').title_texts
         repeating_texts = repeating_texts.loc[~(
             repeating_texts['text_base'].isin(lessons_learned_title_texts)
         )]
@@ -498,8 +498,8 @@ class AppealDocument:
         if self.lines is None:
             return None
         
-        lessons_learned_extractor = LessonsLearnedExtractor()
-        lessons_learned = lessons_learned_extractor.get_lessons_learned(
+        lessons_learned_extractor = ChallengesLessonsLearnedExtractor(section_type='lessons_learned')
+        lessons_learned = lessons_learned_extractor.get_sections(
             document=self
         )
         

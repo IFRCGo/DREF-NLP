@@ -7,100 +7,110 @@ import ea_parsing.definitions
 from ea_parsing.utils import generate_sentence_variations
 
 
-class LessonsLearnedExtractor:
-    def __init__(self):
-        pass
+class ChallengesLessonsLearnedExtractor:
+    def __init__(self, section_type):
+        """
+        Extract sections in the Emergency Appeal document based on title texts, and associate with a sector.
+        Only works for "Challenges" or "Lessons Learned".
+        """
+        # Check that section_type is "challenges" or "lessons_learned"
+        section_type = str(section_type).lower().strip()
+        if section_type not in ['challenges', 'lessons_learned']:
+            raise ValueError(f"'section_type' must be 'challenges' or 'lessons_learned'")
+        
+        self.title_texts = self.get_title_texts(section_type=section_type)
+        
 
-    
-    @cached_property
-    def lessons_learned_title_texts(self):
+    def get_title_texts(self, section_type):
         """
         Get the lessons learned title texts, including abbreviations.
         """
-        # Get all possible title variations, considering abbreviations
-        lessons_learned_title_texts = []
-        lessons_learned_titles_details = ea_parsing.definitions.LESSONS_LEARNED_TITLES
-        abbreviations = lessons_learned_titles_details['abbreviations']
-        for title in lessons_learned_titles_details['titles']:
+        # Get title definitions and abbreviations
+        section_titles_details = ea_parsing.definitions.LESSONS_LEARNED_TITLES
+        section_titles = section_titles_details.get(f'{section_type}_titles')
+        abbreviations = section_titles_details['abbreviations']
 
-            lessons_learned_title_texts += generate_sentence_variations(
+        # Get all possible title variations, considering abbreviations
+        title_texts = []
+        for title in section_titles:
+            title_texts += generate_sentence_variations(
                 sentence=title, 
                 abbreviations=abbreviations
             )
 
-        return lessons_learned_title_texts
+        return title_texts
 
 
     @cached_property
-    def lessons_learned_titles(self):
+    def section_titles(self):
         """
-        Get lessons learned titles
+        Get section titles
         """
-        lessons_learned_titles = self.document.titles.loc[
-            self.document.titles['text_base'].isin(self.lessons_learned_title_texts)
+        section_titles = self.document.titles.loc[
+            self.document.titles['text_base'].isin(self.title_texts)
         ]
-        return lessons_learned_titles
+        return section_titles
 
 
     @property
-    def number_of_lessons_learned_sections(self):
+    def number_of_sections(self):
         """
-        Total number of lessons learned sections in the document.
+        Total number of sections in the document.
         """
-        return int(len(self.lessons_learned_titles))
+        return int(len(self.section_titles))
 
 
-    def get_lessons_learned(self, document):
+    def get_sections(self, document):
         """
-        Get lessons learned
+        Get sections
         """
         self.document = document
-        self.sectors_lessons_learned_map = None
+        self.sectors_sections_map = None
 
-        # Get a map between the document sectors and the lessons learned sections
-        sectors_lessons_learned_map = self.get_lessons_learned_sectors(
+        # Get a map between the document sectors and the sections
+        sectors_sections_map = self.get_section_sectors(
             sectors=self.document.sector_titles
         )
-        lessons_learned_sector_map = {}
-        if sectors_lessons_learned_map:
-            lessons_learned_sector_map = {v['idx']:k for k,v in sectors_lessons_learned_map.items()}
+        section_sector_map = {}
+        if sectors_sections_map:
+            section_sector_map = {v['idx']:k for k,v in sectors_sections_map.items()}
         
-        # Get the span of each lessons learned section
-        lessons_learned = []
+        # Get the span of each section
+        sections = []
         sector_titles_dict = self.document.sector_titles['Sector title'].to_dict()
         sector_similarity_scores_dict = self.document.sector_titles['Sector similarity score'].to_dict()
-        for idx, row in self.lessons_learned_titles.iterrows():
+        for idx, row in self.section_titles.iterrows():
 
-            # Get lessons learned section title and details
+            # Get section title and details
             select_columns = ['text', 'text_base', 'style', 'page_number', 'block_number', 'line_number', 'span_number', 'total_y']
-            lessons_learned_section_title = self.lessons_learned_titles.loc[idx]
-            title_details = lessons_learned_section_title[select_columns].to_dict()
+            section_title = self.section_titles.loc[idx]
+            title_details = section_title[select_columns].to_dict()
             title_details['idx'] = idx
 
-            # Get lessons learned section content, check if empty
-            section_content = self.get_lessons_learned_section_lines(
-                title=lessons_learned_section_title
+            # Get section content, check if empty
+            section_content = self.get_section_lines(
+                title=section_title
             )
             if section_content.is_nothing:
                 section_content = pd.DataFrame()
             
-            # Add title, content, and sector details to lessons_learned
-            sector_idx = lessons_learned_sector_map.get(idx)
-            lessons_learned_details = {
+            # Add title, content, and sector details to sections
+            sector_idx = section_sector_map.get(idx)
+            section_details = {
                 'title': title_details,
                 'sector_title': sector_titles_dict.get(sector_idx),
                 'sector_idx': None if sector_idx is None else int(sector_idx),
                 'sector_similarity_score': sector_similarity_scores_dict.get(sector_idx),
                 'content': section_content[[col for col in select_columns if col in section_content.columns]].reset_index().to_dict('records')
             }            
-            lessons_learned.append(lessons_learned_details)
+            sections.append(section_details)
 
-        return lessons_learned
+        return sections
 
     
-    def get_lessons_learned_sectors(self, sectors):
+    def get_section_sectors(self, sectors):
         """
-        Get a map between sector title IDs and lessons learned title IDs.
+        Get a map between sector title IDs and section title IDs.
         """
         if sectors.empty:
             return
@@ -109,38 +119,38 @@ class LessonsLearnedExtractor:
         primary_sector_style = self.get_primary_sector_style(
             sectors=sectors
         )
-        self.sectors_lessons_learned_map = primary_sector_style['Lessons learned covered']
+        self.sectors_sections_map = primary_sector_style['Sections covered']
 
-        # If only one lessons learned, and after all sectors, set to no sector
+        # If only one section, and after all sectors, set to no sector
         sector_titles_primary_style = sectors.loc[sectors['style']==primary_sector_style.name]
-        if (self.number_of_lessons_learned_sections <= 1) and (self.lessons_learned_titles['total_y'].max() >= sector_titles_primary_style['total_y'].max()):
-            self.sectors_lessons_learned_map = {}
-            return self.sectors_lessons_learned_map
+        if (self.number_of_sections <= 1) and (self.section_titles['total_y'].max() >= sector_titles_primary_style['total_y'].max()):
+            self.sectors_sections_map = {}
+            return self.sectors_sections_map
 
-        # Get closest sectors to match unmatched lessons learned
-        if self.unmatched_lessons_learned:
+        # Get closest sectors to match unmatched sections
+        if self.unmatched_sections:
             self.match_sectors_by_distance(
                 sectors=sectors.loc[sectors['style']!=primary_sector_style.name]
             )
             
-        return self.sectors_lessons_learned_map
+        return self.sectors_sections_map
 
 
     @property
-    def unmatched_lessons_learned(self):
-        if self.sectors_lessons_learned_map is None:
-            return self.lessons_learned_titles.index.tolist()
+    def unmatched_sections(self):
+        if self.sectors_sections_map is None:
+            return self.section_titles.index.tolist()
         else:
-            matched_lessons_learned = [x['idx'] for x in self.sectors_lessons_learned_map.values()]
+            matched_sections = [x['idx'] for x in self.sectors_sections_map.values()]
             return [
-                idx for idx in self.lessons_learned_titles.index.tolist()
-                if idx not in matched_lessons_learned
+                idx for idx in self.section_titles.index.tolist()
+                if idx not in matched_sections
             ]
 
 
     def get_primary_sector_style(self, sectors):
         """
-        Match lessons learned to sectors by getting the style which matches most sectors.
+        Match sections to sectors by getting the style which matches most sectors.
         """
         if sectors.empty:
             return
@@ -154,31 +164,31 @@ class LessonsLearnedExtractor:
             .reset_index()\
             .set_index('style')
 
-        # Get which sector idxs correspond to lessons learned
-        sector_title_styles['Lessons learned covered'] = sector_title_styles['Sector title indexes'].apply(
+        # Get which sector idxs correspond to sections
+        sector_title_styles['Sections covered'] = sector_title_styles['Sector title indexes'].apply(
             lambda sector_idxs: {
-                sector_idx: self.get_lessons_learned_covered_by_sector(sector_idx, sector_idxs)
+                sector_idx: self.get_sections_covered_by_sector(sector_idx, sector_idxs)
                 for sector_idx in sector_idxs
-                if self.get_lessons_learned_covered_by_sector(sector_idx, sector_idxs)
+                if self.get_sections_covered_by_sector(sector_idx, sector_idxs)
             }
         )
 
-        # Drop repeat lessons learned sections, keep sector title which is closest
-        sector_title_styles['Lessons learned covered'] = sector_title_styles['Lessons learned covered'].apply(
+        # Drop repeat sections, keep sector title which is closest
+        sector_title_styles['Sections covered'] = sector_title_styles['Sections covered'].apply(
             lambda results:
                 pd.DataFrame(index=results.keys(), data=results.values()).sort_values(by='distance', ascending=True).drop_duplicates(subset='idx', keep='first').to_dict('index')
                 if results 
                 else results
         )
         
-        # Get total and distance from lessons learned
-        sector_title_styles['Number lessons learned covered'] = sector_title_styles['Lessons learned covered'].apply(lambda x: x if x is None else len(x))
-        sector_title_styles['Distance from lessons learned'] = sector_title_styles['Lessons learned covered'].apply(lambda x: float(np.mean([v['distance'] for k,v in x.items()]) if x else float('nan')))
+        # Get total and distance from section
+        sector_title_styles['Number sections covered'] = sector_title_styles['Sections covered'].apply(lambda x: x if x is None else len(x))
+        sector_title_styles['Distance from section'] = sector_title_styles['Sections covered'].apply(lambda x: float(np.mean([v['distance'] for k,v in x.items()]) if x else float('nan')))
         
-        # Select the largest style that covers most lessons learned sections
+        # Select the largest style that covers most sections
         primary_sector_style = sector_title_styles\
             .sort_values(
-                by=['Number lessons learned covered', 'double_fontsize_int', 'Distance from lessons learned'],
+                by=['Number sections covered', 'double_fontsize_int', 'Distance from section'],
                 ascending=[False, False, True]
             )\
             .iloc[0]
@@ -188,67 +198,67 @@ class LessonsLearnedExtractor:
 
     def match_sectors_by_distance(self, sectors):
         """
-        Match lessons learned to given sectors by distance between lessons learned and sectors.
+        Match sections to given sectors by distance between section and sectors.
         """    
         # Get other possible sector titles: texts with similar style, that are not the selected style
-        while self.unmatched_lessons_learned and not sectors.empty:
+        while self.unmatched_sections and not sectors.empty:
 
             sectors = sectors.copy()
-            sectors['Lessons learned covered'] = sectors\
+            sectors['Sections covered'] = sectors\
                 .index\
                 .to_series()\
                 .apply(
-                    lambda sector_idx: self.get_lessons_learned_covered_by_sector(
+                    lambda sector_idx: self.get_sections_covered_by_sector(
                         sector_idx, 
-                        self.sectors_lessons_learned_map
+                        self.sectors_sections_map
                     )
                 )
-            sectors.dropna(subset=['Lessons learned covered'], inplace=True)
+            sectors.dropna(subset=['Sections covered'], inplace=True)
 
             if not sectors.empty:
 
-                # Get distance between sector title and lessons learned section
-                sectors['Distance from lessons learned'] = sectors['Lessons learned covered'].apply(lambda x: x.get('distance'))
+                # Get distance between sector title and section
+                sectors['Distance from section'] = sectors['Sections covered'].apply(lambda x: x.get('distance'))
 
-                # Get the titles which are closest to the lessons learned
+                # Get the titles which are closest to the section
                 best_sectors = sectors\
                     .sort_values(
-                        by=['Sector similarity score', 'Distance from lessons learned'], 
+                        by=['Sector similarity score', 'Distance from section'], 
                         ascending=[False, True]
                     )\
                     .drop_duplicates(subset=['Sector title'])
                 if not best_sectors.empty:
                     
                     best_sector = best_sectors.iloc[0]
-                    self.sectors_lessons_learned_map[best_sector.name] = best_sector['Lessons learned covered']
+                    self.sectors_sections_map[best_sector.name] = best_sector['Sections covered']
                     sectors.drop(best_sector.name, inplace=True)
 
 
-    def get_lessons_learned_covered_by_sector(self, sector_idx, sector_idxs):
+    def get_sections_covered_by_sector(self, sector_idx, sector_idxs):
         """
-        Get lessons learned covered by the sector at sector_idx, given the other sectors at sector_idxs.
+        Get sections covered by the sector at sector_idx, given the other sectors at sector_idxs.
         """            
-        # Get the lessons learned after the sector_idx
-        next_lessons_learned_idxs = self.get_idxs_after_idx(
+        # Get the section after the sector_idx
+        next_section_idxs = self.get_idxs_after_idx(
             idx=sector_idx,
-            idxs=self.unmatched_lessons_learned
+            idxs=self.unmatched_sections
         )
-        if not next_lessons_learned_idxs.empty:
-            next_lessons_learned = next_lessons_learned_idxs.iloc[0]
+        if not next_section_idxs.empty:
+            next_section = next_section_idxs.iloc[0]
 
             sector_title_line = self.document.lines.loc[sector_idx]
-            next_lessons_learned_distance = {
-                "idx": next_lessons_learned.name,
-                "distance": next_lessons_learned['total_y'] - sector_title_line['total_y']
+            next_section_distance = {
+                "idx": next_section.name,
+                "distance": next_section['total_y'] - sector_title_line['total_y']
             }
 
             # Lessons learned must be before the end of the sector section
-            # If only one lessons learned, impose stricter rule: sector section ends at next titley title
+            # If only one section, impose stricter rule: sector section ends at next titley title
             sector_bounds = self.document.lines.loc[sector_idx:]
-            if self.number_of_lessons_learned_sections <= 1:
+            if self.number_of_sections <= 1:
                 sector_bounds = sector_bounds.iloc[1:].cut_at_more_titley_title(sector_title_line)
 
-            if next_lessons_learned['total_y'] < sector_bounds['total_y'].max():
+            if next_section['total_y'] < sector_bounds['total_y'].max():
                 
                 # Get the sectors after the given sector_idx
                 next_sector_idxs = self.get_idxs_after_idx(
@@ -256,15 +266,15 @@ class LessonsLearnedExtractor:
                     idxs=sector_idxs
                 )
 
-                # If no sectors, return the lessons learned section
+                # If no sectors, return the section
                 if next_sector_idxs.empty:
-                    return next_lessons_learned_distance
+                    return next_section_distance
                 
-                # If lessons learned section is nearer than the section, return it
+                # If section is nearer than the section, return it
                 else:
                     next_sector = next_sector_idxs.iloc[0]
-                    if next_lessons_learned['total_y'] < next_sector['total_y']:
-                        return next_lessons_learned_distance
+                    if next_section['total_y'] < next_sector['total_y']:
+                        return next_section_distance
 
 
     def get_idxs_after_idx(self, idx, idxs):
@@ -274,13 +284,13 @@ class LessonsLearnedExtractor:
         Parameters
         ----------
         idx : int (required)
-            Index to get the next lessons learned section after.
+            Index to get the next section after.
         """
         # Get y position of idx and idxs
         idx_position = self.document.lines.loc[idx]
         idxs_positions = self.document.lines.loc[list(idxs)]
         
-        # Get the lessons learned which are after the idx - compare vertical position
+        # Get the sections which are after the idx - compare vertical position
         idxs_after = idxs_positions.loc[
             idxs_positions['total_y'] > idx_position['total_y']
         ].sort_values(by=['total_y'], ascending=True)
@@ -288,32 +298,32 @@ class LessonsLearnedExtractor:
         return idxs_after
 
 
-    def get_lessons_learned_section_lines(self, title):
+    def get_section_lines(self, title):
         """
-        Get the lines of a lessons learned section given the index of the title.
+        Get the lines of a section given the index of the title.
         """
-        # Lessons learned section should only contain text lower than the title
+        # Section should only contain text lower than the title
         section_lines = self.document.lines.loc[
             self.document.lines['total_y'] >= title['total_y']
         ]
         section_lines = section_lines.drop(title.name)
 
-        # Lessons learned section must end before the next lessons learned section
-        next_lessons_learned = self.lessons_learned_titles.loc[
-            self.lessons_learned_titles['total_y'] > title['total_y']
+        # Section must end before the next section
+        next_section = self.section_titles.loc[
+            self.section_titles['total_y'] > title['total_y']
         ]
-        if not next_lessons_learned.empty:
-            next_lessons_learned_y = next_lessons_learned.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
-            section_lines = section_lines.loc[section_lines['total_y'] < next_lessons_learned_y]
+        if not next_section.empty:
+            next_section_y = next_section.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
+            section_lines = section_lines.loc[section_lines['total_y'] < next_section_y]
 
         # Lessons learned section must end before the next sector_title
-        if self.sectors_lessons_learned_map:
+        if self.sectors_sections_map:
 
-            # Get all sector titles with the same styles as the lessons learned sector titles
-            lessons_learned_sector_styles = self.document.lines.loc[self.sectors_lessons_learned_map.keys(), 'style'].unique()
-            all_sector_titles = self.document.sector_titles.loc[self.document.sector_titles['style'].isin([style for style in lessons_learned_sector_styles if style!=self.document.lines.body_style])]
+            # Get all sector titles with the same styles as the section sector titles
+            section_sector_styles = self.document.lines.loc[self.sectors_sections_map.keys(), 'style'].unique()
+            all_sector_titles = self.document.sector_titles.loc[self.document.sector_titles['style'].isin([style for style in section_sector_styles if style!=self.document.lines.body_style])]
 
-            # End lessons learned section before next sector title
+            # End section before next sector title
             next_sector_titles = all_sector_titles.loc[
                 all_sector_titles['total_y'] > title['total_y']
             ]
@@ -321,9 +331,10 @@ class LessonsLearnedExtractor:
                 next_sector_title_y = next_sector_titles.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
                 section_lines = section_lines.loc[section_lines['total_y'] < next_sector_title_y]
 
-        # Cut the lessons learned section at the next title
+        # Cut the section at the next title
         section_lines = section_lines.cut_at_more_titley_title(
             title=title
         )
 
-        return section_lines
+        return section_lines   
+    
