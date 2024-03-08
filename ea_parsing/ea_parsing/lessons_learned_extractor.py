@@ -23,19 +23,18 @@ class ChallengesLessonsLearnedExtractor:
 
     def get_title_texts(self, section_type):
         """
-        Get the lessons learned title texts, including abbreviations.
+        Get the title texts, including abbreviations.
         """
         # Get title definitions and abbreviations
         section_titles_details = ea_parsing.definitions.LESSONS_LEARNED_TITLES
         section_titles = section_titles_details.get(f'{section_type}_titles')
-        abbreviations = section_titles_details['abbreviations']
 
         # Get all possible title variations, considering abbreviations
         title_texts = []
         for title in section_titles:
             title_texts += generate_sentence_variations(
                 sentence=title, 
-                abbreviations=abbreviations
+                abbreviations=section_titles_details['abbreviations']
             )
 
         return title_texts
@@ -73,7 +72,12 @@ class ChallengesLessonsLearnedExtractor:
         )
         section_sector_map = {}
         if sectors_sections_map:
-            section_sector_map = {v['idx']:k for k,v in sectors_sections_map.items()}
+            section_sector_map = {
+                section_idx: sector_idx
+                for sector_idx, section_idxs 
+                in sectors_sections_map.items()
+                for section_idx in section_idxs
+            }
         
         # Get the span of each section
         sections = []
@@ -119,7 +123,11 @@ class ChallengesLessonsLearnedExtractor:
         primary_sector_style = self.get_primary_sector_style(
             sectors=sectors
         )
-        self.sectors_sections_map = primary_sector_style['Sections covered']
+        self.sectors_sections_map = {
+            sector_idx: [section_details['idx']]
+            for sector_idx, section_details
+            in primary_sector_style['Sections covered'].items()
+        }
 
         # If only one section, and after all sectors, set to no sector
         sector_titles_primary_style = sectors.loc[sectors['style']==primary_sector_style.name]
@@ -132,7 +140,7 @@ class ChallengesLessonsLearnedExtractor:
             self.match_sectors_by_distance(
                 sectors=sectors.loc[sectors['style']!=primary_sector_style.name]
             )
-            
+        
         return self.sectors_sections_map
 
 
@@ -141,7 +149,7 @@ class ChallengesLessonsLearnedExtractor:
         if self.sectors_sections_map is None:
             return self.section_titles.index.tolist()
         else:
-            matched_sections = [x['idx'] for x in self.sectors_sections_map.values()]
+            matched_sections = [idx for idxs in self.sectors_sections_map.values() for idx in idxs]
             return [
                 idx for idx in self.section_titles.index.tolist()
                 if idx not in matched_sections
@@ -210,7 +218,7 @@ class ChallengesLessonsLearnedExtractor:
                 .apply(
                     lambda sector_idx: self.get_sections_covered_by_sector(
                         sector_idx, 
-                        self.sectors_sections_map
+                        self.sectors_sections_map.keys()
                     )
                 )
             sectors.dropna(subset=['Sections covered'], inplace=True)
@@ -230,7 +238,7 @@ class ChallengesLessonsLearnedExtractor:
                 if not best_sectors.empty:
                     
                     best_sector = best_sectors.iloc[0]
-                    self.sectors_sections_map[best_sector.name] = best_sector['Sections covered']
+                    self.sectors_sections_map[best_sector.name] = [best_sector['Sections covered']['idx']]
                     sectors.drop(best_sector.name, inplace=True)
 
 
@@ -243,38 +251,40 @@ class ChallengesLessonsLearnedExtractor:
             idx=sector_idx,
             idxs=self.unmatched_sections
         )
-        if not next_section_idxs.empty:
-            next_section = next_section_idxs.iloc[0]
+        if next_section_idxs.empty:
+            return
 
-            sector_title_line = self.document.lines.loc[sector_idx]
-            next_section_distance = {
-                "idx": next_section.name,
-                "distance": next_section['total_y'] - sector_title_line['total_y']
-            }
+        # Get distance between the sector title and the next section
+        sector_title_line = self.document.lines.loc[sector_idx]
+        next_section = next_section_idxs.iloc[0]
+        next_section_distance = {
+            "idx": next_section.name,
+            "distance": next_section['total_y'] - sector_title_line['total_y']
+        }
 
-            # Lessons learned must be before the end of the sector section
-            # If only one section, impose stricter rule: sector section ends at next titley title
-            sector_bounds = self.document.lines.loc[sector_idx:]
-            if self.number_of_sections <= 1:
-                sector_bounds = sector_bounds.iloc[1:].cut_at_more_titley_title(sector_title_line)
+        # Section must be before the end of the sector section
+        # If only one section, impose stricter rule: sector section ends at next titley title
+        sector_bounds = self.document.lines.loc[sector_idx:]
+        if self.number_of_sections <= 1:
+            sector_bounds = sector_bounds.iloc[1:].cut_at_more_titley_title(sector_title_line)
 
-            if next_section['total_y'] < sector_bounds['total_y'].max():
-                
-                # Get the sectors after the given sector_idx
-                next_sector_idxs = self.get_idxs_after_idx(
-                    idx=sector_idx,
-                    idxs=sector_idxs
-                )
+        if next_section['total_y'] < sector_bounds['total_y'].max():
+            
+            # Get the sectors after the given sector_idx
+            next_sector_idxs = self.get_idxs_after_idx(
+                idx=sector_idx,
+                idxs=sector_idxs
+            )
 
-                # If no sectors, return the section
-                if next_sector_idxs.empty:
+            # If no sectors after the section, return the section
+            if next_sector_idxs.empty:
+                return next_section_distance
+            
+            # If section is nearer than the next sector, return it
+            else:
+                next_sector = next_sector_idxs.iloc[0]
+                if next_section['total_y'] < next_sector['total_y']:
                     return next_section_distance
-                
-                # If section is nearer than the section, return it
-                else:
-                    next_sector = next_sector_idxs.iloc[0]
-                    if next_section['total_y'] < next_sector['total_y']:
-                        return next_section_distance
 
 
     def get_idxs_after_idx(self, idx, idxs):
@@ -316,7 +326,7 @@ class ChallengesLessonsLearnedExtractor:
             next_section_y = next_section.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
             section_lines = section_lines.loc[section_lines['total_y'] < next_section_y]
 
-        # Lessons learned section must end before the next sector_title
+        # Section must end before the next sector_title
         if self.sectors_sections_map:
 
             # Get all sector titles with the same styles as the section sector titles
