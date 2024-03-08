@@ -1,0 +1,146 @@
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'arial black, 20, #000000, #f4f4f4'
+    page_number: 2
+    block_number: 8
+    line_number: 17
+    span_number: 0
+    total_y: 2324.0199584960938
+    idx: 155
+  sector_title: Quality Programming
+  sector_idx: 128
+  sector_similarity_score: 1.0
+  content:
+  - index: 156
+    text: 'At the beginning of the operation, it was difficult to coordinate the assessments
+      and information from the '
+    text_base: at the beginning of the operation it was difficult to coordinate the
+      assessments and information from the
+    style: 'arial, 20, #000000, #f4f4f4'
+    page_number: 2
+    block_number: 8
+    line_number: 18
+    span_number: 0
+    total_y: 2336.97998046875
+  - index: 157
+    text: 'affected communities. The NRCS deployed the health coordinator and the
+      health delegate from the IFRC to '
+    text_base: affected communities the nrcs deployed the health coordinator and the
+      health delegate from the ifrc to
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 8
+    line_number: 19
+    span_number: 0
+    total_y: 2348.4999389648438
+  - index: 158
+    text: 'participate in coordination meetings. The command centres were very useful
+      in sharing information and '
+    text_base: participate in coordination meetings the command centres were very
+      useful in sharing information and
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 8
+    line_number: 20
+    span_number: 0
+    total_y: 2360.0199584960938
+  - index: 159
+    text: 'planning activities.  '
+    text_base: planning activities
+    style: 'arial, 20, #000000, #f4f4f4'
+    page_number: 2
+    block_number: 8
+    line_number: 21
+    span_number: 0
+    total_y: 2371.419921875
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'arial black, 20, #000000, #edebe0'
+    page_number: 4
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 3718.0099182128906
+    idx: 254
+  sector_title: Health and Care
+  sector_idx: 165
+  sector_similarity_score: 1.0
+  content:
+  - index: 255
+    text: 'The appeal was not fully funded due to the early containment of the outbreak
+      of Ebola. This affected the '
+    text_base: the appeal was not fully funded due to the early containment of the
+      outbreak of ebola this affected the
+    style: 'arial, 20, #000000, #edebe0'
+    page_number: 4
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 3730.9699096679688
+  - index: 256
+    text: 'reaching of the planned target of 5 million people with prevention messages.
+      Instead a total of 900,000 people '
+    text_base: reaching of the planned target of 5 million people with prevention
+      messages instead a total of 900 000 people
+    style: 'arial, 20, #000000, None'
+    page_number: 4
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 3742.4899291992188
+  - index: 257
+    text: 'were reached. '
+    text_base: were reached
+    style: 'arial, 20, #000000, #edebe0'
+    page_number: 4
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 3754.0099182128906
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'arial black, 20, #000000, #edebe0'
+    page_number: 5
+    block_number: 9
+    line_number: 17
+    span_number: 0
+    total_y: 4693.6298828125
+    idx: 325
+  sector_title: Psycho social support
+  sector_idx: 282
+  sector_similarity_score: 1.0
+  content:
+  - index: 326
+    text: 'The main challenge was to find other stakeholders to provide support on
+      PSS. There was no resource '
+    text_base: the main challenge was to find other stakeholders to provide support
+      on pss there was no resource
+    style: 'arial, 20, #000000, #edebe0'
+    page_number: 5
+    block_number: 9
+    line_number: 18
+    span_number: 0
+    total_y: 4706.589904785156
+  - index: 327
+    text: 'allocation for PSS activities by the Governments. The only support for
+      PSS activities were solely by the EVD '
+    text_base: allocation for pss activities by the governments the only support for
+      pss activities were solely by the evd
+    style: 'arial, 20, #000000, None'
+    page_number: 5
+    block_number: 9
+    line_number: 19
+    span_number: 0
+    total_y: 4718.109893798828
+  - index: 328
+    text: 'appeal. '
+    text_base: appeal
+    style: 'arial, 20, #000000, #edebe0'
+    page_number: 5
+    block_number: 9
+    line_number: 20
+    span_number: 0
+    total_y: 4729.6298828125
