@@ -1,0 +1,1151 @@
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 2
+    line_number: 10
+    span_number: 0
+    total_y: 7317.43994140625
+    idx: 459
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 331
+  sector_similarity_score: 1.0
+  content:
+  - index: 460
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 7344.679931640625
+  - index: 461
+    text: 'Lack of Warehouse Facilities:'
+    text_base: lack of warehouse facilities
+    style: 'italic, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 7344.679931640625
+  - index: 462
+    text: ' One significant challenge encountered was the absence of warehouse '
+    text_base: one significant challenge encountered was the absence of warehouse
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 4
+    line_number: 1
+    span_number: 1
+    total_y: 7344.679931640625
+  - index: 463
+    text: 'facilities at the BDRCS branch level for storing relief items. Consequently,
+      BDRCS had to mobilize relief '
+    text_base: facilities at the bdrcs branch level for storing relief items consequently
+      bdrcs had to mobilize relief
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 7358.2999267578125
+  - index: 464
+    text: 'items such as tarpaulins, shelter toolkits, sleeping mats, etc., from its
+      central warehouse facilities. '
+    text_base: items such as tarpaulins shelter toolkits sleeping mats etc from its
+      central warehouse facilities
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 7371.919921875
+  - index: 465
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 7399.159973144531
+  - index: 466
+    text: 'Difficulty in Road Access:'
+    text_base: difficulty in road access
+    style: 'italic, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 7399.159973144531
+  - index: 467
+    text: ' Accessing the operation location by road was challenging due to inundation
+      and '
+    text_base: accessing the operation location by road was challenging due to inundation
+      and
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 6
+    line_number: 1
+    span_number: 1
+    total_y: 7399.159973144531
+  - index: 468
+    text: 'adverse weather conditions, including heavy rainfall leading to muddy roads
+      and high temperatures. '
+    text_base: adverse weather conditions including heavy rainfall leading to muddy
+      roads and high temperatures
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 7412.779937744141
+  - index: 469
+    text: 'Nonetheless, BDRCS organized locally available transportation options like
+      boats and rickshaw vans to '
+    text_base: nonetheless bdrcs organized locally available transportation options
+      like boats and rickshaw vans to
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 7426.399963378906
+  - index: 470
+    text: 'deliver relief items to the affected people. '
+    text_base: deliver relief items to the affected people
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 7440.019958496094
+  - index: 471
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 7467.259948730469
+  - index: 472
+    text: 'Limited Transportation Access in Remote Areas:'
+    text_base: limited transportation access in remote areas
+    style: 'italic, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 7467.259948730469
+  - index: 473
+    text: ' In remote haor locations like Telikhal and Companiganj, '
+    text_base: in remote haor locations like telikhal and companiganj
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 8
+    line_number: 1
+    span_number: 1
+    total_y: 7467.259948730469
+  - index: 474
+    text: 'there was limited transportation access by road, particularly for delivering
+      corrugated iron sheets. In '
+    text_base: there was limited transportation access by road particularly for delivering
+      corrugated iron sheets in
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 7480.879943847656
+  - index: 475
+    text: 'consultation with local communities, BDRCS arranged distribution points
+      as close as possible to the '
+    text_base: consultation with local communities bdrcs arranged distribution points
+      as close as possible to the
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 8
+    line_number: 3
+    span_number: 0
+    total_y: 7494.499938964844
+  - index: 476
+    text: 'targeted communities. Simultaneously, BDRCS emphasized a cash-based intervention,
+      allowing targeted '
+    text_base: targeted communities simultaneously bdrcs emphasized a cash based intervention
+      allowing targeted
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 8
+    line_number: 4
+    span_number: 0
+    total_y: 7508.139953613281
+  - index: 477
+    text: 'households to procure locally available items. '
+    text_base: households to procure locally available items
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 8
+    line_number: 5
+    span_number: 0
+    total_y: 7521.759948730469
+  - index: 478
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 7548.999938964844
+  - index: 479
+    text: 'Resource Constraints:'
+    text_base: resource constraints
+    style: 'italic, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 10
+    line_number: 0
+    span_number: 1
+    total_y: 7548.999938964844
+  - index: 480
+    text: ' BDRCS faced challenges in meeting the needs of a large number of affected
+      people '
+    text_base: bdrcs faced challenges in meeting the needs of a large number of affected
+      people
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 10
+    line_number: 1
+    span_number: 1
+    total_y: 7548.999938964844
+  - index: 481
+    text: 'with limited available resources. To address these challenges, BDRCS maintained
+      regular coordination '
+    text_base: with limited available resources to address these challenges bdrcs
+      maintained regular coordination
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 7562.619964599609
+  - index: 482
+    text: 'and consultation with local communities, humanitarian agencies, and the
+      government. BDRCS prioritized '
+    text_base: and consultation with local communities humanitarian agencies and the
+      government bdrcs prioritized
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 10
+    line_number: 3
+    span_number: 0
+    total_y: 7576.239959716797
+  - index: 483
+    text: 'the most affected communities in coordination with relevant stakeholders
+      and identified the most '
+    text_base: the most affected communities in coordination with relevant stakeholders
+      and identified the most
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 10
+    line_number: 4
+    span_number: 0
+    total_y: 7589.859954833984
+  - index: 484
+    text: 'vulnerable affected households through multisectoral household assessments.
+      Throughout the '
+    text_base: vulnerable affected households through multisectoral household assessments
+      throughout the
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 10
+    line_number: 5
+    span_number: 0
+    total_y: 7603.479949951172
+  - index: 485
+    text: 'operation, a feedback and complaint mechanism was established between the
+      community and BDRCS to '
+    text_base: operation a feedback and complaint mechanism was established between
+      the community and bdrcs to
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 10
+    line_number: 6
+    span_number: 0
+    total_y: 7617.099945068359
+  - index: 486
+    text: 'address this challenge. '
+    text_base: address this challenge
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 10
+    line_number: 7
+    span_number: 0
+    total_y: 7630.719940185547
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 12
+    block_number: 4
+    line_number: 26
+    span_number: 0
+    total_y: 10142.099914550781
+    idx: 658
+  sector_title: Livelihoods
+  sector_idx: 505
+  sector_similarity_score: 1.0
+  content:
+  - index: 659
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 12
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 10169.339965820312
+  - index: 660
+    text: 'During the initial relief phase, BDRCS encountered difficulties in reaching
+      flood-affected communities with '
+    text_base: during the initial relief phase bdrcs encountered difficulties in reaching
+      flood affected communities with
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 12
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 10169.339965820312
+  - index: 661
+    text: 'food assistance. This was primarily due to inundation, a lack of transportation
+      options, and limited market '
+    text_base: food assistance this was primarily due to inundation a lack of transportation
+      options and limited market
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 12
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 10182.9599609375
+  - index: 662
+    text: 'accessibility. To address this situation, BDRCS engaged the support of
+      nearby branches unaffected by '
+    text_base: accessibility to address this situation bdrcs engaged the support of
+      nearby branches unaffected by
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 12
+    block_number: 5
+    line_number: 3
+    span_number: 0
+    total_y: 10196.579956054688
+  - index: 663
+    text: 'floods. These branches procured food items and delivered them to the flood-affected
+      districts. '
+    text_base: floods these branches procured food items and delivered them to the
+      flood affected districts
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 12
+    block_number: 5
+    line_number: 4
+    span_number: 0
+    total_y: 10210.199951171875
+  - index: 687
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 10355.39990234375
+  - index: 688
+    text: 'Volunteers and staff in respective severely flood affected districts experienced
+      challenges to communicate '
+    text_base: volunteers and staff in respective severely flood affected districts
+      experienced challenges to communicate
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 2
+    line_number: 0
+    span_number: 1
+    total_y: 10355.39990234375
+  - index: 689
+    text: 'using mobile phone and computer as there was several days without electricity
+      and mobile network was '
+    text_base: using mobile phone and computer as there was several days without electricity
+      and mobile network was
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 2
+    line_number: 2
+    span_number: 0
+    total_y: 10369.019958496094
+  - index: 690
+    text: 'disrupted. '
+    text_base: disrupted
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 2
+    line_number: 3
+    span_number: 0
+    total_y: 10382.639953613281
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 13
+    line_number: 18
+    span_number: 0
+    total_y: 11609.619934082031
+    idx: 802
+  sector_title: Multi-Purpose Cash
+  sector_idx: 705
+  sector_similarity_score: 1.0
+  content:
+  - index: 803
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 11636.859924316406
+  - index: 804
+    text: 'Considering the national cash working recommended package, BDRCS initially
+      provided a multipurpose '
+    text_base: considering the national cash working recommended package bdrcs initially
+      provided a multipurpose
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 15
+    line_number: 0
+    span_number: 1
+    total_y: 11636.859924316406
+  - index: 805
+    text: 'cash grant of BDT 4,500 per household. However, both the evaluation and
+      PDM revealed that this cash '
+    text_base: cash grant of bdt 4 500 per household however both the evaluation and
+      pdm revealed that this cash
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 15
+    line_number: 2
+    span_number: 0
+    total_y: 11650.479919433594
+  - index: 806
+    text: 'assistance was insufficient to meet the needs.  '
+    text_base: assistance was insufficient to meet the needs
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 15
+    line_number: 3
+    span_number: 0
+    total_y: 11664.099914550781
+  - index: 807
+    text: 'As a result, there is a recommendation to increase the multipurpose cash
+      package, taking into account the '
+    text_base: as a result there is a recommendation to increase the multipurpose
+      cash package taking into account the
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 15
+    line_number: 5
+    span_number: 0
+    total_y: 11691.339904785156
+  - index: 808
+    text: 'market prices of essential items and inflation. Based on updated information
+      from the Household '
+    text_base: market prices of essential items and inflation based on updated information
+      from the household
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 15
+    line_number: 6
+    span_number: 0
+    total_y: 11704.9599609375
+  - index: 809
+    text: 'Economic Survey (HES), the CWG is currently in the process of raising the
+      MPCG package from BDT 4,500 '
+    text_base: economic survey hes the cwg is currently in the process of raising
+      the mpcg package from bdt 4 500
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 15
+    line_number: 7
+    span_number: 0
+    total_y: 11718.599914550781
+  - index: 810
+    text: 'to BDT 6,000. This adjustment aims to better enable people to meet their
+      needs, and the guidelines for '
+    text_base: to bdt 6 000 this adjustment aims to better enable people to meet their
+      needs and the guidelines for
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 15
+    line_number: 8
+    span_number: 0
+    total_y: 11732.159912109375
+  - index: 811
+    text: 'this increase are expected to be published by December 2023. '
+    text_base: this increase are expected to be published by december 2023
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 15
+    line_number: 9
+    span_number: 0
+    total_y: 11745.779907226562
+  - index: 812
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 11773.019897460938
+  - index: 813
+    text: 'BDRCS volunteers, NDRT members, and staff faced significant challenges
+      in conducting household '
+    text_base: bdrcs volunteers ndrt members and staff faced significant challenges
+      in conducting household
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 17
+    line_number: 0
+    span_number: 1
+    total_y: 11773.019897460938
+  - index: 814
+    text: 'assessments due to factors such as remoteness, inundation, and transportation
+      limitations. Nevertheless, '
+    text_base: assessments due to factors such as remoteness inundation and transportation
+      limitations nevertheless
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 17
+    line_number: 2
+    span_number: 0
+    total_y: 11786.639892578125
+  - index: 815
+    text: 'with the dedicated support of local volunteers, BDRCS persevered in carrying
+      out the assessments and '
+    text_base: with the dedicated support of local volunteers bdrcs persevered in
+      carrying out the assessments and
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 17
+    line_number: 3
+    span_number: 0
+    total_y: 11800.259948730469
+  - index: 816
+    text: 'finalizing the selection of targeted households for cash assistance. '
+    text_base: finalizing the selection of targeted households for cash assistance
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 14
+    block_number: 17
+    line_number: 4
+    span_number: 0
+    total_y: 11813.879943847656
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 14315.999877929688
+    idx: 951
+  sector_title: Health and Care
+  sector_idx: 837
+  sector_similarity_score: 1.0
+  content:
+  - index: 952
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 14343.239929199219
+  - index: 953
+    text: 'Due to inundation and lack of transport, during the initial emergency phase
+      mobile medical teams find '
+    text_base: due to inundation and lack of transport during the initial emergency
+      phase mobile medical teams find
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 14343.239929199219
+  - index: 954
+    text: 'difficulties to reach remote locations and often it took longer time to
+      reach the affected communities. '
+    text_base: difficulties to reach remote locations and often it took longer time
+      to reach the affected communities
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 14356.859924316406
+  - index: 955
+    text: 'Considering the challenges, BDRCS allocated more resources for MMT and
+      extended the time duration to '
+    text_base: considering the challenges bdrcs allocated more resources for mmt and
+      extended the time duration to
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 3
+    line_number: 3
+    span_number: 0
+    total_y: 14370.479919433594
+  - index: 956
+    text: 'provide emergency health services.  '
+    text_base: provide emergency health services
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 3
+    line_number: 4
+    span_number: 0
+    total_y: 14384.119934082031
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 2
+    line_number: 16
+    span_number: 0
+    total_y: 16118.119873046875
+    idx: 1085
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 961
+  sector_similarity_score: 1.0
+  content:
+  - index: 1086
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 16145.359893798828
+  - index: 1087
+    text: 'The planned targets could not be reached due to low funding coverage, representing
+      only 30 per cent of '
+    text_base: the planned targets could not be reached due to low funding coverage
+      representing only 30 per cent of
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 16145.359893798828
+  - index: 1088
+    text: 'the total IFRC EA ask. '
+    text_base: the total ifrc ea ask
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 16158.979888916016
+  - index: 1089
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 16186.219909667969
+  - index: 1090
+    text: 'Since the Sylhet region had not experienced such severe floods in the last
+      couple of decades, BDRCS had '
+    text_base: since the sylhet region had not experienced such severe floods in the
+      last couple of decades bdrcs had
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 16186.219909667969
+  - index: 1091
+    text: 'limited capacity in the flood-affected districts to provide WASH services
+      in emergencies. In the most '
+    text_base: limited capacity in the flood affected districts to provide wash services
+      in emergencies in the most
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 16199.839904785156
+  - index: 1092
+    text: 'severely flooded districts, such as Sylhet and Sunamganj, there were no
+      water purification units available. '
+    text_base: severely flooded districts such as sylhet and sunamganj there were
+      no water purification units available
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 16213.459899902344
+  - index: 1093
+    text: 'Consequently, BDRCS had to deploy mobile water purification units from
+      its national headquarters located '
+    text_base: consequently bdrcs had to deploy mobile water purification units from
+      its national headquarters located
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 16227.099884033203
+  - index: 1094
+    text: 'in Dhaka. '
+    text_base: in dhaka
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 4
+    line_number: 5
+    span_number: 0
+    total_y: 16240.719909667969
+  - index: 1095
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 16267.959899902344
+  - index: 1096
+    text: 'A significant number of sanitation facilities had been damaged, and according
+      to the BDRCS assessment, '
+    text_base: a significant number of sanitation facilities had been damaged and
+      according to the bdrcs assessment
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 16267.959899902344
+  - index: 1097
+    text: 'a large portion of the affected people could not construct latrines without
+      external support. BDRCS faced '
+    text_base: a large portion of the affected people could not construct latrines
+      without external support bdrcs faced
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 16281.579895019531
+  - index: 1098
+    text: 'challenges in identifying the limited number of targeted households that
+      required latrine support from the '
+    text_base: challenges in identifying the limited number of targeted households
+      that required latrine support from the
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 5
+    line_number: 3
+    span_number: 0
+    total_y: 16295.199890136719
+  - index: 1099
+    text: 'large, affected population. To overcome this challenge, BDRCS conducted
+      household assessments in the '
+    text_base: large affected population to overcome this challenge bdrcs conducted
+      household assessments in the
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 5
+    line_number: 4
+    span_number: 0
+    total_y: 16308.819885253906
+  - index: 1100
+    text: 'most affected areas in coordination with local government and other humanitarian
+      agencies, utilizing its '
+    text_base: most affected areas in coordination with local government and other
+      humanitarian agencies utilizing its
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 5
+    line_number: 5
+    span_number: 0
+    total_y: 16322.439910888672
+  - index: 1101
+    text: 'limited resources. '
+    text_base: limited resources
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 5
+    line_number: 6
+    span_number: 0
+    total_y: 16336.05990600586
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 2
+    line_number: 9
+    span_number: 0
+    total_y: 17607.07989501953
+    idx: 1184
+  sector_title: Protection, Gender and Inclusion
+  sector_idx: 1111
+  sector_similarity_score: 1.0
+  content:
+  - index: 1185
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 17634.259887695312
+  - index: 1186
+    text: 'Time limitation is one of the biggest challenges for providing psychological
+      support for PWDs who require '
+    text_base: time limitation is one of the biggest challenges for providing psychological
+      support for pwds who require
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 17634.259887695312
+  - index: 1187
+    text: 'long-term treatment.  '
+    text_base: long term treatment
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 17647.8798828125
+  - index: 1188
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 17675.119873046875
+  - index: 1189
+    text: 'There is lack of technical expertise to conduct detail individual assessment
+      for PWDs. Which hinders BDRCS '
+    text_base: there is lack of technical expertise to conduct detail individual assessment
+      for pwds which hinders bdrcs
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 17675.119873046875
+  - index: 1190
+    text: 'to provide appropriate assistance on time. to overcome the challenges BDRCS
+      and IFRC partnership with '
+    text_base: to provide appropriate assistance on time to overcome the challenges
+      bdrcs and ifrc partnership with
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 17688.739868164062
+  - index: 1191
+    text: 'Disability in Development (CDD) to identify the individual needs of people
+      with disability and to provide '
+    text_base: disability in development cdd to identify the individual needs of people
+      with disability and to provide
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 17702.35986328125
+  - index: 1192
+    text: 'appropriate assistance.  '
+    text_base: appropriate assistance
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 17715.979888916016
+  - index: 1193
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 17743.21987915039
+  - index: 1194
+    text: There was lack of availability of existing health practitioners particularly
+      occupational therapy and Speech-
+    text_base: there was lack of availability of existing health practitioners particularly
+      occupational therapy and speech
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 17743.21987915039
+  - index: 1195
+    text: 'language pathologists (SLPs)/ speech therapists in the respective local
+      communities.  '
+    text_base: language pathologists slps speech therapists in the respective local
+      communities
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 17756.839874267578
+  - index: 1196
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 17784.07989501953
+  - index: 1197
+    text: 'Due to low funding coverage, BDRCS was not able to reach more PWDs.  '
+    text_base: due to low funding coverage bdrcs was not able to reach more pwds
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 17784.07989501953
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 3
+    line_number: 20
+    span_number: 0
+    total_y: 18574.279876708984
+    idx: 1249
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 1208
+  sector_similarity_score: 1.0
+  content:
+  - index: 1250
+    text: ':  '
+    text_base: ''
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 3
+    line_number: 20
+    span_number: 1
+    total_y: 18574.279876708984
+  - index: 1251
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 18601.53988647461
+  - index: 1252
+    text: 'There were less volunteers who are trained on search and rescue; and insufficient
+      stock of equipment''s '
+    text_base: there were less volunteers who are trained on search and rescue and
+      insufficient stock of equipment s
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 18601.53988647461
+  - index: 1253
+    text: 'available in respective BDRCS branch for respective Unit Disaster Response
+      Team (UDRT) members. To '
+    text_base: available in respective bdrcs branch for respective unit disaster response
+      team udrt members to
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 18615.159881591797
+  - index: 1254
+    text: 'ensure the safety of volunteers and staff during the evacuation, BDRCS
+      from its NHQ warehouse mobilized '
+    text_base: ensure the safety of volunteers and staff during the evacuation bdrcs
+      from its nhq warehouse mobilized
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 18628.779876708984
+  - index: 1255
+    text: '175 life jackets to flood affected BDRCS branches.  '
+    text_base: 175 life jackets to flood affected bdrcs branches
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 18642.399871826172
+- title:
+    text: 'Challenges:  '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 24
+    block_number: 7
+    line_number: 34
+    span_number: 0
+    total_y: 19651.55987548828
+    idx: 1311
+  sector_title: National Society Strengthening
+  sector_idx: 1266
+  sector_similarity_score: 1.0
+  content:
+  - index: 1312
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 24
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 19678.739868164062
+  - index: 1313
+    text: 'Some of the BDRCS branches in Sylhet region like in Sunamganj BDRCS branch
+      office, there is lack of space '
+    text_base: some of the bdrcs branches in sylhet region like in sunamganj bdrcs
+      branch office there is lack of space
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 24
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 19678.739868164062
+  - index: 1314
+    text: 'and facilities to work properly. BDRCS experienced difficulties to store
+      relief items and to accommodate '
+    text_base: and facilities to work properly bdrcs experienced difficulties to store
+      relief items and to accommodate
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 24
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 19692.35986328125
+  - index: 1315
+    text: 'its volunteers and staff during the emergency phase of the operation. To
+      address the shortage of '
+    text_base: its volunteers and staff during the emergency phase of the operation
+      to address the shortage of
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 24
+    block_number: 8
+    line_number: 3
+    span_number: 0
+    total_y: 19705.979858398438
+  - index: 1316
+    text: 'warehouse space, BDRCS is planning to have framework agreement which will
+      allow BDRCS to directly '
+    text_base: warehouse space bdrcs is planning to have framework agreement which
+      will allow bdrcs to directly
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 24
+    block_number: 8
+    line_number: 4
+    span_number: 0
+    total_y: 19719.599853515625
+  - index: 1317
+    text: 'deliver relief items from supplier warehouse.  '
+    text_base: deliver relief items from supplier warehouse
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 24
+    block_number: 8
+    line_number: 5
+    span_number: 0
+    total_y: 19733.219848632812
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 3
+    line_number: 1
+    span_number: 0
+    total_y: 24244.959838867188
+    idx: 1551
+  sector_title: Community Engagement and Accountability
+  sector_idx: 1490
+  sector_similarity_score: 1.0
+  content:
+  - index: 1552
+    text: ': '
+    text_base: ''
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 3
+    line_number: 1
+    span_number: 1
+    total_y: 24244.959838867188
+  - index: 1553
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 24272.19985961914
+  - index: 1554
+    text: 'BDRCS experienced challenges to identified targeted households from number
+      of floods affected people '
+    text_base: bdrcs experienced challenges to identified targeted households from
+      number of floods affected people
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 24272.19985961914
+  - index: 1555
+    text: 'and meet the expectation of affected people. BDRCS through its community
+      feedback mechanism and '
+    text_base: and meet the expectation of affected people bdrcs through its community
+      feedback mechanism and
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 24285.81982421875
+  - index: 1556
+    text: 'series of community consultation, explained about BDRCS mandate, working
+      modalities and limitation.  '
+    text_base: series of community consultation explained about bdrcs mandate working
+      modalities and limitation
+    style: 'regular, 20, #000000, #f4f4f4'
+    page_number: 30
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 24299.439819335938
