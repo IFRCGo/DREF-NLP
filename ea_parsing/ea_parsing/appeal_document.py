@@ -498,9 +498,25 @@ class AppealDocument:
         if self.lines is None:
             return None
         
-        lessons_learned_extractor = ChallengesLessonsLearnedExtractor(section_type='lessons_learned')
-        lessons_learned = lessons_learned_extractor.get_sections(
+        extractor = ChallengesLessonsLearnedExtractor(section_type='lessons_learned')
+        lessons_learned = extractor.get_sections(
             document=self
         )
         
         return lessons_learned
+
+
+    @cached_property
+    def challenges(self):
+        """
+        Extract lessons learned from the document.
+        """
+        if self.lines is None:
+            return None
+        
+        extractor = ChallengesLessonsLearnedExtractor(section_type='challenges')
+        challenges = extractor.get_sections(
+            document=self
+        )
+        
+        return challenges
