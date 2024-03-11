@@ -224,7 +224,11 @@ class AppealDocument:
                             largest_highlight = max(highlights, key=lambda x: x['overlap'])
                             highlight_color = largest_highlight['fill']
                             if highlight_color:
-                                highlight_color_hex = '#%02x%02x%02x' % (int(255*highlight_color[0]), int(255*highlight_color[1]), int(255*highlight_color[2]))
+                                highlight_color_hex = '#%02x%02x%02x' % (
+                                    int(255*highlight_color[0]),
+                                    int(255*highlight_color[1]),
+                                    int(255*highlight_color[2])
+                                )
 
                         # Check if the span is contained in any page images
                         contains_images = [img for img in page_images if utils.contains(img['bbox'], span['bbox'])]
@@ -331,7 +335,9 @@ class AppealDocument:
                         lambda block_lines:
                             block_lines.is_page_label() or block_lines.is_reference()
                     )
-                    block_lines_to_drop = block.loc[block['line_number'].isin(lines_page_label_or_reference[lines_page_label_or_reference].index)]
+                    block_lines_to_drop = block.loc[
+                        block['line_number'].isin(lines_page_label_or_reference[lines_page_label_or_reference].index)
+                    ]
                     lines.drop(labels=block_lines_to_drop.index, inplace=True)
                     if lines_page_label_or_reference.all():
                         continue
