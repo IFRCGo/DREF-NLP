@@ -1,7 +1,7 @@
 - title:
     text: Achievements, challenges and lessons learned
     text_base: achievements challenges and lessons learned
-    style: 'Arial-BoldMT, 20, #000000, #e0e0e0'
+    style: 'bold, 20, #000000, #e0e0e0'
     page_number: 4
     block_number: 14
     line_number: 0
@@ -17,7 +17,7 @@
       1,356 pregnant and/or nursing women. '
     text_base: nutrition awareness was conducted in 16 of the 20 affected villages
       reaching 1 356 pregnant and or nursing women
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 4
     block_number: 14
     line_number: 19
@@ -28,7 +28,7 @@
       materials were reinforced with awareness '
     text_base: posters were developed and distributed in affected the communities
       iec materials were reinforced with awareness
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 4
     block_number: 14
     line_number: 20
@@ -39,7 +39,7 @@
       \ sessions have been well received. Cooking "
     text_base: and training sessions conducted for groups of 10 15 women and these
       sessions have been well received cooking
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 4
     block_number: 14
     line_number: 21
@@ -50,7 +50,7 @@
       with food options and combinations, '
     text_base: and food demonstrations were undertaken by health staff and volunteers
       with food options and combinations
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 4
     block_number: 14
     line_number: 22
@@ -59,7 +59,7 @@
   - index: 297
     text: 'promoting positive nutrition outcomes.  '
     text_base: promoting positive nutrition outcomes
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 4
     block_number: 14
     line_number: 23
@@ -70,7 +70,7 @@
       \ municipalities, collecting data on women\u2019s "
     text_base: post distribution monitoring was conducted in march and april in all
       three municipalities collecting data on women s
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 4
     block_number: 14
     line_number: 25
@@ -81,7 +81,7 @@
       the target group to put the nutrition advice '
     text_base: knowledge of nutrition the final evaluation identified difficulties
       within the target group to put the nutrition advice
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 4
     block_number: 14
     line_number: 26
@@ -92,7 +92,7 @@
       example, communities could not grow vegetables '
     text_base: received into practice due to lack of availability of nutritious food
       for example communities could not grow vegetables
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 2
     line_number: 0
@@ -103,7 +103,7 @@
       afford to buy vegetables when they were '
     text_base: due to lack of availability of water caused by the drought and could
       not afford to buy vegetables when they were
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 2
     line_number: 1
@@ -114,7 +114,7 @@
       in Timor-Leste indicates the importance of '
     text_base: available due to insufficient funds the chronic nature of malnutrition
       in timor leste indicates the importance of
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 2
     line_number: 2
@@ -125,7 +125,7 @@
       under this drought operation are also part '
     text_base: continuous investment in improving nutrition half of the villages targeted
       under this drought operation are also part
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 2
     line_number: 3
@@ -136,7 +136,7 @@
       This allows the nutrition awareness '
     text_base: of a longer term nutrition programme where cvtl is an implementing
       partner this allows the nutrition awareness
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 2
     line_number: 4
@@ -146,7 +146,7 @@
     text: 'raising to be continued, based on demand and positive feedback from communities.  '
     text_base: raising to be continued based on demand and positive feedback from
       communities
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 2
     line_number: 5
@@ -155,7 +155,7 @@
   - index: 313
     text: 'Outputs '
     text_base: outputs
-    style: 'Arial-BoldMT, 18, #ffffff, #7c6d66'
+    style: 'bold, 18, #ffffff, #7c6d66'
     page_number: 5
     block_number: 4
     line_number: 0
@@ -164,7 +164,7 @@
   - index: 314
     text: '% of achievement '
     text_base: of achievement
-    style: 'Arial-BoldMT, 18, #ffffff, #7c6d66'
+    style: 'bold, 18, #ffffff, #7c6d66'
     page_number: 5
     block_number: 4
     line_number: 1
@@ -173,23 +173,23 @@
 - title:
     text: Achievements, challenges and lessons learned
     text_base: achievements challenges and lessons learned
-    style: 'Arial-BoldMT, 20, #000000, #e0e0e0'
+    style: 'bold, 20, #000000, #e0e0e0'
     page_number: 5
     block_number: 14
     line_number: 0
     span_number: 0
     total_y: 4493.929870605469
     idx: 338
-  sector_title: null
-  sector_idx: null
-  sector_similarity_score: null
+  sector_title: Food insecurity and nutrition
+  sector_idx: 263
+  sector_similarity_score: 1.0
   content:
   - index: 339
     text: 'Following the assessment, the drought plan of action was revised on 15
       September 2016 to increase the number of '
     text_base: following the assessment the drought plan of action was revised on
       15 september 2016 to increase the number of
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 2
@@ -200,7 +200,7 @@
       as requiring support to enhance their '
     text_base: target households from 4 000 to 5 500 of this 2 700 households were
       identified as requiring support to enhance their
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 3
@@ -211,7 +211,7 @@
       the existing health and nutrition activities '
     text_base: food security and strengthen their livelihoods the revision also combined
       the existing health and nutrition activities
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 4
@@ -222,7 +222,7 @@
       to support and prepare communities '
     text_base: to be under a single outcome this revised strategy was designed specifically
       to support and prepare communities
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 5
@@ -231,7 +231,7 @@
   - index: 343
     text: 'for the lean season due in Timor-Leste, from November to March.  '
     text_base: for the lean season due in timor leste from november to march
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 6
@@ -242,7 +242,7 @@
       for food purchase was issued, however, the '
     text_base: in order to support affected communities under this revision a tender
       for food purchase was issued however the
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 8
@@ -253,7 +253,7 @@
       to broaden its planned cash transfer '
     text_base: tender did not receive an adequate response and as a result cvtl elected
       to broaden its planned cash transfer
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 9
@@ -264,7 +264,7 @@
       was backed by findings from data '
     text_base: programme ctp to include money for local food procurement this decision
       was backed by findings from data
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 10
@@ -275,7 +275,7 @@
       consultation. An updated Plan of Action '
     text_base: collected during a seasonal mapping livelihoods assessment and community
       consultation an updated plan of action
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 11
@@ -286,7 +286,7 @@
       and was later replaced by a broader '
     text_base: was developed initially for food seed and conditional cash transfer
       activities and was later replaced by a broader
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 12
@@ -297,7 +297,7 @@
       data, 2,543 heads of households (1,678 '
     text_base: unconditional cash transfer programme after a revalidation of household
       data 2 543 heads of households 1 678
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 13
@@ -308,7 +308,7 @@
       and December 2016. The '
     text_base: males and 865 females received unconditional cash of usd 50 between
       november and december 2016 the
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 14
@@ -319,7 +319,7 @@
       committees has also been '
     text_base: development of ctp procedures training and proposed sensitization of
       community committees has also been
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 15
@@ -330,7 +330,7 @@
       Cross. '
     text_base: undertaken with the support of a peer advisor from the philippines
       red cross
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 14
     line_number: 16
@@ -339,7 +339,7 @@
   - index: 353
     text: 'Post-distribution monitoring (PDM) survey was designed to '
     text_base: post distribution monitoring pdm survey was designed to
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 0
@@ -348,7 +348,7 @@
   - index: 354
     text: 'measure the beneficiary satisfaction of non-food items and cash '
     text_base: measure the beneficiary satisfaction of non food items and cash
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 1
@@ -357,7 +357,7 @@
   - index: 355
     text: 'grants distributed during the operation and the current recovery '
     text_base: grants distributed during the operation and the current recovery
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 2
@@ -366,7 +366,7 @@
   - index: 356
     text: 'status of assisted households were conducted between March '
     text_base: status of assisted households were conducted between march
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 3
@@ -375,7 +375,7 @@
   - index: 357
     text: 'and May in one affected community in each of the three '
     text_base: and may in one affected community in each of the three
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 4
@@ -384,7 +384,7 @@
   - index: 358
     text: 'municipalities.  '
     text_base: municipalities
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 5
@@ -393,7 +393,7 @@
   - index: 359
     text: 'The unconditional cash grant was very well received, with 76% '
     text_base: the unconditional cash grant was very well received with 76
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 7
@@ -402,7 +402,7 @@
   - index: 360
     text: 'of the PDM respondents and all focus group participants '
     text_base: of the pdm respondents and all focus group participants
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 8
@@ -411,7 +411,7 @@
   - index: 361
     text: 'targeted in the final evaluation said they spent the cash on food, '
     text_base: targeted in the final evaluation said they spent the cash on food
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 9
@@ -420,7 +420,7 @@
   - index: 362
     text: 'which was the intended result. Cash beneficiaries also reported '
     text_base: which was the intended result cash beneficiaries also reported
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 10
@@ -429,7 +429,7 @@
   - index: 363
     text: 'a high level of satisfaction with cash transfer as a modality of '
     text_base: a high level of satisfaction with cash transfer as a modality of
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 11
@@ -438,7 +438,7 @@
   - index: 364
     text: 'assistance (82% of men and 71% of women) compared with the '
     text_base: assistance 82 of men and 71 of women compared with the
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 12
@@ -447,7 +447,7 @@
   - index: 365
     text: 'distribution of non-food Items. As this was the first time CVTL '
     text_base: distribution of non food items as this was the first time cvtl
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 13
@@ -456,7 +456,7 @@
   - index: 366
     text: 'implemented '
     text_base: implemented
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 14
@@ -465,7 +465,7 @@
   - index: 367
     text: 'a '
     text_base: a
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 15
@@ -474,7 +474,7 @@
   - index: 368
     text: 'Cash '
     text_base: cash
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 16
@@ -483,7 +483,7 @@
   - index: 369
     text: 'Transfer '
     text_base: transfer
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 17
@@ -492,7 +492,7 @@
   - index: 370
     text: 'Programme, '
     text_base: programme
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 18
@@ -501,7 +501,7 @@
   - index: 371
     text: 'they '
     text_base: they
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 19
@@ -510,7 +510,7 @@
   - index: 372
     text: 'also '
     text_base: also
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 15
     line_number: 20
@@ -519,7 +519,7 @@
   - index: 379
     text: 'CVTL staff registers a community member for     '
     text_base: cvtl staff registers a community member for
-    style: 'ArialMT, 18, #000000, #ffffff'
+    style: 'arialmt, 18, #000000, #ffffff'
     page_number: 5
     block_number: 19
     line_number: 0
@@ -528,7 +528,7 @@
   - index: 373
     text: 'experienced challenges related to the complex and time '
     text_base: experienced challenges related to the complex and time
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 16
     line_number: 0
@@ -539,7 +539,7 @@
       and handling and recording the '
     text_base: consuming beneficiary selection process calculation of the amount of
       assistance and handling and recording the
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 17
     line_number: 0
@@ -550,7 +550,7 @@
       a positive impression of cash programming '
     text_base: complaints as per the final evaluation the cvtl staff interviewed had
       a positive impression of cash programming
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 17
     line_number: 1
@@ -561,7 +561,7 @@
       \ Staff also benefited from IFRC technical support "
     text_base: originating from learning by doing which dispelled misconceptions staff
       also benefited from ifrc technical support
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 17
     line_number: 2
@@ -572,7 +572,7 @@
       in drafting CTP SOPs after the '
     text_base: not only in being trained in ctp prior to implementation but through
       assistance in drafting ctp sops after the
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 17
     line_number: 3
@@ -581,7 +581,7 @@
   - index: 378
     text: 'intervention. '
     text_base: intervention
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 5
     block_number: 17
     line_number: 4
@@ -590,7 +590,7 @@
 - title:
     text: Achievements, challenges and lessons learned
     text_base: achievements challenges and lessons learned
-    style: 'Arial-BoldMT, 20, #000000, #e0e0e0'
+    style: 'bold, 20, #000000, #e0e0e0'
     page_number: 6
     block_number: 27
     line_number: 0
@@ -604,7 +604,7 @@
   - index: 452
     text: 'As reported in  , 155,000 litres of '
     text_base: as reported in 155 000 litres of
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 28
     line_number: 0
@@ -613,7 +613,7 @@
   - index: 453
     text: 'Operations Update #3'
     text_base: operations update 3
-    style: 'ArialMT, 20, #0000ff, #ffffff'
+    style: 'arialmt, 20, #0000ff, #ffffff'
     page_number: 6
     block_number: 28
     line_number: 0
@@ -622,7 +622,7 @@
   - index: 455
     text: 'drinking water was provided to five target communities in '
     text_base: drinking water was provided to five target communities in
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 28
     line_number: 1
@@ -631,7 +631,7 @@
   - index: 456
     text: 'Viqueque and Bacau Districts. The water was distributed '
     text_base: viqueque and bacau districts the water was distributed
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 28
     line_number: 2
@@ -640,7 +640,7 @@
   - index: 457
     text: 'by tanker to bladders positioned in each community where '
     text_base: by tanker to bladders positioned in each community where
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 28
     line_number: 3
@@ -649,7 +649,7 @@
   - index: 458
     text: 'community '
     text_base: community
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 28
     line_number: 4
@@ -658,7 +658,7 @@
   - index: 459
     text: 'members '
     text_base: members
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 28
     line_number: 5
@@ -667,7 +667,7 @@
   - index: 460
     text: 'managed '
     text_base: managed
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 28
     line_number: 6
@@ -676,7 +676,7 @@
   - index: 461
     text: 'the '
     text_base: the
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 28
     line_number: 7
@@ -685,7 +685,7 @@
   - index: 462
     text: 'distribution '
     text_base: distribution
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 28
     line_number: 8
@@ -694,7 +694,7 @@
   - index: 463
     text: 'accompanied by safe water and hygiene messaging '
     text_base: accompanied by safe water and hygiene messaging
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 29
     line_number: 0
@@ -703,7 +703,7 @@
   - index: 464
     text: 'provided by trained branch volunteers. Water distribution '
     text_base: provided by trained branch volunteers water distribution
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 29
     line_number: 1
@@ -712,7 +712,7 @@
   - index: 465
     text: 'began in June and ceased in September. In addition, CVTL '
     text_base: began in june and ceased in september in addition cvtl
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 29
     line_number: 2
@@ -721,7 +721,7 @@
   - index: 466
     text: 'distributed 4,000 units of 10 litre water containers supplied '
     text_base: distributed 4 000 units of 10 litre water containers supplied
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 29
     line_number: 3
@@ -730,7 +730,7 @@
   - index: 467
     text: 'by IFRC and 1,776 water containers from CVTL stocks in '
     text_base: by ifrc and 1 776 water containers from cvtl stocks in
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 29
     line_number: 4
@@ -739,7 +739,7 @@
   - index: 468
     text: 'eight communities in Viqueque, Bacau and Lautem districts '
     text_base: eight communities in viqueque bacau and lautem districts
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 29
     line_number: 5
@@ -748,7 +748,7 @@
   - index: 469
     text: 'in June, with each family receiving 2 jerry cans each. '
     text_base: in june with each family receiving 2 jerry cans each
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 29
     line_number: 6
@@ -757,7 +757,7 @@
   - index: 470
     text: 'Eight rainwater harvesting systems and tanks were '
     text_base: eight rainwater harvesting systems and tanks were
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 29
     line_number: 8
@@ -766,7 +766,7 @@
   - index: 471
     text: 'installed in schools in Makadiki, Samalari, Tequinomata, '
     text_base: installed in schools in makadiki samalari tequinomata
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 29
     line_number: 9
@@ -775,7 +775,7 @@
   - index: 472
     text: 'Parlimento and Illilai Village. Two additional water '
     text_base: parlimento and illilai village two additional water
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 29
     line_number: 10
@@ -784,7 +784,7 @@
   - index: 473
     text: 'catchment systems were installed in October-November in '
     text_base: catchment systems were installed in october november in
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 29
     line_number: 11
@@ -793,7 +793,7 @@
   - index: 474
     text: "a community center and women\u2019s collective building. "
     text_base: a community center and women s collective building
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 6
     block_number: 29
     line_number: 12
@@ -802,7 +802,7 @@
   - index: 507
     text: 'Water catchment and tank installed in school in Parlimento '
     text_base: water catchment and tank installed in school in parlimento
-    style: 'ArialMT, 18, #000000, #ffffff'
+    style: 'arialmt, 18, #000000, #ffffff'
     page_number: 6
     block_number: 42
     line_number: 0
@@ -811,7 +811,7 @@
   - index: 479
     text: 'Outputs '
     text_base: outputs
-    style: 'Arial-BoldMT, 18, #ffffff, #7c6d66'
+    style: 'bold, 18, #ffffff, #7c6d66'
     page_number: 6
     block_number: 32
     line_number: 0
@@ -820,7 +820,7 @@
   - index: 480
     text: '% of achievement '
     text_base: of achievement
-    style: 'Arial-BoldMT, 18, #ffffff, #7c6d66'
+    style: 'bold, 18, #ffffff, #7c6d66'
     page_number: 6
     block_number: 32
     line_number: 1
@@ -829,21 +829,21 @@
 - title:
     text: Achievements, challenges and lessons learned
     text_base: achievements challenges and lessons learned
-    style: 'Arial-BoldMT, 20, #000000, #e0e0e0'
+    style: 'bold, 20, #000000, #e0e0e0'
     page_number: 7
     block_number: 5
     line_number: 0
     span_number: 0
     total_y: 6033.619873046875
     idx: 522
-  sector_title: null
-  sector_idx: null
-  sector_similarity_score: null
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 383
+  sector_similarity_score: 1.0
   content:
   - index: 523
     text: 'Although some delays were caused by accessibility, such as in '
     text_base: although some delays were caused by accessibility such as in
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 1
@@ -852,7 +852,7 @@
   - index: 524
     text: 'certain parts of Viqueque district where communities are '
     text_base: certain parts of viqueque district where communities are
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 2
@@ -861,7 +861,7 @@
   - index: 525
     text: 'geographically dispersed and are only accessible by foot, most '
     text_base: geographically dispersed and are only accessible by foot most
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 3
@@ -870,7 +870,7 @@
   - index: 526
     text: 'of the activities was successfully completed. The distribution of '
     text_base: of the activities was successfully completed the distribution of
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 4
@@ -879,7 +879,7 @@
   - index: 527
     text: hygiene kits reached in total 4,546 households.
     text_base: hygiene kits reached in total 4 546 households
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 5
@@ -888,7 +888,7 @@
   - index: 528
     text: 'Some 2,612 people affected by drought in eight communities in '
     text_base: some 2 612 people affected by drought in eight communities in
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 7
@@ -897,7 +897,7 @@
   - index: 529
     text: 'Viqueque, 1,777 people in four communities in Bacau and '
     text_base: viqueque 1 777 people in four communities in bacau and
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 8
@@ -906,7 +906,7 @@
   - index: 530
     text: '2,645 people in one community in Lautem (7,034 people in '
     text_base: 2 645 people in one community in lautem 7 034 people in
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 9
@@ -915,7 +915,7 @@
   - index: 531
     text: 'total) have received hygiene promotion and awareness '
     text_base: total have received hygiene promotion and awareness
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 10
@@ -924,7 +924,7 @@
   - index: 532
     text: 'messaging via door to door visits and distribution of posters. '
     text_base: messaging via door to door visits and distribution of posters
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 11
@@ -933,7 +933,7 @@
   - index: 533
     text: 'This messaging includes safe water management and '
     text_base: this messaging includes safe water management and
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 12
@@ -942,7 +942,7 @@
   - index: 534
     text: 'handwashing as well as prevention of malaria and dengue. It '
     text_base: handwashing as well as prevention of malaria and dengue it
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 13
@@ -951,7 +951,7 @@
   - index: 535
     text: 'was originally planned that this education would be '
     text_base: was originally planned that this education would be
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 14
@@ -960,7 +960,7 @@
   - index: 536
     text: 'accompanied by the distribution of hygiene kits to families. '
     text_base: accompanied by the distribution of hygiene kits to families
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 15
@@ -969,7 +969,7 @@
   - index: 537
     text: 'However, this was delayed due to procurement and finally took '
     text_base: however this was delayed due to procurement and finally took
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 16
@@ -978,7 +978,7 @@
   - index: 538
     text: 'place in November.  '
     text_base: place in november
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 6
     line_number: 17
@@ -987,7 +987,7 @@
   - index: 615
     text: 'CVTL volunteers conduct hygiene promotion '
     text_base: cvtl volunteers conduct hygiene promotion
-    style: 'ArialMT, 18, #000000, #ffffff'
+    style: 'arialmt, 18, #000000, #ffffff'
     page_number: 7
     block_number: 33
     line_number: 0
@@ -998,7 +998,7 @@
       carried out via post-distribution monitoring '
     text_base: monitoring of hygiene practices in target communities was planned to
       be carried out via post distribution monitoring
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 7
     line_number: 0
@@ -1009,7 +1009,7 @@
       recorded sufficiently to verify how well the '
     text_base: visits while the monitoring visits were undertaken the visits were
       not recorded sufficiently to verify how well the
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 7
     line_number: 1
@@ -1020,7 +1020,7 @@
       to improve monitoring tools and '
     text_base: practices have been adopted to all targeted communities cvtl are determined
       to improve monitoring tools and
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 7
     line_number: 2
@@ -1029,7 +1029,7 @@
   - index: 542
     text: 'process for future operations.  '
     text_base: process for future operations
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
     page_number: 7
     block_number: 7
     line_number: 3
@@ -1038,7 +1038,7 @@
 - title:
     text: 'Achievements, challenges and lessons learned '
     text_base: achievements challenges and lessons learned
-    style: 'Arial-BoldMT, 20, #000000, #e0e0e0'
+    style: 'bold, 20, #000000, #e0e0e0'
     page_number: 8
     block_number: 2
     line_number: 0
@@ -1054,7 +1054,7 @@
       implementing some activities under this '
     text_base: the extension of operation timeframe was largely sought due to delays
       in implementing some activities under this
-    style: 'ArialMT, 20, #000000, #e0e0e0'
+    style: 'arialmt, 20, #000000, #e0e0e0'
     page_number: 8
     block_number: 2
     line_number: 1
@@ -1063,7 +1063,7 @@
   - index: 621
     text: 'sector due to gaps in technical support available from IFRC for CVTL.  '
     text_base: sector due to gaps in technical support available from ifrc for cvtl
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 2
@@ -1074,7 +1074,7 @@
       the branch and headquarters staff to '
     text_base: during the operation eight full time staff were recruited by cvtl to
       support the branch and headquarters staff to
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 4
@@ -1085,7 +1085,7 @@
       at the national level and three at branch level '
     text_base: implement the drought plan of action five staff members were recruited
       at the national level and three at branch level
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 5
@@ -1094,7 +1094,7 @@
   - index: 624
     text: '(one for each district: Lautem, Viqueque and Baucau).  '
     text_base: one for each district lautem viqueque and baucau
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 6
@@ -1105,7 +1105,7 @@
       from each of CVTL departments came '
     text_base: cvtl convened regular drought task force meetings where a representative
       from each of cvtl departments came
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 8
@@ -1116,7 +1116,7 @@
       highlighted the establishment of the task '
     text_base: together to strategize and plan this drought response the final evaluation
       highlighted the establishment of the task
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 9
@@ -1127,7 +1127,7 @@
       direct role in ensuring tasks and functions '
     text_base: force as an important initiative enabling senior management to take
       a more direct role in ensuring tasks and functions
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 10
@@ -1138,7 +1138,7 @@
       Unit. This task force structure is now '
     text_base: were resourced adequately to ease the workload of the disaster management
       unit this task force structure is now
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 11
@@ -1149,7 +1149,7 @@
       that were revised and finalized after '
     text_base: formalized into cvtl standard operating procedures for emergency response
       that were revised and finalized after
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 12
@@ -1160,7 +1160,7 @@
       of the DRM Delegate from CCST Jakarta.  '
     text_base: the final evaluation and based on the drought response with the support
       of the drm delegate from ccst jakarta
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 13
@@ -1171,7 +1171,7 @@
       hygiene kits and tarpaulins for 400 families in '
     text_base: non food relief items including kitchen sets blankets water containers
       hygiene kits and tarpaulins for 400 families in
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 15
@@ -1182,7 +1182,7 @@
       Logistics Unit and arrived in Dili in early '
     text_base: each of the three districts were requisitioned from the asia pacific
       regional logistics unit and arrived in dili in early
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 16
@@ -1193,7 +1193,7 @@
       for future shocks including the '
     text_base: 2017 this stock will be managed by the respective branches and prepositioned
       for future shocks including the
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 17
@@ -1202,7 +1202,7 @@
   - index: 634
     text: 'pending lean and wet seasons.  '
     text_base: pending lean and wet seasons
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 18
@@ -1213,7 +1213,7 @@
       training in March 2017 in Dili and '
     text_base: national disaster response team went through emergency watsan refresher
       training in march 2017 in dili and
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 20
@@ -1224,7 +1224,7 @@
       three affected branches. '
     text_base: branch disaster response team refresher trainings were carried out
       in all three affected branches
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 21
@@ -1235,7 +1235,7 @@
       The pre-positioned initiative with '
     text_base: british red cross are currently supporting cvtl in logistics capacity
       development the pre positioned initiative with
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 23
@@ -1246,7 +1246,7 @@
       linked and harmonised with the logistics '
     text_base: training and development support and logistics sop development has
       been linked and harmonised with the logistics
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 24
@@ -1257,7 +1257,7 @@
       capacity have been undertaken in the '
     text_base: development plan of action warehousing assessments inventory and branch
       capacity have been undertaken in the
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 25
@@ -1268,7 +1268,7 @@
       Cross. Since the assessments found issues '
     text_base: branches in viqueque bacau and lautem with the support of british red
       cross since the assessments found issues
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 26
@@ -1279,7 +1279,7 @@
       of the preparedness stock is prepositioned in '
     text_base: related to branch storage actually go beyond the operation scope part
       of the preparedness stock is prepositioned in
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 27
@@ -1288,7 +1288,7 @@
   - index: 642
     text: 'Dili warehouse.   '
     text_base: dili warehouse
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 28
@@ -1299,7 +1299,7 @@
       Prepared National Society (WPNS+) self-
     text_base: the national society was also considering to undertake the revised
       well prepared national society wpns self
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 30
@@ -1310,7 +1310,7 @@
       disaster response capacity. As technical '
     text_base: assessment as a step towards an evidence based approach to enhancing
       its disaster response capacity as technical
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 31
@@ -1321,7 +1321,7 @@
       CVTL will carry this exercise out with '
     text_base: guidance for this process were not available during the operation timeframe
       cvtl will carry this exercise out with
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 32
@@ -1332,7 +1332,7 @@
       and election preparedness. The '
     text_base: peer support later on in 2017 cvtl has contingency plans for flood
       drought and election preparedness the
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 33
@@ -1343,7 +1343,7 @@
       to review the drought contingency '
     text_base: experience gained from implementing this operation provides a good
       opportunity to review the drought contingency
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 34
@@ -1352,7 +1352,7 @@
   - index: 648
     text: 'plan, this will be carried out after the WPNS+ exercise. '
     text_base: plan this will be carried out after the wpns exercise
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 35
@@ -1363,7 +1363,7 @@
       \ has been enhanced, most noticeably in regard "
     text_base: the final evaluation notes that cvtl s capacity to respond to disasters
       has been enhanced most noticeably in regard
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 37
@@ -1374,7 +1374,7 @@
       consider cash programming, particularly '
     text_base: to cash programming prior to the operation there was a reluctance to
       consider cash programming particularly
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 38
@@ -1385,7 +1385,7 @@
       impression of cash programming. There '
     text_base: amongst senior management all cvtl staff interviewed now had a positive
       impression of cash programming there
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 39
@@ -1396,7 +1396,7 @@
       \ but staff also benefited from IFRC technical "
     text_base: was no doubt from learning by doing which dispelled misconceptions
       but staff also benefited from ifrc technical
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 40
@@ -1407,7 +1407,7 @@
       assistance in drafting CTP SOPs after '
     text_base: support not only in being trained in ctp prior to implementation but
       through assistance in drafting ctp sops after
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 41
@@ -1416,7 +1416,7 @@
   - index: 654
     text: 'the intervention. '
     text_base: the intervention
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 42
@@ -1427,7 +1427,7 @@
       and delivered during this operation, '
     text_base: a number of technical trainings and capacity building activities were
       undertaken and delivered during this operation
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 44
@@ -1438,7 +1438,7 @@
       \ of the IFRC operations managers. The evaluation "
     text_base: however what is most noticeable is the accompaniment approach of the
       ifrc operations managers the evaluation
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 45
@@ -1449,7 +1449,7 @@
       the positive impact of staff and '
     text_base: noted considerable capacity improvement in the staff and cvtl indicating
       the positive impact of staff and
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 46
@@ -1460,7 +1460,7 @@
       response.   '
     text_base: organizational capacity development prior to and part of this emergency
       response
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 8
     block_number: 2
     line_number: 47
@@ -1469,7 +1469,7 @@
 - title:
     text: 'Achievements, challenges and lessons learned '
     text_base: achievements challenges and lessons learned
-    style: 'Arial-BoldMT, 20, #000000, #e0e0e0'
+    style: 'bold, 20, #000000, #e0e0e0'
     page_number: 9
     block_number: 4
     line_number: 0
@@ -1485,7 +1485,7 @@
       during the annual rainy season. '
     text_base: cvtl regularly respond to meteorological hazards including floods and
       landslips during the annual rainy season
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 2
@@ -1496,7 +1496,7 @@
       \ in 2017, which potentially can result in increased "
     text_base: forecasters predict a 50 chance of a developing la ni a conditions
       in 2017 which potentially can result in increased
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 3
@@ -1507,7 +1507,7 @@
       the rainy season started in January/February and '
     text_base: rainfall and floods therefore cvtl kept a database on rainfall until
       the rainy season started in january february and
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 4
@@ -1518,7 +1518,7 @@
       returning to normality in some drought-affected '
     text_base: ends in may the rainfall patterns in january march were very erratic
       returning to normality in some drought affected
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 5
@@ -1527,7 +1527,7 @@
   - index: 702
     text: 'areas but not in all.  '
     text_base: areas but not in all
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 6
@@ -1538,7 +1538,7 @@
       for drought and a contingency plan for '
     text_base: cvtl have a draft contingency plan for flood response a contingency
       plan for drought and a contingency plan for
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 8
@@ -1549,7 +1549,7 @@
       of all of the contingency plans and '
     text_base: election preparedness the drm delegate has undertaken a desk based
       review of all of the contingency plans and
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 9
@@ -1560,7 +1560,7 @@
       Due to resource constraints, there was  '
     text_base: has worked with cvtl to do a country specific risk and hazard mapping
       due to resource constraints there was
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 10
@@ -1571,7 +1571,7 @@
       \ plans. Based on discussions with CVTL, it "
     text_base: insufficient time within the operation to revise all of cvtl s contingency
       plans based on discussions with cvtl it
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 11
@@ -1582,7 +1582,7 @@
       the main priority, which was done in a '
     text_base: was agreed that a review of the current standard operation procedures
       was the main priority which was done in a
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 12
@@ -1593,7 +1593,7 @@
       the WPNS+ review was undertaken, in '
     text_base: workshop in june 2017 the review of contingency plans would be done
       once the wpns review was undertaken in
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 13
@@ -1602,7 +1602,7 @@
   - index: 709
     text: 'the second half of 2017. '
     text_base: the second half of 2017
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 14
@@ -1613,7 +1613,7 @@
       received awareness information and guidance '
     text_base: communities receiving assistance under the cash distribution plan also
       received awareness information and guidance
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 16
@@ -1624,7 +1624,7 @@
       on local radio. Radio messaging '
     text_base: on seasonal risk reduction via the community recovery committees and
       broadcasts on local radio radio messaging
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 17
@@ -1635,7 +1635,7 @@
       the total population of 28,650 people.  '
     text_base: targeted 20 communities in baucau 8 lautem 5 and viqueque 7 reaching
       the total population of 28 650 people
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 18
@@ -1646,7 +1646,7 @@
       in three communities, after which '
     text_base: participatory risk mapping was done with community members and local
       authorities in three communities after which
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 19
@@ -1657,7 +1657,7 @@
       building for public display. CVTL also '
     text_base: the risk maps with prevention messaging posters were put in government
       building for public display cvtl also
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 20
@@ -1668,7 +1668,7 @@
       as a gap in CVTL drought task force '
     text_base: increased disaster risk reduction messaging using social media identified
       as a gap in cvtl drought task force
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 21
@@ -1679,7 +1679,7 @@
       were transmitted to the communities '
     text_base: meetings besides the disaster risk messaging no additional seasonal
       forecasts were transmitted to the communities
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 22
@@ -1688,7 +1688,7 @@
   - index: 717
     text: 'during the operation. '
     text_base: during the operation
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 23
@@ -1699,7 +1699,7 @@
       on the need for national Early Warning '
     text_base: the joint rapid assessment process has however kicked off the discussion
       on the need for national early warning
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 25
@@ -1710,7 +1710,7 @@
       in the country but also drought. Within '
     text_base: early action system not targeting only high winds rains and floods
       recurrent in the country but also drought within
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 26
@@ -1721,7 +1721,7 @@
       to create a seasonal forecast system for '
     text_base: this framework fao is supporting the timor leste ministry of agriculture
       to create a seasonal forecast system for
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 27
@@ -1732,7 +1732,7 @@
       in supporting the dissemination of weather '
     text_base: agricultural and drought monitoring purposes cvtl has offered assistance
       in supporting the dissemination of weather
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 28
@@ -1743,7 +1743,7 @@
       At the moment, CVTL plans to assist its Ministry '
     text_base: forecast messaging through its volunteers once the system is in place
       at the moment cvtl plans to assist its ministry
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 29
@@ -1754,7 +1754,7 @@
       network.  '
     text_base: of interior with disseminating weather warnings through its branch
       volunteer network
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 30
@@ -1765,7 +1765,7 @@
       s biggest long-term resilience programme "
     text_base: integrated community based risk reduction icbrr programme is cvtl s
       biggest long term resilience programme
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 32
@@ -1776,7 +1776,7 @@
       Korean and New Zealand Red Cross '
     text_base: supported by a consortium of red cross partners formed by australian
       british korean and new zealand red cross
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 33
@@ -1787,7 +1787,7 @@
       in improving access to water and '
     text_base: societies together with koica and ifrc icbrr works on community resilience
       in improving access to water and
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 34
@@ -1798,7 +1798,7 @@
       Rapid Assessment on the Delayed Impact '
     text_base: promoting livelihoods the first and foremost recommendation in the
       joint rapid assessment on the delayed impact
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 35
@@ -1809,7 +1809,7 @@
       \ communities through resilience building "
     text_base: of el ni o southern oscillation in timor leste was to support most
       affected communities through resilience building
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 36
@@ -1820,7 +1820,7 @@
       community vulnerability to drought will be '
     text_base: programmes so as to effectively help affected households to recover
       the community vulnerability to drought will be
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 37
@@ -1831,7 +1831,7 @@
       community selection round. '
     text_base: taken into account by cvtl as an important criterion in the next icbrr
       community selection round
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 9
     block_number: 4
     line_number: 38
@@ -1840,7 +1840,7 @@
 - title:
     text: 'Achievements, challenges and lessons learned '
     text_base: achievements challenges and lessons learned
-    style: 'Arial-BoldMT, 20, #000000, #e0e0e0'
+    style: 'bold, 20, #000000, #e0e0e0'
     page_number: 10
     block_number: 30
     line_number: 0
@@ -1854,7 +1854,7 @@
   - index: 837
     text: 'Assessments  '
     text_base: assessments
-    style: 'Arial-BoldMT, 20, #000000, #e0e0e0'
+    style: 'bold, 20, #000000, #e0e0e0'
     page_number: 10
     block_number: 30
     line_number: 1
@@ -1865,7 +1865,7 @@
       members received training '
     text_base: 23 national disaster response team ndrt and 90 branch response team
       bdrt members received training
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 2
@@ -1876,7 +1876,7 @@
       assessments in the twenty '
     text_base: and refreshers on assessment methods prior to conducting door to door
       household assessments in the twenty
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 3
@@ -1887,7 +1887,7 @@
       5,500 households that will benefit from this '
     text_base: targeted communities in may the resulting data collected identified
       the 5 500 households that will benefit from this
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 4
@@ -1898,7 +1898,7 @@
       for the CTP. Prior to the commencement of '
     text_base: operation as well as the 2 700 households identified as being candidates
       for the ctp prior to the commencement of
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 5
@@ -1909,7 +1909,7 @@
       assessment and analysis. A pilot livelihoods '
     text_base: the ctp in october each community had its data revalidated by a fresh
       assessment and analysis a pilot livelihoods
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 6
@@ -1920,7 +1920,7 @@
       September 2016. Its purpose was to '
     text_base: assessment and seasonal mapping took place in two villages in lautem
       in september 2016 its purpose was to
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 7
@@ -1931,7 +1931,7 @@
       options. This initiative resulted in the '
     text_base: establish a more recent baseline and seasonal calendar to inform livelihood
       options this initiative resulted in the
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 8
@@ -1942,7 +1942,7 @@
       livelihood and nutrition activity. '
     text_base: confirmation and establishment of cash transfer programme as the primary
       livelihood and nutrition activity
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 9
@@ -1951,7 +1951,7 @@
   - index: 846
     text: 'Community engagement and accountability  '
     text_base: community engagement and accountability
-    style: 'Arial-BoldMT, 20, #000000, nan'
+    style: 'bold, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 11
@@ -1962,7 +1962,7 @@
       recovery committees to support '
     text_base: community engagement has been refocused with the establishment of community
       recovery committees to support
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 12
@@ -1973,7 +1973,7 @@
       These groups are representative '
     text_base: the implementation of ctp and to disseminate information to affected
       communities these groups are representative
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 13
@@ -1984,7 +1984,7 @@
       Each committee is also responsible '
     text_base: of communities and include the vulnerable women and established leadership
       each committee is also responsible
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 14
@@ -1995,7 +1995,7 @@
       and staff for the distribution of cash. '
     text_base: for the revalidation of beneficiary data and engagement with branch
       volunteers and staff for the distribution of cash
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 15
@@ -2006,7 +2006,7 @@
       the outcomes of any calls was not available '
     text_base: a complaint hotline has been activated at the cvtl headquarters data
       on the outcomes of any calls was not available
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 16
@@ -2015,7 +2015,7 @@
   - index: 852
     text: 'but will be analysed to inform programming in real time. '
     text_base: but will be analysed to inform programming in real time
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 17
@@ -2024,7 +2024,7 @@
   - index: 853
     text: 'Monitoring  '
     text_base: monitoring
-    style: 'Arial-BoldMT, 20, #000000, nan'
+    style: 'bold, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 19
@@ -2035,7 +2035,7 @@
       This will require continued strengthening to '
     text_base: informal recording of activities by cvtl staff and volunteers is ongoing
       this will require continued strengthening to
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 20
@@ -2046,7 +2046,7 @@
       based indicators of change and impact over '
     text_base: meet more formal reporting requirements but also to establish evidence
       based indicators of change and impact over
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 21
@@ -2057,7 +2057,7 @@
       to hygiene promotion and cash transfer '
     text_base: the longer term this is viewed as important by cvtl especially in relation
       to hygiene promotion and cash transfer
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 22
@@ -2068,7 +2068,7 @@
       revised plan of action. A peer from '
     text_base: activities a monitoring template has been established to accompany
       the revised plan of action a peer from
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 23
@@ -2079,7 +2079,7 @@
       with support from the British Red '
     text_base: indonesian red cross pmi has recently conducted a pmer capacity assessment
       with support from the british red
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 24
@@ -2090,7 +2090,7 @@
       also noted the same need to strengthen '
     text_base: cross and will be used to guide future development the final evaluation
       also noted the same need to strengthen
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 25
@@ -2101,7 +2101,7 @@
       \ slow Post-Distribution Monitoring survey process. "
     text_base: cvtl s capacities in data collection and analysis evident in the slow
       post distribution monitoring survey process
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 26
@@ -2112,7 +2112,7 @@
       receiving cash in envelope, reaching '
     text_base: the post distribution monitoring fell short of the planned 10 of the
       recipients receiving cash in envelope reaching
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 27
@@ -2123,7 +2123,7 @@
       in the survey). '
     text_base: only 5 9 recipients 150 households out of 2 543 households was involved
       in the survey
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 28
@@ -2132,7 +2132,7 @@
   - index: 863
     text: 'Gender and diversity '
     text_base: gender and diversity
-    style: 'Arial-BoldMT, 20, #000000, nan'
+    style: 'bold, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 30
@@ -2143,7 +2143,7 @@
       the operation. Female-headed households, '
     text_base: gendered impacts of drought were built into the in different phases
       of the operation female headed households
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 31
@@ -2154,7 +2154,7 @@
       with different strategies under the '
     text_base: pregnant and nursing mothers and families with small children were
       targeted with different strategies under the
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 32
@@ -2165,7 +2165,7 @@
       and the accessibility of cash distribution '
     text_base: operation disability inclusion was considered during the beneficiary
       selection and the accessibility of cash distribution
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 33
@@ -2176,7 +2176,7 @@
       monitoring data recorded by the CVTL Disaster '
     text_base: points to disabled beneficiaries was properly ensured all beneficiary
       monitoring data recorded by the cvtl disaster
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 10
     block_number: 30
     line_number: 34
@@ -2187,7 +2187,7 @@
       did not however meet the IFRC '
     text_base: management unit was disaggregated by sex but not by age groups the
       operation did not however meet the ifrc
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 11
     block_number: 2
     line_number: 0
@@ -2198,7 +2198,7 @@
       violence or child protection. The final '
     text_base: commitment of demonstrate evidence of addressing sexual and gender
       based violence or child protection the final
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 11
     block_number: 2
     line_number: 1
@@ -2209,7 +2209,7 @@
       as part the operation compared to '
     text_base: evaluation noted that only 20 of men reported problems with the cash
       received as part the operation compared to
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 11
     block_number: 2
     line_number: 2
@@ -2220,7 +2220,7 @@
       suggests further investigation to be '
     text_base: 33 of women but as the type of problem faced was not recorded the evaluation
       suggests further investigation to be
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 11
     block_number: 2
     line_number: 3
@@ -2229,7 +2229,7 @@
   - index: 873
     text: 'made prior to future CTPs. '
     text_base: made prior to future ctps
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 11
     block_number: 2
     line_number: 4
@@ -2238,7 +2238,7 @@
   - index: 874
     text: 'Evaluation and learning '
     text_base: evaluation and learning
-    style: 'Arial-BoldMT, 20, #000000, nan'
+    style: 'bold, 20, #000000, nan'
     page_number: 11
     block_number: 2
     line_number: 6
@@ -2249,7 +2249,7 @@
       and weaknesses in the operation were held '
     text_base: participatory workshops on sharing experiences and identifying strengths
       and weaknesses in the operation were held
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 11
     block_number: 2
     line_number: 7
@@ -2260,7 +2260,7 @@
       and used as material in the final evaluation '
     text_base: in three affected branches in april 2017 lessons learned were translated
       and used as material in the final evaluation
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 11
     block_number: 2
     line_number: 8
@@ -2271,7 +2271,7 @@
       dealt with CVTL through management '
     text_base: carried out in may 2017 the key recommendations of the evaluations
       were dealt with cvtl through management
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 11
     block_number: 2
     line_number: 9
@@ -2282,7 +2282,7 @@
       emergency Standard Operation '
     text_base: response mechanism one of the main recommendations is to review the
       current emergency standard operation
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 11
     block_number: 2
     line_number: 10
@@ -2293,7 +2293,7 @@
       practices were created. '
     text_base: procedures based on the lessons learned from the operation and new
       good practices were created
-    style: 'ArialMT, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, nan'
     page_number: 11
     block_number: 2
     line_number: 11

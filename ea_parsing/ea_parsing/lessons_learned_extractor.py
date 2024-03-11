@@ -70,6 +70,8 @@ class ChallengesLessonsLearnedExtractor:
         sectors_sections_map = self.get_section_sectors(
             sectors=self.document.sector_titles
         )
+
+        # Reverse the map
         section_sector_map = {}
         if sectors_sections_map:
             section_sector_map = {
@@ -140,6 +142,20 @@ class ChallengesLessonsLearnedExtractor:
             self.match_sectors_by_distance(
                 sectors=sectors.loc[sectors['style']!=primary_sector_style.name]
             )
+        
+        # If there are still unmatched sections, match to the closest sector
+        for section_idx in self.unmatched_sections:
+            sectors_before_section = self.get_idxs_before_idx(
+                idx=section_idx, 
+                idxs=self.sectors_sections_map.keys()
+            )
+            if not sectors_before_section.empty:
+                closest_sector_before_section = sectors_before_section.iloc[-1]
+                sector_idx = closest_sector_before_section.name
+                if sector_idx in self.sectors_sections_map:
+                    self.sectors_sections_map[sector_idx].append(section_idx)
+                else:
+                    self.sectors_sections_map[sector_idx] = [section_idx]
         
         return self.sectors_sections_map
 
@@ -306,6 +322,27 @@ class ChallengesLessonsLearnedExtractor:
         ].sort_values(by=['total_y'], ascending=True)
 
         return idxs_after
+
+
+    def get_idxs_before_idx(self, idx, idxs):
+        """
+        Get idxs before a given idx, comparing by total_y.
+
+        Parameters
+        ----------
+        idx : int (required)
+            Index to get the next section after.
+        """
+        # Get y position of idx and idxs
+        idx_position = self.document.lines.loc[idx]
+        idxs_positions = self.document.lines.loc[list(idxs)]
+        
+        # Get the sections which are after the idx - compare vertical position
+        idxs_before = idxs_positions.loc[
+            idxs_positions['total_y'] < idx_position['total_y']
+        ].sort_values(by=['total_y'], ascending=True)
+
+        return idxs_before
 
 
     def get_section_lines(self, title):
