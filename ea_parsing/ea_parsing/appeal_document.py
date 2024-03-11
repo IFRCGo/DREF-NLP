@@ -302,18 +302,19 @@ class AppealDocument:
         """
         for option in ['headers', 'footers']:
 
-            # Loop through pages
-            for page_number in lines['page_number'].unique():
+            # For each page, get the order of the blocks by vertical y distance
+            ordered_blocks_by_page = lines\
+                .sort_values(
+                    by=['page_number', 'origin_y'],
+                    ascending=[True, (True if option == 'headers' else False)]
+                )\
+                .groupby('page_number')['block_number'].unique()
 
-                # Get document vertically highest and lowest spans
-                page_lines = lines\
-                    .loc[lines['page_number'] == page_number]\
-                    .sort_values(by=['origin_y'], ascending=True)
-                block_numbers = page_lines['block_number'].drop_duplicates().tolist()
+            # Loop through pages
+            for page_number, block_numbers in ordered_blocks_by_page.items():
+                page_lines = lines.loc[lines['page_number'] == page_number]
 
                 # Loop through blocks and remove page labels and references
-                if option == 'footers':
-                    block_numbers = block_numbers[::-1]
                 for block_number in block_numbers:
 
                     block = page_lines.loc[page_lines['block_number'] == block_number]
@@ -326,12 +327,13 @@ class AppealDocument:
                             continue
 
                     # Loop through lines and remove page numbers and references
-                    for line in block['line_number'].unique():
-                        line_lines = block.loc[block['line_number'] == line]
-                        if line_lines.is_page_label() or line_lines.is_reference():
-                            block = block.drop(labels=line_lines.index)
-                            lines.drop(labels=line_lines.index, inplace=True)
-                    if block.empty:
+                    lines_page_label_or_reference = block.groupby(['line_number']).apply(
+                        lambda block_lines:
+                            block_lines.is_page_label() or block_lines.is_reference()
+                    )
+                    block_lines_to_drop = block.loc[block['line_number'].isin(lines_page_label_or_reference[lines_page_label_or_reference].index)]
+                    lines.drop(labels=block_lines_to_drop.index, inplace=True)
+                    if lines_page_label_or_reference.all():
                         continue
 
                     break
