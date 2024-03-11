@@ -1,6 +1,5 @@
 import os
 import argparse
-import pandas as pd
 from ea_parsing.appeal_document import Appeal
 
 parser = argparse.ArgumentParser()
@@ -27,7 +26,7 @@ for file in files:
     # Get appeal final report
     appeal = Appeal(mdr_code=mdr_code)
     final_report = appeal.final_report
-    
+
     # Extract the lines from the PDF documents and save
     document_lines_path = os.path.join(TESTS_DIR, 'raw_lines', f'{mdr_code}.csv')
 
@@ -41,5 +40,5 @@ for file in files:
                     break
 
     # Save the final report lines
-    if save_results=='y' or args.overwrite or not os.path.isfile(document_lines_path):
+    if save_results == 'y' or args.overwrite or not os.path.isfile(document_lines_path):
         final_report.raw_lines.to_csv(document_lines_path, index=True)

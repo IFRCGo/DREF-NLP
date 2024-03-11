@@ -2,7 +2,6 @@ import os
 import yaml
 import unittest
 from functools import cached_property
-import requests
 import pandas as pd
 from ea_parsing.appeal_document import Appeal
 
@@ -13,37 +12,34 @@ class TestResults(unittest.TestCase):
     def TESTS_DIR(self):
         return os.path.dirname(os.path.realpath(__file__))
 
-
     def test_lessons_learned_extraction(self):
         """
         Compare appeal document parse results against previously saved expected results.
         """
         self.compare_validated_results(
-            validated_results_files = self.get_file_paths('lessons_learned_results'),
+            validated_results_files=self.get_file_paths('lessons_learned_results'),
             type_='lessons_learned'
         )
-
 
     def test_challenges_extraction(self):
         """
         """
         self.compare_validated_results(
-            validated_results_files = self.get_file_paths('challenges_results'),
+            validated_results_files=self.get_file_paths('challenges_results'),
             type_='challenges'
         )
 
-
     def get_file_paths(self, folder_name):
         """
-        Get a list of paths to the files in folder_name, where folder_name is the name of a folder in the tests directory.
+        Get a list of paths to the files in folder_name,
+        where folder_name is the name of a folder in the tests directory.
         """
         paths = []
         for root, dirs, filenames in os.walk(os.path.join(self.TESTS_DIR, folder_name)):
             for file in filenames:
                 paths.append(os.path.abspath(os.path.join(root, file)))
-            
-        return paths
 
+        return paths
 
     def compare_validated_results(self, validated_results_files, type_):
         """
@@ -67,9 +63,9 @@ class TestResults(unittest.TestCase):
                     final_report.raw_lines_input = pd.read_csv(document_lines_path, index_col=0)
 
                 # Get results
-                if type_=='lessons_learned':
+                if type_ == 'lessons_learned':
                     results = final_report.lessons_learned
-                elif type_=='challenges':
+                elif type_ == 'challenges':
                     results = final_report.challenges
 
                 # Compare number of results
@@ -87,31 +83,50 @@ class TestResults(unittest.TestCase):
                     self.assertEqual(
                         result['title']['text'],
                         validated_result['title']['text'],
-                        f"Different titles for MDR code: {mdr_code}\n\nResults: {result['title']}\nValidated results: {validated_result['title']}"
+                        f"""
+                        Different titles for MDR code: {mdr_code}
+
+                        Results: {result['title']}
+                        Validated results: {validated_result['title']}
+                        """
                     )
                     self.assertEqual(
                         result['sector_title'],
                         validated_result['sector_title'],
-                        f"Different sector titles for MDR code: {mdr_code}\n\nResults: {result['sector_title']}\nValidated results: {validated_result['sector_title']}"
+                        f"""
+                        Different sector titles for MDR code: {mdr_code}
+
+                        Results: {result['sector_title']}
+                        Validated results: {validated_result['sector_title']}
+                        """
                     )
 
                     # Compare content length
                     validated_content = pd.DataFrame(
-                        [item['text'] for item in validated_result['content']], 
+                        [item['text'] for item in validated_result['content']],
                         columns=['content']
                     )
                     results_content = pd.DataFrame(
-                        [item['text'] for item in result['content']], 
+                        [item['text'] for item in result['content']],
                         columns=['content']
                     )
                     self.assertEqual(
                         len(validated_result['content']),
                         len(result['content']),
-                        f"Different length of content for MDR code: {mdr_code}, sector: {result['sector_title']}\n\nResults: {results_content}\nValidated results: {validated_content}"
+                        f"""
+                        Different length of content for MDR code: {mdr_code}, sector: {result['sector_title']}
+
+                        Results: {results_content}
+                        Validated results: {validated_content}
+                        """
                     )
 
                     # Compare content
                     self.assertTrue(
                         validated_content.equals(results_content),
-                        f"Section contents does not match for MDR code: {mdr_code}, sector: {result['sector_title']}\n\n{results_content.compare(validated_content)}"
+                        f"""
+                        Section contents does not match for MDR code: {mdr_code}, sector: {result['sector_title']}
+
+                        {results_content.compare(validated_content)}
+                        """
                     )

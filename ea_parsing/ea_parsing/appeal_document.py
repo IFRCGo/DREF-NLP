@@ -15,7 +15,6 @@ class GOAPI:
         """
         pass
 
-
     def get_appeal_data(self, mdr_code):
         """
         Get appeal details for an appeal specified by the MDR code.
@@ -27,20 +26,19 @@ class GOAPI:
         """
         # Get the results
         results = self._get_results(
-            url=f'https://goadmin.ifrc.org/api/v2/appeal/',
+            url='https://goadmin.ifrc.org/api/v2/appeal/',
             params={
-                'format': 'json', 
+                'format': 'json',
                 'code': mdr_code
             }
         )
         # Check only one appeal
-        if len(results)==0:
+        if len(results) == 0:
             raise RuntimeError(f'No results found for MDR code {mdr_code}')
         if len(results) > 1:
             raise RuntimeError(f'Multiple results found for MDR code {mdr_code}:\n{results}')
-        
-        return results[0]
 
+        return results[0]
 
     def get_appeal_document_data(self, id):
         """
@@ -52,15 +50,14 @@ class GOAPI:
             ID of the appeal in IFRC GO.
         """
         documents = self._get_results(
-            url='https://goadmin.ifrc.org/api/v2/appeal_document/', 
+            url='https://goadmin.ifrc.org/api/v2/appeal_document/',
             params={
-                'format': 'json', 
+                'format': 'json',
                 'appeal': id
             }
         )
         return documents
 
-    
     def _get_results(self, url, params=None):
         """
         Get results from the GO API from the URL, looping through pages.
@@ -77,7 +74,7 @@ class GOAPI:
         results = []
         while url:
             response = requests.get(
-                url=url, 
+                url=url,
                 params=params
             )
             response.raise_for_status()
@@ -86,7 +83,6 @@ class GOAPI:
             url = json['next']
 
         return results
-
 
 
 class Appeal:
@@ -100,7 +96,7 @@ class Appeal:
             MDR code of the appeal.
         """
         self.mdr_code = mdr_code
-        
+
         # Set appeal details
         appeal_data = GOAPI().get_appeal_data(mdr_code=self.mdr_code)
         for k, v in appeal_data.items():
@@ -110,7 +106,6 @@ class Appeal:
         if self.atype != 1:
             raise RuntimeError(f'Appeal with MDR code {mdr_code} is a {self.atype_display}, not an Emergency Appeal')
 
-    
     @cached_property
     def documents(self):
         """
@@ -120,14 +115,13 @@ class Appeal:
         documents_data = GOAPI().get_appeal_document_data(id=self.id)
         documents = [
             AppealDocument(
-                document_url=data['document_url'], 
+                document_url=data['document_url'],
                 name=data['name'],
                 created_at=data['created_at']
             )
             for data in documents_data
         ]
         return documents
-
 
     @cached_property
     def final_report(self):
@@ -136,14 +130,14 @@ class Appeal:
         """
         # Get final reports
         final_reports = [
-            document 
-            for document in self.documents 
+            document
+            for document in self.documents
             if ('final' in document.name.lower())
         ]
-        
-        if len(final_reports)==0:
+
+        if len(final_reports) == 0:
             return None
-        elif len(final_reports)==1:
+        elif len(final_reports) == 1:
             return final_reports[0]
 
         # More than 1 final report: return non-prelim report, and/ or latest
@@ -153,7 +147,6 @@ class Appeal:
             return non_prelim_reports[0]
         else:
             return final_reports[0]
-
 
 
 class AppealDocument:
@@ -180,7 +173,6 @@ class AppealDocument:
         self.created_at = created_at
         self.raw_lines_input = raw_lines
 
-
     @cached_property
     def raw_lines(self):
         """
@@ -205,7 +197,11 @@ class AppealDocument:
         for page_number, page_layout in enumerate(doc):
 
             # Get drawings to get text highlights
-            coloured_drawings = [drawing for drawing in page_layout.get_drawings() if (drawing['fill'] != (0.0, 0.0, 0.0))]
+            coloured_drawings = [
+                drawing
+                for drawing in page_layout.get_drawings()
+                if (drawing['fill'] != (0.0, 0.0, 0.0))
+            ]
             page_images = page_layout.get_image_info()
 
             # Loop through blocks
@@ -214,7 +210,7 @@ class AppealDocument:
                 for line_number, line in enumerate(block["lines"]):
                     spans = [span for span in line['spans'] if span['text'].strip()]
                     for span_number, span in enumerate(spans):
-                            
+
                         # Check if the text block is contained in a drawing
                         highlights = []
                         for drawing in coloured_drawings:
@@ -230,14 +226,9 @@ class AppealDocument:
                             if highlight_color:
                                 highlight_color_hex = '#%02x%02x%02x' % (int(255*highlight_color[0]), int(255*highlight_color[1]), int(255*highlight_color[2]))
 
-                        # Check if the span overlaps with an image
-                        max_overlap = None
-                        overlapping_images = [utils.get_overlap(span['bbox'], img['bbox'])/utils.get_area(span['bbox']) for img in page_images if utils.get_overlap(span['bbox'], img['bbox'])]
-                        if overlapping_images:
-                            max_overlap = max(overlapping_images)
-
+                        # Check if the span is contained in any page images
                         contains_images = [img for img in page_images if utils.contains(img['bbox'], span['bbox'])]
-                        
+
                         # Append results
                         span['text'] = span['text'].replace('\r', '\n')
                         span['bold'] = ("black" in span['font'].lower()) or ("bold" in span['font'].lower())
@@ -257,7 +248,6 @@ class AppealDocument:
 
         return Lines(pd.DataFrame(data))
 
-
     @cached_property
     def lines(self):
         """
@@ -265,7 +255,7 @@ class AppealDocument:
         """
         if self.raw_lines is None:
             return None
-        
+
         lines = self.raw_lines.copy()
 
         # Sort lines by y of blocks
@@ -295,7 +285,6 @@ class AppealDocument:
 
         return lines
 
-
     def remove_photo_blocks(self, lines):
         """
         Remove blocks which look like photos from the document lines.
@@ -306,40 +295,39 @@ class AppealDocument:
 
         return lines
 
-
     def remove_page_labels_references(self, lines):
         """
         Remove page numbers from page headers and footers.
         Assumes headers and footers are the vertically highest and lowest elements on the page.
         """
         for option in ['headers', 'footers']:
-        
+
             # Loop through pages
             for page_number in lines['page_number'].unique():
 
                 # Get document vertically highest and lowest spans
                 page_lines = lines\
-                    .loc[lines['page_number']==page_number]\
+                    .loc[lines['page_number'] == page_number]\
                     .sort_values(by=['origin_y'], ascending=True)
                 block_numbers = page_lines['block_number'].drop_duplicates().tolist()
 
                 # Loop through blocks and remove page labels and references
-                if option=='footers':
+                if option == 'footers':
                     block_numbers = block_numbers[::-1]
                 for block_number in block_numbers:
 
-                    block = page_lines.loc[page_lines['block_number']==block_number]
-                    page_labels_references_idxs = []
+                    block = page_lines.loc[page_lines['block_number'] == block_number]
 
-                    # Check if the whole block is a page label or reference - only for footers otherwise risk of dropping too much
-                    if option=='footers':
+                    # Check if the whole block is a page label or reference
+                    # only for footers otherwise risk of dropping too much
+                    if option == 'footers':
                         if block.is_page_label() or block.is_reference():
                             lines.drop(labels=block.index, inplace=True)
                             continue
 
                     # Loop through lines and remove page numbers and references
                     for line in block['line_number'].unique():
-                        line_lines = block.loc[block['line_number']==line]
+                        line_lines = block.loc[block['line_number'] == line]
                         if line_lines.is_page_label() or line_lines.is_reference():
                             block = block.drop(labels=line_lines.index)
                             lines.drop(labels=line_lines.index, inplace=True)
@@ -349,7 +337,6 @@ class AppealDocument:
                     break
 
         return lines
-
 
     def drop_all_repeating_headers_footers(self, lines):
         """
@@ -385,7 +372,6 @@ class AppealDocument:
             lines = lines.drop(repeating_lines['index'].explode())
 
         return lines
-    
 
     def get_repeating_blocks(self, which, lines):
         """
@@ -393,11 +379,11 @@ class AppealDocument:
         """
         # Get spans in blocks at top of each page
         lines['page_block'] = lines['page_number'].astype(str)+'_'+lines['block_number'].astype(str)
-        
+
         # Get the top and bottom blocks on each page
-        if which=='top':
+        if which == 'top':
             page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmin()]
-        elif which=='bottom':
+        elif which == 'bottom':
             page_blocks = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmax()]
         else:
             raise RuntimeError('Unrecognised value for "which", should be "top" or "bottom"')
@@ -411,7 +397,7 @@ class AppealDocument:
         elements = elements.loc[elements['text_base'].astype(bool)]
         repeating_texts = elements\
             .groupby(['text_base'])\
-            .filter(lambda x: len(x)>2)
+            .filter(lambda x: len(x) > 2)
 
         # Don't remove lessons learned titles
         lessons_learned_title_texts = ChallengesLessonsLearnedExtractor(section_type='lessons_learned').title_texts
@@ -422,14 +408,13 @@ class AppealDocument:
         # Remove indexes
         return repeating_texts
 
-
     def get_repeating_lines(self, which, lines):
         """
         """
         # Get the top and bottom lines on each page
-        if which=='top':
+        if which == 'top':
             page_lines = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmin()]
-        elif which=='bottom':
+        elif which == 'bottom':
             page_lines = lines.loc[lines.groupby(['page_number'])['origin_y'].idxmax()]
         else:
             raise RuntimeError('Unrecognised value for "which", should be "top" or "bottom"')
@@ -439,7 +424,7 @@ class AppealDocument:
         repeating_texts = page_lines\
             .reset_index()\
             .groupby(['text_base'])\
-            .filter(lambda x: len(x)>2)
+            .filter(lambda x: len(x) > 2)
 
         # Don't remove lessons learned titles
         lessons_learned_title_texts = ChallengesLessonsLearnedExtractor(section_type='lessons_learned').title_texts
@@ -450,16 +435,13 @@ class AppealDocument:
         # Remove indexes
         return repeating_texts
 
-
     @cached_property
     def titles(self):
         return self.lines.titles
 
-    
     @cached_property
     def headings(self):
         return self.lines.headings
-
 
     @cached_property
     def sector_titles(self):
@@ -468,15 +450,19 @@ class AppealDocument:
         sector_titles = self.headings.copy()
 
         # Get only sector titles in the "Detailed operational plan" section, if it exists
-        detailed_operational_plan_titles = sector_titles.loc[sector_titles['text_base'].isin(['c detailed operational plan', 'c detailed operational report'])]
+        detailed_operational_plan_titles = sector_titles.loc[
+            sector_titles['text_base'].isin(['c detailed operational plan', 'c detailed operational report'])
+            ]
         if not detailed_operational_plan_titles.empty:
-            sector_titles = sector_titles.loc[sector_titles['total_y'] > detailed_operational_plan_titles['total_y'].min()]
+            sector_titles = sector_titles.loc[
+                sector_titles['total_y'] > detailed_operational_plan_titles['total_y'].min()
+            ]
 
         # Get a score representing how "sector titley" it is
         sectors = Sectors()
         sector_titles[['Sector title', 'Sector similarity score']] = sector_titles.apply(
-            lambda row: 
-                None if row['text']!=row['text'] else \
+            lambda row:
+                None if row['text'] != row['text'] else
                 pd.Series(
                     sectors.get_similar_sector(
                         row['text']
@@ -486,9 +472,8 @@ class AppealDocument:
 
         # Filter to only where the score is >= 0.5
         sector_titles = sector_titles.loc[sector_titles['Sector similarity score'] >= 0.5]
-        
-        return sector_titles
 
+        return sector_titles
 
     @cached_property
     def lessons_learned(self):
@@ -497,14 +482,13 @@ class AppealDocument:
         """
         if self.lines is None:
             return None
-        
+
         extractor = ChallengesLessonsLearnedExtractor(section_type='lessons_learned')
         lessons_learned = extractor.get_sections(
             document=self
         )
-        
-        return lessons_learned
 
+        return lessons_learned
 
     @cached_property
     def challenges(self):
@@ -513,10 +497,10 @@ class AppealDocument:
         """
         if self.lines is None:
             return None
-        
+
         extractor = ChallengesLessonsLearnedExtractor(section_type='challenges')
         challenges = extractor.get_sections(
             document=self
         )
-        
+
         return challenges

@@ -1,8 +1,5 @@
-"""
-"""
-from functools import cached_property
 import ea_parsing.definitions
-from ea_parsing.utils import strip_non_alpha, strip_filler_words, phrase_in_sentence, replace_phrases_in_sentence, generate_sentence_variations
+from ea_parsing.utils import strip_non_alpha, strip_filler_words, generate_sentence_variations
 
 
 class Sectors:
@@ -10,10 +7,9 @@ class Sectors:
         """
         """
         self.sectors = self._process_sectors(
-            sectors = ea_parsing.definitions.SECTORS,
-            abbreviations = ea_parsing.definitions.ABBREVIATIONS
+            sectors=ea_parsing.definitions.SECTORS,
+            abbreviations=ea_parsing.definitions.ABBREVIATIONS
         )
-
 
     def _process_sectors(self, sectors, abbreviations):
         """
@@ -22,7 +18,6 @@ class Sectors:
         sectors = self._add_abbreviations(sectors, abbreviations)
         return sectors
 
-    
     def _strip_characters(self, sectors):
         # Process - add sector name, and swap common words
         sectors_processed = {}
@@ -36,7 +31,7 @@ class Sectors:
 
                 # Loop through titles and add base text
                 sectors_processed[sector_name] = [
-                    strip_non_alpha(title).lower() 
+                    strip_non_alpha(title).lower()
                     for title in titles
                 ]
                 # Add sector title
@@ -44,7 +39,6 @@ class Sectors:
                     sectors_processed[sector_name].append(sector_name_base)
 
         return sectors_processed
-
 
     def _add_abbreviations(self, sectors, abbreviations):
         """
@@ -54,13 +48,12 @@ class Sectors:
             sectors_with_abbs[sector_name] = []
             for title in titles:
                 sector_options = generate_sentence_variations(
-                    sentence=title, 
+                    sentence=title,
                     abbreviations=abbreviations
                 )
                 sectors_with_abbs[sector_name] += sector_options
 
         return sectors_with_abbs
-
 
     def get_similar_sector(self, text):
         """
@@ -72,7 +65,7 @@ class Sectors:
         # Remove any prefix text
         prefixes = ['strategies for implementation']
         for prefix in prefixes:
-            if text_base!=prefix:
+            if text_base != prefix:
                 if text_base.startswith(prefix):
                     text_base = text_base[len(prefix):].strip()
 
@@ -82,7 +75,7 @@ class Sectors:
                 if text_base == title:
                     return sector_name, 1
 
-        # Next, check if the title is any title plus filler words 
+        # Next, check if the title is any title plus filler words
         for sector_name, titles in self.sectors.items():
             for title in titles:
                 if strip_filler_words(text_base) == strip_filler_words(title):

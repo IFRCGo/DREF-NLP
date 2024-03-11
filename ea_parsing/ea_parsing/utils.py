@@ -1,11 +1,6 @@
 import re
 import itertools
-import io
 from math import sqrt
-from statistics import mean
-import requests
-from collections import Counter
-import fitz
 
 
 def phrase_in_sentence(phrase, sentence):
@@ -26,7 +21,7 @@ def replace_phrases_in_sentence(phrases, repl, sentence):
 
 def generate_sentence_variations(sentence, abbreviations):
     """
-    Given a sentence, sentence, and possible abbreviations, abbreviations, generate all possible sentences with different abbreviation options.
+    Given a sentence and possible abbreviations, generate all possible sentences with different abbreviation options.
     """
     # Find which abbreviations are in sentence
     lsources = [phrase for phrase in abbreviations if phrase_in_sentence(phrase, sentence)]
@@ -47,9 +42,9 @@ def generate_sentence_variations(sentence, abbreviations):
 def contains(bbox1, bbox2):
     # Check if bbox1 contains bbox2
     if (
-        (bbox1[0] < bbox2[0]) and 
-        (bbox1[1] < bbox2[1]) and 
-        (bbox1[2] > bbox2[2]) and 
+        (bbox1[0] < bbox2[0]) and
+        (bbox1[1] < bbox2[1]) and
+        (bbox1[2] > bbox2[2]) and
         (bbox1[3] > bbox2[3])
     ):
         return True
@@ -69,7 +64,7 @@ def get_area(bbox):
 
 
 def is_text_title(text):
-    if text!=text: 
+    if text != text:
         return False
     # Check first letter is uppercase
     letters = [char for char in text if char.isalpha()]
@@ -105,29 +100,29 @@ def colour_diff(colour1, colour2):
     Both colours must be in hex format.
     """
     # If both nan, return True
-    if (colour1!=colour1) and (colour2!=colour2):
+    if (colour1 != colour1) and (colour2 != colour2):
         return 0
 
     # Calculate distance if both not nan
-    elif (colour1==colour1) and (colour2==colour2):
+    elif (colour1 == colour1) and (colour2 == colour2):
 
         # If the same, return
-        if colour1==colour2:
+        if colour1 == colour2:
             return 0
-        
+
         # Convert hex to RGB
         colour1 = tuple(int(str(colour1).lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
         colour2 = tuple(int(str(colour2).lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
 
         # Calculate distance, and normalize to 1
         distance = sqrt(
-            (colour1[0] - colour2[0])**2 + 
-            (colour1[1] - colour2[1])**2 + 
+            (colour1[0] - colour2[0])**2 +
+            (colour1[1] - colour2[1])**2 +
             (colour1[2] - colour2[2])**2
         )/sqrt(3*(255**2))
-        
+
         return distance
-    
+
     # If one is nan and the other is not nan, return max distance 1
     else:
         return 1

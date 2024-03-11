@@ -1,7 +1,8 @@
-from fastapi import FastAPI, Query, HTTPException
+from fastapi import FastAPI, Query
 from ea_parsing.appeal_document import Appeal
 
 app = FastAPI()
+
 
 @app.post("/parse/")
 async def run_parsing(
@@ -13,7 +14,7 @@ async def run_parsing(
         max_length=8,
         regex="^MDR[A-Z0-9]{5}$"
         )
-    ):
+):
     """
     </ul>
     """

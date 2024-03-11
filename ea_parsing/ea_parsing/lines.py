@@ -14,7 +14,6 @@ class Line(pd.Series):
     def _constructor_expanddim(self):
         return Lines
 
-
     def is_similar_style(self, line2):
         # Size tolerance greater if highlight_colour
         size_tolerance = 6 if not self['highlight_color'] else 100
@@ -37,12 +36,11 @@ class Line(pd.Series):
                     color1 = self['color'] if self['color'] is not None else "#000000"
                     color2 = line2['color'] if line2['color'] is not None else "#000000"
                     if colour_diff(color1, color2) < 0.2:
-                        
+
                         if self['bold'] == line2['bold']:
                             return True
-        
-        return False
 
+        return False
 
     def more_titley(self, title, nontitle):
         """
@@ -65,7 +63,7 @@ class Line(pd.Series):
                 return False
             if not title['bold'] and self['bold']:
                 return True
-            
+
             # Same boldness, uppercase = more titley
             if title['text'].isupper() and not self['text'].isupper():
                 return False
@@ -84,15 +82,19 @@ class Line(pd.Series):
 class Lines(pd.DataFrame):
     def __init__(self, *args, **kwargs):
         super(Lines,  self).__init__(*args, **kwargs)
-        
+
         if 'size' in self.columns:
             self['double_fontsize_int'] = (self['size'].astype(float)*2).round(0).astype('Int64')
-        if ('font' in self.columns) and ('double_fontsize_int' in self.columns) and ('color' in self.columns) and ('highlight_color' in self.columns):
-            self['style'] = self['font'].str.lower().str.split(pat='-', n=1).str[-1].replace({'boldmt': 'bold'})+', '+\
-                            self['double_fontsize_int'].astype(str)+', '+\
-                            self['color'].astype(str)+', '+\
+        if (
+            ('font' in self.columns) and
+            ('double_fontsize_int' in self.columns) and
+            ('color' in self.columns) and
+            ('highlight_color' in self.columns)
+        ):
+            self['style'] = self['font'].str.lower().str.split(pat='-', n=1).str[-1].replace({'boldmt': 'bold'})+', ' +\
+                            self['double_fontsize_int'].astype(str)+', ' +\
+                            self['color'].astype(str)+', ' +\
                             self['highlight_color'].astype(str)
-
 
     @property
     def _constructor(self):
@@ -101,7 +103,6 @@ class Lines(pd.DataFrame):
     @property
     def _constructor_sliced(self):
         return Line
-
 
     def sort_blocks_by_y(self):
         """
@@ -115,18 +116,16 @@ class Lines(pd.DataFrame):
 
         return lines
 
-
     def combine_spans_same_style(self):
         """
         """
         lines = self.copy()
         lines['text'] = lines\
             .groupby(['page_number', 'block_number', 'line_number', 'style'])['text']\
-            .transform(lambda x: ' '.join([txt for txt in x if txt==txt]))
+            .transform(lambda x: ' '.join([txt for txt in x if txt == txt]))
         lines = lines.drop_duplicates(subset=['page_number', 'block_number', 'line_number', 'style'])
 
         return lines
-
 
     def combine_bullet_spans(self):
         """
@@ -139,22 +138,22 @@ class Lines(pd.DataFrame):
         bullet_chars = ['•']
         bullets = lines.loc[
             (lines['text'].str.strip().isin(bullet_chars)) &
-            (lines['span_number']==0)
+            (lines['span_number'] == 0)
         ]
-        
+
         # Loop through bullets and put bullet item text on the same line_number
         for i, bullet in bullets.iterrows():
             bullet_block = lines.loc[
-                (lines['page_number']==bullet['page_number']) &
-                (lines['block_number']==bullet['block_number'])
+                (lines['page_number'] == bullet['page_number']) &
+                (lines['block_number'] == bullet['block_number'])
             ]
             bullet_line = bullet_block.loc[
-                (lines['line_number']==bullet['line_number'])
+                (lines['line_number'] == bullet['line_number'])
             ]
             text_at_bullet_level = bullet_block.loc[
-                (lines['line_number']!=bullet['line_number']) &
-                (lines['span_number']==0) &
-                (lines['total_y']==bullet['total_y'])
+                (lines['line_number'] != bullet['line_number']) &
+                (lines['span_number'] == 0) &
+                (lines['total_y'] == bullet['total_y'])
             ]
             if not text_at_bullet_level.empty:
                 first_text_at_bullet_level = text_at_bullet_level.index[0]
@@ -162,7 +161,6 @@ class Lines(pd.DataFrame):
                 lines.loc[first_text_at_bullet_level, 'span_number'] = bullet_line['span_number'].max() + 1
 
         return lines
-
 
     def is_page_label(self):
         """
@@ -178,13 +176,12 @@ class Lines(pd.DataFrame):
         if not lines_with_chars.empty:
             if lines_with_chars.iloc[0]['text_base'].startswith('page'):
                 return True
-        
+
         # If only a single number, assume page label
-        if len(lines)==1 and lines.iloc[0]['text_base'].isdigit():
+        if len(lines) == 1 and lines.iloc[0]['text_base'].isdigit():
             return True
 
         return False
-
 
     def is_reference(self):
         """
@@ -197,29 +194,35 @@ class Lines(pd.DataFrame):
 
         # If the first span is small and a number
         first_span = self.iloc[0]
-        if len(self)==1:
+        if len(self) == 1:
             if first_span['text_base'].isdigit():
                 return True
-        elif len(self)>1:
+        elif len(self) > 1:
             if first_span['text_base'].isdigit():
                 if (self.iloc[1]['size'] - first_span['size']) >= 1:
                     return True
 
         return False
 
-
     @cached_property
     def is_nothing(self):
         """
         Check if the lines only contain placeholders for nothing.
         """
-        nothing_texts = ['nothing to report', 'none was reported', 'none reported', 'na', 'n a', 'none', 'not applicable']
+        nothing_texts = [
+            'nothing to report',
+            'none was reported',
+            'none reported',
+            'na',
+            'n a',
+            'none',
+            'not applicable'
+        ]
         text_content = ' '.join(self['text_base'].astype(str).tolist()).strip()
         if (not text_content) or (text_content in nothing_texts):
             return True
 
         return False
-
 
     @cached_property
     def titles(self):
@@ -229,17 +232,15 @@ class Lines(pd.DataFrame):
         # Get all lines starting with capital letter
         titles = self.dropna(subset=['text'])\
                      .loc[
-                         (self['span_number']==0) & 
+                         (self['span_number'] == 0) &
                          (self['text'].apply(is_text_title))
                      ]
 
         return titles
 
-
     @cached_property
     def body_style(self):
         return self['style'].value_counts().idxmax()
-        
 
     @cached_property
     def headings(self):
@@ -247,10 +248,9 @@ class Lines(pd.DataFrame):
         Filter titles to greater than body text.
         """
         # Assume that the body text is most common, and drop titles not bigger than this
-        headings = self.titles.loc[self.titles['style']!=self.body_style]
-        
-        return headings
+        headings = self.titles.loc[self.titles['style'] != self.body_style]
 
+        return headings
 
     def cut_at_more_titley_title(self, title):
         """
@@ -267,7 +267,7 @@ class Lines(pd.DataFrame):
         section_titles = self.loc[self.index.isin(
             [idx for idx in self.index if idx in self.titles.index]
         )].sort_values(by=['total_y'])
-        
+
         # Get the next title which is more titley than the title
         more_titley = None
         for idx, line in section_titles.iterrows():
@@ -280,9 +280,9 @@ class Lines(pd.DataFrame):
             return self
 
         more_titley_line = self.loc[
-            (self['page_number']==more_titley['page_number']) & 
-            (self['block_number']==more_titley['block_number']) & 
-            (self['line_number']==more_titley['line_number'])
+            (self['page_number'] == more_titley['page_number']) &
+            (self['block_number'] == more_titley['block_number']) &
+            (self['line_number'] == more_titley['line_number'])
         ]
 
         return self.loc[self['total_y'] < more_titley_line['total_y'].min()]
