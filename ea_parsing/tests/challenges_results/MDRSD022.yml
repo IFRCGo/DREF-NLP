@@ -1,0 +1,218 @@
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #f2f2f2'
+    page_number: 5
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 4638.719909667969
+    idx: 336
+  sector_title: Health and Care
+  sector_idx: 312
+  sector_similarity_score: 1.0
+  content:
+  - index: 337
+    text: 'Activities implemented are with available funding coverage. Due to low
+      financial coverage, rehabilitation '
+    text_base: activities implemented are with available funding coverage due to low
+      financial coverage rehabilitation
+    style: 'arialmt, 20, #000000, #f2f2f2'
+    page_number: 5
+    block_number: 8
+    line_number: 1
+    span_number: 0
+    total_y: 4653.359893798828
+  - index: 338
+    text: 'activities, procurements including of First-Aid kits and Health Kits and
+      assistance to health clinics were not '
+    text_base: activities procurements including of first aid kits and health kits
+      and assistance to health clinics were not
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 4664.7598876953125
+  - index: 339
+    text: 'covered fully as planned. '
+    text_base: covered fully as planned
+    style: 'arialmt, 20, #000000, #f2f2f2'
+    page_number: 5
+    block_number: 8
+    line_number: 3
+    span_number: 0
+    total_y: 4676.2799072265625
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f2f2f2'
+    page_number: 6
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 5411.8798828125
+    idx: 390
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 359
+  sector_similarity_score: 1.0
+  content:
+  - index: 391
+    text: 'Low financial coverage has restricted the scope of SRCS intervention in
+      this sector. Due to this number of SRCS '
+    text_base: low financial coverage has restricted the scope of srcs intervention
+      in this sector due to this number of srcs
+    style: 'arialmt, 20, #000000, #f2f2f2'
+    page_number: 6
+    block_number: 8
+    line_number: 1
+    span_number: 0
+    total_y: 5423.8798828125
+  - index: 392
+    text: 'planned actions for rehabilitation of water yards, boreholes and hand pumps
+      was reviewed. '
+    text_base: planned actions for rehabilitation of water yards boreholes and hand
+      pumps was reviewed
+    style: 'arialmt, 20, #000000, #f2f2f2'
+    page_number: 6
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 5435.399871826172
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f2f2f2'
+    page_number: 7
+    block_number: 3
+    line_number: 4
+    span_number: 0
+    total_y: 6014.279846191406
+    idx: 438
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 416
+  sector_similarity_score: 1.0
+  content:
+  - index: 439
+    text: 'Continuous nature of displacement is a challenge for beneficiary targeting.
+      Less coordination among partners '
+    text_base: continuous nature of displacement is a challenge for beneficiary targeting
+      less coordination among partners
+    style: 'arialmt, 20, #000000, #f2f2f2'
+    page_number: 7
+    block_number: 3
+    line_number: 5
+    span_number: 0
+    total_y: 6026.279846191406
+  - index: 440
+    text: 'responding the disaster is also another observed challenge.   '
+    text_base: responding the disaster is also another observed challenge
+    style: 'arialmt, 20, #000000, #f2f2f2'
+    page_number: 7
+    block_number: 3
+    line_number: 6
+    span_number: 0
+    total_y: 6037.799865722656
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f2f2f2'
+    page_number: 7
+    block_number: 17
+    line_number: 13
+    span_number: 0
+    total_y: 6576.959899902344
+    idx: 487
+  sector_title: National Society Strengthening
+  sector_idx: 461
+  sector_similarity_score: 1.0
+  content:
+  - index: 488
+    text: 'Hence SRCS is the only local humanitarian agency in the country, expectation
+      of government and local '
+    text_base: hence srcs is the only local humanitarian agency in the country expectation
+      of government and local
+    style: 'arialmt, 20, #000000, #f2f2f2'
+    page_number: 7
+    block_number: 17
+    line_number: 14
+    span_number: 0
+    total_y: 6588.959899902344
+  - index: 489
+    text: 'community is high. However, SRCS branch capacities do not match with these
+      expectations. There is also need '
+    text_base: community is high however srcs branch capacities do not match with
+      these expectations there is also need
+    style: 'arialmt, 20, #000000, None'
+    page_number: 7
+    block_number: 17
+    line_number: 15
+    span_number: 0
+    total_y: 6600.4798583984375
+  - index: 490
+    text: 'to strengthen advocacy to promote and strengthen the auxiliary role of
+      SRCS.  '
+    text_base: to strengthen advocacy to promote and strengthen the auxiliary role
+      of srcs
+    style: 'arialmt, 20, #000000, None'
+    page_number: 7
+    block_number: 17
+    line_number: 16
+    span_number: 0
+    total_y: 6612.003601074219
+  - index: 491
+    text: 'Low financial coverage has restricted the scope of SRCS intervention in
+      this sector. Several intervention '
+    text_base: low financial coverage has restricted the scope of srcs intervention
+      in this sector several intervention
+    style: 'arialmt, 20, #000000, None'
+    page_number: 7
+    block_number: 17
+    line_number: 17
+    span_number: 0
+    total_y: 6623.519836425781
+  - index: 492
+    text: 'activities are covered very low and most of them are not carried out due
+      to the financial constraint. '
+    text_base: activities are covered very low and most of them are not carried out
+      due to the financial constraint
+    style: 'arialmt, 20, #000000, #f2f2f2'
+    page_number: 7
+    block_number: 17
+    line_number: 18
+    span_number: 0
+    total_y: 6634.919860839844
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f2f2f2'
+    page_number: 8
+    block_number: 14
+    line_number: 11
+    span_number: 0
+    total_y: 7195.319854736328
+    idx: 539
+  sector_title: Quality Programming
+  sector_idx: 520
+  sector_similarity_score: 1.0
+  content:
+  - index: 540
+    text: 'Main challenge has been to secure reports from the field. PMER capacities
+      both at National and branch levels '
+    text_base: main challenge has been to secure reports from the field pmer capacities
+      both at national and branch levels
+    style: 'arialmt, 20, #000000, #f2f2f2'
+    page_number: 8
+    block_number: 14
+    line_number: 12
+    span_number: 0
+    total_y: 7207.319854736328
+  - index: 541
+    text: 'needs to be improved.  '
+    text_base: needs to be improved
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 14
+    line_number: 13
+    span_number: 0
+    total_y: 7218.83984375

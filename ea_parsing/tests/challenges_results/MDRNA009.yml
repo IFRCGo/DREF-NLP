@@ -1,0 +1,462 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f2f2f2'
+    page_number: 8
+    block_number: 1
+    line_number: 0
+    span_number: 0
+    total_y: 6795.35986328125
+    idx: 454
+  sector_title: Livelihoods
+  sector_idx: 395
+  sector_similarity_score: 1.0
+  content:
+  - index: 455
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 6822.7198486328125
+  - index: 456
+    text: 'Populations in Kunene were highly migratory, which limited their accessibility
+      to area-specific soup kitchen sites. '
+    text_base: populations in kunene were highly migratory which limited their accessibility
+      to area specific soup kitchen sites
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 1
+    span_number: 1
+    total_y: 6822.7198486328125
+  - index: 457
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 8
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 6834.960693359375
+  - index: 458
+    text: 'Remote villages could not access soup kitchens on regular basis because
+      they were too far.  '
+    text_base: remote villages could not access soup kitchens on regular basis because
+      they were too far
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 6834.960693359375
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f2f2f2'
+    page_number: 9
+    block_number: 3
+    line_number: 8
+    span_number: 0
+    total_y: 7931.759826660156
+    idx: 538
+  sector_title: Livelihoods
+  sector_idx: 395
+  sector_similarity_score: 1.0
+  content:
+  - index: 539
+    text: 'The delayed funds transfer from IFRC to NRCS for timely cash transfer has
+      affected the possibility of program '
+    text_base: the delayed funds transfer from ifrc to nrcs for timely cash transfer
+      has affected the possibility of program
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 7958.639831542969
+  - index: 540
+    text: 'impacting beneficiaries. Lack of confirmation of funding for extended Cash
+      Transfer and Water and Sanitation '
+    text_base: impacting beneficiaries lack of confirmation of funding for extended
+      cash transfer and water and sanitation
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 7970.402587890625
+  - index: 541
+    text: 'intervention in the region has affected the timely implementation of the
+      interventions. Further to that, limited '
+    text_base: intervention in the region has affected the timely implementation of
+      the interventions further to that limited
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 7982.165344238281
+  - index: 542
+    text: 'allocated financial support to the Cash Transfer proved a challenge to
+      allow flexibility to for example accommodate '
+    text_base: allocated financial support to the cash transfer proved a challenge
+      to allow flexibility to for example accommodate
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 7993.80859375
+  - index: 543
+    text: 'destitute people. The rapid field assessment has pinpointed a number of
+      destitute pastoralists living in peri-urban '
+    text_base: destitute people the rapid field assessment has pinpointed a number
+      of destitute pastoralists living in peri urban
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 5
+    span_number: 0
+    total_y: 8005.571350097656
+  - index: 544
+    text: 'settlements lacking access to basic services and infrastructure. Despite
+      increasing the targeted number of '
+    text_base: settlements lacking access to basic services and infrastructure despite
+      increasing the targeted number of
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 6
+    span_number: 0
+    total_y: 8017.3341064453125
+  - index: 545
+    text: 'households from 1000 to 1,100 to allow the project to provide critical
+      livelihood protection and food consumption '
+    text_base: households from 1000 to 1 100 to allow the project to provide critical
+      livelihood protection and food consumption
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 7
+    span_number: 0
+    total_y: 8029.096862792969
+  - index: 546
+    text: 'support for the some of the very poorest; this was not sufficient to reach
+      more people and have a meaningful impact '
+    text_base: support for the some of the very poorest this was not sufficient to
+      reach more people and have a meaningful impact
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 8
+    span_number: 0
+    total_y: 8040.859619140625
+  - index: 547
+    text: 'resulting in office frequenting out of hope for new registrations. The
+      initial budget allocation for Cash Transfer '
+    text_base: resulting in office frequenting out of hope for new registrations the
+      initial budget allocation for cash transfer
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 9
+    span_number: 0
+    total_y: 8052.622375488281
+  - index: 548
+    text: 'planned to provide only NAD 450 per household as opposed to the current
+      market cost of basket items of NAD 700 '
+    text_base: planned to provide only nad 450 per household as opposed to the current
+      market cost of basket items of nad 700
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 10
+    span_number: 0
+    total_y: 8064.265625
+  - index: 549
+    text: '(CHF 52). In addition, the initial proposal did not consider the 20% Commission
+      to the third party, resulting in '
+    text_base: chf 52 in addition the initial proposal did not consider the 20 commission
+      to the third party resulting in
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 11
+    span_number: 0
+    total_y: 8076.028381347656
+  - index: 550
+    text: 'significant budget impact. Late and irregular disbursement of cash from
+      IFRC to NRCS and subsequent reports '
+    text_base: significant budget impact late and irregular disbursement of cash from
+      ifrc to nrcs and subsequent reports
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 12
+    span_number: 0
+    total_y: 8087.7911376953125
+  - index: 551
+    text: 'clearing before the next cash request is approved highly impacted the smooth
+      operations, resulting in the risk of '
+    text_base: clearing before the next cash request is approved highly impacted the
+      smooth operations resulting in the risk of
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 13
+    span_number: 0
+    total_y: 8099.553894042969
+  - index: 552
+    text: "ruining the reputation of the National Society with beneficiaries\u2019\
+      \ and stakeholders. This further could dent the "
+    text_base: ruining the reputation of the national society with beneficiaries and
+      stakeholders this further could dent the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 14
+    span_number: 0
+    total_y: 8111.316650390625
+  - index: 553
+    text: 'perception towards cash transfer as a humanitarian response tool especially
+      in a country like Namibia where it is '
+    text_base: perception towards cash transfer as a humanitarian response tool especially
+      in a country like namibia where it is
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 15
+    span_number: 0
+    total_y: 8122.959899902344
+  - index: 554
+    text: 'poorly tested. '
+    text_base: poorly tested
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 4
+    line_number: 16
+    span_number: 0
+    total_y: 8134.72265625
+  - index: 555
+    text: 'Remoteness to targeted villages and inaccessible roads because of rains
+      has impacted the delivery of cash to '
+    text_base: remoteness to targeted villages and inaccessible roads because of rains
+      has impacted the delivery of cash to
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 8158.2481689453125
+  - index: 556
+    text: "beneficiaries\u2019, resulting in extended field work.  "
+    text_base: beneficiaries resulting in extended field work
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 8169.771911621094
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f2f2f2'
+    page_number: 10
+    block_number: 19
+    line_number: 11
+    span_number: 0
+    total_y: 8843.63980102539
+    idx: 599
+  sector_title: Livelihoods
+  sector_idx: 395
+  sector_similarity_score: 1.0
+  content:
+  - index: 600
+    text: 'The insufficient funding of the EPoA resulted in farmers training and provision
+      of farming inputs in all targeted '
+    text_base: the insufficient funding of the epoa resulted in farmers training and
+      provision of farming inputs in all targeted
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 20
+    line_number: 1
+    span_number: 0
+    total_y: 8870.519805908203
+  - index: 601
+    text: 'regions not being carried out. Those conducted in Kavango were a result
+      of the SRCS contribution to its already '
+    text_base: regions not being carried out those conducted in kavango were a result
+      of the srcs contribution to its already
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 20
+    line_number: 2
+    span_number: 0
+    total_y: 8882.28256225586
+  - index: 602
+    text: 'existing programs. In addition to that, the availability of quality seeds
+      in the local market at a timely basis provided '
+    text_base: existing programs in addition to that the availability of quality seeds
+      in the local market at a timely basis provided
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 20
+    line_number: 3
+    span_number: 0
+    total_y: 8894.045318603516
+  - index: 603
+    text: 'challenge to the NS, resulting in late training of targeted beneficiaries
+      and provision of seeds having to be imported '
+    text_base: challenge to the ns resulting in late training of targeted beneficiaries
+      and provision of seeds having to be imported
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 20
+    line_number: 4
+    span_number: 0
+    total_y: 8905.688568115234
+  - index: 604
+    text: 'from Zambia. '
+    text_base: from zambia
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 20
+    line_number: 5
+    span_number: 0
+    total_y: 8917.45132446289
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f2f2f2'
+    page_number: 11
+    block_number: 17
+    line_number: 25
+    span_number: 0
+    total_y: 9950.999816894531
+    idx: 676
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 621
+  sector_similarity_score: 1.0
+  content:
+  - index: 677
+    text: 'The revised EPoA included WASH promotion, of which a substantial time was
+      spent on further developing a '
+    text_base: the revised epoa included wash promotion of which a substantial time
+      was spent on further developing a
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 18
+    line_number: 1
+    span_number: 0
+    total_y: 9977.639770507812
+  - index: 678
+    text: 'proposal for WASH integration on the promise it was going to be funded
+      and this did not materialize. As a result, '
+    text_base: proposal for wash integration on the promise it was going to be funded
+      and this did not materialize as a result
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 18
+    line_number: 2
+    span_number: 0
+    total_y: 9989.163513183594
+  - index: 679
+    text: 'WASH promotion was short of funding and had to be sacrificed to accommodate
+      the financial costs associated with '
+    text_base: wash promotion was short of funding and had to be sacrificed to accommodate
+      the financial costs associated with
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 18
+    line_number: 3
+    span_number: 0
+    total_y: 10000.687255859375
+  - index: 680
+    text: 'implementing the Cash Transfer. This then means that the risks associated
+      with water borne diseases could not be '
+    text_base: implementing the cash transfer this then means that the risks associated
+      with water borne diseases could not be
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 18
+    line_number: 4
+    span_number: 0
+    total_y: 10012.2109375
+  - index: 681
+    text: 'implemented for mitigation. The sparsely distribution of inadequate small
+      numbers of targeted beneficiaries (small '
+    text_base: implemented for mitigation the sparsely distribution of inadequate
+      small numbers of targeted beneficiaries small
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 18
+    line_number: 5
+    span_number: 0
+    total_y: 10023.615173339844
+  - index: 682
+    text: 'numbers per village result in short period spent by payment teams, limit
+      engagement period) across the '
+    text_base: numbers per village result in short period spent by payment teams limit
+      engagement period across the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 18
+    line_number: 6
+    span_number: 0
+    total_y: 10035.138854980469
+  - index: 683
+    text: 'constituencies together with lack of health messages affected the integration
+      of the health component of the '
+    text_base: constituencies together with lack of health messages affected the integration
+      of the health component of the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 18
+    line_number: 7
+    span_number: 0
+    total_y: 10046.66259765625
+  - index: 684
+    text: 'program. NRCS plan to revisit the health messaging component of the program
+      in such a way that beneficiaries '
+    text_base: program nrcs plan to revisit the health messaging component of the
+      program in such a way that beneficiaries
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 18
+    line_number: 8
+    span_number: 0
+    total_y: 10058.159790039062
+  - index: 685
+    text: 'receive sensitisation including during short period of payments in villages
+      during the payments. Lack of funding to '
+    text_base: receive sensitisation including during short period of payments in
+      villages during the payments lack of funding to
+    style: 'arialmt, 20, #000000, None'
+    page_number: 12
+    block_number: 1
+    line_number: 0
+    span_number: 0
+    total_y: 10161.479797363281
+  - index: 686
+    text: procure hygiene promotion items has resulted in omission of health messaging
+      during the first payment
+    text_base: procure hygiene promotion items has resulted in omission of health
+      messaging during the first payment
+    style: 'arialmt, 20, #000000, None'
+    page_number: 12
+    block_number: 1
+    line_number: 1
+    span_number: 0
+    total_y: 10172.879760742188
+  - index: 687
+    text: '. '
+    text_base: ''
+    style: 'italicmt, 20, #000000, None'
+    page_number: 12
+    block_number: 1
+    line_number: 1
+    span_number: 1
+    total_y: 10172.879760742188

@@ -1,0 +1,650 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 18
+    line_number: 7
+    span_number: 0
+    total_y: 8245.299865722656
+    idx: 621
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 563
+  sector_similarity_score: 1.0
+  content:
+  - index: 622
+    text: 'Due to COVID-19 restrictions, the distribution and the set-up of 52 shelter
+      units have been delayed and it is still going '
+    text_base: due to covid 19 restrictions the distribution and the set up of 52
+      shelter units have been delayed and it is still going
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 8260.479797363281
+  - index: 623
+    text: 'on at the time of publishing this report.  '
+    text_base: on at the time of publishing this report
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 19
+    line_number: 1
+    span_number: 0
+    total_y: 8271.939819335938
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 9
+    line_number: 17
+    span_number: 0
+    total_y: 11565.459777832031
+    idx: 918
+  sector_title: Livelihoods
+  sector_idx: 635
+  sector_similarity_score: 1.0
+  content:
+  - index: 919
+    text: 'Hiring of Financial Service Provider (FSP) for the cash assistance has
+      been a major challenge. Despite the fact that '
+    text_base: hiring of financial service provider fsp for the cash assistance has
+      been a major challenge despite the fact that
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 11580.579772949219
+  - index: 920
+    text: 'tendering process has been done in a timely manner and after long negotiations
+      with the selected FSP regarding the '
+    text_base: tendering process has been done in a timely manner and after long negotiations
+      with the selected fsp regarding the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 1
+    span_number: 0
+    total_y: 11592.099792480469
+  - index: 921
+    text: 'contractual details of the cash distribution, Albanian Red Cross decided
+      not to move on in the collaboration with this '
+    text_base: contractual details of the cash distribution albanian red cross decided
+      not to move on in the collaboration with this
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 11603.619750976562
+  - index: 922
+    text: 'provider. This decision came since the agency has been procrastinating
+      and did not show sufficient level of seriousness '
+    text_base: provider this decision came since the agency has been procrastinating
+      and did not show sufficient level of seriousness
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 3
+    span_number: 0
+    total_y: 11615.079772949219
+  - index: 923
+    text: 'and interest in this collaboration. '
+    text_base: and interest in this collaboration
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 4
+    span_number: 0
+    total_y: 11626.599792480469
+  - index: 924
+    text: 'As an alternative solution to move as quickly as possible with the cash
+      distribution, ARC together with the IFRC country '
+    text_base: as an alternative solution to move as quickly as possible with the
+      cash distribution arc together with the ifrc country
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 6
+    span_number: 0
+    total_y: 11649.599792480469
+  - index: 925
+    text: 'team decided to use bank cheques modality (directly from the ARC bank account
+      opened specifically for the CVA '
+    text_base: team decided to use bank cheques modality directly from the arc bank
+      account opened specifically for the cva
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 7
+    span_number: 0
+    total_y: 11661.119750976562
+  - index: 926
+    text: 'program). ARC has a previous experience using this modality, which has
+      led to a smooth and successful '
+    text_base: program arc has a previous experience using this modality which has
+      led to a smooth and successful
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 8
+    span_number: 0
+    total_y: 11672.639770507812
+  - index: 927
+    text: 'implementation of the three planned rounds of distribution during the reporting
+      period. '
+    text_base: implementation of the three planned rounds of distribution during the
+      reporting period
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 9
+    span_number: 0
+    total_y: 11684.099792480469
+  - index: 928
+    text: 'An unexpected challenge for the CVA intervention was the situation created
+      by COVID-19 pandemic which caused '
+    text_base: an unexpected challenge for the cva intervention was the situation
+      created by covid 19 pandemic which caused
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 11
+    span_number: 0
+    total_y: 11707.139770507812
+  - index: 929
+    text: 'delays in the start of the distribution, as proper procedures and equipment
+      to protect staff, volunteers and the affected '
+    text_base: delays in the start of the distribution as proper procedures and equipment
+      to protect staff volunteers and the affected
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 12
+    span_number: 0
+    total_y: 11718.599792480469
+  - index: 932
+    text: 'population had to be designed, procured and implemented.  '
+    text_base: population had to be designed procured and implemented
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 11845.319763183594
+  - index: 933
+    text: 'To mitigate the risk of the COVID 19 infection among ARC staff and volunteers
+      as well as the recipients during the '
+    text_base: to mitigate the risk of the covid 19 infection among arc staff and
+      volunteers as well as the recipients during the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 11868.299743652344
+  - index: 934
+    text: 'distributions, PPEs (i.e. gloves, mask) were distributed for the selected
+      households, physical distance was maintained '
+    text_base: distributions ppes i e gloves mask were distributed for the selected
+      households physical distance was maintained
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 11879.819763183594
+  - index: 935
+    text: 'and the households were invited for the distributions in pre-set time slots
+      to avoid large gatherings. '
+    text_base: and the households were invited for the distributions in pre set time
+      slots to avoid large gatherings
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 11891.339721679688
+  - index: 936
+    text: 'It was noticed during the first round of distribution that some of the
+      selected HHs left the country. To overcome this '
+    text_base: it was noticed during the first round of distribution that some of
+      the selected hhs left the country to overcome this
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 4
+    line_number: 6
+    span_number: 0
+    total_y: 11914.319763183594
+  - index: 937
+    text: 'challenge, HHs were selected from the waiting list based on vulnerability
+      criteria scoring system. '
+    text_base: challenge hhs were selected from the waiting list based on vulnerability
+      criteria scoring system
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 4
+    line_number: 7
+    span_number: 0
+    total_y: 11925.839721679688
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 16
+    block_number: 16
+    line_number: 3
+    span_number: 0
+    total_y: 14049.2197265625
+    idx: 1104
+  sector_title: Health and Care
+  sector_idx: 973
+  sector_similarity_score: 1.0
+  content:
+  - index: 1105
+    text: 'Due to the outbreak of COVID-19 crisis and associated measures (such as
+      restriction of movement, closure of all '
+    text_base: due to the outbreak of covid 19 crisis and associated measures such
+      as restriction of movement closure of all
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 16
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 14064.399719238281
+  - index: 1106
+    text: 'schools, cancellation of mass gatherings), some originally planned Health
+      and PSS activities that are community based '
+    text_base: schools cancellation of mass gatherings some originally planned health
+      and pss activities that are community based
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 17
+    line_number: 1
+    span_number: 0
+    total_y: 14075.919677734375
+  - index: 1107
+    text: 'could not be carried out as originally planned. Events with the involvement
+      of many unknown people are stressful, and '
+    text_base: could not be carried out as originally planned events with the involvement
+      of many unknown people are stressful and
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 17
+    line_number: 2
+    span_number: 0
+    total_y: 14087.439697265625
+  - index: 1108
+    text: 'the psychosocial dimensions of this outbreak needs to be addressed early
+      to minimize individual and population-based '
+    text_base: the psychosocial dimensions of this outbreak needs to be addressed
+      early to minimize individual and population based
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 17
+    line_number: 3
+    span_number: 0
+    total_y: 14098.899719238281
+  - index: 1109
+    text: 'anxiety that may pose a threat to public health and safety. '
+    text_base: anxiety that may pose a threat to public health and safety
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 17
+    line_number: 4
+    span_number: 0
+    total_y: 14110.419677734375
+  - index: 1110
+    text: 'PSS interventions which were modified to the new conditions have been continuing,
+      mostly online and through social '
+    text_base: pss interventions which were modified to the new conditions have been
+      continuing mostly online and through social
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 17
+    line_number: 6
+    span_number: 0
+    total_y: 14133.399719238281
+  - index: 1111
+    text: 'media channels in order to mitigate the impact of the earthquake, as well
+      as COVID-19 and its restrictions at the same '
+    text_base: media channels in order to mitigate the impact of the earthquake as
+      well as covid 19 and its restrictions at the same
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 17
+    line_number: 7
+    span_number: 0
+    total_y: 14144.919677734375
+  - index: 1112
+    text: 'time. '
+    text_base: time
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 17
+    line_number: 8
+    span_number: 0
+    total_y: 14156.379699707031
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 17
+    block_number: 18
+    line_number: 8
+    span_number: 0
+    total_y: 14917.599670410156
+    idx: 1173
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 1119
+  sector_similarity_score: 1.0
+  content:
+  - index: 1174
+    text: 'Due to the outbreak of COVID-19 crisis and associated measures (such as
+      restriction of movement, closure of all '
+    text_base: due to the outbreak of covid 19 crisis and associated measures such
+      as restriction of movement closure of all
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 17
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 14932.779724121094
+  - index: 1175
+    text: 'schools, cancellation of mass gatherings), some originally planned Health
+      and PSS activities that are community '
+    text_base: schools cancellation of mass gatherings some originally planned health
+      and pss activities that are community
+    style: 'arialmt, 20, #000000, None'
+    page_number: 17
+    block_number: 19
+    line_number: 1
+    span_number: 0
+    total_y: 14944.299682617188
+  - index: 1176
+    text: 'based could not be carried out as originally planned. '
+    text_base: based could not be carried out as originally planned
+    style: 'arialmt, 20, #000000, None'
+    page_number: 17
+    block_number: 19
+    line_number: 2
+    span_number: 0
+    total_y: 14955.759704589844
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 10
+    line_number: 22
+    span_number: 0
+    total_y: 15669.819702148438
+    idx: 1222
+  sector_title: Protection, Gender and Inclusion
+  sector_idx: 1182
+  sector_similarity_score: 1.0
+  content:
+  - index: 1223
+    text: 'No major challenges faced. '
+    text_base: no major challenges faced
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 18
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 15684.999633789062
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 7
+    line_number: 1
+    span_number: 0
+    total_y: 17105.359619140625
+    idx: 1312
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 1235
+  sector_similarity_score: 1.0
+  content:
+  - index: 1313
+    text: 'Community drills, FA and DRR training public awareness campaigns, and some
+      school related dissemination activities '
+    text_base: community drills fa and drr training public awareness campaigns and
+      some school related dissemination activities
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 17120.539611816406
+  - index: 1314
+    text: 'and the development of community contingency plans had to be postponed
+      due to COVID-19 restrictions, but all '
+    text_base: and the development of community contingency plans had to be postponed
+      due to covid 19 restrictions but all
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 8
+    line_number: 1
+    span_number: 0
+    total_y: 17131.999633789062
+  - index: 1315
+    text: 'planned activities were still conducted and covered within the emergency
+      appeal timeframe. '
+    text_base: planned activities were still conducted and covered within the emergency
+      appeal timeframe
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 17143.519653320312
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 21
+    block_number: 4
+    line_number: 25
+    span_number: 0
+    total_y: 18028.819610595703
+    idx: 1379
+  sector_title: National Society Strengthening
+  sector_idx: 1321
+  sector_similarity_score: 1.0
+  content:
+  - index: 1380
+    text: 'The warehouse renovation and repair was a key success for NS and the operation.
+      It took enormous efforts and time '
+    text_base: the warehouse renovation and repair was a key success for ns and the
+      operation it took enormous efforts and time
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 21
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 18043.999633789062
+  - index: 1381
+    text: "to stabilize the WH infrastructure and start the rehabilitation. The actual\
+      \ status of the warehouseof ARC \u2013 good "
+    text_base: to stabilize the wh infrastructure and start the rehabilitation the
+      actual status of the warehouseof arc good
+    style: 'arialmt, 20, #000000, None'
+    page_number: 21
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 18055.519622802734
+  - index: 1382
+    text: 'condition, newly renovated roof without any leaking, solid new build flooring
+      and painted front and site with space for '
+    text_base: condition newly renovated roof without any leaking solid new build
+      flooring and painted front and site with space for
+    style: 'arialmt, 20, #000000, None'
+    page_number: 21
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 18067.039611816406
+  - index: 1383
+    text: 'cars/trucks who are covered by weather related events/ true car park/ garage.
+      Challenge was the procedure and '
+    text_base: cars trucks who are covered by weather related events true car park
+      garage challenge was the procedure and
+    style: 'arialmt, 20, #000000, None'
+    page_number: 21
+    block_number: 5
+    line_number: 3
+    span_number: 0
+    total_y: 18078.499633789062
+  - index: 1384
+    text: 'implementation of the re construction, but at the end all went in the right
+      direction.  '
+    text_base: implementation of the re construction but at the end all went in the
+      right direction
+    style: 'arialmt, 20, #000000, None'
+    page_number: 21
+    block_number: 5
+    line_number: 4
+    span_number: 0
+    total_y: 18090.019622802734
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 4
+    line_number: 11
+    span_number: 0
+    total_y: 18709.75958251953
+    idx: 1430
+  sector_title: International Disaster Response
+  sector_idx: 1389
+  sector_similarity_score: 1.0
+  content:
+  - index: 1431
+    text: 'There was a long process of retrieving old/ non-functioning vehicles which
+      after being repaired have been delivered to '
+    text_base: there was a long process of retrieving old non functioning vehicles
+      which after being repaired have been delivered to
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 22
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 18724.93963623047
+  - index: 1432
+    text: 'ARC Branches. The NS got as replenishment of their Operational cars with
+      three new vehicles that have been '
+    text_base: arc branches the ns got as replenishment of their operational cars
+      with three new vehicles that have been
+    style: 'arialmt, 20, #000000, None'
+    page_number: 22
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 18736.459594726562
+  - index: 1433
+    text: "purchased (one mini cargo track and two passengers\u2019 vehicles) for\
+      \ future operations "
+    text_base: purchased one mini cargo track and two passengers vehicles for future
+      operations
+    style: 'arialmt, 20, #000000, None'
+    page_number: 22
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 18747.91961669922
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 19529.839599609375
+    idx: 1504
+  sector_title: Influence others as leading strategic partner
+  sector_idx: 1438
+  sector_similarity_score: 1.0
+  content:
+  - index: 1505
+    text: 'Due to COVID-19 travel restrictions, only 2of the 3 PMER missions were
+      completed. Two more communications '
+    text_base: due to covid 19 travel restrictions only 2of the 3 pmer missions were
+      completed two more communications
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 19545.019592285156
+  - index: 1506
+    text: 'missions were foreseen during the operation timeframe, but they had to
+      be cancelled due to COVID-19 travel '
+    text_base: missions were foreseen during the operation timeframe but they had
+      to be cancelled due to covid 19 travel
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 8
+    line_number: 1
+    span_number: 0
+    total_y: 19556.539611816406
+  - index: 1507
+    text: 'restrictions. However, remote communication support is ensured to the ARC
+      and the country team. All other travels, '
+    text_base: restrictions however remote communication support is ensured to the
+      arc and the country team all other travels
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 19567.999572753906
+  - index: 1508
+    text: 'planned by IFRC ROE have been cancelled, due to the restrictions related
+      to COVID-19 and quarantine measures. '
+    text_base: planned by ifrc roe have been cancelled due to the restrictions related
+      to covid 19 and quarantine measures
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 8
+    line_number: 3
+    span_number: 0
+    total_y: 19579.519592285156
+  - index: 1509
+    text: 'Nevertheless, remote support was continually provided by IFRC ROE. '
+    text_base: nevertheless remote support was continually provided by ifrc roe
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 8
+    line_number: 4
+    span_number: 0
+    total_y: 19591.039611816406
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 18
+    line_number: 11
+    span_number: 0
+    total_y: 20010.459594726562
+    idx: 1543
+  sector_title: Effective, credible and accountable IFRC
+  sector_idx: 1516
+  sector_similarity_score: 1.0
+  content:
+  - index: 1544
+    text: 'The same as it is described in the section above. '
+    text_base: the same as it is described in the section above
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 20025.639587402344

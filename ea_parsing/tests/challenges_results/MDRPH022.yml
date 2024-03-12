@@ -1,0 +1,582 @@
+- title:
+    text: 'Challenges and Lessons learned '
+    text_base: challenges and lessons learned
+    style: 'bold, 20, #000000, #edebe0'
+    page_number: 10
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 8477.159790039062
+    idx: 706
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 579
+  sector_similarity_score: 1.0
+  content:
+  - index: 707
+    text: '1. Many of the barangays/municipalities in the scope of the project have
+      limited water and sanitation infrastructures. '
+    text_base: 1 many of the barangays municipalities in the scope of the project
+      have limited water and sanitation infrastructures
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 10
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 8489.159790039062
+  - index: 708
+    text: 'Most of the barangays depend on ponds, tube wells and gravity feed systems
+      as their main source of water for '
+    text_base: most of the barangays depend on ponds tube wells and gravity feed systems
+      as their main source of water for
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 8500.679809570312
+  - index: 709
+    text: 'drinking, cooking and cleaning.  '
+    text_base: drinking cooking and cleaning
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 3
+    line_number: 1
+    span_number: 0
+    total_y: 8512.203552246094
+  - index: 710
+    text: '2. Low visibility of or low priority for water and sanitation awareness
+      in the barangays or at municipalities means there '
+    text_base: 2 low visibility of or low priority for water and sanitation awareness
+      in the barangays or at municipalities means there
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 8529.599792480469
+  - index: 711
+    text: 'is a significant need for safe water and sanitation infrastructure and
+      promotion. This was particularly the case in '
+    text_base: is a significant need for safe water and sanitation infrastructure
+      and promotion this was particularly the case in
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 8541.12353515625
+  - index: 712
+    text: 'Barangay San Vicente with the Dupaningan tribe where PRC was able to support
+      with water and sanitation '
+    text_base: barangay san vicente with the dupaningan tribe where prc was able to
+      support with water and sanitation
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 8552.647277832031
+  - index: 713
+    text: 'infrastructure and the software components.  '
+    text_base: infrastructure and the software components
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 8564.171020507812
+  - index: 714
+    text: '3. Many of the barangays and municipalities are not connected with the
+      National Water Resources Board (NWRB) which '
+    text_base: 3 many of the barangays and municipalities are not connected with the
+      national water resources board nwrb which
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 8581.690673828125
+  - index: 715
+    text: 'prevents a significant amount of water and sanitation related awareness
+      programme and infrastructure development. '
+    text_base: prevents a significant amount of water and sanitation related awareness
+      programme and infrastructure development
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 8593.094848632812
+  - index: 716
+    text: 'Communities in the mountainous areas depend on tube wells and gravity feed
+      systems and most of the private '
+    text_base: communities in the mountainous areas depend on tube wells and gravity
+      feed systems and most of the private
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 8604.618591308594
+  - index: 717
+    text: 'companies do not have access to these areas. This is a key area where PRC
+      could play a significant role in supporting '
+    text_base: companies do not have access to these areas this is a key area where
+      prc could play a significant role in supporting
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 5
+    line_number: 3
+    span_number: 0
+    total_y: 8616.142333984375
+  - index: 718
+    text: 'the municipal governments in the realization of water and sanitation hardware
+      and software component.  '
+    text_base: the municipal governments in the realization of water and sanitation
+      hardware and software component
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 5
+    line_number: 4
+    span_number: 0
+    total_y: 8627.666076660156
+  - index: 719
+    text: '4. Sanitation coverage in barangays is very low. Not many households have
+      access to improved sanitation facilities, '
+    text_base: 4 sanitation coverage in barangays is very low not many households
+      have access to improved sanitation facilities
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 8645.185729980469
+  - index: 720
+    text: 'while the rehabilitation of latrines were not included in the SRA package.  To
+      address this, PRC rolled-out the software '
+    text_base: while the rehabilitation of latrines were not included in the sra package
+      to address this prc rolled out the software
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 8656.70947265625
+  - index: 721
+    text: "component of sanitation using participatory hygiene and sanitation transformation\
+      \ (PHAST) \u2013 a community-based "
+    text_base: component of sanitation using participatory hygiene and sanitation
+      transformation phast a community based
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 8668.113647460938
+  - index: 722
+    text: "approach \u2013  and children hygiene and sanitation transformation (CHAST)\
+      \ \u2013 a school-based approach. "
+    text_base: approach and children hygiene and sanitation transformation chast a
+      school based approach
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 8679.637390136719
+- title:
+    text: 'Challenges and lessons learnt '
+    text_base: challenges and lessons learnt
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 13
+    block_number: 7
+    line_number: 16
+    span_number: 0
+    total_y: 11445.119750976562
+    idx: 945
+  sector_title: Food insecurity and nutrition
+  sector_idx: 723
+  sector_similarity_score: 1.0
+  content:
+  - index: 946
+    text: '1 '
+    text_base: '1'
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 13
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 11458.079772949219
+  - index: 947
+    text: 'For Household Livelihoods now, there was no significant impact in terms
+      of livelihood restoration since most of '
+    text_base: for household livelihoods now there was no significant impact in terms
+      of livelihood restoration since most of
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 13
+    block_number: 8
+    line_number: 1
+    span_number: 0
+    total_y: 11458.079772949219
+  - index: 948
+    text: 'the beneficiaries are still rearing their livestock options.  '
+    text_base: the beneficiaries are still rearing their livestock options
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 11469.599792480469
+  - index: 949
+    text: '2 '
+    text_base: '2'
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 11483.999755859375
+  - index: 950
+    text: 'The livelihood intervention was complemented with a technical training
+      on livestock management in collaboration '
+    text_base: the livelihood intervention was complemented with a technical training
+      on livestock management in collaboration
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 9
+    line_number: 1
+    span_number: 0
+    total_y: 11483.999755859375
+  - index: 951
+    text: "with the Department of Agriculture through the Municipal Agriculture\u2019\
+      s Office. This approach gained appreciation "
+    text_base: with the department of agriculture through the municipal agriculture
+      s office this approach gained appreciation
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 9
+    line_number: 2
+    span_number: 0
+    total_y: 11495.523498535156
+  - index: 952
+    text: 'from the beneficiaries because they could receive technical inputs related
+      to their livelihood options.  '
+    text_base: from the beneficiaries because they could receive technical inputs
+      related to their livelihood options
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 9
+    line_number: 3
+    span_number: 0
+    total_y: 11507.047180175781
+  - index: 953
+    text: '3 '
+    text_base: '3'
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 11521.56884765625
+  - index: 954
+    text: 'One of the key recommendations during KII and FGD was the provision of
+      business management training for the '
+    text_base: one of the key recommendations during kii and fgd was the provision
+      of business management training for the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 1
+    span_number: 0
+    total_y: 11521.56884765625
+  - index: 955
+    text: 'beneficiaries. This would help them do financial management and better
+      business planning to improve their '
+    text_base: beneficiaries this would help them do financial management and better
+      business planning to improve their
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 11533.092590332031
+  - index: 956
+    text: 'livelihood options and promote sustainability.  '
+    text_base: livelihood options and promote sustainability
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 3
+    span_number: 0
+    total_y: 11544.616271972656
+  - index: 957
+    text: '4 '
+    text_base: '4'
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 11559.018432617188
+  - index: 958
+    text: 'For the community-managed project, there was a lack of management capacity.
+      Since this was a newly formed '
+    text_base: for the community managed project there was a lack of management capacity
+      since this was a newly formed
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 11
+    line_number: 1
+    span_number: 0
+    total_y: 11559.018432617188
+  - index: 959
+    text: "association, most of the members didn\u2019t have knowledge on how to manage\
+      \ an association. This gap was initially "
+    text_base: association most of the members didn t have knowledge on how to manage
+      an association this gap was initially
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 11
+    line_number: 2
+    span_number: 0
+    total_y: 11570.542175292969
+  - index: 960
+    text: 'identified in the beginning of the project, hence, the association requested
+      support from both PRC and the LGU '
+    text_base: identified in the beginning of the project hence the association requested
+      support from both prc and the lgu
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 11
+    line_number: 3
+    span_number: 0
+    total_y: 11582.065856933594
+  - index: 961
+    text: 'for capacity building in terms of financial literacy, and training for
+      association management.  '
+    text_base: for capacity building in terms of financial literacy and training for
+      association management
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 11
+    line_number: 4
+    span_number: 0
+    total_y: 11593.589538574219
+- title:
+    text: 'Challenges and lessons learnt '
+    text_base: challenges and lessons learnt
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 18
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 15489.599670410156
+    idx: 1314
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 962
+  sector_similarity_score: 1.0
+  content:
+  - index: 1315
+    text: '1 '
+    text_base: '1'
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 18
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 15502.559661865234
+  - index: 1316
+    text: 'One of the main challenges for shelter is the huge need versus the financial
+      capacity to respond and support '
+    text_base: one of the main challenges for shelter is the huge need versus the
+      financial capacity to respond and support
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 18
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 15502.559661865234
+  - index: 1317
+    text: 'the needs of the community. In Cagayan, a total of 25,388 houses were destroyed
+      and 110,936 were damaged '
+    text_base: the needs of the community in cagayan a total of 25 388 houses were
+      destroyed and 110 936 were damaged
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 15514.079681396484
+  - index: 1318
+    text: 'while a total of 10,264 houses were destroyed and 52,496 were damaged in
+      Isabela. '
+    text_base: while a total of 10 264 houses were destroyed and 52 496 were damaged
+      in isabela
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 5
+    line_number: 3
+    span_number: 0
+    total_y: 15525.603393554688
+  - index: 1319
+    text: '2 '
+    text_base: '2'
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 15543.119689941406
+  - index: 1320
+    text: 'Due to lack of funding resources the appeal did not support the construction
+      of core houses but instead '
+    text_base: due to lack of funding resources the appeal did not support the construction
+      of core houses but instead
+    style: 'italicmt, 20, #000000, None'
+    page_number: 18
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 15543.119689941406
+  - index: 1321
+    text: 'concentrated on repairs. '
+    text_base: concentrated on repairs
+    style: 'italicmt, 20, #000000, None'
+    page_number: 18
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 15554.64340209961
+  - index: 1322
+    text: 'Additionally, the SRA package was not always sufficient to fully repair/reconstruct
+      the '
+    text_base: additionally the sra package was not always sufficient to fully repair
+      reconstruct the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 6
+    line_number: 2
+    span_number: 1
+    total_y: 15554.64340209961
+  - index: 1324
+    text: 'damaged houses. The SRA package was limited in its dual function to repair
+      the house and also ensure the '
+    text_base: damaged houses the sra package was limited in its dual function to
+      repair the house and also ensure the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 15566.047607421875
+  - index: 1325
+    text: 'build back safer principles were applied.   '
+    text_base: build back safer principles were applied
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 15577.571319580078
+  - index: 1326
+    text: '3 '
+    text_base: '3'
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 15595.09097290039
+  - index: 1327
+    text: 'There was scarcity of labour force for construction during the implementation
+      of the shelter programme due to '
+    text_base: there was scarcity of labour force for construction during the implementation
+      of the shelter programme due to
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 7
+    line_number: 1
+    span_number: 0
+    total_y: 15595.09097290039
+  - index: 1328
+    text: 'the high demand of skilled workers in the area. To mitigate this issue,
+      the operational team formed groups of '
+    text_base: the high demand of skilled workers in the area to mitigate this issue
+      the operational team formed groups of
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 15606.614685058594
+  - index: 1329
+    text: 'trained carpenters and masons. These groups were mobilized to do construction
+      works from one community to '
+    text_base: trained carpenters and masons these groups were mobilized to do construction
+      works from one community to
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 7
+    line_number: 3
+    span_number: 0
+    total_y: 15618.138397216797
+  - index: 1330
+    text: 'other.  '
+    text_base: other
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 7
+    line_number: 4
+    span_number: 0
+    total_y: 15629.662109375
+  - index: 1331
+    text: '4 '
+    text_base: '4'
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 15647.062225341797
+  - index: 1332
+    text: 'In this operation, skilled workers reported that the wages they received
+      was less compared to the labour work '
+    text_base: in this operation skilled workers reported that the wages they received
+      was less compared to the labour work
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 8
+    line_number: 1
+    span_number: 0
+    total_y: 15647.062225341797
+  - index: 1333
+    text: 'they had provided. The rate should be based on the daily minimum wage in
+      their respective areas. Days of '
+    text_base: they had provided the rate should be based on the daily minimum wage
+      in their respective areas days of
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 15658.5859375
+  - index: 1334
+    text: 'work and the number of carpenters required for a repair should be estimated
+      by a technical person (i.e. engineer '
+    text_base: work and the number of carpenters required for a repair should be estimated
+      by a technical person i e engineer
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 8
+    line_number: 3
+    span_number: 0
+    total_y: 15670.109619140625
+  - index: 1335
+    text: 'and architect). '
+    text_base: and architect
+    style: 'arialmt, 20, #000000, None'
+    page_number: 18
+    block_number: 8
+    line_number: 4
+    span_number: 0
+    total_y: 15681.633361816406

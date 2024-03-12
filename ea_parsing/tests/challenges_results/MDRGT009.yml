@@ -1,0 +1,296 @@
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'bold, 24, #000000, #e7e6e6'
+    page_number: 7
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 6191.329833984375
+    idx: 470
+  sector_title: Quality Programming
+  sector_idx: 296
+  sector_similarity_score: 1.0
+  content:
+  - index: 471
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 7
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 6208.849853515625
+  - index: 472
+    text: "As mentioned before, the low appeal\u2019s coverage limited the production\
+      \ of videos and the implementation of "
+    text_base: as mentioned before the low appeal s coverage limited the production
+      of videos and the implementation of
+    style: 'arial, 20, #000000, None'
+    page_number: 7
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 6208.849853515625
+  - index: 473
+    text: 'all the rapid surveys to measure beneficiary satisfaction.  '
+    text_base: all the rapid surveys to measure beneficiary satisfaction
+    style: 'arial, 20, #000000, None'
+    page_number: 7
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 6220.369873046875
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #e7e6e6'
+    page_number: 9
+    block_number: 23
+    line_number: 0
+    span_number: 0
+    total_y: 8062.749816894531
+    idx: 642
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 501
+  sector_similarity_score: 1.0
+  content:
+  - index: 643
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 9
+    block_number: 25
+    line_number: 0
+    span_number: 0
+    total_y: 8092.629821777344
+  - index: 644
+    text: 'The most significant challenge was the population''s refusal to consume
+      chlorinated water; however, despite '
+    text_base: the most significant challenge was the population s refusal to consume
+      chlorinated water however despite
+    style: 'arial, 20, #000000, None'
+    page_number: 9
+    block_number: 25
+    line_number: 0
+    span_number: 1
+    total_y: 8092.629821777344
+  - index: 645
+    text: 'the resistance, this practice was promoted by the PHAST training.  '
+    text_base: the resistance this practice was promoted by the phast training
+    style: 'arial, 20, #000000, None'
+    page_number: 9
+    block_number: 25
+    line_number: 2
+    span_number: 0
+    total_y: 8104.029846191406
+  - index: 646
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 9
+    block_number: 26
+    line_number: 0
+    span_number: 0
+    total_y: 8116.269836425781
+  - index: 647
+    text: 'The number of families to be reach with rainwater harvesting and storage
+      systems was reduced from 580 '
+    text_base: the number of families to be reach with rainwater harvesting and storage
+      systems was reduced from 580
+    style: 'arial, 20, #000000, None'
+    page_number: 9
+    block_number: 26
+    line_number: 0
+    span_number: 1
+    total_y: 8116.269836425781
+  - index: 648
+    text: 'to 70, and the number of communities where water protection measures were
+      implemented was decreased '
+    text_base: to 70 and the number of communities where water protection measures
+      were implemented was decreased
+    style: 'arial, 20, #000000, None'
+    page_number: 9
+    block_number: 26
+    line_number: 2
+    span_number: 0
+    total_y: 8127.669860839844
+  - index: 649
+    text: 'from 11 to 4 due to the lack of funding. '
+    text_base: from 11 to 4 due to the lack of funding
+    style: 'arial, 20, #000000, None'
+    page_number: 9
+    block_number: 26
+    line_number: 3
+    span_number: 0
+    total_y: 8139.1898193359375
+  - index: 650
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 9
+    block_number: 27
+    line_number: 0
+    span_number: 0
+    total_y: 8151.429870605469
+  - index: 651
+    text: 'Operating and maintaining the water systems proved to be challenging. '
+    text_base: operating and maintaining the water systems proved to be challenging
+    style: 'arial, 20, #000000, None'
+    page_number: 9
+    block_number: 27
+    line_number: 0
+    span_number: 1
+    total_y: 8151.429870605469
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #e7e6e6'
+    page_number: 11
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 10058.27978515625
+    idx: 957
+  sector_title: Food insecurity and nutrition
+  sector_idx: 699
+  sector_similarity_score: 1.0
+  content:
+  - index: 967
+    text: 'The greatest challenge was getting municipal mayors and families from targeted
+      communities to understand why not '
+    text_base: the greatest challenge was getting municipal mayors and families from
+      targeted communities to understand why not
+    style: 'arial, 20, #000000, None'
+    page_number: 12
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 10186.459777832031
+  - index: 968
+    text: 'all the families in the selected communities or all the communities in
+      the municipality were chosen to receive aid. '
+    text_base: all the families in the selected communities or all the communities
+      in the municipality were chosen to receive aid
+    style: 'arial, 20, #000000, None'
+    page_number: 12
+    block_number: 2
+    line_number: 2
+    span_number: 0
+    total_y: 10197.979797363281
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #e7e6e6'
+    page_number: 14
+    block_number: 26
+    line_number: 0
+    span_number: 0
+    total_y: 12527.259765625
+    idx: 1186
+  sector_title: Food insecurity and nutrition
+  sector_idx: 973
+  sector_similarity_score: 1.0
+  content:
+  - index: 1187
+    text: 'The greatest challenge was the lack of interest shown by Community Development
+      Council members to assemble '
+    text_base: the greatest challenge was the lack of interest shown by community
+      development council members to assemble
+    style: 'arial, 20, #000000, None'
+    page_number: 14
+    block_number: 27
+    line_number: 1
+    span_number: 0
+    total_y: 12556.439758300781
+  - index: 1188
+    text: 'families for the educational activities. Since the council members are
+      officially recognized by the municipality, their '
+    text_base: families for the educational activities since the council members are
+      officially recognized by the municipality their
+    style: 'arial, 20, #000000, None'
+    page_number: 14
+    block_number: 27
+    line_number: 2
+    span_number: 0
+    total_y: 12567.959716796875
+  - index: 1189
+    text: 'lack of support in this regard prevented technicians from training all
+      families on seed storage and organic fertilizer '
+    text_base: lack of support in this regard prevented technicians from training
+      all families on seed storage and organic fertilizer
+    style: 'arial, 20, #000000, None'
+    page_number: 14
+    block_number: 27
+    line_number: 3
+    span_number: 0
+    total_y: 12579.479736328125
+  - index: 1196
+    text: 'production; however, even though it was not possible to provide all the
+      training sessions to all 778 families, the '
+    text_base: production however even though it was not possible to provide all the
+      training sessions to all 778 families the
+    style: 'arial, 20, #000000, None'
+    page_number: 15
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 12700.679748535156
+  - index: 1197
+    text: 'informal leaders and families who received the training promised to replicate
+      the information. '
+    text_base: informal leaders and families who received the training promised to
+      replicate the information
+    style: 'arial, 20, #000000, None'
+    page_number: 15
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 12712.2197265625
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #e7e6e6'
+    page_number: 17
+    block_number: 11
+    line_number: 1
+    span_number: 0
+    total_y: 14492.65966796875
+    idx: 1419
+  sector_title: Food insecurity and nutrition
+  sector_idx: 1210
+  sector_similarity_score: 1.0
+  content:
+  - index: 1420
+    text: 'The greatest challenge reported was implementing the community nutritional
+      surveillance system; Although the '
+    text_base: the greatest challenge reported was implementing the community nutritional
+      surveillance system although the
+    style: 'arial, 20, #000000, #ffffff'
+    page_number: 17
+    block_number: 11
+    line_number: 2
+    span_number: 0
+    total_y: 14506.459716796875
+  - index: 1421
+    text: 'GRC trained and equipped community leaders to measure children''s mid-upper
+      arm circumference, there is still no '
+    text_base: grc trained and equipped community leaders to measure children s mid
+      upper arm circumference there is still no
+    style: 'arial, 20, #000000, #ffffff'
+    page_number: 17
+    block_number: 11
+    line_number: 3
+    span_number: 0
+    total_y: 14517.979675292969
+  - index: 1422
+    text: 'official system within the Ministry of Health that includes information
+      collected by the community. '
+    text_base: official system within the ministry of health that includes information
+      collected by the community
+    style: 'arial, 20, #000000, #ffffff'
+    page_number: 17
+    block_number: 11
+    line_number: 4
+    span_number: 0
+    total_y: 14529.499694824219

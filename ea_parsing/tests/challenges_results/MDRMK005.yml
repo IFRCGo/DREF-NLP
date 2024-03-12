@@ -1,0 +1,864 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 11
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 9302.22998046875
+    idx: 754
+  sector_title: Health and Care
+  sector_idx: 664
+  sector_similarity_score: 1.0
+  content:
+  - index: 755
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 12
+    line_number: 1
+    span_number: 0
+    total_y: 9315.910034179688
+  - index: 756
+    text: 'Adaptation to working in different weather conditions '
+    text_base: adaptation to working in different weather conditions
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 11
+    block_number: 12
+    line_number: 1
+    span_number: 1
+    total_y: 9315.910034179688
+  - index: 757
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 9328.030029296875
+  - index: 758
+    text: 'Working with different risk groups '
+    text_base: working with different risk groups
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 13
+    line_number: 0
+    span_number: 1
+    total_y: 9328.030029296875
+  - index: 759
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 9340.299987792969
+  - index: 760
+    text: 'Gaining confidence of the local population '
+    text_base: gaining confidence of the local population
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 14
+    line_number: 0
+    span_number: 1
+    total_y: 9340.299987792969
+  - index: 761
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 9352.419982910156
+  - index: 762
+    text: 'Language barriers '
+    text_base: language barriers
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 15
+    line_number: 0
+    span_number: 1
+    total_y: 9352.419982910156
+  - index: 763
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 9364.660034179688
+  - index: 764
+    text: 'Proper sharing of information with the media '
+    text_base: proper sharing of information with the media
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 16
+    line_number: 0
+    span_number: 1
+    total_y: 9364.660034179688
+  - index: 765
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 9376.780029296875
+  - index: 766
+    text: 'Working under pressure '
+    text_base: working under pressure
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 17
+    line_number: 0
+    span_number: 1
+    total_y: 9376.780029296875
+  - index: 767
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 18
+    line_number: 0
+    span_number: 0
+    total_y: 9388.900024414062
+  - index: 768
+    text: 'Working directly with people smugglers  '
+    text_base: working directly with people smugglers
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 18
+    line_number: 0
+    span_number: 1
+    total_y: 9388.900024414062
+  - index: 769
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 9401.140014648438
+  - index: 770
+    text: 'Coordination of the overall health care efforts with other involved stakeholders '
+    text_base: coordination of the overall health care efforts with other involved
+      stakeholders
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 11
+    block_number: 19
+    line_number: 0
+    span_number: 1
+    total_y: 9401.140014648438
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 12
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 10045.75
+    idx: 819
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 788
+  sector_similarity_score: 1.0
+  content:
+  - index: 820
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 12
+    block_number: 13
+    line_number: 1
+    span_number: 0
+    total_y: 10059.429992675781
+  - index: 821
+    text: 'Maintaining high level of hygiene for persons on the move '
+    text_base: maintaining high level of hygiene for persons on the move
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 12
+    block_number: 13
+    line_number: 1
+    span_number: 1
+    total_y: 10059.429992675781
+  - index: 822
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 12
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 10072.510009765625
+  - index: 823
+    text: 'Proper assessment of hygiene needs of the target population '
+    text_base: proper assessment of hygiene needs of the target population
+    style: 'arialmt, 20, #000000, None'
+    page_number: 12
+    block_number: 14
+    line_number: 0
+    span_number: 1
+    total_y: 10072.510009765625
+  - index: 824
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 12
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 10085.589965820312
+  - index: 825
+    text: 'During the transit phase the hygiene parcels were not 100% appropriate
+      (size-wise) for people on the move '
+    text_base: during the transit phase the hygiene parcels were not 100 appropriate
+      size wise for people on the move
+    style: 'arialmt, 20, #000000, None'
+    page_number: 12
+    block_number: 15
+    line_number: 0
+    span_number: 1
+    total_y: 10085.589965820312
+  - index: 826
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 12
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 10098.669982910156
+  - index: 827
+    text: 'In the initial phase when the figures of transiting migrants were big,
+      the maintenance of hygiene with the existing '
+    text_base: in the initial phase when the figures of transiting migrants were big
+      the maintenance of hygiene with the existing
+    style: 'arialmt, 20, #000000, None'
+    page_number: 12
+    block_number: 16
+    line_number: 0
+    span_number: 1
+    total_y: 10098.669982910156
+  - index: 828
+    text: 'toilets and the available infrastructure was a big challenge '
+    text_base: toilets and the available infrastructure was a big challenge
+    style: 'arialmt, 20, #000000, None'
+    page_number: 12
+    block_number: 16
+    line_number: 2
+    span_number: 0
+    total_y: 10111.030029296875
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 13
+    block_number: 11
+    line_number: 2
+    span_number: 0
+    total_y: 10635.170013427734
+    idx: 867
+  sector_title: Food insecurity and nutrition
+  sector_idx: 841
+  sector_similarity_score: 1.0
+  content:
+  - index: 868
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 13
+    block_number: 11
+    line_number: 3
+    span_number: 0
+    total_y: 10648.850006103516
+  - index: 869
+    text: 'During the transit phase the food parcels were not 100% appropriate (size-wise)
+      for people on the move. '
+    text_base: during the transit phase the food parcels were not 100 appropriate
+      size wise for people on the move
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 13
+    block_number: 11
+    line_number: 3
+    span_number: 1
+    total_y: 10648.850006103516
+  - index: 870
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 13
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 10661.929992675781
+  - index: 871
+    text: 'Appropriate assessment of the needs of people on the move. '
+    text_base: appropriate assessment of the needs of people on the move
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 12
+    line_number: 0
+    span_number: 1
+    total_y: 10661.929992675781
+  - index: 872
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 13
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 10675.010009765625
+  - index: 873
+    text: 'Due to the significant drop in the number of migrants in the country during
+      the year as well as due to expiry dates, '
+    text_base: due to the significant drop in the number of migrants in the country
+      during the year as well as due to expiry dates
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 13
+    line_number: 0
+    span_number: 1
+    total_y: 10675.010009765625
+  - index: 874
+    text: 'some parts of the procured food items had to be distributed to vulnerable
+      groups other than the targeted migrants '
+    text_base: some parts of the procured food items had to be distributed to vulnerable
+      groups other than the targeted migrants
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 13
+    line_number: 2
+    span_number: 0
+    total_y: 10687.369995117188
+  - index: 875
+    text: '(persons with special needs, refugees from Kosovo, juvenile prisoners and
+      irregular migrants), as follows:  '
+    text_base: persons with special needs refugees from kosovo juvenile prisoners
+      and irregular migrants as follows
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 13
+    line_number: 3
+    span_number: 0
+    total_y: 10699.730010986328
+  - index: 876
+    text: "\u2756"
+    text_base: ''
+    style: 'regular, 20, #000000, None'
+    page_number: 13
+    block_number: 13
+    line_number: 4
+    span_number: 0
+    total_y: 10712.209991455078
+  - index: 877
+    text: 'Demir Kapija (institution for persons with special needs) 5,000 biscuits,
+      cookies, dry bread, dates and juice '
+    text_base: demir kapija institution for persons with special needs 5 000 biscuits
+      cookies dry bread dates and juice
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 13
+    line_number: 5
+    span_number: 0
+    total_y: 10712.209991455078
+  - index: 878
+    text: "\u2756"
+    text_base: ''
+    style: 'regular, 20, #000000, None'
+    page_number: 13
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 10723.609985351562
+  - index: 879
+    text: 'Demir Hisar (institution for persons with special needs) 10,000 cookies
+      and raisins, and 5,000 biscuits, dry '
+    text_base: demir hisar institution for persons with special needs 10 000 cookies
+      and raisins and 5 000 biscuits dry
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 14
+    line_number: 1
+    span_number: 0
+    total_y: 10723.609985351562
+  - index: 880
+    text: 'bread, dates and juice '
+    text_base: bread dates and juice
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 14
+    line_number: 2
+    span_number: 0
+    total_y: 10735.130004882812
+  - index: 881
+    text: "\u2756"
+    text_base: ''
+    style: 'regular, 20, #000000, None'
+    page_number: 13
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 10746.670013427734
+  - index: 882
+    text: 'Banja Bansko (institution for persons with special needs) 5,000 biscuits,
+      cookies, dry bread, dates and juice '
+    text_base: banja bansko institution for persons with special needs 5 000 biscuits
+      cookies dry bread dates and juice
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 15
+    line_number: 1
+    span_number: 0
+    total_y: 10746.670013427734
+  - index: 883
+    text: "\u2756"
+    text_base: ''
+    style: 'regular, 20, #000000, None'
+    page_number: 13
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 10758.190002441406
+  - index: 884
+    text: '6,469 pieces of dry bread donated to juvenile prisoners '
+    text_base: 6 469 pieces of dry bread donated to juvenile prisoners
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 16
+    line_number: 1
+    span_number: 0
+    total_y: 10758.190002441406
+  - index: 885
+    text: "\u2756"
+    text_base: ''
+    style: 'regular, 20, #000000, None'
+    page_number: 13
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 10769.709991455078
+  - index: 886
+    text: '6,469 packs of raisins donated to Kosovo refugees sheltered in Skopje who
+      are in process of integration '
+    text_base: 6 469 packs of raisins donated to kosovo refugees sheltered in skopje
+      who are in process of integration
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 17
+    line_number: 1
+    span_number: 0
+    total_y: 10769.709991455078
+  - index: 887
+    text: "\u2756"
+    text_base: ''
+    style: 'regular, 20, #000000, None'
+    page_number: 13
+    block_number: 18
+    line_number: 0
+    span_number: 0
+    total_y: 10781.230010986328
+  - index: 888
+    text: '1,500 food parcels donated to irregular migrants '
+    text_base: 1 500 food parcels donated to irregular migrants
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 18
+    line_number: 1
+    span_number: 0
+    total_y: 10781.230010986328
+  - index: 889
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 13
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 10793.470001220703
+  - index: 890
+    text: 'The food distribution system had to be adapted according to the needs of
+      the migrants. '
+    text_base: the food distribution system had to be adapted according to the needs
+      of the migrants
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 19
+    line_number: 0
+    span_number: 1
+    total_y: 10793.470001220703
+  - index: 891
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 13
+    block_number: 20
+    line_number: 0
+    span_number: 0
+    total_y: 10806.549987792969
+  - index: 892
+    text: 'At some points the procurement process was a challenge due to emergency
+      procurements immediately being '
+    text_base: at some points the procurement process was a challenge due to emergency
+      procurements immediately being
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 20
+    line_number: 0
+    span_number: 1
+    total_y: 10806.549987792969
+  - index: 893
+    text: 'required and the procurement process taking too long. '
+    text_base: required and the procurement process taking too long
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 20
+    line_number: 2
+    span_number: 0
+    total_y: 10818.910034179688
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 14
+    block_number: 18
+    line_number: 0
+    span_number: 0
+    total_y: 11699.109985351562
+    idx: 954
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 914
+  sector_similarity_score: 1.0
+  content:
+  - index: 955
+    text: 'Due to unforeseen difficulties that arose in the initial phase of the works,
+      related to weather conditions and the requirement '
+    text_base: due to unforeseen difficulties that arose in the initial phase of the
+      works related to weather conditions and the requirement
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 14
+    block_number: 18
+    line_number: 1
+    span_number: 0
+    total_y: 11712.099975585938
+  - index: 956
+    text: 'for adherence to additional conditions of the construction permit and consequent
+      need for provision of additional '
+    text_base: for adherence to additional conditions of the construction permit and
+      consequent need for provision of additional
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 18
+    line_number: 2
+    span_number: 0
+    total_y: 11723.739990234375
+  - index: 957
+    text: 'documentation, the construction phase was unexpectedly prolonged.  '
+    text_base: documentation the construction phase was unexpectedly prolonged
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 18
+    line_number: 3
+    span_number: 0
+    total_y: 11735.380004882812
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 15
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 12320.570007324219
+    idx: 1002
+  sector_title: Restoring family links
+  sector_idx: 970
+  sector_similarity_score: 1.0
+  content:
+  - index: 1003
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 15
+    block_number: 12
+    line_number: 1
+    span_number: 0
+    total_y: 12334.269989013672
+  - index: 1004
+    text: 'Tools and methods for dissemination of restoring family links services '
+    text_base: tools and methods for dissemination of restoring family links services
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 15
+    block_number: 12
+    line_number: 1
+    span_number: 1
+    total_y: 12334.269989013672
+  - index: 1005
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 15
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 12346.390014648438
+  - index: 1006
+    text: 'Language and cultural barriers '
+    text_base: language and cultural barriers
+    style: 'arialmt, 20, #000000, None'
+    page_number: 15
+    block_number: 13
+    line_number: 0
+    span_number: 1
+    total_y: 12346.390014648438
+  - index: 1007
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 15
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 12358.630004882812
+  - index: 1008
+    text: Improvement of the coordination with other National Societies
+    text_base: improvement of the coordination with other national societies
+    style: 'arialmt, 20, #000000, None'
+    page_number: 15
+    block_number: 14
+    line_number: 0
+    span_number: 1
+    total_y: 12358.630004882812
+  - index: 1010
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 15
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 12370.75
+  - index: 1011
+    text: 'Establishing safer access for Red Cross personnel in working with irregular
+      migrants and people involved in human '
+    text_base: establishing safer access for red cross personnel in working with irregular
+      migrants and people involved in human
+    style: 'arialmt, 20, #000000, None'
+    page_number: 15
+    block_number: 15
+    line_number: 0
+    span_number: 1
+    total_y: 12370.75
+  - index: 1012
+    text: 'trafficking for the purposes of ensuring the safety of the migrants '
+    text_base: trafficking for the purposes of ensuring the safety of the migrants
+    style: 'arialmt, 20, #000000, None'
+    page_number: 15
+    block_number: 15
+    line_number: 2
+    span_number: 0
+    total_y: 12382.269989013672
+  - index: 1013
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 15
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 12394.510009765625
+  - index: 1014
+    text: Proper assessment of the needs and provision of appropriate support and
+      assistance to unaccompanied minors
+    text_base: proper assessment of the needs and provision of appropriate support
+      and assistance to unaccompanied minors
+    style: 'arialmt, 20, #000000, None'
+    page_number: 15
+    block_number: 16
+    line_number: 0
+    span_number: 1
+    total_y: 12394.510009765625
+  - index: 1015
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 15
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 12406.630004882812
+  - index: 1016
+    text: Timely response to large numbers of requests
+    text_base: timely response to large numbers of requests
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 15
+    block_number: 17
+    line_number: 0
+    span_number: 1
+    total_y: 12406.630004882812
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 17
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 13658.659973144531
+    idx: 1099
+  sector_title: Community Engagement and Accountability
+  sector_idx: 1030
+  sector_similarity_score: 1.0
+  content:
+  - index: 1100
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 17
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 13678.340026855469
+  - index: 1101
+    text: 'In the beginning of the operation the biggest challenge was to ensure acceptance
+      and support for migrants from the '
+    text_base: in the beginning of the operation the biggest challenge was to ensure
+      acceptance and support for migrants from the
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 17
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 13678.340026855469
+  - index: 1102
+    text: 'local population '
+    text_base: local population
+    style: 'arialmt, 20, #000000, None'
+    page_number: 17
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 13689.739990234375
+  - index: 1103
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 17
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 13701.97998046875
+  - index: 1104
+    text: 'The language barrier was also a major challenge '
+    text_base: the language barrier was also a major challenge
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 17
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 13701.97998046875
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 19
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 15319.130004882812
+    idx: 1250
+  sector_title: National Society Strengthening
+  sector_idx: 1119
+  sector_similarity_score: 1.0
+  content:
+  - index: 1251
+    text: 'One of the challenges that occurred in this area was related to the reconstruction
+      of the warehouse and ensuring sufficient '
+    text_base: one of the challenges that occurred in this area was related to the
+      reconstruction of the warehouse and ensuring sufficient
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 19
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 15332.08999633789
+  - index: 1252
+    text: 'funding from different donors; the process resulted in some postponements
+      which subsequently had impact on the '
+    text_base: funding from different donors the process resulted in some postponements
+      which subsequently had impact on the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 19
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 15343.609985351562
+  - index: 1253
+    text: 'approval process. '
+    text_base: approval process
+    style: 'arialmt, 20, #000000, None'
+    page_number: 19
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 15355.130004882812
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 20
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 16088.179992675781
+    idx: 1314
+  sector_title: Quality Programming
+  sector_idx: 1262
+  sector_similarity_score: 1.0
+  content:
+  - index: 1315
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 16101.859985351562
+  - index: 1316
+    text: 'Ensuring timely support to the migrant population despite all the challenges
+      on the ground '
+    text_base: ensuring timely support to the migrant population despite all the challenges
+      on the ground
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 20
+    block_number: 6
+    line_number: 1
+    span_number: 1
+    total_y: 16101.859985351562
+  - index: 1317
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 20
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 16114.010009765625
+  - index: 1318
+    text: 'Raising financial support for the implementation of the activities '
+    text_base: raising financial support for the implementation of the activities
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 20
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 16114.010009765625

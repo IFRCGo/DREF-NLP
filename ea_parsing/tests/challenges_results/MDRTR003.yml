@@ -1,0 +1,765 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 15
+    line_number: 6
+    span_number: 0
+    total_y: 11496.309753417969
+    idx: 796
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 757
+  sector_similarity_score: 1.0
+  content:
+  - index: 797
+    text: 'The initial response focused on the provision of humanitarian assistance
+      in temporary accommodation centres. This '
+    text_base: the initial response focused on the provision of humanitarian assistance
+      in temporary accommodation centres this
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 11511.429748535156
+  - index: 798
+    text: 'changed with a realisation of the protracted nature of the refugee situation
+      and the shift from large numbers to urban '
+    text_base: changed with a realisation of the protracted nature of the refugee
+      situation and the shift from large numbers to urban
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 16
+    line_number: 1
+    span_number: 0
+    total_y: 11522.829772949219
+  - index: 799
+    text: 'areas, which meant that the support provided needed to be adapted to the
+      changing needs. For more details, please '
+    text_base: areas which meant that the support provided needed to be adapted to
+      the changing needs for more details please
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 16
+    line_number: 2
+    span_number: 0
+    total_y: 11534.349792480469
+  - index: 800
+    text: 'refer to '
+    text_base: refer to
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 16
+    line_number: 3
+    span_number: 0
+    total_y: 11545.869750976562
+  - index: 801
+    text: "Operations Update 1 \u2013 10"
+    text_base: operations update 1 10
+    style: 'arialmt, 20, #0000ff, #0000ff'
+    page_number: 13
+    block_number: 16
+    line_number: 3
+    span_number: 1
+    total_y: 11545.869750976562
+  - index: 802
+    text: '.  '
+    text_base: ''
+    style: 'arialmt, 20, #000000, #0000ff'
+    page_number: 13
+    block_number: 16
+    line_number: 3
+    span_number: 2
+    total_y: 11545.869750976562
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 16
+    block_number: 5
+    line_number: 49
+    span_number: 0
+    total_y: 14107.869689941406
+    idx: 1014
+  sector_title: Livelihoods
+  sector_idx: 823
+  sector_similarity_score: 1.0
+  content:
+  - index: 1015
+    text: 'Several obstacles to steady gainful employment continue to be encountered
+      by the refugee population including: '
+    text_base: several obstacles to steady gainful employment continue to be encountered
+      by the refugee population including
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 16
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 14122.98974609375
+  - index: 1016
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 16
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 14135.259704589844
+  - index: 1017
+    text: 'The inability to develop employability on their own effectively due to
+      lack of access to professional '
+    text_base: the inability to develop employability on their own effectively due
+      to lack of access to professional
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 14135.259704589844
+  - index: 1018
+    text: 'training that meets sectorial qualification needs in Turkey; '
+    text_base: training that meets sectorial qualification needs in turkey
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 14146.779724121094
+  - index: 1019
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 16
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 14159.019714355469
+  - index: 1020
+    text: 'Lack of sustainable development of competencies for employment; '
+    text_base: lack of sustainable development of competencies for employment
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 14159.019714355469
+  - index: 1021
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 16
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 14171.139709472656
+  - index: 1022
+    text: 'Slow and difficult legal procedures to gain formal employment; '
+    text_base: slow and difficult legal procedures to gain formal employment
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 9
+    line_number: 0
+    span_number: 1
+    total_y: 14171.139709472656
+  - index: 1023
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 16
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 14183.259704589844
+  - index: 1024
+    text: 'Lack of clarity for both refugee population and local authorities regarding
+      the legal work status of '
+    text_base: lack of clarity for both refugee population and local authorities regarding
+      the legal work status of
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 10
+    line_number: 0
+    span_number: 1
+    total_y: 14183.259704589844
+  - index: 1025
+    text: 'foreigners; '
+    text_base: foreigners
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 14194.779724121094
+  - index: 1026
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 16
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 14207.019714355469
+  - index: 1027
+    text: 'Need for adaptation of existing skills of refugee population for the current
+      Turkey context; '
+    text_base: need for adaptation of existing skills of refugee population for the
+      current turkey context
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 11
+    line_number: 0
+    span_number: 1
+    total_y: 14207.019714355469
+  - index: 1028
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 16
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 14219.1357421875
+  - index: 1029
+    text: 'Limited opportunities for entrepreneurial development; '
+    text_base: limited opportunities for entrepreneurial development
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 12
+    line_number: 0
+    span_number: 1
+    total_y: 14219.1357421875
+  - index: 1030
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 16
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 14231.375732421875
+  - index: 1031
+    text: 'Dependence on or fear of losing eligibility for cash-based assistance programmes '
+    text_base: dependence on or fear of losing eligibility for cash based assistance
+      programmes
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 13
+    line_number: 0
+    span_number: 1
+    total_y: 14231.375732421875
+  - index: 1037
+    text: 'During in the course of time the livelihood activities were adapted well
+      to the changing context especially with the '
+    text_base: during in the course of time the livelihood activities were adapted
+      well to the changing context especially with the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 17
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 14395.19970703125
+  - index: 1038
+    text: 'outbreak of COVID-19 pandemic, switching to online sessions including organizing
+      Turkish language classes for the '
+    text_base: outbreak of covid 19 pandemic switching to online sessions including
+      organizing turkish language classes for the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 17
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 14406.719665527344
+  - index: 1039
+    text: 'refugees.  '
+    text_base: refugees
+    style: 'arialmt, 20, #000000, None'
+    page_number: 17
+    block_number: 5
+    line_number: 3
+    span_number: 0
+    total_y: 14418.139709472656
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 20
+    block_number: 5
+    line_number: 11
+    span_number: 0
+    total_y: 17038.579650878906
+    idx: 1250
+  sector_title: Health and Care
+  sector_idx: 1048
+  sector_similarity_score: 1.0
+  content:
+  - index: 1251
+    text: 'There were some challenges related to the retention of volunteers. While
+      recruiting health volunteers from both the '
+    text_base: there were some challenges related to the retention of volunteers while
+      recruiting health volunteers from both the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 17065.219665527344
+  - index: 1252
+    text: 'Syrian and Turkish communities was relatively straightforward, it proved
+      difficult to retain them. There were also more '
+    text_base: syrian and turkish communities was relatively straightforward it proved
+      difficult to retain them there were also more
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 17077.579650878906
+  - index: 1253
+    text: 'female volunteers than male, which posed problems when conducting household
+      visits and other community outreach '
+    text_base: female volunteers than male which posed problems when conducting household
+      visits and other community outreach
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 17090.059631347656
+  - index: 1254
+    text: 'activities, as female volunteers sometimes prefer not to engage with male
+      beneficiaries due to cultural sensitivities. '
+    text_base: activities as female volunteers sometimes prefer not to engage with
+      male beneficiaries due to cultural sensitivities
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 17102.41961669922
+  - index: 1255
+    text: 'Staffing was also a challenge. There were not always enough staff at different
+      levels. For example, finding interpreters '
+    text_base: staffing was also a challenge there were not always enough staff at
+      different levels for example finding interpreters
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 5
+    span_number: 0
+    total_y: 17114.899658203125
+  - index: 1256
+    text: 'who had the necessary technical expertise for PSS activities was challenging.  '
+    text_base: who had the necessary technical expertise for pss activities was challenging
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 6
+    span_number: 0
+    total_y: 17127.289611816406
+  - index: 1257
+    text: 'There was usually a significantly lower number of men engaged in PSS due
+      to the cultural perception that such activities '
+    text_base: there was usually a significantly lower number of men engaged in pss
+      due to the cultural perception that such activities
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 8
+    span_number: 0
+    total_y: 17152.129638671875
+  - index: 1258
+    text: 'were more appropriate for women. TRCS staff tried to adapt vocational training
+      in such instances to include PSS and '
+    text_base: were more appropriate for women trcs staff tried to adapt vocational
+      training in such instances to include pss and
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 9
+    span_number: 0
+    total_y: 17164.489624023438
+  - index: 1259
+    text: 'health components to engage men, even at a less in-depth level. '
+    text_base: health components to engage men even at a less in depth level
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 10
+    span_number: 0
+    total_y: 17176.969635009766
+  - index: 1260
+    text: 'Due to lack of Internet access and that some beneficiaries live in places
+      where connectivity is a problem, there were '
+    text_base: due to lack of internet access and that some beneficiaries live in
+      places where connectivity is a problem there were
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 12
+    span_number: 0
+    total_y: 17202.8896484375
+  - index: 1261
+    text: 'technical difficulties in online interviews, or meetings had to be cancelled.
+      In this context, the number of '
+    text_base: technical difficulties in online interviews or meetings had to be cancelled
+      in this context the number of
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 13
+    span_number: 0
+    total_y: 17214.409637451172
+  - index: 1262
+    text: 'psychoeducation participants has been limited.  '
+    text_base: psychoeducation participants has been limited
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 14
+    span_number: 0
+    total_y: 17225.929626464844
+  - index: 1263
+    text: 'In addition, there were difficulties because of the limited number of available
+      telephone devices, and not all of these '
+    text_base: in addition there were difficulties because of the limited number of
+      available telephone devices and not all of these
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 16
+    span_number: 0
+    total_y: 17248.969635009766
+  - index: 1264
+    text: 'are not suitable for online calls. '
+    text_base: are not suitable for online calls
+    style: 'arialmt, 20, #000000, None'
+    page_number: 20
+    block_number: 6
+    line_number: 17
+    span_number: 0
+    total_y: 17260.489654541016
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 5
+    line_number: 26
+    span_number: 0
+    total_y: 19736.809600830078
+    idx: 1501
+  sector_title: Protection, Gender and Inclusion
+  sector_idx: 1270
+  sector_similarity_score: 1.0
+  content:
+  - index: 1502
+    text: 'Delay in recruitment was a major challenge. Given how meticulous the TRCS
+      recruitment system was, together with '
+    text_base: delay in recruitment was a major challenge given how meticulous the
+      trcs recruitment system was together with
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 23
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 19751.929595947266
+  - index: 1503
+    text: 'government authority requirements, it appeared that the allocated three-month
+      period for recruitment was insufficient '
+    text_base: government authority requirements it appeared that the allocated three
+      month period for recruitment was insufficient
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 19763.449584960938
+  - index: 1504
+    text: 'to have qualified and adequate staff in place.  '
+    text_base: to have qualified and adequate staff in place
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 19774.969604492188
+  - index: 1505
+    text: 'Late approval of Individual Protection Assistance (IPA) guidelines by ECHO
+      contributed towards low expenditure under '
+    text_base: late approval of individual protection assistance ipa guidelines by
+      echo contributed towards low expenditure under
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 19798.00958251953
+  - index: 1506
+    text: 'this activity at the beginning of the project. A lack of clarity around
+      how the IPA was to be applied also caused staff to '
+    text_base: this activity at the beginning of the project a lack of clarity around
+      how the ipa was to be applied also caused staff to
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 6
+    line_number: 5
+    span_number: 0
+    total_y: 19809.409576416016
+  - index: 1507
+    text: 'use other funds which are less restrictive, for the sake of expedience.   '
+    text_base: use other funds which are less restrictive for the sake of expedience
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 6
+    line_number: 6
+    span_number: 0
+    total_y: 19820.929595947266
+  - index: 1508
+    text: 'The value of the Turkish Lira (TRY) fluctuated greatly throughout the project
+      implementation period. From beginning '
+    text_base: the value of the turkish lira try fluctuated greatly throughout the
+      project implementation period from beginning
+    style: 'arialmt, 20, #000000, #ffffff'
+    page_number: 23
+    block_number: 6
+    line_number: 8
+    span_number: 0
+    total_y: 19843.98959350586
+  - index: 1509
+    text: '2018, the TRY went down to record lows against other major international
+      currencies, including the EUR, CHF, USD. '
+    text_base: 2018 the try went down to record lows against other major international
+      currencies including the eur chf usd
+    style: 'arialmt, 20, #000000, #ffffff'
+    page_number: 23
+    block_number: 6
+    line_number: 9
+    span_number: 0
+    total_y: 19855.50958251953
+  - index: 1510
+    text: 'The exchange gain from EUR to TRY which was also reflected in low expenditure
+      rates resulted in large surplus funds. '
+    text_base: the exchange gain from eur to try which was also reflected in low expenditure
+      rates resulted in large surplus funds
+    style: 'arialmt, 20, #000000, #ffffff'
+    page_number: 23
+    block_number: 6
+    line_number: 10
+    span_number: 0
+    total_y: 19867.02960205078
+  - index: 1511
+    text: 'It was not anticipated that TRY would be devalued in such a manner, and
+      while implementation picked up in Year 2 of '
+    text_base: it was not anticipated that try would be devalued in such a manner
+      and while implementation picked up in year 2 of
+    style: 'arialmt, 20, #000000, #ffffff'
+    page_number: 23
+    block_number: 6
+    line_number: 11
+    span_number: 0
+    total_y: 19878.429626464844
+  - index: 1512
+    text: 'the project, it was not possible to spend the total original budget due
+      to this monetary discrepancy, coupled with '
+    text_base: the project it was not possible to spend the total original budget
+      due to this monetary discrepancy coupled with
+    style: 'arialmt, 20, #000000, #ffffff'
+    page_number: 23
+    block_number: 6
+    line_number: 12
+    span_number: 0
+    total_y: 19889.949584960938
+  - index: 1513
+    text: protracted delays in project implementation
+    text_base: protracted delays in project implementation
+    style: 'arialmt, 20, #000000, #ffffff'
+    page_number: 23
+    block_number: 6
+    line_number: 13
+    span_number: 0
+    total_y: 19902.429626464844
+  - index: 1514
+    text: '. '
+    text_base: ''
+    style: 'arialmt, 22, #000000, #ffffff'
+    page_number: 23
+    block_number: 6
+    line_number: 13
+    span_number: 1
+    total_y: 19902.429626464844
+  - index: 1515
+    text: 'From mid-March 2020 onwards, all protection activities normally conducted
+      by the CCs were severely curbed by '
+    text_base: from mid march 2020 onwards all protection activities normally conducted
+      by the ccs were severely curbed by
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 19926.069580078125
+  - index: 1516
+    text: 'government restrictions on movement throughout the country due to the COVID
+      19 pandemic. To overcome this '
+    text_base: government restrictions on movement throughout the country due to the
+      covid 19 pandemic to overcome this
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 7
+    line_number: 1
+    span_number: 0
+    total_y: 19937.589599609375
+  - index: 1517
+    text: 'unforeseen situation CC staff also began working from home and providing
+      services on online platform, and on shifts '
+    text_base: unforeseen situation cc staff also began working from home and providing
+      services on online platform and on shifts
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 19949.10955810547
+  - index: 1518
+    text: at the CCs in case of emergencies.
+    text_base: at the ccs in case of emergencies
+    style: 'arialmt, 20, #000000, None'
+    page_number: 23
+    block_number: 7
+    line_number: 3
+    span_number: 0
+    total_y: 19960.62957763672
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    page_number: 25
+    block_number: 13
+    line_number: 1
+    span_number: 0
+    total_y: 21732.579528808594
+    idx: 1661
+  sector_title: National Society Strengthening
+  sector_idx: 1533
+  sector_similarity_score: 1.0
+  content:
+  - index: 1662
+    text: 'New staff recruitment was delayed and affected the implementation of some
+      interventions. Many of the programme '
+    text_base: new staff recruitment was delayed and affected the implementation of
+      some interventions many of the programme
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 25
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 21747.69952392578
+  - index: 1663
+    text: 'sectors experienced a steady turnover of staff, which often included trained
+      staff leaving, and new/junior staff requiring '
+    text_base: sectors experienced a steady turnover of staff which often included
+      trained staff leaving and new junior staff requiring
+    style: 'arialmt, 20, #000000, None'
+    page_number: 25
+    block_number: 14
+    line_number: 1
+    span_number: 0
+    total_y: 21759.21954345703
+  - index: 1664
+    text: 'specific orientation and training to fulfil capacity for adequate service
+      delivery. A comprehensive induction training for '
+    text_base: specific orientation and training to fulfil capacity for adequate service
+      delivery a comprehensive induction training for
+    style: 'arialmt, 20, #000000, None'
+    page_number: 25
+    block_number: 14
+    line_number: 2
+    span_number: 0
+    total_y: 21770.73956298828
+  - index: 1665
+    text: 'new staff and volunteers were regularly held, providing basic information
+      on the RCRC Movement, TRCS regulation '
+    text_base: new staff and volunteers were regularly held providing basic information
+      on the rcrc movement trcs regulation
+    style: 'arialmt, 20, #000000, None'
+    page_number: 25
+    block_number: 14
+    line_number: 3
+    span_number: 0
+    total_y: 21782.139587402344
+  - index: 1666
+    text: 'and procedures as well as their role and responsibilities. Other trainings
+      and workshops were conducted across '
+    text_base: and procedures as well as their role and responsibilities other trainings
+      and workshops were conducted across
+    style: 'arialmt, 20, #000000, None'
+    page_number: 25
+    block_number: 14
+    line_number: 4
+    span_number: 0
+    total_y: 21793.65557861328
+  - index: 1667
+    text: 'livelihoods, health and PSS, and social cohesion to strengthen TRCS` capacity
+      and enhance their ability to reach out '
+    text_base: livelihoods health and pss and social cohesion to strengthen trcs capacity
+      and enhance their ability to reach out
+    style: 'arialmt, 20, #000000, None'
+    page_number: 25
+    block_number: 14
+    line_number: 5
+    span_number: 0
+    total_y: 21805.175537109375
+  - index: 1668
+    text: 'to most vulnerable groups within refugees and host communities included.
+      Staff and volunteers were also encouraged '
+    text_base: to most vulnerable groups within refugees and host communities included
+      staff and volunteers were also encouraged
+    style: 'arialmt, 20, #000000, None'
+    page_number: 25
+    block_number: 14
+    line_number: 6
+    span_number: 0
+    total_y: 21816.695556640625
+  - index: 1676
+    text: 'to participate in other learning resources available online to build the
+      skills and knowledge for better and more efficient '
+    text_base: to participate in other learning resources available online to build
+      the skills and knowledge for better and more efficient
+    style: 'arialmt, 20, #000000, None'
+    page_number: 26
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 21960.959533691406
+  - index: 1677
+    text: 'service delivery. '
+    text_base: service delivery
+    style: 'arialmt, 20, #000000, None'
+    page_number: 26
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 21972.479553222656
+  - index: 1678
+    text: 'Capacity building was severely curtailed in the first half of 2020 due
+      to the COVID-19 pandemic restrictions. Under this '
+    text_base: capacity building was severely curtailed in the first half of 2020
+      due to the covid 19 pandemic restrictions under this
+    style: 'arialmt, 20, #000000, None'
+    page_number: 26
+    block_number: 5
+    line_number: 3
+    span_number: 0
+    total_y: 21995.419555664062
+  - index: 1679
+    text: Appeal, some trainings were conducted in direct relation to supporting response
+      efforts to the pandemic situation.
+    text_base: appeal some trainings were conducted in direct relation to supporting
+      response efforts to the pandemic situation
+    style: 'arialmt, 20, #000000, None'
+    page_number: 26
+    block_number: 5
+    line_number: 4
+    span_number: 0
+    total_y: 22006.939514160156
