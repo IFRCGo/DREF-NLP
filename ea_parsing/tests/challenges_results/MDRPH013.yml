@@ -1,0 +1,268 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, None'
+    page_number: 2
+    block_number: 3
+    line_number: 13
+    span_number: 0
+    total_y: 2063.929962158203
+    idx: 168
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 169
+    text: 'Donations received through this appeal were insufficient to meet all the
+      targets, specifically for shelter, i.e. only '
+    text_base: donations received through this appeal were insufficient to meet all
+      the targets specifically for shelter i e only
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 3
+    line_number: 14
+    span_number: 0
+    total_y: 2075.5699462890625
+  - index: 170
+    text: '2,004 could be covered out of the 2,300 targeted. Specifically, 1,700 families
+      were reached with shelter repair '
+    text_base: 2 004 could be covered out of the 2 300 targeted specifically 1 700
+      families were reached with shelter repair
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 3
+    line_number: 15
+    span_number: 0
+    total_y: 2087.0899353027344
+  - index: 171
+    text: 'assistance while 304 households were provided with core shelters. The slow
+      inflow of donations was attributed to '
+    text_base: assistance while 304 households were provided with core shelters the
+      slow inflow of donations was attributed to
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 3
+    line_number: 16
+    span_number: 0
+    total_y: 2098.6099548339844
+  - index: 172
+    text: 'the effect of Typhoon Haiyan, which struck hardly a month after the earthquake.
+      The typhoon demanded massive '
+    text_base: the effect of typhoon haiyan which struck hardly a month after the
+      earthquake the typhoon demanded massive
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 3
+    line_number: 17
+    span_number: 0
+    total_y: 2110.1299438476562
+  - index: 173
+    text: 'effort and resources from the Philippine government, PRC and other actors.
+      While support shifted to the '
+    text_base: effort and resources from the philippine government prc and other actors
+      while support shifted to the
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 3
+    line_number: 18
+    span_number: 0
+    total_y: 2121.6499633789062
+  - index: 174
+    text: 'immediate needs of typhoon-affected families, significant needs remained
+      in the earthquake-affected areas.  '
+    text_base: immediate needs of typhoon affected families significant needs remained
+      in the earthquake affected areas
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 3
+    line_number: 19
+    span_number: 0
+    total_y: 2133.0499572753906
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'arial,bold, 24, #ff0000, None'
+    page_number: 12
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 10839.699768066406
+    idx: 1007
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 951
+  sector_similarity_score: 1.0
+  content:
+  - index: 1008
+    text: 'The core shelter intervention was adversely affected during the rainy and
+      typhoon seasons, delaying construction '
+    text_base: the core shelter intervention was adversely affected during the rainy
+      and typhoon seasons delaying construction
+    style: 'arial, 20, #000000, None'
+    page_number: 12
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 10851.69580078125
+  - index: 1009
+    text: 'completion. Delivery of construction materials was also a challenge, especially
+      for beneficiaries living in remote '
+    text_base: completion delivery of construction materials was also a challenge
+      especially for beneficiaries living in remote
+    style: 'arial, 20, #000000, None'
+    page_number: 12
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 10863.215759277344
+  - index: 1027
+    text: 'areas, due to accessibility constraints. Excavation for septic tanks, which
+      are integral to core shelters, was very '
+    text_base: areas due to accessibility constraints excavation for septic tanks
+      which are integral to core shelters was very
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 11026.199768066406
+  - index: 1028
+    text: 'difficult, especially in the municipality of Loon. This is due to the hard
+      rock and limestone geological composition '
+    text_base: difficult especially in the municipality of loon this is due to the
+      hard rock and limestone geological composition
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 11037.719787597656
+  - index: 1029
+    text: 'of these areas in Bohol. Despite these challenges, the programme was completed
+      within timeframe.   '
+    text_base: of these areas in bohol despite these challenges the programme was
+      completed within timeframe
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 2
+    span_number: 0
+    total_y: 11049.259765625
+  - index: 1030
+    text: 'The overall target for shelter interventions was to provide 2,300 families
+      with durable shelter. The coverage of this '
+    text_base: the overall target for shelter interventions was to provide 2 300 families
+      with durable shelter the coverage of this
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 4
+    span_number: 0
+    total_y: 11072.179748535156
+  - index: 1031
+    text: 'appeal reached 87 per cent, leaving a significant funding gap. As such,
+      only 2,004 families were provided with '
+    text_base: appeal reached 87 per cent leaving a significant funding gap as such
+      only 2 004 families were provided with
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 5
+    span_number: 0
+    total_y: 11083.699768066406
+  - index: 1032
+    text: 'shelter assistance; specifically, 1,700 with shelter repair and 304 with
+      core shelter. '
+    text_base: shelter assistance specifically 1 700 with shelter repair and 304 with
+      core shelter
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 6
+    span_number: 0
+    total_y: 11095.219787597656
+  - index: 1033
+    text: 'Rehabilitation of water and sanitation facilities in schools was initially
+      scheduled to be completed during the '
+    text_base: rehabilitation of water and sanitation facilities in schools was initially
+      scheduled to be completed during the
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 8
+    span_number: 0
+    total_y: 11118.259765625
+  - index: 1034
+    text: 'second quarter of 2014. However, delays were faced in engaging a suitable
+      contractor; the bidding process took '
+    text_base: second quarter of 2014 however delays were faced in engaging a suitable
+      contractor the bidding process took
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 9
+    span_number: 0
+    total_y: 11129.659790039062
+  - index: 1035
+    text: 'longer than expected with an unexpected change of contractors which disrupted
+      the project schedule. This '
+    text_base: longer than expected with an unexpected change of contractors which
+      disrupted the project schedule this
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 10
+    span_number: 0
+    total_y: 11141.179748535156
+  - index: 1036
+    text: 'prompted a re-bidding exercise, which eventually saw the engagement of
+      a suitable contractor who undertook the '
+    text_base: prompted a re bidding exercise which eventually saw the engagement
+      of a suitable contractor who undertook the
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 11
+    span_number: 0
+    total_y: 11152.699768066406
+  - index: 1037
+    text: 'entire rehabilitation project. Other challenges to this project included
+      digging through a solid foundation of '
+    text_base: entire rehabilitation project other challenges to this project included
+      digging through a solid foundation of
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 12
+    span_number: 0
+    total_y: 11164.219787597656
+  - index: 1038
+    text: 'limestone and the disruption of the construction schedule by the rainy
+      season. Nevertheless, work has since been '
+    text_base: limestone and the disruption of the construction schedule by the rainy
+      season nevertheless work has since been
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 13
+    span_number: 0
+    total_y: 11175.73974609375
+  - index: 1039
+    text: 'completed satisfactorily, with all the facilities handed over to the respective
+      school authorities in November 2014 '
+    text_base: completed satisfactorily with all the facilities handed over to the
+      respective school authorities in november 2014
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 14
+    span_number: 0
+    total_y: 11187.259765625
+  - index: 1040
+    text: 'and currently being utilized. '
+    text_base: and currently being utilized
+    style: 'arial, 20, #000000, None'
+    page_number: 13
+    block_number: 2
+    line_number: 15
+    span_number: 0
+    total_y: 11198.659790039062

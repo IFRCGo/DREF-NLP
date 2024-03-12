@@ -1,0 +1,252 @@
+- title:
+    text: 'Challenges:   '
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, None'
+    page_number: 2
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 2077.729949951172
+    idx: 135
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 136
+    text: 'The limited funding of this appeal proved the main challenge, which limited
+      the possibility to comprehensively '
+    text_base: the limited funding of this appeal proved the main challenge which
+      limited the possibility to comprehensively
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 2089.3699340820312
+  - index: 137
+    text: 'respond to the food security crisis. '
+    text_base: respond to the food security crisis
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 2100.8899536132812
+  - index: 138
+    text: 'In regards to provision of the food aid, the initial plan was to provide
+      food items including cereals, pulse (lentils), '
+    text_base: in regards to provision of the food aid the initial plan was to provide
+      food items including cereals pulse lentils
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 2123.929962158203
+  - index: 139
+    text: 'salt, oil and sugar over a three months period in a single distribution
+      for 12,800 households. Instead, due to '
+    text_base: salt oil and sugar over a three months period in a single distribution
+      for 12 800 households instead due to
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 4
+    line_number: 5
+    span_number: 0
+    total_y: 2135.449951171875
+  - index: 140
+    text: 'funding constrains, it was only possible to provide one food item (sorghum)
+      for 6000 households (30,000 '
+    text_base: funding constrains it was only possible to provide one food item sorghum
+      for 6000 households 30 000
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 4
+    line_number: 6
+    span_number: 0
+    total_y: 2146.8699340820312
+  - index: 141
+    text: 'individuals) beside the food rations distributed. Fortunately, the government
+      managed to supplement the '
+    text_base: individuals beside the food rations distributed fortunately the government
+      managed to supplement the
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 4
+    line_number: 7
+    span_number: 0
+    total_y: 2158.3899536132812
+  - index: 142
+    text: 'distribution with vegetable oil and sugar, and UNICEF provided support
+      towards the nutrition centres. Moreover, '
+    text_base: distribution with vegetable oil and sugar and unicef provided support
+      towards the nutrition centres moreover
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 4
+    line_number: 8
+    span_number: 0
+    total_y: 2169.909942626953
+  - index: 143
+    text: 'funds constraints affected the recruitment process of the staff which was
+      solved by using the available staff from '
+    text_base: funds constraints affected the recruitment process of the staff which
+      was solved by using the available staff from
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 4
+    line_number: 9
+    span_number: 0
+    total_y: 2181.429962158203
+  - index: 144
+    text: 'the SRCS. '
+    text_base: the srcs
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 4
+    line_number: 10
+    span_number: 0
+    total_y: 2192.949951171875
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, None'
+    page_number: 3
+    block_number: 8
+    line_number: 10
+    span_number: 0
+    total_y: 3144.0699462890625
+    idx: 206
+  sector_title: Relief
+  sector_idx: 145
+  sector_similarity_score: 1.0
+  content:
+  - index: 207
+    text: 'In regards to provision of the food aid, the initial plan was to provide
+      food items including cereals, pulse (lentils), '
+    text_base: in regards to provision of the food aid the initial plan was to provide
+      food items including cereals pulse lentils
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 8
+    line_number: 11
+    span_number: 0
+    total_y: 3155.7098999023438
+  - index: 208
+    text: 'salt, oil and sugar over a three months period in a single distribution
+      for 12,800 households. Instead, due to '
+    text_base: salt oil and sugar over a three months period in a single distribution
+      for 12 800 households instead due to
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 8
+    line_number: 12
+    span_number: 0
+    total_y: 3167.2599487304688
+  - index: 209
+    text: 'funding constrains, it was only possible to provide one food item (sorghum)
+      for 6000 households (30,000 '
+    text_base: funding constrains it was only possible to provide one food item sorghum
+      for 6000 households 30 000
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 8
+    line_number: 13
+    span_number: 0
+    total_y: 3178.7799682617188
+  - index: 210
+    text: 'individuals) beside the food rations distributed. Fortunately, the government
+      managed to supplement the '
+    text_base: individuals beside the food rations distributed fortunately the government
+      managed to supplement the
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 8
+    line_number: 14
+    span_number: 0
+    total_y: 3190.2999267578125
+  - index: 211
+    text: 'distribution with vegetable oil and sugar, and UNICEF provided support
+      towards the nutrition centres.  '
+    text_base: distribution with vegetable oil and sugar and unicef provided support
+      towards the nutrition centres
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 8
+    line_number: 15
+    span_number: 0
+    total_y: 3201.699951171875
+  - index: 212
+    text: 'Moreover, funds constraints affected the recruitment process of the international
+      operations staff which was '
+    text_base: moreover funds constraints affected the recruitment process of the
+      international operations staff which was
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 8
+    line_number: 17
+    span_number: 0
+    total_y: 3224.7399291992188
+  - index: 213
+    text: 'solved by using the available staff from the SRCS. Furthermore, transport
+      and logistic proved more costly than '
+    text_base: solved by using the available staff from the srcs furthermore transport
+      and logistic proved more costly than
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 8
+    line_number: 18
+    span_number: 0
+    total_y: 3236.2599487304688
+  - index: 214
+    text: 'foreseen and budgeted. '
+    text_base: foreseen and budgeted
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 8
+    line_number: 19
+    span_number: 0
+    total_y: 3247.7799072265625
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, None'
+    page_number: 4
+    block_number: 7
+    line_number: 6
+    span_number: 0
+    total_y: 3705.169921875
+    idx: 285
+  sector_title: Logistics
+  sector_idx: 255
+  sector_similarity_score: 1.0
+  content:
+  - index: 286
+    text: ': '
+    text_base: ''
+    style: 'arial, 20, #000000, None'
+    page_number: 4
+    block_number: 7
+    line_number: 6
+    span_number: 1
+    total_y: 3705.169921875
+  - index: 287
+    text: 'The transportation and logistical arrangements with transportation of food
+      support over long distances proved '
+    text_base: the transportation and logistical arrangements with transportation
+      of food support over long distances proved
+    style: 'arial, 20, #000000, None'
+    page_number: 4
+    block_number: 7
+    line_number: 7
+    span_number: 0
+    total_y: 3716.8099060058594
+  - index: 288
+    text: 'more costly than initially foreseen. '
+    text_base: more costly than initially foreseen
+    style: 'arial, 20, #000000, None'
+    page_number: 4
+    block_number: 7
+    line_number: 8
+    span_number: 0
+    total_y: 3728.3299255371094

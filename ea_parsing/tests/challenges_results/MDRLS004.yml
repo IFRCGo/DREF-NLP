@@ -1,0 +1,135 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    page_number: 5
+    block_number: 15
+    line_number: 28
+    span_number: 0
+    total_y: 4796.109924316406
+    idx: 372
+  sector_title: Food insecurity and nutrition
+  sector_idx: 232
+  sector_similarity_score: 1.0
+  content:
+  - index: 373
+    text: '1. Most of the targeted villages are in rural and mountainous parts of
+      Lesotho. These are areas characterized '
+    text_base: 1 most of the targeted villages are in rural and mountainous parts
+      of lesotho these are areas characterized
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 4819.14990234375
+  - index: 374
+    text: 'by poor and damaged roads, sharp topography and bad weather conditions.
+      This therefore posed a challenge '
+    text_base: by poor and damaged roads sharp topography and bad weather conditions
+      this therefore posed a challenge
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 18
+    line_number: 0
+    span_number: 0
+    total_y: 4832.349914550781
+  - index: 375
+    text: 'in terms of delivery of food items resulting in delays in most cases.  '
+    text_base: in terms of delivery of food items resulting in delays in most cases
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 18
+    line_number: 1
+    span_number: 0
+    total_y: 4845.549865722656
+  - index: 376
+    text: '2. The Post distribution monitoring and complaints mechanism was insufficient
+      for effective follow up on '
+    text_base: 2 the post distribution monitoring and complaints mechanism was insufficient
+      for effective follow up on
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 4858.7498779296875
+  - index: 377
+    text: 'problems / issues with Cash. '
+    text_base: problems issues with cash
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 20
+    line_number: 0
+    span_number: 0
+    total_y: 4871.979919433594
+- title:
+    text: 'Challenges  '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    page_number: 6
+    block_number: 31
+    line_number: 14
+    span_number: 0
+    total_y: 5726.619873046875
+    idx: 446
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 393
+  sector_similarity_score: 1.0
+  content:
+  - index: 447
+    text: '1. Retaining skilled volunteers remains a major challenge and this affected
+      especially the WASH activities which '
+    text_base: 1 retaining skilled volunteers remains a major challenge and this affected
+      especially the wash activities which
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 31
+    line_number: 15
+    span_number: 0
+    total_y: 5738.139892578125
+  - index: 448
+    text: 'relied on the volunteers for dissemination of information to the community
+      members.  '
+    text_base: relied on the volunteers for dissemination of information to the community
+      members
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 32
+    line_number: 0
+    span_number: 0
+    total_y: 5751.33984375
+- title:
+    text: 'Challenges  '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    page_number: 7
+    block_number: 28
+    line_number: 21
+    span_number: 0
+    total_y: 6563.7398681640625
+    idx: 515
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 393
+  sector_similarity_score: 1.0
+  content:
+  - index: 516
+    text: '1. Communication between Finance teams internationally and nationally was
+      always delayed and presented '
+    text_base: 1 communication between finance teams internationally and nationally
+      was always delayed and presented
+    style: 'arialmt, 20, #000000, None'
+    page_number: 7
+    block_number: 28
+    line_number: 22
+    span_number: 0
+    total_y: 6575.259826660156
+  - index: 517
+    text: 'challenges in the implementation of project activities. '
+    text_base: challenges in the implementation of project activities
+    style: 'arialmt, 20, #000000, None'
+    page_number: 7
+    block_number: 29
+    line_number: 0
+    span_number: 0
+    total_y: 6588.579895019531

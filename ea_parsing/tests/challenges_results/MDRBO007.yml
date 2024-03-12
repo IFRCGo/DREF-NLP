@@ -1,0 +1,56 @@
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, None'
+    page_number: 3
+    block_number: 11
+    line_number: 24
+    span_number: 0
+    total_y: 3056.4699096679688
+    idx: 331
+  sector_title: Health and Care
+  sector_idx: 269
+  sector_similarity_score: 1.0
+  content:
+  - index: 332
+    text: 'Due to the coverage of the Emergency Appeal, the National Society prioritized
+      the area of Cobija '
+    text_base: due to the coverage of the emergency appeal the national society prioritized
+      the area of cobija
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 11
+    line_number: 24
+    span_number: 1
+    total_y: 3056.4699096679688
+  - index: 333
+    text: '(Pando department) and Puerto Villarroel (Cochabamba department). Cobija
+      is one of the most impoverished and '
+    text_base: pando department and puerto villarroel cochabamba department cobija
+      is one of the most impoverished and
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 11
+    line_number: 25
+    span_number: 0
+    total_y: 3067.9899291992188
+  - index: 334
+    text: 'vulnerable areas in the country and is very prone to tropical diseases
+      typical of the Amazonian regions. Puerto '
+    text_base: vulnerable areas in the country and is very prone to tropical diseases
+      typical of the amazonian regions puerto
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 11
+    line_number: 26
+    span_number: 0
+    total_y: 3079.5099487304688
+  - index: 335
+    text: 'Villarroel is another area with a high risk of dengue. '
+    text_base: villarroel is another area with a high risk of dengue
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 11
+    line_number: 27
+    span_number: 0
+    total_y: 3091.0299682617188
