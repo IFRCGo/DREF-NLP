@@ -7,17 +7,21 @@ Shelter, Housing and Settlements:
   - temporary emergency shelter human settlements
   - shelter settlements non food items
   - shelter including non food items
+  - transitional shelter
 
 Livelihoods:
   - livelihoods and basic needs
   - livelihoods support
+  - recovery rehabilitation restoration of livelihoods
 
 Relief:
   - relief
   - relief distributions
   - relief distributions food
   - relief distributions food items
+  - relief distributions basic food items
   - relief distributions non food items
+  - relief distributions basic non food items
   - relief distributions food and basic non food items
   - food and non food item distributions
 
@@ -32,6 +36,8 @@ Health and Care:
   - health care
   - health nutrition
   - emergency health
+  - emergency health care
+  - health hygiene promotion
 
 Water, Sanitation and Hygiene:
   - water sanitation
@@ -50,11 +56,11 @@ Education:
 
 Food insecurity and nutrition:
   - food insecurity
-  - food insecurity livelihood
+  - food insecurity livelihoods
   - food insecurity nutrition livelihoods
   - food insecurity livelihoods basic needs
   - livelihoods nutrition and food insecurity
-  - food insecurity livelihood
+  - food insecurity livelihoods
 
 Risk Reduction, Climate adaptation and Recovery:
   - risk reduction climate adaptation recovery
@@ -69,6 +75,7 @@ Risk Reduction, Climate adaptation and Recovery:
   - community based risk reduction
 
 National Society Strengthening:
+  - national capacity building
   - national society development
   - national society capacity building
   - organizational development
@@ -78,6 +85,8 @@ National Society Strengthening:
   - national society capacity building and preparedness
   - national society institutional preparedness and capacity development
   - national society institutional preparedness
+  - national society disaster preparedness and capacity building
+  - organisational development
 
 Community Engagement and Accountability:
   - cea

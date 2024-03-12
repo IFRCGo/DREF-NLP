@@ -1,0 +1,292 @@
+- title:
+    text: 'Challenges:  '
+    text_base: challenges
+    style: 'bold, 22, #000000, #ffffff'
+    page_number: 5
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 4697.016540527344
+    idx: 391
+  sector_title: Relief
+  sector_idx: 47
+  sector_similarity_score: 1.0
+  content:
+  - index: 392
+    text: 'Relief distributions were complicated by: '
+    text_base: relief distributions were complicated by
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 4709.616088867188
+  - index: 393
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 4723.055603027344
+  - index: 394
+    text: 'Difficult road access to accommodation centres '
+    text_base: difficult road access to accommodation centres
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 2
+    span_number: 1
+    total_y: 4723.055603027344
+  - index: 395
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 4736.435791015625
+  - index: 396
+    text: 'Lack of trucks '
+    text_base: lack of trucks
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 4
+    span_number: 1
+    total_y: 4736.435791015625
+  - index: 397
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 6
+    span_number: 0
+    total_y: 4749.816040039063
+  - index: 398
+    text: 'Lack of readily available relief stock '
+    text_base: lack of readily available relief stock
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 6
+    span_number: 1
+    total_y: 4749.816040039063
+  - index: 399
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 8
+    span_number: 0
+    total_y: 4763.1962890625
+  - index: 400
+    text: 'Shifting numbers of potential beneficiaries at the camps.  '
+    text_base: shifting numbers of potential beneficiaries at the camps
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 8
+    span_number: 1
+    total_y: 4763.1962890625
+  - index: 401
+    text: 'Some accommodation centres remained inaccessible until early April and
+      goods had to be '
+    text_base: some accommodation centres remained inaccessible until early april
+      and goods had to be
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 11
+    span_number: 0
+    total_y: 4788.455749511719
+  - index: 402
+    text: "transported via air \u2013 thereby increasing the frequency and affecting\
+      \ the low daily volume of "
+    text_base: transported via air thereby increasing the frequency and affecting
+      the low daily volume of
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 12
+    span_number: 0
+    total_y: 4801.11572265625
+  - index: 403
+    text: 'distributions. In total, close to 220 distributions were made - half of
+      which were by helicopter.  '
+    text_base: distributions in total close to 220 distributions were made half of
+      which were by helicopter
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 13
+    span_number: 0
+    total_y: 4813.775634765625
+  - index: 404
+    text: 'The total number of families in accommodation centres increased over time,
+      presumably as some '
+    text_base: the total number of families in accommodation centres increased over
+      time presumably as some
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 15
+    span_number: 0
+    total_y: 4839.03515625
+  - index: 405
+    text: 'families were drawn to the centres by on-going food and non-food relief
+      distributions, regardless of '
+    text_base: families were drawn to the centres by on going food and non food relief
+      distributions regardless of
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 16
+    span_number: 0
+    total_y: 4851.695068359375
+  - index: 406
+    text: 'whether they were affected by the floods or not. The Red Cross decided
+      to stick to its original '
+    text_base: whether they were affected by the floods or not the red cross decided
+      to stick to its original
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 17
+    span_number: 0
+    total_y: 4864.35498046875
+  - index: 407
+    text: 'targets with regard to beneficiary numbers as per its initial assessments;
+      as a result, beneficiary '
+    text_base: targets with regard to beneficiary numbers as per its initial assessments
+      as a result beneficiary
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 18
+    span_number: 0
+    total_y: 4877.014953613281
+  - index: 409
+    text: '9'
+    text_base: '9'
+    style: 'arialmt, 14, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 19
+    span_number: 1
+    total_y: 4884.69970703125
+  - index: 408
+    text: 'numbers were at times lower than figures provided by INGC  or actual numbers
+      of beneficiaries in '
+    text_base: numbers were at times lower than figures provided by ingc or actual
+      numbers of beneficiaries in
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 19
+    span_number: 0
+    total_y: 4889.6749267578125
+  - index: 411
+    text: 'the camps. In some cases, the Red Cross divided rations so that every camp
+      resident received '
+    text_base: the camps in some cases the red cross divided rations so that every
+      camp resident received
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 20
+    span_number: 0
+    total_y: 4902.339660644531
+  - index: 412
+    text: 'support; in others, distributions were only made to families directly affected
+      by the floods and '
+    text_base: support in others distributions were only made to families directly
+      affected by the floods and
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 21
+    span_number: 0
+    total_y: 4914.939208984375
+  - index: 413
+    text: 'already on Red Cross beneficiary lists.  '
+    text_base: already on red cross beneficiary lists
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 5
+    block_number: 6
+    line_number: 22
+    span_number: 0
+    total_y: 4927.59912109375
+- title:
+    text: 'Challenges:'
+    text_base: challenges
+    style: 'bold, 22, #000000, nan'
+    page_number: 6
+    block_number: 11
+    line_number: 30
+    span_number: 0
+    total_y: 5745.8956298828125
+    idx: 471
+  sector_title: Livelihoods
+  sector_idx: 418
+  sector_similarity_score: 1.0
+  content:
+  - index: 472
+    text: 'Red Cross shelter kits contained tools to assist people in the construction
+      of houses using locally '
+    text_base: red cross shelter kits contained tools to assist people in the construction
+      of houses using locally
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 6
+    block_number: 11
+    line_number: 31
+    span_number: 0
+    total_y: 5758.495178222656
+  - index: 473
+    text: "available materials \u2013 as this was considered to be the most readily\
+      \ accessible and most practical "
+    text_base: available materials as this was considered to be the most readily accessible
+      and most practical
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 6
+    block_number: 11
+    line_number: 32
+    span_number: 0
+    total_y: 5771.155151367188
+  - index: 474
+    text: 'construction method in the flood-affected areas. However, housing construction
+      using traditional '
+    text_base: construction method in the flood affected areas however housing construction
+      using traditional
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 6
+    block_number: 11
+    line_number: 33
+    span_number: 0
+    total_y: 5783.8150634765625
+  - index: 475
+    text: 'methods was slow to start, as affected families waited to see if they would
+      receive further '
+    text_base: methods was slow to start as affected families waited to see if they
+      would receive further
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 6
+    block_number: 11
+    line_number: 34
+    span_number: 0
+    total_y: 5796.4749755859375
+  - index: 476
+    text: 'assistance from governmental authorities, including materials such as tin
+      sheeting for roofing.  '
+    text_base: assistance from governmental authorities including materials such as
+      tin sheeting for roofing
+    style: 'arialmt, 22, #000000, nan'
+    page_number: 6
+    block_number: 11
+    line_number: 35
+    span_number: 0
+    total_y: 5809.134948730469
