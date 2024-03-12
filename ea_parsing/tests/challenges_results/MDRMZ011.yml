@@ -1,0 +1,674 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f1f1f1'
+    page_number: 6
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 5439.7198486328125
+    idx: 496
+  sector_title: Quality Programming
+  sector_idx: 518
+  sector_similarity_score: 1.0
+  content:
+  - index: 497
+    text: 'There were not many trained and skilled staff and volunteers who could
+      assist CVM with immediate needs '
+    text_base: there were not many trained and skilled staff and volunteers who could
+      assist cvm with immediate needs
+    style: 'arialmt, 20, #000000, #f1f1f1'
+    page_number: 6
+    block_number: 17
+    line_number: 1
+    span_number: 0
+    total_y: 5453.159851074219
+  - index: 498
+    text: 'assessment on the ground, requiring sending NDRT from Maputo and neighbouring
+      provinces to lead the '
+    text_base: assessment on the ground requiring sending ndrt from maputo and neighbouring
+      provinces to lead the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 17
+    line_number: 2
+    span_number: 0
+    total_y: 5464.679840087891
+  - index: 499
+    text: 'process. '
+    text_base: process
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 17
+    line_number: 3
+    span_number: 0
+    total_y: 5476.203552246094
+  - index: 500
+    text: 'Lack of emergency funds to kick start the operation while awaiting funding
+      from donors or even DREF start-up '
+    text_base: lack of emergency funds to kick start the operation while awaiting
+      funding from donors or even dref start up
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 5498.999847412109
+  - index: 501
+    text: 'funds. This could have enabled payment of transportation for the prepositioned
+      items to the provinces that '
+    text_base: funds this could have enabled payment of transportation for the prepositioned
+      items to the provinces that
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 19
+    line_number: 1
+    span_number: 0
+    total_y: 5510.519836425781
+  - index: 502
+    text: 'needed the items much earlier. '
+    text_base: needed the items much earlier
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 19
+    line_number: 2
+    span_number: 0
+    total_y: 5521.919860839844
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #ecebdf'
+    page_number: 8
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 7050.359802246094
+    idx: 659
+  sector_title: Health and Care
+  sector_idx: 519
+  sector_similarity_score: 1.0
+  content:
+  - index: 660
+    text: 'In some areas, as the volunteers were distributing Certeza, the water purification
+      liquid, they were chased by '
+    text_base: in some areas as the volunteers were distributing certeza the water
+      purification liquid they were chased by
+    style: 'arialmt, 20, #000000, #ecebdf'
+    page_number: 8
+    block_number: 15
+    line_number: 1
+    span_number: 0
+    total_y: 7063.6798095703125
+  - index: 661
+    text: 'some community members who thought that the liquid would cause them cholera.
+      In this situation, the volunteers '
+    text_base: some community members who thought that the liquid would cause them
+      cholera in this situation the volunteers
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 15
+    line_number: 2
+    span_number: 0
+    total_y: 7075.199798583984
+  - index: 662
+    text: 'focused on those households that accepted them and use these households
+      to advocate for the use of drinking '
+    text_base: focused on those households that accepted them and use these households
+      to advocate for the use of drinking
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 15
+    line_number: 3
+    span_number: 0
+    total_y: 7086.7235107421875
+  - index: 663
+    text: 'treated water to prevent cholera. '
+    text_base: treated water to prevent cholera
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 15
+    line_number: 4
+    span_number: 0
+    total_y: 7098.247222900391
+  - index: 664
+    text: 'First time volunteers felt insecure reaching out to households for sensitization.
+      There was need for confidence '
+    text_base: first time volunteers felt insecure reaching out to households for
+      sensitization there was need for confidence
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 7121.039794921875
+  - index: 665
+    text: 'building and pairing up of volunteers (new and old) to give the necessary
+      support to reach to the households. '
+    text_base: building and pairing up of volunteers new and old to give the necessary
+      support to reach to the households
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 17
+    line_number: 1
+    span_number: 0
+    total_y: 7132.563507080078
+  - index: 666
+    text: 'When the volunteers used the megaphones to announce their presence, in
+      some areas, the community '
+    text_base: when the volunteers used the megaphones to announce their presence
+      in some areas the community
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 7155.599792480469
+  - index: 667
+    text: 'members left their homes and were not found in the homesteads by the volunteers.
+      This meant that the '
+    text_base: members left their homes and were not found in the homesteads by the
+      volunteers this meant that the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 19
+    line_number: 1
+    span_number: 0
+    total_y: 7167.123504638672
+  - index: 668
+    text: 'volunteers went back to these households where members were missing to
+      conduct their awareness sessions. '
+    text_base: volunteers went back to these households where members were missing
+      to conduct their awareness sessions
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 19
+    line_number: 2
+    span_number: 0
+    total_y: 7178.5277099609375
+  - index: 669
+    text: 'A lot of time was spent in covering these areas. For the available households,
+      awareness sessions were '
+    text_base: a lot of time was spent in covering these areas for the available households
+      awareness sessions were
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 19
+    line_number: 3
+    span_number: 0
+    total_y: 7190.051422119141
+  - index: 670
+    text: 'conducted during the first visit '
+    text_base: conducted during the first visit
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 19
+    line_number: 4
+    span_number: 0
+    total_y: 7201.575134277344
+  - index: 671
+    text: 'The CVM health focal point was on sick leave during the first three months
+      of the operation that also hampered '
+    text_base: the cvm health focal point was on sick leave during the first three
+      months of the operation that also hampered
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 21
+    line_number: 0
+    span_number: 0
+    total_y: 7224.599792480469
+  - index: 672
+    text: 'the progress and CVM capacity in combating cholera. As a result, a temporary
+      focal point was nominated to fill '
+    text_base: the progress and cvm capacity in combating cholera as a result a temporary
+      focal point was nominated to fill
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 21
+    line_number: 1
+    span_number: 0
+    total_y: 7236.123504638672
+  - index: 673
+    text: 'the gap however; confusion in coordination with branches and other stakeholders
+      were reported. '
+    text_base: the gap however confusion in coordination with branches and other stakeholders
+      were reported
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 21
+    line_number: 2
+    span_number: 0
+    total_y: 7247.647216796875
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #ecebdf'
+    page_number: 10
+    block_number: 23
+    line_number: 0
+    span_number: 0
+    total_y: 8766.359771728516
+    idx: 791
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 683
+  sector_similarity_score: 1.0
+  content:
+  - index: 792
+    text: 'In 1 de Maio and Mudiba where shallow wells were constructed, the area
+      is dry, meaning in the run up to the '
+    text_base: in 1 de maio and mudiba where shallow wells were constructed the area
+      is dry meaning in the run up to the
+    style: 'arialmt, 20, #000000, #ecebdf'
+    page_number: 10
+    block_number: 23
+    line_number: 1
+    span_number: 0
+    total_y: 8779.799743652344
+  - index: 793
+    text: 'rainy season most of the wells were dry. This was confirmed during focus
+      group discussion at the evaluation '
+    text_base: rainy season most of the wells were dry this was confirmed during focus
+      group discussion at the evaluation
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 23
+    line_number: 2
+    span_number: 0
+    total_y: 8791.319763183594
+  - index: 794
+    text: 'which means that the nearest rivers/streams with contaminated water are
+      what the community resorts to when '
+    text_base: which means that the nearest rivers streams with contaminated water
+      are what the community resorts to when
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 23
+    line_number: 3
+    span_number: 0
+    total_y: 8802.843475341797
+  - index: 795
+    text: 'the wells dry up. '
+    text_base: the wells dry up
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 23
+    line_number: 4
+    span_number: 0
+    total_y: 8814.3671875
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #ecebdf'
+    page_number: 13
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 11253.719665527344
+    idx: 1037
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 801
+  sector_similarity_score: 1.0
+  content:
+  - index: 1038
+    text: '1.  There was delay in release of NFIs from warehouse in Maputo and finding
+      transport solution to deliver the '
+    text_base: 1 there was delay in release of nfis from warehouse in maputo and finding
+      transport solution to deliver the
+    style: 'arialmt, 20, #000000, #ecebdf'
+    page_number: 13
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 11267.15966796875
+  - index: 1040
+    text: 'items to the affected provinces. This in turn led to the delay in distribution
+      of relief to the affected populations '
+    text_base: items to the affected provinces this in turn led to the delay in distribution
+      of relief to the affected populations
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 11278.559692382812
+  - index: 1041
+    text: 'thereby affecting CVM response time. Some of the beneficiaries had to wait
+      up to more than two weeks to '
+    text_base: thereby affecting cvm response time some of the beneficiaries had to
+      wait up to more than two weeks to
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 11290.083404541016
+  - index: 1042
+    text: 'receive support. Lack of transportation and inability of CVM to engage
+      private transport companies without '
+    text_base: receive support lack of transportation and inability of cvm to engage
+      private transport companies without
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 11301.607116699219
+  - index: 1043
+    text: 'upfront payment led to this delay. When transport was available, it was
+      shared with other stakeholders '
+    text_base: upfront payment led to this delay when transport was available it was
+      shared with other stakeholders
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 11313.130828857422
+  - index: 1044
+    text: "therefore preference was given to the delivery of the stakeholder\u2019\
+      s items over those of CVM further "
+    text_base: therefore preference was given to the delivery of the stakeholder s
+      items over those of cvm further
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 11324.639678955078
+  - index: 1045
+    text: 'contributing to delayed response. '
+    text_base: contributing to delayed response
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 6
+    line_number: 5
+    span_number: 0
+    total_y: 11336.159698486328
+  - index: 1046
+    text: '2.  SPHERE standards was used in planning for the operation yet at the
+      time of implementation, the stock '
+    text_base: 2 sphere standards was used in planning for the operation yet at the
+      time of implementation the stock
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 11347.559692382812
+  - index: 1048
+    text: 'available was not enough to enable sufficient distribution hence in some
+      cases, only one blanket was given '
+    text_base: available was not enough to enable sufficient distribution hence in
+      some cases only one blanket was given
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 11359.079681396484
+  - index: 1049
+    text: 'per household due to fewer numbers available in stock. '
+    text_base: per household due to fewer numbers available in stock
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 8
+    line_number: 1
+    span_number: 0
+    total_y: 11370.603393554688
+  - index: 1050
+    text: '3.  Slow funds transfer from the IFRC and slow funds accountability from
+      CVM. '
+    text_base: 3 slow funds transfer from the ifrc and slow funds accountability from
+      cvm
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 11382.119689941406
+  - index: 1052
+    text: '4.  The displaced households were allocated land for construction of dwellings
+      yet there was no land allocated '
+    text_base: 4 the displaced households were allocated land for construction of
+      dwellings yet there was no land allocated
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 9
+    line_number: 1
+    span_number: 0
+    total_y: 11393.639678955078
+  - index: 1054
+    text: 'for livelihood activities like farming, especially for the community in
+      Nacogolone. '
+    text_base: for livelihood activities like farming especially for the community
+      in nacogolone
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 9
+    line_number: 2
+    span_number: 0
+    total_y: 11405.043884277344
+  - index: 1055
+    text: '5.  At the time of the evaluation, shelter construction had not been completed
+      as expected due to the following '
+    text_base: 5 at the time of the evaluation shelter construction had not been completed
+      as expected due to the following
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 11416.559692382812
+  - index: 1057
+    text: 'reasons: '
+    text_base: reasons
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 1
+    span_number: 0
+    total_y: 11428.083404541016
+  - index: 1058
+    text: 'a)  There was delay and irregular delivery of blocks and small stones for
+      construction by the supplier. '
+    text_base: a there was delay and irregular delivery of blocks and small stones
+      for construction by the supplier
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 11439.599700927734
+  - index: 1060
+    text: 'b)  Plans had been made to have the supplier make the blocks at the construction
+      sites but the quality '
+    text_base: b plans had been made to have the supplier make the blocks at the construction
+      sites but the quality
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 11
+    line_number: 1
+    span_number: 0
+    total_y: 11451.119689941406
+  - index: 1062
+    text: 'of these blocks were poor compared to those delivered from Quelimane further
+      affecting the '
+    text_base: of these blocks were poor compared to those delivered from quelimane
+      further affecting the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 11462.639709472656
+  - index: 1063
+    text: 'structures that were being built. '
+    text_base: structures that were being built
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 12
+    line_number: 1
+    span_number: 0
+    total_y: 11474.039733886719
+  - index: 1064
+    text: 'c)  The beneficiaries in 1 de Maio and Mudiba during the evaluation expressed
+      their inability to '
+    text_base: c the beneficiaries in 1 de maio and mudiba during the evaluation expressed
+      their inability to
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 11485.559692382812
+  - index: 1066
+    text: 'complete the construction due to financial constraints hence the need to
+      demonstrate how the '
+    text_base: complete the construction due to financial constraints hence the need
+      to demonstrate how the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 11497.079650878906
+  - index: 1067
+    text: 'structures could be completed in a more affordable way without necessarily
+      using the expensive '
+    text_base: structures could be completed in a more affordable way without necessarily
+      using the expensive
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 14
+    line_number: 1
+    span_number: 0
+    total_y: 11508.599670410156
+  - index: 1068
+    text: 'concrete blocks. '
+    text_base: concrete blocks
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 14
+    line_number: 2
+    span_number: 0
+    total_y: 11520.119689941406
+  - index: 1069
+    text: 'd)  There were also structural errors noticed with regards with the way
+      the roofing had been built that '
+    text_base: d there were also structural errors noticed with regards with the way
+      the roofing had been built that
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 11531.639709472656
+  - index: 1071
+    text: 'led to some roofs being blown off a week before the evaluation began. This
+      required technical '
+    text_base: led to some roofs being blown off a week before the evaluation began
+      this required technical
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 11543.039672851562
+  - index: 1072
+    text: 'expertise to establish what corrective measure could be done to ensure
+      a structurally sound '
+    text_base: expertise to establish what corrective measure could be done to ensure
+      a structurally sound
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 16
+    line_number: 1
+    span_number: 0
+    total_y: 11554.559692382812
+  - index: 1073
+    text: 'structure handed over to the communities. '
+    text_base: structure handed over to the communities
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 16
+    line_number: 2
+    span_number: 0
+    total_y: 11566.079711914062
+  - index: 1074
+    text: 'e)  Some of the timber and iron were purchased twice because they were
+      stolen. '
+    text_base: e some of the timber and iron were purchased twice because they were
+      stolen
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 11576.759704589844
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #ecebdf'
+    page_number: 14
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 12104.039672851562
+    idx: 1112
+  sector_title: National Society Strengthening
+  sector_idx: 1087
+  sector_similarity_score: 1.0
+  content:
+  - index: 1113
+    text: 'There were not many trained and skilful staff and volunteers who could
+      assist CVM with immediate needs '
+    text_base: there were not many trained and skilful staff and volunteers who could
+      assist cvm with immediate needs
+    style: 'arialmt, 20, #000000, #ecebdf'
+    page_number: 14
+    block_number: 13
+    line_number: 1
+    span_number: 0
+    total_y: 12117.359680175781
+  - index: 1114
+    text: 'assessment on the ground, requiring sending NDRT from Maputo and neighbouring
+      provinces to lead the '
+    text_base: assessment on the ground requiring sending ndrt from maputo and neighbouring
+      provinces to lead the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 13
+    line_number: 2
+    span_number: 0
+    total_y: 12128.879669189453
+  - index: 1115
+    text: 'process. '
+    text_base: process
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 13
+    line_number: 3
+    span_number: 0
+    total_y: 12140.403381347656
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, None'
+    page_number: 15
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 13109.6396484375
+    idx: 1142
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 1121
+  sector_similarity_score: 1.0
+  content:
+  - index: 1143
+    text: 'Same as mentioned under Outcome 5: National Society Capacity Building '
+    text_base: same as mentioned under outcome 5 national society capacity building
+    style: 'arialmt, 20, #000000, None'
+    page_number: 15
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 13122.839660644531
