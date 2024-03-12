@@ -1,0 +1,616 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 22, #000000, #c5d9f0'
+    page_number: 4
+    block_number: 6
+    line_number: 16
+    span_number: 0
+    total_y: 3956.39990234375
+    idx: 395
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content: []
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 22, #000000, #c5d9f0'
+    page_number: 7
+    block_number: 0
+    line_number: 0
+    span_number: 0
+    total_y: 5939.639892578125
+    idx: 572
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 573
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 1
+    line_number: 0
+    span_number: 0
+    total_y: 5953.559875488281
+  - index: 574
+    text: ' There was delay in the start of the operations hence it led to hurried
+      implementation and failure of '
+    text_base: there was delay in the start of the operations hence it led to hurried
+      implementation and failure of
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 1
+    line_number: 0
+    span_number: 1
+    total_y: 5953.559875488281
+  - index: 575
+    text: 'the Federation to undertake National Society Development (in the implementation
+      period August '
+    text_base: the federation to undertake national society development in the implementation
+      period august
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 5966.159851074219
+  - index: 576
+    text: "\u2013 December 2017) "
+    text_base: december 2017
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 5978.8779296875
+  - index: 577
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 5991.4798583984375
+  - index: 578
+    text: ' With the donor (ICRC) restriction in geographical coverage and response
+      options, communities '
+    text_base: with the donor icrc restriction in geographical coverage and response
+      options communities
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 5991.4798583984375
+  - index: 579
+    text: 'accused the National Society of bias as well as offering them non-priority
+      assistance  '
+    text_base: accused the national society of bias as well as offering them non priority
+      assistance
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 3
+    line_number: 1
+    span_number: 0
+    total_y: 6004.197937011719
+  - index: 580
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 6016.799865722656
+  - index: 581
+    text: ' Low capacity of the National Societies to access hard-to reach areas led
+      to reduction in '
+    text_base: low capacity of the national societies to access hard to reach areas
+      led to reduction in
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 6016.799865722656
+  - index: 582
+    text: 'geographical coverage and number of people reached by the interventions.
+      Such can be '
+    text_base: geographical coverage and number of people reached by the interventions
+      such can be
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 6029.399841308594
+  - index: 583
+    text: 'perceived as bias and is damaging the National Society credibility as responder
+      of first choice in '
+    text_base: perceived as bias and is damaging the national society credibility
+      as responder of first choice in
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 6042.117919921875
+  - index: 584
+    text: 'disaster '
+    text_base: disaster
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 6054.714538574219
+  - index: 585
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 6067.439880371094
+  - index: 586
+    text: ' The long targeting tools prolonged periods of beneficiary selection '
+    text_base: the long targeting tools prolonged periods of beneficiary selection
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 6067.439880371094
+  - index: 587
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 6080.0364990234375
+  - index: 588
+    text: ' Serious security problems at the border between Oromia and Somali regions
+      of Babile woreda '
+    text_base: serious security problems at the border between oromia and somali regions
+      of babile woreda
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 6
+    line_number: 1
+    span_number: 1
+    total_y: 6080.0364990234375
+  - index: 589
+    text: 'jeopardize the operation for 2 months '
+    text_base: jeopardize the operation for 2 months
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 6092.633117675781
+  - index: 590
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 6105.3511962890625
+  - index: 591
+    text: ' Frequent turnover of government higher officials, especially of conflict
+      induced areas of Somali & '
+    text_base: frequent turnover of government higher officials especially of conflict
+      induced areas of somali
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 6105.3511962890625
+  - index: 592
+    text: 'Oromia region created a communication gap '
+    text_base: oromia region created a communication gap
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 7
+    line_number: 1
+    span_number: 0
+    total_y: 6117.947814941406
+  - index: 593
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 6130.6658935546875
+  - index: 594
+    text: ' Revision of the operational plan of conducting water tracking created
+      dissatisfaction among the '
+    text_base: revision of the operational plan of conducting water tracking created
+      dissatisfaction among the
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 6130.6658935546875
+  - index: 595
+    text: 'community (e.g. Afar, Kuri district) '
+    text_base: community e g afar kuri district
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 8
+    line_number: 1
+    span_number: 0
+    total_y: 6143.262512207031
+  - index: 596
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 6155.8798828125
+  - index: 597
+    text: ' Delay in budget transfer and budget settlement from the concerned bodies
+      affected the '
+    text_base: delay in budget transfer and budget settlement from the concerned bodies
+      affected the
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 9
+    line_number: 0
+    span_number: 1
+    total_y: 6155.8798828125
+  - index: 598
+    text: 'performance of the implementation '
+    text_base: performance of the implementation
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 6168.599853515625
+  - index: 599
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 6181.319885253906
+  - index: 600
+    text: ' The changeover in Government administration in Somaliland has impacted
+      on the speed at which '
+    text_base: the changeover in government administration in somaliland has impacted
+      on the speed at which
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 11
+    line_number: 0
+    span_number: 1
+    total_y: 6181.319885253906
+  - index: 601
+    text: 'SRCS is able to obtain customs clearance and tax exemption for cargo clearing
+      and transport of '
+    text_base: srcs is able to obtain customs clearance and tax exemption for cargo
+      clearing and transport of
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 11
+    line_number: 1
+    span_number: 0
+    total_y: 6194.755554199219
+  - index: 602
+    text: 'relief items into Puntland. As noted previously, the change-over in administration
+      means the SRCS '
+    text_base: relief items into puntland as noted previously the change over in administration
+      means the srcs
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 11
+    line_number: 2
+    span_number: 0
+    total_y: 6208.080810546875
+  - index: 603
+    text: 'must develop new relationships with the incoming Government. IFRC Hargeisa
+      is currently in '
+    text_base: must develop new relationships with the incoming government ifrc hargeisa
+      is currently in
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 11
+    line_number: 3
+    span_number: 0
+    total_y: 6221.5164794921875
+  - index: 604
+    text: 'negotiation with WFP regarding the re-shipment of cargo in Berbera to Bosasso
+      in Puntland '
+    text_base: negotiation with wfp regarding the re shipment of cargo in berbera
+      to bosasso in puntland
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 11
+    line_number: 4
+    span_number: 0
+    total_y: 6234.9521484375
+  - index: 605
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 6248.277435302734
+  - index: 606
+    text: ' A key development in January was the military confrontation between Somaliland
+      and Puntland '
+    text_base: a key development in january was the military confrontation between
+      somaliland and puntland
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 0
+    span_number: 1
+    total_y: 6248.277435302734
+  - index: 607
+    text: 'in the disputed territories in Sool and Sanaag which both Governments claim.
+      This confrontation '
+    text_base: in the disputed territories in sool and sanaag which both governments
+      claim this confrontation
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 1
+    span_number: 0
+    total_y: 6261.715545654297
+  - index: 608
+    text: 'was prompted by the stated intention of the President of FRG in Mogadishu
+      to visit territory in Sool '
+    text_base: was prompted by the stated intention of the president of frg in mogadishu
+      to visit territory in sool
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 2
+    span_number: 0
+    total_y: 6275.040832519531
+  - index: 609
+    text: 'accompanied by representatives of the Puntland administration. Military
+      forces of Somaliland '
+    text_base: accompanied by representatives of the puntland administration military
+      forces of somaliland
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 3
+    span_number: 0
+    total_y: 6288.476501464844
+  - index: 610
+    text: 'attacked and took control of territory previously controlled by Puntland.
+      The Somaliland '
+    text_base: attacked and took control of territory previously controlled by puntland
+      the somaliland
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 4
+    span_number: 0
+    total_y: 6301.799865722656
+  - index: 611
+    text: 'administration immediately began to reinforce its control of the area and
+      at other points along the '
+    text_base: administration immediately began to reinforce its control of the area
+      and at other points along the
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 5
+    span_number: 0
+    total_y: 6315.2398681640625
+  - index: 613
+    text: th
+    text_base: th
+    style: 'arialmt, 14, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 6
+    span_number: 1
+    total_y: 6324.599853515625
+  - index: 614
+    text: ' of January the Government of Puntland declared  line of control (Sool
+      and Sanaag) On the 13'
+    text_base: of january the government of puntland declared line of control sool
+      and sanaag on the 13
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 6
+    span_number: 2
+    total_y: 6328.559875488281
+  - index: 615
+    text: 'war on Somaliland. In response the Government of Somaliland stated that
+      it has no intention of '
+    text_base: war on somaliland in response the government of somaliland stated that
+      it has no intention of
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 7
+    span_number: 0
+    total_y: 6341.995544433594
+  - index: 616
+    text: 'attacking Puntland but will defend its territory which it defines as up
+      the point of the colonially '
+    text_base: attacking puntland but will defend its territory which it defines as
+      up the point of the colonially
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 8
+    span_number: 0
+    total_y: 6355.431213378906
+  - index: 617
+    text: 'established border. The initial military operation has caused displacement
+      of civilians within Sool. '
+    text_base: established border the initial military operation has caused displacement
+      of civilians within sool
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 9
+    span_number: 0
+    total_y: 6368.756500244141
+  - index: 618
+    text: 'To date there have been ongoing low-level exchanges of artillery and gun
+      fire between the '
+    text_base: to date there have been ongoing low level exchanges of artillery and
+      gun fire between the
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 10
+    span_number: 0
+    total_y: 6382.192169189453
+  - index: 619
+    text: 'opposing armies. As a result of this, the planned distribution of WASH/NFIs
+      has been put on hold '
+    text_base: opposing armies as a result of this the planned distribution of wash
+      nfis has been put on hold
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 11
+    span_number: 0
+    total_y: 6395.519866943359
+  - index: 620
+    text: 'pending an assessment of the situation. '
+    text_base: pending an assessment of the situation
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 12
+    line_number: 12
+    span_number: 0
+    total_y: 6408.955505371094
+  - index: 621
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 6422.28515625
+  - index: 622
+    text: " Logistics \u2013 rain from July to November made overland transportation\
+      \ routes impossible to bypass. "
+    text_base: logistics rain from july to november made overland transportation routes
+      impossible to bypass
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 13
+    line_number: 0
+    span_number: 1
+    total_y: 6422.28515625
+  - index: 623
+    text: 'Flying supplies to hard-to-reach areas was the only possibility. '
+    text_base: flying supplies to hard to reach areas was the only possibility
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 13
+    line_number: 1
+    span_number: 0
+    total_y: 6435.7208251953125
+  - index: 624
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 6449.046081542969
+  - index: 625
+    text: ' For the second year in a row in 2017, South Sudan was ranked as the most
+      dangerous context '
+    text_base: for the second year in a row in 2017 south sudan was ranked as the
+      most dangerous context
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 14
+    line_number: 0
+    span_number: 1
+    total_y: 6449.046081542969
+  - index: 626
+    text: 'for humanitarian workers in the world, having reported the highest frequency
+      of attacks on aid '
+    text_base: for humanitarian workers in the world having reported the highest frequency
+      of attacks on aid
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 14
+    line_number: 1
+    span_number: 0
+    total_y: 6462.481750488281
+  - index: 627
+    text: 'staffers. The operations had to be adaptable to the changing security environment
+      in the areas of '
+    text_base: staffers the operations had to be adaptable to the changing security
+      environment in the areas of
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 14
+    line_number: 2
+    span_number: 0
+    total_y: 6475.917419433594
+  - index: 628
+    text: 'implementation. This posed challenges to planning.  '
+    text_base: implementation this posed challenges to planning
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 14
+    line_number: 3
+    span_number: 0
+    total_y: 6489.242736816406
+  - index: 629
+    text: "\uF076"
+    text_base: ''
+    style: 'regular, 22, #000000, None'
+    page_number: 7
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 6502.678405761719
+  - index: 630
+    text: ' The SSRC is a young national society that is still working on enhancing
+      its capacity, systems and '
+    text_base: the ssrc is a young national society that is still working on enhancing
+      its capacity systems and
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 15
+    line_number: 0
+    span_number: 1
+    total_y: 6502.678405761719
+  - index: 631
+    text: 'infrastructure. '
+    text_base: infrastructure
+    style: 'arialmt, 22, #000000, None'
+    page_number: 7
+    block_number: 15
+    line_number: 1
+    span_number: 0
+    total_y: 6515.882263183594
