@@ -150,7 +150,7 @@ class Appeal:
 
 
 class AppealDocument:
-    def __init__(self, name, document_url, created_at, raw_lines=None):
+    def __init__(self, name, document_url, created_at, raw_lines=None, lines=None):
         """
         Class representing an Emergency Appeal document, e.g. a final report.
 
@@ -172,6 +172,7 @@ class AppealDocument:
         self.document_url = document_url
         self.created_at = created_at
         self.raw_lines_input = raw_lines
+        self.lines_input = lines
 
     @cached_property
     def raw_lines(self):
@@ -257,6 +258,9 @@ class AppealDocument:
         """
         Process the raw lines to get the document content.
         """
+        if self.lines_input is not None:
+            return Lines(self.lines_input)
+
         if self.raw_lines is None:
             return None
 

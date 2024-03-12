@@ -1,3 +1,6 @@
+"""
+Read in all validated results files for MDR codes, and save the raw and processed lines to speed up testing.
+"""
 import os
 import argparse
 from ea_parsing.appeal_document import Appeal
@@ -27,18 +30,26 @@ for file in files:
     appeal = Appeal(mdr_code=mdr_code)
     final_report = appeal.final_report
 
-    # Extract the lines from the PDF documents and save
-    document_lines_path = os.path.join(TESTS_DIR, 'raw_lines', f'{mdr_code}.csv')
-
-    # Check whether to overwrite
+    # Raw lines: check whether to overwrite, and save
     save_results = None
-    if os.path.isfile(document_lines_path):
+    raw_lines_path = os.path.join(TESTS_DIR, 'raw_lines', f'{mdr_code}.csv')
+    if os.path.isfile(raw_lines_path):
         if (not args.overwrite) and (not args.no_overwrite):
             while True:
                 save_results = input(f'\nOverwrite file {mdr_code}.csv? (y/n) ')
                 if save_results in ['y', 'n']:
                     break
+    if (save_results == 'y') or args.overwrite or not os.path.isfile(raw_lines_path):
+        final_report.raw_lines.to_csv(raw_lines_path, index=True)
 
-    # Save the final report lines
-    if save_results == 'y' or args.overwrite or not os.path.isfile(document_lines_path):
-        final_report.raw_lines.to_csv(document_lines_path, index=True)
+    # Processed lines: check whether to overwrite, and save
+    save_results = None
+    raw_lines_path = os.path.join(TESTS_DIR, 'processed_lines', f'{mdr_code}.csv')
+    if os.path.isfile(raw_lines_path):
+        if (not args.overwrite) and (not args.no_overwrite):
+            while True:
+                save_results = input(f'\nOverwrite file {mdr_code}.csv? (y/n) ')
+                if save_results in ['y', 'n']:
+                    break
+    if (save_results == 'y') or args.overwrite or not os.path.isfile(raw_lines_path):
+        final_report.lines.to_csv(raw_lines_path, index=True)

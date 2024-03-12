@@ -57,10 +57,20 @@ class TestResults(unittest.TestCase):
                 appeal = Appeal(mdr_code=mdr_code)
                 final_report = appeal.final_report
 
-                # Read in the document lines
-                document_lines_path = os.path.join(self.TESTS_DIR, 'raw_lines', f'{mdr_code}.csv')
-                if os.path.isfile(document_lines_path):
-                    final_report.raw_lines_input = pd.read_csv(document_lines_path, index_col=0)
+                # Read in the document lines: raw and processed
+                raw_lines_path = os.path.join(self.TESTS_DIR, 'raw_lines', f'{mdr_code}.csv')
+                if os.path.isfile(raw_lines_path):
+                    final_report.raw_lines_input = pd.read_csv(raw_lines_path, index_col=0)
+                else:
+                    if final_report.raw_lines is not None:
+                        final_report.raw_lines.to_csv(raw_lines_path)
+
+                processed_lines_path = os.path.join(self.TESTS_DIR, 'processed_lines', f'{mdr_code}.csv')
+                if os.path.isfile(processed_lines_path):
+                    final_report.lines_input = pd.read_csv(processed_lines_path, index_col=0)
+                else:
+                    if final_report.lines is not None:
+                        final_report.lines.to_csv(processed_lines_path)
 
                 # Get results
                 if type_ == 'lessons_learned':
