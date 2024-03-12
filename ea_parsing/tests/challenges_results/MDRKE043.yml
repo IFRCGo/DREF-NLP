@@ -1,0 +1,267 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 8
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 6994.559875488281
+    idx: 514
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 435
+  sector_similarity_score: 1.0
+  content:
+  - index: 515
+    text: 'Delay in the procurement of NFIs attributed to the unintended effects of
+      using cash programming. Because KRCS '
+    text_base: delay in the procurement of nfis attributed to the unintended effects
+      of using cash programming because krcs
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 8
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 7011.35986328125
+  - index: 516
+    text: 'had been responding to disasters through cash, none of the local providers
+      had readily available stocks for delivery '
+    text_base: had been responding to disasters through cash none of the local providers
+      had readily available stocks for delivery
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 8
+    block_number: 8
+    line_number: 1
+    span_number: 0
+    total_y: 7022.879821777344
+  - index: 517
+    text: 'to KRCS. Most of the items were sourced internationally. This resulted
+      in delays during the procurement process '
+    text_base: to krcs most of the items were sourced internationally this resulted
+      in delays during the procurement process
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 8
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 7034.403564453125
+  - index: 518
+    text: 'that delayed delivery of NFIs in some cases. This was however addressed
+      through support from UNICEF who had '
+    text_base: that delayed delivery of nfis in some cases this was however addressed
+      through support from unicef who had
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 8
+    block_number: 8
+    line_number: 3
+    span_number: 0
+    total_y: 7045.8077392578125
+  - index: 519
+    text: 'prepositioned family kits in parts of the country in readiness for floods. '
+    text_base: prepositioned family kits in parts of the country in readiness for
+      floods
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 8
+    block_number: 8
+    line_number: 4
+    span_number: 0
+    total_y: 7057.31982421875
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 9
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 8089.679870605469
+    idx: 617
+  sector_title: Livelihoods
+  sector_idx: 533
+  sector_similarity_score: 1.0
+  content:
+  - index: 618
+    text: 'Continued rains during to the interventions slowed the progress of the
+      intervention. '
+    text_base: continued rains during to the interventions slowed the progress of
+      the intervention
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 9
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 8106.479797363281
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    page_number: 12
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 10421.399780273438
+    idx: 878
+  sector_title: Health and Care
+  sector_idx: 621
+  sector_similarity_score: 1.0
+  content:
+  - index: 879
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    page_number: 12
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 10438.799774169922
+  - index: 880
+    text: 'Continued rainfall during the initial stages of the intervention led to
+      inaccessibility of some of the areas of '
+    text_base: continued rainfall during the initial stages of the intervention led
+      to inaccessibility of some of the areas of
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 12
+    block_number: 16
+    line_number: 0
+    span_number: 1
+    total_y: 10438.799774169922
+  - index: 881
+    text: health interventions.
+    text_base: health interventions
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 12
+    block_number: 16
+    line_number: 2
+    span_number: 0
+    total_y: 10450.319763183594
+  - index: 882
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    page_number: 12
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 10462.559783935549
+  - index: 883
+    text: 'Disease outbreaks increased as opposed to the projections of the intervention. '
+    text_base: disease outbreaks increased as opposed to the projections of the intervention
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 12
+    block_number: 17
+    line_number: 0
+    span_number: 1
+    total_y: 10462.559783935549
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 13
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 11594.279724121094
+    idx: 987
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 888
+  sector_similarity_score: 1.0
+  content:
+  - index: 988
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    page_number: 13
+    block_number: 20
+    line_number: 0
+    span_number: 0
+    total_y: 11611.799743652344
+  - index: 989
+    text: 'Inaccessibility of the affected areas due to continued rains in the initial
+      stages of the intervention. '
+    text_base: inaccessibility of the affected areas due to continued rains in the
+      initial stages of the intervention
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 13
+    block_number: 20
+    line_number: 0
+    span_number: 1
+    total_y: 11611.799743652344
+  - index: 990
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    page_number: 13
+    block_number: 21
+    line_number: 0
+    span_number: 0
+    total_y: 11623.919738769531
+  - index: 991
+    text: 'Delays in procurement of the WASH items. '
+    text_base: delays in procurement of the wash items
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 13
+    block_number: 21
+    line_number: 0
+    span_number: 1
+    total_y: 11623.919738769531
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    page_number: 15
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 13322.879699707031
+    idx: 1129
+  sector_title: National Society Strengthening
+  sector_idx: 1040
+  sector_similarity_score: 1.0
+  content:
+  - index: 1130
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    page_number: 15
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 13340.39971923828
+  - index: 1131
+    text: 'There is slow response by other departments in KRCS to embrace CEA. '
+    text_base: there is slow response by other departments in krcs to embrace cea
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 15
+    block_number: 13
+    line_number: 0
+    span_number: 1
+    total_y: 13340.39971923828
+  - index: 1132
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    page_number: 15
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 13352.639709472656
+  - index: 1133
+    text: 'High turnover, affects the retainability of the CEA knowledge thus need
+      for more trainings across the KRCS '
+    text_base: high turnover affects the retainability of the cea knowledge thus need
+      for more trainings across the krcs
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 15
+    block_number: 14
+    line_number: 0
+    span_number: 1
+    total_y: 13352.639709472656
+  - index: 1134
+    text: 'branches. '
+    text_base: branches
+    style: 'arialmt, 20, #000000, nan'
+    page_number: 15
+    block_number: 14
+    line_number: 2
+    span_number: 0
+    total_y: 13364.03973388672

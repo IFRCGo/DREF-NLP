@@ -14,27 +14,27 @@ class ChallengesLessonsLearnedExtractor:
         Only works for "Challenges" or "Lessons Learned".
         """
         # Check that section_type is "challenges" or "lessons_learned"
-        section_type = str(section_type).lower().strip()
+        self.section_type = str(section_type).lower().strip()
         if section_type not in ['challenges', 'lessons_learned']:
             raise ValueError("'section_type' must be 'challenges' or 'lessons_learned'")
 
-        self.title_texts = self.get_title_texts(section_type=section_type)
-
-    def get_title_texts(self, section_type):
+    @cached_property
+    def title_texts(self):
         """
         Get the title texts, including abbreviations.
         """
         # Get title definitions and abbreviations
         section_titles_details = ea_parsing.definitions.LESSONS_LEARNED_TITLES
-        section_titles = section_titles_details.get(f'{section_type}_titles')
 
         # Get all possible title variations, considering abbreviations
-        title_texts = []
-        for title in section_titles:
-            title_texts += generate_sentence_variations(
-                sentence=title,
-                abbreviations=section_titles_details['abbreviations']
-            )
+        title_texts = {'lessons_learned': [], 'challenges': []}
+        for section_type in title_texts:
+            section_titles = section_titles_details.get(f'{section_type}_titles')
+            for title in section_titles:
+                title_texts[section_type] += generate_sentence_variations(
+                    sentence=title,
+                    abbreviations=section_titles_details['abbreviations']
+                )
 
         return title_texts
 
@@ -44,7 +44,7 @@ class ChallengesLessonsLearnedExtractor:
         Get section titles
         """
         section_titles = self.document.titles.loc[
-            self.document.titles['text_base'].isin(self.title_texts)
+            self.document.titles['text_base'].isin(self.title_texts[self.section_type])
         ]
         return section_titles
 
@@ -380,6 +380,21 @@ class ChallengesLessonsLearnedExtractor:
         if not next_section.empty:
             next_section_y = next_section.sort_values(by=['total_y'], ascending=True).iloc[0]['total_y']
             section_lines = section_lines.loc[section_lines['total_y'] < next_section_y]
+
+        # Section must end before the next "Lessons Learned" or "Challenges" section
+        lessons_learned_challenges_titles = self.document.titles.loc[
+            self.document.titles['text_base'].isin(
+                self.title_texts['lessons_learned'] +
+                self.title_texts['challenges']
+            )
+        ]
+        lessons_learned_challenges_titles_after_section = lessons_learned_challenges_titles.drop(title.name).loc[
+            lessons_learned_challenges_titles['total_y'] > title['total_y']
+        ]
+        if not lessons_learned_challenges_titles_after_section.empty:
+            section_lines = section_lines.loc[
+                section_lines['total_y'] < lessons_learned_challenges_titles_after_section['total_y'].min()
+            ]
 
         # Section must end before the next sector_title
         if self.sectors_sections_map:
