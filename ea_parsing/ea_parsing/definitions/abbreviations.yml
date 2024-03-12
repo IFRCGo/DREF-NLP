@@ -22,3 +22,6 @@ distributions:
 
 insecurity:
   - security
+
+non food items:
+  - nfi
