@@ -1,0 +1,203 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'open sans,bold, 20, #000000, #f4f4f4'
+    page_number: 5
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 4129.4599609375
+    idx: 355
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 294
+  sector_similarity_score: 1.0
+  content:
+  - index: 356
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 5
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 4143.019958496094
+  - index: 357
+    text: 'The major challenge was on logistics as most of the roads had been destroyed. '
+    text_base: the major challenge was on logistics as most of the roads had been
+      destroyed
+    style: 'open sans, 20, #000000, #f4f4f4'
+    page_number: 5
+    block_number: 6
+    line_number: 1
+    span_number: 1
+    total_y: 4143.019958496094
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'open sans,bold, 20, #000000, #f4f4f4'
+    page_number: 6
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 4933.4599609375
+    idx: 427
+  sector_title: Livelihoods
+  sector_idx: 361
+  sector_similarity_score: 1.0
+  content:
+  - index: 428
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 6
+    block_number: 10
+    line_number: 1
+    span_number: 0
+    total_y: 4947.139953613281
+  - index: 429
+    text: 'The major challenge was on logistics as most of the roads had been destroyed. '
+    text_base: the major challenge was on logistics as most of the roads had been
+      destroyed
+    style: 'open sans, 20, #000000, #f4f4f4'
+    page_number: 6
+    block_number: 10
+    line_number: 1
+    span_number: 1
+    total_y: 4947.139953613281
+  - index: 430
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 6
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 4960.819946289063
+  - index: 431
+    text: 'Destruction of communication infrastructure made it difficult to implement
+      cash-based solutions. '
+    text_base: destruction of communication infrastructure made it difficult to implement
+      cash based solutions
+    style: 'open sans, 20, #000000, #f4f4f4'
+    page_number: 6
+    block_number: 10
+    line_number: 2
+    span_number: 1
+    total_y: 4960.819946289063
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'open sans,bold, 20, #000000, #f4f4f4'
+    page_number: 7
+    block_number: 18
+    line_number: 8
+    span_number: 0
+    total_y: 6025.029968261719
+    idx: 528
+  sector_title: Multi-Purpose Cash
+  sector_idx: 438
+  sector_similarity_score: 1.0
+  content:
+  - index: 529
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 7
+    block_number: 18
+    line_number: 9
+    span_number: 0
+    total_y: 6038.7099609375
+  - index: 530
+    text: 'There were connectivity challenges in some of the areas due to the destruction
+      of communication '
+    text_base: there were connectivity challenges in some of the areas due to the
+      destruction of communication
+    style: 'open sans, 20, #000000, #f4f4f4'
+    page_number: 7
+    block_number: 18
+    line_number: 9
+    span_number: 1
+    total_y: 6038.7099609375
+  - index: 531
+    text: 'infrastructure by the cyclone. '
+    text_base: infrastructure by the cyclone
+    style: 'open sans, 20, #000000, #f4f4f4'
+    page_number: 7
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 6052.269958496094
+  - index: 532
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 7
+    block_number: 20
+    line_number: 0
+    span_number: 0
+    total_y: 6065.949951171875
+  - index: 533
+    text: 'Identification particulars still pose a challenge as some of the community
+      members had no IDs because they '
+    text_base: identification particulars still pose a challenge as some of the community
+      members had no ids because they
+    style: 'open sans, 20, #000000, #f4f4f4'
+    page_number: 7
+    block_number: 20
+    line_number: 0
+    span_number: 1
+    total_y: 6065.949951171875
+  - index: 534
+    text: 'had been destroyed in the floods, or they had not been issued with one. '
+    text_base: had been destroyed in the floods or they had not been issued with one
+    style: 'open sans, 20, #000000, #f4f4f4'
+    page_number: 7
+    block_number: 21
+    line_number: 0
+    span_number: 0
+    total_y: 6079.509948730469
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'open sans,bold, 20, #000000, #f4f4f4'
+    page_number: 8
+    block_number: 23
+    line_number: 0
+    span_number: 0
+    total_y: 6916.779968261719
+    idx: 616
+  sector_title: Health and Care
+  sector_idx: 542
+  sector_similarity_score: 1.0
+  content:
+  - index: 617
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    page_number: 8
+    block_number: 23
+    line_number: 1
+    span_number: 0
+    total_y: 6930.4599609375
+  - index: 618
+    text: 'The health needs for the affected populations were very high leading to
+      high demand against supply. The '
+    text_base: the health needs for the affected populations were very high leading
+      to high demand against supply the
+    style: 'open sans, 20, #000000, #f4f4f4'
+    page_number: 8
+    block_number: 23
+    line_number: 1
+    span_number: 1
+    total_y: 6930.4599609375
+  - index: 619
+    text: 'deficit created made distribution processes very difficult as several deserving
+      households were left out. '
+    text_base: deficit created made distribution processes very difficult as several
+      deserving households were left out
+    style: 'open sans, 20, #000000, #f4f4f4'
+    page_number: 8
+    block_number: 24
+    line_number: 0
+    span_number: 0
+    total_y: 6944.019958496094
