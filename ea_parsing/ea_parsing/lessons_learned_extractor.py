@@ -44,7 +44,10 @@ class ChallengesLessonsLearnedExtractor:
         Get section titles
         """
         section_titles = self.document.titles.loc[
-            self.document.titles['text_base'].isin(self.title_texts[self.section_type])
+            self.document.titles['text_base']
+                .str.replace(r'[^A-Za-z ]+', ' ', regex=True)
+                .str.strip()
+                .isin(self.title_texts[self.section_type])
         ]
         return section_titles
 
@@ -383,10 +386,13 @@ class ChallengesLessonsLearnedExtractor:
 
         # Section must end before the next "Lessons Learned" or "Challenges" section
         lessons_learned_challenges_titles = self.document.titles.loc[
-            self.document.titles['text_base'].isin(
-                self.title_texts['lessons_learned'] +
-                self.title_texts['challenges']
-            )
+            self.document.titles['text_base']
+                .str.replace(r'[^A-Za-z ]+', ' ', regex=True)
+                .str.strip()
+                .isin(
+                    self.title_texts['lessons_learned'] +
+                    self.title_texts['challenges']
+                )
         ]
         lessons_learned_challenges_titles_after_section = lessons_learned_challenges_titles.drop(title.name).loc[
             lessons_learned_challenges_titles['total_y'] > title['total_y']
@@ -400,7 +406,9 @@ class ChallengesLessonsLearnedExtractor:
         if self.sectors_sections_map:
 
             # Get all sector titles with the same styles as the section sector titles
-            section_sector_styles = self.document.lines.loc[self.sectors_sections_map.keys(), 'style'].unique()
+            section_sector_styles = self.document.lines.loc[
+                self.sectors_sections_map.keys(), 'style'
+            ].unique()
             all_sector_titles = self.document.sector_titles.loc[
                 self.document.sector_titles['style'].isin(
                     [
