@@ -91,11 +91,13 @@ class ChallengesLessonsLearnedExtractor:
                 'text',
                 'text_base',
                 'style',
+                'size',
                 'page_number',
                 'block_number',
                 'line_number',
                 'span_number',
-                'total_y'
+                'total_y',
+                'origin_x'
             ]
             section_title = self.section_titles.loc[idx]
             title_details = section_title[select_columns].to_dict()

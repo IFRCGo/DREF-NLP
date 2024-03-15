@@ -495,10 +495,15 @@ class AppealDocument:
         if self.lines is None:
             return None
 
+        # Extrac the lessons learned lines
         extractor = ChallengesLessonsLearnedExtractor(section_type='lessons_learned')
         lessons_learned = extractor.get_sections(
             document=self
         )
+
+        # Process the lines into text
+        for section in lessons_learned:
+            section['items'] = Lines(section['content']).set_index('index').to_items()
 
         return lessons_learned
 
@@ -510,9 +515,14 @@ class AppealDocument:
         if self.lines is None:
             return None
 
+        # Extrac the challenges lines
         extractor = ChallengesLessonsLearnedExtractor(section_type='challenges')
         challenges = extractor.get_sections(
             document=self
         )
+
+        # Process the lines into text
+        for section in challenges:
+            section['items'] = Lines(section['content']).set_index('index').to_items()
 
         return challenges
