@@ -1,0 +1,382 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 11
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 9271.320007324219
+    idx: 595
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 535
+  sector_similarity_score: 1.0
+  content:
+  - index: 596
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 9284.039978027344
+  - index: 597
+    text: 'Security challenges at the border between Oromia and Somali regions of
+      Babile woreda jeopardized the operation '
+    text_base: security challenges at the border between oromia and somali regions
+      of babile woreda jeopardized the operation
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 9284.039978027344
+  - index: 598
+    text: 'for two months as the NS could not implement activities due to access issues. '
+    text_base: for two months as the ns could not implement activities due to access
+      issues
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 9301.200012207031
+  - index: 599
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 9319.200012207031
+  - index: 600
+    text: 'Delays from local authorities approving rehabilitation work on the ponds.  '
+    text_base: delays from local authorities approving rehabilitation work on the
+      ponds
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 9319.200012207031
+  - index: 601
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 9337.078186035156
+  - index: 602
+    text: 'High turnover of government higher officials, especially of conflict induced
+      areas of Somali & Oromia region created '
+    text_base: high turnover of government higher officials especially of conflict
+      induced areas of somali oromia region created
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 9337.078186035156
+  - index: 603
+    text: 'a communication gap '
+    text_base: a communication gap
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 9354.358764648438
+  - index: 604
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 9372.236999511719
+  - index: 605
+    text: 'Revision of the operational plan in conducting water tracking created dissatisfaction
+      among the community ( E.g. '
+    text_base: revision of the operational plan in conducting water tracking created
+      dissatisfaction among the community e g
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 9
+    line_number: 0
+    span_number: 1
+    total_y: 9372.236999511719
+  - index: 606
+    text: 'Afar, Kuri district) '
+    text_base: afar kuri district
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 9389.517578125
+  - index: 607
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 9407.400024414062
+  - index: 608
+    text: 'Delay in budget transfer and budget settlement from the concerned bodies
+      affected the performance of the '
+    text_base: delay in budget transfer and budget settlement from the concerned bodies
+      affected the performance of the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 11
+    line_number: 0
+    span_number: 1
+    total_y: 9407.400024414062
+  - index: 609
+    text: 'implementation '
+    text_base: implementation
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 9424.679992675781
+  - index: 610
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 11
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 9442.559997558594
+  - index: 611
+    text: "Contractor\u2019s late start of construction of the pond affected the branches\
+      \  "
+    text_base: contractor s late start of construction of the pond affected the branches
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 13
+    line_number: 0
+    span_number: 1
+    total_y: 9442.559997558594
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'bold, 20, #000000, #edebe0'
+    page_number: 13
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 10710.0
+    idx: 753
+  sector_title: Food insecurity and nutrition
+  sector_idx: 671
+  sector_similarity_score: 1.0
+  content:
+  - index: 754
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 13
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 10722.720001220703
+  - index: 755
+    text: "Short term provision of the nutrition assistance \u2013 two rounds cannot\
+      \ guarantee the malnourished under five children "
+    text_base: short term provision of the nutrition assistance two rounds cannot
+      guarantee the malnourished under five children
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 10722.720001220703
+  - index: 756
+    text: 'and Pregnant and lactating women was not sufficient to address malnutrition  '
+    text_base: and pregnant and lactating women was not sufficient to address malnutrition
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 10740.0
+  - index: 757
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 13
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 10758.0
+  - index: 758
+    text: 'The nutrition assistance package that ERCS provided was slightly different
+      from other agencies as it did not have '
+    text_base: the nutrition assistance package that ercs provided was slightly different
+      from other agencies as it did not have
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 10758.0
+  - index: 759
+    text: 'milk/milk products  '
+    text_base: milk milk products
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 10775.161071777344
+  - index: 760
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 13
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 10793.158782958984
+  - index: 761
+    text: 'Due to competing priorities and commitments related to the operation the
+      NS could not conduct all planned post '
+    text_base: due to competing priorities and commitments related to the operation
+      the ns could not conduct all planned post
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 9
+    line_number: 0
+    span_number: 1
+    total_y: 10793.158782958984
+  - index: 762
+    text: 'distribution monitoring '
+    text_base: distribution monitoring
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 10810.31982421875
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    page_number: 14
+    block_number: 27
+    line_number: 12
+    span_number: 0
+    total_y: 11766.239990234375
+    idx: 857
+  sector_title: Health and Care
+  sector_idx: 781
+  sector_similarity_score: 1.0
+  content:
+  - index: 858
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 14
+    block_number: 28
+    line_number: 0
+    span_number: 0
+    total_y: 11778.47998046875
+  - index: 859
+    text: 'Serious security problems at Babile woreda of Oromia and Somali regions  '
+    text_base: serious security problems at babile woreda of oromia and somali regions
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 28
+    line_number: 0
+    span_number: 1
+    total_y: 11778.47998046875
+  - index: 860
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 14
+    block_number: 29
+    line_number: 0
+    span_number: 0
+    total_y: 11790.601318359375
+  - index: 861
+    text: 'Delay of funds  transfer from IFRC to ERCS jeopardized the operation not
+      to execute the activities as per the EPOA '
+    text_base: delay of funds transfer from ifrc to ercs jeopardized the operation
+      not to execute the activities as per the epoa
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 29
+    line_number: 0
+    span_number: 1
+    total_y: 11790.601318359375
+  - index: 862
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 14
+    block_number: 30
+    line_number: 0
+    span_number: 0
+    total_y: 11802.719970703125
+  - index: 863
+    text: 'Absence of CBHFA & PHAST TOT trained professionals in the respective implementing
+      districts, the training was '
+    text_base: absence of cbhfa phast tot trained professionals in the respective
+      implementing districts the training was
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 30
+    line_number: 0
+    span_number: 1
+    total_y: 11802.719970703125
+  - index: 864
+    text: 'delayed for 4 months '
+    text_base: delayed for 4 months
+    style: 'arialmt, 20, #000000, None'
+    page_number: 14
+    block_number: 30
+    line_number: 2
+    span_number: 0
+    total_y: 11814.239990234375
+  - index: 868
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 15
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 11937.719970703125
+  - index: 869
+    text: 'Due to work burden in the implementing districts, the follow up and feedback
+      system for the trained CBHFA & '
+    text_base: due to work burden in the implementing districts the follow up and
+      feedback system for the trained cbhfa
+    style: 'arialmt, 20, #000000, None'
+    page_number: 15
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 11937.719970703125
+  - index: 870
+    text: 'PHAST volunteers were not adequate to improve the health status of the
+      community as per the expected '
+    text_base: phast volunteers were not adequate to improve the health status of
+      the community as per the expected
+    style: 'arialmt, 20, #000000, None'
+    page_number: 15
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 11949.119995117188

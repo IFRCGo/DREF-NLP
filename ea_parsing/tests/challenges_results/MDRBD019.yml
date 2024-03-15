@@ -1,0 +1,536 @@
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 6
+    block_number: 7
+    line_number: 1
+    span_number: 0
+    total_y: 5394.3399658203125
+    idx: 371
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 316
+  sector_similarity_score: 1.0
+  content:
+  - index: 372
+    text: 'Due to limited funds, not all targeted HHs/people were possible to be reached.
+      BDRCS faced difficulties while selecting '
+    text_base: due to limited funds not all targeted hhs people were possible to be
+      reached bdrcs faced difficulties while selecting
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 7
+    line_number: 3
+    span_number: 0
+    total_y: 5418.820007324219
+  - index: 374
+    text: 'contractors to install and to repair the tube-wells through local tendering,
+      as it was hard to find suitable suppliers who can '
+    text_base: contractors to install and to repair the tube wells through local tendering
+      as it was hard to find suitable suppliers who can
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 7
+    line_number: 4
+    span_number: 0
+    total_y: 5430.219970703125
+  - index: 375
+    text: 'fulfil all the tender requirement locally. As a result, respective BDRCS
+      branches were unable to implement these activities '
+    text_base: fulfil all the tender requirement locally as a result respective bdrcs
+      branches were unable to implement these activities
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 7
+    line_number: 5
+    span_number: 0
+    total_y: 5441.739990234375
+  - index: 376
+    text: 'in time. However, with the technical guidance of DPHE, respective branches
+      were finally able to complete installation and '
+    text_base: in time however with the technical guidance of dphe respective branches
+      were finally able to complete installation and
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 7
+    line_number: 6
+    span_number: 0
+    total_y: 5453.2559814453125
+  - index: 377
+    text: 'repair of tube-wells and ring-wells.  '
+    text_base: repair of tube wells and ring wells
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 7
+    line_number: 7
+    span_number: 0
+    total_y: 5464.7760009765625
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 8
+    block_number: 2
+    line_number: 11
+    span_number: 0
+    total_y: 6510.5
+    idx: 430
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 382
+  sector_similarity_score: 1.0
+  content:
+  - index: 431
+    text: 'Due to limited funds, not all targeted HHs/people were possible to be reached.
+      On the other hand, the whole procurement '
+    text_base: due to limited funds not all targeted hhs people were possible to be
+      reached on the other hand the whole procurement
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 13
+    span_number: 0
+    total_y: 6534.97998046875
+  - index: 432
+    text: 'process of CGI sheets took more than two months and as a result, the distribution
+      was delayed. Similarly, BDRCS local '
+    text_base: process of cgi sheets took more than two months and as a result the
+      distribution was delayed similarly bdrcs local
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 14
+    span_number: 0
+    total_y: 6546.5
+  - index: 433
+    text: 'branches experienced difficulties to stock large number of CGIs due to
+      lack of proper storage facilities. However, the '
+    text_base: branches experienced difficulties to stock large number of cgis due
+      to lack of proper storage facilities however the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 15
+    span_number: 0
+    total_y: 6557.9000244140625
+  - index: 434
+    text: 'increased technical specifications for CGI led to delays in procurement
+      linked to quality control, but the benefits '
+    text_base: increased technical specifications for cgi led to delays in procurement
+      linked to quality control but the benefits
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 16
+    span_number: 0
+    total_y: 6569.419982910156
+  - index: 435
+    text: 'outweighed the delays. '
+    text_base: outweighed the delays
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 17
+    span_number: 0
+    total_y: 6580.940002441406
+  - index: 436
+    text: 'IFRC also experienced difficulties to transfer funds in timely manner due
+      to long financial procedure. Later, both BDRCS '
+    text_base: ifrc also experienced difficulties to transfer funds in timely manner
+      due to long financial procedure later both bdrcs
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 19
+    span_number: 0
+    total_y: 6604.010009765625
+  - index: 437
+    text: 'and IFRC coordinated with respective financial service providers to minimise
+      the delay in fund transfer. '
+    text_base: and ifrc coordinated with respective financial service providers to
+      minimise the delay in fund transfer
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 20
+    span_number: 0
+    total_y: 6615.530029296875
+  - index: 438
+    text: 'During the post distribution monitoring, it was recommended by community
+      people to exclude some of the items of shelter '
+    text_base: during the post distribution monitoring it was recommended by community
+      people to exclude some of the items of shelter
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 22
+    span_number: 0
+    total_y: 6638.450012207031
+  - index: 439
+    text: 'toolkits like hoe and shovel. As a result, IFRC Bangladesh country office
+      requested IFRC APRO to procure customized '
+    text_base: toolkits like hoe and shovel as a result ifrc bangladesh country office
+      requested ifrc apro to procure customized
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 23
+    span_number: 0
+    total_y: 6649.970001220703
+  - index: 440
+    text: 'shelter toolkits considering the context of Bangladesh. Due to the customized
+      specification, IFRC APRO logistic unit '
+    text_base: shelter toolkits considering the context of bangladesh due to the customized
+      specification ifrc apro logistic unit
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 24
+    span_number: 0
+    total_y: 6661.489990234375
+  - index: 441
+    text: 'could not mobilize IFRC standard shelter toolkits from their existing prepositioned
+      stocks. IFRC APRO logistic unit '
+    text_base: could not mobilize ifrc standard shelter toolkits from their existing
+      prepositioned stocks ifrc apro logistic unit
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 25
+    span_number: 0
+    total_y: 6673.010009765625
+  - index: 442
+    text: 'received these customized shelter toolkits once the supplier produced the
+      same with revised requirement. As a result, '
+    text_base: received these customized shelter toolkits once the supplier produced
+      the same with revised requirement as a result
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 26
+    span_number: 0
+    total_y: 6684.410003662109
+  - index: 443
+    text: 'the replenishment of shelter toolkits took longer time than expected. '
+    text_base: the replenishment of shelter toolkits took longer time than expected
+    style: 'arialmt, 20, #000000, None'
+    page_number: 8
+    block_number: 2
+    line_number: 27
+    span_number: 0
+    total_y: 6695.929992675781
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 9
+    block_number: 16
+    line_number: 1
+    span_number: 0
+    total_y: 7814.260009765625
+    idx: 512
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 395
+  sector_similarity_score: 1.0
+  content:
+  - index: 513
+    text: 'Low funding coverage was one of the major challenges to continue the shelter
+      cluster coordination team. On the other '
+    text_base: low funding coverage was one of the major challenges to continue the
+      shelter cluster coordination team on the other
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 16
+    line_number: 3
+    span_number: 0
+    total_y: 7838.736022949219
+  - index: 514
+    text: 'hand, there were only few implementing partners who contributed to reach
+      target of shelter cluster.   '
+    text_base: hand there were only few implementing partners who contributed to reach
+      target of shelter cluster
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 16
+    line_number: 4
+    span_number: 0
+    total_y: 7850.2559814453125
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 11
+    block_number: 2
+    line_number: 8
+    span_number: 0
+    total_y: 8851.940002441406
+    idx: 586
+  sector_title: Food insecurity and nutrition
+  sector_idx: 518
+  sector_similarity_score: 1.0
+  content:
+  - index: 587
+    text: 'During the emergency period, BDRCS respective branches faced difficulties
+      to procure food items as the markets were '
+    text_base: during the emergency period bdrcs respective branches faced difficulties
+      to procure food items as the markets were
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 2
+    line_number: 10
+    span_number: 0
+    total_y: 8876.419982910156
+  - index: 588
+    text: 'not fully functioning. In addition, according to BDRCS procurement policy,
+      payment should be made through bank cheque. '
+    text_base: not fully functioning in addition according to bdrcs procurement policy
+      payment should be made through bank cheque
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 2
+    line_number: 11
+    span_number: 0
+    total_y: 8887.940002441406
+  - index: 589
+    text: 'Respective BDRCS branches faced difficulties with suppliers to get them
+      agree with BDRCS procurement policy as the '
+    text_base: respective bdrcs branches faced difficulties with suppliers to get
+      them agree with bdrcs procurement policy as the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 2
+    line_number: 12
+    span_number: 0
+    total_y: 8899.460021972656
+  - index: 590
+    text: 'suppliers preferred cash instead of bank cheque during the emergency phase.
+      However, following several discussion '
+    text_base: suppliers preferred cash instead of bank cheque during the emergency
+      phase however following several discussion
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 2
+    line_number: 13
+    span_number: 0
+    total_y: 8910.97998046875
+  - index: 591
+    text: 'BDRCS branches managed to make the suppliers understand about the policy
+      of BDRCS and suppliers finally agreed. '
+    text_base: bdrcs branches managed to make the suppliers understand about the policy
+      of bdrcs and suppliers finally agreed
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 2
+    line_number: 14
+    span_number: 0
+    total_y: 8922.5
+  - index: 592
+    text: 'In early stages of operation, it was also difficult to access the communities
+      as the road communication was blocked due '
+    text_base: in early stages of operation it was also difficult to access the communities
+      as the road communication was blocked due
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 2
+    line_number: 15
+    span_number: 0
+    total_y: 8933.900024414062
+  - index: 593
+    text: 'to the landslides. '
+    text_base: to the landslides
+    style: 'arialmt, 20, #000000, None'
+    page_number: 11
+    block_number: 2
+    line_number: 16
+    span_number: 0
+    total_y: 8945.419982910156
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 12
+    block_number: 2
+    line_number: 26
+    span_number: 0
+    total_y: 9850.970001220703
+    idx: 640
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 598
+  sector_similarity_score: 1.0
+  content:
+  - index: 641
+    text: 'It was a challenging task to complete the feasibility assessment and get
+      approval from concerned authorities. For this '
+    text_base: it was a challenging task to complete the feasibility assessment and
+      get approval from concerned authorities for this
+    style: 'arialmt, 20, #000000, None'
+    page_number: 12
+    block_number: 2
+    line_number: 28
+    span_number: 0
+    total_y: 9875.450012207031
+  - index: 642
+    text: 'reason, BDRCS organized community consultation and consulted with technical
+      persons as well as respective '
+    text_base: reason bdrcs organized community consultation and consulted with technical
+      persons as well as respective
+    style: 'arialmt, 20, #000000, None'
+    page_number: 12
+    block_number: 2
+    line_number: 29
+    span_number: 0
+    total_y: 9886.970001220703
+  - index: 643
+    text: 'government officials. After approval obtained from the local government
+      and technical persons, the community '
+    text_base: government officials after approval obtained from the local government
+      and technical persons the community
+    style: 'arialmt, 20, #000000, None'
+    page_number: 12
+    block_number: 2
+    line_number: 30
+    span_number: 0
+    total_y: 9898.489990234375
+  - index: 644
+    text: 'implemented the DRR activities. '
+    text_base: implemented the drr activities
+    style: 'arialmt, 20, #000000, None'
+    page_number: 12
+    block_number: 2
+    line_number: 31
+    span_number: 0
+    total_y: 9910.010009765625
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 13
+    block_number: 10
+    line_number: 21
+    span_number: 0
+    total_y: 10782.670013427734
+    idx: 700
+  sector_title: National Society Strengthening
+  sector_idx: 651
+  sector_similarity_score: 1.0
+  content:
+  - index: 701
+    text: 'Due to low funding coverage, 5,000 blankets planned as contingency stock,
+      were not procured within the appeal time '
+    text_base: due to low funding coverage 5 000 blankets planned as contingency stock
+      were not procured within the appeal time
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 23
+    span_number: 0
+    total_y: 10807.149993896484
+  - index: 702
+    text: 'frame. '
+    text_base: frame
+    style: 'arialmt, 20, #000000, None'
+    page_number: 13
+    block_number: 10
+    line_number: 24
+    span_number: 0
+    total_y: 10818.670043945312
+  - index: 703
+    text: '.  '
+    text_base: ''
+    style: 'arialmt, 20, #000000, #edebe0'
+    page_number: 13
+    block_number: 10
+    line_number: 25
+    span_number: 0
+    total_y: 10830.190002441406
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 15
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 11927.52001953125
+    idx: 754
+  sector_title: Health and Care
+  sector_idx: 708
+  sector_similarity_score: 1.0
+  content:
+  - index: 755
+    text: 'While the CBHFA trainings were most appreciated by the community, nonetheless
+      there were recommendation received '
+    text_base: while the cbhfa trainings were most appreciated by the community nonetheless
+      there were recommendation received
+    style: 'arialmt, 20, #000000, None'
+    page_number: 15
+    block_number: 2
+    line_number: 2
+    span_number: 0
+    total_y: 11951.880004882812
+  - index: 756
+    text: 'from the field to include reproductive health activities in future responses
+      for wider health service coverage. Also, there '
+    text_base: from the field to include reproductive health activities in future
+      responses for wider health service coverage also there
+    style: 'arialmt, 20, #000000, None'
+    page_number: 15
+    block_number: 2
+    line_number: 3
+    span_number: 0
+    total_y: 11963.400024414062
+  - index: 757
+    text: 'were further health needs in the communities, which was beyond the scope
+      of the operation. '
+    text_base: were further health needs in the communities which was beyond the scope
+      of the operation
+    style: 'arialmt, 20, #000000, None'
+    page_number: 15
+    block_number: 2
+    line_number: 4
+    span_number: 0
+    total_y: 11974.940002441406
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    page_number: 16
+    block_number: 2
+    line_number: 3
+    span_number: 0
+    total_y: 12754.440002441406
+    idx: 810
+  sector_title: Quality Programming
+  sector_idx: 763
+  sector_similarity_score: 1.0
+  content:
+  - index: 811
+    text: 'There was a lack of strong M&E capacity to support programming teams to
+      ensure quality of work for TC Mora operation, '
+    text_base: there was a lack of strong m e capacity to support programming teams
+      to ensure quality of work for tc mora operation
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 2
+    line_number: 5
+    span_number: 0
+    total_y: 12778.940002441406
+  - index: 812
+    text: 'especially with the two major disasters experienced during the implementation
+      of recovery activities, namely the flood '
+    text_base: especially with the two major disasters experienced during the implementation
+      of recovery activities namely the flood
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 2
+    line_number: 6
+    span_number: 0
+    total_y: 12790.460021972656
+  - index: 813
+    text: 'and population movement crisis. '
+    text_base: and population movement crisis
+    style: 'arialmt, 20, #000000, None'
+    page_number: 16
+    block_number: 2
+    line_number: 7
+    span_number: 0
+    total_y: 12801.97998046875

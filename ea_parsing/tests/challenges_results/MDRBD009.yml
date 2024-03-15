@@ -1,0 +1,383 @@
+- title:
+    text: 'Challenges:  '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 10
+    span_number: 0
+    total_y: 4531.599670410156
+    idx: 398
+  sector_title: Relief
+  sector_idx: 191
+  sector_similarity_score: 1.0
+  content:
+  - index: 399
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 11
+    span_number: 0
+    total_y: 4543.659729003906
+  - index: 400
+    text: "Beneficiary selection in the hilly areas of Cox\u2019s Bazar district was\
+      \ a challenge as many places "
+    text_base: beneficiary selection in the hilly areas of cox s bazar district was
+      a challenge as many places
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 11
+    span_number: 1
+    total_y: 4543.659729003906
+  - index: 401
+    text: 'were difficult to access. Due to these difficulties Red Crescent volunteers
+      took more time for '
+    text_base: were difficult to access due to these difficulties red crescent volunteers
+      took more time for
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 13
+    span_number: 0
+    total_y: 4555.179718017578
+  - index: 402
+    text: 'beneficiary selection. '
+    text_base: beneficiary selection
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 14
+    span_number: 0
+    total_y: 4566.69970703125
+  - index: 403
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 15
+    span_number: 0
+    total_y: 4578.8800048828125
+  - index: 404
+    text: 'Due to  Ramadan, Eid and the associated price hikes, the availability of
+      food items was '
+    text_base: due to ramadan eid and the associated price hikes the availability
+      of food items was
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 15
+    span_number: 1
+    total_y: 4578.8800048828125
+  - index: 405
+    text: 'limited in the local market; hence the local unit faced challenges to procure
+      materials in time. '
+    text_base: limited in the local market hence the local unit faced challenges to
+      procure materials in time
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 17
+    span_number: 0
+    total_y: 4590.339874267578
+  - index: 406
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 18
+    span_number: 0
+    total_y: 4602.52001953125
+  - index: 407
+    text: 'Continuous rain impeded the cooked food distribution programme. '
+    text_base: continuous rain impeded the cooked food distribution programme
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 18
+    span_number: 1
+    total_y: 4602.52001953125
+  - index: 408
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 20
+    span_number: 0
+    total_y: 4614.7003173828125
+  - index: 409
+    text: 'Distribution points were distant and the road systems were in poor repair,
+      creating difficulty to '
+    text_base: distribution points were distant and the road systems were in poor
+      repair creating difficulty to
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 20
+    span_number: 1
+    total_y: 4614.7003173828125
+  - index: 410
+    text: 'reach some of the beneficiaries. '
+    text_base: reach some of the beneficiaries
+    style: 'arialmt, 20, #000000, None'
+    page_number: 5
+    block_number: 11
+    line_number: 22
+    span_number: 0
+    total_y: 4626.220306396484
+- title:
+    text: 'Challenges:  '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    page_number: 6
+    block_number: 13
+    line_number: 1
+    span_number: 0
+    total_y: 5492.999694824219
+    idx: 518
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 474
+  sector_similarity_score: 1.0
+  content:
+  - index: 519
+    text: "In the second phase of the emergency shelter (tarpaulin) distribution in\
+      \ Cox\u2019s Bazar district, "
+    text_base: in the second phase of the emergency shelter tarpaulin distribution
+      in cox s bazar district
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 13
+    line_number: 2
+    span_number: 0
+    total_y: 5504.459564208984
+  - index: 520
+    text: 'volunteers made several visits to the affected communities to avoid duplication/overlapping
+      in '
+    text_base: volunteers made several visits to the affected communities to avoid
+      duplication overlapping in
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 13
+    line_number: 3
+    span_number: 0
+    total_y: 5515.979553222656
+  - index: 521
+    text: 'beneficiary selection. With the help of community people and leaders, volunteers
+      were able to trace '
+    text_base: beneficiary selection with the help of community people and leaders
+      volunteers were able to trace
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 13
+    line_number: 4
+    span_number: 0
+    total_y: 5527.439422607422
+  - index: 522
+    text: 'the beneficiaries previously supported with food and non-food items.  '
+    text_base: the beneficiaries previously supported with food and non food items
+    style: 'arialmt, 20, #000000, None'
+    page_number: 6
+    block_number: 13
+    line_number: 5
+    span_number: 0
+    total_y: 5538.959411621094
+- title:
+    text: 'Challenges:  '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    page_number: 9
+    block_number: 9
+    line_number: 7
+    span_number: 0
+    total_y: 7832.039733886719
+    idx: 780
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 523
+  sector_similarity_score: 1.0
+  content:
+  - index: 781
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 9
+    block_number: 9
+    line_number: 8
+    span_number: 0
+    total_y: 7844.159912109375
+  - index: 782
+    text: 'Due to crowded settlements and waterlogged surroundings, proper hygiene
+      practice was '
+    text_base: due to crowded settlements and waterlogged surroundings proper hygiene
+      practice was
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 9
+    line_number: 8
+    span_number: 1
+    total_y: 7844.159912109375
+  - index: 783
+    text: 'difficult to maintain, particularly for women. '
+    text_base: difficult to maintain particularly for women
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 9
+    line_number: 10
+    span_number: 0
+    total_y: 7855.619812011719
+  - index: 784
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 9
+    block_number: 9
+    line_number: 11
+    span_number: 0
+    total_y: 7867.800109863281
+  - index: 785
+    text: 'Women encountered major challenges in using latrines on the side of roads
+      due to lack of '
+    text_base: women encountered major challenges in using latrines on the side of
+      roads due to lack of
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 9
+    line_number: 11
+    span_number: 1
+    total_y: 7867.800109863281
+  - index: 786
+    text: 'access and privacy to sanitary conditions. '
+    text_base: access and privacy to sanitary conditions
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 9
+    line_number: 13
+    span_number: 0
+    total_y: 7879.320129394531
+  - index: 787
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 9
+    block_number: 9
+    line_number: 14
+    span_number: 0
+    total_y: 7891.500427246094
+  - index: 788
+    text: 'Storage of water at household level was another challenge due to lack of
+      pots and utensils. '
+    text_base: storage of water at household level was another challenge due to lack
+      of pots and utensils
+    style: 'arialmt, 20, #000000, None'
+    page_number: 9
+    block_number: 9
+    line_number: 14
+    span_number: 1
+    total_y: 7891.500427246094
+- title:
+    text: 'Challenges:  '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    page_number: 10
+    block_number: 1
+    line_number: 9
+    span_number: 0
+    total_y: 8604.799621582031
+    idx: 845
+  sector_title: Health and Care
+  sector_idx: 789
+  sector_similarity_score: 1.0
+  content:
+  - index: 846
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 10
+    block_number: 1
+    line_number: 10
+    span_number: 0
+    total_y: 8616.919799804688
+  - index: 847
+    text: 'Reaching remote locations is difficult due to disrupted road communication. '
+    text_base: reaching remote locations is difficult due to disrupted road communication
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 1
+    line_number: 10
+    span_number: 1
+    total_y: 8616.919799804688
+  - index: 848
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 10
+    block_number: 1
+    line_number: 12
+    span_number: 0
+    total_y: 8629.039978027344
+  - index: 849
+    text: 'Due to waterlogged condition, the rate of waterborne and skin disease were
+      higher in the '
+    text_base: due to waterlogged condition the rate of waterborne and skin disease
+      were higher in the
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 1
+    line_number: 12
+    span_number: 1
+    total_y: 8629.039978027344
+  - index: 850
+    text: 'initial stage. '
+    text_base: initial stage
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 1
+    line_number: 14
+    span_number: 0
+    total_y: 8640.559997558594
+  - index: 851
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    page_number: 10
+    block_number: 1
+    line_number: 15
+    span_number: 0
+    total_y: 8652.740295410156
+  - index: 852
+    text: 'The MCH centre in Satkhira was almost non-functional due to flood situation.
+      On a letter '
+    text_base: the mch centre in satkhira was almost non functional due to flood situation
+      on a letter
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 1
+    line_number: 15
+    span_number: 1
+    total_y: 8652.740295410156
+  - index: 853
+    text: 'stage the MCH centre was shifted in a near by building owned by the MCH
+      centre committe '
+    text_base: stage the mch centre was shifted in a near by building owned by the
+      mch centre committe
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 1
+    line_number: 17
+    span_number: 0
+    total_y: 8664.260314941406
+  - index: 854
+    text: 'member and the mobile medicale team was deployed in this place to support
+      the community. '
+    text_base: member and the mobile medicale team was deployed in this place to support
+      the community
+    style: 'arialmt, 20, #000000, None'
+    page_number: 10
+    block_number: 1
+    line_number: 18
+    span_number: 0
+    total_y: 8675.72021484375

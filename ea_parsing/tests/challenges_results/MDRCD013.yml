@@ -1,0 +1,170 @@
+- title:
+    text: 'Challenges  '
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, None'
+    page_number: 3
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 3212.6199340820312
+    idx: 321
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 138
+  sector_similarity_score: 1.0
+  content:
+  - index: 322
+    text: 'The rainy season and logistical difficulties made shelter construction
+      very difficult. Mud bricks could '
+    text_base: the rainy season and logistical difficulties made shelter construction
+      very difficult mud bricks could
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 3230.2599487304688
+  - index: 323
+    text: 'not dry on time, and material supply was done late. '
+    text_base: not dry on time and material supply was done late
+    style: 'arial, 20, #000000, None'
+    page_number: 3
+    block_number: 17
+    line_number: 1
+    span_number: 0
+    total_y: 3241.7799682617188
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, None'
+    page_number: 8
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 7280.3497314453125
+    idx: 839
+  sector_title: Logistics
+  sector_idx: 776
+  sector_similarity_score: 1.0
+  content:
+  - index: 840
+    text: 'Just like in the past, logistics remained a challenge in this region due
+      to limited paved roads, '
+    text_base: just like in the past logistics remained a challenge in this region
+      due to limited paved roads
+    style: 'arial, 20, #000000, None'
+    page_number: 8
+    block_number: 20
+    line_number: 0
+    span_number: 0
+    total_y: 7297.98974609375
+  - index: 841
+    text: 'making access very difficult, particularly during the rainy season. Many
+      areas where the refugees '
+    text_base: making access very difficult particularly during the rainy season many
+      areas where the refugees
+    style: 'arial, 20, #000000, None'
+    page_number: 8
+    block_number: 20
+    line_number: 1
+    span_number: 0
+    total_y: 7309.509765625
+  - index: 842
+    text: 'were based are mostly accessible by motorbike or pirogue. In addition,
+      the annual heavy rainy '
+    text_base: were based are mostly accessible by motorbike or pirogue in addition
+      the annual heavy rainy
+    style: 'arial, 20, #000000, None'
+    page_number: 8
+    block_number: 20
+    line_number: 2
+    span_number: 0
+    total_y: 7321.029724121094
+  - index: 843
+    text: 'season also made roads impassable and heightened travel delays, with the
+      possibility of '
+    text_base: season also made roads impassable and heightened travel delays with
+      the possibility of
+    style: 'arial, 20, #000000, None'
+    page_number: 8
+    block_number: 20
+    line_number: 3
+    span_number: 0
+    total_y: 7332.549743652344
+  - index: 844
+    text: 'experiencing a breakage in the commodity supply chain. This, therefore,
+      led to huge cost of '
+    text_base: experiencing a breakage in the commodity supply chain this therefore
+      led to huge cost of
+    style: 'arial, 20, #000000, None'
+    page_number: 8
+    block_number: 20
+    line_number: 4
+    span_number: 0
+    total_y: 7344.0697021484375
+  - index: 845
+    text: 'financial service charges, especially as money had to be remitted due to
+      lack of banking services in '
+    text_base: financial service charges especially as money had to be remitted due
+      to lack of banking services in
+    style: 'arial, 20, #000000, None'
+    page_number: 8
+    block_number: 20
+    line_number: 5
+    span_number: 0
+    total_y: 7355.4697265625
+  - index: 846
+    text: 'the operation zone and fluctuations in exchange rates between the US dollar
+      and Congolese franc. '
+    text_base: the operation zone and fluctuations in exchange rates between the us
+      dollar and congolese franc
+    style: 'arial, 20, #000000, None'
+    page_number: 8
+    block_number: 20
+    line_number: 6
+    span_number: 0
+    total_y: 7366.98974609375
+- title:
+    text: 'Challenges  '
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, None'
+    page_number: 9
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 8201.349670410156
+    idx: 937
+  sector_title: Communications
+  sector_idx: 847
+  sector_similarity_score: 1.0
+  content:
+  - index: 938
+    text: '        On a macro level, communications was difficult as there was poor
+      internet connectivity and difficulty   '
+    text_base: on a macro level communications was difficult as there was poor internet
+      connectivity and difficulty
+    style: 'arial, 20, #000000, None'
+    page_number: 9
+    block_number: 20
+    line_number: 1
+    span_number: 0
+    total_y: 8224.419677734375
+  - index: 939
+    text: 'using even the mobile phone out of Gbadolite. Even the satellite phone
+      could not be used often as it was '
+    text_base: using even the mobile phone out of gbadolite even the satellite phone
+      could not be used often as it was
+    style: 'arial, 20, #000000, None'
+    page_number: 9
+    block_number: 20
+    line_number: 2
+    span_number: 0
+    total_y: 8235.939697265625
+  - index: 940
+    text: 'very costly to operate. '
+    text_base: very costly to operate
+    style: 'arial, 20, #000000, None'
+    page_number: 9
+    block_number: 20
+    line_number: 3
+    span_number: 0
+    total_y: 8247.459655761719
