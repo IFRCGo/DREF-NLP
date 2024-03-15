@@ -1,5 +1,6 @@
 """
 """
+import re
 from functools import cached_property
 import pandas as pd
 from ea_parsing.utils import colour_diff, is_text_title
@@ -78,10 +79,40 @@ class Line(pd.Series):
 
         return False
 
+    def is_sentence_end(self):
+        """
+        Consider sentence end if ends with full stop, question mark, or exclamation mark.
+        """
+        sentence_enders = ['.', '?', '!']
+        text = str(self['text']).strip()
+        if text:
+            if text[-1] in sentence_enders:
+                return True
+
+        return False
+
+    def is_sentence_start(self):
+        """
+        Consider sentence start if the first letter is uppercase.
+        """
+        text_chars = re.sub(r'[^A-Za-z ]+', ' ', str(self['text'])).strip()
+        if text_chars:
+            if text_chars[0].isupper():
+                return True
+
+        return False
+
 
 class Lines(pd.DataFrame):
     def __init__(self, *args, **kwargs):
         super(Lines,  self).__init__(*args, **kwargs)
+
+        self.bullet_chars = [
+            '•', '●', '▪', '-',
+            u'\uf0b7', u'\u2023', u'\u2043', u'\u204C', u'\u204D', u'\u2219',
+            u'\u25CB', u'\u25CF', u'\u25D8', u'\u25E6', u'\u2619', u'\u2765',
+            u'\2767', u'\u29BE', u'\u29BF', u'\u25C9'
+        ]
 
         if 'size' in self.columns:
             self['double_fontsize_int'] = (self['size'].astype(float)*2).round(0).astype('Int64')
@@ -135,9 +166,8 @@ class Lines(pd.DataFrame):
         lines = self.copy()
 
         # Get bullets: span zero, bullet character
-        bullet_chars = ['•']
         bullets = lines.loc[
-            (lines['text'].str.strip().isin(bullet_chars)) &
+            (lines['text'].str.strip().isin(self.bullet_chars)) &
             (lines['span_number'] == 0)
         ]
 
@@ -286,3 +316,62 @@ class Lines(pd.DataFrame):
         ]
 
         return self.loc[self['total_y'] < more_titley_line['total_y'].min()]
+
+    def to_items(self):
+        """
+        Convert the Lines object to a list or dict of text.
+        """
+        lines = self.copy()
+        if len(lines) <= 1:
+            return lines['text'].tolist()
+
+        # Get which lines start with a bullet
+        lines.loc[
+            (lines['text'].str.strip().isin(self.bullet_chars)) &
+            (lines['span_number'] == 0),
+            'bullet'
+        ] = True
+        lines['bullet'] = lines['bullet'].fillna(False)
+        lines.loc[
+            (lines['total_y'] == lines['total_y'].shift(1).fillna(-1)) &
+            lines['bullet'].shift(1).fillna(False),
+            'bullet_start'
+        ] = True
+        lines['bullet_start'] = lines['bullet_start'].fillna(False)
+
+        # Next, combine sentences
+        # Combine where first doesn't end in a sentence ender, and the second doesn't begin with a sentence start
+        lines = lines.loc[~lines['bullet']]
+        lines['sentence_end'] = lines.apply(
+            lambda row:
+                row.is_sentence_end(),
+            axis=1
+        )
+        lines['sentence_start'] = lines.apply(lambda row: row.is_sentence_start(), axis=1)
+        lines.loc[
+            lines['sentence_start'] & (
+                # Starts with bullet point
+                (lines['bullet_start']) |
+                (
+                    # Horizontal gap, and not on the same line
+                    (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
+                    ((lines['origin_x'] - lines['origin_x'].shift(1).fillna(-1)) > lines['origin_x']*0.05) &
+                    (lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) >= lines['size']*0.1
+                ) |
+                (
+                    # Same page, with vertical gap (consider new paragraph)
+                    (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
+                    ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) > lines['size']*1.5)
+                )
+            ),
+            'item_start'
+        ] = True
+        lines['item_start'] = lines['item_start'].fillna(False)
+
+        # New group is when the item starts and the previous item ends
+        lines['item_no'] = lines['item_start'].cumsum()
+
+        # Group into items and combine the text
+        items = lines.groupby(['item_no'])['text'].apply(lambda x: ' '.join(x.str.strip())).str.strip().tolist()
+
+        return items
