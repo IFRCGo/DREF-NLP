@@ -101,8 +101,8 @@ class Line(pd.Series):
         if text_chars:
             if text_chars[0].isupper():
                 return True
-
-        return False
+            else:
+                return False
 
 
 class Lines(pd.DataFrame):
@@ -360,7 +360,7 @@ class Lines(pd.DataFrame):
         lines['sentence_start'] = lines.apply(lambda row: row.is_sentence_start(), axis=1)
         lines['item_start'] = False
         lines.loc[
-            lines['sentence_start'] & (
+            lines['sentence_start'].fillna(True) & (
                 # Starts with bullet point
                 (lines['bullet_start']) |
                 (
