@@ -105,9 +105,10 @@ class Line(pd.Series):
     def is_sentence_start(self):
         """
         Consider sentence start if the first letter is uppercase.
+        Account for letters as bullet items, e.g. a), b., etc.
         """
-        alphanumeric = re.sub(r'[^A-Za-z0-9 ]+', ' ', str(self['text']))
-        alphanumeric = re.sub(r'^[a-zA-Z](\)|\.)\s', '', alphanumeric.strip()).strip()
+        alphanumeric = re.sub(r'^[a-zA-Z](\)|\.)\s', '', str(self['text'])).strip()
+        alphanumeric = re.sub(r'[^A-Za-z0-9 ]+', ' ', alphanumeric).strip()
         if alphanumeric:
             first_char = alphanumeric[0]
             if first_char.isalpha():
