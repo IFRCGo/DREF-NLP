@@ -156,3 +156,5 @@ dmypy.json
 
 ea_parsing/tests/raw_lines/*.csv
 ea_parsing/tests/processed_lines/*.csv
+ea_parsing/tests/bk.raw_lines/
+ea_parsing/tests/bk.processed_lines/
