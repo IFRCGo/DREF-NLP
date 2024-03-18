@@ -384,6 +384,7 @@ class Lines(pd.DataFrame):
                 (
                     # Previous line ends and ends short (horizontal gap at end of line)
                     lines['sentence_end'].shift(1).fillna(True) &
+                    ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) >= lines['size']*0.1) &
                     (lines['end_gap'].shift(1).fillna(-1) >= lines['first_word_size']*1.2)
                 ) |
                 (
