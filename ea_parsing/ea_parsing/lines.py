@@ -86,8 +86,17 @@ class Line(pd.Series):
         Consider sentence end if ends with full stop, question mark, or exclamation mark.
         """
         sentence_enders = ['.', '?', '!']
-        text = str(self['text']).strip()
+        exceptions = ['e.g.', 'i.e.']
+
+        text = str(self['text']).strip().lower()
         if text:
+
+            # Check that the text does not end with an exception
+            for exception in exceptions:
+                if text[-len(exception):] == exception:
+                    return False
+
+            # If ends with sentence ender, consider sentence ended
             if text[-1] in sentence_enders:
                 return True
 
