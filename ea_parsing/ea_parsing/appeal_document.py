@@ -292,6 +292,9 @@ class AppealDocument:
         lines = self.remove_page_labels_references(lines=lines)
         lines = self.drop_all_repeating_headers_footers(lines=lines)
 
+        # Remove reference numbers
+        lines = self.remove_reference_labels(lines=lines)
+
         return lines
 
     def remove_photo_blocks(self, lines):
@@ -458,6 +461,18 @@ class AppealDocument:
         )]
 
         return repeating_texts
+
+    def remove_reference_labels(self, lines):
+        """
+        Remove the small reference labels that are in text.
+        Remove based on fontsize.
+        """
+        lines = lines.loc[~(
+            (lines['size'] <= 7) &
+            (lines['text_base'].astype(str).str.isdigit())
+        )]
+
+        return lines
 
     @cached_property
     def titles(self):
