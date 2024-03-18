@@ -2,6 +2,7 @@ import requests
 from functools import cached_property
 import fitz
 import pandas as pd
+import ea_parsing.definitions
 from ea_parsing import utils
 from ea_parsing.sectors import Sectors
 from ea_parsing.lines import Lines
@@ -421,7 +422,6 @@ class AppealDocument:
             repeating_texts['text_base'].isin(section_title_texts)
         )]
 
-        # Remove indexes
         return repeating_texts
 
     def get_repeating_lines(self, which, lines):
@@ -452,7 +452,11 @@ class AppealDocument:
             repeating_texts['text_base'].isin(section_title_texts)
         )]
 
-        # Remove indexes
+        # Don't remove bullets
+        repeating_texts = repeating_texts.loc[~(
+            repeating_texts['text'].str.strip().isin(ea_parsing.definitions.BULLETS)
+        )]
+
         return repeating_texts
 
     @cached_property
