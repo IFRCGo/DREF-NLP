@@ -411,10 +411,14 @@ class AppealDocument:
             .groupby(['text_base'])\
             .filter(lambda x: len(x) > 2)
 
-        # Don't remove lessons learned titles
-        lessons_learned_title_texts = ChallengesLessonsLearnedExtractor(section_type='lessons_learned').title_texts
+        # Don't remove lessons learned or challenges titles
+        section_title_texts = ChallengesLessonsLearnedExtractor(section_type='lessons_learned').title_texts
+        section_title_texts = list(set(
+            section_title_texts['lessons_learned'] +
+            section_title_texts['challenges']
+        ))
         repeating_texts = repeating_texts.loc[~(
-            repeating_texts['text_base'].isin(lessons_learned_title_texts)
+            repeating_texts['text_base'].isin(section_title_texts)
         )]
 
         # Remove indexes
@@ -438,10 +442,14 @@ class AppealDocument:
             .groupby(['text_base'])\
             .filter(lambda x: len(x) > 2)
 
-        # Don't remove lessons learned titles
-        lessons_learned_title_texts = ChallengesLessonsLearnedExtractor(section_type='lessons_learned').title_texts
+        # Don't remove lessons learned or challenges titles
+        section_title_texts = ChallengesLessonsLearnedExtractor(section_type='lessons_learned').title_texts
+        section_title_texts = list(set(
+            section_title_texts['lessons_learned'] +
+            section_title_texts['challenges']
+        ))
         repeating_texts = repeating_texts.loc[~(
-            repeating_texts['text_base'].isin(lessons_learned_title_texts)
+            repeating_texts['text_base'].isin(section_title_texts)
         )]
 
         # Remove indexes
