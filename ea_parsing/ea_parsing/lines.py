@@ -108,7 +108,8 @@ class Lines(pd.DataFrame):
         super(Lines,  self).__init__(*args, **kwargs)
 
         if 'size' in self.columns:
-            self['double_fontsize_int'] = (self['size'].astype(float)*2).round(0).astype('Int64')
+            if 'double_fontsize_int' not in self.columns:
+                self['double_fontsize_int'] = (self['size'].astype(float)*2).round(0).astype('Int64')
         if (
             ('font' in self.columns) and
             ('double_fontsize_int' in self.columns) and
