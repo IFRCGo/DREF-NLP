@@ -107,13 +107,6 @@ class Lines(pd.DataFrame):
     def __init__(self, *args, **kwargs):
         super(Lines,  self).__init__(*args, **kwargs)
 
-        self.bullet_chars = [
-            '•', '●', '▪', '-',
-            u'\uf0b7', u'\u2023', u'\u2043', u'\u204C', u'\u204D', u'\u2219',
-            u'\u25CB', u'\u25CF', u'\u25D8', u'\u25E6', u'\u2619', u'\u2765',
-            u'\2767', u'\u29BE', u'\u29BF', u'\u25C9'
-        ]
-
         if 'size' in self.columns:
             self['double_fontsize_int'] = (self['size'].astype(float)*2).round(0).astype('Int64')
         if (
@@ -126,6 +119,15 @@ class Lines(pd.DataFrame):
                             self['double_fontsize_int'].astype(str)+', ' +\
                             self['color'].astype(str)+', ' +\
                             self['highlight_color'].astype(str)
+
+    @cached_property
+    def bullet_chars(self):
+        return [
+            '•', '●', '▪', '-',
+            u'\uf0b7', u'\u2023', u'\u2043', u'\u204C', u'\u204D', u'\u2219',
+            u'\u25CB', u'\u25CF', u'\u25D8', u'\u25E6', u'\u2619', u'\u2765',
+            u'\2767', u'\u29BE', u'\u29BF', u'\u25C9'
+        ]
 
     @property
     def _constructor(self):
@@ -326,18 +328,18 @@ class Lines(pd.DataFrame):
             return lines['text'].tolist()
 
         # Get which lines start with a bullet
+        lines['bullet'] = False
         lines.loc[
             (lines['text'].str.strip().isin(self.bullet_chars)) &
             (lines['span_number'] == 0),
             'bullet'
         ] = True
-        lines['bullet'] = lines['bullet'].fillna(False)
+        lines['bullet_start'] = False
         lines.loc[
             (lines['total_y'] == lines['total_y'].shift(1).fillna(-1)) &
             lines['bullet'].shift(1).fillna(False),
             'bullet_start'
         ] = True
-        lines['bullet_start'] = lines['bullet_start'].fillna(False)
 
         # Next, combine sentences
         # Combine where first doesn't end in a sentence ender, and the second doesn't begin with a sentence start
@@ -348,6 +350,7 @@ class Lines(pd.DataFrame):
             axis=1
         )
         lines['sentence_start'] = lines.apply(lambda row: row.is_sentence_start(), axis=1)
+        lines['item_start'] = False
         lines.loc[
             lines['sentence_start'] & (
                 # Starts with bullet point
@@ -366,7 +369,6 @@ class Lines(pd.DataFrame):
             ),
             'item_start'
         ] = True
-        lines['item_start'] = lines['item_start'].fillna(False)
 
         # New group is when the item starts and the previous item ends
         lines['item_no'] = lines['item_start'].cumsum()
