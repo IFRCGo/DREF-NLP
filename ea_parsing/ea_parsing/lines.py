@@ -1,5 +1,6 @@
 """
 """
+from ast import literal_eval
 import re
 from functools import cached_property
 import pandas as pd
@@ -342,6 +343,20 @@ class Lines(pd.DataFrame):
             'bullet_start'
         ] = True
 
+        # Get the approximate size of the first word
+        lines['bbox_x2'] = lines.apply(
+            lambda row:
+                literal_eval(row['bbox'])[2],
+            axis=1
+        )
+        lines['end_gap'] = lines['bbox_x2'].max() - lines['bbox_x2']
+        lines['first_word_size'] = lines.apply(
+            lambda row:
+                (row['bbox_x2'] - literal_eval(row['bbox'])[0]) *
+                len(row['text'].split(' ')[0]) / len(row['text']),
+            axis=1
+        )
+
         # Next, combine sentences
         # Combine where first doesn't end in a sentence ender, and the second doesn't begin with a sentence start
         lines = lines.loc[~lines['bullet']]
@@ -360,7 +375,12 @@ class Lines(pd.DataFrame):
                     # Horizontal gap, and not on the same line
                     (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
                     ((lines['origin_x'] - lines['origin_x'].shift(1).fillna(-1)) > lines['origin_x']*0.05) &
-                    (lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) >= lines['size']*0.1
+                    ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) >= lines['size']*0.1)
+                ) |
+                (
+                    # Previous line ends and ends short (horizontal gap at end of line)
+                    lines['sentence_end'].shift(1).fillna(True) &
+                    (lines['end_gap'].shift(1).fillna(-1) >= lines['first_word_size']*1.2)
                 ) |
                 (
                     # Same page, with vertical gap (consider new paragraph)
