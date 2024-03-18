@@ -334,6 +334,11 @@ class Lines(pd.DataFrame):
             lines['bullet'].shift(1).fillna(False),
             'bullet_start'
         ] = True
+        lines.loc[
+            (lines['text'].str.strip().str[0].isin(ea_parsing.definitions.BULLETS)) &
+            (lines['span_number'] == 0),
+            'bullet_start'
+        ] = True
 
         # Get the approximate size of the first word
         lines['bbox_x2'] = lines.apply(
