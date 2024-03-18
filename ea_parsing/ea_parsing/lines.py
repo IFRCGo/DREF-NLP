@@ -407,11 +407,14 @@ class Lines(pd.DataFrame):
         ] = True
 
         # Item start: significant vertical gap
+        line_spacing_min = (lines['total_y'] - lines['total_y'].shift(1)).min()
         lines['vertical_gap'] = False
         lines.loc[
             lines['sentence_start'].fillna(True) & (
                 (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
-                ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) > lines['size']*1.5)
+                ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) > lines['size'].apply(
+                    lambda size: max(size*1.5, line_spacing_min*1.5)
+                ))
             ),
             'vertical_gap'
         ] = True
