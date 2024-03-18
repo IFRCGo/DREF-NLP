@@ -361,42 +361,53 @@ class Lines(pd.DataFrame):
             axis=1
         )
 
-        # Next, combine sentences
-        # Combine where first doesn't end in a sentence ender, and the second doesn't begin with a sentence start
+        # Get sentence end and sentence start
         lines = lines.loc[~lines['bullet']]
         lines['sentence_end'] = lines.apply(
             lambda row:
                 row.is_sentence_end(),
             axis=1
         )
-        lines['sentence_start'] = lines.apply(lambda row: row.is_sentence_start(), axis=1)
-        lines['item_start'] = False
+        lines['sentence_start'] = lines.apply(
+            lambda row:
+                row.is_sentence_start(),
+            axis=1
+        )
+
+        # Set the reasons for considering item start
+        lines.loc[
+            lines['sentence_start'].fillna(True) &
+            lines['bullet_start'],
+            'starts_with_bullet'
+        ] = True
         lines.loc[
             lines['sentence_start'].fillna(True) & (
-                # Starts with bullet point
-                (lines['bullet_start']) |
-                (
-                    # Horizontal gap, and not on the same line
-                    (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
-                    ((lines['origin_x'] - lines['origin_x'].shift(1).fillna(-1)) > lines['origin_x']*0.05) &
-                    ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) >= lines['size']*0.1)
-                ) |
-                (
-                    # Previous line ends and ends short (horizontal gap at end of line)
-                    lines['sentence_end'].shift(1).fillna(True) &
-                    ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) >= lines['size']*0.1) &
-                    (lines['end_gap'].shift(1).fillna(-1) >= lines['first_word_size']*1.2)
-                ) |
-                (
-                    # Same page, with vertical gap (consider new paragraph)
-                    (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
-                    ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) > lines['size']*1.5)
-                )
+                (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
+                (abs(lines['origin_x'] - lines['origin_x'].shift(1).fillna(-1)) > 10) &
+                ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) >= lines['size']*0.1)
             ),
-            'item_start'
+            'horizontal_gap_different_line'
+        ] = True
+        lines.loc[
+            lines['sentence_start'].fillna(True) & (
+                lines['sentence_end'].shift(1).fillna(True) &
+                ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) >= lines['size']*0.1) &
+                (lines['end_gap'].shift(1).fillna(-1) >= lines['first_word_size']*1.2)
+            ),
+            'previous_line_ends_short'
+        ] = True
+        lines.loc[
+            lines['sentence_start'].fillna(True) & (
+                (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
+                ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) > lines['size']*1.5)
+            ),
+            'vertical_gap'
         ] = True
 
         # New group is when the item starts and the previous item ends
+        lines['item_start'] = lines[[
+            'starts_with_bullet', 'horizontal_gap_different_line', 'previous_line_ends_short', 'vertical_gap'
+        ]].any(axis=1)
         lines['item_no'] = lines['item_start'].cumsum()
 
         # Group into items and combine the text
