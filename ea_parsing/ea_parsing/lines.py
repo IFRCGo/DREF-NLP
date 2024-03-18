@@ -408,4 +408,11 @@ class Lines(pd.DataFrame):
         # Group into items and combine the text
         items = lines.groupby(['item_no'])['text'].apply(lambda x: ' '.join(x.str.strip())).str.strip().tolist()
 
+        # Remove items with no characters
+        items = [
+            txt
+            for txt in items
+            if re.search('[a-zA-Z]', txt)
+        ]
+
         return items
