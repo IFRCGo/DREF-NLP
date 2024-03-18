@@ -2,11 +2,14 @@
     text: Challenges
     text_base: challenges
     style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 15
     block_number: 8
     line_number: 0
     span_number: 0
     total_y: 12331.630004882812
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 440.6681823730469, 102.04578399658203, 454.71331787109375)
     idx: 977
   sector_title: Health and Care
   sector_idx: 714
@@ -15,291 +18,431 @@
   - index: 978
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 8
     line_number: 1
     span_number: 0
     total_y: 12345.309997558594
+    origin_x: 45.959999084472656
+    bbox: (45.959999084472656, 455.2965087890625, 50.54121017456055, 467.49847412109375)
+    double_fontsize_int: 20
   - index: 979
     text: 'When the disaster occurred the FA service was organized but the skills
       of volunteers were quite poor and they had '
     text_base: when the disaster occurred the fa service was organized but the skills
       of volunteers were quite poor and they had
     style: 'arialmt, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 15
     block_number: 8
     line_number: 1
     span_number: 1
     total_y: 12345.309997558594
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 454.6029968261719, 572.0780029296875, 468.28802490234375)
+    double_fontsize_int: 20
   - index: 980
     text: 'no FA materials. However, with good support from the community health workers
       (family doctors in the health '
     text_base: no fa materials however with good support from the community health
       workers family doctors in the health
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 8
     line_number: 3
     span_number: 0
     total_y: 12356.709991455078
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 466.00299072265625, 572.0921630859375, 479.6880187988281)
+    double_fontsize_int: 20
   - index: 981
     text: 'institutions), RC volunteers continued to provide FA service to the injured
       and sick people. '
     text_base: institutions rc volunteers continued to provide fa service to the injured
       and sick people
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 8
     line_number: 4
     span_number: 0
     total_y: 12368.230010986328
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 477.52301025390625, 464.7189025878906, 491.2080383300781)
+    double_fontsize_int: 20
   - index: 982
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 9
     line_number: 0
     span_number: 0
     total_y: 12380.470001220703
+    origin_x: 45.959999084472656
+    bbox: (45.959999084472656, 490.4565124511719, 50.54121017456055, 502.6584777832031)
+    double_fontsize_int: 20
   - index: 983
     text: 'Since initially there was no funding for the health sector, this specific
       program started to be implemented only after '
     text_base: since initially there was no funding for the health sector this specific
       program started to be implemented only after
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 9
     line_number: 0
     span_number: 1
     total_y: 12380.470001220703
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 489.76300048828125, 571.7850341796875, 503.4480285644531)
+    double_fontsize_int: 20
   - index: 984
     text: 'five or six months after the operation started. Therefore, we had little
       health activities in the response phase but '
     text_base: five or six months after the operation started therefore we had little
       health activities in the response phase but
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 9
     line_number: 2
     span_number: 0
     total_y: 12391.869995117188
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 501.1629943847656, 572.1392822265625, 514.8480224609375)
+    double_fontsize_int: 20
   - index: 985
     text: 'more in the recovery phase. '
     text_base: more in the recovery phase
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 9
     line_number: 3
     span_number: 0
     total_y: 12403.390014648438
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 512.6829833984375, 190.70887756347656, 526.3680419921875)
+    double_fontsize_int: 20
   - index: 986
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 10
     line_number: 0
     span_number: 0
     total_y: 12415.630004882812
+    origin_x: 45.959999084472656
+    bbox: (45.959999084472656, 525.6165161132812, 50.54121017456055, 537.8184814453125)
+    double_fontsize_int: 20
   - index: 987
     text: 'The IFRC standard procurement process took a long time posing negative
       impact on stabilizing the lives of the most '
     text_base: the ifrc standard procurement process took a long time posing negative
       impact on stabilizing the lives of the most
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 10
     line_number: 0
     span_number: 1
     total_y: 12415.630004882812
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 524.9229736328125, 571.8810424804688, 538.6080322265625)
+    double_fontsize_int: 20
   - index: 988
     text: vulnerable people and on timely implementation of the emergency operation.
       The procurement of medical kits (Ri-
     text_base: vulnerable people and on timely implementation of the emergency operation
       the procurement of medical kits ri
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 10
     line_number: 2
     span_number: 0
-    total_y: 12427.030029296875
+    total_y: 12427.030029296877
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 536.322998046875, 569.336669921875, 550.008056640625)
+    double_fontsize_int: 20
   - index: 989
     text: 'hospital. Midwife kit) and FA backpacks procured by IFRC Geneva logistics
       took almost six months. Both DPRK '
     text_base: hospital midwife kit and fa backpacks procured by ifrc geneva logistics
       took almost six months both dprk
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 10
     line_number: 3
     span_number: 0
     total_y: 12438.549987792969
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 547.843017578125, 571.9224853515625, 561.5280151367188)
+    double_fontsize_int: 20
   - index: 990
     text: 'RCS and IFRC CO made concerted efforts to make sure this takes place within
       six months in close cooperation '
     text_base: rcs and ifrc co made concerted efforts to make sure this takes place
       within six months in close cooperation
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 10
     line_number: 4
     span_number: 0
-    total_y: 12450.070007324219
+    total_y: 12450.07000732422
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 559.363037109375, 571.7747802734375, 573.0480346679688)
+    double_fontsize_int: 20
   - index: 991
     text: 'with IFRC Geneva logistics.  '
     text_base: with ifrc geneva logistics
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 10
     line_number: 5
     span_number: 0
     total_y: 12461.589965820312
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 570.8829345703125, 192.2688751220703, 584.5679931640625)
+    double_fontsize_int: 20
   - index: 992
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 11
     line_number: 0
     span_number: 0
     total_y: 12473.830017089844
+    origin_x: 45.959999084472656
+    bbox: (45.959999084472656, 583.8165283203125, 50.54121017456055, 596.0184936523438)
+    double_fontsize_int: 20
   - index: 993
     text: 'The long procurement of medical kits was further delayed because of the
       imposed sanctions on DPRK. These kits '
     text_base: the long procurement of medical kits was further delayed because of
       the imposed sanctions on dprk these kits
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 11
     line_number: 0
     span_number: 1
     total_y: 12473.830017089844
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 583.123046875, 572.0949096679688, 596.8080444335938)
+    double_fontsize_int: 20
   - index: 994
     text: 'were held up at Dalian port (China) for three months and all RC partners
       including DPRK RCS, IFRC CO, IFRC '
     text_base: were held up at dalian port china for three months and all rc partners
       including dprk rcs ifrc co ifrc
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 11
     line_number: 2
     span_number: 0
     total_y: 12485.22998046875
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 594.52294921875, 572.1248779296875, 608.2080078125)
+    double_fontsize_int: 20
   - index: 995
     text: 'County Cluster Team in Beijing and Geneva logistics worked hard to get
       them released and finally distributed them '
     text_base: county cluster team in beijing and geneva logistics worked hard to
       get them released and finally distributed them
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 11
     line_number: 3
     span_number: 0
-    total_y: 12496.780029296875
+    total_y: 12496.780029296877
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 606.072998046875, 572.0737915039062, 619.758056640625)
+    double_fontsize_int: 20
   - index: 996
     text: 'to the end beneficiaries.  '
     text_base: to the end beneficiaries
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 11
     line_number: 4
     span_number: 0
     total_y: 12508.299987792969
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 617.593017578125, 175.70887756347656, 631.2780151367188)
+    double_fontsize_int: 20
   - index: 997
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 12
     line_number: 0
     span_number: 0
     total_y: 12520.539978027344
+    origin_x: 45.959999084472656
+    bbox: (45.959999084472656, 630.5264892578125, 50.54121017456055, 642.7284545898438)
+    double_fontsize_int: 20
   - index: 998
     text: 'The solar heating system in the health institutions brought about a big
       difference in the lives of the community people '
     text_base: the solar heating system in the health institutions brought about a
       big difference in the lives of the community people
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 12
     line_number: 0
     span_number: 1
     total_y: 12520.539978027344
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 629.8330078125, 571.6212158203125, 643.5180053710938)
+    double_fontsize_int: 20
   - index: 999
     text: 'living in the remote areas. However, it is not that effective in some of
       the target institutions. The main reasons for '
     text_base: living in the remote areas however it is not that effective in some
       of the target institutions the main reasons for
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 12
     line_number: 2
     span_number: 0
     total_y: 12531.940002441406
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 641.2330322265625, 571.9808349609375, 654.9180297851562)
+    double_fontsize_int: 20
   - index: 1000
     text: 'this, is extreme cold weather in the northern part of the country, little
       sunshine (sometimes one or two hours per '
     text_base: this is extreme cold weather in the northern part of the country little
       sunshine sometimes one or two hours per
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 12
     line_number: 3
     span_number: 0
     total_y: 12543.460021972656
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 652.7530517578125, 571.9796142578125, 666.4380493164062)
+    double_fontsize_int: 20
   - index: 1001
     text: 'day), poor building condition (no insulation) of health institution and
       little confidence of health workers to run the '
     text_base: day poor building condition no insulation of health institution and
       little confidence of health workers to run the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 12
     line_number: 4
     span_number: 0
     total_y: 12554.97998046875
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 664.27294921875, 572.08837890625, 677.9580078125)
+    double_fontsize_int: 20
   - index: 1002
     text: 'system. Keeping this in mind, DPRK RCS, with good support from the Academy
       of National Science, continued to '
     text_base: system keeping this in mind dprk rcs with good support from the academy
       of national science continued to
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 12
     line_number: 5
     span_number: 0
     total_y: 12566.380004882812
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 675.6729736328125, 572.0689697265625, 689.3580322265625)
+    double_fontsize_int: 20
   - index: 1003
     text: 'provide technical support to the staff at relevant health institutions
       during winter to maximize the effectiveness of '
     text_base: provide technical support to the staff at relevant health institutions
       during winter to maximize the effectiveness of
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 12
     line_number: 6
     span_number: 0
     total_y: 12577.89599609375
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 687.18896484375, 571.9442749023438, 700.8740234375)
+    double_fontsize_int: 20
   - index: 1004
     text: 'the system. '
     text_base: the system
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 12
     line_number: 7
     span_number: 0
     total_y: 12589.416015625
+    origin_x: 63.959999084472656
+    bbox: (63.959999084472656, 698.708984375, 117.98888397216797, 712.39404296875)
+    double_fontsize_int: 20
+  items:
+  - When the disaster occurred the FA service was organized but the skills of volunteers
+    were quite poor and they had no FA materials. However, with good support from
+    the community health workers (family doctors in the health institutions), RC volunteers
+    continued to provide FA service to the injured and sick people.
+  - Since initially there was no funding for the health sector, this specific program
+    started to be implemented only after five or six months after the operation started.
+    Therefore, we had little health activities in the response phase but more in the
+    recovery phase.
+  - The IFRC standard procurement process took a long time posing negative impact
+    on stabilizing the lives of the most vulnerable people and on timely implementation
+    of the emergency operation. The procurement of medical kits (Ri- hospital. Midwife
+    kit) and FA backpacks procured by IFRC Geneva logistics took almost six months.
+    Both DPRK RCS and IFRC CO made concerted efforts to make sure this takes place
+    within six months in close cooperation with IFRC Geneva logistics.
+  - The long procurement of medical kits was further delayed because of the imposed
+    sanctions on DPRK. These kits were held up at Dalian port (China) for three months
+    and all RC partners including DPRK RCS, IFRC CO, IFRC County Cluster Team in Beijing
+    and Geneva logistics worked hard to get them released and finally distributed
+    them to the end beneficiaries.
+  - The solar heating system in the health institutions brought about a big difference
+    in the lives of the community people living in the remote areas. However, it is
+    not that effective in some of the target institutions. The main reasons for this,
+    is extreme cold weather in the northern part of the country, little sunshine (sometimes
+    one or two hours per day), poor building condition (no insulation) of health institution
+    and little confidence of health workers to run the system. Keeping this in mind,
+    DPRK RCS, with good support from the Academy of National Science, continued to
+    provide technical support to the staff at relevant health institutions during
+    winter to maximize the effectiveness of the system.
 - title:
     text: Challenges
     text_base: challenges
     style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 21
     block_number: 3
     line_number: 0
     span_number: 0
     total_y: 16679.52001953125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 36.55818176269531, 102.04578399658203, 50.60334014892578)
     idx: 1434
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 1039
@@ -310,75 +453,111 @@
       bit of challenge. Firstly, the population was not '
     text_base: wpts which were distributed at the initial phase of the disaster was
       a bit of challenge firstly the population was not
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 21
     block_number: 3
     line_number: 2
     span_number: 0
     total_y: 16703.880004882812
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 61.173004150390625, 571.3128051757812, 74.85804748535156)
+    double_fontsize_int: 20
   - index: 1436
     text: 'familiar with WPT and the smell of chlorine in the tablets made them reluctant
       to use. Moreover, the different dose of '
     text_base: familiar with wpt and the smell of chlorine in the tablets made them
       reluctant to use moreover the different dose of
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 21
     block_number: 3
     line_number: 3
     span_number: 0
     total_y: 16715.400024414062
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 72.69302368164062, 571.77880859375, 86.37806701660156)
+    double_fontsize_int: 20
   - index: 1437
     text: 'WPTs provided by different international organizations made them rather
       confused. '
     text_base: wpts provided by different international organizations made them rather
       confused
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 21
     block_number: 3
     line_number: 4
     span_number: 0
     total_y: 16726.940002441406
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 84.23300170898438, 412.3988952636719, 97.91804504394531)
+    double_fontsize_int: 20
   - index: 1438
     text: 'The DPRK RCS mobilized volunteers to convince the population to use the
       tabs as being safe and would provide clean '
     text_base: the dprk rcs mobilized volunteers to convince the population to use
       the tabs as being safe and would provide clean
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 21
     block_number: 3
     line_number: 6
     span_number: 0
     total_y: 16749.97998046875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 107.27297973632812, 571.990966796875, 120.95802307128906)
+    double_fontsize_int: 20
   - index: 1439
     text: 'drinking water by demonstrating in front of them. They also provided brochures
       which clearly showed the usage of the '
     text_base: drinking water by demonstrating in front of them they also provided
       brochures which clearly showed the usage of the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 21
     block_number: 3
     line_number: 7
     span_number: 0
     total_y: 16761.5
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 118.79299926757812, 571.3825073242188, 132.47804260253906)
+    double_fontsize_int: 20
   - index: 1440
     text: 'tabs and made sure that all the beneficiaries are aware of how to use tablets. '
     text_base: tabs and made sure that all the beneficiaries are aware of how to use
       tablets
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 21
     block_number: 3
     line_number: 8
     span_number: 0
     total_y: 16772.900024414062
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 130.19302368164062, 385.1589050292969, 143.87806701660156)
+    double_fontsize_int: 20
+  items:
+  - WPTs which were distributed at the initial phase of the disaster was a bit of
+    challenge. Firstly, the population was not familiar with WPT and the smell of
+    chlorine in the tablets made them reluctant to use. Moreover, the different dose
+    of WPTs provided by different international organizations made them rather confused.
+  - The DPRK RCS mobilized volunteers to convince the population to use the tabs as
+    being safe and would provide clean drinking water by demonstrating in front of
+    them. They also provided brochures which clearly showed the usage of the tabs
+    and made sure that all the beneficiaries are aware of how to use tablets.
 - title:
     text: Challenges
     text_base: challenges
     style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 23
     block_number: 31
     line_number: 23
     span_number: 0
     total_y: 18800.830017089844
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 573.8681640625, 103.00578308105469, 587.913330078125)
     idx: 1643
   sector_title: Shelter, Housing and Settlements
   sector_idx: 1461
@@ -389,209 +568,314 @@
       flood response, many of them lacked '
     text_base: though a considerable number of volunteers were mobilized in north
       hamgyong flood response many of them lacked
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 31
     line_number: 25
     span_number: 0
     total_y: 18825.339965820312
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 598.6329345703125, 571.416259765625, 612.3179931640625)
+    double_fontsize_int: 20
   - index: 1645
     text: 'specific skills for relief and recovery operation. That caused some challenges
       in providing timely, efficient and up to '
     text_base: specific skills for relief and recovery operation that caused some
       challenges in providing timely efficient and up to
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 31
     line_number: 26
     span_number: 0
-    total_y: 18836.859985351562
+    total_y: 18836.85998535156
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 610.1529541015625, 571.4364013671875, 623.8380126953125)
+    double_fontsize_int: 20
   - index: 1646
     text: 'standard services. This was discussed and reviewed in the mid-term review
       workshop in February 2017 and final review '
     text_base: standard services this was discussed and reviewed in the mid term review
       workshop in february 2017 and final review
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 31
     line_number: 27
     span_number: 0
-    total_y: 18848.380004882812
+    total_y: 18848.38000488281
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 621.6729736328125, 572.1029663085938, 635.3580322265625)
+    double_fontsize_int: 20
   - index: 1647
     text: 'workshop in December 2017, which has been supported by the DPRK RCS and
       IFRC. In the workshops, participants '
     text_base: workshop in december 2017 which has been supported by the dprk rcs
       and ifrc in the workshops participants
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 31
     line_number: 28
     span_number: 0
     total_y: 18859.900024414062
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 633.1929931640625, 571.6152954101562, 646.8780517578125)
+    double_fontsize_int: 20
   - index: 1648
     text: 'emphasized the need of providing effective trainings to the volunteers
       in specific skills including shelter set up as well as '
     text_base: emphasized the need of providing effective trainings to the volunteers
       in specific skills including shelter set up as well as
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 31
     line_number: 29
     span_number: 0
     total_y: 18871.29998779297
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 644.593017578125, 571.8284912109375, 658.2780151367188)
+    double_fontsize_int: 20
   - index: 1649
     text: 'procedures in effective distribution of relief items.  '
     text_base: procedures in effective distribution of relief items
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 31
     line_number: 30
     span_number: 0
     total_y: 18882.82000732422
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 656.113037109375, 265.0188903808594, 669.7980346679688)
+    double_fontsize_int: 20
   - index: 1665
     text: 'In the first week of the disaster, it was a challenge accessing the affected
       communities as roads were destroyed or '
     text_base: in the first week of the disaster it was a challenge accessing the
       affected communities as roads were destroyed or
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 1
     span_number: 0
-    total_y: 19065.359985351562
+    total_y: 19065.35998535156
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 46.652984619140625, 572.1488647460938, 60.3380241394043)
+    double_fontsize_int: 20
   - index: 1666
     text: 'blocked by landslides. During winter, the weather condition was a challenge
       for the distribution as roads were often '
     text_base: blocked by landslides during winter the weather condition was a challenge
       for the distribution as roads were often
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 2
     span_number: 0
-    total_y: 19076.880004882812
+    total_y: 19076.88000488281
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 58.173004150390625, 572.1488647460938, 71.85804748535156)
+    double_fontsize_int: 20
   - index: 1667
     text: 'blocked by snow/ice and therefore delays were occurred.  '
     text_base: blocked by snow ice and therefore delays were occurred
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 3
     span_number: 0
     total_y: 19088.280029296875
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 69.57302856445312, 300.6589050292969, 83.25807189941406)
+    double_fontsize_int: 20
   - index: 1668
     text: "Procurement of CGI sheets was a challenge \u2013 due to a national celebration\
       \ in China, there was a lockdown for 10 days "
     text_base: procurement of cgi sheets was a challenge due to a national celebration
       in china there was a lockdown for 10 days
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 5
     span_number: 0
     total_y: 19111.34002685547
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 92.63302612304688, 572.081787109375, 106.31806945800781)
+    double_fontsize_int: 20
   - index: 1669
     text: 'during October 2016 for the celebration. As CGI sheets were procured from
       China so no activity could be done, as result '
     text_base: during october 2016 for the celebration as cgi sheets were procured
       from china so no activity could be done as result
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 6
     span_number: 0
-    total_y: 19122.859985351562
+    total_y: 19122.85998535156
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 104.15298461914062, 571.83740234375, 117.83802795410156)
+    double_fontsize_int: 20
   - index: 1670
     text: 'delaying delivery of CGI sheets.  '
     text_base: delaying delivery of cgi sheets
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 7
     span_number: 0
-    total_y: 19134.380004882812
+    total_y: 19134.38000488281
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 115.67300415039062, 189.3888702392578, 129.35804748535156)
+    double_fontsize_int: 20
   - index: 1671
     text: 'Time taken for procurement of quality CGI sheets took longer than expected
       and building or rehabilitation of permanent '
     text_base: time taken for procurement of quality cgi sheets took longer than expected
       and building or rehabilitation of permanent
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 9
     span_number: 0
     total_y: 19157.29998779297
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 138.59298706054688, 572.08251953125, 152.2780303955078)
+    double_fontsize_int: 20
   - index: 1672
     text: 'shelter was temporarily stopped due to the severe cold winter. So only
       10,200 CGI sheets out of total amount of procured '
     text_base: shelter was temporarily stopped due to the severe cold winter so only
       10 200 cgi sheets out of total amount of procured
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 10
     span_number: 0
     total_y: 19168.82000732422
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 150.11300659179688, 571.9923095703125, 163.7980499267578)
+    double_fontsize_int: 20
   - index: 1673
     text: '52,200 CGI sheets were utilized until November 2016 by government, and
       the other remaining CGI sheets were used '
     text_base: 52 200 cgi sheets were utilized until november 2016 by government and
       the other remaining cgi sheets were used
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 11
     span_number: 0
     total_y: 19180.34002685547
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 161.63302612304688, 571.7601318359375, 175.3180694580078)
+    double_fontsize_int: 20
   - index: 1674
     text: 'for shelter roofing materials in 2017.  '
     text_base: for shelter roofing materials in 2017
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 12
     span_number: 0
-    total_y: 19191.859985351562
+    total_y: 19191.85998535156
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 173.15298461914062, 207.77886962890625, 186.83802795410156)
+    double_fontsize_int: 20
   - index: 1675
     text: 'In the beginning of 2017, the GoDPRK focused their rehabilitation activities
       on mitigation measures to protect the '
     text_base: in the beginning of 2017 the godprk focused their rehabilitation activities
       on mitigation measures to protect the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 14
     span_number: 0
     total_y: 19214.900024414062
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 196.19302368164062, 572.087158203125, 209.87806701660156)
+    double_fontsize_int: 20
   - index: 1676
     text: 'population from the upcoming rainy season, thus, the rehabilitation and
       repair of damaged houses was delayed and '
     text_base: population from the upcoming rainy season thus the rehabilitation and
       repair of damaged houses was delayed and
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 15
     span_number: 0
     total_y: 19226.29998779297
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 207.59298706054688, 572.12158203125, 221.2780303955078)
+    double_fontsize_int: 20
   - index: 1677
     text: 'finalized by end of 2017.  '
     text_base: finalized by end of 2017
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 3
     line_number: 16
     span_number: 0
     total_y: 19237.82000732422
+    origin_x: 42.59999847412109
+    bbox: (42.599998474121094, 219.11300659179688, 156.62887573242188, 232.7980499267578)
+    double_fontsize_int: 20
+  items:
+  - Though a considerable number of volunteers were mobilized in North Hamgyong flood
+    response, many of them lacked specific skills for relief and recovery operation.
+    That caused some challenges in providing timely, efficient and up to standard
+    services. This was discussed and reviewed in the mid-term review workshop in February
+    2017 and final review workshop in December 2017, which has been supported by the
+    DPRK RCS and IFRC. In the workshops, participants emphasized the need of providing
+    effective trainings to the volunteers in specific skills including shelter set
+    up as well as procedures in effective distribution of relief items.
+  - In the first week of the disaster, it was a challenge accessing the affected communities
+    as roads were destroyed or blocked by landslides. During winter, the weather condition
+    was a challenge for the distribution as roads were often blocked by snow/ice and
+    therefore delays were occurred.
+  - "Procurement of CGI sheets was a challenge \u2013 due to a national celebration\
+    \ in China, there was a lockdown for 10 days during October 2016 for the celebration.\
+    \ As CGI sheets were procured from China so no activity could be done, as result\
+    \ delaying delivery of CGI sheets."
+  - Time taken for procurement of quality CGI sheets took longer than expected and
+    building or rehabilitation of permanent shelter was temporarily stopped due to
+    the severe cold winter. So only 10,200 CGI sheets out of total amount of procured
+    52,200 CGI sheets were utilized until November 2016 by government, and the other
+    remaining CGI sheets were used for shelter roofing materials in 2017.
+  - In the beginning of 2017, the GoDPRK focused their rehabilitation activities on
+    mitigation measures to protect the population from the upcoming rainy season,
+    thus, the rehabilitation and repair of damaged houses was delayed and finalized
+    by end of 2017.
 - title:
     text: Challenges
     text_base: challenges
     style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 26
     block_number: 6
     line_number: 0
     span_number: 0
     total_y: 21042.54998779297
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 439.5881652832031, 102.04578399658203, 453.63330078125)
     idx: 1755
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 1713
@@ -602,30 +886,44 @@
       Thus, small scale mitigation program was '
     text_base: due to funding constraint no funds were allocated for mitigation measures
       thus small scale mitigation program was
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 26
     block_number: 6
     line_number: 2
     span_number: 0
     total_y: 21067.029998779297
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 464.322998046875, 566.5088500976562, 478.0080261230469)
+    double_fontsize_int: 20
   - index: 1757
     text: 'removed from the emergency appeal revision. '
     text_base: removed from the emergency appeal revision
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 26
     block_number: 6
     line_number: 3
     span_number: 0
     total_y: 21078.42999267578
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 475.7229919433594, 247.85887145996094, 489.40802001953125)
+    double_fontsize_int: 20
+  items:
+  - Due to funding constraint, no funds were allocated for mitigation measures. Thus,
+    small scale mitigation program was removed from the emergency appeal revision.
 - title:
     text: Challenges
     text_base: challenges
     style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 29
     block_number: 3
     line_number: 18
     span_number: 0
     total_y: 23223.02001953125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 244.0581817626953, 102.04578399658203, 258.10333251953125)
     idx: 1944
   sector_title: National Society Strengthening
   sector_idx: 1795
@@ -636,96 +934,142 @@
       Although, sanctions exclude '
     text_base: delivery of humanitarian aid to dprk was time consuming because of
       un sanctions although sanctions exclude
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 3
     line_number: 20
     span_number: 0
     total_y: 23247.530029296875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 268.8230285644531, 566.414794921875, 282.508056640625)
+    double_fontsize_int: 20
   - index: 1946
     text: 'humanitarian aid, quite often this is wrongly interpreted and material
       is deemed ineligible. Under the emergency flood '
     text_base: humanitarian aid quite often this is wrongly interpreted and material
       is deemed ineligible under the emergency flood
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 3
     line_number: 21
     span_number: 0
     total_y: 23258.92999267578
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 280.2229919433594, 566.4498901367188, 293.90802001953125)
+    double_fontsize_int: 20
   - index: 1947
     text: 'operation, some logistics procurement process was delayed as those items
       were marked ineligible to sanctions.  '
     text_base: operation some logistics procurement process was delayed as those items
       were marked ineligible to sanctions
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 3
     line_number: 22
     span_number: 0
     total_y: 23270.45001220703
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 291.7430114746094, 540.7088623046875, 305.42803955078125)
+    double_fontsize_int: 20
   - index: 1948
     text: 'The branch staff and volunteers in North Hamgyong province could not conduct
       voluntary services for flood affected '
     text_base: the branch staff and volunteers in north hamgyong province could not
       conduct voluntary services for flood affected
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 3
     line_number: 24
     span_number: 0
-    total_y: 23293.489990234375
+    total_y: 23293.48999023437
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 314.7829895019531, 565.71533203125, 328.468017578125)
+    double_fontsize_int: 20
   - index: 1949
     text: 'people more effectively because they had not received sufficient training
       for disaster response, preparedness and '
     text_base: people more effectively because they had not received sufficient training
       for disaster response preparedness and
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 3
     line_number: 25
     span_number: 0
     total_y: 23305.010009765625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 326.3030090332031, 566.4920043945312, 339.988037109375)
+    double_fontsize_int: 20
   - index: 1950
     text: 'recovery. Especially country-level branches did not organize effective
       volunteer management in emergency operation '
     text_base: recovery especially country level branches did not organize effective
       volunteer management in emergency operation
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 3
     line_number: 26
     span_number: 0
     total_y: 23316.41000366211
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 337.7030029296875, 566.0094604492188, 351.3880310058594)
+    double_fontsize_int: 20
   - index: 1951
     text: 'including evacuating community population, providing shelter for the displaced
       people, distributing NFIs to the '
     text_base: including evacuating community population providing shelter for the
       displaced people distributing nfis to the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 3
     line_number: 27
     span_number: 0
     total_y: 23327.92999267578
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 349.2229919433594, 566.5088500976562, 362.90802001953125)
+    double_fontsize_int: 20
   - index: 1952
     text: 'beneficiaries, etc.  '
     text_base: beneficiaries etc
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 3
     line_number: 28
     span_number: 0
     total_y: 23339.45001220703
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 360.7430114746094, 125.06888580322266, 374.42803955078125)
+    double_fontsize_int: 20
+  items:
+  - Delivery of humanitarian aid to DPRK was time consuming because of UN sanctions.
+    Although, sanctions exclude humanitarian aid, quite often this is wrongly interpreted
+    and material is deemed ineligible. Under the emergency flood operation, some logistics
+    procurement process was delayed as those items were marked ineligible to sanctions.
+  - The branch staff and volunteers in North Hamgyong province could not conduct voluntary
+    services for flood affected people more effectively because they had not received
+    sufficient training for disaster response, preparedness and recovery. Especially
+    country-level branches did not organize effective volunteer management in emergency
+    operation including evacuating community population, providing shelter for the
+    displaced people, distributing NFIs to the beneficiaries, etc.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 30
     block_number: 5
     line_number: 9
     span_number: 0
     total_y: 24171.04998779297
+    origin_x: 42.119998931884766
+    bbox: (42.119998931884766, 400.0881652832031, 106.0616226196289, 414.13330078125)
     idx: 2014
   sector_title: Quality Programming
   sector_idx: 1961
@@ -737,40 +1081,63 @@
     text_base: there were some challenges to mobilize trained pdrt members and volunteers
       in north hamgyong province as its
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 30
     block_number: 6
     line_number: 0
     span_number: 0
     total_y: 24186.04998779297
+    origin_x: 42.119998931884766
+    bbox: (42.119998931884766, 415.3429870605469, 572.8583984375, 429.02801513671875)
+    double_fontsize_int: 20
   - index: 2016
     text: 'affected communities were not disaster-prone areas in the previous years.
       Mobilization of assessment team members '
     text_base: affected communities were not disaster prone areas in the previous
       years mobilization of assessment team members
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 30
     block_number: 6
     line_number: 1
     span_number: 0
     total_y: 24197.58999633789
+    origin_x: 42.119998931884766
+    bbox: (42.119998931884766, 426.88299560546875, 572.8109130859375, 440.5680236816406)
+    double_fontsize_int: 20
   - index: 2017
     text: 'from neighboring provincial branch and HQs took time for effective field
       deployment. Information flow from the affected '
     text_base: from neighboring provincial branch and hqs took time for effective
       field deployment information flow from the affected
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 30
     block_number: 6
     line_number: 2
     span_number: 0
-    total_y: 24209.109985351562
+    total_y: 24209.10998535156
+    origin_x: 42.119998931884766
+    bbox: (42.119998931884766, 438.4029846191406, 572.826416015625, 452.0880126953125)
+    double_fontsize_int: 20
   - index: 2018
     text: 'areas to DPRK RCS HQ was not timely in the first phase of the relief operation. '
     text_base: areas to dprk rcs hq was not timely in the first phase of the relief
       operation
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 30
     block_number: 6
     line_number: 3
     span_number: 0
-    total_y: 24220.630004882812
+    total_y: 24220.63000488281
+    origin_x: 42.119998931884766
+    bbox: (42.119998931884766, 449.9230041503906, 394.9989013671875, 463.6080322265625)
+    double_fontsize_int: 20
+  items:
+  - There were some challenges to mobilize trained PDRT members and volunteers in
+    North Hamgyong Province as its affected communities were not disaster-prone areas
+    in the previous years. Mobilization of assessment team members from neighboring
+    provincial branch and HQs took time for effective field deployment. Information
+    flow from the affected areas to DPRK RCS HQ was not timely in the first phase
+    of the relief operation.

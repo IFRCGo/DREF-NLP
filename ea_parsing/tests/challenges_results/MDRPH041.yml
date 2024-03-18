@@ -2,11 +2,14 @@
     text: 'Challenges: '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 8
     block_number: 4
     line_number: 18
     span_number: 0
     total_y: 6898.47998046875
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 550.8101806640625, 100.96285247802734, 564.45556640625)
     idx: 563
   sector_title: Shelter, Housing and Settlements
   sector_idx: 234
@@ -16,91 +19,135 @@
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 8
     block_number: 4
     line_number: 19
     span_number: 0
     total_y: 6912.0999755859375
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 565.0662231445312, 46.008811950683594, 577.3416748046875)
+    double_fontsize_int: 20
   - index: 565
     text: 'Geographical Location: SRA was provided on site, where the houses were
       scattered across the municipalities. '
     text_base: geographical location sra was provided on site where the houses were
       scattered across the municipalities
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 8
     block_number: 4
     line_number: 19
     span_number: 1
     total_y: 6912.0999755859375
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 564.43017578125, 568.3933715820312, 578.0755615234375)
+    double_fontsize_int: 20
   - index: 566
     text: 'Furthermore, the relocation site provided for FSA was far from the initial
       area of the families and from the '
     text_base: furthermore the relocation site provided for fsa was far from the initial
       area of the families and from the
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 8
     block_number: 4
     line_number: 21
     span_number: 0
     total_y: 6925.719970703125
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 578.0501708984375, 553.9393920898438, 591.695556640625)
+    double_fontsize_int: 20
   - index: 567
     text: 'chapter, where travelling made it a challenge.  '
     text_base: chapter where travelling made it a challenge
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 8
     block_number: 4
     line_number: 22
     span_number: 0
     total_y: 6939.3399658203125
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 591.670166015625, 275.9228515625, 605.3155517578125)
+    double_fontsize_int: 20
   - index: 568
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 8
     block_number: 5
     line_number: 0
     span_number: 0
     total_y: 6952.9599609375
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 605.9262084960938, 46.008811950683594, 618.20166015625)
+    double_fontsize_int: 20
   - index: 569
     text: 'There were some delays in the delivery of construction materials, mainly
       due to COVID-19 related constrains, '
     text_base: there were some delays in the delivery of construction materials mainly
       due to covid 19 related constrains
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 8
     block_number: 5
     line_number: 0
     span_number: 1
     total_y: 6952.9599609375
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 605.2901611328125, 573.084716796875, 618.935546875)
+    double_fontsize_int: 20
   - index: 570
     text: 'such as travel/transportation restrictions, challenges in sourcing, not
       availability of items etc. which caused the '
     text_base: such as travel transportation restrictions challenges in sourcing not
       availability of items etc which caused the
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 8
     block_number: 5
     line_number: 2
     span_number: 0
     total_y: 6966.5999755859375
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 618.93017578125, 573.1432495117188, 632.5755615234375)
+    double_fontsize_int: 20
   - index: 571
     text: 'delay in the implementation of the project. '
     text_base: delay in the implementation of the project
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 8
     block_number: 5
     line_number: 3
     span_number: 0
     total_y: 6980.219970703125
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 632.5501708984375, 260.9228515625, 646.195556640625)
+    double_fontsize_int: 20
+  items:
+  - 'Geographical Location: SRA was provided on site, where the houses were scattered
+    across the municipalities. Furthermore, the relocation site provided for FSA was
+    far from the initial area of the families and from the chapter, where travelling
+    made it a challenge.'
+  - There were some delays in the delivery of construction materials, mainly due to
+    COVID-19 related constrains, such as travel/transportation restrictions, challenges
+    in sourcing, not availability of items etc. which caused the delay in the implementation
+    of the project.
 - title:
     text: 'Challenges: '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 7
     line_number: 8
     span_number: 0
     total_y: 11480.139923095703
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 379.7501220703125, 101.20285034179688, 393.3955383300781)
     idx: 989
   sector_title: Livelihoods
   sector_idx: 581
@@ -110,132 +157,195 @@
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 7
     line_number: 9
     span_number: 0
     total_y: 11493.75991821289
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 394.00616455078125, 46.248809814453125, 406.2816467285156)
+    double_fontsize_int: 20
   - index: 991
     text: 'Lack of trained volunteers to implement the project under the operations.
       Another challenge was the '
     text_base: lack of trained volunteers to implement the project under the operations
       another challenge was the
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 7
     line_number: 9
     span_number: 1
     total_y: 11493.75991821289
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 393.3701171875, 569.6256103515625, 407.0155334472656)
+    double_fontsize_int: 20
   - index: 992
     text: 'sustainability of skilled and capable volunteers. Volunteer turnover is
       a common problem in most of the areas, '
     text_base: sustainability of skilled and capable volunteers volunteer turnover
       is a common problem in most of the areas
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 7
     line_number: 11
     span_number: 0
     total_y: 11507.379913330078
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 406.9901123046875, 569.9028930664062, 420.6355285644531)
+    double_fontsize_int: 20
   - index: 993
     text: 'where volunteers leave for work or migrate. In addition, some of the volunteers
       were not aware of all existing '
     text_base: where volunteers leave for work or migrate in addition some of the
       volunteers were not aware of all existing
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 7
     line_number: 12
     span_number: 0
     total_y: 11520.93994140625
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 420.5501708984375, 569.7557373046875, 434.195556640625)
+    double_fontsize_int: 20
   - index: 994
     text: 'policies for emergency operations (SOP and policies).  '
     text_base: policies for emergency operations sop and policies
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 7
     line_number: 13
     span_number: 0
     total_y: 11534.559936523438
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 434.170166015625, 311.5228576660156, 447.8155517578125)
+    double_fontsize_int: 20
   - index: 995
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 8
     line_number: 0
     span_number: 0
     total_y: 11548.179931640623
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 448.4261779785156, 46.248809814453125, 460.70166015625)
+    double_fontsize_int: 20
   - index: 996
     text: 'Overlapping of activities (conflict of schedule between community and chapters). '
     text_base: overlapping of activities conflict of schedule between community and
       chapters
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 8
     line_number: 0
     span_number: 1
     total_y: 11548.179931640623
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 447.7901611328125, 437.40283203125, 461.435546875)
+    double_fontsize_int: 20
   - index: 997
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 9
     line_number: 0
     span_number: 0
     total_y: 11561.799926757812
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 462.0461730957031, 46.248809814453125, 474.3216552734375)
+    double_fontsize_int: 20
   - index: 998
     text: 'The CSG and CMLP are in their exploration stage, thus issues are anticipated
       to arise. Implementing chapters '
     text_base: the csg and cmlp are in their exploration stage thus issues are anticipated
       to arise implementing chapters
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 9
     line_number: 0
     span_number: 1
     total_y: 11561.799926757812
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 461.41015625, 569.6751708984375, 475.0555419921875)
+    double_fontsize_int: 20
   - index: 999
     text: 'and groups mentioned the need for improved project guidelines, monitoring
       tools, and progress assessment '
     text_base: and groups mentioned the need for improved project guidelines monitoring
       tools and progress assessment
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 9
     line_number: 2
     span_number: 0
     total_y: 11575.419921875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 475.0301513671875, 569.849609375, 488.675537109375)
+    double_fontsize_int: 20
   - index: 1000
     text: 'among others. At present PRC is revising/upgrading the guidelines with
       technical support from IFRC Livelihood '
     text_base: among others at present prc is revising upgrading the guidelines with
       technical support from ifrc livelihood
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 9
     line_number: 3
     span_number: 0
     total_y: 11589.039916992188
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 488.650146484375, 569.7860717773438, 502.2955322265625)
+    double_fontsize_int: 20
   - index: 1001
     text: 'Centre. '
     text_base: centre
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 14
     block_number: 9
     line_number: 4
     span_number: 0
     total_y: 11602.659912109377
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 502.2701416015625, 96.20285034179688, 515.91552734375)
+    double_fontsize_int: 20
+  items:
+  - Lack of trained volunteers to implement the project under the operations. Another
+    challenge was the sustainability of skilled and capable volunteers. Volunteer
+    turnover is a common problem in most of the areas, where volunteers leave for
+    work or migrate. In addition, some of the volunteers were not aware of all existing
+    policies for emergency operations (SOP and policies).
+  - Overlapping of activities (conflict of schedule between community and chapters).
+  - The CSG and CMLP are in their exploration stage, thus issues are anticipated to
+    arise. Implementing chapters and groups mentioned the need for improved project
+    guidelines, monitoring tools, and progress assessment among others. At present
+    PRC is revising/upgrading the guidelines with technical support from IFRC Livelihood
+    Centre.
 - title:
     text: 'Challenges: '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 17
     block_number: 2
     line_number: 13
     span_number: 0
     total_y: 13700.89990234375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 224.15013122558594, 101.20285034179688, 237.7955322265625)
     idx: 1174
   sector_title: Health and Care
   sector_idx: 1008
@@ -245,84 +355,123 @@
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 17
     block_number: 2
     line_number: 14
     span_number: 0
     total_y: 13714.519897460938
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 238.40615844726562, 46.248809814453125, 250.681640625)
+    double_fontsize_int: 20
   - index: 1176
     text: 'Most of the staff and volunteers were trained only on emergency response
       but were not trained to provide '
     text_base: most of the staff and volunteers were trained only on emergency response
       but were not trained to provide
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 17
     block_number: 2
     line_number: 14
     span_number: 1
     total_y: 13714.519897460938
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 237.77012634277344, 559.0465087890625, 251.41552734375)
+    double_fontsize_int: 20
   - index: 1177
     text: 'other services (i.e., PFA, CFS, health service,). Hence, number of equipped
       volunteers with knowledge to '
     text_base: other services i e pfa cfs health service hence number of equipped
       volunteers with knowledge to
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 17
     block_number: 2
     line_number: 16
     span_number: 0
     total_y: 13728.139892578123
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 251.39012145996094, 542.0306396484375, 265.0355224609375)
+    double_fontsize_int: 20
   - index: 1178
     text: 'provide initial response to individuals experiencing psychological distress
       were limited. '
     text_base: provide initial response to individuals experiencing psychological
       distress were limited
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 17
     block_number: 2
     line_number: 17
     span_number: 0
     total_y: 13741.759887695312
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 265.0101318359375, 465.4228515625, 278.655517578125)
+    double_fontsize_int: 20
   - index: 1179
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 17
     block_number: 3
     line_number: 0
     span_number: 0
     total_y: 13755.379913330078
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 279.26617431640625, 46.248809814453125, 291.5416564941406)
+    double_fontsize_int: 20
   - index: 1180
     text: 'Limitation on the movement due to pandemic. Staff and volunteers have encountered
       risk contracting '
     text_base: limitation on the movement due to pandemic staff and volunteers have
       encountered risk contracting
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 17
     block_number: 3
     line_number: 0
     span_number: 1
     total_y: 13755.379913330078
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 278.630126953125, 537.030517578125, 292.2755432128906)
+    double_fontsize_int: 20
   - index: 1181
     text: 'COVID-19 during operation. Necessary protocols were put in place to lessen
       the risk. '
     text_base: covid 19 during operation necessary protocols were put in place to
       lessen the risk
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 17
     block_number: 3
     line_number: 2
     span_number: 0
     total_y: 13768.999908447266
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 292.2501220703125, 454.4428405761719, 305.8955383300781)
+    double_fontsize_int: 20
+  items:
+  - Most of the staff and volunteers were trained only on emergency response but were
+    not trained to provide other services (i.e., PFA, CFS, health service,). Hence,
+    number of equipped volunteers with knowledge to provide initial response to individuals
+    experiencing psychological distress were limited.
+  - Limitation on the movement due to pandemic. Staff and volunteers have encountered
+    risk contracting COVID-19 during operation. Necessary protocols were put in place
+    to lessen the risk.
 - title:
     text: 'Challenges: '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 19
     block_number: 2
     line_number: 27
     span_number: 0
     total_y: 15475.839904785156
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 414.85015869140625, 101.20285034179688, 428.49554443359375)
     idx: 1289
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 1189
@@ -332,48 +481,70 @@
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 19
     block_number: 2
     line_number: 28
     span_number: 0
     total_y: 15489.459899902344
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 429.1061706542969, 46.248809814453125, 441.38165283203125)
+    double_fontsize_int: 20
   - index: 1291
     text: 'Water supply is dependent on electricity and water from deep well is turbid.  '
     text_base: water supply is dependent on electricity and water from deep well is
       turbid
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 19
     block_number: 2
     line_number: 28
     span_number: 1
     total_y: 15489.459899902344
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 428.47015380859375, 417.4228515625, 442.11553955078125)
+    double_fontsize_int: 20
   - index: 1292
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 19
     block_number: 3
     line_number: 0
     span_number: 0
     total_y: 15503.079895019531
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 442.7261657714844, 46.248809814453125, 455.00164794921875)
+    double_fontsize_int: 20
   - index: 1293
     text: 'NHQ staff deployed were not familiar with the local dialect. '
     text_base: nhq staff deployed were not familiar with the local dialect
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 19
     block_number: 3
     line_number: 0
     span_number: 1
     total_y: 15503.079895019531
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 442.09014892578125, 336.5428466796875, 455.73553466796875)
+    double_fontsize_int: 20
+  items:
+  - Water supply is dependent on electricity and water from deep well is turbid.
+  - NHQ staff deployed were not familiar with the local dialect.
 - title:
     text: 'Challenges: '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 21
     block_number: 2
     line_number: 14
     span_number: 0
     total_y: 16882.999877929688
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 237.77012634277344, 101.20285034179688, 251.41552734375)
     idx: 1409
   sector_title: Protection, Gender and Inclusion
   sector_idx: 1300
@@ -383,31 +554,45 @@
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 21
     block_number: 2
     line_number: 15
     span_number: 0
     total_y: 16896.619873046875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 252.02615356445312, 46.248809814453125, 264.3016357421875)
+    double_fontsize_int: 20
   - index: 1411
     text: 'Unavailability of a significant informant or community recipients during
       the PDM activity. '
     text_base: unavailability of a significant informant or community recipients during
       the pdm activity
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 21
     block_number: 2
     line_number: 15
     span_number: 1
     total_y: 16896.619873046875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 251.39012145996094, 474.24285888671875, 265.0355224609375)
+    double_fontsize_int: 20
+  items:
+  - Unavailability of a significant informant or community recipients during the PDM
+    activity.
 - title:
     text: 'Challenges: '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 26
     block_number: 8
     line_number: 13
     span_number: 0
     total_y: 21017.919860839844
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 412.09014892578125, 101.20285034179688, 425.73553466796875)
     idx: 1702
   sector_title: National Society Strengthening
   sector_idx: 1635
@@ -417,40 +602,58 @@
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 26
     block_number: 8
     line_number: 14
     span_number: 0
     total_y: 21031.53985595703
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 426.3461608886719, 46.248809814453125, 438.62164306640625)
+    double_fontsize_int: 20
   - index: 1704
     text: 'Communication between chapter to NHQ; some chapters experienced a lack
       of communication between NHQ '
     text_base: communication between chapter to nhq some chapters experienced a lack
       of communication between nhq
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 26
     block_number: 8
     line_number: 14
     span_number: 1
     total_y: 21031.53985595703
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 425.71014404296875, 569.837158203125, 439.35552978515625)
+    double_fontsize_int: 20
   - index: 1705
     text: 'and Chapter. '
     text_base: and chapter
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 26
     block_number: 8
     line_number: 16
     span_number: 0
     total_y: 21045.1598815918
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 439.33013916015625, 122.68285369873047, 452.9755554199219)
+    double_fontsize_int: 20
+  items:
+  - Communication between chapter to NHQ; some chapters experienced a lack of communication
+    between NHQ and Chapter.
 - title:
     text: 'Challenges: '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 34
     block_number: 7
     line_number: 26
     span_number: 0
     total_y: 27429.33984375
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 486.5501708984375, 100.96285247802734, 500.195556640625)
     idx: 2131
   sector_title: Shelter, Housing and Settlements
   sector_idx: 2082
@@ -460,60 +663,88 @@
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 9.969775199890137
     page_number: 34
     block_number: 7
     line_number: 27
     span_number: 0
     total_y: 27443.13983154297
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 500.9861755371094, 45.96272277832031, 513.2616577148438)
+    double_fontsize_int: 20
   - index: 2133
     text: 'COVID-19 infected some volunteers which caused delays in the delivery of
       the activities. It reduced the mobility '
     text_base: covid 19 infected some volunteers which caused delays in the delivery
       of the activities it reduced the mobility
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 34
     block_number: 7
     line_number: 27
     span_number: 1
     total_y: 27443.13983154297
+    origin_x: 55.68000030517578
+    bbox: (55.68000030517578, 500.35015869140625, 573.0849609375, 513.9955444335938)
+    double_fontsize_int: 20
   - index: 2134
     text: 'and availability of staff and volunteers from the National Headquarters
       Office and Chapters. '
     text_base: and availability of staff and volunteers from the national headquarters
       office and chapters
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 34
     block_number: 8
     line_number: 0
     span_number: 0
     total_y: 27456.81982421875
+    origin_x: 55.68000030517578
+    bbox: (55.68000030517578, 514.0301513671875, 485.90283203125, 527.675537109375)
+    double_fontsize_int: 20
   - index: 2135
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 9.969775199890137
     page_number: 34
     block_number: 9
     line_number: 0
     span_number: 0
     total_y: 27470.379821777344
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 528.2261962890625, 45.96272277832031, 540.5016479492188)
+    double_fontsize_int: 20
   - index: 2136
     text: 'There was a poor mobile signal and internet connectivity. '
     text_base: there was a poor mobile signal and internet connectivity
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 34
     block_number: 9
     line_number: 0
     span_number: 1
     total_y: 27470.379821777344
+    origin_x: 55.68000030517578
+    bbox: (55.68000030517578, 527.5901489257812, 324.4228515625, 541.2355346679688)
+    double_fontsize_int: 20
+  items:
+  - COVID-19 infected some volunteers which caused delays in the delivery of the activities.
+    It reduced the mobility and availability of staff and volunteers from the National
+    Headquarters Office and Chapters.
+  - There was a poor mobile signal and internet connectivity.
 - title:
     text: 'Challenges: '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 41
     block_number: 2
     line_number: 2
     span_number: 0
     total_y: 32561.99981689453
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 74.37016296386719, 101.20285034179688, 88.01556396484375)
     idx: 2574
   sector_title: Health and Care
   sector_idx: 2410
@@ -523,70 +754,106 @@
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 9.969775199890137
     page_number: 41
     block_number: 2
     line_number: 3
     span_number: 0
     total_y: 32575.61981201172
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 88.62619018554688, 46.202720642089844, 100.90167236328125)
+    double_fontsize_int: 20
   - index: 2576
     text: 'Most of the staff and volunteers were trained only on emergency,but were
       not trained to provide other services '
     text_base: most of the staff and volunteers were trained only on emergency but
       were not trained to provide other services
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 41
     block_number: 2
     line_number: 3
     span_number: 1
     total_y: 32575.61981201172
+    origin_x: 55.91999816894531
+    bbox: (55.91999816894531, 87.99015808105469, 569.8839111328125, 101.63555908203125)
+    double_fontsize_int: 20
   - index: 2577
     text: '(i.e., PFA, CFS, health service,). Hence, the number of equipped volunteers
       with the knowledge to provide initial '
     text_base: i e pfa cfs health service hence the number of equipped volunteers
       with the knowledge to provide initial
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 41
     block_number: 3
     line_number: 0
     span_number: 0
     total_y: 32589.239807128903
+    origin_x: 55.91999816894531
+    bbox: (55.91999816894531, 101.61015319824219, 569.8988647460938, 115.25555419921875)
+    double_fontsize_int: 20
   - index: 2578
     text: 'response to individuals experiencing psychological distress were limited. '
     text_base: response to individuals experiencing psychological distress were limited
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 41
     block_number: 3
     line_number: 1
     span_number: 0
     total_y: 32602.879821777344
+    origin_x: 55.91999816894531
+    bbox: (55.91999816894531, 115.25016784667969, 395.7028503417969, 128.89556884765625)
+    double_fontsize_int: 20
   - index: 2579
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 9.969775199890137
     page_number: 41
     block_number: 4
     line_number: 0
     span_number: 0
     total_y: 32616.49981689453
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 129.50619506835938, 46.202720642089844, 141.78167724609375)
+    double_fontsize_int: 20
   - index: 2580
     text: 'There was a limitation on the movement due to the pandemic. Staff and volunteers
       have encountered the risk '
     text_base: there was a limitation on the movement due to the pandemic staff and
       volunteers have encountered the risk
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 41
     block_number: 4
     line_number: 0
     span_number: 1
     total_y: 32616.49981689453
+    origin_x: 55.91999816894531
+    bbox: (55.91999816894531, 128.8701629638672, 569.8961791992188, 142.51556396484375)
+    double_fontsize_int: 20
   - index: 2581
     text: 'contracting COVID-19 during operation. Necessary protocols were put in
       place to lessen the risk. '
     text_base: contracting covid 19 during operation necessary protocols were put
       in place to lessen the risk
     style: 'regular, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 41
     block_number: 5
     line_number: 0
     span_number: 0
     total_y: 32630.11981201172
+    origin_x: 55.91999816894531
+    bbox: (55.91999816894531, 142.4901580810547, 505.8828430175781, 156.13555908203125)
+    double_fontsize_int: 20
+  items:
+  - Most of the staff and volunteers were trained only on emergency,but were not trained
+    to provide other services (i.e., PFA, CFS, health service,). Hence, the number
+    of equipped volunteers with the knowledge to provide initial response to individuals
+    experiencing psychological distress were limited.
+  - There was a limitation on the movement due to the pandemic. Staff and volunteers
+    have encountered the risk contracting COVID-19 during operation. Necessary protocols
+    were put in place to lessen the risk.

@@ -1,12 +1,15 @@
 - title:
     text: Lessons Learned
     text_base: lessons learned
-    style: 'Arial-BoldMT, 20, #000000, #edebe0'
+    style: 'bold, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 8
     block_number: 21
     line_number: 9
     span_number: 0
     total_y: 6949.419982910156
+    origin_x: 32.279998779296875
+    bbox: (32.279998779296875, 602.7627563476562, 114.47747802734375, 616.4777221679688)
     idx: 491
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 432
@@ -17,54 +20,80 @@
       ensuring the mandate of the Red Cross. Visibility '
     text_base: increasing engagement with stakeholders is key in building relations
       and ensuring the mandate of the red cross visibility
-    style: 'ArialMT, 20, #000000, #edebe0'
+    style: 'arialmt, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 8
     block_number: 21
     line_number: 10
     span_number: 0
     total_y: 6963.0999755859375
+    origin_x: 32.279998779296875
+    bbox: (32.279998779296875, 616.3929443359375, 576.9138793945312, 630.0780029296875)
+    double_fontsize_int: 20
   - index: 493
     text: 'and profiling of appeals is also important for resource mobilization, as
       was seen when the Netherlands Red Cross profiled '
     text_base: and profiling of appeals is also important for resource mobilization
       as was seen when the netherlands red cross profiled
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 21
     line_number: 11
     span_number: 0
     total_y: 6976.299987792969
+    origin_x: 32.279998779296875
+    bbox: (32.279998779296875, 629.593017578125, 576.673095703125, 643.2780151367188)
+    double_fontsize_int: 20
   - index: 494
     text: 'the Appeal they could raise about half a million to support the EA. Reviews
       like the BSS are also important especially if they '
     text_base: the appeal they could raise about half a million to support the ea
       reviews like the bss are also important especially if they
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 21
     line_number: 12
     span_number: 0
     total_y: 6989.5
+    origin_x: 32.279998779296875
+    bbox: (32.279998779296875, 642.79296875, 576.4884643554688, 656.47802734375)
+    double_fontsize_int: 20
   - index: 495
     text: 'are done timely to inform the operation and help improve services to the
       communities.  '
     text_base: are done timely to inform the operation and help improve services to
       the communities
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 21
     line_number: 13
     span_number: 0
     total_y: 7002.820007324219
+    origin_x: 32.279998779296875
+    bbox: (32.279998779296875, 656.113037109375, 417.55889892578125, 669.7980346679688)
+    double_fontsize_int: 20
+  items:
+  - Increasing engagement with stakeholders is key in building relations and ensuring
+    the mandate of the Red Cross. Visibility and profiling of appeals is also important
+    for resource mobilization, as was seen when the Netherlands Red Cross profiled
+    the Appeal they could raise about half a million to support the EA. Reviews like
+    the BSS are also important especially if they are done timely to inform the operation
+    and help improve services to the communities.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
-    style: 'Arial-Black, 20, #000000, #edebe0'
+    style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 10
     block_number: 6
     line_number: 0
     span_number: 0
     total_y: 8351.709991455078
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 420.7481689453125, 134.50161743164062, 434.7933044433594)
     idx: 623
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 500
@@ -75,97 +104,144 @@
       important to ensure sustainability of '
     text_base: community engagement and creating ownership within the community is
       very important to ensure sustainability of
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
     line_number: 1
     span_number: 0
     total_y: 8379.91000366211
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 449.2030029296875, 585.3466186523438, 462.8880310058594)
+    double_fontsize_int: 20
   - index: 625
     text: 'developmental gains. The training of the water point committee in community-based
       management was noted by '
     text_base: developmental gains the training of the water point committee in community
       based management was noted by
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
     line_number: 2
     span_number: 0
     total_y: 8393.230010986328
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 462.52301025390625, 586.082275390625, 476.2080383300781)
+    double_fontsize_int: 20
   - index: 626
     text: 'stakeholders as an important component that would ensure maintenance and
       sustainability of the water points. Also to '
     text_base: stakeholders as an important component that would ensure maintenance
       and sustainability of the water points also to
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
     line_number: 3
     span_number: 0
     total_y: 8406.429992675781
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 475.7229919433594, 585.1968994140625, 489.40802001953125)
+    double_fontsize_int: 20
   - index: 627
     text: 'note was the importance of having trainings being conducted by local stakeholders
       rather than ZRCS staff alone. This '
     text_base: note was the importance of having trainings being conducted by local
       stakeholders rather than zrcs staff alone this
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
     line_number: 4
     span_number: 0
     total_y: 8419.630004882812
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 488.9230041503906, 585.711181640625, 502.6080322265625)
+    double_fontsize_int: 20
   - index: 628
     text: 'ensured that communities were aware and develop relationships with the
       stakeholders for future local efforts. Working with '
     text_base: ensured that communities were aware and develop relationships with
       the stakeholders for future local efforts working with
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
     line_number: 5
     span_number: 0
     total_y: 8432.829956054688
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 502.1229553222656, 586.2686157226562, 515.8079833984375)
+    double_fontsize_int: 20
   - index: 629
     text: 'local volunteers for hygiene promotion is also important as this meant
       that not much recourses would be needed as they '
     text_base: local volunteers for hygiene promotion is also important as this meant
       that not much recourses would be needed as they
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
     line_number: 6
     span_number: 0
     total_y: 8446.030029296875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 515.322998046875, 585.8232421875, 529.008056640625)
+    double_fontsize_int: 20
   - index: 630
     text: 'are in their local context and this ensures continuity. However, it was
       also important for the NS to continuously engage the '
     text_base: are in their local context and this ensures continuity however it was
       also important for the ns to continuously engage the
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
     line_number: 7
     span_number: 0
     total_y: 8459.349975585938
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 528.6429443359375, 585.905517578125, 542.3280029296875)
+    double_fontsize_int: 20
   - index: 631
     text: 'volunteers and improve on volunteer retention even when there is no funding. '
     text_base: volunteers and improve on volunteer retention even when there is no
       funding
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
     line_number: 8
     span_number: 0
     total_y: 8472.549987792969
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 541.843017578125, 389.9710693359375, 555.5280151367188)
+    double_fontsize_int: 20
+  items:
+  - Community engagement and creating ownership within the community is very important
+    to ensure sustainability of developmental gains. The training of the water point
+    committee in community-based management was noted by stakeholders as an important
+    component that would ensure maintenance and sustainability of the water points.
+    Also to note was the importance of having trainings being conducted by local stakeholders
+    rather than ZRCS staff alone. This ensured that communities were aware and develop
+    relationships with the stakeholders for future local efforts. Working with local
+    volunteers for hygiene promotion is also important as this meant that not much
+    recourses would be needed as they are in their local context and this ensures
+    continuity. However, it was also important for the NS to continuously engage the
+    volunteers and improve on volunteer retention even when there is no funding.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
-    style: 'Arial-Black, 20, #000000, #edebe0'
+    style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 13
     block_number: 6
     line_number: 0
     span_number: 0
     total_y: 10689.290008544922
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 382.32818603515625, 134.50161743164062, 396.3733215332031)
     idx: 796
   sector_title: Food insecurity and nutrition
   sector_idx: 632
@@ -176,118 +252,181 @@
       to make choices and decisions. Households '
     text_base: cash transfers remain a key tool in empowering communities and individuals
       to make choices and decisions households
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 7
     line_number: 1
     span_number: 0
     total_y: 10717.630004882812
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 410.9230041503906, 591.1731567382812, 424.6080322265625)
+    double_fontsize_int: 20
   - index: 798
     text: 'can decide in terms of the things that they require in their home as compared
       to direct food distributions which do not give '
     text_base: can decide in terms of the things that they require in their home as
       compared to direct food distributions which do not give
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 7
     line_number: 2
     span_number: 0
     total_y: 10730.829986572266
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 424.12298583984375, 591.1608276367188, 437.8080139160156)
+    double_fontsize_int: 20
   - index: 799
     text: 'them that freedom of choice. Cash transfers give dignity to the targeted
       beneficiary as they are not labelled by the community '
     text_base: them that freedom of choice cash transfers give dignity to the targeted
       beneficiary as they are not labelled by the community
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 7
     line_number: 3
     span_number: 0
     total_y: 10744.029998779297
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 437.322998046875, 591.5075073242188, 451.0080261230469)
+    double_fontsize_int: 20
   - index: 800
     text: 'as receivers of aid. By injecting funds into a community, cash transfers
       program development, help improve local businesses '
     text_base: as receivers of aid by injecting funds into a community cash transfers
       program development help improve local businesses
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 7
     line_number: 4
     span_number: 0
     total_y: 10757.230010986328
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 450.52301025390625, 591.7550659179688, 464.2080383300781)
+    double_fontsize_int: 20
   - index: 801
     text: 'and in some cases, parents are also able to pay school fees for their children. '
     text_base: and in some cases parents are also able to pay school fees for their
       children
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 7
     line_number: 5
     span_number: 0
     total_y: 10770.549987792969
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 463.8429870605469, 387.55889892578125, 477.52801513671875)
+    double_fontsize_int: 20
   - index: 802
     text: 'During beneficiary selection, the ZRCS adopted the community participatory
       process which allowed community members to '
     text_base: during beneficiary selection the zrcs adopted the community participatory
       process which allowed community members to
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 7
     line_number: 7
     span_number: 0
     total_y: 10796.950012207031
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 490.2430114746094, 591.2030029296875, 503.92803955078125)
+    double_fontsize_int: 20
   - index: 803
     text: 'participate and help in the selection process and thus empowering the community
       through allowing them to make decisions. '
     text_base: participate and help in the selection process and thus empowering the
       community through allowing them to make decisions
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 7
     line_number: 8
     span_number: 0
     total_y: 10810.150024414062
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 503.4430236816406, 591.3226318359375, 517.1280517578125)
+    double_fontsize_int: 20
   - index: 804
     text: 'The engagement of communities is also key in fostering ownership. Community
       feedback mechanisms are key in ensuring '
     text_base: the engagement of communities is also key in fostering ownership community
       feedback mechanisms are key in ensuring
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 7
     line_number: 9
     span_number: 0
     total_y: 10823.349975585938
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 516.6429443359375, 591.61572265625, 530.3280029296875)
+    double_fontsize_int: 20
   - index: 805
     text: 'that we meet the needs of the beneficiaries and these help in improving
       accountability and learning. In a region that is mainly '
     text_base: that we meet the needs of the beneficiaries and these help in improving
       accountability and learning in a region that is mainly
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 7
     line_number: 10
     span_number: 0
     total_y: 10836.669982910156
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 529.9630126953125, 591.8670043945312, 543.6480102539062)
+    double_fontsize_int: 20
   - index: 806
     text: 'relying on rain-fed agriculture it is important to promote climate-smart
       agriculture and adoption of small grains to ensure food '
     text_base: relying on rain fed agriculture it is important to promote climate
       smart agriculture and adoption of small grains to ensure food
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 7
     line_number: 11
     span_number: 0
     total_y: 10849.869995117188
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 543.1629638671875, 591.7127075195312, 556.8480224609375)
+    double_fontsize_int: 20
   - index: 807
     text: 'security. The lead farmer approach is a key method of helping in the adoption
       of small grains and other methods of farming.  '
     text_base: security the lead farmer approach is a key method of helping in the
       adoption of small grains and other methods of farming
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 7
     line_number: 12
     span_number: 0
-    total_y: 10863.070007324219
+    total_y: 10863.07000732422
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 556.363037109375, 593.1688842773438, 570.0480346679688)
+    double_fontsize_int: 20
+  items:
+  - Cash transfers remain a key tool in empowering communities and individuals to
+    make choices and decisions. Households can decide in terms of the things that
+    they require in their home as compared to direct food distributions which do not
+    give them that freedom of choice. Cash transfers give dignity to the targeted
+    beneficiary as they are not labelled by the community as receivers of aid. By
+    injecting funds into a community, cash transfers program development, help improve
+    local businesses and in some cases, parents are also able to pay school fees for
+    their children.
+  - During beneficiary selection, the ZRCS adopted the community participatory process
+    which allowed community members to participate and help in the selection process
+    and thus empowering the community through allowing them to make decisions. The
+    engagement of communities is also key in fostering ownership. Community feedback
+    mechanisms are key in ensuring that we meet the needs of the beneficiaries and
+    these help in improving accountability and learning. In a region that is mainly
+    relying on rain-fed agriculture it is important to promote climate-smart agriculture
+    and adoption of small grains to ensure food security. The lead farmer approach
+    is a key method of helping in the adoption of small grains and other methods of
+    farming.

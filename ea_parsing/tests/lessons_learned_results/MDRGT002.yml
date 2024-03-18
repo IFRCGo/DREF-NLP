@@ -1,12 +1,14 @@
 - title:
     text: 'Lessons learned: '
     text_base: lessons learned
-    style: 'Arial,Bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 1
     line_number: 29
     span_number: 0
     total_y: 1256.5699768066406
+    origin_x: 54.599998474121094
     idx: 96
   sector_title: null
   sector_idx: null
@@ -15,191 +17,265 @@
   - index: 97
     text: '- '
     text_base: ''
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 1
     line_number: 30
     span_number: 0
     total_y: 1268.2099609375
+    origin_x: 50.63999938964844
+    double_fontsize_int: 20
   - index: 98
     text: 'The importance of organizing distributions regionally: Potential problems
       with local transport due to difficult '
     text_base: the importance of organizing distributions regionally potential problems
       with local transport due to difficult
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 1
-    line_number: 31
-    span_number: 0
+    line_number: 30
+    span_number: 1
     total_y: 1268.2099609375
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 100
     text: 'weather conditions and poor roads were also resolved by transporting items
       to local branches and '
     text_base: weather conditions and poor roads were also resolved by transporting
       items to local branches and
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 1
     line_number: 32
     span_number: 0
     total_y: 1279.72998046875
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 101
     text: 'warehouses prior to scheduled distributions. '
     text_base: warehouses prior to scheduled distributions
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 1
     line_number: 33
     span_number: 0
     total_y: 1291.1299743652344
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 102
     text: '- '
     text_base: ''
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 2
     line_number: 0
     span_number: 0
     total_y: 1302.6499633789062
+    origin_x: 50.63999938964844
+    double_fontsize_int: 20
   - index: 103
     text: 'The worth of national mobilization in country: The National Society is
       expanding their capacity to inform '
     text_base: the worth of national mobilization in country the national society
       is expanding their capacity to inform
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 2
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 1302.6499633789062
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 104
     text: "major national stakeholders about the GRC\u2019s emergency operations.\
       \ As a result of this emergency appeal, "
     text_base: major national stakeholders about the grc s emergency operations as
       a result of this emergency appeal
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 2
     line_number: 2
     span_number: 0
     total_y: 1314.1899719238281
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 105
     text: 'a video documenting the actions of the National Society and their main
       achievements was filmed to support '
     text_base: a video documenting the actions of the national society and their main
       achievements was filmed to support
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 2
     line_number: 3
     span_number: 0
     total_y: 1325.7099609375
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 106
     text: 'their visibility campaign. This video will soon be available on the web
       In addition, 500 booklets will be '
     text_base: their visibility campaign this video will soon be available on the
       web in addition 500 booklets will be
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 2
     line_number: 4
     span_number: 0
     total_y: 1337.22998046875
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 107
     text: '. '
     text_base: ''
-    style: 'Arial, 20, #ff0000, None'
+    style: 'arial, 20, #ff0000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 2
     line_number: 4
     span_number: 1
     total_y: 1337.22998046875
+    origin_x: 389.2300109863281
+    double_fontsize_int: 20
   - index: 109
     text: printed and provided to different actors across the country.
     text_base: printed and provided to different actors across the country
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 2
     line_number: 5
     span_number: 0
     total_y: 1348.7499694824219
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 110
     text: '- '
     text_base: ''
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 3
     line_number: 0
     span_number: 0
     total_y: 1360.1499633789062
+    origin_x: 50.63999938964844
+    double_fontsize_int: 20
   - index: 111
     text: 'The value of leaving behind an installed capacity in the communities as
       was the case with water distribution '
     text_base: the value of leaving behind an installed capacity in the communities
       as was the case with water distribution
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 3
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 1360.1499633789062
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 112
     text: 'activities: The installation of tanks in communities (beyond merely distributing
       water by trucks) in addition of '
     text_base: activities the installation of tanks in communities beyond merely distributing
       water by trucks in addition of
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 3
     line_number: 2
     span_number: 0
     total_y: 1371.6699829101562
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 113
     text: 'community trainings enabled beneficiaries to organize and seek assistance
       from other actors for a more '
     text_base: community trainings enabled beneficiaries to organize and seek assistance
       from other actors for a more
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 3
     line_number: 3
     span_number: 0
     total_y: 1383.1900024414062
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 114
     text: 'sustainable access to water.  '
     text_base: sustainable access to water
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 3
     line_number: 4
     span_number: 0
     total_y: 1394.7099609375
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 115
     text: '- '
     text_base: ''
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 4
     line_number: 0
     span_number: 0
     total_y: 1406.22998046875
+    origin_x: 50.63999938964844
+    double_fontsize_int: 20
   - index: 116
     text: 'During this operation, the GRC also successfully completed for the first
       time a cash transfer programme '
     text_base: during this operation the grc also successfully completed for the first
       time a cash transfer programme
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 4
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 1406.22998046875
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
   - index: 117
     text: 'with vouchers to acquire construction materials.  '
     text_base: with vouchers to acquire construction materials
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 1
     block_number: 4
     line_number: 2
     span_number: 0
     total_y: 1417.6299438476562
+    origin_x: 68.66400146484375
+    double_fontsize_int: 20
+  items:
+  - 'The importance of organizing distributions regionally: Potential problems with
+    local transport due to difficult weather conditions and poor roads were also resolved
+    by transporting items to local branches and warehouses prior to scheduled distributions.'
+  - "The worth of national mobilization in country: The National Society is expanding\
+    \ their capacity to inform major national stakeholders about the GRC\u2019s emergency\
+    \ operations. As a result of this emergency appeal, a video documenting the actions\
+    \ of the National Society and their main achievements was filmed to support their\
+    \ visibility campaign. This video will soon be available on the web In addition,\
+    \ 500 booklets will be . printed and provided to different actors across the country."
+  - 'The value of leaving behind an installed capacity in the communities as was the
+    case with water distribution activities: The installation of tanks in communities
+    (beyond merely distributing water by trucks) in addition of community trainings
+    enabled beneficiaries to organize and seek assistance from other actors for a
+    more sustainable access to water.'
+  - During this operation, the GRC also successfully completed for the first time
+    a cash transfer programme with vouchers to acquire construction materials.

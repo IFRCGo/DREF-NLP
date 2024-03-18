@@ -1,405 +1,555 @@
-- content:
-  - block_number: 4
-    index: 657
-    line_number: 0
+- title:
+    text: 'Lessons learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 12
+    block_number: 3
+    line_number: 0
     span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    total_y: 9560.52001953125
+    origin_x: 41.400001525878906
+    idx: 656
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 535
+  sector_similarity_score: 1.0
+  content:
+  - index: 657
     text: "\u2022"
     text_base: ''
-    total_y: 9573.239990234375
-  - block_number: 4
-    index: 658
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 9573.239990234375
+    origin_x: 59.400001525878906
+    double_fontsize_int: 20
+  - index: 658
     text: 'Reviews and engagements of implementors at the beginning of each operation
       cycle is key to timely and effective '
     text_base: reviews and engagements of implementors at the beginning of each operation
       cycle is key to timely and effective
-    total_y: 9573.239990234375
-  - block_number: 5
-    index: 659
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
-    span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 9573.239990234375
+    origin_x: 77.4000015258789
+    double_fontsize_int: 20
+  - index: 659
     text: 'implementation. It also helps to have a common understanding  requirements
       and targets. '
     text_base: implementation it also helps to have a common understanding requirements
       and targets
-    total_y: 9590.400024414062
-  - block_number: 6
-    index: 660
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
+    block_number: 5
+    line_number: 0
     span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    total_y: 9590.400024414062
+    origin_x: 77.4000015258789
+    double_fontsize_int: 20
+  - index: 660
     text: "\u2022"
     text_base: ''
-    total_y: 9608.400024414062
-  - block_number: 6
-    index: 661
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 9608.400024414062
+    origin_x: 59.400001525878906
+    double_fontsize_int: 20
+  - index: 661
     text: 'Engaging the government sectors at each level of the project phase made
       the operation very successful '
     text_base: engaging the government sectors at each level of the project phase
       made the operation very successful
-    total_y: 9608.400024414062
-  - block_number: 7
-    index: 662
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
-    span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 9608.400024414062
+    origin_x: 77.39772033691406
+    double_fontsize_int: 20
+  - index: 662
     text: "\u2022"
     text_base: ''
-    total_y: 9626.278198242188
-  - block_number: 7
-    index: 663
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 9626.278198242188
+    origin_x: 59.390045166015625
+    double_fontsize_int: 20
+  - index: 663
     text: 'Flexibility on design and implementation of the operation based on community
       felt needs helped the NS to complete '
     text_base: flexibility on design and implementation of the operation based on
       community felt needs helped the ns to complete
-    total_y: 9626.278198242188
-  - block_number: 8
-    index: 664
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
-    span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 9626.278198242188
+    origin_x: 77.38776397705078
+    double_fontsize_int: 20
+  - index: 664
     text: 'the overall implementation as per the agreement. '
     text_base: the overall implementation as per the agreement
-    total_y: 9643.558776855469
-  - block_number: 9
-    index: 665
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
+    block_number: 8
+    line_number: 0
     span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    total_y: 9643.558776855469
+    origin_x: 77.39776611328125
+    double_fontsize_int: 20
+  - index: 665
     text: "\u2022"
     text_base: ''
-    total_y: 9661.436950683594
-  - block_number: 9
-    index: 666
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 9661.436950683594
+    origin_x: 59.39009094238281
+    double_fontsize_int: 20
+  - index: 666
     text: 'Community engagement at all stages of the operation is important for accountability
       and sustainability.  '
     text_base: community engagement at all stages of the operation is important for
       accountability and sustainability
-    total_y: 9661.436950683594
-  - block_number: 10
-    index: 667
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
-    span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    block_number: 9
+    line_number: 0
+    span_number: 1
+    total_y: 9661.436950683594
+    origin_x: 77.38780975341797
+    double_fontsize_int: 20
+  - index: 667
     text: "\u2022"
     text_base: ''
-    total_y: 9679.434692382812
-  - block_number: 10
-    index: 668
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 9679.434692382812
+    origin_x: 59.390106201171875
+    double_fontsize_int: 20
+  - index: 668
     text: 'Delegation of works to the branches can facilitate the implementation. '
     text_base: delegation of works to the branches can facilitate the implementation
-    total_y: 9679.434692382812
-  - block_number: 11
-    index: 669
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
-    span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    block_number: 10
+    line_number: 0
+    span_number: 1
+    total_y: 9679.434692382812
+    origin_x: 77.38782501220703
+    double_fontsize_int: 20
+  - index: 669
     text: "\u2022"
     text_base: ''
-    total_y: 9697.312866210938
-  - block_number: 11
-    index: 670
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 9697.312866210938
+    origin_x: 59.390106201171875
+    double_fontsize_int: 20
+  - index: 670
     text: 'Close monitoring and follow will enable the branches to take action as
       fast as possible. '
     text_base: close monitoring and follow will enable the branches to take action
       as fast as possible
-    total_y: 9697.312866210938
-  sector_idx: 535
-  sector_similarity_score: 1.0
-  sector_title: Water, Sanitation and Hygiene
-  title:
-    block_number: 3
-    idx: 656
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 12
-    span_number: 0
-    style: 'Arial-BoldMT, 20, #000000, #edebe0'
+    block_number: 11
+    line_number: 0
+    span_number: 1
+    total_y: 9697.312866210938
+    origin_x: 77.38782501220703
+    double_fontsize_int: 20
+  items:
+  - Reviews and engagements of implementors at the beginning of each operation cycle
+    is key to timely and effective implementation. It also helps to have a common
+    understanding  requirements and targets.
+  - Engaging the government sectors at each level of the project phase made the operation
+    very successful
+  - Flexibility on design and implementation of the operation based on community felt
+    needs helped the NS to complete the overall implementation as per the agreement.
+  - Community engagement at all stages of the operation is important for accountability
+    and sustainability.
+  - Delegation of works to the branches can facilitate the implementation.
+  - Close monitoring and follow will enable the branches to take action as fast as
+    possible.
+- title:
     text: 'Lessons learned '
     text_base: lessons learned
-    total_y: 9560.52001953125
-- content:
-  - block_number: 12
-    index: 764
-    line_number: 0
+    style: 'bold, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 13
+    block_number: 11
+    line_number: 0
     span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    total_y: 10828.079956054688
+    origin_x: 41.400001525878906
+    idx: 763
+  sector_title: Food insecurity and nutrition
+  sector_idx: 671
+  sector_similarity_score: 1.0
+  content:
+  - index: 764
     text: "\u2022"
     text_base: ''
-    total_y: 10846.559997558594
-  - block_number: 12
-    index: 765
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 10846.559997558594
+    origin_x: 59.400001525878906
+    double_fontsize_int: 20
+  - index: 765
     text: 'Community engagement is key in ensuring that the needs  and priorities
       of the beneficiaries are identified, discussed '
     text_base: community engagement is key in ensuring that the needs and priorities
       of the beneficiaries are identified discussed
-    total_y: 10846.559997558594
-  - block_number: 13
-    index: 766
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
-    span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 12
+    line_number: 0
+    span_number: 1
+    total_y: 10846.559997558594
+    origin_x: 77.4000015258789
+    double_fontsize_int: 20
+  - index: 766
     text: 'and addresses appropriately.   '
     text_base: and addresses appropriately
-    total_y: 10863.719970703125
-  - block_number: 14
-    index: 767
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
+    block_number: 13
+    line_number: 0
     span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    total_y: 10863.719970703125
+    origin_x: 77.4000015258789
+    double_fontsize_int: 20
+  - index: 767
     text: "\u2022"
     text_base: ''
-    total_y: 10881.719970703125
-  - block_number: 14
-    index: 768
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 10881.719970703125
+    origin_x: 59.400001525878906
+    double_fontsize_int: 20
+  - index: 768
     text: 'Involvement of staff with other actors help the implementation to achieve
       its objective and reach out the targeted '
     text_base: involvement of staff with other actors help the implementation to achieve
       its objective and reach out the targeted
-    total_y: 10881.719970703125
-  - block_number: 15
-    index: 769
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
-    span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 14
+    line_number: 0
+    span_number: 1
+    total_y: 10881.719970703125
+    origin_x: 77.39772033691406
+    double_fontsize_int: 20
+  - index: 769
     text: 'beneficiaries. '
     text_base: beneficiaries
-    total_y: 10898.881103515625
-  - block_number: 16
-    index: 770
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
+    block_number: 15
+    line_number: 0
     span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    total_y: 10898.881103515625
+    origin_x: 77.397705078125
+    double_fontsize_int: 20
+  - index: 770
     text: "\u2022"
     text_base: ''
-    total_y: 10916.878784179688
-  - block_number: 16
-    index: 771
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 10916.878784179688
+    origin_x: 59.39997863769531
+    double_fontsize_int: 20
+  - index: 771
     text: 'It is very vital that comprehensive and accurate beneficiary data is recorded
       and screened ahead of the operation. '
     text_base: it is very vital that comprehensive and accurate beneficiary data is
       recorded and screened ahead of the operation
-    total_y: 10916.878784179688
-  - block_number: 17
-    index: 772
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
-    span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    block_number: 16
+    line_number: 0
+    span_number: 1
+    total_y: 10916.878784179688
+    origin_x: 77.39769744873047
+    double_fontsize_int: 20
+  - index: 772
     text: "\u2022"
     text_base: ''
-    total_y: 10934.757019042969
-  - block_number: 17
-    index: 773
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 10934.757019042969
+    origin_x: 59.4000244140625
+    double_fontsize_int: 20
+  - index: 773
     text: 'It was realized through time that recruitment of nutrition officer for
       the implementation would be better to do the activity '
     text_base: it was realized through time that recruitment of nutrition officer
       for the implementation would be better to do the activity
-    total_y: 10934.757019042969
-  - block_number: 18
-    index: 774
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
-    span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 17
+    line_number: 0
+    span_number: 1
+    total_y: 10934.757019042969
+    origin_x: 77.39774322509766
+    double_fontsize_int: 20
+  - index: 774
     text: 'very professionally and in maintaining the quality. '
     text_base: very professionally and in maintaining the quality
-    total_y: 10952.03759765625
-  - block_number: 19
-    index: 775
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
+    block_number: 18
+    line_number: 0
     span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    total_y: 10952.03759765625
+    origin_x: 77.39776611328125
+    double_fontsize_int: 20
+  - index: 775
     text: "\u2022"
     text_base: ''
-    total_y: 10969.915832519531
-  - block_number: 19
-    index: 776
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 10969.915832519531
+    origin_x: 59.39002990722656
+    double_fontsize_int: 20
+  - index: 776
     text: 'The distribution of supplementary food assistance should be in complete
       package which contains (e.g. Milk and other '
     text_base: the distribution of supplementary food assistance should be in complete
       package which contains e g milk and other
-    total_y: 10969.915832519531
-  - block_number: 20
-    index: 777
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
-    span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 19
+    line_number: 0
+    span_number: 1
+    total_y: 10969.915832519531
+    origin_x: 77.38774871826172
+    double_fontsize_int: 20
+  - index: 777
     text: 'recommended food stuffs) to recover the malnourished to normal in the given
       recommended period by WHO. '
     text_base: recommended food stuffs to recover the malnourished to normal in the
       given recommended period by who
-    total_y: 10987.196411132812
-  sector_idx: 671
-  sector_similarity_score: 1.0
-  sector_title: Food insecurity and nutrition
-  title:
-    block_number: 11
-    idx: 763
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 13
-    span_number: 0
-    style: 'Arial-BoldMT, 20, #000000, #edebe0'
-    text: 'Lessons learned '
-    text_base: lessons learned
-    total_y: 10828.079956054688
-- content:
-  - block_number: 5
-    index: 872
+    block_number: 20
     line_number: 0
-    page_number: 15
     span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    total_y: 10987.196411132812
+    origin_x: 77.38772583007812
+    double_fontsize_int: 20
+  items:
+  - Community engagement is key in ensuring that the needs  and priorities of the
+    beneficiaries are identified, discussed and addresses appropriately.
+  - Involvement of staff with other actors help the implementation to achieve its
+    objective and reach out the targeted beneficiaries.
+  - It is very vital that comprehensive and accurate beneficiary data is recorded
+    and screened ahead of the operation.
+  - It was realized through time that recruitment of nutrition officer for the implementation
+    would be better to do the activity very professionally and in maintaining the
+    quality.
+  - The distribution of supplementary food assistance should be in complete package
+    which contains (e.g. Milk and other recommended food stuffs) to recover the malnourished
+    to normal in the given recommended period by WHO.
+- title:
+    text: 'Lessons Learnt '
+    text_base: lessons learnt
+    style: 'bold, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 11973.119995117188
+    origin_x: 42.119998931884766
+    idx: 871
+  sector_title: Health and Care
+  sector_idx: 781
+  sector_similarity_score: 1.0
+  content:
+  - index: 872
     text: "\u2022"
     text_base: ''
-    total_y: 11985.359985351562
-  - block_number: 5
-    index: 873
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 15
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 11985.359985351562
+    origin_x: 60.119998931884766
+    double_fontsize_int: 20
+  - index: 873
     text: 'High dedication of Senior management bodies of the NS, Project staff and
       volunteers paved the way to complete '
     text_base: high dedication of senior management bodies of the ns project staff
       and volunteers paved the way to complete
-    total_y: 11985.359985351562
-  - block_number: 5
-    index: 874
-    line_number: 2
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 15
-    span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 11985.359985351562
+    origin_x: 78.11772155761719
+    double_fontsize_int: 20
+  - index: 874
     text: 'the activities as per the agreement '
     text_base: the activities as per the agreement
-    total_y: 11996.883728027344
-  - block_number: 6
-    index: 875
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 15
+    block_number: 5
+    line_number: 2
     span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    total_y: 11996.883728027344
+    origin_x: 78.11773681640625
+    double_fontsize_int: 20
+  - index: 875
     text: "\u2022"
     text_base: ''
-    total_y: 12009.124572753906
-  - block_number: 6
-    index: 876
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 15
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 12009.124572753906
+    origin_x: 60.11006164550781
+    double_fontsize_int: 20
+  - index: 876
     text: 'Close monitoring and communication mechanisms putting in place played a
       great role in the implementation '
     text_base: close monitoring and communication mechanisms putting in place played
       a great role in the implementation
-    total_y: 12009.124572753906
-  - block_number: 6
-    index: 877
-    line_number: 2
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 15
-    span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 12009.124572753906
+    origin_x: 78.10778045654297
+    double_fontsize_int: 20
+  - index: 877
     text: 'throughout the course of the operation '
     text_base: throughout the course of the operation
-    total_y: 12020.528747558594
-  - block_number: 7
-    index: 878
-    line_number: 0
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 15
+    block_number: 6
+    line_number: 2
     span_number: 0
-    style: 'SymbolMT, 20, #000000, None'
+    total_y: 12020.528747558594
+    origin_x: 78.10775756835938
+    double_fontsize_int: 20
+  - index: 878
     text: "\u2022"
     text_base: ''
-    total_y: 12032.769592285156
-  - block_number: 7
-    index: 879
-    line_number: 0
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 15
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 12032.769592285156
+    origin_x: 60.11004638671875
+    double_fontsize_int: 20
+  - index: 879
     text: 'Engagement of the local government sectors and user communities contributed
       much in facilitating the successful '
     text_base: engagement of the local government sectors and user communities contributed
       much in facilitating the successful
-    total_y: 12032.769592285156
-  - block_number: 7
-    index: 880
-    line_number: 2
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 15
-    span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 12032.769592285156
+    origin_x: 78.1077651977539
+    double_fontsize_int: 20
+  - index: 880
     text: implementation of the operation
     text_base: implementation of the operation
-    total_y: 12044.173767089844
-  sector_idx: 781
-  sector_similarity_score: 1.0
-  sector_title: Health and Care
-  title:
-    block_number: 4
-    idx: 871
-    line_number: 1
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 15
+    block_number: 7
+    line_number: 2
     span_number: 0
-    style: 'Arial-BoldMT, 20, #000000, None'
-    text: 'Lessons Learnt '
-    text_base: lessons learnt
-    total_y: 11973.119995117188
+    total_y: 12044.173767089844
+    origin_x: 78.1077651977539
+    double_fontsize_int: 20
+  items:
+  - High dedication of Senior management bodies of the NS, Project staff and volunteers
+    paved the way to complete the activities as per the agreement
+  - Close monitoring and communication mechanisms putting in place played a great
+    role in the implementation throughout the course of the operation
+  - Engagement of the local government sectors and user communities contributed much
+    in facilitating the successful implementation of the operation

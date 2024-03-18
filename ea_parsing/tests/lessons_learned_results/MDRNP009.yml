@@ -1,353 +1,501 @@
-- content:
-  - block_number: 11
-    index: 496
-    line_number: 0
+- title:
+    text: 'Lessons learned '
+    text_base: lessons learned
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 7
+    block_number: 10
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    total_y: 6526.869873046875
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 622.4681396484375, 134.26162719726562, 636.5133056640625)
+    idx: 495
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 392
+  sector_similarity_score: 1.0
+  content:
+  - index: 496
     text: 'Software activities such as safe shelter construction awareness should
       always be accompanied with hardware '
     text_base: software activities such as safe shelter construction awareness should
       always be accompanied with hardware
-    total_y: 6542.4698486328125
-  - block_number: 11
-    index: 497
-    line_number: 1
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 7
+    block_number: 11
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 6542.4698486328125
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 638.322998046875, 558.7088623046875, 652.0079956054688)
+    double_fontsize_int: 20
+  - index: 497
     text: 'interventions such as support for the construction of houses. Implementation
       of software activities followed by direct '
     text_base: interventions such as support for the construction of houses implementation
       of software activities followed by direct
-    total_y: 6555.699890136719
-  - block_number: 11
-    index: 498
-    line_number: 2
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
+    block_number: 11
+    line_number: 1
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 6555.699890136719
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 651.552978515625, 558.6807250976562, 665.238037109375)
+    double_fontsize_int: 20
+  - index: 498
     text: 'support for shelter construction helps in retaining knowledge gained. During
       the end line survey, it was found that the '
     text_base: support for shelter construction helps in retaining knowledge gained
       during the end line survey it was found that the
-    total_y: 6568.899841308594
-  - block_number: 11
-    index: 499
-    line_number: 3
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
+    block_number: 11
+    line_number: 2
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 6568.899841308594
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 664.7529296875, 558.7030029296875, 678.43798828125)
+    double_fontsize_int: 20
+  - index: 499
     text: per cent of target families that increased their knowledge on safe shelter
       construction was low due to non-
     text_base: per cent of target families that increased their knowledge on safe
       shelter construction was low due to non
-    total_y: 6582.099853515625
-  - block_number: 11
-    index: 500
-    line_number: 4
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
+    block_number: 11
+    line_number: 3
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 6582.099853515625
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 677.9530029296875, 555.8966674804688, 691.6380004882812)
+    double_fontsize_int: 20
+  - index: 500
     text: 'implementation of support for construction of houses by different agencies.  '
     text_base: implementation of support for construction of houses by different agencies
-    total_y: 6595.299865722656
-  sector_idx: 392
-  sector_similarity_score: 1.0
-  sector_title: Shelter, Housing and Settlements
-  title:
-    block_number: 10
-    idx: 495
-    line_number: 0
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
+    block_number: 11
+    line_number: 4
     span_number: 0
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
-    text: 'Lessons learned '
+    total_y: 6595.299865722656
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 691.1529541015625, 377.2388916015625, 704.8380126953125)
+    double_fontsize_int: 20
+  items:
+  - Software activities such as safe shelter construction awareness should always
+    be accompanied with hardware interventions such as support for the construction
+    of houses. Implementation of software activities followed by direct support for
+    shelter construction helps in retaining knowledge gained. During the end line
+    survey, it was found that the per cent of target families that increased their
+    knowledge on safe shelter construction was low due to non- implementation of support
+    for construction of houses by different agencies.
+- title:
+    text: Lessons learned
     text_base: lessons learned
-    total_y: 6526.869873046875
-- content:
-  - block_number: 3
-    index: 689
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 17
     line_number: 0
-    page_number: 11
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 9183.935791015623
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 753.7741088867188, 130.842041015625, 767.8192749023438)
+    idx: 672
+  sector_title: Livelihoods
+  sector_idx: 507
+  sector_similarity_score: 1.0
+  content:
+  - index: 689
     text: 'A flexible CBI covering whole costs and/or linking with local government
       schemes/community groups covering the '
     text_base: a flexible cbi covering whole costs and or linking with local government
       schemes community groups covering the
-    total_y: 9319.559814453125
-  - block_number: 3
-    index: 690
-    line_number: 1
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
+    block_number: 3
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 9319.559814453123
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 47.733001708984375, 557.8966064453125, 61.41804122924805)
+    double_fontsize_int: 20
+  - index: 690
     text: 'purchasing of livestock would be useful to avoid debt burden on beneficiary
       and to sustain livelihood activities in the '
     text_base: purchasing of livestock would be useful to avoid debt burden on beneficiary
       and to sustain livelihood activities in the
-    total_y: 9332.759765625
-  - block_number: 3
-    index: 691
-    line_number: 2
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
+    block_number: 3
+    line_number: 1
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 9332.759765625
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 60.932952880859375, 557.7403564453125, 74.61799621582031)
+    double_fontsize_int: 20
+  - index: 691
     text: 'future. As district authorities were involved in beneficiary selection
       processes and monitoring, involving them in '
     text_base: future as district authorities were involved in beneficiary selection
       processes and monitoring involving them in
-    total_y: 9345.959777832031
-  - block_number: 3
-    index: 692
-    line_number: 3
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
+    block_number: 3
+    line_number: 2
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 9345.959777832031
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 74.13296508789062, 557.9154052734375, 87.81800842285156)
+    double_fontsize_int: 20
+  - index: 692
     text: 'designing and planning, can   better support the sustainability of livelihood
       interventions.  '
     text_base: designing and planning can better support the sustainability of livelihood
       interventions
-    total_y: 9359.179809570312
-  sector_idx: 507
-  sector_similarity_score: 1.0
-  sector_title: Livelihoods
-  title:
-    block_number: 17
-    idx: 672
-    line_number: 0
-    page_number: 10
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 3
+    line_number: 3
     span_number: 0
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    total_y: 9359.179809570312
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 87.35299682617188, 436.2789001464844, 101.03804016113281)
+    double_fontsize_int: 20
+  items:
+  - A flexible CBI covering whole costs and/or linking with local government schemes/community
+    groups covering the purchasing of livestock would be useful to avoid debt burden
+    on beneficiary and to sustain livelihood activities in the future. As district
+    authorities were involved in beneficiary selection processes and monitoring, involving
+    them in designing and planning, can   better support the sustainability of livelihood
+    interventions.
+- title:
     text: Lessons learned
     text_base: lessons learned
-    total_y: 9183.935791015625
-- content:
-  - block_number: 7
-    index: 902
-    line_number: 0
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 14
+    block_number: 6
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    total_y: 11945.059753417969
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 147.21815490722656, 130.84152221679688, 161.2633056640625)
+    idx: 901
+  sector_title: Health and Care
+  sector_idx: 693
+  sector_similarity_score: 1.0
+  content:
+  - index: 902
     text: 'A higher level of NFRI stocks should be maintained at strategically located
       warehouses and procurement processes '
     text_base: a higher level of nfri stocks should be maintained at strategically
       located warehouses and procurement processes
-    total_y: 11960.179748535156
-  - block_number: 7
-    index: 903
-    line_number: 1
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 14
+    block_number: 7
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 11960.179748535156
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 162.59298706054688, 559.4288330078125, 176.2780303955078)
+    double_fontsize_int: 20
+  - index: 903
     text: 'should be fast tracked especially for relief phase to avoid delayed distribution.  '
     text_base: should be fast tracked especially for relief phase to avoid delayed
       distribution
-    total_y: 11973.379760742188
-  sector_idx: 693
-  sector_similarity_score: 1.0
-  sector_title: Health and Care
-  title:
-    block_number: 6
-    idx: 901
-    line_number: 0
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
+    block_number: 7
+    line_number: 1
     span_number: 0
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
-    text: Lessons learned
+    total_y: 11973.379760742188
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 175.79299926757812, 389.9588928222656, 189.47804260253906)
+    double_fontsize_int: 20
+  items:
+  - A higher level of NFRI stocks should be maintained at strategically located warehouses
+    and procurement processes should be fast tracked especially for relief phase to
+    avoid delayed distribution.
+- title:
+    text: 'Lessons learned '
     text_base: lessons learned
-    total_y: 11945.059753417969
-- content:
-  - block_number: 5
-    index: 1190
-    line_number: 29
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 17
+    block_number: 5
+    line_number: 28
     span_number: 0
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    total_y: 15038.85968017578
+    origin_x: 43.20000076293945
+    bbox: (43.20000076293945, 715.2581176757812, 136.06163024902344, 729.3032836914062)
+    idx: 1189
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 904
+  sector_similarity_score: 1.0
+  content:
+  - index: 1190
     text: "Community driven approach related to construction is much faster. NRCS\u2019\
       s decision to decentralize the procurement "
     text_base: community driven approach related to construction is much faster nrcs
       s decision to decentralize the procurement
-    total_y: 15052.539672851562
-  - block_number: 5
-    index: 1191
-    line_number: 30
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 17
+    block_number: 5
+    line_number: 29
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 15052.539672851562
+    origin_x: 43.20000076293945
+    bbox: (43.20000076293945, 729.1929931640625, 559.7888793945312, 742.8779907226562)
+    double_fontsize_int: 20
+  - index: 1191
     text: 'of materials for the construction of tube wells and toilets through a user
       committee formed by the district chapters, '
     text_base: of materials for the construction of tube wells and toilets through
       a user committee formed by the district chapters
-    total_y: 15064.055725097656
-  - block_number: 5
-    index: 1192
-    line_number: 31
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
+    block_number: 5
+    line_number: 30
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 15064.055725097656
+    origin_x: 43.20000076293945
+    bbox: (43.20000076293945, 740.708984375, 559.7888793945312, 754.39404296875)
+    double_fontsize_int: 20
+  - index: 1192
     text: 'contributed to greater efficiency and speedier construction.  '
     text_base: contributed to greater efficiency and speedier construction
-    total_y: 15075.57568359375
-  sector_idx: 904
-  sector_similarity_score: 1.0
-  sector_title: Water, Sanitation and Hygiene
-  title:
-    block_number: 5
-    idx: 1189
-    line_number: 28
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
+    block_number: 5
+    line_number: 31
     span_number: 0
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
-    text: 'Lessons learned '
+    total_y: 15075.57568359375
+    origin_x: 43.20000076293945
+    bbox: (43.20000076293945, 752.22900390625, 308.4588928222656, 765.9140014648438)
+    double_fontsize_int: 20
+  items:
+  - "Community driven approach related to construction is much faster. NRCS\u2019\
+    s decision to decentralize the procurement of materials for the construction of\
+    \ tube wells and toilets through a user committee formed by the district chapters,\
+    \ contributed to greater efficiency and speedier construction."
+- title:
+    text: Lessons learned
     text_base: lessons learned
-    total_y: 15038.859680175781
-- content:
-  - block_number: 6
-    index: 1306
-    line_number: 1
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 19
+    block_number: 6
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    total_y: 16697.85968017578
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 690.4181518554688, 130.842041015625, 704.4633178710938)
+    idx: 1305
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 1205
+  sector_similarity_score: 1.0
+  content:
+  - index: 1306
     text: 'Based on learning from the Floods Operation, NRCS should be updating and
       contextualizing its response mechanism '
     text_base: based on learning from the floods operation nrcs should be updating
       and contextualizing its response mechanism
-    total_y: 16712.259643554688
-  - block_number: 6
-    index: 1307
-    line_number: 2
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 19
+    block_number: 6
+    line_number: 1
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 16712.259643554688
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 705.072998046875, 557.7880249023438, 718.7579956054688)
+    double_fontsize_int: 20
+  - index: 1307
     text: 'as well as planning process such as the Disaster Response Operation Manual
       (DROM) which was developed in 2010. '
     text_base: as well as planning process such as the disaster response operation
       manual drom which was developed in 2010
-    total_y: 16725.45965576172
-  - block_number: 6
-    index: 1308
-    line_number: 3
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
+    block_number: 6
+    line_number: 2
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 16725.45965576172
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 718.27294921875, 557.98876953125, 731.9580078125)
+    double_fontsize_int: 20
+  - index: 1308
     text: 'Regularly reviewed and updated DROM will be useful to ensure a more effective
       and efficient response.  '
     text_base: regularly reviewed and updated drom will be useful to ensure a more
       effective and efficient response
-    total_y: 16738.655639648438
-  sector_idx: 1205
-  sector_similarity_score: 1.0
-  sector_title: Risk Reduction, Climate adaptation and Recovery
-  title:
-    block_number: 6
-    idx: 1305
-    line_number: 0
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
+    block_number: 6
+    line_number: 3
     span_number: 0
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    total_y: 16738.655639648438
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 731.468994140625, 505.78887939453125, 745.1539916992188)
+    double_fontsize_int: 20
+  items:
+  - Based on learning from the Floods Operation, NRCS should be updating and contextualizing
+    its response mechanism as well as planning process such as the Disaster Response
+    Operation Manual (DROM) which was developed in 2010. Regularly reviewed and updated
+    DROM will be useful to ensure a more effective and efficient response.
+- title:
     text: Lessons learned
     text_base: lessons learned
-    total_y: 16697.85968017578
-- content:
-  - block_number: 21
-    index: 1384
-    line_number: 0
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 20
+    block_number: 20
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 17429.349609375
+    origin_x: 43.43999862670898
+    bbox: (43.439998626708984, 579.9880981445312, 132.8820343017578, 594.0332641601562)
+    idx: 1383
+  sector_title: Protection, Gender and Inclusion
+  sector_idx: 1326
+  sector_similarity_score: 1.0
+  content:
+  - index: 1384
     text: 'The participation of community people in orientation and trainings and
       at the implementation was high.  '
     text_base: the participation of community people in orientation and trainings
       and at the implementation was high
-    total_y: 17444.949645996094
-  sector_idx: 1326
-  sector_similarity_score: 1.0
-  sector_title: Protection, Gender and Inclusion
-  title:
-    block_number: 20
-    idx: 1383
-    line_number: 0
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 20
-    span_number: 0
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
-    text: Lessons learned
-    text_base: lessons learned
-    total_y: 17429.349609375
-- content: []
-  sector_idx: 1385
-  sector_similarity_score: 1.0
-  sector_title: National Society Strengthening
-  title:
-    block_number: 9
-    idx: 1432
+    block_number: 21
     line_number: 0
-    page_number: 21
     span_number: 0
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    total_y: 17444.949645996094
+    origin_x: 43.43999862670898
+    bbox: (43.439998626708984, 595.843017578125, 500.9888916015625, 609.5280151367188)
+    double_fontsize_int: 20
+  items:
+  - 'The participation of community people in orientation and trainings and at the
+    implementation was high.  '
+- title:
     text: 'Lessons learned '
     text_base: lessons learned
-    total_y: 18145.36962890625
-- content: []
-  sector_idx: 1434
-  sector_similarity_score: 1.0
-  sector_title: International Disaster Response
-  title:
-    block_number: 8
-    idx: 1484
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 21
+    block_number: 9
     line_number: 0
-    page_number: 22
     span_number: 0
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    total_y: 18145.36962890625
+    origin_x: 43.20000076293945
+    bbox: (43.20000076293945, 454.0881652832031, 136.06163024902344, 468.13330078125)
+    idx: 1432
+  sector_title: National Society Strengthening
+  sector_idx: 1385
+  sector_similarity_score: 1.0
+  content: []
+  items: []
+- title:
     text: Lessons learned
     text_base: lessons learned
-    total_y: 18826.729614257812
-- content:
-  - block_number: 6
-    index: 1559
-    line_number: 1
-    page_number: 23
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 22
+    block_number: 8
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    total_y: 18826.72961425781
+    origin_x: 42.119998931884766
+    bbox: (42.119998931884766, 293.5281677246094, 131.56204223632812, 307.57330322265625)
+    idx: 1484
+  sector_title: International Disaster Response
+  sector_idx: 1434
+  sector_similarity_score: 1.0
+  content: []
+  items: []
+- title:
+    text: 'Lessons learned '
+    text_base: lessons learned
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 19801.609588623047
+    origin_x: 43.91999816894531
+    bbox: (43.91999816894531, 426.4881591796875, 136.78163146972656, 440.5332946777344)
+    idx: 1558
+  sector_title: Influence others as leading strategic partner
+  sector_idx: 1486
+  sector_similarity_score: 1.0
+  content:
+  - index: 1559
     text: 'There is a need for establishing a functional quality control unity at
       programme/operational level with dedicated PMER '
     text_base: there is a need for establishing a functional quality control unity
       at programme operational level with dedicated pmer
-    total_y: 19816.00958251953
-  - block_number: 6
-    index: 1560
-    line_number: 2
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 23
+    block_number: 6
+    line_number: 1
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 19816.00958251953
+    origin_x: 43.91999816894531
+    bbox: (43.91999816894531, 441.1429748535156, 557.8998413085938, 454.8280029296875)
+    double_fontsize_int: 20
+  - index: 1560
     text: 'focal point in all future operations.   '
     text_base: focal point in all future operations
-    total_y: 19829.209594726562
-  sector_idx: 1486
-  sector_similarity_score: 1.0
-  sector_title: Influence others as leading strategic partner
-  title:
-    block_number: 6
-    idx: 1558
-    line_number: 0
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
+    block_number: 6
+    line_number: 2
     span_number: 0
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
-    text: 'Lessons learned '
-    text_base: lessons learned
-    total_y: 19801.609588623047
-- content: []
-  sector_idx: 1561
-  sector_similarity_score: 1.0
-  sector_title: Effective, credible and accountable IFRC
-  title:
-    block_number: 11
-    idx: 1696
-    line_number: 0
-    page_number: 24
-    span_number: 0
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    total_y: 19829.20959472656
+    origin_x: 43.91999816894531
+    bbox: (43.91999816894531, 454.3429870605469, 201.86888122558594, 468.02801513671875)
+    double_fontsize_int: 20
+  items:
+  - There is a need for establishing a functional quality control unity at programme/operational
+    level with dedicated PMER focal point in all future operations.
+- title:
     text: Lessons Learned
     text_base: lessons learned
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 11
+    line_number: 0
+    span_number: 0
     total_y: 20963.855590820312
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 746.8141479492188, 134.26791381835938, 760.8593139648438)
+    idx: 1696
+  sector_title: Effective, credible and accountable IFRC
+  sector_idx: 1561
+  sector_similarity_score: 1.0
+  content: []
+  items: []

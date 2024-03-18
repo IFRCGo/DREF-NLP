@@ -2,11 +2,14 @@
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
     page_number: 15
     block_number: 7
     line_number: 0
     span_number: 0
-    total_y: 12844.459655761719
+    total_y: 12844.45965576172
+    origin_x: 55.79999923706055
+    bbox: (55.79999923706055, 203.21426391601562, 112.52726745605469, 216.7779541015625)
     idx: 858
   sector_title: Shelter, Housing and Settlements
   sector_idx: 812
@@ -15,108 +18,160 @@
   - index: 859
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 8
     line_number: 0
     span_number: 0
     total_y: 12861.739624023438
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 221.12646484375, 57.7412109375, 233.32843017578125)
+    double_fontsize_int: 20
   - index: 860
     text: 'Limited staff in RCSBiH HQ due to delayed internal process of adoption
       of Rulebook to enable employment '
     text_base: limited staff in rcsbih hq due to delayed internal process of adoption
       of rulebook to enable employment
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 8
     line_number: 0
     span_number: 1
     total_y: 12861.739624023438
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 220.49423217773438, 562.79443359375, 234.05792236328125)
+    double_fontsize_int: 20
   - index: 861
     text: 'of the personnel needed for well-functioning of the RCSBiH HQs and strengthening
       its technical and '
     text_base: of the personnel needed for well functioning of the rcsbih hqs and
       strengthening its technical and
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 8
     line_number: 2
     span_number: 0
     total_y: 12876.499633789062
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 235.25424194335938, 562.5242309570312, 248.81793212890625)
+    double_fontsize_int: 20
   - index: 862
     text: 'coordination role in implementation of the field activities '
     text_base: coordination role in implementation of the field activities
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 8
     line_number: 3
     span_number: 0
     total_y: 12891.1396484375
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 249.89425659179688, 338.1409606933594, 263.45794677734375)
+    double_fontsize_int: 20
   - index: 863
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 9
     line_number: 0
     span_number: 0
     total_y: 12905.809631347656
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 265.19647216796875, 57.7412109375, 277.3984375)
+    double_fontsize_int: 20
   - index: 864
     text: 'The delay in the procurement processes '
     text_base: the delay in the procurement processes
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 9
     line_number: 0
     span_number: 1
     total_y: 12905.809631347656
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 264.5642395019531, 260.76031494140625, 278.1279296875)
+    double_fontsize_int: 20
   - index: 865
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 10
     line_number: 0
     span_number: 0
-    total_y: 12920.569641113281
+    total_y: 12920.56964111328
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 279.95648193359375, 57.7412109375, 292.158447265625)
+    double_fontsize_int: 20
   - index: 866
     text: ' Frequent changes in political context which required Red Cross organization
       to be flexible and prepared '
     text_base: frequent changes in political context which required red cross organization
       to be flexible and prepared
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 10
     line_number: 0
     span_number: 1
-    total_y: 12920.569641113281
+    total_y: 12920.56964111328
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 279.3242492675781, 562.803466796875, 292.887939453125)
+    double_fontsize_int: 20
   - index: 867
     text: to respond at any location in the country.
     text_base: to respond at any location in the country
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 10
     line_number: 2
     span_number: 0
-    total_y: 12935.209655761719
+    total_y: 12935.20965576172
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 293.9642639160156, 262.9251403808594, 307.5279541015625)
+    double_fontsize_int: 20
   - index: 868
     text: For more details, please refer to Operations Updates 1-9
     text_base: for more details please refer to operations updates 1 9
     style: 'regular, 20, #0462c1, #0462c1'
+    size: 9.960000038146973
     page_number: 15
     block_number: 10
     line_number: 3
     span_number: 0
     total_y: 12949.969665527344
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 308.7242736816406, 333.84490966796875, 322.2879638671875)
+    double_fontsize_int: 20
+  items:
+  - Limited staff in RCSBiH HQ due to delayed internal process of adoption of Rulebook
+    to enable employment of the personnel needed for well-functioning of the RCSBiH
+    HQs and strengthening its technical and coordination role in implementation of
+    the field activities
+  - The delay in the procurement processes
+  - Frequent changes in political context which required Red Cross organization to
+    be flexible and prepared to respond at any location in the country.
+  - For more details, please refer to Operations Updates 1-9
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
     page_number: 16
     block_number: 16
     line_number: 0
     span_number: 0
     total_y: 14012.82958984375
+    origin_x: 55.79999923706055
+    bbox: (55.79999923706055, 529.544189453125, 112.52726745605469, 543.10791015625)
     idx: 942
   sector_title: Livelihoods
   sector_idx: 869
@@ -125,121 +180,179 @@
   - index: 943
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 17
     line_number: 0
     span_number: 0
-    total_y: 14030.109619140625
+    total_y: 14030.109619140623
+    origin_x: 52.91999816894531
+    bbox: (52.91999816894531, 547.4564819335938, 57.5012092590332, 559.658447265625)
+    double_fontsize_int: 20
   - index: 944
     text: 'Lack of staff in National Society due to delayed internal process of adoption
       of Rulebook to enable '
     text_base: lack of staff in national society due to delayed internal process of
       adoption of rulebook to enable
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 17
     line_number: 0
     span_number: 1
-    total_y: 14030.109619140625
+    total_y: 14030.109619140623
+    origin_x: 70.8239974975586
+    bbox: (70.8239974975586, 546.82421875, 565.1106567382812, 560.387939453125)
+    double_fontsize_int: 20
   - index: 945
     text: 'employment of the personnel needed for well-functioning of the RCSBiH HQs
       and strengthening its '
     text_base: employment of the personnel needed for well functioning of the rcsbih
       hqs and strengthening its
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 17
     line_number: 2
     span_number: 0
-    total_y: 14043.669616699219
+    total_y: 14043.66961669922
+    origin_x: 70.8239974975586
+    bbox: (70.8239974975586, 560.3842163085938, 564.8821411132812, 573.9479370117188)
+    double_fontsize_int: 20
   - index: 946
     text: 'coordination Public role in implementation of the field activities  '
     text_base: coordination public role in implementation of the field activities
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 17
     line_number: 3
     span_number: 0
     total_y: 14057.349609375
+    origin_x: 70.8239974975586
+    bbox: (70.8239974975586, 574.064208984375, 371.1772766113281, 587.6279296875)
+    double_fontsize_int: 20
   - index: 947
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 18
     line_number: 0
     span_number: 0
     total_y: 14070.909606933594
+    origin_x: 52.91999816894531
+    bbox: (52.91999816894531, 588.2564697265625, 57.5012092590332, 600.4584350585938)
+    double_fontsize_int: 20
   - index: 948
     text: 'Changing situation on the ground, leading to increased number of people
       staying outside TRCs in need of '
     text_base: changing situation on the ground leading to increased number of people
       staying outside trcs in need of
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 18
     line_number: 0
     span_number: 1
     total_y: 14070.909606933594
+    origin_x: 70.8239974975586
+    bbox: (70.8239974975586, 587.6242065429688, 565.0482177734375, 601.1879272460938)
+    double_fontsize_int: 20
   - index: 949
     text: 'emergency assistance.  '
     text_base: emergency assistance
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 18
     line_number: 2
     span_number: 0
-    total_y: 14084.589599609375
+    total_y: 14084.589599609377
+    origin_x: 70.8239974975586
+    bbox: (70.8239974975586, 601.30419921875, 180.92726135253906, 614.867919921875)
+    double_fontsize_int: 20
   - index: 950
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 19
     line_number: 0
     span_number: 0
     total_y: 14098.179626464844
+    origin_x: 52.91999816894531
+    bbox: (52.91999816894531, 615.5264892578125, 57.5012092590332, 627.7284545898438)
+    double_fontsize_int: 20
   - index: 951
     text: 'Insufficient number of volunteers and staff to be allocated from emergency
       migrant assistance to work on '
     text_base: insufficient number of volunteers and staff to be allocated from emergency
       migrant assistance to work on
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 19
     line_number: 0
     span_number: 1
     total_y: 14098.179626464844
+    origin_x: 70.8239974975586
+    bbox: (70.8239974975586, 614.8942260742188, 564.7080078125, 628.4579467773438)
+    double_fontsize_int: 20
   - index: 952
     text: 'cash program as during the reporting period situation continued to be very
       critical in terms of migrant '
     text_base: cash program as during the reporting period situation continued to
       be very critical in terms of migrant
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 19
     line_number: 2
     span_number: 0
-    total_y: 14111.859619140625
+    total_y: 14111.859619140623
+    origin_x: 70.8239974975586
+    bbox: (70.8239974975586, 628.57421875, 564.6283569335938, 642.137939453125)
+    double_fontsize_int: 20
   - index: 953
     text: "crisis in various parts of BiH and particularly in USC and Biha\u0107 "
     text_base: crisis in various parts of bih and particularly in usc and biha
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 19
     line_number: 3
     span_number: 0
-    total_y: 14125.419616699219
+    total_y: 14125.41961669922
+    origin_x: 70.8239974975586
+    bbox: (70.8239974975586, 642.1342163085938, 359.53729248046875, 655.6979370117188)
+    double_fontsize_int: 20
+  items:
+  - Lack of staff in National Society due to delayed internal process of adoption
+    of Rulebook to enable employment of the personnel needed for well-functioning
+    of the RCSBiH HQs and strengthening its coordination Public role in implementation
+    of the field activities
+  - Changing situation on the ground, leading to increased number of people staying
+    outside TRCs in need of emergency assistance.
+  - "Insufficient number of volunteers and staff to be allocated from emergency migrant\
+    \ assistance to work on cash program as during the reporting period situation\
+    \ continued to be very critical in terms of migrant crisis in various parts of\
+    \ BiH and particularly in USC and Biha\u0107"
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
     page_number: 18
     block_number: 3
     line_number: 1
     span_number: 0
     total_y: 15461.449584960938
+    origin_x: 55.79999923706055
+    bbox: (55.79999923706055, 294.0842590332031, 112.52726745605469, 307.64794921875)
     idx: 1026
   sector_title: Health and Care
   sector_idx: 955
@@ -249,222 +362,330 @@
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 18
     block_number: 4
     line_number: 0
     span_number: 0
     total_y: 15477.289611816406
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 310.5565185546875, 57.7412109375, 322.75848388671875)
+    double_fontsize_int: 20
   - index: 1028
     text: 'Insufficient financial or in-kind support at the beginning of the response
       to cover growing needs, which '
     text_base: insufficient financial or in kind support at the beginning of the response
       to cover growing needs which
     style: 'regular, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 18
     block_number: 4
     line_number: 0
     span_number: 1
     total_y: 15477.289611816406
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 309.9242858886719, 551.6575317382812, 323.48797607421875)
+    double_fontsize_int: 20
   - index: 1029
     text: 'have increased during the course of the operation especially due to the
       situation on Lipa location. '
     text_base: have increased during the course of the operation especially due to
       the situation on lipa location
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 4
     line_number: 2
     span_number: 0
     total_y: 15489.769592285156
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 322.4042663574219, 527.8072509765625, 335.96795654296875)
+    double_fontsize_int: 20
   - index: 1030
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 5
     line_number: 0
     span_number: 0
     total_y: 15502.369567871094
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 335.636474609375, 57.7412109375, 347.83843994140625)
+    double_fontsize_int: 20
   - index: 1031
     text: 'Lack of FA materials/replenishments. '
     text_base: lack of fa materials replenishments
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 5
     line_number: 0
     span_number: 1
     total_y: 15502.369567871094
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 335.0042419433594, 245.9972686767578, 348.56793212890625)
+    double_fontsize_int: 20
   - index: 1032
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 6
     line_number: 0
     span_number: 0
     total_y: 15514.849578857422
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 348.1164855957031, 57.7412109375, 360.3184509277344)
+    double_fontsize_int: 20
   - index: 1033
     text: 'Lack of access/opportunities to engage with migrants. '
     text_base: lack of access opportunities to engage with migrants
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 6
     line_number: 0
     span_number: 1
     total_y: 15514.849578857422
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 347.4842529296875, 324.2572937011719, 361.0479431152344)
+    double_fontsize_int: 20
   - index: 1034
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 7
     line_number: 0
     span_number: 0
     total_y: 15527.32958984375
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 360.59649658203125, 57.7412109375, 372.7984619140625)
+    double_fontsize_int: 20
   - index: 1035
     text: 'Limited number of trained NS staff, lack of transportation means to be
       used for MT activities  '
     text_base: limited number of trained ns staff lack of transportation means to
       be used for mt activities
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 7
     line_number: 0
     span_number: 1
     total_y: 15527.32958984375
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 359.9642639160156, 505.727294921875, 373.5279541015625)
+    double_fontsize_int: 20
   - index: 1036
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 8
     line_number: 0
     span_number: 0
     total_y: 15539.8095703125
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 373.07647705078125, 57.7412109375, 385.2784423828125)
+    double_fontsize_int: 20
   - index: 1037
     text: 'Limited quantities of relief/FA materials available for use/distribution
       by MTs on the ground  '
     text_base: limited quantities of relief fa materials available for use distribution
       by mts on the ground
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 8
     line_number: 0
     span_number: 1
     total_y: 15539.8095703125
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 372.4442443847656, 501.52728271484375, 386.0079345703125)
+    double_fontsize_int: 20
   - index: 1038
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 9
     line_number: 0
     span_number: 0
     total_y: 15552.289581298828
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 385.5564880371094, 57.7412109375, 397.7584533691406)
+    double_fontsize_int: 20
   - index: 1039
     text: 'Insufficient experienced medical staff to relieve current staff and ensure
       rotation in shifts  '
     text_base: insufficient experienced medical staff to relieve current staff and
       ensure rotation in shifts
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 9
     line_number: 0
     span_number: 1
     total_y: 15552.289581298828
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 384.92425537109375, 490.8472900390625, 398.4879455566406)
+    double_fontsize_int: 20
   - index: 1040
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 10
     line_number: 0
     span_number: 0
     total_y: 15564.769592285156
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 398.0364990234375, 57.7412109375, 410.23846435546875)
+    double_fontsize_int: 20
   - index: 1041
     text: 'Insufficient supply of water for hygiene purposes and extremely poor sanitation
       conditions posing huge '
     text_base: insufficient supply of water for hygiene purposes and extremely poor
       sanitation conditions posing huge
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 10
     line_number: 0
     span_number: 1
     total_y: 15564.769592285156
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 397.4042663574219, 563.5242309570312, 410.96795654296875)
+    double_fontsize_int: 20
   - index: 1042
     text: 'health risks  '
     text_base: health risks
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 10
     line_number: 2
     span_number: 0
     total_y: 15577.369567871094
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 410.0042419433594, 129.92726135253906, 423.56793212890625)
+    double_fontsize_int: 20
   - index: 1043
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 11
     line_number: 0
     span_number: 0
     total_y: 15589.849578857422
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 423.1164855957031, 57.7412109375, 435.3184509277344)
+    double_fontsize_int: 20
   - index: 1044
     text: 'Many cases of scabies '
     text_base: many cases of scabies
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 11
     line_number: 0
     span_number: 1
     total_y: 15589.849578857422
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 422.4842529296875, 176.3672637939453, 436.0479431152344)
+    double_fontsize_int: 20
   - index: 1045
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 12
     line_number: 0
     span_number: 0
     total_y: 15602.349578857422
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 435.6164855957031, 57.7412109375, 447.8184509277344)
+    double_fontsize_int: 20
   - index: 1046
     text: 'Restrictive measures by the Governments at all levels due to COVID-19 '
     text_base: restrictive measures by the governments at all levels due to covid
       19
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 12
     line_number: 0
     span_number: 1
     total_y: 15602.349578857422
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 434.9842529296875, 401.77728271484375, 448.5479431152344)
+    double_fontsize_int: 20
   - index: 1047
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 13
     line_number: 0
     span_number: 0
     total_y: 15614.82958984375
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 448.09649658203125, 57.7412109375, 460.2984619140625)
+    double_fontsize_int: 20
   - index: 1048
     text: 'The delay in the procurement processes '
     text_base: the delay in the procurement processes
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 13
     line_number: 0
     span_number: 1
     total_y: 15614.82958984375
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 447.4642639160156, 260.8772888183594, 461.0279541015625)
+    double_fontsize_int: 20
+  items:
+  - Insufficient financial or in-kind support at the beginning of the response to
+    cover growing needs, which have increased during the course of the operation especially
+    due to the situation on Lipa location.
+  - Lack of FA materials/replenishments.
+  - Lack of access/opportunities to engage with migrants.
+  - Limited number of trained NS staff, lack of transportation means to be used for
+    MT activities
+  - Limited quantities of relief/FA materials available for use/distribution by MTs
+    on the ground
+  - Insufficient experienced medical staff to relieve current staff and ensure rotation
+    in shifts
+  - Insufficient supply of water for hygiene purposes and extremely poor sanitation
+    conditions posing huge health risks
+  - Many cases of scabies
+  - Restrictive measures by the Governments at all levels due to COVID-19
+  - The delay in the procurement processes
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
     page_number: 19
     block_number: 23
     line_number: 1
     span_number: 0
-    total_y: 16302.529541015625
+    total_y: 16302.529541015623
+    origin_x: 55.79999923706055
+    bbox: (55.79999923706055, 293.1242370605469, 112.52726745605469, 306.68792724609375)
     idx: 1134
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 1049
@@ -474,49 +695,72 @@
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 19
     block_number: 24
     line_number: 0
     span_number: 0
     total_y: 16317.649536132812
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 308.87646484375, 57.7412109375, 321.07843017578125)
+    double_fontsize_int: 20
   - index: 1136
     text: 'Limited number of trained volunteers.   '
     text_base: limited number of trained volunteers
     style: 'regular, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 19
     block_number: 24
     line_number: 0
     span_number: 1
     total_y: 16317.649536132812
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 308.2442321777344, 256.6772766113281, 321.80792236328125)
+    double_fontsize_int: 20
   - index: 1137
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
     block_number: 25
     line_number: 0
     span_number: 0
     total_y: 16328.209533691406
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 319.43646240234375, 57.7412109375, 331.638427734375)
+    double_fontsize_int: 20
   - index: 1138
     text: "Poor sanitation conditions on Vu\u010Djak location, checkpoint Vele\u010D\
       evo (Klju\u010D) and on Lipa location.  "
     text_base: poor sanitation conditions on vu jak location checkpoint vele evo klju
       and on lipa location
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
     block_number: 25
     line_number: 0
     span_number: 1
     total_y: 16328.209533691406
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 318.8042297363281, 515.9273071289062, 332.367919921875)
+    double_fontsize_int: 20
+  items:
+  - Limited number of trained volunteers.
+  - "Poor sanitation conditions on Vu\u010Djak location, checkpoint Vele\u010Devo\
+    \ (Klju\u010D) and on Lipa location."
 - title:
     text: Challenges
     text_base: challenges
     style: 'bolditalic, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
     page_number: 20
     block_number: 11
     line_number: 0
     span_number: 0
     total_y: 17581.53955078125
+    origin_x: 55.79999923706055
+    bbox: (55.79999923706055, 730.09423828125, 107.08547973632812, 743.657958984375)
     idx: 1176
   sector_title: Protection, Gender and Inclusion
   sector_idx: 1083
@@ -526,48 +770,70 @@
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 20
     block_number: 12
     line_number: 0
     span_number: 0
     total_y: 17596.655517578125
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 745.8424682617188, 57.7412109375, 758.04443359375)
+    double_fontsize_int: 20
   - index: 1178
     text: 'Limited number of trained volunteers. '
     text_base: limited number of trained volunteers
     style: 'regular, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 20
     block_number: 12
     line_number: 0
     span_number: 1
     total_y: 17596.655517578125
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 745.210205078125, 251.5172576904297, 758.77392578125)
+    double_fontsize_int: 20
   - index: 1179
     text: "\u2022"
     text_base: ''
     style: 'symbolmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 20
     block_number: 13
     line_number: 0
     span_number: 0
     total_y: 17607.21551513672
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 756.4024658203125, 57.7412109375, 768.6044311523438)
+    double_fontsize_int: 20
   - index: 1180
     text: 'Restrictive measures by the Governments at all levels due to COVID-19 '
     text_base: restrictive measures by the governments at all levels due to covid
       19
     style: 'regular, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 20
     block_number: 13
     line_number: 0
     span_number: 1
     total_y: 17607.21551513672
+    origin_x: 71.18399810791016
+    bbox: (71.18399810791016, 755.7702026367188, 401.77728271484375, 769.3339233398438)
+    double_fontsize_int: 20
+  items:
+  - Limited number of trained volunteers.
+  - Restrictive measures by the Governments at all levels due to COVID-19
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 21
     block_number: 21
     line_number: 0
     span_number: 0
-    total_y: 18380.379516601562
+    total_y: 18380.37951660156
+    origin_x: 56.040000915527344
+    bbox: (56.040000915527344, 686.8942260742188, 112.76726531982422, 700.4579467773438)
     idx: 1233
   sector_title: Migration and displacement
   sector_idx: 1182
@@ -577,58 +843,85 @@
     text: "\u2022 "
     text_base: ''
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 21
     block_number: 22
     line_number: 0
     span_number: 0
     total_y: 18400.17950439453
+    origin_x: 85.10399627685547
+    bbox: (85.10399627685547, 706.6329345703125, 91.3528823852539, 720.3179931640625)
+    double_fontsize_int: 20
   - index: 1235
     text: 'Number of trained volunteers.   '
     text_base: number of trained volunteers
     style: 'regular, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 21
     block_number: 22
     line_number: 0
     span_number: 1
     total_y: 18400.17950439453
+    origin_x: 103.0999984741211
+    bbox: (103.0999984741211, 706.6942138671875, 252.71726989746094, 720.2579345703125)
+    double_fontsize_int: 20
   - index: 1236
     text: "\u2022 "
     text_base: ''
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 21
     block_number: 23
     line_number: 0
     span_number: 0
     total_y: 18410.859497070312
+    origin_x: 85.10399627685547
+    bbox: (85.10399627685547, 717.31298828125, 91.3528823852539, 730.9979858398438)
+    double_fontsize_int: 20
   - index: 1237
     text: 'COVID-19 restrictions caused cancellation of trainings and some physical
       group meetings which '
     text_base: covid 19 restrictions caused cancellation of trainings and some physical
       group meetings which
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 21
     block_number: 23
     line_number: 0
     span_number: 1
     total_y: 18410.859497070312
+    origin_x: 103.0999984741211
+    bbox: (103.0999984741211, 717.3742065429688, 549.1771850585938, 730.9379272460938)
+    double_fontsize_int: 20
   - index: 1238
     text: 'were not carried out. '
     text_base: were not carried out
     style: 'regular, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 21
     block_number: 23
     line_number: 2
     span_number: 0
-    total_y: 18421.419494628906
+    total_y: 18421.419494628903
+    origin_x: 103.0999984741211
+    bbox: (103.0999984741211, 727.9342041015625, 203.3972625732422, 741.4979248046875)
+    double_fontsize_int: 20
+  items:
+  - Number of trained volunteers.
+  - COVID-19 restrictions caused cancellation of trainings and some physical group
+    meetings which were not carried out.
 - title:
     text: Challenges
     text_base: challenges
     style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
     page_number: 22
     block_number: 26
     line_number: 0
     span_number: 0
     total_y: 19230.699462890625
+    origin_x: 55.79999923706055
+    bbox: (55.79999923706055, 695.1741943359375, 109.8038330078125, 708.7379150390625)
     idx: 1324
   sector_title: National Society Strengthening
   sector_idx: 1247
@@ -638,58 +931,85 @@
     text: "\u2022 "
     text_base: ''
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 22
     block_number: 27
     line_number: 0
     span_number: 0
     total_y: 19245.81951904297
+    origin_x: 84.86399841308594
+    bbox: (84.86399841308594, 710.2330322265625, 91.11288452148438, 723.9180297851562)
+    double_fontsize_int: 20
   - index: 1326
     text: 'Number of trained volunteers.   '
     text_base: number of trained volunteers
     style: 'regular, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 22
     block_number: 27
     line_number: 0
     span_number: 1
     total_y: 19245.81951904297
+    origin_x: 102.86000061035156
+    bbox: (102.86000061035156, 710.2942504882812, 252.47726440429688, 723.8579711914062)
+    double_fontsize_int: 20
   - index: 1327
     text: "\u2022 "
     text_base: ''
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 28
     line_number: 0
     span_number: 0
     total_y: 19256.49951171875
+    origin_x: 84.86399841308594
+    bbox: (84.86399841308594, 720.9129638671875, 91.11288452148438, 734.5980224609375)
+    double_fontsize_int: 20
   - index: 1328
     text: 'COVID-19 restrictions have caused cancellation of trainings and some physical
       group meetings '
     text_base: covid 19 restrictions have caused cancellation of trainings and some
       physical group meetings
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 28
     line_number: 0
     span_number: 1
     total_y: 19256.49951171875
+    origin_x: 102.86000061035156
+    bbox: (102.86000061035156, 720.9742431640625, 543.79052734375, 734.5379638671875)
+    double_fontsize_int: 20
   - index: 1329
     text: 'which were not carried out. '
     text_base: which were not carried out
     style: 'regular, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 22
     block_number: 28
     line_number: 2
     span_number: 0
     total_y: 19267.05548095703
+    origin_x: 102.86000061035156
+    bbox: (102.86000061035156, 731.5302124023438, 233.1572723388672, 745.0939331054688)
+    double_fontsize_int: 20
+  items:
+  - Number of trained volunteers.
+  - COVID-19 restrictions have caused cancellation of trainings and some physical
+    group meetings which were not carried out.
 - title:
     text: Challenges
     text_base: challenges
     style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
     page_number: 24
     block_number: 5
     line_number: 3
     span_number: 0
     total_y: 20347.939453125
+    origin_x: 55.79999923706055
+    bbox: (55.79999923706055, 128.33425903320312, 109.8038330078125, 141.89794921875)
     idx: 1430
   sector_title: International Disaster Response
   sector_idx: 1338
@@ -699,69 +1019,101 @@
     text: "\u2022 "
     text_base: ''
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 24
     block_number: 6
     line_number: 0
     span_number: 0
     total_y: 20360.899475097656
+    origin_x: 84.86399841308594
+    bbox: (84.86399841308594, 141.23300170898438, 91.11288452148438, 154.9180450439453)
+    double_fontsize_int: 20
   - index: 1432
     text: 'Insufficient capacities of the NS to conduct surveys among staff and volunteers
       as well as target '
     text_base: insufficient capacities of the ns to conduct surveys among staff and
       volunteers as well as target
     style: 'regular, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 24
     block_number: 6
     line_number: 0
     span_number: 1
     total_y: 20360.899475097656
+    origin_x: 102.86000061035156
+    bbox: (102.86000061035156, 141.29428100585938, 548.9757690429688, 154.85797119140625)
+    double_fontsize_int: 20
   - index: 1433
     text: 'population. '
     text_base: population
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 6
     line_number: 2
     span_number: 0
-    total_y: 20371.579467773438
+    total_y: 20371.57946777344
+    origin_x: 102.86000061035156
+    bbox: (102.86000061035156, 151.97427368164062, 158.84725952148438, 165.5379638671875)
+    double_fontsize_int: 20
   - index: 1434
     text: "\u2022 "
     text_base: ''
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 7
     line_number: 0
     span_number: 0
     total_y: 20382.13946533203
+    origin_x: 84.86399841308594
+    bbox: (84.86399841308594, 162.47299194335938, 91.11288452148438, 176.1580352783203)
+    double_fontsize_int: 20
   - index: 1435
     text: 'COVID-19 restrictions caused cancellation of trainings and some physical
       group meetings which '
     text_base: covid 19 restrictions caused cancellation of trainings and some physical
       group meetings which
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 24
     block_number: 7
     line_number: 0
     span_number: 1
     total_y: 20382.13946533203
+    origin_x: 102.86000061035156
+    bbox: (102.86000061035156, 162.53427124023438, 548.8203735351562, 176.09796142578125)
+    double_fontsize_int: 20
   - index: 1436
     text: 'were not carried out. '
     text_base: were not carried out
     style: 'regular, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 24
     block_number: 7
     line_number: 2
     span_number: 0
     total_y: 20392.699462890625
+    origin_x: 102.86000061035156
+    bbox: (102.86000061035156, 173.09426879882812, 203.1572723388672, 186.657958984375)
+    double_fontsize_int: 20
+  items:
+  - Insufficient capacities of the NS to conduct surveys among staff and volunteers
+    as well as target population.
+  - COVID-19 restrictions caused cancellation of trainings and some physical group
+    meetings which were not carried out.
 - title:
     text: Challenges
     text_base: challenges
     style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
     page_number: 25
     block_number: 3
     line_number: 17
     span_number: 0
     total_y: 21281.659423828125
+    origin_x: 55.79999923706055
+    bbox: (55.79999923706055, 220.00277709960938, 109.05609893798828, 233.7176971435547)
     idx: 1507
   sector_title: Influence others as leading strategic partner
   sector_idx: 1437
@@ -771,28 +1123,43 @@
     text: "\u2022 "
     text_base: ''
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 25
     block_number: 4
     line_number: 0
     span_number: 0
     total_y: 21293.779418945312
+    origin_x: 84.86399841308594
+    bbox: (84.86399841308594, 232.07296752929688, 91.11288452148438, 245.7580108642578)
+    double_fontsize_int: 20
   - index: 1509
     text: 'COVID-19 restrictions have caused cancellation of trainings and some physical
       group meetings which '
     text_base: covid 19 restrictions have caused cancellation of trainings and some
       physical group meetings which
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 25
     block_number: 4
     line_number: 0
     span_number: 1
     total_y: 21293.779418945312
+    origin_x: 102.86000061035156
+    bbox: (102.86000061035156, 232.07296752929688, 554.864990234375, 245.7580108642578)
+    double_fontsize_int: 20
   - index: 1510
     text: 'have not been carried out. '
     text_base: have not been carried out
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 25
     block_number: 4
     line_number: 2
     span_number: 0
-    total_y: 21304.339416503906
+    total_y: 21304.339416503903
+    origin_x: 102.86000061035156
+    bbox: (102.86000061035156, 242.63296508789062, 221.81887817382812, 256.3179931640625)
+    double_fontsize_int: 20
+  items:
+  - COVID-19 restrictions have caused cancellation of trainings and some physical
+    group meetings which have not been carried out.

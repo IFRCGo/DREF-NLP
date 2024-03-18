@@ -2,11 +2,14 @@
     text: Challenges
     text_base: challenges
     style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 6
     block_number: 25
     line_number: 0
     span_number: 0
     total_y: 5382.0
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 619.0381469726562, 102.09757995605469, 633.0833129882812)
     idx: 494
   sector_title: Health and Care
   sector_idx: 452
@@ -17,32 +20,48 @@
       \ same area. Once they are targeted, it is important to carry "
     text_base: due to insecurity it wasn t easy to meet the beneficiaries in the same
       area once they are targeted it is important to carry
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 6
     block_number: 25
     line_number: 1
     span_number: 0
     total_y: 5394.960021972656
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 633.9434814453125, 586.1919555664062, 645.0706787109375)
+    double_fontsize_int: 20
   - index: 496
     text: 'out the humanitarian services. If not you, it is difficult to track as
       they move to another area to save their lives. '
     text_base: out the humanitarian services if not you it is difficult to track as
       they move to another area to save their lives
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 6
     block_number: 25
     line_number: 2
     span_number: 0
     total_y: 5406.47998046875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 645.4634399414062, 527.4072265625, 656.5906372070312)
+    double_fontsize_int: 20
+  items:
+  - "Due to insecurity, it wasn\u2019t easy to meet the beneficiaries in the same\
+    \ area. Once they are targeted, it is important to carry out the humanitarian\
+    \ services. If not you, it is difficult to track as they move to another area\
+    \ to save their lives."
 - title:
     text: Challenges
     text_base: challenges
     style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 8
     block_number: 2
     line_number: 0
     span_number: 0
     total_y: 6383.52001953125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 36.55818176269531, 102.09757995605469, 50.60334014892578)
     idx: 560
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 506
@@ -53,31 +72,46 @@
       implement activities as planned. Several times, the '
     text_base: the persistent insecurity in the affected areas have not made it easy
       to implement activities as planned several times the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 2
     line_number: 1
     span_number: 0
     total_y: 6396.47998046875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 51.46345520019531, 586.1952514648438, 62.59064483642578)
+    double_fontsize_int: 20
   - index: 562
     text: 'volunteers have to postpone their rendez-vous because of terrorist attacks. '
     text_base: volunteers have to postpone their rendez vous because of terrorist
       attacks
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 2
     line_number: 2
     span_number: 0
     total_y: 6407.8800048828125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 62.86347961425781, 375.7272033691406, 73.99066925048828)
+    double_fontsize_int: 20
+  items:
+  - The persistent insecurity in the affected areas have not made it easy to implement
+    activities as planned. Several times, the volunteers have to postpone their rendez-vous
+    because of terrorist attacks.
 - title:
     text: Challenges
     text_base: challenges
     style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 9
     block_number: 11
     line_number: 0
     span_number: 0
     total_y: 7725.960021972656
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 586.9981689453125, 102.09757995605469, 601.0433349609375)
     idx: 660
   sector_title: Food insecurity and nutrition
   sector_idx: 566
@@ -88,41 +122,61 @@
       people (boys and girls) with bombs to blow themselves '
     text_base: the strategy used by the terrorists in this area is to utilise young
       idle people boys and girls with bombs to blow themselves
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 11
     line_number: 1
     span_number: 0
     total_y: 7738.919982910156
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 601.9034423828125, 586.205322265625, 613.0306396484375)
+    double_fontsize_int: 20
   - index: 662
     text: 'up in public and kill several people at once. Thus, the operation focused
       on providing job to idle young people to reduce risk '
     text_base: up in public and kill several people at once thus the operation focused
       on providing job to idle young people to reduce risk
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 11
     line_number: 2
     span_number: 0
     total_y: 7750.440002441406
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 613.4234619140625, 586.203369140625, 624.5506591796875)
+    double_fontsize_int: 20
   - index: 663
     text: 'of being user of bombs. '
     text_base: of being user of bombs
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 11
     line_number: 3
     span_number: 0
-    total_y: 7761.8399658203125
+    total_y: 7761.839965820312
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 624.8234252929688, 148.92721557617188, 635.9506225585938)
+    double_fontsize_int: 20
+  items:
+  - The strategy used by the terrorists in this area is to utilise young idle people
+    (boys and girls) with bombs to blow themselves up in public and kill several people
+    at once. Thus, the operation focused on providing job to idle young people to
+    reduce risk of being user of bombs.
 - title:
     text: Challenges
     text_base: challenges
     style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 10
     block_number: 16
     line_number: 0
     span_number: 0
     total_y: 8333.040008544922
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 402.07818603515625, 102.09757995605469, 416.1233215332031)
     idx: 694
   sector_title: Shelter, Housing and Settlements
   sector_idx: 671
@@ -133,52 +187,78 @@
       \ adequate shelter. The majority people are still sheltering "
     text_base: most of the refugees and internally displaced people doesn t have adequate
       shelter the majority people are still sheltering
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 16
     line_number: 1
     span_number: 0
     total_y: 8346.0
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 416.9834899902344, 586.2123413085938, 428.11065673828125)
+    double_fontsize_int: 20
   - index: 696
     text: 'in the open air. They are exposed to mosquitos and to bad weather condition
       and therefore to diseases such as malaria, '
     text_base: in the open air they are exposed to mosquitos and to bad weather condition
       and therefore to diseases such as malaria
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 16
     line_number: 2
     span_number: 0
     total_y: 8357.519989013672
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 428.50347900390625, 586.1259765625, 439.6306457519531)
+    double_fontsize_int: 20
   - index: 697
     text: 'respiratory infectious diseases. Thanks to the Luxembourg Red Cross Society
       which complement the effort of the IFRC to '
     text_base: respiratory infectious diseases thanks to the luxembourg red cross
       society which complement the effort of the ifrc to
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 16
     line_number: 3
     span_number: 0
     total_y: 8369.043701171875
+    origin_x: 41.6400146484375
+    bbox: (41.6400146484375, 440.0271911621094, 586.1250610351562, 451.15435791015625)
+    double_fontsize_int: 20
   - index: 698
     text: 'support the NRCS in shelter construction. '
     text_base: support the nrcs in shelter construction
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 16
     line_number: 4
     span_number: 0
     total_y: 8380.559997558594
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 451.5434875488281, 228.36721801757812, 462.670654296875)
+    double_fontsize_int: 20
+  items:
+  - "Most of the refugees and internally displaced people doesn\u2019t have adequate\
+    \ shelter. The majority people are still sheltering in the open air. They are\
+    \ exposed to mosquitos and to bad weather condition and therefore to diseases\
+    \ such as malaria, respiratory infectious diseases. Thanks to the Luxembourg Red\
+    \ Cross Society which complement the effort of the IFRC to support the NRCS in\
+    \ shelter construction."
 - title:
     text: Challenges
     text_base: challenges
     style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
     page_number: 11
     block_number: 16
     line_number: 1
     span_number: 0
     total_y: 9089.519989013672
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 366.55816650390625, 102.09757995605469, 380.6033020019531)
     idx: 745
   sector_title: National Society Strengthening
   sector_idx: 703
@@ -189,31 +269,49 @@
       population and the refugees are still sheltering '
     text_base: the project has ended but the needs are still enormous since the displaced
       population and the refugees are still sheltering
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 16
     line_number: 2
     span_number: 0
     total_y: 9102.480010986328
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 381.4635009765625, 586.1160888671875, 392.5906677246094)
+    double_fontsize_int: 20
   - index: 747
     text: 'in the camps. Further, the Diffa region of Niger is currently facing Hepatitis
       E epidemic outbreak. Therefore, the national '
     text_base: in the camps further the diffa region of niger is currently facing
       hepatitis e epidemic outbreak therefore the national
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 16
     line_number: 3
     span_number: 0
     total_y: 9114.0
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 392.9834899902344, 586.2023315429688, 404.11065673828125)
+    double_fontsize_int: 20
   - index: 748
     text: 'society is still requesting the support of the IFRC to continue its support
       to the displaced people and the refugees. '
     text_base: society is still requesting the support of the ifrc to continue its
       support to the displaced people and the refugees
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 16
     line_number: 4
     span_number: 0
     total_y: 9125.519989013672
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 404.50347900390625, 545.88720703125, 415.6306457519531)
+    double_fontsize_int: 20
+  items:
+  - The project has ended, but the needs are still enormous since the displaced population
+    and the refugees are still sheltering in the camps. Further, the Diffa region
+    of Niger is currently facing Hepatitis E epidemic outbreak. Therefore, the national
+    society is still requesting the support of the IFRC to continue its support to
+    the displaced people and the refugees.

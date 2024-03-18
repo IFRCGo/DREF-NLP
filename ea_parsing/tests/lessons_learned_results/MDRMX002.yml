@@ -1,12 +1,15 @@
 - title:
     text: 'Lessons learnt:  '
     text_base: lessons learnt
-    style: 'Arial,Bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 37
     span_number: 0
     total_y: 1348.9602661132812
+    origin_x: 59.27999496459961
+    bbox: (59.27999496459961, 497.8351135253906, 138.63381958007812, 509.09637451171875)
     idx: 100
   sector_title: null
   sector_idx: null
@@ -15,456 +18,680 @@
   - index: 101
     text: 'At the community level: '
     text_base: at the community level
-    style: 'Arial,Bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 39
     span_number: 0
     total_y: 1372.000244140625
+    origin_x: 59.27999496459961
+    bbox: (59.27999496459961, 520.8750610351562, 174.8738555908203, 532.1363525390625)
+    double_fontsize_int: 20
   - index: 102
     text: '- '
-    text_base: ''
-    style: 'Arial, 20, #000000, None'
+    text_base: .nan
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 40
     span_number: 0
     total_y: 1383.76025390625
+    origin_x: 95.27999877929688
+    bbox: (95.27999877929688, 532.6350708007812, 101.43718719482422, 543.8963623046875)
+    double_fontsize_int: 20
   - index: 103
     text: 'Participatory damage and needs assessments that were carried out in coordination
       with the '
     text_base: participatory damage and needs assessments that were carried out in
       coordination with the
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
-    line_number: 41
-    span_number: 0
+    line_number: 40
+    span_number: 1
     total_y: 1383.76025390625
+    origin_x: 113.27664184570312
+    bbox: (113.27664184570312, 532.6350708007812, 539.1870727539062, 543.8963623046875)
+    double_fontsize_int: 20
   - index: 104
     text: 'local community leaders were a highly effective way to obtain an accurate
       list of affected people '
     text_base: local community leaders were a highly effective way to obtain an accurate
       list of affected people
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 42
     span_number: 0
     total_y: 1395.040283203125
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 543.9151000976562, 539.180419921875, 555.1763916015625)
+    double_fontsize_int: 20
   - index: 105
     text: and their needs in a disaster.
     text_base: and their needs in a disaster
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 43
     span_number: 0
     total_y: 1406.5602416992188
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 555.43505859375, 241.5939178466797, 566.6963500976562)
+    double_fontsize_int: 20
   - index: 106
     text: '- '
-    text_base: ''
-    style: 'Arial, 20, #000000, None'
+    text_base: .nan
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 44
     span_number: 0
     total_y: 1418.0802001953125
+    origin_x: 95.27999877929688
+    bbox: (95.27999877929688, 566.9550170898438, 101.43718719482422, 578.21630859375)
+    double_fontsize_int: 20
   - index: 107
     text: 'The community actions such as practical activities and trainings have been
       an effective '
     text_base: the community actions such as practical activities and trainings have
       been an effective
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
-    line_number: 45
-    span_number: 0
+    line_number: 44
+    span_number: 1
     total_y: 1418.0802001953125
+    origin_x: 113.27664184570312
+    bbox: (113.27664184570312, 566.9550170898438, 539.18017578125, 578.21630859375)
+    double_fontsize_int: 20
   - index: 108
     text: 'methodology to promote the active involvement of women and youth in the
       communities in both '
     text_base: methodology to promote the active involvement of women and youth in
       the communities in both
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 46
     span_number: 0
     total_y: 1429.6002197265625
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 578.4750366210938, 539.1837158203125, 589.736328125)
+    double_fontsize_int: 20
   - index: 109
     text: 'activities and the decision-making process. These practical activities
       in the context of the '
     text_base: activities and the decision making process these practical activities
       in the context of the
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 47
     span_number: 0
     total_y: 1441.1202392578125
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 589.9950561523438, 539.1904296875, 601.25634765625)
+    double_fontsize_int: 20
   - index: 110
     text: 'operation refer to the construction of water wells, the cultivation of
       family gardens and training '
     text_base: operation refer to the construction of water wells the cultivation
       of family gardens and training
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 48
     span_number: 0
     total_y: 1452.6402587890625
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 601.5150756835938, 539.18359375, 612.7763671875)
+    double_fontsize_int: 20
   - index: 111
     text: 'preparation. '
     text_base: preparation
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 49
     span_number: 0
     total_y: 1464.1602783203125
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 613.0350952148438, 169.5938720703125, 624.29638671875)
+    double_fontsize_int: 20
   - index: 112
     text: '- '
-    text_base: ''
-    style: 'Arial, 20, #000000, None'
+    text_base: .nan
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 50
     span_number: 0
     total_y: 1475.6802368164062
+    origin_x: 95.27999877929688
+    bbox: (95.27999877929688, 624.5550537109375, 101.43718719482422, 635.8163452148438)
+    double_fontsize_int: 20
   - index: 113
     text: 'The communities expressed their satisfaction with the transfer of knowledge
       and skills which '
     text_base: the communities expressed their satisfaction with the transfer of knowledge
       and skills which
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
-    line_number: 51
-    span_number: 0
+    line_number: 50
+    span_number: 1
     total_y: 1475.6802368164062
+    origin_x: 113.27664184570312
+    bbox: (113.27664184570312, 624.5550537109375, 539.17333984375, 635.8163452148438)
+    double_fontsize_int: 20
   - index: 114
     text: 'helped them to increase their sources of food intake and income which has
       reduced their '
     text_base: helped them to increase their sources of food intake and income which
       has reduced their
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 52
     span_number: 0
     total_y: 1487.2002563476562
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 636.0750732421875, 539.18359375, 647.3363647460938)
+    double_fontsize_int: 20
   - index: 115
     text: vulnerability and increased their resilience.
     text_base: vulnerability and increased their resilience
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 53
     span_number: 0
     total_y: 1498.7202758789062
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 647.5950927734375, 301.8236999511719, 658.8563842773438)
+    double_fontsize_int: 20
   - index: 116
     text: '- '
-    text_base: ''
-    style: 'Arial, 20, #000000, None'
+    text_base: .nan
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 54
     span_number: 0
     total_y: 1510.240234375
+    origin_x: 95.27999877929688
+    bbox: (95.27999877929688, 659.1150512695312, 101.43718719482422, 670.3763427734375)
+    double_fontsize_int: 20
   - index: 117
     text: 'Community organization and preparedness for disasters is a fundamental
       activity that facilitates '
     text_base: community organization and preparedness for disasters is a fundamental
       activity that facilitates
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
-    line_number: 55
-    span_number: 0
+    line_number: 54
+    span_number: 1
     total_y: 1510.240234375
+    origin_x: 113.27664184570312
+    bbox: (113.27664184570312, 659.1150512695312, 539.18017578125, 670.3763427734375)
+    double_fontsize_int: 20
   - index: 118
     text: an efficient and effective intervention when an emergency or disaster strikes.
     text_base: an efficient and effective intervention when an emergency or disaster
       strikes
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 56
     span_number: 0
     total_y: 1521.76025390625
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 670.6350708007812, 452.0669250488281, 681.8963623046875)
+    double_fontsize_int: 20
   - index: 119
     text: 'At the level of volunteering: '
     text_base: at the level of volunteering
-    style: 'Arial,Bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 58
     span_number: 0
     total_y: 1544.3202514648438
+    origin_x: 59.27999877929688
+    bbox: (59.279998779296875, 693.195068359375, 193.82379150390625, 704.4563598632812)
+    double_fontsize_int: 20
   - index: 120
     text: '-      The community education in disaster preparedness component of this
       operation has given an '
     text_base: the community education in disaster preparedness component of this
       operation has given an
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 59
     span_number: 0
     total_y: 1556.0802612304688
+    origin_x: 95.27999877929688
+    bbox: (95.27999877929688, 704.955078125, 539.1734619140625, 716.2163696289062)
+    double_fontsize_int: 20
   - index: 121
     text: 'opportunity for the Mexican Red Cross to recruit new volunteers from diverse
       backgrounds. '
     text_base: opportunity for the mexican red cross to recruit new volunteers from
       diverse backgrounds
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 60
     span_number: 0
     total_y: 1567.6002807617188
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 716.47509765625, 539.1633911132812, 727.7363891601562)
+    double_fontsize_int: 20
   - index: 122
     text: 'This is imperative, especially as the National Society is usually thought
       of as principally as a '
     text_base: this is imperative especially as the national society is usually thought
       of as principally as a
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 61
     span_number: 0
     total_y: 1579.1202392578125
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 727.9950561523438, 539.1969604492188, 739.25634765625)
+    double_fontsize_int: 20
   - index: 123
     text: "provider of  \u201Cambulance services\u201D; therefore this expands the\
       \ image of the Red Cross, "
     text_base: provider of ambulance services therefore this expands the image of
       the red cross
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 62
     span_number: 0
     total_y: 1590.6402587890625
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 739.5150756835938, 539.1868286132812, 750.7763671875)
+    double_fontsize_int: 20
   - index: 124
     text: demonstrating its capacity in other diverse areas of work.
     text_base: demonstrating its capacity in other diverse areas of work
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 1
     block_number: 1
     line_number: 63
     span_number: 0
     total_y: 1602.1602783203125
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 751.0350952148438, 365.6636657714844, 762.29638671875)
+    double_fontsize_int: 20
   - index: 126
     text: "-      The VCA methodology and the \u201CBetter Be Ready\u201D series gave\
       \ insight into new volunteer "
     text_base: the vca methodology and the better be ready series gave insight into
       new volunteer
-    style: 'Arial, 20, #000000, #7f7f7f'
+    style: 'arial, 20, #000000, #7f7f7f'
+    size: 10.079999923706056
     page_number: 2
     block_number: 1
     line_number: 0
     span_number: 0
     total_y: 1765.6799926757812
+    origin_x: 95.27999877929688
+    bbox: (95.27999877929688, 72.55484008789062, 539.2138061523438, 83.81608581542969)
+    double_fontsize_int: 20
   - index: 127
     text: 'actions and interventions at the community level, according high priority
       to preventive actions '
     text_base: actions and interventions at the community level according high priority
       to preventive actions
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 1
     line_number: 1
     span_number: 0
     total_y: 1777.2000122070312
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 84.07485961914062, 539.173583984375, 95.33610534667969)
+    double_fontsize_int: 20
   - index: 128
     text: and to community mobilization for disaster preparedness and response.
     text_base: and to community mobilization for disaster preparedness and response
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 1
     line_number: 2
     span_number: 0
     total_y: 1788.7200317382812
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 95.59487915039062, 429.9700622558594, 106.85612487792969)
+    double_fontsize_int: 20
   - index: 129
     text: 'At the institutional level of the Mexican Red Cross:  '
     text_base: at the institutional level of the mexican red cross
-    style: 'Arial,Bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 1
     span_number: 0
-    total_y: 1811.5200805664062
+    total_y: 1811.5200805664065
+    origin_x: 59.27999877929688
+    bbox: (59.279998779296875, 118.39492797851562, 305.9004211425781, 129.6561737060547)
+    double_fontsize_int: 20
   - index: 130
     text: '- '
-    text_base: ''
-    style: 'Arial, 20, #000000, None'
+    text_base: .nan
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 2
     span_number: 0
     total_y: 1823.2800903320312
+    origin_x: 95.27999877929688
+    bbox: (95.27999877929688, 130.15493774414062, 101.43718719482422, 141.4161834716797)
+    double_fontsize_int: 20
   - index: 131
     text: 'The VCA will continue to be used as a tool in each of the plans of action,
       especially to identify '
     text_base: the vca will continue to be used as a tool in each of the plans of
       action especially to identify
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
-    line_number: 3
-    span_number: 0
+    line_number: 2
+    span_number: 1
     total_y: 1823.2800903320312
+    origin_x: 113.27664184570312
+    bbox: (113.27664184570312, 130.15493774414062, 539.19677734375, 141.4161834716797)
+    double_fontsize_int: 20
   - index: 132
     text: 'recovery actions in the event of disasters. '
     text_base: recovery actions in the event of disasters
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 4
     span_number: 0
-    total_y: 1834.8001098632812
+    total_y: 1834.8001098632808
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 141.67495727539062, 299.91046142578125, 152.9362030029297)
+    double_fontsize_int: 20
   - index: 133
     text: '- '
-    text_base: ''
-    style: 'Arial, 20, #000000, None'
+    text_base: .nan
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 5
     span_number: 0
-    total_y: 1846.0801391601562
+    total_y: 1846.080139160156
+    origin_x: 95.27999877929688
+    bbox: (95.27999877929688, 152.95498657226562, 101.43718719482422, 164.2162322998047)
+    double_fontsize_int: 20
   - index: 134
     text: 'The National Disaster Response Plan of the Mexican Red Cross should be
       revised and '
     text_base: the national disaster response plan of the mexican red cross should
       be revised and
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
-    line_number: 6
-    span_number: 0
-    total_y: 1846.0801391601562
+    line_number: 5
+    span_number: 1
+    total_y: 1846.080139160156
+    origin_x: 113.27664184570312
+    bbox: (113.27664184570312, 152.95498657226562, 539.2071533203125, 164.2162322998047)
+    double_fontsize_int: 20
   - index: 135
     text: 'updated, incorporating preparedness and recovery actions. '
     text_base: updated incorporating preparedness and recovery actions
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 7
     span_number: 0
-    total_y: 1857.6001586914062
+    total_y: 1857.6001586914065
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 164.47500610351562, 377.433837890625, 175.7362518310547)
+    double_fontsize_int: 20
   - index: 136
     text: '- '
-    text_base: ''
-    style: 'Arial, 20, #000000, None'
+    text_base: .nan
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 8
     span_number: 0
-    total_y: 1869.1201782226562
+    total_y: 1869.120178222656
+    origin_x: 95.27999877929688
+    bbox: (95.27999877929688, 175.99502563476562, 101.43718719482422, 187.2562713623047)
+    double_fontsize_int: 20
   - index: 137
     text: 'The work on community mobilization and preparedness has helped the Mexican
       Red Cross to '
     text_base: the work on community mobilization and preparedness has helped the
       mexican red cross to
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
-    line_number: 9
-    span_number: 0
-    total_y: 1869.1201782226562
+    line_number: 8
+    span_number: 1
+    total_y: 1869.120178222656
+    origin_x: 113.27664184570312
+    bbox: (113.27664184570312, 175.99502563476562, 539.1766967773438, 187.2562713623047)
+    double_fontsize_int: 20
   - index: 138
     text: 'be more visible and acknowledged by communities.  '
     text_base: be more visible and acknowledged by communities
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 10
     span_number: 0
-    total_y: 1880.6401977539062
+    total_y: 1880.6401977539065
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 187.51504516601562, 347.19384765625, 198.7762908935547)
+    double_fontsize_int: 20
   - index: 139
     text: '- '
-    text_base: ''
-    style: 'Arial, 20, #000000, None'
+    text_base: .nan
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 11
     span_number: 0
-    total_y: 1892.1602172851562
+    total_y: 1892.160217285156
+    origin_x: 95.27999877929688
+    bbox: (95.27999877929688, 199.03506469726562, 101.43718719482422, 210.2963104248047)
+    double_fontsize_int: 20
   - index: 140
     text: 'Actions at the community level also offer the MRC opportunities to collaborate
       with new '
     text_base: actions at the community level also offer the mrc opportunities to
       collaborate with new
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
-    line_number: 12
-    span_number: 0
-    total_y: 1892.1602172851562
+    line_number: 11
+    span_number: 1
+    total_y: 1892.160217285156
+    origin_x: 113.27664184570312
+    bbox: (113.27664184570312, 199.03506469726562, 539.1735229492188, 210.2963104248047)
+    double_fontsize_int: 20
   - index: 141
     text: 'potential donors in the country, and with international organizations as
       well as with PNSs.  '
     text_base: potential donors in the country and with international organizations
       as well as with pnss
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 13
     span_number: 0
-    total_y: 1903.6802368164062
+    total_y: 1903.6802368164065
+    origin_x: 113.27999877929688
+    bbox: (113.27999877929688, 210.55508422851562, 513.5068969726562, 221.8163299560547)
+    double_fontsize_int: 20
   - index: 142
     text: 'In addition, this operation has started an increased dialogue within the
       National Society in their work with '
     text_base: in addition this operation has started an increased dialogue within
       the national society in their work with
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 15
     span_number: 0
-    total_y: 1926.7202758789062
+    total_y: 1926.7202758789065
+    origin_x: 59.27999877929688
+    bbox: (59.279998779296875, 233.59512329101562, 539.1903686523438, 244.8563690185547)
+    double_fontsize_int: 20
   - index: 143
     text: 'communities, increasing their focus to include disaster risk reduction
       and not only disaster response.  '
     text_base: communities increasing their focus to include disaster risk reduction
       and not only disaster response
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 16
     span_number: 0
-    total_y: 1938.2402954101562
+    total_y: 1938.240295410156
+    origin_x: 59.27999877929688
+    bbox: (59.279998779296875, 245.11514282226562, 508.203369140625, 256.37640380859375)
+    double_fontsize_int: 20
   - index: 144
     text: "The Mexican Red Cross and the International Federation\u2019s Regional\
       \ Representation for Central America "
     text_base: the mexican red cross and the international federation s regional representation
       for central america
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 18
     span_number: 0
-    total_y: 1961.2803344726562
+    total_y: 1961.280334472656
+    origin_x: 59.27999877929688
+    bbox: (59.279998779296875, 268.1551818847656, 539.2205810546875, 279.41644287109375)
+    double_fontsize_int: 20
   - index: 145
     text: 'and Mexico conducted a case study after the close of the operation through
       the regional plan. This '
     text_base: and mexico conducted a case study after the close of the operation
       through the regional plan this
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 19
     span_number: 0
-    total_y: 1972.8003540039062
+    total_y: 1972.8003540039065
+    origin_x: 59.27999877929688
+    bbox: (59.279998779296875, 279.6752014160156, 539.1800537109375, 290.93646240234375)
+    double_fontsize_int: 20
   - index: 146
     text: 'document is currently under revision and will be available on the regional
       website shortly. '
     text_base: document is currently under revision and will be available on the regional
       website shortly
-    style: 'Arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
     page_number: 2
     block_number: 2
     line_number: 20
     span_number: 0
-    total_y: 1984.0803833007812
+    total_y: 1984.0803833007808
+    origin_x: 59.27999877929688
+    bbox: (59.279998779296875, 290.9552307128906, 455.40679931640625, 302.21649169921875)
+    double_fontsize_int: 20
+  items:
+  - 'At the community level:'
+  - Participatory damage and needs assessments that were carried out in coordination
+    with the local community leaders were a highly effective way to obtain an accurate
+    list of affected people and their needs in a disaster.
+  - The community actions such as practical activities and trainings have been an
+    effective methodology to promote the active involvement of women and youth in
+    the communities in both activities and the decision-making process. These practical
+    activities in the context of the operation refer to the construction of water
+    wells, the cultivation of family gardens and training preparation.
+  - The communities expressed their satisfaction with the transfer of knowledge and
+    skills which helped them to increase their sources of food intake and income which
+    has reduced their vulnerability and increased their resilience.
+  - Community organization and preparedness for disasters is a fundamental activity
+    that facilitates an efficient and effective intervention when an emergency or
+    disaster strikes.
+  - 'At the level of volunteering:'
+  - "-      The community education in disaster preparedness component of this operation\
+    \ has given an opportunity for the Mexican Red Cross to recruit new volunteers\
+    \ from diverse backgrounds. This is imperative, especially as the National Society\
+    \ is usually thought of as principally as a provider of  \u201Cambulance services\u201D\
+    ; therefore this expands the image of the Red Cross, demonstrating its capacity\
+    \ in other diverse areas of work."
+  - "-      The VCA methodology and the \u201CBetter Be Ready\u201D series gave insight\
+    \ into new volunteer actions and interventions at the community level, according\
+    \ high priority to preventive actions and to community mobilization for disaster\
+    \ preparedness and response."
+  - 'At the institutional level of the Mexican Red Cross:'
+  - The VCA will continue to be used as a tool in each of the plans of action, especially
+    to identify recovery actions in the event of disasters.
+  - The National Disaster Response Plan of the Mexican Red Cross should be revised
+    and updated, incorporating preparedness and recovery actions.
+  - The work on community mobilization and preparedness has helped the Mexican Red
+    Cross to be more visible and acknowledged by communities.
+  - Actions at the community level also offer the MRC opportunities to collaborate
+    with new potential donors in the country, and with international organizations
+    as well as with PNSs.
+  - In addition, this operation has started an increased dialogue within the National
+    Society in their work with communities, increasing their focus to include disaster
+    risk reduction and not only disaster response.
+  - "The Mexican Red Cross and the International Federation\u2019s Regional Representation\
+    \ for Central America and Mexico conducted a case study after the close of the\
+    \ operation through the regional plan. This document is currently under revision\
+    \ and will be available on the regional website shortly."

@@ -140,3 +140,12 @@ class TestResults(unittest.TestCase):
                         {results_content.compare(validated_content)}
                         """
                     )
+
+                    # Compare content items - lines processed into items
+                    self.assertListEqual(
+                        validated_result['items'],
+                        result['items'],
+                        f"""
+                        Section items do not match for MDR code: {mdr_code}, sector: {result['sector_title']}
+                        """
+                    )

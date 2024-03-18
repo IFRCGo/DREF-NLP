@@ -1,12 +1,14 @@
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
-    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 22
     block_number: 18
     line_number: 0
     span_number: 0
     total_y: 18912.889617919922
+    origin_x: 48.47999954223633
     idx: 1818
   sector_title: Livelihoods
   sector_idx: 965
@@ -15,160 +17,220 @@
   - index: 1819
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, None'
+    style: 'calibri, 14, #000000, None'
+    size: 6.960000038146973
     page_number: 22
     block_number: 19
     line_number: 0
     span_number: 0
     total_y: 18937.369598388672
+    origin_x: 48.47999954223633
+    double_fontsize_int: 14
   - index: 1820
     text: 'The supplier used low-quality packaging, so bags were damaged during handling. '
     text_base: the supplier used low quality packaging so bags were damaged during
       handling
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 22
     block_number: 19
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 18937.369598388672
+    origin_x: 66.50399780273438
+    double_fontsize_int: 20
   - index: 1821
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, None'
+    style: 'calibri, 14, #000000, None'
+    size: 6.960000038146973
     page_number: 22
     block_number: 20
     line_number: 0
     span_number: 0
     total_y: 18948.889617919922
+    origin_x: 48.47999954223633
+    double_fontsize_int: 14
   - index: 1822
     text: 'Travel to communities took longer because suppliers'' means of transport
       were not suitable for use on dirt roads. '
     text_base: travel to communities took longer because suppliers means of transport
       were not suitable for use on dirt roads
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 22
     block_number: 20
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 18948.889617919922
+    origin_x: 66.50399780273438
+    double_fontsize_int: 20
   - index: 1823
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, None'
+    style: 'calibri, 14, #000000, None'
+    size: 6.960000038146973
     page_number: 22
     block_number: 21
     line_number: 0
     span_number: 0
     total_y: 18960.409606933594
+    origin_x: 48.47999954223633
+    double_fontsize_int: 14
   - index: 1824
     text: 'Procurement delays due to the lack of available funds, which forced deliveries
       to beneficiaries to be rescheduled. '
     text_base: procurement delays due to the lack of available funds which forced
       deliveries to beneficiaries to be rescheduled
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 22
     block_number: 21
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 18960.409606933594
+    origin_x: 66.50399780273438
+    double_fontsize_int: 20
   - index: 1825
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, None'
+    style: 'calibri, 14, #000000, None'
+    size: 6.960000038146973
     page_number: 22
     block_number: 22
     line_number: 0
     span_number: 0
     total_y: 18971.929595947266
+    origin_x: 48.47999954223633
+    double_fontsize_int: 14
   - index: 1826
     text: 'Complicated administrative processes to buy items significantly delayed
       the delivery of rations to beneficiary '
     text_base: complicated administrative processes to buy items significantly delayed
       the delivery of rations to beneficiary
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 22
     block_number: 22
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 18971.929595947266
+    origin_x: 66.50399780273438
+    double_fontsize_int: 20
   - index: 1827
     text: 'communities. '
     text_base: communities
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 22
     block_number: 22
     line_number: 2
     span_number: 0
     total_y: 18983.449615478516
+    origin_x: 66.50399780273438
+    double_fontsize_int: 20
   - index: 1828
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, None'
+    style: 'calibri, 14, #000000, None'
+    size: 6.960000038146973
     page_number: 22
     block_number: 23
     line_number: 0
     span_number: 0
     total_y: 18994.98959350586
+    origin_x: 48.47999954223633
+    double_fontsize_int: 14
   - index: 1829
     text: 'GRC''s lack of legal representation due to the National Council''s updating
       process also delayed deliveries, as '
     text_base: grc s lack of legal representation due to the national council s updating
       process also delayed deliveries as
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 22
     block_number: 23
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 18994.98959350586
+    origin_x: 66.50399780273438
+    double_fontsize_int: 20
   - index: 1830
     text: 'no contracts could be awarded.  '
     text_base: no contracts could be awarded
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 22
     block_number: 23
     line_number: 2
     span_number: 0
     total_y: 19006.389617919922
+    origin_x: 66.50399780273438
+    double_fontsize_int: 20
   - index: 1831
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, None'
+    style: 'calibri, 14, #000000, None'
+    size: 6.960000038146973
     page_number: 22
     block_number: 24
     line_number: 0
     span_number: 0
     total_y: 19017.909606933594
+    origin_x: 48.47999954223633
+    double_fontsize_int: 14
   - index: 1832
     text: 'Contingency planning and security measures are essential for implementing
       plans of action, as are activities '
     text_base: contingency planning and security measures are essential for implementing
       plans of action as are activities
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 22
     block_number: 24
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 19017.909606933594
+    origin_x: 66.50399780273438
+    double_fontsize_int: 20
   - index: 1833
     text: 'that allow volunteers and technical teams to participate and provide constant
       feedback.  '
     text_base: that allow volunteers and technical teams to participate and provide
       constant feedback
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 22
     block_number: 24
     line_number: 2
     span_number: 0
     total_y: 19029.309600830078
+    origin_x: 66.50399780273438
+    double_fontsize_int: 20
+  items:
+  - The supplier used low-quality packaging, so bags were damaged during handling.
+  - Travel to communities took longer because suppliers' means of transport were not
+    suitable for use on dirt roads.
+  - Procurement delays due to the lack of available funds, which forced deliveries
+    to beneficiaries to be rescheduled.
+  - Complicated administrative processes to buy items significantly delayed the delivery
+    of rations to beneficiary communities.
+  - GRC's lack of legal representation due to the National Council's updating process
+    also delayed deliveries, as no contracts could be awarded.
+  - Contingency planning and security measures are essential for implementing plans
+    of action, as are activities that allow volunteers and technical teams to participate
+    and provide constant feedback.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
-    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 25
     block_number: 26
     line_number: 0
     span_number: 0
     total_y: 21763.779541015625
+    origin_x: 41.63999938964844
     idx: 2140
   sector_title: Health and Care
   sector_idx: 1834
@@ -177,70 +239,95 @@
   - index: 2141
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, None'
+    style: 'calibri, 14, #000000, None'
+    size: 6.960000038146973
     page_number: 25
     block_number: 27
     line_number: 0
     span_number: 0
     total_y: 21779.85955810547
+    origin_x: 44.7599983215332
+    double_fontsize_int: 14
   - index: 2142
     text: 'Making psychosocial support visible as a line of action helped it to become
       a fundamental aspect of many health '
     text_base: making psychosocial support visible as a line of action helped it to
       become a fundamental aspect of many health
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 25
     block_number: 27
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 21779.85955810547
+    origin_x: 62.7599983215332
+    double_fontsize_int: 20
   - index: 2143
     text: 'intervention actions '
     text_base: intervention actions
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 25
     block_number: 27
     line_number: 2
     span_number: 0
     total_y: 21791.975524902344
+    origin_x: 62.7599983215332
+    double_fontsize_int: 20
   - index: 2144
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, None'
+    style: 'calibri, 14, #000000, None'
+    size: 6.960000038146973
     page_number: 25
     block_number: 28
     line_number: 0
     span_number: 0
     total_y: 21803.975524902344
+    origin_x: 44.7599983215332
+    double_fontsize_int: 14
   - index: 2145
     text: 'Hiring professional staff for identification of psychosocial care and follow-up
       is essential for focusing on that '
     text_base: hiring professional staff for identification of psychosocial care and
       follow up is essential for focusing on that
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 25
     block_number: 28
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 21803.975524902344
+    origin_x: 62.7599983215332
+    double_fontsize_int: 20
   - index: 2146
     text: 'immediate emergency action. '
     text_base: immediate emergency action
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 25
     block_number: 28
     line_number: 2
     span_number: 0
     total_y: 21816.095581054688
+    origin_x: 62.7599983215332
+    double_fontsize_int: 20
+  items:
+  - Making psychosocial support visible as a line of action helped it to become a
+    fundamental aspect of many health intervention actions
+  - Hiring professional staff for identification of psychosocial care and follow-up
+    is essential for focusing on that immediate emergency action.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 29
     block_number: 10
     line_number: 0
     span_number: 0
     total_y: 25144.29949951172
+    origin_x: 41.63999938964844
     idx: 2437
   sector_title: Protection, Gender and Inclusion
   sector_idx: 2150
@@ -249,70 +336,95 @@
   - index: 2438
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, #ffffff'
+    style: 'calibri, 14, #000000, #ffffff'
+    size: 6.960000038146973
     page_number: 29
     block_number: 11
     line_number: 0
     span_number: 0
     total_y: 25160.37548828125
+    origin_x: 41.63999938964844
+    double_fontsize_int: 14
   - index: 2439
     text: 'The community workshops were a success and well accepted by the population.
       Using theatre to communicate '
     text_base: the community workshops were a success and well accepted by the population
       using theatre to communicate
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 29
     block_number: 11
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 25160.37548828125
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
   - index: 2440
     text: 'PGI messages was very successful '
     text_base: pgi messages was very successful
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 29
     block_number: 11
     line_number: 2
     span_number: 0
     total_y: 25171.8955078125
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
   - index: 2444
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, #ffffff'
+    style: 'calibri, 14, #000000, #ffffff'
+    size: 6.960000038146973
     page_number: 30
     block_number: 3
     line_number: 0
     span_number: 0
     total_y: 25316.039489746094
+    origin_x: 41.63999938964844
+    double_fontsize_int: 14
   - index: 2445
     text: 'Strengthening the National Society''s capacity through workshops contributed
       to the incorporation of PGI actions '
     text_base: strengthening the national society s capacity through workshops contributed
       to the incorporation of pgi actions
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 30
     block_number: 3
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 25316.039489746094
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
   - index: 2446
     text: 'into the Plan of Action. '
     text_base: into the plan of action
-    style: 'ArialMT, 20, #000000, #ffffff'
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 30
     block_number: 3
     line_number: 2
     span_number: 0
     total_y: 25327.559448242188
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
+  items:
+  - The community workshops were a success and well accepted by the population. Using
+    theatre to communicate PGI messages was very successful
+  - Strengthening the National Society's capacity through workshops contributed to
+    the incorporation of PGI actions into the Plan of Action.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 35
     block_number: 17
     line_number: 0
     span_number: 0
     total_y: 29549.639404296875
+    origin_x: 41.63999938964844
     idx: 2773
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 2447
@@ -321,100 +433,139 @@
   - index: 2774
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, None'
+    style: 'calibri, 14, #000000, None'
+    size: 6.960000038146973
     page_number: 35
     block_number: 18
     line_number: 0
     span_number: 0
     total_y: 29565.619384765625
+    origin_x: 41.63999938964844
+    double_fontsize_int: 14
   - index: 2775
     text: 'It was difficult to conduct any type of process - whether for training,
       recovery, or disaster preparedness - with only five '
     text_base: it was difficult to conduct any type of process whether for training
       recovery or disaster preparedness with only five
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 35
     block_number: 18
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 29565.619384765625
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
   - index: 2776
     text: 'hours available during the day to do so (6 am to noon). Nothing could be
       carried out after noon because of the risk of '
     text_base: hours available during the day to do so 6 am to noon nothing could
       be carried out after noon because of the risk of
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 35
     block_number: 18
     line_number: 2
     span_number: 0
     total_y: 29577.139404296875
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
   - index: 2777
     text: 'flooded roads caused by rains, which meant having to spend the night in
       communities.  '
     text_base: flooded roads caused by rains which meant having to spend the night
       in communities
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 35
     block_number: 18
     line_number: 3
     span_number: 0
     total_y: 29588.65936279297
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
   - index: 2778
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, None'
+    style: 'calibri, 14, #000000, None'
+    size: 6.960000038146973
     page_number: 35
     block_number: 19
     line_number: 0
     span_number: 0
     total_y: 29600.17938232422
+    origin_x: 41.63999938964844
+    double_fontsize_int: 14
   - index: 2779
     text: 'We paid more attention to inclement weather, giving everything due consideration
       to be able to conduct our actions in '
     text_base: we paid more attention to inclement weather giving everything due consideration
       to be able to conduct our actions in
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 35
     block_number: 19
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 29600.17938232422
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
   - index: 2780
     text: 'time. '
     text_base: time
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 35
     block_number: 19
     line_number: 2
     span_number: 0
     total_y: 29611.69940185547
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
   - index: 2781
     text: '-'
     text_base: ''
-    style: 'Calibri, 14, #000000, None'
+    style: 'calibri, 14, #000000, None'
+    size: 6.960000038146973
     page_number: 35
     block_number: 20
     line_number: 0
     span_number: 0
     total_y: 29623.099365234375
+    origin_x: 41.63999938964844
+    double_fontsize_int: 14
   - index: 2782
     text: 'Safety conditions should be considered during planning and local authorities
       should be involved to ensure a '
     text_base: safety conditions should be considered during planning and local authorities
       should be involved to ensure a
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 35
     block_number: 20
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 29623.099365234375
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
   - index: 2783
     text: 'comprehensive approach. '
     text_base: comprehensive approach
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 35
     block_number: 20
     line_number: 2
     span_number: 0
     total_y: 29634.619384765625
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
+  items:
+  - It was difficult to conduct any type of process - whether for training, recovery,
+    or disaster preparedness - with only five hours available during the day to do
+    so (6 am to noon). Nothing could be carried out after noon because of the risk
+    of flooded roads caused by rains, which meant having to spend the night in communities.
+  - We paid more attention to inclement weather, giving everything due consideration
+    to be able to conduct our actions in time.
+  - Safety conditions should be considered during planning and local authorities should
+    be involved to ensure a comprehensive approach.

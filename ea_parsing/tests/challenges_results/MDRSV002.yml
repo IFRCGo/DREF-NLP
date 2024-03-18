@@ -1,12 +1,15 @@
 - title:
     text: 'Challenges and Lessons Learned  '
     text_base: challenges and lessons learned
-    style: 'arial,bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 7
     line_number: 0
     span_number: 0
     total_y: 4695.789886474609
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 475.53277587890625, 219.05886840820312, 489.2476806640625)
     idx: 531
   sector_title: Relief
   sector_idx: 191
@@ -14,95 +17,139 @@
   content:
   - index: 532
     text: "\uF0B7"
-    text_base: ''
-    style: 'symbol, 20, #000000, None'
+    text_base: .nan
+    style: 'symbol, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 7
     line_number: 1
     span_number: 0
     total_y: 4708.14990234375
+    origin_x: 57.84000015258789
+    bbox: (57.84000015258789, 488.5364990234375, 62.42121124267578, 500.73846435546875)
+    double_fontsize_int: 20
   - index: 533
     text: 'The National Society took security measures during the distributions since
       several areas have gang groups '
     text_base: the national society took security measures during the distributions
       since several areas have gang groups
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 7
-    line_number: 2
-    span_number: 0
+    line_number: 1
+    span_number: 1
     total_y: 4708.14990234375
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 487.8429870605469, 552.9280395507812, 501.52801513671875)
+    double_fontsize_int: 20
   - index: 534
     text: 'present and there was the risk of them threatening to take the relief items
       from the beneficiaries. '
     text_base: present and there was the risk of them threatening to take the relief
       items from the beneficiaries
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 7
     line_number: 3
     span_number: 0
     total_y: 4719.549896240234
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 499.24298095703125, 552.9679565429688, 512.9280395507812)
+    double_fontsize_int: 20
   - index: 535
     text: 'Fortunately, the precautionary measures were effective and no major problems
       were encountered. '
     text_base: fortunately the precautionary measures were effective and no major
       problems were encountered
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 7
     line_number: 4
     span_number: 0
     total_y: 4731.069885253906
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 510.7629699707031, 513.348876953125, 524.447998046875)
+    double_fontsize_int: 20
   - index: 536
     text: "\uF0B7"
-    text_base: ''
-    style: 'symbol, 20, #000000, None'
+    text_base: .nan
+    style: 'symbol, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 8
     line_number: 0
     span_number: 0
     total_y: 4743.309875488281
+    origin_x: 57.84000015258789
+    bbox: (57.84000015258789, 523.6964721679688, 62.42121124267578, 535.8984375)
+    double_fontsize_int: 20
   - index: 537
     text: 'Many of the affected areas were inaccessible by land; therefore, distributions
       were carried out using boats, '
     text_base: many of the affected areas were inaccessible by land therefore distributions
       were carried out using boats
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 8
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 4743.309875488281
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 523.0029296875, 553.4917602539062, 536.68798828125)
+    double_fontsize_int: 20
   - index: 538
     text: 'which delayed delivery and incurred certain risks. Nevertheless, the distributions
       were completed and the '
     text_base: which delayed delivery and incurred certain risks nevertheless the
       distributions were completed and the
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 8
     line_number: 2
     span_number: 0
     total_y: 4754.709899902344
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 534.4029541015625, 553.0178833007812, 548.0880126953125)
+    double_fontsize_int: 20
   - index: 539
     text: objective was successfully achieved.
     text_base: objective was successfully achieved
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 8
     line_number: 3
     span_number: 0
     total_y: 4766.229919433594
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 545.9229736328125, 237.94308471679688, 559.6080322265625)
+    double_fontsize_int: 20
+  items:
+  - The National Society took security measures during the distributions since several
+    areas have gang groups present and there was the risk of them threatening to take
+    the relief items from the beneficiaries. Fortunately, the precautionary measures
+    were effective and no major problems were encountered.
+  - Many of the affected areas were inaccessible by land; therefore, distributions
+    were carried out using boats, which delayed delivery and incurred certain risks.
+    Nevertheless, the distributions were completed and the objective was successfully
+    achieved.
 - title:
     text: 'Challenges and Lessons Learned: '
     text_base: challenges and lessons learned
-    style: 'arial,bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 18
     line_number: 0
     span_number: 0
     total_y: 7173.049835205078
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 427.03277587890625, 219.65887451171875, 440.7476806640625)
     idx: 832
   sector_title: Shelter, Housing and Settlements
   sector_idx: 540
@@ -110,163 +157,240 @@
   content:
   - index: 833
     text: "\uF0B7"
-    text_base: ''
-    style: 'symbol, 20, #000000, None'
+    text_base: .nan
+    style: 'symbol, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 18
     line_number: 1
     span_number: 0
     total_y: 7185.289855957031
+    origin_x: 57.84000015258789
+    bbox: (57.84000015258789, 439.91650390625, 62.42121124267578, 452.11846923828125)
+    double_fontsize_int: 20
   - index: 834
     text: 'Delays as a result of bureaucratic processes of government institutions.  '
     text_base: delays as a result of bureaucratic processes of government institutions
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 18
-    line_number: 2
-    span_number: 0
+    line_number: 1
+    span_number: 1
     total_y: 7185.289855957031
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 439.2229919433594, 397.6388854980469, 452.90802001953125)
+    double_fontsize_int: 20
   - index: 835
     text: "\uF0B7"
-    text_base: ''
-    style: 'symbol, 20, #000000, None'
+    text_base: .nan
+    style: 'symbol, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 19
     line_number: 0
     span_number: 0
     total_y: 7197.529846191406
+    origin_x: 57.84000015258789
+    bbox: (57.84000015258789, 452.156494140625, 62.42121124267578, 464.35845947265625)
+    double_fontsize_int: 20
   - index: 836
     text: 'There was a very limited amount of land available to relocate the affected
       families, meaning smaller and '
     text_base: there was a very limited amount of land available to relocate the affected
       families meaning smaller and
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 19
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 7197.529846191406
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 451.4629821777344, 553.5175170898438, 465.14801025390625)
+    double_fontsize_int: 20
   - index: 837
     text: 'more dispersed lots to build on which delayed the timeframe due to logistics
       complexity and also increased '
     text_base: more dispersed lots to build on which delayed the timeframe due to
       logistics complexity and also increased
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 19
     line_number: 2
     span_number: 0
     total_y: 7208.949859619141
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 462.88299560546875, 552.8683471679688, 476.5680236816406)
+    double_fontsize_int: 20
   - index: 838
     text: 'the indirect costs.  '
     text_base: the indirect costs
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 19
     line_number: 3
     span_number: 0
     total_y: 7220.4698486328125
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 474.4029846191406, 159.2688751220703, 488.0880126953125)
+    double_fontsize_int: 20
   - index: 839
     text: "\uF0B7"
-    text_base: ''
-    style: 'symbol, 20, #000000, None'
+    text_base: .nan
+    style: 'symbol, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 20
     line_number: 0
     span_number: 0
     total_y: 7232.7098388671875
+    origin_x: 57.84000015258789
+    bbox: (57.84000015258789, 487.33648681640625, 62.42121124267578, 499.5384521484375)
+    double_fontsize_int: 20
   - index: 840
     text: 'The main difficulty for the shelter objective of the appeal was that the
       government did not have the capacity '
     text_base: the main difficulty for the shelter objective of the appeal was that
       the government did not have the capacity
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 20
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 7232.7098388671875
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 486.6429748535156, 553.1913452148438, 500.3280029296875)
+    double_fontsize_int: 20
   - index: 841
     text: 'to comply with its agreement (provision of appropriate land for building
       shelters in line with legal '
     text_base: to comply with its agreement provision of appropriate land for building
       shelters in line with legal
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 20
     line_number: 2
     span_number: 0
     total_y: 7244.109832763672
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 498.04296875, 553.1073608398438, 511.7279968261719)
+    double_fontsize_int: 20
   - index: 842
     text: 'requirements for the intervention), given technical and political reasons.
       Therefore, it was necessary to '
     text_base: requirements for the intervention given technical and political reasons
       therefore it was necessary to
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 20
     line_number: 3
     span_number: 0
     total_y: 7255.6298828125
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 509.5630187988281, 553.5214233398438, 523.248046875)
+    double_fontsize_int: 20
   - index: 843
     text: 'formulate an alternative plan to use safe land in a different area.  '
     text_base: formulate an alternative plan to use safe land in a different area
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 20
     line_number: 4
     span_number: 0
     total_y: 7267.149841308594
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 521.0830078125, 364.3988952636719, 534.7680053710938)
+    double_fontsize_int: 20
   - index: 844
     text: "\uF0B7"
-    text_base: ''
-    style: 'symbol, 20, #000000, None'
+    text_base: .nan
+    style: 'symbol, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 21
     line_number: 0
     span_number: 0
     total_y: 7279.389831542969
+    origin_x: 57.84000015258789
+    bbox: (57.84000015258789, 534.0164794921875, 62.42121124267578, 546.2184448242188)
+    double_fontsize_int: 20
   - index: 845
     text: 'The effects of Tropical Storm Agatha and Hurricane Alex in the country
       prompted the National Society to '
     text_base: the effects of tropical storm agatha and hurricane alex in the country
       prompted the national society to
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 21
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 7279.389831542969
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 533.322998046875, 552.9579467773438, 547.0079956054688)
+    double_fontsize_int: 20
   - index: 846
     text: 'mobilize personnel and resources to the affected areas, and delayed planned
       activities under this and other '
     text_base: mobilize personnel and resources to the affected areas and delayed
       planned activities under this and other
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 21
     line_number: 2
     span_number: 0
     total_y: 7290.789855957031
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 544.7230224609375, 553.3870849609375, 558.4080200195312)
+    double_fontsize_int: 20
   - index: 847
     text: 'sectors as the SRCS concentrated its efforts on responding to the new emergencies.  '
     text_base: sectors as the srcs concentrated its efforts on responding to the new
       emergencies
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 21
     line_number: 3
     span_number: 0
     total_y: 7302.309814453125
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 556.242919921875, 456.2288818359375, 569.927978515625)
+    double_fontsize_int: 20
+  items:
+  - Delays as a result of bureaucratic processes of government institutions.
+  - There was a very limited amount of land available to relocate the affected families,
+    meaning smaller and more dispersed lots to build on which delayed the timeframe
+    due to logistics complexity and also increased the indirect costs.
+  - The main difficulty for the shelter objective of the appeal was that the government
+    did not have the capacity to comply with its agreement (provision of appropriate
+    land for building shelters in line with legal requirements for the intervention),
+    given technical and political reasons. Therefore, it was necessary to formulate
+    an alternative plan to use safe land in a different area.
+  - The effects of Tropical Storm Agatha and Hurricane Alex in the country prompted
+    the National Society to mobilize personnel and resources to the affected areas,
+    and delayed planned activities under this and other sectors as the SRCS concentrated
+    its efforts on responding to the new emergencies.
 - title:
     text: 'Challenges: '
     text_base: challenges
-    style: 'arial,bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 3
     line_number: 0
     span_number: 0
     total_y: 9382.699768066406
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 110.9227523803711, 113.94166564941406, 124.63768005371094)
     idx: 1021
   sector_title: Health and Care
   sector_idx: 848
@@ -274,44 +398,63 @@
   content:
   - index: 1022
     text: "\uF0B7"
-    text_base: ''
-    style: 'symbol, 20, #000000, None'
+    text_base: .nan
+    style: 'symbol, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 3
     line_number: 1
     span_number: 0
-    total_y: 9395.059814453125
+    total_y: 9395.059814453123
+    origin_x: 57.84000015258789
+    bbox: (57.84000015258789, 123.92650604248047, 62.42121124267578, 136.12847900390625)
+    double_fontsize_int: 20
   - index: 1023
     text: 'Not all the PSP interventions were completed according to the calendar,
       because a considerable number '
     text_base: not all the psp interventions were completed according to the calendar
       because a considerable number
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 3
-    line_number: 2
-    span_number: 0
-    total_y: 9395.059814453125
+    line_number: 1
+    span_number: 1
+    total_y: 9395.059814453123
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 123.23300170898438, 553.0576782226562, 136.9180450439453)
+    double_fontsize_int: 20
   - index: 1024
     text: 'were conducted side by side with the shelter activities which experienced
       delays.  '
     text_base: were conducted side by side with the shelter activities which experienced
       delays
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 3
     line_number: 3
     span_number: 0
-    total_y: 9406.579772949219
+    total_y: 9406.57977294922
+    origin_x: 75.86399841308594
+    bbox: (75.86399841308594, 134.75296020507812, 438.91888427734375, 148.43800354003906)
+    double_fontsize_int: 20
+  items:
+  - Not all the PSP interventions were completed according to the calendar, because
+    a considerable number were conducted side by side with the shelter activities
+    which experienced delays.
 - title:
     text: 'Challenges: '
     text_base: challenges
-    style: 'arial,bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 1
     line_number: 16
     span_number: 0
     total_y: 11210.059753417969
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 254.44277954101562, 113.94059753417969, 268.1576843261719)
     idx: 1183
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 1025
@@ -322,30 +465,44 @@
       jointly with shelter '
     text_base: water and sanitation activities were delayed as these were being implemented
       jointly with shelter
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 1
     line_number: 16
     span_number: 1
     total_y: 11210.059753417969
+    origin_x: 114.37999725341795
+    bbox: (114.37999725341797, 254.39297485351562, 553.0283203125, 268.0780029296875)
+    double_fontsize_int: 20
   - index: 1185
     text: 'activities. '
     text_base: activities
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 1
     line_number: 17
     span_number: 0
     total_y: 11221.699768066406
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 266.0329895019531, 98.5528793334961, 279.718017578125)
+    double_fontsize_int: 20
+  items:
+  - Water and sanitation activities were delayed as these were being implemented jointly
+    with shelter activities.
 - title:
     text: 'Challenges:'
     text_base: challenges
-    style: 'arial,bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 1
     line_number: 19
     span_number: 0
     total_y: 13770.409729003906
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 289.0328063964844, 111.17278289794922, 302.7477111816406)
     idx: 1480
   sector_title: National Society Strengthening
   sector_idx: 1420
@@ -356,18 +513,29 @@
       institutions with '
     text_base: there have been delays as a result of administrative processes of government
       institutions with
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 1
     line_number: 19
     span_number: 1
     total_y: 13770.409729003906
+    origin_x: 111.26000213623048
+    bbox: (111.26000213623047, 288.9830017089844, 553.5488891601562, 302.66802978515625)
+    double_fontsize_int: 20
   - index: 1482
     text: 'regard to the implementation of the branch projects.  '
     text_base: regard to the implementation of the branch projects
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 1
     line_number: 20
     span_number: 0
     total_y: 13782.049682617188
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 300.6229553222656, 289.2588806152344, 314.3079833984375)
+    double_fontsize_int: 20
+  items:
+  - There have been delays as a result of administrative processes of government institutions
+    with regard to the implementation of the branch projects.

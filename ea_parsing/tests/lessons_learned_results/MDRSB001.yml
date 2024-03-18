@@ -1,12 +1,15 @@
 - title:
     text: 'Lessons learned:'
     text_base: lessons learned
-    style: 'Arial,Bold, 19, #000000, None'
+    style: 'arial,bold, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 1
     span_number: 0
     total_y: 6427.559997558594
+    origin_x: 76.80000305175781
+    bbox: (76.80000305175781, 81.47310638427734, 154.2079315185547, 94.45408630371094)
     idx: 601
   sector_title: null
   sector_idx: null
@@ -17,337 +20,504 @@
       emergency response of the national '
     text_base: a lessons learned activity was carried out on 13 june 2007 to review
       the emergency response of the national
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 2
     span_number: 0
     total_y: 6438.480224609375
+    origin_x: 76.79999542236328
+    bbox: (76.79999542236328, 92.34619903564453, 536.5973510742188, 105.29889678955078)
+    double_fontsize_int: 19
   - index: 603
     text: 'society, with participants that included volunteers, staff, national society
       management and the International '
     text_base: society with participants that included volunteers staff national society
       management and the international
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 3
     span_number: 0
     total_y: 6449.28076171875
+    origin_x: 76.79999542236328
+    bbox: (76.79999542236328, 103.14673614501953, 536.6377563476562, 116.09943389892578)
+    double_fontsize_int: 19
   - index: 604
     text: 'Federation. Key feedback and focus for improvement include the following: '
     text_base: federation key feedback and focus for improvement include the following
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 4
     span_number: 0
     total_y: 6460.080322265625
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 113.94629669189453, 390.65582275390625, 126.89899444580078)
+    double_fontsize_int: 19
   - index: 605
     text: "\u2022"
-    text_base: ''
-    style: 'SymbolMT, 19, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 6
     span_number: 0
     total_y: 6482.400634765625
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 136.92300415039062, 81.13603973388672, 148.4720001220703)
+    double_fontsize_int: 19
   - index: 606
     text: "Review the national society\u2019s disaster plan of action and standard\
       \ operation procedures (SOPs) in light "
     text_base: review the national society s disaster plan of action and standard
       operation procedures sops in light
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 6
     span_number: 1
     total_y: 6482.400634765625
+    origin_x: 102.18218994140624
+    bbox: (102.18218994140625, 136.2666015625, 536.5873413085938, 149.2193145751953)
+    double_fontsize_int: 19
   - index: 607
     text: 'of the experiences of the Gizo branch. '
     text_base: of the experiences of the gizo branch
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 8
     span_number: 0
     total_y: 6493.140808105469
+    origin_x: 102.1802978515625
+    bbox: (102.1802978515625, 147.00677490234375, 263.8128356933594, 159.95948791503906)
+    double_fontsize_int: 19
   - index: 608
     text: "\u2022"
-    text_base: ''
-    style: 'SymbolMT, 19, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 9
     span_number: 0
-    total_y: 6504.6011962890625
+    total_y: 6504.601196289063
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 159.12356567382812, 81.13603973388672, 170.6725616455078)
+    double_fontsize_int: 19
   - index: 609
     text: 'The availability of pre-positioned stock was instrumental in ensuring that
       communities received '
     text_base: the availability of pre positioned stock was instrumental in ensuring
       that communities received
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 9
     span_number: 1
-    total_y: 6504.6011962890625
+    total_y: 6504.601196289063
+    origin_x: 102.18218994140624
+    bbox: (102.18218994140625, 158.4671630859375, 536.6021118164062, 171.4198760986328)
+    double_fontsize_int: 19
   - index: 610
     text: 'immediate assistance following the disaster, but the items were limited.
       The national society plans to '
     text_base: immediate assistance following the disaster but the items were limited
       the national society plans to
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 11
     span_number: 0
     total_y: 6515.461120605469
+    origin_x: 102.1802978515625
+    bbox: (102.1802978515625, 169.32708740234375, 536.6412963867188, 182.27980041503906)
+    double_fontsize_int: 19
   - index: 611
     text: 'explore opportunities to increase its pre-positioned stock level and capacity. '
     text_base: explore opportunities to increase its pre positioned stock level and
       capacity
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 12
     span_number: 0
     total_y: 6526.321044921875
+    origin_x: 102.1802978515625
+    bbox: (102.1802978515625, 180.18701171875, 419.6631164550781, 193.1397247314453)
+    double_fontsize_int: 19
   - index: 612
     text: "\u2022"
-    text_base: ''
-    style: 'SymbolMT, 19, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 13
     span_number: 0
     total_y: 6537.721130371094
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 192.24349975585938, 81.13603973388672, 203.79249572753906)
+    double_fontsize_int: 19
   - index: 613
     text: 'In the immediate aftermath of the disaster, coordination between partners
       and other stakeholders was '
     text_base: in the immediate aftermath of the disaster coordination between partners
       and other stakeholders was
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 13
     span_number: 1
     total_y: 6537.721130371094
+    origin_x: 102.18218994140624
+    bbox: (102.18218994140625, 191.58709716796875, 536.6372680664062, 204.53981018066406)
+    double_fontsize_int: 19
   - index: 614
     text: 'not strong and will have to be addressed to ensure similar problems do
       not recur in the future. '
     text_base: not strong and will have to be addressed to ensure similar problems
       do not recur in the future
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 15
     span_number: 0
     total_y: 6548.520690917969
+    origin_x: 102.1802978515625
+    bbox: (102.1802978515625, 202.38665771484375, 494.4407043457031, 215.33937072753906)
+    double_fontsize_int: 19
   - index: 615
     text: "\u2022"
-    text_base: ''
-    style: 'SymbolMT, 19, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 16
     span_number: 0
     total_y: 6559.9810791015625
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 214.50344848632812, 81.13603973388672, 226.0524444580078)
+    double_fontsize_int: 19
   - index: 616
     text: 'The national society suggests that a terms of reference (ToR) agreement
       with the International '
     text_base: the national society suggests that a terms of reference tor agreement
       with the international
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 16
     span_number: 1
     total_y: 6559.9810791015625
+    origin_x: 102.18218994140624
+    bbox: (102.18218994140625, 213.8470458984375, 536.6716918945312, 226.7997589111328)
+    double_fontsize_int: 19
   - index: 617
     text: 'Federation outlining its role and support during the emergency response
       stage would have assisted in '
     text_base: federation outlining its role and support during the emergency response
       stage would have assisted in
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 18
     span_number: 0
     total_y: 6570.841003417969
+    origin_x: 102.1802978515625
+    bbox: (102.1802978515625, 224.70697021484375, 536.5882568359375, 237.65968322753906)
+    double_fontsize_int: 19
   - index: 618
     text: 'providing clarification and coordination. '
     text_base: providing clarification and coordination
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 19
     span_number: 0
     total_y: 6581.640563964844
+    origin_x: 102.1802978515625
+    bbox: (102.1802978515625, 235.50653076171875, 267.4083557128906, 248.45924377441406)
+    double_fontsize_int: 19
   - index: 619
     text: "\u2022"
-    text_base: ''
-    style: 'SymbolMT, 19, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 20
     span_number: 0
     total_y: 6593.100036621094
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 247.62240600585938, 81.13603973388672, 259.17138671875)
+    double_fontsize_int: 19
   - index: 620
     text: 'Daily briefing and debriefing sessions for volunteers would have been useful. '
     text_base: daily briefing and debriefing sessions for volunteers would have been
       useful
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 20
     span_number: 1
     total_y: 6593.100036621094
+    origin_x: 102.18218994140624
+    bbox: (102.18218994140625, 246.96600341796875, 424.2970275878906, 259.918701171875)
+    double_fontsize_int: 19
   - index: 621
     text: "\u2022"
-    text_base: ''
-    style: 'SymbolMT, 19, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 22
     span_number: 0
-    total_y: 6604.5604248046875
+    total_y: 6604.560424804688
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 259.0827941894531, 81.13603973388672, 270.63177490234375)
+    double_fontsize_int: 19
   - index: 622
     text: 'Acknowledgement that local volunteers may also be part of the disaster
       affected population. '
     text_base: acknowledgement that local volunteers may also be part of the disaster
       affected population
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 22
     span_number: 1
-    total_y: 6604.5604248046875
+    total_y: 6604.560424804688
+    origin_x: 102.18218994140624
+    bbox: (102.18218994140625, 258.4263916015625, 486.57568359375, 271.37908935546875)
+    double_fontsize_int: 19
   - index: 623
     text: 'Operational and transportation costs remained problematic and expensive
       throughout the distribution phase. '
     text_base: operational and transportation costs remained problematic and expensive
       throughout the distribution phase
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 25
     span_number: 0
     total_y: 6626.1595458984375
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 280.0255126953125, 536.6298217773438, 292.97821044921875)
+    double_fontsize_int: 19
   - index: 624
     text: 'Rented transport between islands was unreliable and inconsistent, resulting
       in delays that have translated to '
     text_base: rented transport between islands was unreliable and inconsistent resulting
       in delays that have translated to
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 26
     span_number: 0
     total_y: 6637.019439697266
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 290.8854064941406, 536.6222534179688, 303.8381042480469)
+    double_fontsize_int: 19
   - index: 625
     text: 'higher costs and weakened service delivery. '
     text_base: higher costs and weakened service delivery
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 27
     span_number: 0
     total_y: 6647.819000244141
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 301.6849670410156, 263.98065185546875, 314.6376647949219)
+    double_fontsize_int: 19
   - index: 626
     text: 'Other lessons learned include having too many short-term delegates at the
       beginning of the operation. This '
     text_base: other lessons learned include having too many short term delegates
       at the beginning of the operation this
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 29
     span_number: 0
     total_y: 6669.478454589844
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 323.34442138671875, 536.5498046875, 336.297119140625)
+    double_fontsize_int: 19
   - index: 627
     text: 'has been addressed through a regional disaster response team (RDRT) training
       in the region in August 2008, '
     text_base: has been addressed through a regional disaster response team rdrt training
       in the region in august 2008
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 30
     span_number: 0
     total_y: 6680.278015136719
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 334.14398193359375, 536.629150390625, 347.0966796875)
+    double_fontsize_int: 19
   - index: 628
     text: 'which means that all national societies in the region can ask for specific
       technical input. All national society '
     text_base: which means that all national societies in the region can ask for specific
       technical input all national society
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 31
     span_number: 0
     total_y: 6691.077575683594
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 344.94354248046875, 536.56591796875, 357.896240234375)
+    double_fontsize_int: 19
   - index: 629
     text: 'disaster management resources have trained together and the regional office
       encourages the request of '
     text_base: disaster management resources have trained together and the regional
       office encourages the request of
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 32
     span_number: 0
     total_y: 6701.937469482422
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 355.8034362792969, 536.5877685546875, 368.7561340332031)
+    double_fontsize_int: 19
   - index: 630
     text: 'specific personnel trained together in RDRT. For now, assessment remains
       a difficult and expensive '
     text_base: specific personnel trained together in rdrt for now assessment remains
       a difficult and expensive
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 33
     span_number: 0
     total_y: 6712.737030029297
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 366.6029968261719, 536.6682739257812, 379.5556945800781)
+    double_fontsize_int: 19
   - index: 631
     text: 'undertaking, with the Movement using military assets in recent disaster
       assessments. The circumstances are '
     text_base: undertaking with the movement using military assets in recent disaster
       assessments the circumstances are
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 34
     span_number: 0
     total_y: 6723.536590576172
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 377.4025573730469, 536.6483764648438, 390.3552551269531)
+    double_fontsize_int: 19
   - index: 632
     text: 'unlikely to change given available resources. However, there is an OCHA-led
       initiative supported by the '
     text_base: unlikely to change given available resources however there is an ocha
       led initiative supported by the
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 35
     span_number: 0
     total_y: 6734.336151123047
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 388.2021179199219, 536.572509765625, 401.1548156738281)
+    double_fontsize_int: 19
   - index: 633
     text: 'Federation which helps national disaster management offices train communities
       to be more prepared as first '
     text_base: federation which helps national disaster management offices train communities
       to be more prepared as first
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 36
     span_number: 0
     total_y: 6745.196044921875
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 399.06201171875, 536.7119750976562, 412.01470947265625)
+    double_fontsize_int: 19
   - index: 634
     text: 'responders and data collectors. '
     text_base: responders and data collectors
-    style: 'Arial, 19, #000000, None'
+    style: 'arial, 19, #000000, nan'
+    size: 9.427000045776367
     page_number: 8
     block_number: 1
     line_number: 37
     span_number: 0
     total_y: 6755.99560546875
+    origin_x: 76.79998779296875
+    bbox: (76.79998779296875, 409.861572265625, 210.6219024658203, 422.81427001953125)
+    double_fontsize_int: 19
+  items:
+  - 'A lessons learned activity was carried out on 13 June 2007 to review the emergency
+    response of the national society, with participants that included volunteers,
+    staff, national society management and the International Federation. Key feedback
+    and focus for improvement include the following:'
+  - "Review the national society\u2019s disaster plan of action and standard operation\
+    \ procedures (SOPs) in light of the experiences of the Gizo branch."
+  - The availability of pre-positioned stock was instrumental in ensuring that communities
+    received immediate assistance following the disaster, but the items were limited.
+    The national society plans to explore opportunities to increase its pre-positioned
+    stock level and capacity.
+  - In the immediate aftermath of the disaster, coordination between partners and
+    other stakeholders was not strong and will have to be addressed to ensure similar
+    problems do not recur in the future.
+  - The national society suggests that a terms of reference (ToR) agreement with the
+    International Federation outlining its role and support during the emergency response
+    stage would have assisted in providing clarification and coordination.
+  - Daily briefing and debriefing sessions for volunteers would have been useful.
+  - Acknowledgement that local volunteers may also be part of the disaster affected
+    population.
+  - Operational and transportation costs remained problematic and expensive throughout
+    the distribution phase. Rented transport between islands was unreliable and inconsistent,
+    resulting in delays that have translated to higher costs and weakened service
+    delivery.
+  - Other lessons learned include having too many short-term delegates at the beginning
+    of the operation. This has been addressed through a regional disaster response
+    team (RDRT) training in the region in August 2008, which means that all national
+    societies in the region can ask for specific technical input. All national society
+    disaster management resources have trained together and the regional office encourages
+    the request of specific personnel trained together in RDRT. For now, assessment
+    remains a difficult and expensive undertaking, with the Movement using military
+    assets in recent disaster assessments. The circumstances are unlikely to change
+    given available resources. However, there is an OCHA-led initiative supported
+    by the Federation which helps national disaster management offices train communities
+    to be more prepared as first responders and data collectors.

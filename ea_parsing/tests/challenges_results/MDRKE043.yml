@@ -2,11 +2,14 @@
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 8
     block_number: 7
     line_number: 0
     span_number: 0
     total_y: 6994.559875488281
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 250.18348693847656, 97.80720520019531, 261.3106689453125)
     idx: 522
   sector_title: Shelter, Housing and Settlements
   sector_idx: 443
@@ -17,64 +20,95 @@
       using cash programming. Because KRCS '
     text_base: delay in the procurement of nfis attributed to the unintended effects
       of using cash programming because krcs
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 8
     line_number: 0
     span_number: 0
     total_y: 7011.35986328125
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 266.9834899902344, 557.85693359375, 278.11065673828125)
+    double_fontsize_int: 20
   - index: 524
     text: 'had been responding to disasters through cash, none of the local providers
       had readily available stocks for delivery '
     text_base: had been responding to disasters through cash none of the local providers
       had readily available stocks for delivery
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 8
     line_number: 1
     span_number: 0
     total_y: 7022.879821777344
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 278.5034484863281, 557.7742919921875, 289.630615234375)
+    double_fontsize_int: 20
   - index: 525
     text: 'to KRCS. Most of the items were sourced internationally. This resulted
       in delays during the procurement process '
     text_base: to krcs most of the items were sourced internationally this resulted
       in delays during the procurement process
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 8
     line_number: 2
     span_number: 0
     total_y: 7034.403564453125
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 290.0271911621094, 557.8400268554688, 301.15435791015625)
+    double_fontsize_int: 20
   - index: 526
     text: 'that delayed delivery of NFIs in some cases. This was however addressed
       through support from UNICEF who had '
     text_base: that delayed delivery of nfis in some cases this was however addressed
       through support from unicef who had
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 8
     line_number: 3
     span_number: 0
     total_y: 7045.8077392578125
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 301.4313659667969, 557.7733764648438, 312.55853271484375)
+    double_fontsize_int: 20
   - index: 527
     text: 'prepositioned family kits in parts of the country in readiness for floods. '
     text_base: prepositioned family kits in parts of the country in readiness for
       floods
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 8
     line_number: 4
     span_number: 0
     total_y: 7057.31982421875
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 312.9434509277344, 359.1672058105469, 324.07061767578125)
+    double_fontsize_int: 20
+  items:
+  - Delay in the procurement of NFIs attributed to the unintended effects of using
+    cash programming. Because KRCS had been responding to disasters through cash,
+    none of the local providers had readily available stocks for delivery to KRCS.
+    Most of the items were sourced internationally. This resulted in delays during
+    the procurement process that delayed delivery of NFIs in some cases. This was
+    however addressed through support from UNICEF who had prepositioned family kits
+    in parts of the country in readiness for floods.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 9
     block_number: 14
     line_number: 0
     span_number: 0
     total_y: 8089.679870605469
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 503.3835144042969, 97.80720520019531, 514.5106811523438)
     idx: 625
   sector_title: Livelihoods
   sector_idx: 541
@@ -85,21 +119,30 @@
       intervention. '
     text_base: continued rains during to the interventions slowed the progress of
       the intervention
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 15
     line_number: 0
     span_number: 0
     total_y: 8106.479797363281
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 520.1834106445312, 415.44720458984375, 531.3106079101562)
+    double_fontsize_int: 20
+  items:
+  - 'Continued rains during to the interventions slowed the progress of the intervention. '
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 12
     block_number: 15
     line_number: 0
     span_number: 0
     total_y: 10421.399780273438
+    origin_x: 42.36000061035156
+    bbox: (42.36000061035156, 309.3434753417969, 95.16720581054688, 320.47064208984375)
     idx: 900
   sector_title: Health and Care
   sector_idx: 629
@@ -108,59 +151,86 @@
   - index: 901
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 16
     line_number: 0
     span_number: 0
     total_y: 10438.799774169922
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 325.7464904785156, 64.22120666503906, 337.9484558105469)
+    double_fontsize_int: 20
   - index: 902
     text: 'Continued rainfall during the initial stages of the intervention led to
       inaccessibility of some of the areas of '
     text_base: continued rainfall during the initial stages of the intervention led
       to inaccessibility of some of the areas of
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 16
     line_number: 0
     span_number: 1
     total_y: 10438.799774169922
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 326.74346923828125, 557.8021240234375, 337.8706359863281)
+    double_fontsize_int: 20
   - index: 903
     text: health interventions.
     text_base: health interventions
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 16
     line_number: 2
     span_number: 0
     total_y: 10450.319763183594
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 338.2634582519531, 167.0283203125, 349.390625)
+    double_fontsize_int: 20
   - index: 904
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 17
     line_number: 0
     span_number: 0
-    total_y: 10462.559783935547
+    total_y: 10462.559783935549
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 349.5065002441406, 64.22120666503906, 361.7084655761719)
+    double_fontsize_int: 20
   - index: 905
     text: 'Disease outbreaks increased as opposed to the projections of the intervention. '
     text_base: disease outbreaks increased as opposed to the projections of the intervention
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 17
     line_number: 0
     span_number: 1
-    total_y: 10462.559783935547
+    total_y: 10462.559783935549
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 350.50347900390625, 427.73443603515625, 361.6306457519531)
+    double_fontsize_int: 20
+  items:
+  - Continued rainfall during the initial stages of the intervention led to inaccessibility
+    of some of the areas of health interventions.
+  - Disease outbreaks increased as opposed to the projections of the intervention.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 13
     block_number: 19
     line_number: 0
     span_number: 0
     total_y: 11594.279724121094
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 640.3034057617188, 97.80720520019531, 651.4306030273438)
     idx: 1009
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 910
@@ -169,50 +239,73 @@
   - index: 1010
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 20
     line_number: 0
     span_number: 0
     total_y: 11611.799743652344
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 656.8264770507812, 64.22120666503906, 669.0284423828125)
+    double_fontsize_int: 20
   - index: 1011
     text: 'Inaccessibility of the affected areas due to continued rains in the initial
       stages of the intervention. '
     text_base: inaccessibility of the affected areas due to continued rains in the
       initial stages of the intervention
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 20
     line_number: 0
     span_number: 1
     total_y: 11611.799743652344
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 657.8234252929688, 507.4872131347656, 668.9506225585938)
+    double_fontsize_int: 20
   - index: 1012
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 21
     line_number: 0
     span_number: 0
     total_y: 11623.919738769531
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 668.9464721679688, 64.22120666503906, 681.1484375)
+    double_fontsize_int: 20
   - index: 1013
     text: 'Delays in procurement of the WASH items. '
     text_base: delays in procurement of the wash items
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 21
     line_number: 0
     span_number: 1
     total_y: 11623.919738769531
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 669.9434204101562, 270.4872131347656, 681.0706176757812)
+    double_fontsize_int: 20
+  items:
+  - Inaccessibility of the affected areas due to continued rains in the initial stages
+    of the intervention.
+  - Delays in procurement of the WASH items.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 15
     block_number: 12
     line_number: 0
     span_number: 0
     total_y: 13322.879699707031
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 685.0634155273438, 97.80720520019531, 696.1906127929688)
     idx: 1164
   sector_title: National Society Strengthening
   sector_idx: 1072
@@ -221,47 +314,71 @@
   - index: 1165
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 13
     line_number: 0
     span_number: 0
-    total_y: 13340.399719238281
+    total_y: 13340.39971923828
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 701.5864868164062, 64.22120666503906, 713.7884521484375)
+    double_fontsize_int: 20
   - index: 1166
     text: 'There is slow response by other departments in KRCS to embrace CEA. '
     text_base: there is slow response by other departments in krcs to embrace cea
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 13
     line_number: 0
     span_number: 1
-    total_y: 13340.399719238281
+    total_y: 13340.39971923828
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 702.5834350585938, 400.56719970703125, 713.7106323242188)
+    double_fontsize_int: 20
   - index: 1167
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 14
     line_number: 0
     span_number: 0
     total_y: 13352.639709472656
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 713.8264770507812, 64.22120666503906, 726.0284423828125)
+    double_fontsize_int: 20
   - index: 1168
     text: 'High turnover, affects the retainability of the CEA knowledge thus need
       for more trainings across the KRCS '
     text_base: high turnover affects the retainability of the cea knowledge thus need
       for more trainings across the krcs
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 14
     line_number: 0
     span_number: 1
     total_y: 13352.639709472656
+    origin_x: 77.6377182006836
+    bbox: (77.6377182006836, 714.8234252929688, 557.788818359375, 725.9506225585938)
+    double_fontsize_int: 20
   - index: 1169
     text: 'branches. '
     text_base: branches
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 15
     block_number: 14
     line_number: 2
     span_number: 0
-    total_y: 13364.039733886719
+    total_y: 13364.03973388672
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 726.2234497070312, 124.32720184326172, 737.3506469726562)
+    double_fontsize_int: 20
+  items:
+  - There is slow response by other departments in KRCS to embrace CEA.
+  - High turnover, affects the retainability of the CEA knowledge thus need for more
+    trainings across the KRCS branches.

@@ -1,12 +1,14 @@
 - title:
     text: 'Lessons learned:  '
     text_base: lessons learned
-    style: 'Arial-BoldMT, 20, #000000, None'
+    style: 'bold, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 17
     span_number: 0
     total_y: 1119.2594604492188
+    origin_x: 59.40098571777344
     idx: 78
   sector_title: null
   sector_idx: null
@@ -17,300 +19,421 @@
       was successfully handled, '
     text_base: despite internal difficulties met by algerian rc the emergency operation
       was successfully handled
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 18
     span_number: 0
     total_y: 1130.7193603515625
+    origin_x: 59.40098571777344
+    double_fontsize_int: 20
   - index: 80
     text: 'showing the impact of the disaster management training component undertaken
       by the Algerian RC with '
     text_base: showing the impact of the disaster management training component undertaken
       by the algerian rc with
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 19
     span_number: 0
     total_y: 1142.2393798828125
+    origin_x: 59.400970458984375
+    double_fontsize_int: 20
   - index: 81
     text: 'the support of the International Federation after the Boumerdes earthquake
       in 2003. '
     text_base: the support of the international federation after the boumerdes earthquake
       in 2003
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 20
     span_number: 0
     total_y: 1153.6992797851562
+    origin_x: 59.40095520019531
+    double_fontsize_int: 20
   - index: 82
     text: 'Communications with and reporting to the International Federation structures
       at time of disasters remain a '
     text_base: communications with and reporting to the international federation structures
       at time of disasters remain a
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 22
     span_number: 0
     total_y: 1176.7392883300781
+    origin_x: 59.40095520019531
+    double_fontsize_int: 20
   - index: 83
     text: 'critical issue, despite a real effort from the National Society to set
       up a daily update. Communications of '
     text_base: critical issue despite a real effort from the national society to set
       up a daily update communications of
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 23
     span_number: 0
     total_y: 1188.1991577148438
+    origin_x: 59.400970458984375
+    double_fontsize_int: 20
   - index: 84
     text: 'information is a key issue that needs to be addressed in a proper way through
       the assignment of a person '
     text_base: information is a key issue that needs to be addressed in a proper way
       through the assignment of a person
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 24
     span_number: 0
     total_y: 1199.7191467285156
+    origin_x: 59.400970458984375
+    double_fontsize_int: 20
   - index: 85
     text: 'in the emergency task force. '
     text_base: in the emergency task force
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 25
     span_number: 0
     total_y: 1211.2391357421875
+    origin_x: 59.400970458984375
+    double_fontsize_int: 20
   - index: 86
     text: 'One of the key lessons learned has been the necessity to strengthen the
       dialogue with the Civil Defence '
     text_base: one of the key lessons learned has been the necessity to strengthen
       the dialogue with the civil defence
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 27
     span_number: 0
     total_y: 1234.218994140625
+    origin_x: 59.400970458984375
+    double_fontsize_int: 20
   - index: 87
     text: 'and to work on contingency plans at local, regional or national levels,
       seeking for complementarity and '
     text_base: and to work on contingency plans at local regional or national levels
       seeking for complementarity and
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 28
     span_number: 0
     total_y: 1245.7389831542969
+    origin_x: 59.40095520019531
+    double_fontsize_int: 20
   - index: 88
     text: 'mutual support. '
     text_base: mutual support
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 29
     span_number: 0
     total_y: 1257.1988525390625
+    origin_x: 59.40095520019531
+    double_fontsize_int: 20
   - index: 89
     text: 'Another interesting lesson from this operation was the capacity of the
       National Society to mobilise local '
     text_base: another interesting lesson from this operation was the capacity of
       the national society to mobilise local
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 31
     span_number: 0
     total_y: 1280.1787109375
+    origin_x: 59.40095520019531
+    double_fontsize_int: 20
   - index: 90
     text: 'resources from the public and private sector. Through a good disaster preparedness
       programme (stocks '
     text_base: resources from the public and private sector through a good disaster
       preparedness programme stocks
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 32
     span_number: 0
     total_y: 1291.6986999511719
+    origin_x: 59.400970458984375
+    double_fontsize_int: 20
   - index: 91
     text: 'pre-positioned at regional level) and an effective resource mobilisation
       plan, the emergency phase can be '
     text_base: pre positioned at regional level and an effective resource mobilisation
       plan the emergency phase can be
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 33
     span_number: 0
     total_y: 1303.2186889648438
+    origin_x: 59.400970458984375
+    double_fontsize_int: 20
   - index: 92
     text: 'covered easily by a well prepared National Society. Unfortunately, it is
       difficult to obtain funds for the '
     text_base: covered easily by a well prepared national society unfortunately it
       is difficult to obtain funds for the
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 34
     span_number: 0
     total_y: 1314.6785583496094
+    origin_x: 59.400970458984375
+    double_fontsize_int: 20
   - index: 93
     text: 'preparedness and organisational phases of operations like the reconstitution
       and pre-positioning of stocks; '
     text_base: preparedness and organisational phases of operations like the reconstitution
       and pre positioning of stocks
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 35
     span_number: 0
     total_y: 1326.1985473632812
+    origin_x: 59.400970458984375
+    double_fontsize_int: 20
   - index: 94
     text: 'risk reduction programmes; and capacity building programmes to invest in
       local staff and volunteers. '
     text_base: risk reduction programmes and capacity building programmes to invest
       in local staff and volunteers
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 36
     span_number: 0
     total_y: 1337.7185363769531
+    origin_x: 59.400970458984375
+    double_fontsize_int: 20
   - index: 95
     text: 'Last but not least, bilateral support to Algerian RC from the Gulf National
       Societies is an important factor of '
     text_base: last but not least bilateral support to algerian rc from the gulf national
       societies is an important factor of
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 38
     span_number: 0
     total_y: 1360.6983642578125
+    origin_x: 59.40095520019531
+    double_fontsize_int: 20
   - index: 96
     text: 'support to the National Society. Sharing of information and the overall
       coordination concept still remain to '
     text_base: support to the national society sharing of information and the overall
       coordination concept still remain to
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 39
     span_number: 0
     total_y: 1372.2183837890625
+    origin_x: 59.40093994140625
+    double_fontsize_int: 20
   - index: 97
     text: 'be a problematic issue. Transparency from participating National Societies
       will help to re-assess the in '
     text_base: be a problematic issue transparency from participating national societies
       will help to re assess the in
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 40
     span_number: 0
     total_y: 1383.67822265625
+    origin_x: 59.40093994140625
+    double_fontsize_int: 20
   - index: 98
     text: 'country needs covered or to be covered.  '
     text_base: country needs covered or to be covered
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 41
     span_number: 0
     total_y: 1395.1982421875
+    origin_x: 59.40095520019531
+    double_fontsize_int: 20
   - index: 99
     text: 'The Algerian RC benefits from a solid set up all over the country and confidence
       of the local population. It '
     text_base: the algerian rc benefits from a solid set up all over the country and
       confidence of the local population it
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 43
     span_number: 0
     total_y: 1418.1781005859375
+    origin_x: 59.40095520019531
+    double_fontsize_int: 20
   - index: 100
     text: 'is one of the few organizations from the civil society that is highly recognised
       and which could play an '
     text_base: is one of the few organizations from the civil society that is highly
       recognised and which could play an
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 44
     span_number: 0
     total_y: 1429.6981201171875
+    origin_x: 59.40095520019531
+    double_fontsize_int: 20
   - index: 101
     text: 'important role at community level, should they be better prepared in advance.
       This investment and support '
     text_base: important role at community level should they be better prepared in
       advance this investment and support
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 45
     span_number: 0
     total_y: 1441.2180786132812
+    origin_x: 59.40095520019531
+    double_fontsize_int: 20
   - index: 102
     text: 'from the RC/RC Movement and international community is needed, especially
       when the national '
     text_base: from the rc rc movement and international community is needed especially
       when the national
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 46
     span_number: 0
     total_y: 1452.677978515625
+    origin_x: 59.40095520019531
+    double_fontsize_int: 20
   - index: 103
     text: 'authorities are restricting the international assistance. However, it appears
       that many RC/RC donors are '
     text_base: authorities are restricting the international assistance however it
       appears that many rc rc donors are
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 47
     span_number: 0
     total_y: 1464.1979370117188
+    origin_x: 59.400970458984375
+    double_fontsize_int: 20
   - index: 104
     text: 'also dependent on government funding and the fact that there was no call
       for humanitarian assistance from '
     text_base: also dependent on government funding and the fact that there was no
       call for humanitarian assistance from
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 48
     span_number: 0
     total_y: 1475.7178955078125
+    origin_x: 59.400970458984375
+    double_fontsize_int: 20
   - index: 105
     text: 'the government was a number of times provided as a reason for National
       Societies not to be in a position '
     text_base: the government was a number of times provided as a reason for national
       societies not to be in a position
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 49
     span_number: 0
     total_y: 1487.1777954101562
+    origin_x: 59.40095520019531
+    double_fontsize_int: 20
   - index: 106
     text: 'to apply for government funding. This explains partly the low coverage
       of this Floods Emergency Appeal. '
     text_base: to apply for government funding this explains partly the low coverage
       of this floods emergency appeal
-    style: 'ArialMT, 20, #000000, #919191'
+    style: 'arialmt, 20, #000000, #919191'
+    size: 10.020000457763672
     page_number: 1
     block_number: 1
     line_number: 50
     span_number: 0
     total_y: 1498.69775390625
+    origin_x: 59.40093994140625
+    double_fontsize_int: 20
+  items:
+  - Despite internal difficulties met by Algerian RC, the emergency operation was
+    successfully handled, showing the impact of the disaster management training component
+    undertaken by the Algerian RC with the support of the International Federation
+    after the Boumerdes earthquake in 2003.
+  - Communications with and reporting to the International Federation structures at
+    time of disasters remain a critical issue, despite a real effort from the National
+    Society to set up a daily update. Communications of information is a key issue
+    that needs to be addressed in a proper way through the assignment of a person
+    in the emergency task force.
+  - One of the key lessons learned has been the necessity to strengthen the dialogue
+    with the Civil Defence and to work on contingency plans at local, regional or
+    national levels, seeking for complementarity and mutual support.
+  - Another interesting lesson from this operation was the capacity of the National
+    Society to mobilise local resources from the public and private sector. Through
+    a good disaster preparedness programme (stocks pre-positioned at regional level)
+    and an effective resource mobilisation plan, the emergency phase can be covered
+    easily by a well prepared National Society. Unfortunately, it is difficult to
+    obtain funds for the preparedness and organisational phases of operations like
+    the reconstitution and pre-positioning of stocks; risk reduction programmes; and
+    capacity building programmes to invest in local staff and volunteers.
+  - Last but not least, bilateral support to Algerian RC from the Gulf National Societies
+    is an important factor of support to the National Society. Sharing of information
+    and the overall coordination concept still remain to be a problematic issue. Transparency
+    from participating National Societies will help to re-assess the in country needs
+    covered or to be covered.
+  - The Algerian RC benefits from a solid set up all over the country and confidence
+    of the local population. It is one of the few organizations from the civil society
+    that is highly recognised and which could play an important role at community
+    level, should they be better prepared in advance. This investment and support
+    from the RC/RC Movement and international community is needed, especially when
+    the national authorities are restricting the international assistance. However,
+    it appears that many RC/RC donors are also dependent on government funding and
+    the fact that there was no call for humanitarian assistance from the government
+    was a number of times provided as a reason for National Societies not to be in
+    a position to apply for government funding. This explains partly the low coverage
+    of this Floods Emergency Appeal.

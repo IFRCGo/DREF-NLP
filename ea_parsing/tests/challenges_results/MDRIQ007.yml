@@ -2,11 +2,14 @@
     text: 'Challenges '
     text_base: challenges
     style: 'arial black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 10
     block_number: 3
     line_number: 1
     span_number: 0
     total_y: 7990.080017089844
+    origin_x: 36.0
+    bbox: (36.0, 59.11817932128906, 99.94562530517578, 73.16333770751953)
     idx: 533
   sector_title: null
   sector_idx: null
@@ -18,53 +21,79 @@
     text_base: the major challenge is the limited funding for capacity building in
       operations dm logistics and operational support
     style: 'arial, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 10
     block_number: 3
     line_number: 2
     span_number: 0
     total_y: 8003.059997558594
+    origin_x: 36.0
+    bbox: (36.0, 72.35299682617188, 580.4906005859375, 86.03804016113281)
+    double_fontsize_int: 20
   - index: 535
     text: 'services.IFRC remains committed to supporting the IRCS through the capacity
       building-capacity enabling component of '
     text_base: services ifrc remains committed to supporting the ircs through the
       capacity building capacity enabling component of
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 3
     line_number: 3
     span_number: 0
     total_y: 8014.460021972656
+    origin_x: 36.0
+    bbox: (36.0, 83.75302124023438, 580.5514526367188, 97.43806457519531)
+    double_fontsize_int: 20
   - index: 536
     text: 'the Emergency Appeal. The main obstacle to the timely implementation of
       activities under this outcome is funding, which '
     text_base: the emergency appeal the main obstacle to the timely implementation
       of activities under this outcome is funding which
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 3
     line_number: 4
     span_number: 0
     total_y: 8025.97998046875
+    origin_x: 36.0
+    bbox: (36.0, 95.27297973632812, 580.0252075195312, 108.95802307128906)
+    double_fontsize_int: 20
   - index: 537
     text: has affected IFRC capacity to facilitate and deliver on this important area
       of work.
     text_base: has affected ifrc capacity to facilitate and deliver on this important
       area of work
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 3
     line_number: 5
     span_number: 0
     total_y: 8037.5
+    origin_x: 36.0
+    bbox: (36.0, 106.79299926757812, 395.4664306640625, 120.47804260253906)
+    double_fontsize_int: 20
+  items:
+  - The major challenge is the limited funding for capacity building in operations,DM,
+    logistics and operational support services.IFRC remains committed to supporting
+    the IRCS through the capacity building-capacity enabling component of the Emergency
+    Appeal. The main obstacle to the timely implementation of activities under this
+    outcome is funding, which has affected IFRC capacity to facilitate and deliver
+    on this important area of work.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arial black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 11
     block_number: 12
     line_number: 3
     span_number: 0
     total_y: 9063.290008544922
+    origin_x: 36.0
+    bbox: (36.0, 340.32818603515625, 99.94562530517578, 354.3733215332031)
     idx: 607
   sector_title: null
   sector_idx: null
@@ -76,49 +105,74 @@
     text_base: family tents and emergency food ready for consumption were not funded
       therefore could not be procured due to the
     style: 'arial, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 11
     block_number: 12
     line_number: 4
     span_number: 0
     total_y: 9076.25
+    origin_x: 36.0
+    bbox: (36.0, 353.5429992675781, 580.455078125, 367.22802734375)
+    double_fontsize_int: 20
   - index: 609
     text: generally low funding response some procurement could not take place.
     text_base: generally low funding response some procurement could not take place
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 12
     line_number: 5
     span_number: 0
     total_y: 9087.790008544922
+    origin_x: 36.0
+    bbox: (36.0, 365.0830078125, 354.2221374511719, 378.7680358886719)
+    double_fontsize_int: 20
   - index: 610
     text: 'Similar to earlier point, the coverage of IRCS support to displaced populations
       was low compared to what was planned for '
     text_base: similar to earlier point the coverage of ircs support to displaced
       populations was low compared to what was planned for
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 12
     line_number: 7
     span_number: 0
     total_y: 9113.350006103516
+    origin_x: 36.0
+    bbox: (36.0, 390.64300537109375, 580.4814453125, 404.3280334472656)
+    double_fontsize_int: 20
   - index: 611
     text: 'due to funding  shortages.  '
     text_base: due to funding shortages
     style: 'arial, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 11
     block_number: 12
     line_number: 8
     span_number: 0
     total_y: 9124.869995117188
+    origin_x: 36.0
+    bbox: (36.0, 402.1629943847656, 157.2288818359375, 415.8480224609375)
+    double_fontsize_int: 20
+  items:
+  - Family tents and emergency food ready for consumption were not funded, therefore
+    could not be procured. Due to the generally low funding response some procurement
+    could not take place.
+  - Similar to earlier point, the coverage of IRCS support to displaced populations
+    was low compared to what was planned for due to funding  shortages.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arial black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 11
     span_number: 0
     total_y: 9814.010009765623
+    origin_x: 36.0
+    bbox: (36.0, 299.0481872558594, 99.94562530517578, 313.09332275390625)
     idx: 648
   sector_title: Shelter, Housing and Settlements
   sector_idx: 618
@@ -130,31 +184,46 @@
     text_base: since the emergency appeal was generally underfunded this only a half
       of the target number has been covered all
     style: 'arial, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 12
     span_number: 0
     total_y: 9826.970001220703
+    origin_x: 36.0
+    bbox: (36.0, 312.26300048828125, 580.478515625, 325.9480285644531)
+    double_fontsize_int: 20
   - index: 650
     text: blankets as part of the NFI was needs-specifically distributed in Iraq Centre
       and KRG-I territories to the displaced.
     text_base: blankets as part of the nfi was needs specifically distributed in iraq
       centre and krg i territories to the displaced
     style: 'arial, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 13
     span_number: 0
     total_y: 9838.489990234377
+    origin_x: 36.0
+    bbox: (36.0, 323.7829895019531, 537.947509765625, 337.468017578125)
+    double_fontsize_int: 20
+  items:
+  - Since the Emergency Appeal was generally underfunded this only a half  of the
+    target number has been covered. All blankets as part of the NFI was needs-specifically
+    distributed in Iraq Centre and KRG-I territories to the displaced.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arial black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 12
     block_number: 12
     line_number: 2
     span_number: 0
     total_y: 10220.039978027344
+    origin_x: 36.0
+    bbox: (36.0, 705.078125, 99.94562530517578, 719.123291015625)
     idx: 673
   sector_title: Health and Care
   sector_idx: 654
@@ -166,29 +235,44 @@
     text_base: funding shortage this specific field has not been funded the majority
       of income came against the emergency appeal
     style: 'arial, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 12
     block_number: 12
     line_number: 3
     span_number: 0
     total_y: 10233.0
+    origin_x: 36.0
+    bbox: (36.0, 718.29296875, 580.4244384765625, 731.97802734375)
+    double_fontsize_int: 20
   - index: 675
     text: 'MDRIQ007 with earmarking mainly for specified relief items. '
     text_base: mdriq007 with earmarking mainly for specified relief items
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 12
     line_number: 4
     span_number: 0
     total_y: 10244.52001953125
+    origin_x: 36.0
+    bbox: (36.0, 729.81298828125, 304.5188903808594, 743.498046875)
+    double_fontsize_int: 20
+  items:
+  - Funding shortage. This specific field has not been funded. The majority of income
+    came against the Emergency Appeal MDRIQ007 with earmarking mainly for specified
+    relief items.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arial black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 14
     block_number: 4
     line_number: 2
     span_number: 0
     total_y: 11221.82000732422
+    origin_x: 36.0
+    bbox: (36.0, 122.85816955566406, 99.94562530517578, 136.9033203125)
     idx: 725
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 681
@@ -200,40 +284,60 @@
     text_base: the wash intervention could not be spread across to all idps due to
       limited capacity had ircs well functioning
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 4
     line_number: 4
     span_number: 0
     total_y: 11248.940002441406
+    origin_x: 36.0
+    bbox: (36.0, 150.23300170898438, 575.58447265625, 163.9180450439453)
+    double_fontsize_int: 20
   - index: 727
     text: 'additional RO units deployed in and around camps, more beneficiaries would
       have been assisted with drinking water '
     text_base: additional ro units deployed in and around camps more beneficiaries
       would have been assisted with drinking water
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 4
     line_number: 5
     span_number: 0
     total_y: 11260.340026855469
+    origin_x: 36.0
+    bbox: (36.0, 161.63302612304688, 575.1900634765625, 175.3180694580078)
+    double_fontsize_int: 20
   - index: 728
     text: 'during 0-3 days of emergency phase led by IRCS.   '
     text_base: during 0 3 days of emergency phase led by ircs
     style: 'arial, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 14
     block_number: 4
     line_number: 6
     span_number: 0
     total_y: 11271.859985351562
+    origin_x: 36.0
+    bbox: (36.0, 173.15298461914062, 265.618896484375, 186.83802795410156)
+    double_fontsize_int: 20
+  items:
+  - The WASH intervention could not be spread across to all IDPs due to limited capacity.
+    Had IRCS well-functioning additional RO units deployed in and around camps, more
+    beneficiaries would have been assisted with drinking water during 0-3 days of
+    emergency phase led by IRCS.
 - title:
     text: Challenges
     text_base: challenges
     style: 'arial black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 14
     block_number: 6
     line_number: 2
     span_number: 0
     total_y: 11475.549987792969
+    origin_x: 36.0
+    bbox: (36.0, 376.5881652832031, 96.40579223632812, 390.63330078125)
     idx: 738
   sector_title: Quality Programming
   sector_idx: 733
@@ -245,124 +349,189 @@
     text_base: with worsening of the situation in iraq and the due ninewa liberation
       campaign ahead of us ircs needs to get
     style: 'arial, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 14
     block_number: 7
     line_number: 0
     span_number: 0
     total_y: 11488.989990234377
+    origin_x: 45.47999954223633
+    bbox: (45.47999954223633, 390.2829895019531, 583.56884765625, 403.968017578125)
+    double_fontsize_int: 20
   - index: 740
     text: 'prepared and pre-positioned with needed relief in strategic warehouses.
       In general due to the long lasting nature of the '
     text_base: prepared and pre positioned with needed relief in strategic warehouses
       in general due to the long lasting nature of the
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 7
     line_number: 1
     span_number: 0
     total_y: 11500.510009765623
+    origin_x: 42.959999084472656
+    bbox: (42.959999084472656, 401.8030090332031, 583.56884765625, 415.488037109375)
+    double_fontsize_int: 20
   - index: 741
     text: 'crisis, IRCS has depleted major relief stocks in food, NFI and hygiene.
       IRCS set reserve was 10,000 food and NFI at all '
     text_base: crisis ircs has depleted major relief stocks in food nfi and hygiene
       ircs set reserve was 10 000 food and nfi at all
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 7
     line_number: 2
     span_number: 0
     total_y: 11511.91000366211
+    origin_x: 42.959999084472656
+    bbox: (42.959999084472656, 413.2030029296875, 583.56884765625, 426.8880310058594)
+    double_fontsize_int: 20
   - index: 742
     text: 'time as stocks to be kept in warehouses. Now, this level is radically down
       in the very face of the new, expected crisis in '
     text_base: time as stocks to be kept in warehouses now this level is radically
       down in the very face of the new expected crisis in
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 7
     line_number: 3
     span_number: 0
     total_y: 11523.42999267578
+    origin_x: 42.959999084472656
+    bbox: (42.959999084472656, 424.7229919433594, 583.56884765625, 438.40802001953125)
+    double_fontsize_int: 20
   - index: 743
     text: 'Mosul, Ninewa. In the particularly underfunded IFRC-IRCS emergency appeal,
       it has been a challenge to meet the '
     text_base: mosul ninewa in the particularly underfunded ifrc ircs emergency appeal
       it has been a challenge to meet the
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 7
     line_number: 4
     span_number: 0
     total_y: 11534.950012207031
+    origin_x: 42.959999084472656
+    bbox: (42.959999084472656, 436.2430114746094, 583.56884765625, 449.92803955078125)
+    double_fontsize_int: 20
   - index: 744
     text: 'target, expectations towards IFRC to provide relief to IRCS with the ultimate
       goal to deliver services at very time of the '
     text_base: target expectations towards ifrc to provide relief to ircs with the
       ultimate goal to deliver services at very time of the
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 7
     line_number: 5
     span_number: 0
     total_y: 11546.470001220703
+    origin_x: 42.959999084472656
+    bbox: (42.959999084472656, 447.76300048828125, 583.56884765625, 461.4480285644531)
+    double_fontsize_int: 20
   - index: 745
     text: 'needs emerge. '
     text_base: needs emerge
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 7
     line_number: 6
     span_number: 0
     total_y: 11557.989990234377
+    origin_x: 42.959999084472656
+    bbox: (42.959999084472656, 459.2829895019531, 112.46887969970703, 472.968017578125)
+    double_fontsize_int: 20
   - index: 746
     text: 'As the situation it is at the time of drafting this paper/report, neither
       IFRC, not IRCS is in the position to express that '
     text_base: as the situation it is at the time of drafting this paper report neither
       ifrc not ircs is in the position to express that
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 7
     line_number: 7
     span_number: 0
     total_y: 11569.630004882812
+    origin_x: 42.959999084472656
+    bbox: (42.959999084472656, 470.9230041503906, 583.9288330078125, 484.6080322265625)
+    double_fontsize_int: 20
   - index: 747
     text: "\u201Cready for response action\u201D. Leftover on MDRIQ 007 was transferred\
       \ and charged to the new emergency appeal MDRIQ "
     text_base: ready for response action leftover on mdriq 007 was transferred and
       charged to the new emergency appeal mdriq
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 7
     line_number: 8
     span_number: 0
     total_y: 11581.029998779297
+    origin_x: 42.959999084472656
+    bbox: (42.959999084472656, 482.322998046875, 583.9288330078125, 496.0080261230469)
+    double_fontsize_int: 20
   - index: 748
     text: '008 with still low funding pattern. '
     text_base: 008 with still low funding pattern
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 7
     line_number: 9
     span_number: 0
     total_y: 11592.549987792969
+    origin_x: 42.959999084472656
+    bbox: (42.959999084472656, 493.8429870605469, 190.0188751220703, 507.52801513671875)
+    double_fontsize_int: 20
   - index: 749
     text: 'Humanitarian access to hot spot areas of Iraq is limited or not accessible
       due to the known situation. IRCS is '
     text_base: humanitarian access to hot spot areas of iraq is limited or not accessible
       due to the known situation ircs is
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 7
     line_number: 10
     span_number: 0
     total_y: 11604.07000732422
+    origin_x: 42.959999084472656
+    bbox: (42.959999084472656, 505.3630065917969, 583.6888427734375, 519.0480346679688)
+    double_fontsize_int: 20
   - index: 750
     text: 'being challenged and do well delivering services and relief to the needy. '
     text_base: being challenged and do well delivering services and relief to the
       needy
     style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 7
     line_number: 11
     span_number: 0
     total_y: 11615.5
+    origin_x: 42.959999084472656
+    bbox: (42.959999084472656, 516.79296875, 362.7189025878906, 530.47802734375)
+    double_fontsize_int: 20
+  items:
+  - With worsening of the situation in Iraq and the due Ninewa liberation campaign
+    ahead of us, IRCS needs to get prepared and pre-positioned with needed relief
+    in strategic warehouses. In general due to the long lasting nature of the crisis,
+    IRCS has depleted major relief stocks in food, NFI and hygiene. IRCS set reserve
+    was 10,000 food and NFI at all time as stocks to be kept in warehouses. Now, this
+    level is radically down in the very face of the new, expected crisis in Mosul,
+    Ninewa. In the particularly underfunded IFRC-IRCS emergency appeal, it has been
+    a challenge to meet the target, expectations towards IFRC to provide relief to
+    IRCS with the ultimate goal to deliver services at very time of the needs emerge.
+  - "As the situation it is at the time of drafting this paper/report, neither IFRC,\
+    \ not IRCS is in the position to express that \u201Cready for response action\u201D\
+    . Leftover on MDRIQ 007 was transferred and charged to the new emergency appeal\
+    \ MDRIQ 008 with still low funding pattern."
+  - Humanitarian access to hot spot areas of Iraq is limited or not accessible due
+    to the known situation. IRCS is being challenged and do well delivering services
+    and relief to the needy.

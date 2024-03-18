@@ -9,6 +9,11 @@
     span_number: 0
     total_y: 5194.219909667969
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 132.04281616210938
+    - 94.89611053466797
+    - 145.7577362060547
     idx: 412
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 251
@@ -27,6 +32,11 @@
     span_number: 0
     total_y: 5206.219909667969
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 143.99301147460938
+    - 557.9810791015625
+    - 157.6780548095703
     double_fontsize_int: 20
   - index: 414
     text: 'not standard items available in the market and therefore were difficult
@@ -41,6 +51,11 @@
     span_number: 0
     total_y: 5217.7398681640625
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 155.51296997070312
+    - 557.8668212890625
+    - 169.19801330566406
     double_fontsize_int: 20
   - index: 415
     text: 'undergone its transitional period in consolidating procurement guidelines
@@ -55,6 +70,11 @@
     span_number: 0
     total_y: 5229.2598876953125
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 167.03298950195312
+    - 557.7711181640625
+    - 180.71803283691406
     double_fontsize_int: 20
   - index: 416
     text: 'team. Therefore, this led to significant delays and had an impact on the
@@ -69,6 +89,11 @@
     span_number: 0
     total_y: 5240.659851074219
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 178.43295288085938
+    - 401.8388977050781
+    - 192.1179962158203
     double_fontsize_int: 20
   - index: 417
     text: 'IEC materials were not in place at the onset of the operation which hampered
@@ -83,6 +108,11 @@
     span_number: 0
     total_y: 5263.699890136719
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 201.47299194335938
+    - 557.9238891601562
+    - 215.1580352783203
     double_fontsize_int: 20
   - index: 418
     text: 'affected people. '
@@ -95,6 +125,11 @@
     span_number: 0
     total_y: 5275.219909667969
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 212.99301147460938
+    - 115.58888244628906
+    - 226.6780548095703
     double_fontsize_int: 20
   items:
   - The procurement and replenishment of WPTs and ceramic water filters took longer
@@ -115,6 +150,11 @@
     span_number: 0
     total_y: 6220.1298828125
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 316.0328063964844
+    - 94.89611053466797
+    - 329.7477111816406
     idx: 508
   sector_title: Shelter, Housing and Settlements
   sector_idx: 424
@@ -133,6 +173,11 @@
     span_number: 0
     total_y: 6232.129852294922
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 327.98297119140625
+    - 552.1973876953125
+    - 341.6679992675781
     double_fontsize_int: 20
   - index: 510
     text: 'programs regardless of emergency operations or development programs as
@@ -147,6 +192,11 @@
     span_number: 0
     total_y: 6243.649871826172
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 339.50299072265625
+    - 552.161376953125
+    - 353.1880187988281
     double_fontsize_int: 20
   - index: 511
     text: '(PMT). In addition, the operation took place right at the time when the
@@ -161,6 +211,11 @@
     span_number: 0
     total_y: 6255.169860839844
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 351.0229797363281
+    - 551.8312377929688
+    - 364.7080078125
     double_fontsize_int: 20
   - index: 512
     text: 'in procurement were occurring, leading to significant delays.  '
@@ -173,6 +228,11 @@
     span_number: 0
     total_y: 6266.689849853516
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 362.54296875
+    - 312.8988952636719
+    - 376.2279968261719
     double_fontsize_int: 20
   items:
   - There was a delay at the start of the operation due to the issue of indirect cost
@@ -191,6 +251,11 @@
     span_number: 0
     total_y: 7394.259826660156
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 648.2427368164062
+    - 94.89611053466797
+    - 661.9577026367188
     idx: 622
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 517
@@ -209,6 +274,11 @@
     span_number: 0
     total_y: 7406.259826660156
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 660.1929931640625
+    - 557.3489379882812
+    - 673.8779907226562
     double_fontsize_int: 20
   - index: 624
     text: 'capacity building activities for VNRC were removed such as PASSA trainings
@@ -223,6 +293,11 @@
     span_number: 0
     total_y: 7417.779846191406
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 671.7130126953125
+    - 557.4784545898438
+    - 685.3980102539062
     double_fontsize_int: 20
   - index: 625
     text: 'plan.  '
@@ -235,6 +310,11 @@
     span_number: 0
     total_y: 7429.299865722656
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 683.2330322265625
+    - 68.91287994384766
+    - 696.9180297851562
     double_fontsize_int: 20
   items:
   - There was no challenge experienced during the implementation except the appeal
@@ -251,6 +331,11 @@
     span_number: 0
     total_y: 9909.579772949219
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 637.802734375
+    - 94.89611053466797
+    - 651.5177001953125
     idx: 817
   sector_title: Food insecurity and nutrition
   sector_idx: 637
@@ -268,6 +353,11 @@
     span_number: 0
     total_y: 9921.459777832031
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 649.6329345703125
+    - 382.5188903808594
+    - 663.3179931640625
     double_fontsize_int: 20
   - index: 819
     text: '(i) '
@@ -280,6 +370,11 @@
     span_number: 0
     total_y: 9932.979797363281
     origin_x: 59.63999938964844
+    bbox: !!python/tuple
+    - 59.63999938964844
+    - 661.1529541015625
+    - 71.31288146972656
+    - 674.8380126953125
     double_fontsize_int: 20
   - index: 820
     text: "the operation start date occurred just before the biggest National Holidays\
@@ -294,6 +389,11 @@
     span_number: 0
     total_y: 9932.979797363281
     origin_x: 95.66400146484375
+    bbox: !!python/tuple
+    - 95.66400146484375
+    - 661.1529541015625
+    - 563.5646362304688
+    - 674.8380126953125
     double_fontsize_int: 20
   - index: 821
     text: 'lasts for two weeks;  '
@@ -306,6 +406,11 @@
     span_number: 0
     total_y: 9944.499816894531
     origin_x: 95.66400146484375
+    bbox: !!python/tuple
+    - 95.66400146484375
+    - 672.6729736328125
+    - 188.4288787841797
+    - 686.3580322265625
     double_fontsize_int: 20
   - index: 822
     text: '(ii) '
@@ -318,6 +423,11 @@
     span_number: 0
     total_y: 9956.019775390625
     origin_x: 59.63999938964844
+    bbox: !!python/tuple
+    - 59.63999938964844
+    - 684.1929931640625
+    - 73.59288024902344
+    - 697.8779907226562
     double_fontsize_int: 20
   - index: 823
     text: 'VNRC has been in a transitional period of change toward a new national
@@ -332,6 +442,11 @@
     span_number: 0
     total_y: 9956.019775390625
     origin_x: 95.66400146484375
+    bbox: !!python/tuple
+    - 95.66400146484375
+    - 684.1929931640625
+    - 563.3971557617188
+    - 697.8779907226562
     double_fontsize_int: 20
   - index: 824
     text: 'in particular, in which it stipulates that a project management team (PMT)
@@ -346,6 +461,11 @@
     span_number: 0
     total_y: 9967.419799804688
     origin_x: 95.66400146484375
+    bbox: !!python/tuple
+    - 95.66400146484375
+    - 695.593017578125
+    - 563.0868530273438
+    - 709.2780151367188
     double_fontsize_int: 20
   - index: 825
     text: 'project/programme;  '
@@ -358,6 +478,11 @@
     span_number: 0
     total_y: 9978.939819335938
     origin_x: 95.66400146484375
+    bbox: !!python/tuple
+    - 95.66400146484375
+    - 707.113037109375
+    - 187.94886779785156
+    - 720.7980346679688
     double_fontsize_int: 20
   - index: 826
     text: '(iii) '
@@ -370,6 +495,11 @@
     span_number: 0
     total_y: 9990.459777832031
     origin_x: 59.63999938964844
+    bbox: !!python/tuple
+    - 59.63999938964844
+    - 718.6329345703125
+    - 75.75288391113281
+    - 732.3179931640625
     double_fontsize_int: 20
   - index: 827
     text: ' the national society has been testing its new policy of indirect cost
@@ -384,6 +514,11 @@
     span_number: 0
     total_y: 9990.459777832031
     origin_x: 95.66400146484375
+    bbox: !!python/tuple
+    - 95.66400146484375
+    - 718.6329345703125
+    - 562.9585571289062
+    - 732.3179931640625
     double_fontsize_int: 20
   - index: 828
     text: 'operations and development programmes.  '
@@ -396,6 +531,11 @@
     span_number: 0
     total_y: 10001.999816894531
     origin_x: 95.66400146484375
+    bbox: !!python/tuple
+    - 95.66400146484375
+    - 730.1729736328125
+    - 289.1388854980469
+    - 743.8580322265625
     double_fontsize_int: 20
   - index: 829
     text: 'Both VNRC and IFRC have done their best to resolve the above-mentioned
@@ -410,6 +550,11 @@
     span_number: 0
     total_y: 10025.039794921875
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 753.2130126953125
+    - 563.3068237304688
+    - 766.8980102539062
     double_fontsize_int: 20
   - index: 830
     text: 'weekly face to face meetings as well as weekly updates during the operations.  '
@@ -422,6 +567,11 @@
     span_number: 0
     total_y: 10036.439819335938
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 764.613037109375
+    - 393.67889404296875
+    - 778.2980346679688
     double_fontsize_int: 20
   - index: 942
     text: 'At the exit meeting took place in Quy Nhon, Binh Dinh on 26 May, attended
@@ -436,6 +586,11 @@
     span_number: 0
     total_y: 10187.77978515625
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 74.03298950195312
+    - 557.7969970703125
+    - 87.71803283691406
     double_fontsize_int: 20
   - index: 943
     text: "IFRC and VNRC. VNRC HQs\u2019s Deputy Director of Disaster Management Department\
@@ -450,6 +605,11 @@
     span_number: 0
     total_y: 10199.2998046875
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 85.55300903320312
+    - 557.9072875976562
+    - 99.23805236816406
     double_fontsize_int: 20
   - index: 944
     text: 'Provincial RC Chapter admitted the implementation delays mentioned above
@@ -464,6 +624,11 @@
     span_number: 0
     total_y: 10210.699768066406
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 96.95297241210938
+    - 557.3192138671875
+    - 110.63801574707031
     double_fontsize_int: 20
   - index: 945
     text: 'measures to ensure quick access and reach to beneficiaries in the future
@@ -478,6 +643,11 @@
     span_number: 0
     total_y: 10222.219787597656
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 108.47299194335938
+    - 557.5075073242188
+    - 122.15803527832031
     double_fontsize_int: 20
   - index: 946
     text: 'challenges '
@@ -490,6 +660,11 @@
     span_number: 0
     total_y: 10233.739807128906
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 119.99301147460938
+    - 92.19288635253906
+    - 133.6780548095703
     double_fontsize_int: 20
   items:
   - "The operation experienced a delay at its onset due to the following reasons:\
@@ -500,14 +675,15 @@
     \ team (PMT) shall be established for every project/programme; (iii) the national\
     \ society has been testing its new policy of indirect cost application to both\
     \ emergency operations and development programmes."
-  - "Both VNRC and IFRC have done their best to resolve the above-mentioned constraints\
-    \ by having daily updates and weekly face to face meetings as well as weekly updates\
-    \ during the operations. At the exit meeting took place in Quy Nhon, Binh Dinh\
-    \ on 26 May, attended by New Zealand Embassy representatives, IFRC and VNRC. VNRC\
-    \ HQs\u2019s Deputy Director of Disaster Management Department and the Chairman\
-    \ of Binh Dinh Provincial RC Chapter admitted the implementation delays mentioned\
-    \ above and promised to take necessary measures to ensure quick access and reach\
-    \ to beneficiaries in the future by addressing internal organizational challenges"
+  - Both VNRC and IFRC have done their best to resolve the above-mentioned constraints
+    by having daily updates and weekly face to face meetings as well as weekly updates
+    during the operations.
+  - "At the exit meeting took place in Quy Nhon, Binh Dinh on 26 May, attended by\
+    \ New Zealand Embassy representatives, IFRC and VNRC. VNRC HQs\u2019s Deputy Director\
+    \ of Disaster Management Department and the Chairman of Binh Dinh Provincial RC\
+    \ Chapter admitted the implementation delays mentioned above and promised to take\
+    \ necessary measures to ensure quick access and reach to beneficiaries in the\
+    \ future by addressing internal organizational challenges"
 - title:
     text: Challenges
     text_base: challenges
@@ -519,6 +695,11 @@
     span_number: 0
     total_y: 11908.2197265625
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 110.37812805175781
+    - 102.04578399658203
+    - 124.42328643798828
     idx: 1106
   sector_title: Quality Programming
   sector_idx: 959
@@ -537,6 +718,11 @@
     span_number: 0
     total_y: 11921.179748535156
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 123.59298706054688
+    - 557.35888671875
+    - 137.2780303955078
     double_fontsize_int: 20
   - index: 1108
     text: 'local level. Hence, a translator was hired to accompany the RDRT to the
@@ -551,6 +737,11 @@
     span_number: 0
     total_y: 11932.699768066406
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 135.11300659179688
+    - 557.2395629882812
+    - 148.7980499267578
     double_fontsize_int: 20
   - index: 1109
     text: 'accessibility to information and coordination meetings.  '
@@ -563,6 +754,11 @@
     span_number: 0
     total_y: 11944.2197265625
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 146.63296508789062
+    - 286.85888671875
+    - 160.31800842285156
     double_fontsize_int: 20
   - index: 1110
     text: 'While the feedback/complaints mechanism was accessible to community members,
@@ -577,6 +773,11 @@
     span_number: 0
     total_y: 11967.139770507812
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 169.55300903320312
+    - 557.9373168945312
+    - 183.23805236816406
     double_fontsize_int: 20
   - index: 1111
     text: "during the operation. Instead, \u2018thank you\u2019 notes were received.\
@@ -591,6 +792,11 @@
     span_number: 0
     total_y: 11978.659729003906
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 181.07296752929688
+    - 557.9888305664062
+    - 194.7580108642578
     double_fontsize_int: 20
   - index: 1112
     text: 'of giving no complains to those who give help.   '
@@ -603,6 +809,11 @@
     span_number: 0
     total_y: 11990.179748535156
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 192.59298706054688
+    - 254.098876953125
+    - 206.2780303955078
     double_fontsize_int: 20
   - index: 1113
     text: 'The procurement of relief items for replenishment took place during the
@@ -617,6 +828,11 @@
     span_number: 0
     total_y: 12013.2197265625
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 215.63296508789062
+    - 557.37890625
+    - 229.31800842285156
     double_fontsize_int: 20
   - index: 1114
     text: 'lot of pressure on the DM team on the implementation and reporting as well
@@ -631,6 +847,11 @@
     span_number: 0
     total_y: 12024.619750976562
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 227.03298950195312
+    - 557.6554565429688
+    - 240.71803283691406
     double_fontsize_int: 20
   - index: 1115
     text: 'workshop. '
@@ -643,6 +864,11 @@
     span_number: 0
     total_y: 12036.169738769531
     origin_x: 41.63999938964844
+    bbox: !!python/tuple
+    - 41.63999938964844
+    - 238.58297729492188
+    - 90.03288269042969
+    - 252.2680206298828
     double_fontsize_int: 20
   items:
   - Language was a barrier to foreign personnel due to the limited English competency

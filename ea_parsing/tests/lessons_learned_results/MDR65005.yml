@@ -1,12 +1,14 @@
 - title:
     text: 'LESSONS LEARNED '
     text_base: lessons learned
-    style: 'Montserrat-Bold, 34, #001d40, None'
+    style: 'bold, 34, #001d40, nan'
+    size: 17.040000915527344
     page_number: 10
     block_number: 19
     line_number: 0
     span_number: 0
     total_y: 8851.369812011719
+    origin_x: 36.0
     idx: 498
   sector_title: null
   sector_idx: null
@@ -17,150 +19,212 @@
       e.g., for changing timelines of vessel '
     text_base: the nature of the operation requires continuous operational flexibility
       e g for changing timelines of vessel
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 20
     line_number: 0
     span_number: 0
     total_y: 8878.369812011719
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 500
     text: 'rotations, procurement processes with short lead time, the absence of a
       Host National Society, and the close '
     text_base: rotations procurement processes with short lead time the absence of
       a host national society and the close
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 20
     line_number: 1
     span_number: 0
     total_y: 8891.949798583984
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 501
     text: 'collaboration with an external partner.  '
     text_base: collaboration with an external partner
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 20
     line_number: 2
     span_number: 0
     total_y: 8905.629821777344
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 502
     text: 'The operation offers an excellent opportunity for operational and systemic
       learning. Learning follows a structure '
     text_base: the operation offers an excellent opportunity for operational and systemic
       learning learning follows a structure
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 21
     line_number: 0
     span_number: 0
     total_y: 8933.229797363281
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 503
     text: 'of description of problems / challenges, subsequent problem analysis and
       solution / mitigation measures. A '
     text_base: of description of problems challenges subsequent problem analysis and
       solution mitigation measures a
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 21
     line_number: 1
     span_number: 0
     total_y: 8946.789794921875
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 504
     text: 'Lessons Learnt Register captures learnings and process optimization. Structured
       debriefings and reporting, and '
     text_base: lessons learnt register captures learnings and process optimization
       structured debriefings and reporting and
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 21
     line_number: 2
     span_number: 0
     total_y: 8960.469848632812
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 505
     text: 'the continuous review of implementation processes and organizational challenges,
       both within the IFRC and '
     text_base: the continuous review of implementation processes and organizational
       challenges both within the ifrc and
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 21
     line_number: 3
     span_number: 0
     total_y: 8974.02978515625
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 506
     text: 'within the collaboration with SOS MEDITERRANEE are feeding into the learning
       process. A Lesson Learnt '
     text_base: within the collaboration with sos mediterranee are feeding into the
       learning process a lesson learnt
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 21
     line_number: 4
     span_number: 0
     total_y: 8987.709838867188
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 507
     text: 'Workshop involving all stakeholders was held on 29 March 2022 to capture
       the main learnings of this operation. '
     text_base: workshop involving all stakeholders was held on 29 march 2022 to capture
       the main learnings of this operation
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 21
     line_number: 5
     span_number: 0
     total_y: 9001.269775390625
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 508
     text: 'Learnings mainly revolved around a strategic approach to tackle humanitarian
       diplomacy and advocacy '
     text_base: learnings mainly revolved around a strategic approach to tackle humanitarian
       diplomacy and advocacy
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 21
     line_number: 6
     span_number: 0
     total_y: 9014.949829101562
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 509
     text: 'challenges related to the perceived political sensitivity of the operation,
       securing stable funding and a long-term '
     text_base: challenges related to the perceived political sensitivity of the operation
       securing stable funding and a long term
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 21
     line_number: 7
     span_number: 0
     total_y: 9028.509826660156
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 510
     text: 'involvement of the broader IFRC Membership to build on the experience and
       capacities of the network, '
     text_base: involvement of the broader ifrc membership to build on the experience
       and capacities of the network
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 21
     line_number: 8
     span_number: 0
     total_y: 9042.189819335938
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 511
     text: 'normalizing the operation for a long term modality, ensuring continuity
       and recurrence of personnel and '
     text_base: normalizing the operation for a long term modality ensuring continuity
       and recurrence of personnel and
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 21
     line_number: 9
     span_number: 0
     total_y: 9055.749816894531
+    origin_x: 36.0
+    double_fontsize_int: 20
   - index: 512
     text: 'continuing to adapt processes and system requirement to the specific operating
       context. '
     text_base: continuing to adapt processes and system requirement to the specific
       operating context
-    style: 'OpenSans-Regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 21
     line_number: 10
     span_number: 0
     total_y: 9069.429809570312
+    origin_x: 36.0
+    double_fontsize_int: 20
+  items:
+  - The nature of the operation requires continuous operational flexibility, e.g.,
+    for changing timelines of vessel rotations, procurement processes with short lead
+    time, the absence of a Host National Society, and the close collaboration with
+    an external partner.
+  - The operation offers an excellent opportunity for operational and systemic learning.
+    Learning follows a structure of description of problems / challenges, subsequent
+    problem analysis and solution / mitigation measures. A Lessons Learnt Register
+    captures learnings and process optimization. Structured debriefings and reporting,
+    and the continuous review of implementation processes and organizational challenges,
+    both within the IFRC and within the collaboration with SOS MEDITERRANEE are feeding
+    into the learning process. A Lesson Learnt Workshop involving all stakeholders
+    was held on 29 March 2022 to capture the main learnings of this operation. Learnings
+    mainly revolved around a strategic approach to tackle humanitarian diplomacy and
+    advocacy challenges related to the perceived political sensitivity of the operation,
+    securing stable funding and a long-term involvement of the broader IFRC Membership
+    to build on the experience and capacities of the network, normalizing the operation
+    for a long term modality, ensuring continuity and recurrence of personnel and
+    continuing to adapt processes and system requirement to the specific operating
+    context.

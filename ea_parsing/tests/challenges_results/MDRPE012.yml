@@ -2,11 +2,14 @@
     text: 'Challenges '
     text_base: challenges
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 11
     block_number: 3
     line_number: 10
     span_number: 0
     total_y: 9435.499816894531
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 163.67300415039062, 94.47288513183594, 177.35804748535156)
     idx: 788
   sector_title: Health and Care
   sector_idx: 469
@@ -15,72 +18,105 @@
   - index: 789
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 4
     line_number: 0
     span_number: 0
     total_y: 9452.419799804688
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 183.82998657226562, 62.68927764892578, 193.7899932861328)
+    double_fontsize_int: 20
   - index: 790
     text: 'During the emergency, the demand for psychosocial actions focused on violence
       prevention and addressing '
     text_base: during the emergency the demand for psychosocial actions focused on
       violence prevention and addressing
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 11
     block_number: 4
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 9452.419799804688
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 180.59298706054688, 557.51171875, 194.2780303955078)
+    double_fontsize_int: 20
   - index: 791
     text: 'cases of intimate partner violence and violence against children was larger
       than the identified needs. '
     text_base: cases of intimate partner violence and violence against children was
       larger than the identified needs
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 4
     line_number: 2
     span_number: 0
     total_y: 9464.899780273438
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 193.07296752929688, 524.6288452148438, 206.7580108642578)
+    double_fontsize_int: 20
   - index: 792
     text: '-'
     text_base: ''
-    style: 'calibri, 22, #000000, None'
+    style: 'calibri, 22, #000000, nan'
+    size: 11.039999961853027
     page_number: 11
     block_number: 5
     line_number: 0
     span_number: 0
     total_y: 9478.339782714844
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 208.93997192382812, 63.019920349121094, 219.97996520996094)
+    double_fontsize_int: 22
   - index: 793
     text: 'The psychosocial support programme in the PRC requires support to continue
       active at the community level '
     text_base: the psychosocial support programme in the prc requires support to continue
       active at the community level
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 5
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 9478.339782714844
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 206.51296997070312, 556.4532470703125, 220.19801330566406)
+    double_fontsize_int: 20
   - index: 794
     text: and in non-emergency contexts.
     text_base: and in non emergency contexts
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 5
     line_number: 2
     span_number: 0
     total_y: 9490.699768066406
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 218.87295532226562, 219.90921020507812, 232.55799865722656)
+    double_fontsize_int: 20
+  items:
+  - During the emergency, the demand for psychosocial actions focused on violence
+    prevention and addressing cases of intimate partner violence and violence against
+    children was larger than the identified needs.
+  - The psychosocial support programme in the PRC requires support to continue active
+    at the community level and in non-emergency contexts.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 14
     block_number: 26
     line_number: 1
     span_number: 0
     total_y: 12295.509735107422
+    origin_x: 37.91999816894531
+    bbox: (37.91999816894531, 497.9229736328125, 90.75288391113281, 511.6080017089844)
     idx: 996
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 801
@@ -89,119 +125,176 @@
   - index: 997
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 27
     line_number: 0
     span_number: 0
     total_y: 12311.4697265625
+    origin_x: 55.91999816894531
+    bbox: (55.91999816894531, 517.1199951171875, 58.969276428222656, 527.0799560546875)
+    double_fontsize_int: 20
   - index: 998
     text: 'During the first phase of the emergency, there were challenges to distribute
       water in all of the targeted '
     text_base: during the first phase of the emergency there were challenges to distribute
       water in all of the targeted
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 14
     block_number: 27
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 12311.4697265625
+    origin_x: 73.94400024414062
+    bbox: (73.94400024414062, 513.8829345703125, 527.2455444335938, 527.5679931640625)
+    double_fontsize_int: 20
   - index: 999
     text: 'communities due to the supply of bladders, coordination and needed logistics. '
     text_base: communities due to the supply of bladders coordination and needed logistics
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 27
     line_number: 2
     span_number: 0
     total_y: 12323.829711914062
+    origin_x: 73.94400024414062
+    bbox: (73.94400024414062, 526.242919921875, 420.91888427734375, 539.927978515625)
+    double_fontsize_int: 20
   - index: 1000
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 28
     line_number: 0
     span_number: 0
     total_y: 12336.429748535156
+    origin_x: 55.91999816894531
+    bbox: (55.91999816894531, 542.0800170898438, 58.969276428222656, 552.0399780273438)
+    double_fontsize_int: 20
   - index: 1001
     text: 'Following the implementation, no monitoring was conducted to measure the
       perceived changes in water '
     text_base: following the implementation no monitoring was conducted to measure
       the perceived changes in water
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 28
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 12336.429748535156
+    origin_x: 73.94400024414062
+    bbox: (73.94400024414062, 538.843017578125, 535.4505615234375, 552.5280151367188)
+    double_fontsize_int: 20
   - index: 1002
     text: 'management, sanitation and hygiene practices. '
     text_base: management sanitation and hygiene practices
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 28
     line_number: 2
     span_number: 0
-    total_y: 12348.789733886719
+    total_y: 12348.78973388672
+    origin_x: 73.94400024414062
+    bbox: (73.94400024414062, 551.2030029296875, 286.2588806152344, 564.8880004882812)
+    double_fontsize_int: 20
   - index: 1003
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 29
     line_number: 0
     span_number: 0
     total_y: 12361.389770507812
+    origin_x: 55.91999816894531
+    bbox: (55.91999816894531, 567.0400390625, 58.969276428222656, 577.0)
+    double_fontsize_int: 20
   - index: 1004
     text: 'The small-scale water projects took more time than expected and extended
       beyond the time frame of this '
     text_base: the small scale water projects took more time than expected and extended
       beyond the time frame of this
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 29
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 12361.389770507812
+    origin_x: 73.94400024414062
+    bbox: (73.94400024414062, 563.802978515625, 540.971923828125, 577.488037109375)
+    double_fontsize_int: 20
   - index: 1005
     text: 'operation. '
     text_base: operation
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 29
     line_number: 2
     span_number: 0
-    total_y: 12373.749755859375
+    total_y: 12373.749755859377
+    origin_x: 73.94400024414062
+    bbox: (73.94400024414062, 576.1629638671875, 121.2288818359375, 589.8480224609375)
+    double_fontsize_int: 20
   - index: 1006
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 30
     line_number: 0
     span_number: 0
     total_y: 12386.349731445312
+    origin_x: 55.91999816894531
+    bbox: (55.91999816894531, 592.0, 58.969276428222656, 601.9599609375)
+    double_fontsize_int: 20
   - index: 1007
     text: 'Further actions were required to ensure the sustainability and maintenance
       of acquired goods (latrines) '
     text_base: further actions were required to ensure the sustainability and maintenance
       of acquired goods latrines
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 30
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 12386.349731445312
+    origin_x: 73.94400024414062
+    bbox: (73.94400024414062, 588.762939453125, 532.06884765625, 602.447998046875)
+    double_fontsize_int: 20
+  items:
+  - During the first phase of the emergency, there were challenges to distribute water
+    in all of the targeted communities due to the supply of bladders, coordination
+    and needed logistics.
+  - Following the implementation, no monitoring was conducted to measure the perceived
+    changes in water management, sanitation and hygiene practices.
+  - The small-scale water projects took more time than expected and extended beyond
+    the time frame of this operation.
+  - Further actions were required to ensure the sustainability and maintenance of
+    acquired goods (latrines)
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 16
     block_number: 13
     line_number: 12
     span_number: 0
     total_y: 13922.929718017578
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 441.50299072265625, 94.47288513183594, 455.1880187988281)
     idx: 1151
   sector_title: Shelter, Housing and Settlements
   sector_idx: 1021
@@ -210,81 +303,119 @@
   - index: 1152
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 14
     line_number: 0
     span_number: 0
-    total_y: 13939.729705810547
+    total_y: 13939.729705810549
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 461.53997802734375, 62.68927764892578, 471.4999694824219)
+    double_fontsize_int: 20
   - index: 1153
     text: 'The lack of information, including a database of suppliers, regarding these
       areas prior to the disaster caused '
     text_base: the lack of information including a database of suppliers regarding
       these areas prior to the disaster caused
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 16
     block_number: 14
-    line_number: 1
-    span_number: 0
-    total_y: 13939.729705810547
+    line_number: 0
+    span_number: 1
+    total_y: 13939.729705810549
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 458.302978515625, 558.45361328125, 471.9880065917969)
+    double_fontsize_int: 20
   - index: 1154
     text: 'delays. '
     text_base: delays
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 14
     line_number: 2
     span_number: 0
     total_y: 13951.269714355469
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 469.8429870605469, 112.10887908935547, 483.52801513671875)
+    double_fontsize_int: 20
   - index: 1155
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 15
     line_number: 0
     span_number: 0
     total_y: 13962.909698486328
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 484.719970703125, 62.68927764892578, 494.6799621582031)
+    double_fontsize_int: 20
   - index: 1156
     text: 'The State changed its plans for rebuilding homes, which had an impact on
       how the Red Cross would rebuild. '
     text_base: the state changed its plans for rebuilding homes which had an impact
       on how the red cross would rebuild
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 15
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 13962.909698486328
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 481.48297119140625, 560.7488403320312, 495.1679992675781)
+    double_fontsize_int: 20
   - index: 1157
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 16
     line_number: 0
     span_number: 0
     total_y: 13974.549713134766
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 496.3599853515625, 62.68927764892578, 506.3199768066406)
+    double_fontsize_int: 20
   - index: 1158
     text: 'In some locations, the municipal authorities were not as active as required
       for the construction of homes. '
     text_base: in some locations the municipal authorities were not as active as required
       for the construction of homes
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 16
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 13974.549713134766
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 493.12298583984375, 542.2688598632812, 506.8080139160156)
+    double_fontsize_int: 20
+  items:
+  - The lack of information, including a database of suppliers, regarding these areas
+    prior to the disaster caused delays.
+  - The State changed its plans for rebuilding homes, which had an impact on how the
+    Red Cross would rebuild.
+  - In some locations, the municipal authorities were not as active as required for
+    the construction of homes.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 17
     block_number: 12
     line_number: 35
     span_number: 0
     total_y: 14939.589660644531
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 616.242919921875, 94.47288513183594, 629.927978515625)
     idx: 1229
   sector_title: Shelter, Housing and Settlements
   sector_idx: 1021
@@ -293,41 +424,59 @@
   - index: 1230
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 13
     line_number: 0
     span_number: 0
     total_y: 14956.389709472656
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 636.280029296875, 62.68927764892578, 646.239990234375)
+    double_fontsize_int: 20
   - index: 1231
     text: "The shelter cluster delegate\u2019s time in country was dependent on available\
       \ funds, although the need continued "
     text_base: the shelter cluster delegate s time in country was dependent on available
       funds although the need continued
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 17
     block_number: 13
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 14956.389709472656
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 633.04296875, 557.9243774414062, 646.72802734375)
+    double_fontsize_int: 20
   - index: 1232
     text: 'after her departure. '
     text_base: after her departure
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 13
     line_number: 2
     span_number: 0
     total_y: 14967.909729003906
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 644.56298828125, 165.98887634277344, 658.248046875)
+    double_fontsize_int: 20
+  items:
+  - "The shelter cluster delegate\u2019s time in country was dependent on available\
+    \ funds, although the need continued after her departure."
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 18
     block_number: 9
     line_number: 3
     span_number: 0
     total_y: 15426.979675292969
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 261.7129821777344, 94.47288513183594, 275.39801025390625)
     idx: 1261
   sector_title: Food insecurity and nutrition
   sector_idx: 1242
@@ -336,32 +485,46 @@
   - index: 1262
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 10
     line_number: 0
     span_number: 0
     total_y: 15443.9296875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 281.8999938964844, 62.68927764892578, 291.8599853515625)
+    double_fontsize_int: 20
   - index: 1263
     text: 'The food security needs of the affected population received less attention
       following the emergency phase. '
     text_base: the food security needs of the affected population received less attention
       following the emergency phase
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 18
     block_number: 10
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 15443.9296875
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 278.6629943847656, 540.2288818359375, 292.3480224609375)
+    double_fontsize_int: 20
+  items:
+  - The food security needs of the affected population received less attention following
+    the emergency phase.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 19
     block_number: 6
     line_number: 0
     span_number: 0
     total_y: 16331.929656982422
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 324.74298095703125, 94.47288513183594, 338.4280090332031)
     idx: 1320
   sector_title: Livelihoods
   sector_idx: 1268
@@ -370,70 +533,101 @@
   - index: 1321
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
     block_number: 7
     line_number: 0
     span_number: 0
     total_y: 16348.72964477539
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 344.77996826171875, 62.68927764892578, 354.7399597167969)
+    double_fontsize_int: 20
   - index: 1322
     text: 'The internal process to select and coordinate with the commercial bank
       was time-consuming. '
     text_base: the internal process to select and coordinate with the commercial bank
       was time consuming
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 19
     block_number: 7
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 16348.72964477539
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 341.54296875, 492.348876953125, 355.2279968261719)
+    double_fontsize_int: 20
   - index: 1323
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
     block_number: 8
     line_number: 0
     span_number: 0
     total_y: 16360.369659423828
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 356.41998291015625, 62.68927764892578, 366.3799743652344)
+    double_fontsize_int: 20
   - index: 1324
     text: 'The CTP was finally implemented during the reconstruction phase. '
     text_base: the ctp was finally implemented during the reconstruction phase
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
     block_number: 8
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 16360.369659423828
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 353.1829833984375, 375.0788879394531, 366.8680114746094)
+    double_fontsize_int: 20
   - index: 1325
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
     block_number: 9
     line_number: 0
     span_number: 0
     total_y: 16372.009643554688
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 368.0599670410156, 62.68927764892578, 378.01995849609375)
+    double_fontsize_int: 20
   - index: 1326
     text: 'The National Society required technical strengthening in the area of cash
       transfer. '
     text_base: the national society required technical strengthening in the area of
       cash transfer
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
     block_number: 9
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 16372.009643554688
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 364.8229675292969, 442.3988952636719, 378.50799560546875)
+    double_fontsize_int: 20
+  items:
+  - The internal process to select and coordinate with the commercial bank was time-consuming.
+  - The CTP was finally implemented during the reconstruction phase.
+  - The National Society required technical strengthening in the area of cash transfer.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 20
     block_number: 2
     line_number: 6
     span_number: 0
     total_y: 16966.81964111328
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 117.71298217773438, 94.47288513183594, 131.3980255126953)
     idx: 1371
   sector_title: Restoring family links
   sector_idx: 1336
@@ -442,41 +636,59 @@
   - index: 1372
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 20
     block_number: 3
     line_number: 0
     span_number: 0
     total_y: 16983.739624023438
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 137.86996459960938, 62.68927764892578, 147.82997131347656)
+    double_fontsize_int: 20
   - index: 1373
     text: 'The PRC coordinator for RFL noted that due to the demand for multiple humanitarian
       response actions, '
     text_base: the prc coordinator for rfl noted that due to the demand for multiple
       humanitarian response actions
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 20
     block_number: 3
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 16983.739624023438
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 134.63296508789062, 557.5533447265625, 148.31800842285156)
+    double_fontsize_int: 20
   - index: 1374
     text: 'volunteers often were unable to assist with these activities. '
     text_base: volunteers often were unable to assist with these activities
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 20
     block_number: 3
     line_number: 2
     span_number: 0
     total_y: 16995.1396484375
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 146.03298950195312, 340.03887939453125, 159.71803283691406)
+    double_fontsize_int: 20
+  items:
+  - The PRC coordinator for RFL noted that due to the demand for multiple humanitarian
+    response actions, volunteers often were unable to assist with these activities.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 20
     block_number: 21
     line_number: 0
     span_number: 0
     total_y: 17588.975646972656
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 739.8690185546875, 94.47288513183594, 753.5540161132812)
     idx: 1420
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 1379
@@ -485,41 +697,59 @@
   - index: 1475
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 21
     block_number: 15
     line_number: 0
     span_number: 0
     total_y: 17738.879638671875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 51.089996337890625, 62.68927764892578, 61.04999923706055)
+    double_fontsize_int: 20
   - index: 1476
     text: 'DRR is often considered a recovery phase action, which makes its implementation
       in the emergency response '
     text_base: drr is often considered a recovery phase action which makes its implementation
       in the emergency response
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 21
     block_number: 15
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 17738.879638671875
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 47.852996826171875, 557.9066162109375, 61.53803634643555)
+    double_fontsize_int: 20
   - index: 1477
     text: 'phase a challenge. '
     text_base: phase a challenge
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 21
     block_number: 15
     line_number: 2
     span_number: 0
     total_y: 17750.39959716797
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 59.372955322265625, 164.4288787841797, 73.05799865722656)
+    double_fontsize_int: 20
+  items:
+  - DRR is often considered a recovery phase action, which makes its implementation
+    in the emergency response phase a challenge.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 22
     block_number: 4
     line_number: 17
     span_number: 0
     total_y: 19041.66961669922
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 508.7229919433594, 94.47288513183594, 522.4080200195312)
     idx: 1521
   sector_title: National Society Strengthening
   sector_idx: 1425
@@ -528,90 +758,132 @@
   - index: 1522
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 5
     line_number: 0
     span_number: 0
-    total_y: 19058.589599609375
+    total_y: 19058.58959960937
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 528.8800048828125, 62.68927764892578, 538.8399658203125)
+    double_fontsize_int: 20
   - index: 1523
     text: "At the start of the operation, the PRC\u2019s areas of logistics, administration\
       \ and finance needed to be reinforced. "
     text_base: at the start of the operation the prc s areas of logistics administration
       and finance needed to be reinforced
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 22
     block_number: 5
-    line_number: 1
-    span_number: 0
-    total_y: 19058.589599609375
+    line_number: 0
+    span_number: 1
+    total_y: 19058.58959960937
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 525.6429443359375, 562.5488891601562, 539.3280029296875)
+    double_fontsize_int: 20
   - index: 1524
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 6
     line_number: 0
     span_number: 0
-    total_y: 19070.229614257812
+    total_y: 19070.22961425781
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 540.52001953125, 62.68927764892578, 550.47998046875)
+    double_fontsize_int: 20
   - index: 1525
     text: 'At the departmental level, during the emergency, the PRC did not have the
       capacities to fully develop '
     text_base: at the departmental level during the emergency the prc did not have
       the capacities to fully develop
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 6
-    line_number: 1
-    span_number: 0
-    total_y: 19070.229614257812
+    line_number: 0
+    span_number: 1
+    total_y: 19070.22961425781
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 537.282958984375, 527.0892944335938, 550.968017578125)
+    double_fontsize_int: 20
   - index: 1526
     text: 'coordination with other organizations and state institutions. '
     text_base: coordination with other organizations and state institutions
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 6
     line_number: 2
     span_number: 0
     total_y: 19081.749633789062
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 548.802978515625, 340.03887939453125, 562.488037109375)
+    double_fontsize_int: 20
   - index: 1527
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 7
     line_number: 0
     span_number: 0
     total_y: 19093.3896484375
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 563.6800537109375, 62.68927764892578, 573.6400146484375)
+    double_fontsize_int: 20
   - index: 1528
     text: 'There was a lack of clarity of the reporting lines and presentation of
       reports when the deployed regional '
     text_base: there was a lack of clarity of the reporting lines and presentation
       of reports when the deployed regional
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 7
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 19093.3896484375
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 560.4429931640625, 536.6256713867188, 574.1280517578125)
+    double_fontsize_int: 20
   - index: 1529
     text: 'intervention team members departed from Peru. '
     text_base: intervention team members departed from peru
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 7
     line_number: 2
     span_number: 0
     total_y: 19104.789611816406
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 571.843017578125, 293.3388977050781, 585.5280151367188)
+    double_fontsize_int: 20
+  items:
+  - "At the start of the operation, the PRC\u2019s areas of logistics, administration\
+    \ and finance needed to be reinforced."
+  - At the departmental level, during the emergency, the PRC did not have the capacities
+    to fully develop coordination with other organizations and state institutions.
+  - There was a lack of clarity of the reporting lines and presentation of reports
+    when the deployed regional intervention team members departed from Peru.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 25
     block_number: 4
     line_number: 26
     span_number: 0
-    total_y: 21739.899536132812
+    total_y: 21739.89953613281
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 681.1929931640625, 94.47288513183594, 694.8779907226562)
     idx: 1741
   sector_title: Quality Programming
   sector_idx: 1544
@@ -620,29 +892,45 @@
   - index: 1742
     text: '-'
     text_base: ''
-    style: 'calibri, 20, #000000, None'
+    style: 'calibri, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 25
     block_number: 5
     line_number: 0
     span_number: 0
     total_y: 21756.81951904297
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 701.3499755859375, 62.68927764892578, 711.3099365234375)
+    double_fontsize_int: 20
   - index: 1743
     text: 'There were delays in the CTP due to the tender procedures to select a commercial
       bank. The cash transfer '
     text_base: there were delays in the ctp due to the tender procedures to select
       a commercial bank the cash transfer
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 25
     block_number: 5
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 21756.81951904297
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 698.1129150390625, 557.367431640625, 711.7979736328125)
+    double_fontsize_int: 20
   - index: 1744
     text: "delegate\u2019s contract had ended prior to the actual transfers. "
     text_base: delegate s contract had ended prior to the actual transfers
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 25
     block_number: 5
     line_number: 2
     span_number: 0
     total_y: 21768.33953857422
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 709.6329345703125, 339.0788879394531, 723.3179931640625)
+    double_fontsize_int: 20
+  items:
+  - "There were delays in the CTP due to the tender procedures to select a commercial\
+    \ bank. The cash transfer delegate\u2019s contract had ended prior to the actual\
+    \ transfers."

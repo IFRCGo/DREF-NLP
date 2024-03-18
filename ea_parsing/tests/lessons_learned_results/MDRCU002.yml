@@ -1,450 +1,621 @@
-- content:
-  - block_number: 7
-    index: 196
-    line_number: 2
+- title:
+    text: 'Lessons learnt: '
+    text_base: lessons learnt
+    style: 'arial,bold, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 7
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 2999.2299194335938
+    origin_x: 55.439998626708984
+    idx: 195
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 196
     text: 'The Sandy operation was one of the largest operations undertaken by the
       Cuban Red Cross.  The fact that came '
     text_base: the sandy operation was one of the largest operations undertaken by
       the cuban red cross the fact that came
-    total_y: 3022.389923095703
-  - block_number: 7
-    index: 197
-    line_number: 3
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 7
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3022.389923095703
+    origin_x: 55.439998626708984
+    double_fontsize_int: 20
+  - index: 197
     text: "aid from various donors and was mobilized at the same time, resulted in\
       \ a strenuous effort by the National Society \u2013 "
     text_base: aid from various donors and was mobilized at the same time resulted
       in a strenuous effort by the national society
-    total_y: 3033.909942626953
-  - block_number: 7
-    index: 198
-    line_number: 4
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 7
+    line_number: 3
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3033.909942626953
+    origin_x: 55.439998626708984
+    double_fontsize_int: 20
+  - index: 198
     text: 'mobilizing human and material resources, and implementing an entire system,
       organizational, operational and '
     text_base: mobilizing human and material resources and implementing an entire
       system organizational operational and
-    total_y: 3045.429931640625
-  - block_number: 7
-    index: 199
-    line_number: 5
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 7
+    line_number: 4
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3045.429931640625
+    origin_x: 55.439998626708984
+    double_fontsize_int: 20
+  - index: 199
     text: 'logistical. Some of the key lessons learned through the operation were: '
     text_base: logistical some of the key lessons learned through the operation were
-    total_y: 3056.8298950195312
-  - block_number: 8
-    index: 200
-    line_number: 0
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 7
+    line_number: 5
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 3056.8298950195312
+    origin_x: 55.439998626708984
+    double_fontsize_int: 20
+  - index: 200
     text: "\uF0B7"
     text_base: ''
-    total_y: 3080.5899047851562
-  - block_number: 8
-    index: 201
-    line_number: 1
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 8
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3080.5899047851562
+    origin_x: 90.02400207519531
+    double_fontsize_int: 20
+  - index: 201
     text: 'Selecting the beneficiaries and defining the aid that would be given to
       each family was based on a '
     text_base: selecting the beneficiaries and defining the aid that would be given
       to each family was based on a
-    total_y: 3080.5899047851562
-  - block_number: 8
-    index: 202
-    line_number: 2
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 3080.5899047851562
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 202
     text: 'needs analysis. This was very complex due to the logistics, an assessment
       was carried for the different '
     text_base: needs analysis this was very complex due to the logistics an assessment
       was carried for the different
-    total_y: 3092.1099243164062
-  - block_number: 8
-    index: 203
-    line_number: 3
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 8
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3092.1099243164062
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 203
     text: 'family situations. '
     text_base: family situations
-    total_y: 3103.5099487304688
-  - block_number: 9
-    index: 204
-    line_number: 0
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 8
+    line_number: 3
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 3103.5099487304688
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 204
     text: "\uF0B7"
     text_base: ''
-    total_y: 3121.7499389648438
-  - block_number: 9
-    index: 205
-    line_number: 1
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 9
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3121.7499389648438
+    origin_x: 90.02400207519531
+    double_fontsize_int: 20
+  - index: 205
     text: 'For the rooftop kits, a total of 20 sheets per house were initially considered;
       however, this amount '
     text_base: for the rooftop kits a total of 20 sheets per house were initially
       considered however this amount
-    total_y: 3121.7499389648438
-  - block_number: 9
-    index: 206
-    line_number: 2
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 9
+    line_number: 0
+    span_number: 1
+    total_y: 3121.7499389648438
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 206
     text: 'proved to be not enough, since many of the affected homes were too large,
       and many required at least '
     text_base: proved to be not enough since many of the affected homes were too large
       and many required at least
-    total_y: 3133.2699584960938
-  - block_number: 9
-    index: 207
-    line_number: 3
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 9
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3133.2699584960938
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 207
     text: '60 sheets on average, in this case adjustments had to be made in the original
       planning. '
     text_base: 60 sheets on average in this case adjustments had to be made in the
       original planning
-    total_y: 3144.669921875
-  - block_number: 10
-    index: 208
-    line_number: 0
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 9
+    line_number: 3
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 3144.669921875
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 208
     text: "\uF0B7"
     text_base: ''
-    total_y: 3162.909912109375
-  - block_number: 10
-    index: 209
-    line_number: 1
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 10
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3162.909912109375
+    origin_x: 90.02400207519531
+    double_fontsize_int: 20
+  - index: 209
     text: 'Also, for future operations, it will be necessary to consider zinc sheets
       in the planning, in order to make '
     text_base: also for future operations it will be necessary to consider zinc sheets
       in the planning in order to make
-    total_y: 3162.909912109375
-  - block_number: 10
-    index: 210
-    line_number: 2
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 10
+    line_number: 0
+    span_number: 1
+    total_y: 3162.909912109375
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 210
     text: "the trestles (these are used to close the angle between the roof\u2019\
       s gables). "
     text_base: the trestles these are used to close the angle between the roof s gables
-    total_y: 3174.429931640625
-  - block_number: 11
-    index: 211
-    line_number: 0
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 10
+    line_number: 2
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 3174.429931640625
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 211
     text: "\uF0B7"
     text_base: ''
-    total_y: 3192.699951171875
-  - block_number: 11
-    index: 212
-    line_number: 1
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 11
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3192.699951171875
+    origin_x: 90.02400207519531
+    double_fontsize_int: 20
+  - index: 212
     text: 'The National Society designed and implemented a system to receive, register
       and distribute the goods '
     text_base: the national society designed and implemented a system to receive register
       and distribute the goods
-    total_y: 3192.699951171875
-  - block_number: 11
-    index: 213
-    line_number: 2
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 11
+    line_number: 0
+    span_number: 1
+    total_y: 3192.699951171875
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 213
     text: 'to the beneficiaries, which was developed and improved during the process,
       as experience was gained '
     text_base: to the beneficiaries which was developed and improved during the process
       as experience was gained
-    total_y: 3204.0999145507812
-  - block_number: 11
-    index: 214
-    line_number: 3
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 11
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3204.0999145507812
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 214
     text: 'and more agile distribution schemes were found, eventually managing to
       establish stations for '
     text_base: and more agile distribution schemes were found eventually managing
       to establish stations for
-    total_y: 3215.6199340820312
-  - block_number: 11
-    index: 215
-    line_number: 4
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 11
+    line_number: 3
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3215.6199340820312
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 215
     text: 'beneficiary registration, item counting and verification, handing over
       of items, and a logistics area. '
     text_base: beneficiary registration item counting and verification handing over
       of items and a logistics area
-    total_y: 3227.1399536132812
-  - block_number: 12
-    index: 216
-    line_number: 0
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 11
+    line_number: 4
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 3227.1399536132812
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 216
     text: "\uF0B7"
     text_base: ''
-    total_y: 3245.2599487304688
-  - block_number: 12
-    index: 217
-    line_number: 1
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 12
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3245.2599487304688
+    origin_x: 90.02400207519531
+    double_fontsize_int: 20
+  - index: 217
     text: 'The government mobilized resources for the delivery of aid, such as: storage,
       shelter, transportation, '
     text_base: the government mobilized resources for the delivery of aid such as
       storage shelter transportation
-    total_y: 3245.2599487304688
-  - block_number: 12
-    index: 218
-    line_number: 2
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 12
+    line_number: 0
+    span_number: 1
+    total_y: 3245.2599487304688
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 218
     text: 'fuel and personnel to load and unload items; however, the issue with resources
       such as transport '
     text_base: fuel and personnel to load and unload items however the issue with
       resources such as transport
-    total_y: 3256.7799072265625
-  - block_number: 12
-    index: 219
-    line_number: 3
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 12
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3256.7799072265625
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 219
     text: 'remains a difficult, since emergencies like Sandy exceed capabilities to
       make record time in making '
     text_base: remains a difficult since emergencies like sandy exceed capabilities
       to make record time in making
-    total_y: 3268.2959594726562
-  - block_number: 12
-    index: 220
-    line_number: 4
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 3
+    block_number: 12
+    line_number: 3
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3268.2959594726562
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 220
     text: 'transport available. '
     text_base: transport available
-    total_y: 3279.81591796875
-  - block_number: 1
-    index: 222
-    line_number: 0
-    page_number: 4
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 12
+    line_number: 4
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 3279.81591796875
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 222
     text: "\uF0B7"
     text_base: ''
-    total_y: 3449.639892578125
-  - block_number: 1
-    index: 223
-    line_number: 1
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
+    block_number: 1
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3449.639892578125
+    origin_x: 90.02400207519531
+    double_fontsize_int: 20
+  - index: 223
     text: 'Communication tools are another difficult issue, it is necessary to have
       stock cell phones, as well as '
     text_base: communication tools are another difficult issue it is necessary to
       have stock cell phones as well as
-    total_y: 3449.639892578125
-  - block_number: 1
-    index: 224
-    line_number: 2
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 1
+    line_number: 0
+    span_number: 1
+    total_y: 3449.639892578125
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 224
     text: 'and a pre-paid phone plan budgeted to maintain communication between members
       who lead the '
     text_base: and a pre paid phone plan budgeted to maintain communication between
       members who lead the
-    total_y: 3461.0399169921875
-  - block_number: 1
-    index: 225
-    line_number: 3
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
+    block_number: 1
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3461.0399169921875
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 225
     text: 'operation, especially if they are in the field. '
     text_base: operation especially if they are in the field
-    total_y: 3472.5798950195312
-  - block_number: 2
-    index: 226
-    line_number: 0
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
+    block_number: 1
+    line_number: 3
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 3472.5798950195312
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 226
     text: "\uF0B7"
     text_base: ''
-    total_y: 3490.8198852539062
-  - block_number: 2
-    index: 227
-    line_number: 1
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
+    block_number: 2
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3490.8198852539062
+    origin_x: 90.02400207519531
+    double_fontsize_int: 20
+  - index: 227
     text: 'It is necessary to also include appropriate protective equipment for volunteers,
       since handling zinc '
     text_base: it is necessary to also include appropriate protective equipment for
       volunteers since handling zinc
-    total_y: 3490.8198852539062
-  - block_number: 2
-    index: 228
-    line_number: 2
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 2
+    line_number: 0
+    span_number: 1
+    total_y: 3490.8198852539062
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 228
     text: 'sheets has its risks. The use of suitable gloves (resistant and of quality)
       should be prioritized for '
     text_base: sheets has its risks the use of suitable gloves resistant and of quality
       should be prioritized for
-    total_y: 3502.3399047851562
-  - block_number: 2
-    index: 229
-    line_number: 3
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
+    block_number: 2
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3502.3399047851562
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 229
     text: 'handling these sheets. '
     text_base: handling these sheets
-    total_y: 3513.7399291992188
-  - block_number: 3
-    index: 230
-    line_number: 0
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
+    block_number: 2
+    line_number: 3
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 3513.7399291992188
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 230
     text: "\uF0B7"
     text_base: ''
-    total_y: 3531.9799194335938
-  - block_number: 3
-    index: 231
-    line_number: 1
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
+    block_number: 3
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3531.9799194335938
+    origin_x: 90.02400207519531
+    double_fontsize_int: 20
+  - index: 231
     text: 'Currency and exchange rates vary in this particular context. '
     text_base: currency and exchange rates vary in this particular context
-    total_y: 3531.9799194335938
-  - block_number: 4
-    index: 232
-    line_number: 0
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
-    span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 3531.9799194335938
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 232
     text: "\uF0B7"
     text_base: ''
-    total_y: 3550.2199096679688
-  - block_number: 4
-    index: 233
-    line_number: 1
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
+    block_number: 4
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3550.2199096679688
+    origin_x: 90.02400207519531
+    double_fontsize_int: 20
+  - index: 233
     text: 'Special care should be taken to ensure that the loads leave their place
       of origin with suitable packaging, '
     text_base: special care should be taken to ensure that the loads leave their place
       of origin with suitable packaging
-    total_y: 3550.2199096679688
-  - block_number: 4
-    index: 234
-    line_number: 2
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 3550.2199096679688
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 234
     text: 'in order to prevent damage when handling them (storage, loading and unloading). '
     text_base: in order to prevent damage when handling them storage loading and unloading
-    total_y: 3561.6199340820312
-  - block_number: 5
-    index: 235
-    line_number: 0
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
+    block_number: 4
+    line_number: 2
     span_number: 0
-    style: 'Symbol, 20, #000000, None'
+    total_y: 3561.6199340820312
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 235
     text: "\uF0B7"
     text_base: ''
-    total_y: 3579.8599243164062
-  - block_number: 5
-    index: 236
-    line_number: 1
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
+    block_number: 5
+    line_number: 0
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3579.8599243164062
+    origin_x: 90.02400207519531
+    double_fontsize_int: 20
+  - index: 236
     text: 'An assessment of which products to buy and not to buy should be made. For
       example, based on this '
     text_base: an assessment of which products to buy and not to buy should be made
       for example based on this
-    total_y: 3579.8599243164062
-  - block_number: 5
-    index: 237
-    line_number: 2
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
-    span_number: 0
-    style: 'Arial, 20, #000000, None'
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 3579.8599243164062
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 237
     text: 'experience, collapsible ten liter containers were identified as having
       a short life-span, so it would be '
     text_base: experience collapsible ten liter containers were identified as having
       a short life span so it would be
-    total_y: 3591.2598876953125
-  - block_number: 5
-    index: 238
-    line_number: 3
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
+    block_number: 5
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3591.2598876953125
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 238
     text: 'more feasible to invest in other products, such as plastic thermos or buckets,
       which are made of a '
     text_base: more feasible to invest in other products such as plastic thermos or
       buckets which are made of a
-    total_y: 3602.7799072265625
-  - block_number: 5
-    index: 239
-    line_number: 4
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
     page_number: 4
+    block_number: 5
+    line_number: 3
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 3602.7799072265625
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  - index: 239
     text: 'stronger materials. '
     text_base: stronger materials
-    total_y: 3614.2999267578125
-  sector_idx: null
-  sector_similarity_score: null
-  sector_title: null
-  title:
-    block_number: 7
-    idx: 195
-    line_number: 0
-    page_number: 3
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 5
+    line_number: 4
     span_number: 0
-    style: 'Arial,Bold, 20, #000000, None'
-    text: 'Lessons learnt: '
-    text_base: lessons learnt
-    total_y: 2999.2299194335938
+    total_y: 3614.2999267578125
+    origin_x: 107.9000015258789
+    double_fontsize_int: 20
+  items:
+  - "The Sandy operation was one of the largest operations undertaken by the Cuban\
+    \ Red Cross.  The fact that came aid from various donors and was mobilized at\
+    \ the same time, resulted in a strenuous effort by the National Society \u2013\
+    \ mobilizing human and material resources, and implementing an entire system,\
+    \ organizational, operational and logistical. Some of the key lessons learned\
+    \ through the operation were:"
+  - Selecting the beneficiaries and defining the aid that would be given to each family
+    was based on a needs analysis. This was very complex due to the logistics, an
+    assessment was carried for the different family situations.
+  - For the rooftop kits, a total of 20 sheets per house were initially considered;
+    however, this amount proved to be not enough, since many of the affected homes
+    were too large, and many required at least 60 sheets on average, in this case
+    adjustments had to be made in the original planning.
+  - "Also, for future operations, it will be necessary to consider zinc sheets in\
+    \ the planning, in order to make the trestles (these are used to close the angle\
+    \ between the roof\u2019s gables)."
+  - The National Society designed and implemented a system to receive, register and
+    distribute the goods to the beneficiaries, which was developed and improved during
+    the process, as experience was gained and more agile distribution schemes were
+    found, eventually managing to establish stations for beneficiary registration,
+    item counting and verification, handing over of items, and a logistics area.
+  - 'The government mobilized resources for the delivery of aid, such as: storage,
+    shelter, transportation, fuel and personnel to load and unload items; however,
+    the issue with resources such as transport remains a difficult, since emergencies
+    like Sandy exceed capabilities to make record time in making transport available.'
+  - Communication tools are another difficult issue, it is necessary to have stock
+    cell phones, as well as and a pre-paid phone plan budgeted to maintain communication
+    between members who lead the operation, especially if they are in the field.
+  - It is necessary to also include appropriate protective equipment for volunteers,
+    since handling zinc sheets has its risks. The use of suitable gloves (resistant
+    and of quality) should be prioritized for handling these sheets.
+  - Currency and exchange rates vary in this particular context.
+  - Special care should be taken to ensure that the loads leave their place of origin
+    with suitable packaging, in order to prevent damage when handling them (storage,
+    loading and unloading).
+  - An assessment of which products to buy and not to buy should be made. For example,
+    based on this experience, collapsible ten liter containers were identified as
+    having a short life-span, so it would be more feasible to invest in other products,
+    such as plastic thermos or buckets, which are made of a stronger materials.

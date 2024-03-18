@@ -1,67 +1,97 @@
-- content:
-  - block_number: 4
-    index: 47
-    line_number: 39
+- title:
+    text: 'Lessons learned: '
+    text_base: lessons learned
+    style: 'arial,bold, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 0
-    span_number: 1
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 4
+    line_number: 39
+    span_number: 0
+    total_y: 699.3751220703125
+    origin_x: 59.38758850097656
+    bbox: (59.38758850097656, 690.3042602539062, 145.3264617919922, 701.4984741210938)
+    idx: 46
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 47
     text: 'Having disaster preparedness stocks and trained volunteers is a starting
       point to timely '
     text_base: having disaster preparedness stocks and trained volunteers is a starting
       point to timely
-    total_y: 699.3751220703125
-  - block_number: 4
-    index: 48
-    line_number: 40
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 0
-    span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    block_number: 4
+    line_number: 39
+    span_number: 1
+    total_y: 699.3751220703125
+    origin_x: 146.0906524658203
+    bbox: (146.0906524658203, 688.6036376953125, 542.9669799804688, 702.37109375)
+    double_fontsize_int: 20
+  - index: 48
     text: 'response. The National Society volunteers were on ground just 30 minutes
       after bomb blasts, and '
     text_base: response the national society volunteers were on ground just 30 minutes
       after bomb blasts and
-    total_y: 710.8380126953125
-  - block_number: 4
-    index: 49
-    line_number: 41
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 0
+    block_number: 4
+    line_number: 40
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 710.8380126953125
+    origin_x: 59.3875732421875
+    bbox: (59.3875732421875, 700.0665283203125, 542.9352416992188, 713.833984375)
+    double_fontsize_int: 20
+  - index: 49
     text: 'immediately initiated response activities. It is therefore paramount for
       the National Society to maintain a '
     text_base: immediately initiated response activities it is therefore paramount
       for the national society to maintain a
-    total_y: 722.3610229492188
-  - block_number: 4
-    index: 50
-    line_number: 42
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 0
+    block_number: 4
+    line_number: 41
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 722.3610229492188
+    origin_x: 59.3875732421875
+    bbox: (59.3875732421875, 711.5895385742188, 542.9717407226562, 725.3569946289062)
+    double_fontsize_int: 20
+  - index: 50
     text: 'minimum and reasonable number of basic non-food items (NFIs) in its disaster
       preparedness stocks and '
     text_base: minimum and reasonable number of basic non food items nfis in its disaster
       preparedness stocks and
-    total_y: 733.884033203125
-  - block_number: 4
-    index: 51
-    line_number: 43
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 0
+    block_number: 4
+    line_number: 42
     span_number: 0
-    style: 'ArialMT, 20, #000000, #919191'
+    total_y: 733.884033203125
+    origin_x: 59.3875732421875
+    bbox: (59.3875732421875, 723.112548828125, 542.9277954101562, 736.8800048828125)
+    double_fontsize_int: 20
+  - index: 51
     text: 'trained disaster response teams.  '
     text_base: trained disaster response teams
-    total_y: 745.346923828125
-  sector_idx: null
-  sector_similarity_score: null
-  sector_title: null
-  title:
-    block_number: 4
-    idx: 46
-    line_number: 39
+    style: 'arialmt, 20, #000000, #919191'
+    size: 10.020000457763672
     page_number: 0
+    block_number: 4
+    line_number: 43
     span_number: 0
-    style: 'Arial,Bold, 20, #000000, None'
-    text: 'Lessons learned: '
-    text_base: lessons learned
-    total_y: 699.3751220703125
+    total_y: 745.346923828125
+    origin_x: 59.37759399414063
+    bbox: (59.377593994140625, 734.575439453125, 209.99319458007812, 748.3428955078125)
+    double_fontsize_int: 20
+  items:
+  - Having disaster preparedness stocks and trained volunteers is a starting point
+    to timely response. The National Society volunteers were on ground just 30 minutes
+    after bomb blasts, and immediately initiated response activities. It is therefore
+    paramount for the National Society to maintain a minimum and reasonable number
+    of basic non-food items (NFIs) in its disaster preparedness stocks and trained
+    disaster response teams.

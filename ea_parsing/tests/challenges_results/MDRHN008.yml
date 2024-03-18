@@ -2,11 +2,18 @@
     text: 'Challenges '
     text_base: challenges
     style: 'arial,bold, 22, #000000, #edebe0'
+    size: 11.039999961853027
     page_number: 6
     block_number: 2
     line_number: 0
     span_number: 0
     total_y: 5136.9798583984375
+    origin_x: 41.400001525878906
+    bbox: !!python/tuple
+    - 41.400001525878906
+    - 73.64716339111328
+    - 103.16912078857422
+    - 88.8492431640625
     idx: 419
   sector_title: Quality Programming
   sector_idx: 330
@@ -18,40 +25,76 @@
     text_base: the honduran red cross communications and image department s workload
       and limited access to equipment
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 6
     block_number: 2
     line_number: 2
     span_number: 0
     total_y: 5160.7398681640625
+    origin_x: 41.400001525878906
+    bbox: !!python/tuple
+    - 41.400001525878906
+    - 98.51296997070312
+    - 535.5555419921875
+    - 112.19801330566406
+    double_fontsize_int: 20
   - index: 421
     text: 'prevented fulfilling all actions included in the plan of action; therefore,
       the National Society must strengthen the '
     text_base: prevented fulfilling all actions included in the plan of action therefore
       the national society must strengthen the
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 6
     block_number: 2
     line_number: 3
     span_number: 0
     total_y: 5172.2598876953125
+    origin_x: 41.400001525878906
+    bbox: !!python/tuple
+    - 41.400001525878906
+    - 110.03298950195312
+    - 532.5536499023438
+    - 123.71803283691406
+    double_fontsize_int: 20
   - index: 422
     text: 'Communications and Image Department with equipment. '
     text_base: communications and image department with equipment
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 6
     block_number: 2
     line_number: 4
     span_number: 0
     total_y: 5183.7799072265625
+    origin_x: 41.400001525878906
+    bbox: !!python/tuple
+    - 41.400001525878906
+    - 121.55300903320312
+    - 296.5788879394531
+    - 135.23805236816406
+    double_fontsize_int: 20
+  items:
+  - The Honduran Red Cross Communications and Image Department's workload and limited
+    access to equipment prevented fulfilling all actions included in the plan of action;
+    therefore, the National Society must strengthen the Communications and Image Department
+    with equipment.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arial,bold, 22, #000000, #edebe0'
+    size: 11.039999961853027
     page_number: 8
     block_number: 10
     line_number: 2
     span_number: 0
     total_y: 7087.009857177734
+    origin_x: 36.0
+    bbox: !!python/tuple
+    - 36.0
+    - 339.8371887207031
+    - 97.77312469482422
+    - 355.0392761230469
     idx: 550
   sector_title: Quality Programming
   sector_idx: 330
@@ -63,106 +106,198 @@
     text_base: 1 for future interventions having the option of requesting a dref with
       sufficient available funds to develop a
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 8
     block_number: 12
     line_number: 0
     span_number: 0
     total_y: 7111.369842529297
+    origin_x: 40.560001373291016
+    bbox: !!python/tuple
+    - 40.560001373291016
+    - 365.302978515625
+    - 552.0185546875
+    - 378.9880065917969
+    double_fontsize_int: 20
   - index: 552
     text: 'more efficient and effective emergency aid stage to prevent a lack of predisposed
       funds, together with an '
     text_base: more efficient and effective emergency aid stage to prevent a lack
       of predisposed funds together with an
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 8
     block_number: 13
     line_number: 0
     span_number: 0
     total_y: 7122.889831542969
+    origin_x: 58.560001373291016
+    bbox: !!python/tuple
+    - 58.560001373291016
+    - 376.8229675292969
+    - 552.068115234375
+    - 390.50799560546875
+    double_fontsize_int: 20
   - index: 553
     text: 'appeal aimed at resiliency and livelihoods recovery actions. This option
       allows timely and proper planning and '
     text_base: appeal aimed at resiliency and livelihoods recovery actions this option
       allows timely and proper planning and
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 8
     block_number: 13
     line_number: 1
     span_number: 0
     total_y: 7134.429840087891
+    origin_x: 58.560001373291016
+    bbox: !!python/tuple
+    - 58.560001373291016
+    - 388.36297607421875
+    - 552.00048828125
+    - 402.0480041503906
+    double_fontsize_int: 20
   - index: 554
     text: 'identification efforts under the appeal, which makes the intervention more
       comprehensive in nature. '
     text_base: identification efforts under the appeal which makes the intervention
       more comprehensive in nature
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 8
     block_number: 13
     line_number: 2
     span_number: 0
     total_y: 7145.949859619141
+    origin_x: 58.560001373291016
+    bbox: !!python/tuple
+    - 58.560001373291016
+    - 399.88299560546875
+    - 500.6288757324219
+    - 413.5680236816406
+    double_fontsize_int: 20
   - index: 555
     text: '2. For future interventions it is necessary to either consider reducing
       geographical and population coverage, or to '
     text_base: 2 for future interventions it is necessary to either consider reducing
       geographical and population coverage or to
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 8
     block_number: 14
     line_number: 1
     span_number: 0
     total_y: 7168.989837646484
+    origin_x: 40.560001373291016
+    bbox: !!python/tuple
+    - 40.560001373291016
+    - 422.9229736328125
+    - 552.3853149414062
+    - 436.6080017089844
+    double_fontsize_int: 20
   - index: 556
     text: 'conduct actions in a phased manner (based on existing funds) and to later
       add areas based on funds forecast. '
     text_base: conduct actions in a phased manner based on existing funds and to later
       add areas based on funds forecast
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 8
     block_number: 15
     line_number: 0
     span_number: 0
     total_y: 7180.389831542969
+    origin_x: 58.560001373291016
+    bbox: !!python/tuple
+    - 58.560001373291016
+    - 434.3229675292969
+    - 551.8389282226562
+    - 448.00799560546875
+    double_fontsize_int: 20
   - index: 557
     text: 'While this would promote less coverage, it would enable the planning of
       actions that have a more holistic '
     text_base: while this would promote less coverage it would enable the planning
       of actions that have a more holistic
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 8
     block_number: 15
     line_number: 1
     span_number: 0
     total_y: 7191.909851074219
+    origin_x: 58.560001373291016
+    bbox: !!python/tuple
+    - 58.560001373291016
+    - 445.8429870605469
+    - 552.5888671875
+    - 459.52801513671875
+    double_fontsize_int: 20
   - index: 558
     text: 'approach and focus on resilience and livelihoods (as is warranted in a
       drought emergency), and not only on '
     text_base: approach and focus on resilience and livelihoods as is warranted in
       a drought emergency and not only on
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 8
     block_number: 15
     line_number: 2
     span_number: 0
     total_y: 7203.429840087891
+    origin_x: 58.560001373291016
+    bbox: !!python/tuple
+    - 58.560001373291016
+    - 457.36297607421875
+    - 551.9683837890625
+    - 471.0480041503906
+    double_fontsize_int: 20
   - index: 559
     text: 'assistance. '
     text_base: assistance
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 8
     block_number: 15
     line_number: 3
     span_number: 0
     total_y: 7214.949859619141
+    origin_x: 58.560001373291016
+    bbox: !!python/tuple
+    - 58.560001373291016
+    - 468.88299560546875
+    - 111.38888549804688
+    - 482.5680236816406
+    double_fontsize_int: 20
+  items:
+  - 1. For future interventions, having the option of requesting a DREF with sufficient
+    available funds to develop a more efficient and effective emergency aid stage
+    to prevent a lack of predisposed funds, together with an appeal aimed at resiliency
+    and livelihoods recovery actions. This option allows timely and proper planning
+    and identification efforts under the appeal, which makes the intervention more
+    comprehensive in nature.
+  - 2. For future interventions it is necessary to either consider reducing geographical
+    and population coverage, or to conduct actions in a phased manner (based on existing
+    funds) and to later add areas based on funds forecast. While this would promote
+    less coverage, it would enable the planning of actions that have a more holistic
+    approach and focus on resilience and livelihoods (as is warranted in a drought
+    emergency), and not only on assistance.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'arial,bold, 24, #000000, #edebe0'
+    size: 12.0
     page_number: 9
     block_number: 8
     line_number: 0
     span_number: 0
     total_y: 7785.139831542969
+    origin_x: 36.0
+    bbox: !!python/tuple
+    - 36.0
+    - 195.01998901367188
+    - 103.43599700927734
+    - 211.5439910888672
     idx: 599
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 530
@@ -172,143 +307,271 @@
     text: "\uF0B7"
     text_base: ''
     style: 'symbol, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 10
     line_number: 0
     span_number: 0
     total_y: 7810.9698486328125
+    origin_x: 54.0
+    bbox: !!python/tuple
+    - 54.0
+    - 223.676513671875
+    - 58.58121109008789
+    - 235.87847900390625
+    double_fontsize_int: 20
   - index: 601
     text: 'The purchase and distribution of jerrycans becomes less effective if not
       accompanied by water distribution, '
     text_base: the purchase and distribution of jerrycans becomes less effective if
       not accompanied by water distribution
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 10
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 7810.9698486328125
+    origin_x: 72.02400207519531
+    bbox: !!python/tuple
+    - 72.02400207519531
+    - 222.98300170898438
+    - 545.6724243164062
+    - 236.6680450439453
+    double_fontsize_int: 20
   - index: 602
     text: 'and, likewise, not airing radio spots during the implementation phase reduces
       the impact thereof. '
     text_base: and likewise not airing radio spots during the implementation phase
       reduces the impact thereof
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 10
     line_number: 2
     span_number: 0
     total_y: 7822.369812011719
+    origin_x: 72.02400207519531
+    bbox: !!python/tuple
+    - 72.02400207519531
+    - 234.38296508789062
+    - 502.42889404296875
+    - 248.06800842285156
+    double_fontsize_int: 20
   - index: 603
     text: "\uF0B7"
     text_base: ''
     style: 'symbol, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 11
     line_number: 0
     span_number: 0
     total_y: 7834.609802246094
+    origin_x: 54.0
+    bbox: !!python/tuple
+    - 54.0
+    - 247.31646728515625
+    - 58.58121109008789
+    - 259.5184326171875
+    double_fontsize_int: 20
   - index: 604
     text: 'Planning of water distributions needs to be better analyzed in future projects
       due to the high cost of '
     text_base: planning of water distributions needs to be better analyzed in future
       projects due to the high cost of
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 11
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 7834.609802246094
+    origin_x: 72.02400207519531
+    bbox: !!python/tuple
+    - 72.02400207519531
+    - 246.62295532226562
+    - 512.3359375
+    - 260.3079833984375
+    double_fontsize_int: 20
   - index: 605
     text: 'distribution, the National Society''s capacity in terms of tanker trucks,
       and the limited or non-existent access to '
     text_base: distribution the national society s capacity in terms of tanker trucks
       and the limited or non existent access to
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 11
     line_number: 2
     span_number: 0
     total_y: 7846.129821777344
+    origin_x: 72.02400207519531
+    bbox: !!python/tuple
+    - 72.02400207519531
+    - 258.1429748535156
+    - 557.900146484375
+    - 271.8280029296875
+    double_fontsize_int: 20
   - index: 606
     text: 'communities due to Honduran topography. '
     text_base: communities due to honduran topography
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 11
     line_number: 3
     span_number: 0
     total_y: 7857.529846191406
+    origin_x: 72.02400207519531
+    bbox: !!python/tuple
+    - 72.02400207519531
+    - 269.5429992675781
+    - 263.8188781738281
+    - 283.22802734375
+    double_fontsize_int: 20
   - index: 607
     text: "\uF0B7"
     text_base: ''
     style: 'symbol, 22, #000000, #ffffff'
+    size: 11.039999961853027
     page_number: 9
     block_number: 12
     line_number: 0
     span_number: 0
     total_y: 7870.7298583984375
+    origin_x: 54.0
+    bbox: !!python/tuple
+    - 54.0
+    - 282.3507080078125
+    - 59.07796859741211
+    - 295.87579345703125
+    double_fontsize_int: 22
   - index: 608
     text: 'External coordination established through the Multi-sectorial Drought Committee
       led by COPECO and '
     text_base: external coordination established through the multi sectorial drought
       committee led by copeco and
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 12
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 7870.7298583984375
+    origin_x: 72.02400207519531
+    bbox: !!python/tuple
+    - 72.02400207519531
+    - 282.7430114746094
+    - 560.9473876953125
+    - 296.42803955078125
+    double_fontsize_int: 20
   - index: 609
     text: 'integrated by various government and non-governmental organizations contributed
       to avoiding a duplication '
     text_base: integrated by various government and non governmental organizations
       contributed to avoiding a duplication
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 12
     line_number: 2
     span_number: 0
     total_y: 7882.249816894531
+    origin_x: 72.02400207519531
+    bbox: !!python/tuple
+    - 72.02400207519531
+    - 294.2629699707031
+    - 560.8931884765625
+    - 307.947998046875
+    double_fontsize_int: 20
   - index: 610
     text: 'of efforts in targeted areas in terms of food delivery; however, given
       the purely emergency nature of this table, '
     text_base: of efforts in targeted areas in terms of food delivery however given
       the purely emergency nature of this table
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 12
     line_number: 3
     span_number: 0
     total_y: 7893.769836425781
+    origin_x: 72.02400207519531
+    bbox: !!python/tuple
+    - 72.02400207519531
+    - 305.7829895019531
+    - 560.5221557617188
+    - 319.468017578125
+    double_fontsize_int: 20
   - index: 611
     text: 'we consider that the coordination of other actions - such as livelihoods
       and water and sanitation - would have '
     text_base: we consider that the coordination of other actions such as livelihoods
       and water and sanitation would have
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 12
     line_number: 4
     span_number: 0
     total_y: 7905.289855957031
+    origin_x: 72.02400207519531
+    bbox: !!python/tuple
+    - 72.02400207519531
+    - 317.3030090332031
+    - 561.0753173828125
+    - 330.988037109375
+    double_fontsize_int: 20
   - index: 612
     text: been more pertinent in other spaces with a profile aimed more at recovery
       and rehabilitation (Government-
     text_base: been more pertinent in other spaces with a profile aimed more at recovery
       and rehabilitation government
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 12
     line_number: 5
     span_number: 0
     total_y: 7916.809814453125
+    origin_x: 72.02400207519531
+    bbox: !!python/tuple
+    - 72.02400207519531
+    - 328.8229675292969
+    - 558.316650390625
+    - 342.50799560546875
+    double_fontsize_int: 20
   - index: 613
     text: FAO Table - water and sanitation table - other agents).
     text_base: fao table water and sanitation table other agents
     style: 'arial, 20, #000000, #ffffff'
+    size: 9.960000038146973
     page_number: 9
     block_number: 12
     line_number: 6
     span_number: 0
     total_y: 7928.329833984375
+    origin_x: 72.02400207519531
+    bbox: !!python/tuple
+    - 72.02400207519531
+    - 340.3429870605469
+    - 313.7588806152344
+    - 354.02801513671875
+    double_fontsize_int: 20
+  items:
+  - The purchase and distribution of jerrycans becomes less effective if not accompanied
+    by water distribution, and, likewise, not airing radio spots during the implementation
+    phase reduces the impact thereof.
+  - Planning of water distributions needs to be better analyzed in future projects
+    due to the high cost of distribution, the National Society's capacity in terms
+    of tanker trucks, and the limited or non-existent access to communities due to
+    Honduran topography.
+  - External coordination established through the Multi-sectorial Drought Committee
+    led by COPECO and integrated by various government and non-governmental organizations
+    contributed to avoiding a duplication of efforts in targeted areas in terms of
+    food delivery; however, given the purely emergency nature of this table, we consider
+    that the coordination of other actions - such as livelihoods and water and sanitation
+    - would have been more pertinent in other spaces with a profile aimed more at
+    recovery and rehabilitation (Government- FAO Table - water and sanitation table
+    - other agents).

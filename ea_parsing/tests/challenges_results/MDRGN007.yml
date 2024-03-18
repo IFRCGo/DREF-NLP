@@ -1,12 +1,15 @@
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 10
     line_number: 0
     span_number: 0
     total_y: 7749.719970703125
+    origin_x: 51.959999084472656
+    bbox: (51.959999084472656, 611.062744140625, 108.1288833618164, 624.7777099609375)
     idx: 442
   sector_title: Health and Care
   sector_idx: 401
@@ -15,72 +18,105 @@
   - index: 443
     text: "\uF0A7"
     text_base: ''
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 11
     line_number: 0
     span_number: 0
     total_y: 7772.763732910156
+    origin_x: 59.51963806152344
+    bbox: (59.51963806152344, 635.8104248046875, 64.07653045654297, 646.8646850585938)
+    double_fontsize_int: 20
   - index: 444
     text: "Integration of Red Cross volunteers and government Community Agents \u201C\
       AC\u201D on the same operational "
     text_base: integration of red cross volunteers and government community agents
       ac on the same operational
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 11
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 7772.763732910156
+    origin_x: 77.5173568725586
+    bbox: (77.5173568725586, 634.0567626953125, 557.9471435546875, 647.7417602539062)
+    double_fontsize_int: 20
   - index: 445
     text: 'strategy '
     text_base: strategy
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 11
     line_number: 2
     span_number: 0
     total_y: 7784.2874755859375
+    origin_x: 77.5173568725586
+    bbox: (77.5173568725586, 645.5804443359375, 115.80359649658203, 659.2655029296875)
+    double_fontsize_int: 20
   - index: 446
     text: "\uF0A7"
     text_base: ''
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 12
     line_number: 0
     span_number: 0
     total_y: 7795.691650390625
+    origin_x: 59.519630432128906
+    bbox: (59.519630432128906, 658.7383422851562, 64.07652282714844, 669.7926025390625)
+    double_fontsize_int: 20
   - index: 447
     text: 'Harmonization of data with WHO agents working on the epidemiologic surveillance
       in the community was '
     text_base: harmonization of data with who agents working on the epidemiologic
       surveillance in the community was
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 12
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 7795.691650390625
+    origin_x: 77.51734924316406
+    bbox: (77.51734924316406, 656.984619140625, 558.0076293945312, 670.669677734375)
+    double_fontsize_int: 20
   - index: 448
     text: 'initially a challenge which was addressed through weekly coordination at
       prefecture and national levels.  '
     text_base: initially a challenge which was addressed through weekly coordination
       at prefecture and national levels
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 12
     line_number: 2
     span_number: 0
     total_y: 7807.21533203125
+    origin_x: 77.51736450195312
+    bbox: (77.51736450195312, 668.50830078125, 540.0099487304688, 682.193359375)
+    double_fontsize_int: 20
+  items:
+  - "Integration of Red Cross volunteers and government Community Agents \u201CAC\u201D\
+    \ on the same operational strategy"
+  - Harmonization of data with WHO agents working on the epidemiologic surveillance
+    in the community was initially a challenge which was addressed through weekly
+    coordination at prefecture and national levels.
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 14
     line_number: 0
     span_number: 0
     total_y: 8197.679992675781
+    origin_x: 45.0
+    bbox: (45.0, 267.0227966308594, 101.16888427734375, 280.7377014160156)
     idx: 480
   sector_title: Health and Care
   sector_idx: 401
@@ -91,32 +127,47 @@
       However, like other public '
     text_base: due to lack of funding wash activities in schools could not be implemented
       however like other public
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 15
     line_number: 0
     span_number: 0
     total_y: 8220.723724365234
+    origin_x: 51.962039947509766
+    bbox: (51.962039947509766, 290.0167236328125, 512.6829833984375, 303.7017517089844)
+    double_fontsize_int: 20
   - index: 482
     text: 'infrastructures, schools were benefiting hand sanitizers and disinfection
       activities '
     text_base: infrastructures schools were benefiting hand sanitizers and disinfection
       activities
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 15
     line_number: 1
     span_number: 0
     total_y: 8232.1279296875
+    origin_x: 51.962039947509766
+    bbox: (51.962039947509766, 301.4209289550781, 411.6076965332031, 315.10595703125)
+    double_fontsize_int: 20
+  items:
+  - Due to lack of funding, WASH activities in schools could not be implemented. However,
+    like other public infrastructures, schools were benefiting hand sanitizers and
+    disinfection activities
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 7
     line_number: 0
     span_number: 0
     total_y: 9036.0
+    origin_x: 51.959999084472656
+    bbox: (51.959999084472656, 313.3428039550781, 108.1288833618164, 327.0577087402344)
     idx: 541
   sector_title: Health and Care
   sector_idx: 401
@@ -127,43 +178,64 @@
       due to lack of funding. Thanks to the '
     text_base: livelihood and economic support to evd survivors could not be implemented
       due to lack of funding thanks to the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 8
     line_number: 0
     span_number: 0
     total_y: 9059.040008544922
+    origin_x: 41.52000045776367
+    bbox: (41.52000045776367, 336.3330078125, 557.9561767578125, 350.0180358886719)
+    double_fontsize_int: 20
   - index: 543
     text: 'coordination with other stakeholders in the country, the UNDP office in
       Guinea in collaboration with local NGOs are '
     text_base: coordination with other stakeholders in the country the undp office
       in guinea in collaboration with local ngos are
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 8
     line_number: 1
     span_number: 0
-    total_y: 9070.563720703125
+    total_y: 9070.563720703123
+    origin_x: 41.52000427246094
+    bbox: (41.52000427246094, 347.8567199707031, 557.9052734375, 361.541748046875)
+    double_fontsize_int: 20
   - index: 544
     text: 'providing economic support in terms of IGAs and rebuilding of infrastructures
       to some selected affected communities. '
     text_base: providing economic support in terms of igas and rebuilding of infrastructures
       to some selected affected communities
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 8
     line_number: 2
     span_number: 0
     total_y: 9082.079986572266
+    origin_x: 41.52000045776367
+    bbox: (41.52000045776367, 359.37298583984375, 558.0088500976562, 373.0580139160156)
+    double_fontsize_int: 20
+  items:
+  - Livelihood and economic support to EVD survivors could not be implemented due
+    to lack of funding. Thanks to the coordination with other stakeholders in the
+    country, the UNDP office in Guinea in collaboration with local NGOs are providing
+    economic support in terms of IGAs and rebuilding of infrastructures to some selected
+    affected communities.
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 20
     line_number: 0
     span_number: 0
     total_y: 9803.040008544922
+    origin_x: 51.959999084472656
+    bbox: (51.959999084472656, 288.3828125, 108.1288833618164, 302.09771728515625)
     idx: 615
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 560
@@ -174,21 +246,31 @@
       base project could not be implemented. '
     text_base: due to lack of sufficient non earmarked funding the national logistics
       base project could not be implemented
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 21
     line_number: 1
     span_number: 0
     total_y: 9826.083709716797
+    origin_x: 41.52000045776367
+    bbox: (41.52000045776367, 311.376708984375, 528.4842529296875, 325.0617370605469)
+    double_fontsize_int: 20
+  items:
+  - 'Due to lack of sufficient non-earmarked funding, the National logistics base
+    project could not be implemented. '
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 35
     line_number: 0
     span_number: 0
     total_y: 10137.839965820312
+    origin_x: 51.959999084472656
+    bbox: (51.959999084472656, 623.1827392578125, 108.1288833618164, 636.897705078125)
     idx: 646
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 560
@@ -199,32 +281,47 @@
       the RC will have limited possibilities '
     text_base: the sustainability of this project is within the government hands and
       therefore the rc will have limited possibilities
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 36
     line_number: 0
     span_number: 0
-    total_y: 10149.239990234375
+    total_y: 10149.239990234377
+    origin_x: 41.52000045776367
+    bbox: (41.52000045776367, 634.532958984375, 547.3286743164062, 648.218017578125)
+    double_fontsize_int: 20
   - index: 648
     text: 'to ensure proper follow up and further simulation exercises or refresher
       trainings '
     text_base: to ensure proper follow up and further simulation exercises or refresher
       trainings
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 36
     line_number: 1
     span_number: 0
     total_y: 10160.763732910156
+    origin_x: 41.520050048828125
+    bbox: (41.520050048828125, 646.0567626953125, 398.9943542480469, 659.7417602539062)
+    double_fontsize_int: 20
+  items:
+  - The sustainability of this project is within the government hands and therefore
+    the RC will have limited possibilities to ensure proper follow up and further
+    simulation exercises or refresher trainings
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 24
     line_number: 0
     span_number: 0
-    total_y: 10671.239990234375
+    total_y: 10671.239990234377
+    origin_x: 51.959999084472656
+    bbox: (51.959999084472656, 364.5827941894531, 108.1288833618164, 378.2976989746094)
     idx: 691
   sector_title: National Society Strengthening
   sector_idx: 653
@@ -233,70 +330,102 @@
   - index: 692
     text: "\uF0A7"
     text_base: ''
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 25
     line_number: 0
     span_number: 0
     total_y: 10694.283721923828
+    origin_x: 59.51963806152344
+    bbox: (59.51963806152344, 389.3304138183594, 64.07653045654297, 400.3846740722656)
+    double_fontsize_int: 20
   - index: 693
     text: 'The premature of the OD delegate from Guinea hampered the proper planning
       of institutional needs and '
     text_base: the premature of the od delegate from guinea hampered the proper planning
       of institutional needs and
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 25
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 10694.283721923828
+    origin_x: 77.5173568725586
+    bbox: (77.5173568725586, 387.57672119140625, 540.58056640625, 401.2617492675781)
+    double_fontsize_int: 20
   - index: 694
     text: 'support to the NS. Some planned activities were not implanted, '
     text_base: support to the ns some planned activities were not implanted
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 25
     line_number: 2
     span_number: 0
     total_y: 10705.807434082031
+    origin_x: 77.4974365234375
+    bbox: (77.4974365234375, 399.1004333496094, 359.3853454589844, 412.78546142578125)
+    double_fontsize_int: 20
   - index: 695
     text: "\uF0A7"
     text_base: ''
-    style: 'regular, 20, #000000, None'
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 26
     line_number: 0
     span_number: 0
     total_y: 10717.331146240234
+    origin_x: 59.49969482421875
+    bbox: (59.49969482421875, 412.3778381347656, 64.05658721923828, 423.4320983886719)
+    double_fontsize_int: 20
   - index: 696
     text: 'EVD was such a terrifying disease that the priority was solely put on health
       issues, forgetting sometimes '
     text_base: evd was such a terrifying disease that the priority was solely put
       on health issues forgetting sometimes
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 26
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 10717.331146240234
+    origin_x: 77.4974136352539
+    bbox: (77.4974136352539, 410.6241455078125, 539.9700317382812, 424.3091735839844)
+    double_fontsize_int: 20
   - index: 697
     text: 'other important aspects of the RC including Capacity development,  '
     text_base: other important aspects of the rc including capacity development
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 26
     line_number: 2
     span_number: 0
     total_y: 10728.7353515625
+    origin_x: 77.47744750976562
+    bbox: (77.47744750976562, 422.0283508300781, 379.2854309082031, 435.71337890625)
+    double_fontsize_int: 20
+  items:
+  - The premature of the OD delegate from Guinea hampered the proper planning of institutional
+    needs and support to the NS. Some planned activities were not implanted,
+  - EVD was such a terrifying disease that the priority was solely put on health issues,
+    forgetting sometimes other important aspects of the RC including Capacity development,
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 37
     line_number: 0
     span_number: 0
     total_y: 10959.960021972656
+    origin_x: 51.959999084472656
+    bbox: (51.959999084472656, 653.3027954101562, 108.1288833618164, 667.0177612304688)
     idx: 713
   sector_title: National Society Strengthening
   sector_idx: 653
@@ -307,30 +436,44 @@
       for governance members in '
     text_base: the absence of an od delegate in the country did not allow further
       trainings for governance members in
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 37
     line_number: 2
     span_number: 0
     total_y: 10983.003723144531
+    origin_x: 51.959999084472656
+    bbox: (51.959999084472656, 676.2967529296875, 514.3511352539062, 689.9817504882812)
+    double_fontsize_int: 20
   - index: 715
     text: 'prefectural committees '
     text_base: prefectural committees
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 37
     line_number: 3
     span_number: 0
     total_y: 10994.527465820312
+    origin_x: 51.959999084472656
+    bbox: (51.959999084472656, 687.8204345703125, 155.89259338378906, 701.5054931640625)
+    double_fontsize_int: 20
+  items:
+  - The absence of an OD delegate in the country did not allow further trainings for
+    governance members in prefectural committees
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 13
     line_number: 0
     span_number: 0
     total_y: 11353.080017089844
+    origin_x: 51.959999084472656
+    bbox: (51.959999084472656, 254.42282104492188, 108.1288833618164, 268.1377258300781)
     idx: 739
   sector_title: National Society Strengthening
   sector_idx: 653
@@ -341,18 +484,29 @@
       costs, which hampers its full development '
     text_base: the ns still rely heavily on external funding including covering her
       core costs which hampers its full development
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 13
     line_number: 2
     span_number: 0
     total_y: 11376.119995117188
+    origin_x: 51.959999084472656
+    bbox: (51.959999084472656, 277.4129943847656, 556.1094360351562, 291.0980224609375)
+    double_fontsize_int: 20
   - index: 741
     text: 'and financial independence '
     text_base: and financial independence
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 13
     line_number: 3
     span_number: 0
     total_y: 11387.519989013672
+    origin_x: 51.959999084472656
+    bbox: (51.959999084472656, 288.81298828125, 176.52886962890625, 302.4980163574219)
+    double_fontsize_int: 20
+  items:
+  - The NS still rely heavily on external funding including covering her core costs,
+    which hampers its full development and financial independence

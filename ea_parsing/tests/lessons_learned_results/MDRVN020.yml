@@ -1,12 +1,15 @@
 - title:
     text: Lessons Learned
     text_base: lessons learned
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 16
     span_number: 0
     total_y: 10573.799774169922
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 459.79815673828125, 145.74066162109375, 473.8432922363281)
     idx: 702
   sector_title: Shelter, Housing and Settlements
   sector_idx: 345
@@ -17,125 +20,187 @@
       between online and face-to-face events '
     text_base: staff of the vietnam red cross at all levels have been flexible in
       operating between online and face to face events
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 18
     span_number: 0
     total_y: 10599.239776611328
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 487.1834716796875, 562.1925048828125, 498.3106384277344)
+    double_fontsize_int: 20
   - index: 704
     text: 'to ensure the operation was completed as per schedule. In the implementation
       process, the local Red Cross staff, '
     text_base: to ensure the operation was completed as per schedule in the implementation
       process the local red cross staff
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 19
     span_number: 0
     total_y: 10610.763488769531
+    origin_x: 53.030029296875
+    bbox: (53.030029296875, 498.7071838378906, 562.18359375, 509.8343505859375)
+    double_fontsize_int: 20
   - index: 705
     text: 'HQ staff, technical engineers, and representatives of the local authorities
       operated through a mix of remote and '
     text_base: hq staff technical engineers and representatives of the local authorities
       operated through a mix of remote and
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 20
     span_number: 0
     total_y: 10622.287231445312
+    origin_x: 53.030029296875
+    bbox: (53.030029296875, 510.2309265136719, 562.1964721679688, 521.3580932617188)
+    double_fontsize_int: 20
   - index: 706
     text: 'physical monitoring.  '
     text_base: physical monitoring
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 21
     span_number: 0
     total_y: 10633.810913085938
+    origin_x: 53.030059814453125
+    bbox: (53.030059814453125, 521.7545776367188, 146.97808837890625, 532.8817749023438)
+    double_fontsize_int: 20
   - index: 707
     text: 'More consultation with the local people and Red Cross Chapters is needed
       before project implementation to ensure '
     text_base: more consultation with the local people and red cross chapters is needed
       before project implementation to ensure
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 23
     span_number: 0
     total_y: 10656.738830566406
+    origin_x: 53.030059814453125
+    bbox: (53.030059814453125, 544.6824951171875, 562.1638793945312, 555.8096923828125)
+    double_fontsize_int: 20
   - index: 708
     text: "people\u2019s needs are met properly. Some recipients of cooking kits mentioned\
       \ that some of the items in the kit were "
     text_base: people s needs are met properly some recipients of cooking kits mentioned
       that some of the items in the kit were
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 24
     span_number: 0
     total_y: 10668.262573242188
+    origin_x: 53.030059814453125
+    bbox: (53.030059814453125, 556.2062377929688, 562.0830688476562, 567.3334350585938)
+    double_fontsize_int: 20
   - index: 709
     text: 'not appropriate for their culture and routine. '
     text_base: not appropriate for their culture and routine
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 25
     span_number: 0
     total_y: 10679.786254882812
+    origin_x: 53.030059814453125
+    bbox: (53.030059814453125, 567.7299194335938, 248.15475463867188, 578.8571166992188)
+    double_fontsize_int: 20
   - index: 710
     text: 'The construction and repair work should be planned in a way that it avoids
       the storm and cyclone season considering '
     text_base: the construction and repair work should be planned in a way that it
       avoids the storm and cyclone season considering
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 27
     span_number: 0
     total_y: 10702.7998046875
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 590.7434692382812, 562.185546875, 601.8706665039062)
+    double_fontsize_int: 20
   - index: 711
     text: 'the safety of the people and staff performing the monitoring work. Dry
       seasons is ideal for repair and new '
     text_base: the safety of the people and staff performing the monitoring work dry
       seasons is ideal for repair and new
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 28
     span_number: 0
     total_y: 10714.199768066406
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 602.1434326171875, 562.1089477539062, 613.2706298828125)
+    double_fontsize_int: 20
   - index: 712
     text: 'construction works. The implementation timeframe needs to be adapted to
       the geographic location, seasonality and '
     text_base: construction works the implementation timeframe needs to be adapted
       to the geographic location seasonality and
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 29
     span_number: 0
     total_y: 10725.719787597656
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 613.6634521484375, 562.189697265625, 624.7906494140625)
+    double_fontsize_int: 20
   - index: 713
     text: 'cultural practices of the local community.  '
     text_base: cultural practices of the local community
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 7
     line_number: 30
     span_number: 0
     total_y: 10737.243530273438
+    origin_x: 53.04000854492188
+    bbox: (53.040008544921875, 625.1871948242188, 238.6827850341797, 636.3143920898438)
+    double_fontsize_int: 20
+  items:
+  - Staff of the Vietnam Red Cross at all levels have been flexible in operating between
+    online and face-to-face events to ensure the operation was completed as per schedule.
+    In the implementation process, the local Red Cross staff, HQ staff, technical
+    engineers, and representatives of the local authorities operated through a mix
+    of remote and physical monitoring.
+  - "More consultation with the local people and Red Cross Chapters is needed before\
+    \ project implementation to ensure people\u2019s needs are met properly. Some\
+    \ recipients of cooking kits mentioned that some of the items in the kit were\
+    \ not appropriate for their culture and routine."
+  - The construction and repair work should be planned in a way that it avoids the
+    storm and cyclone season considering the safety of the people and staff performing
+    the monitoring work. Dry seasons is ideal for repair and new construction works.
+    The implementation timeframe needs to be adapted to the geographic location, seasonality
+    and cultural practices of the local community.
 - title:
     text: Lessons Learned
     text_base: lessons learned
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 17
     block_number: 4
     line_number: 16
     span_number: 0
-    total_y: 14574.959716796875
+    total_y: 14574.959716796877
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 251.35816955566406, 145.74066162109375, 265.4033203125)
     idx: 1024
   sector_title: Livelihoods
   sector_idx: 718
@@ -143,127 +208,186 @@
   content:
   - index: 1025
     text: "\uF0A7"
-    text_base: ''
-    style: 'Wingdings-Regular, 20, #000000, None'
+    text_base: .nan
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 4
     line_number: 18
     span_number: 0
-    total_y: 14599.919677734375
+    total_y: 14599.919677734377
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 278.32666015625, 57.59689712524414, 289.38092041015625)
+    double_fontsize_int: 20
   - index: 1026
     text: 'Coordination among VNRC, partners and Vietnamese government should be enhanced. '
     text_base: coordination among vnrc partners and vietnamese government should be
       enhanced
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 4
-    line_number: 19
-    span_number: 0
-    total_y: 14599.919677734375
+    line_number: 18
+    span_number: 1
+    total_y: 14599.919677734377
+    origin_x: 71.0377197265625
+    bbox: (71.0377197265625, 278.2634582519531, 463.5696105957031, 289.390625)
+    double_fontsize_int: 20
   - index: 1027
     text: "\uF0A7"
-    text_base: ''
-    style: 'Wingdings-Regular, 20, #000000, None'
+    text_base: .nan
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 5
     line_number: 1
     span_number: 0
     total_y: 14622.967163085938
+    origin_x: 53.04000854492188
+    bbox: (53.040008544921875, 301.3741455078125, 57.59690475463867, 312.42840576171875)
+    double_fontsize_int: 20
   - index: 1028
     text: 'As the government regulations around receipt of foreign aid and organisation
       of international conferences etc. '
     text_base: as the government regulations around receipt of foreign aid and organisation
       of international conferences etc
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 5
-    line_number: 2
-    span_number: 0
+    line_number: 1
+    span_number: 1
     total_y: 14622.967163085938
+    origin_x: 71.03772735595703
+    bbox: (71.03772735595703, 301.3109436035156, 562.0842895507812, 312.4381103515625)
+    double_fontsize_int: 20
   - index: 1029
     text: 'as mentioned above were newly introduced forcing organisations to take
       additional time to adapt, an alternative '
     text_base: as mentioned above were newly introduced forcing organisations to take
       additional time to adapt an alternative
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 5
     line_number: 3
     span_number: 0
-    total_y: 14634.371337890625
+    total_y: 14634.371337890623
+    origin_x: 71.03772735595703
+    bbox: (71.03772735595703, 312.7151184082031, 562.155029296875, 323.84228515625)
+    double_fontsize_int: 20
   - index: 1030
     text: 'solution to speed up the receipt of funds and its delivery to affected
       communities should have been planned as '
     text_base: solution to speed up the receipt of funds and its delivery to affected
       communities should have been planned as
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 5
     line_number: 4
     span_number: 0
     total_y: 14645.895050048828
+    origin_x: 71.03773498535156
+    bbox: (71.03773498535156, 324.23883056640625, 562.0970458984375, 335.3659973144531)
+    double_fontsize_int: 20
   - index: 1031
     text: 'quickly as possible.  VNRC should also develop a plan to ensure business
       continuity in the transition period '
     text_base: quickly as possible vnrc should also develop a plan to ensure business
       continuity in the transition period
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 5
     line_number: 5
     span_number: 0
     total_y: 14657.418762207031
+    origin_x: 71.03773498535156
+    bbox: (71.03773498535156, 335.7625427246094, 562.1480102539062, 346.88970947265625)
+    double_fontsize_int: 20
   - index: 1032
     text: 'during the process of leadership change to prevent delays in financial
       processes and project implementation. '
     text_base: during the process of leadership change to prevent delays in financial
       processes and project implementation
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 5
     line_number: 6
     span_number: 0
     total_y: 14668.942474365234
+    origin_x: 71.0377197265625
+    bbox: (71.0377197265625, 347.2862548828125, 554.5242919921875, 358.4134216308594)
+    double_fontsize_int: 20
   - index: 1033
     text: "\uF0A7"
-    text_base: ''
-    style: 'Wingdings-Regular, 20, #000000, None'
+    text_base: .nan
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 7
     line_number: 0
     span_number: 0
     total_y: 14691.959686279297
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 370.3666687011719, 57.59689712524414, 381.4209289550781)
+    double_fontsize_int: 20
   - index: 1034
     text: "From the start of the project, age and sex desegregated data should be\
       \ collected. In future, VNRC\u2019s M&E system "
     text_base: from the start of the project age and sex desegregated data should
       be collected in future vnrc s m e system
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 7
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 14691.959686279297
+    origin_x: 71.0377197265625
+    bbox: (71.0377197265625, 370.303466796875, 562.1914672851562, 381.4306335449219)
+    double_fontsize_int: 20
   - index: 1035
     text: 'and database need to be improved for better documentation of the operations
       achievements. '
     text_base: and database need to be improved for better documentation of the operations
       achievements
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 7
     line_number: 2
     span_number: 0
-    total_y: 14703.359680175781
+    total_y: 14703.35968017578
+    origin_x: 71.04000091552734
+    bbox: (71.04000091552734, 381.7034606933594, 484.08721923828125, 392.83062744140625)
+    double_fontsize_int: 20
+  items:
+  - Coordination among VNRC, partners and Vietnamese government should be enhanced.
+  - As the government regulations around receipt of foreign aid and organisation of
+    international conferences etc. as mentioned above were newly introduced forcing
+    organisations to take additional time to adapt, an alternative solution to speed
+    up the receipt of funds and its delivery to affected communities should have been
+    planned as quickly as possible.  VNRC should also develop a plan to ensure business
+    continuity in the transition period during the process of leadership change to
+    prevent delays in financial processes and project implementation.
+  - "From the start of the project, age and sex desegregated data should be collected.\
+    \ In future, VNRC\u2019s M&E system and database need to be improved for better\
+    \ documentation of the operations achievements."
 - title:
     text: Lessons Learned
     text_base: lessons learned
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 19
     block_number: 7
     line_number: 11
     span_number: 0
     total_y: 16507.559661865234
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 500.1181640625, 145.74066162109375, 514.163330078125)
     idx: 1115
   sector_title: Health and Care
   sector_idx: 1036
@@ -274,54 +398,80 @@
       related to COVID 19 prevention techniques '
     text_base: the health promotion materials should be revised integrating knowledge
       related to covid 19 prevention techniques
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
     block_number: 7
     line_number: 12
     span_number: 0
     total_y: 16522.199645996094
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 516.7034301757812, 562.189453125, 527.8306274414062)
+    double_fontsize_int: 20
   - index: 1117
     text: 'such as wearing masks, washing hand and keeping distance to avoid the COVID
       19 infection in the context of people '
     text_base: such as wearing masks washing hand and keeping distance to avoid the
       covid 19 infection in the context of people
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
     block_number: 7
     line_number: 13
     span_number: 0
     total_y: 16533.599670410156
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 528.1034545898438, 562.1918334960938, 539.2306518554688)
+    double_fontsize_int: 20
   - index: 1118
     text: 'gathering at evacuation sites after disasters. It is also suggested to
       have a training on psychological first aid for Red '
     text_base: gathering at evacuation sites after disasters it is also suggested
       to have a training on psychological first aid for red
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
     block_number: 7
     line_number: 14
     span_number: 0
     total_y: 16545.12335205078
+    origin_x: 53.04000854492188
+    bbox: (53.040008544921875, 539.6271362304688, 562.193603515625, 550.7543334960938)
+    double_fontsize_int: 20
   - index: 1119
     text: 'Cross staff and volunteers to provide immediate support in terms of mental
       health for the people affected.        '
     text_base: cross staff and volunteers to provide immediate support in terms of
       mental health for the people affected
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 19
     block_number: 7
     line_number: 15
     span_number: 0
     total_y: 16556.647094726562
+    origin_x: 53.030059814453125
+    bbox: (53.030059814453125, 551.15087890625, 540.6002807617188, 562.278076171875)
+    double_fontsize_int: 20
+  items:
+  - The health promotion materials should be revised integrating knowledge related
+    to COVID 19 prevention techniques such as wearing masks, washing hand and keeping
+    distance to avoid the COVID 19 infection in the context of people gathering at
+    evacuation sites after disasters. It is also suggested to have a training on psychological
+    first aid for Red Cross staff and volunteers to provide immediate support in terms
+    of mental health for the people affected.
 - title:
     text: Lessons Learned
     text_base: lessons learned
-    style: 'Arial-Black, 20, #000000, None'
+    style: 'black, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 4
     line_number: 9
     span_number: 0
-    total_y: 18699.959594726562
+    total_y: 18699.95959472656
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 166.7581329345703, 145.74066162109375, 180.80328369140625)
     idx: 1213
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 1120
@@ -332,43 +482,63 @@
       to address potential issues as a '
     text_base: to ensure business continuity vnrc should have a contingency plan in
       place to address potential issues as a
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 4
     line_number: 10
     span_number: 0
     total_y: 18712.91961669922
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 181.66346740722656, 562.2051391601562, 192.7906494140625)
+    double_fontsize_int: 20
   - index: 1215
     text: 'result of staff turnover. VNRC also needs to develop a contingency plan
       to continue operations in the face of '
     text_base: result of staff turnover vnrc also needs to develop a contingency plan
       to continue operations in the face of
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 4
     line_number: 11
     span_number: 0
     total_y: 18724.319580078125
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 193.0634307861328, 562.1848754882812, 204.19061279296875)
+    double_fontsize_int: 20
   - index: 1216
     text: 'unexpected events such as the restrictions imposed during the COVID-19
       pandemic. '
     text_base: unexpected events such as the restrictions imposed during the covid
       19 pandemic
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 22
     block_number: 4
     line_number: 12
     span_number: 0
-    total_y: 18735.839599609375
+    total_y: 18735.83959960937
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 204.5834503173828, 430.44720458984375, 215.71063232421875)
+    double_fontsize_int: 20
+  items:
+  - To ensure business continuity, VNRC should have a contingency plan in place to
+    address potential issues as a result of staff turnover. VNRC also needs to develop
+    a contingency plan to continue operations in the face of unexpected events such
+    as the restrictions imposed during the COVID-19 pandemic.
 - title:
     text: Lessons Learned
     text_base: lessons learned
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 23
     block_number: 10
     line_number: 7
     span_number: 0
     total_y: 19964.039611816406
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 588.9181518554688, 145.74066162109375, 602.9633178710938)
     idx: 1266
   sector_title: Protection, Gender and Inclusion
   sector_idx: 1217
@@ -379,85 +549,128 @@
       continuity plans so that trainings can be '
     text_base: it is critical to have a pgi focal point in vnrc and adequate business
       continuity plans so that trainings can be
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 11
     line_number: 1
     span_number: 0
     total_y: 19991.87957763672
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 618.7034301757812, 562.185546875, 629.8306274414062)
+    double_fontsize_int: 20
   - index: 1268
     text: 'conducted effectively without being dependent on one staff member alone.  '
     text_base: conducted effectively without being dependent on one staff member alone
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 11
     line_number: 2
     span_number: 0
     total_y: 20003.4033203125
+    origin_x: 53.0499267578125
+    bbox: (53.0499267578125, 630.2271728515625, 388.3317565917969, 641.3543701171875)
+    double_fontsize_int: 20
   - index: 1269
     text: 'Context of the country and capacity of the National Society should be researched
       carefully before undertaking the '
     text_base: context of the country and capacity of the national society should
       be researched carefully before undertaking the
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 11
     line_number: 4
     span_number: 0
     total_y: 20026.33123779297
+    origin_x: 53.03997802734375
+    bbox: (53.03997802734375, 653.1550903320312, 562.079345703125, 664.2822875976562)
+    double_fontsize_int: 20
   - index: 1270
     text: 'technical training to ensure engaging and fresh content suited to the needs
       of participants is delivered.  '
     text_base: technical training to ensure engaging and fresh content suited to the
       needs of participants is delivered
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 11
     line_number: 5
     span_number: 0
-    total_y: 20037.854919433594
+    total_y: 20037.8549194336
+    origin_x: 53.03997802734375
+    bbox: (53.03997802734375, 664.6787719726562, 510.4911804199219, 675.8059692382812)
+    double_fontsize_int: 20
   - index: 1271
     text: 'Traditional virtual applications such as Zoom and Teams seem old fashioned
       and require further innovations. New '
     text_base: traditional virtual applications such as zoom and teams seem old fashioned
       and require further innovations new
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 11
     line_number: 7
     span_number: 0
-    total_y: 20060.902404785156
+    total_y: 20060.90240478516
+    origin_x: 53.04000854492188
+    bbox: (53.040008544921875, 687.7262573242188, 562.20654296875, 698.8534545898438)
+    double_fontsize_int: 20
   - index: 1272
     text: "applications such as \u201CGather Town\u201D which allows participants\
       \ to do role play with a feeling as if other people are "
     text_base: applications such as gather town which allows participants to do role
       play with a feeling as if other people are
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 11
     line_number: 8
     span_number: 0
     total_y: 20072.306579589844
+    origin_x: 53.04000854492188
+    bbox: (53.040008544921875, 699.1304321289062, 562.1666259765625, 710.2576293945312)
+    double_fontsize_int: 20
   - index: 1273
     text: 'present in the same virtual areas will make trainings more exciting and
       focused.  '
     text_base: present in the same virtual areas will make trainings more exciting
       and focused
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 23
     block_number: 11
     line_number: 9
     span_number: 0
     total_y: 20083.830322265625
+    origin_x: 53.04000854492188
+    bbox: (53.040008544921875, 710.6541748046875, 410.52264404296875, 721.7813720703125)
+    double_fontsize_int: 20
+  items:
+  - It is critical to have a PGI focal point in VNRC and adequate business continuity
+    plans so that trainings can be conducted effectively without being dependent on
+    one staff member alone.
+  - Context of the country and capacity of the National Society should be researched
+    carefully before undertaking the technical training to ensure engaging and fresh
+    content suited to the needs of participants is delivered.
+  - "Traditional virtual applications such as Zoom and Teams seem old fashioned and\
+    \ require further innovations. New applications such as \u201CGather Town\u201D\
+    \ which allows participants to do role play with a feeling as if other people\
+    \ are present in the same virtual areas will make trainings more exciting and\
+    \ focused."
 - title:
     text: Lessons Learned
     text_base: lessons learned
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 27
     block_number: 12
     line_number: 14
     span_number: 0
-    total_y: 23118.479522705078
+    total_y: 23118.47952270508
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 375.67816162109375, 145.74066162109375, 389.7232971191406)
     idx: 1418
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 1278
@@ -468,95 +681,141 @@
       project to count both direct and indirect '
     text_base: improved data recording system from the grass root level will allow
       the project to count both direct and indirect
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 27
     block_number: 12
     line_number: 16
     span_number: 0
     total_y: 23142.959533691406
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 402.1034851074219, 557.7117919921875, 413.23065185546875)
+    double_fontsize_int: 20
   - index: 1420
     text: people assisted which make the people assisted tracking database more accurate.
     text_base: people assisted which make the people assisted tracking database more
       accurate
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 27
     block_number: 12
     line_number: 17
     span_number: 0
     total_y: 23154.48324584961
+    origin_x: 53.03004455566406
+    bbox: (53.03004455566406, 413.627197265625, 418.2856750488281, 424.7543640136719)
+    double_fontsize_int: 20
   - index: 1421
     text: 'Continuous progress update will provide an overall picture which helped
       the project management board at the '
     text_base: continuous progress update will provide an overall picture which helped
       the project management board at the
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 27
     block_number: 12
     line_number: 19
     span_number: 0
     total_y: 23177.51953125
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 436.6634826660156, 557.73779296875, 447.7906494140625)
+    double_fontsize_int: 20
   - index: 1423
     text: 'Despite the fact that communication between VNRC  central level and the
       IFRC staff to stay aware of the situation. '
     text_base: despite the fact that communication between vnrc central level and
       the ifrc staff to stay aware of the situation
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 27
     block_number: 12
     line_number: 20
     span_number: 1
     total_y: 23188.919525146484
+    origin_x: 325.44000244140625
+    bbox: (325.44000244140625, 448.0634765625, 557.7286987304688, 459.1906433105469)
+    double_fontsize_int: 20
   - index: 1424
     text: 'and the Chapters is often positive, it should be more consistent and frequent.
       Operational plan should be discussed '
     text_base: and the chapters is often positive it should be more consistent and
       frequent operational plan should be discussed
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 27
     block_number: 12
     line_number: 21
     span_number: 0
     total_y: 23200.443237304688
+    origin_x: 53.0439453125
+    bbox: (53.0439453125, 459.5871887207031, 557.75048828125, 470.71435546875)
+    double_fontsize_int: 20
   - index: 1425
     text: 'at least two months ahead of the activities for the management team to
       arrange their travels and finance. There '
     text_base: at least two months ahead of the activities for the management team
       to arrange their travels and finance there
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 27
     block_number: 12
     line_number: 22
     span_number: 0
     total_y: 23211.96694946289
+    origin_x: 53.04393005371094
+    bbox: (53.04393005371094, 471.11090087890625, 557.680908203125, 482.2380676269531)
+    double_fontsize_int: 20
   - index: 1426
     text: should always be a backup plan in place so that the operation is not suspended
       for a long time
     text_base: should always be a backup plan in place so that the operation is not
       suspended for a long time
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 27
     block_number: 12
     line_number: 23
     span_number: 0
-    total_y: 23223.479522705078
+    total_y: 23223.47952270508
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 482.62347412109375, 470.5339050292969, 493.7506408691406)
+    double_fontsize_int: 20
   - index: 1427
     text: '.   '
-    text_base: ''
-    style: 'Arial-ItalicMT, 20, #000000, None'
+    text_base: .nan
+    style: 'italicmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 27
     block_number: 12
     line_number: 23
     span_number: 1
-    total_y: 23223.479522705078
+    total_y: 23223.47952270508
+    origin_x: 470.5199890136719
+    bbox: (470.5199890136719, 482.62347412109375, 481.6872253417969, 493.7506408691406)
+    double_fontsize_int: 20
+  items:
+  - Improved data recording system from the grass-root level will allow the project
+    to count both direct and indirect people assisted which make the people assisted
+    tracking database more accurate.
+  - Continuous progress update will provide an overall picture which helped the project
+    management board at the Despite the fact that communication between VNRC  central
+    level and the IFRC staff to stay aware of the situation. and the Chapters is often
+    positive, it should be more consistent and frequent. Operational plan should be
+    discussed at least two months ahead of the activities for the management team
+    to arrange their travels and finance. There should always be a backup plan in
+    place so that the operation is not suspended for a long time .
 - title:
     text: Lessons Learned
     text_base: lessons learned
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 28
     block_number: 5
     line_number: 18
     span_number: 0
     total_y: 23944.199493408203
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 359.4781494140625, 145.74066162109375, 373.5232849121094)
     idx: 1457
   sector_title: National Society Strengthening
   sector_idx: 1377
@@ -567,52 +826,77 @@
       followed throughout the project '
     text_base: an m e plan should be created from the beginning of the operation and
       kept followed throughout the project
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 28
     block_number: 5
     line_number: 20
     span_number: 0
     total_y: 23968.67950439453
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 385.9034729003906, 557.735595703125, 397.0306396484375)
+    double_fontsize_int: 20
   - index: 1459
     text: 'implementation. '
     text_base: implementation
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 28
     block_number: 5
     line_number: 21
     span_number: 0
-    total_y: 23980.203216552734
+    total_y: 23980.20321655273
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 397.42718505859375, 126.36384582519531, 408.5543518066406)
+    double_fontsize_int: 20
   - index: 1460
     text: 'Photo and video documentation should focus on capturing the actions and
       emotions of the people assisted, as well '
     text_base: photo and video documentation should focus on capturing the actions
       and emotions of the people assisted as well
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 28
     block_number: 5
     line_number: 23
     span_number: 0
     total_y: 24003.131134033203
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 420.3551025390625, 557.7553100585938, 431.4822692871094)
+    double_fontsize_int: 20
   - index: 1461
     text: 'as of the RCRC staff involved in the operations rather than focusing on
       ceremonial activities. '
     text_base: as of the rcrc staff involved in the operations rather than focusing
       on ceremonial activities
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 28
     block_number: 5
     line_number: 24
     span_number: 0
     total_y: 24014.654846191406
+    origin_x: 53.0400390625
+    bbox: (53.0400390625, 431.8788146972656, 464.27679443359375, 443.0059814453125)
+    double_fontsize_int: 20
+  items:
+  - An M&E plan should be created from the beginning of the operation and kept followed
+    throughout the project implementation.
+  - Photo and video documentation should focus on capturing the actions and emotions
+    of the people assisted, as well as of the RCRC staff involved in the operations
+    rather than focusing on ceremonial activities.
 - title:
     text: Lessons Learned
     text_base: lessons learned
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 29
     block_number: 4
     line_number: 18
     span_number: 0
     total_y: 24701.27960205078
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 274.6382751464844, 145.74066162109375, 288.68341064453125)
     idx: 1522
   sector_title: International Disaster Response
   sector_idx: 1462
@@ -623,73 +907,109 @@
       appropriate personnel who are not in the '
     text_base: close consultation with the local red cross staff helps select the
       most appropriate personnel who are not in the
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 4
     line_number: 20
     span_number: 0
     total_y: 24725.75946044922
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 301.0634460449219, 557.7633056640625, 312.19061279296875)
+    double_fontsize_int: 20
   - index: 1524
     text: 'system but able to complete the tasks. Enhancing the involvement of the
       local project management board into the '
     text_base: system but able to complete the tasks enhancing the involvement of
       the local project management board into the
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 4
     line_number: 21
     span_number: 0
     total_y: 24737.283203125
+    origin_x: 53.04000854492188
+    bbox: (53.040008544921875, 312.5871887207031, 557.6668701171875, 323.71435546875)
+    double_fontsize_int: 20
   - index: 1525
     text: 'photoshoot will contribute to the success of the mission due to the knowledge
       about the natural context, social '
     text_base: photoshoot will contribute to the success of the mission due to the
       knowledge about the natural context social
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 4
     line_number: 22
     span_number: 0
     total_y: 24748.806915283203
+    origin_x: 53.04001235961914
+    bbox: (53.04001235961914, 324.11090087890625, 557.6908569335938, 335.2380676269531)
+    double_fontsize_int: 20
   - index: 1526
     text: 'economic and their community interaction skills.  '
     text_base: economic and their community interaction skills
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 4
     line_number: 23
     span_number: 0
     total_y: 24760.330627441406
+    origin_x: 53.04000854492188
+    bbox: (53.040008544921875, 335.6346130371094, 270.36553955078125, 346.76177978515625)
+    double_fontsize_int: 20
   - index: 1527
     text: 'A good M&E system, which includes a logbook and communication records,
       can enable Vietnam Red Cross '
     text_base: a good m e system which includes a logbook and communication records
       can enable vietnam red cross
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 4
     line_number: 25
     span_number: 0
     total_y: 24783.239501953125
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 358.5434875488281, 557.709716796875, 369.670654296875)
+    double_fontsize_int: 20
   - index: 1528
     text: respond more quickly to community needs and make the reporting process easier.
     text_base: respond more quickly to community needs and make the reporting process
       easier
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 4
     line_number: 26
     span_number: 0
-    total_y: 24794.759490966797
+    total_y: 24794.7594909668
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 370.0634765625, 416.5636291503906, 381.1906433105469)
+    double_fontsize_int: 20
+  items:
+  - Close consultation with the local Red Cross staff helps select the most appropriate
+    personnel who are not in the system but able to complete the tasks. Enhancing
+    the involvement of the local project management board into the photoshoot will
+    contribute to the success of the mission due to the knowledge about the natural
+    context, social economic and their community interaction skills.
+  - A good M&E system, which includes a logbook and communication records, can enable
+    Vietnam Red Cross respond more quickly to community needs and make the reporting
+    process easier.
 - title:
     text: Lessons Learned
     text_base: lessons learned
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 29
     block_number: 11
     line_number: 12
     span_number: 0
-    total_y: 25099.919494628906
+    total_y: 25099.919494628903
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 673.2781372070312, 145.74066162109375, 687.3233032226562)
     idx: 1552
   sector_title: Influence others as leading strategic partner
   sector_idx: 1529
@@ -700,63 +1020,94 @@
       it is recommended to have dedicated, '
     text_base: to improve the quality of operational design implementation and monitoring
       it is recommended to have dedicated
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 11
     line_number: 13
     span_number: 0
-    total_y: 25114.079467773438
+    total_y: 25114.07946777344
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 689.3834228515625, 557.7312622070312, 700.5106201171875)
+    double_fontsize_int: 20
   - index: 1554
     text: 'skilled, and experienced human resources carry out CEA-related operations
       in the field. Close consultation and '
     text_base: skilled and experienced human resources carry out cea related operations
       in the field close consultation and
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 11
     line_number: 14
     span_number: 0
     total_y: 25125.4794921875
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 700.783447265625, 557.7236328125, 711.91064453125)
+    double_fontsize_int: 20
   - index: 1555
     text: 'communication will aid a lot in the clarification of PDM questions in KOBO.
       In addition, the KOBO collect '
     text_base: communication will aid a lot in the clarification of pdm questions
       in kobo in addition the kobo collect
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 11
     line_number: 15
     span_number: 0
     total_y: 25137.00323486328
+    origin_x: 53.03997802734375
+    bbox: (53.03997802734375, 712.303466796875, 557.7614135742188, 723.4343872070312)
+    double_fontsize_int: 20
   - index: 1556
     text: 'questionnaire should be consistent and specific. Minimising text and increasing
       multiple choice questions will '
     text_base: questionnaire should be consistent and specific minimising text and
       increasing multiple choice questions will
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 11
     line_number: 16
     span_number: 0
     total_y: 25148.519470214844
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 723.8234252929688, 557.7802124023438, 734.9506225585938)
+    double_fontsize_int: 20
   - index: 1557
     text: reduce the amount of time it takes to clean and clear the data submitted.
     text_base: reduce the amount of time it takes to clean and clear the data submitted
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 29
     block_number: 11
     line_number: 17
     span_number: 0
     total_y: 25160.039489746094
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 735.3434448242188, 373.015380859375, 746.4706420898438)
+    double_fontsize_int: 20
+  items:
+  - To improve the quality of operational design, implementation, and monitoring,
+    it is recommended to have dedicated, skilled, and experienced human resources
+    carry out CEA-related operations in the field. Close consultation and communication
+    will aid a lot in the clarification of PDM questions in KOBO. In addition, the
+    KOBO collect questionnaire should be consistent and specific. Minimising text
+    and increasing multiple choice questions will reduce the amount of time it takes
+    to clean and clear the data submitted.
 - title:
     text: Lessons Learned
     text_base: lessons learned
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 30
     block_number: 8
     line_number: 12
     span_number: 0
-    total_y: 25602.479461669922
+    total_y: 25602.47946166992
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 333.91815185546875, 145.74066162109375, 347.9632873535156)
     idx: 1586
   sector_title: Effective, credible and accountable IFRC
   sector_idx: 1562
@@ -767,20 +1118,32 @@
       through online means and '
     text_base: regular technical support from the ifrc team members despite movement
       restrictions through online means and
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 30
     block_number: 8
     line_number: 13
     span_number: 0
-    total_y: 25616.039459228516
+    total_y: 25616.03945922852
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 349.4234619140625, 557.717529296875, 360.5506286621094)
+    double_fontsize_int: 20
   - index: 1588
     text: physical presence where possible is essential for the successful implementation
       of operations.
     text_base: physical presence where possible is essential for the successful implementation
       of operations
-    style: 'ArialMT, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 30
     block_number: 8
     line_number: 14
     span_number: 0
-    total_y: 25627.559478759766
+    total_y: 25627.55947875977
+    origin_x: 53.040000915527344
+    bbox: (53.040000915527344, 360.9434814453125, 469.2479553222656, 372.0706481933594)
+    double_fontsize_int: 20
+  items:
+  - Regular technical support from the IFRC team members despite movement restrictions
+    through online means and physical presence where possible is essential for the
+    successful implementation of operations.

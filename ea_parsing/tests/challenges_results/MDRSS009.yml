@@ -2,11 +2,14 @@
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 4
     block_number: 4
     line_number: 0
     span_number: 0
     total_y: 3566.659912109375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 188.0181427001953, 105.58162689208984, 202.06329345703125)
     idx: 238
   sector_title: Shelter, Housing and Settlements
   sector_idx: 180
@@ -14,256 +17,378 @@
   content:
   - index: 239
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 5
     line_number: 0
     span_number: 0
     total_y: 3582.6199340820312
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 204.926513671875, 64.22120666503906, 217.12847900390625)
+    double_fontsize_int: 20
   - index: 240
     text: 'The flooding was continuous throughout the response period, making it difficult
       to access the affected '
     text_base: the flooding was continuous throughout the response period making it
       difficult to access the affected
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 5
     line_number: 0
     span_number: 1
     total_y: 3582.6199340820312
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 204.23300170898438, 557.8085327148438, 217.9180450439453)
+    double_fontsize_int: 20
   - index: 241
     text: 'location; this resulted in logistical challenges to move items to the field '
     text_base: location this resulted in logistical challenges to move items to the
       field
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 5
     line_number: 2
     span_number: 0
-    total_y: 3594.0198974609375
+    total_y: 3594.019897460937
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 215.63296508789062, 390.55889892578125, 229.31800842285156)
+    double_fontsize_int: 20
   - index: 242
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 6
     line_number: 0
     span_number: 0
-    total_y: 3606.2598876953125
+    total_y: 3606.259887695313
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 228.56646728515625, 64.22120666503906, 240.7684326171875)
+    double_fontsize_int: 20
   - index: 243
     text: 'As a result of the COVID-19 outbreak, activities were significantly delayed '
     text_base: as a result of the covid 19 outbreak activities were significantly
       delayed
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 6
     line_number: 0
     span_number: 1
-    total_y: 3606.2598876953125
+    total_y: 3606.259887695313
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 227.87295532226562, 406.8788757324219, 241.55799865722656)
+    double_fontsize_int: 20
   - index: 244
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 7
     line_number: 0
     span_number: 0
     total_y: 3618.409912109375
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 240.71649169921875, 64.22120666503906, 252.91845703125)
+    double_fontsize_int: 20
   - index: 245
     text: 'Insecurity in Twic East, Chukudum, Laffon, Mayom, Tonj due to inter-communal
       fighting  '
     text_base: insecurity in twic east chukudum laffon mayom tonj due to inter communal
       fighting
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 7
     line_number: 0
     span_number: 1
     total_y: 3618.409912109375
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 240.02297973632812, 470.7489013671875, 253.70802307128906)
+    double_fontsize_int: 20
   - index: 246
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 8
     line_number: 0
     span_number: 0
     total_y: 3630.64990234375
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 252.95648193359375, 64.22120666503906, 265.158447265625)
+    double_fontsize_int: 20
   - index: 247
     text: "Funds transfer delays \u2013 IFRC to SSRC, HQ to Branch "
     text_base: funds transfer delays ifrc to ssrc hq to branch
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 8
     line_number: 0
     span_number: 1
     total_y: 3630.64990234375
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 252.26296997070312, 318.8988952636719, 265.947998046875)
+    double_fontsize_int: 20
   - index: 248
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 9
     line_number: 0
     span_number: 0
     total_y: 3642.7698974609375
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 265.07647705078125, 64.22120666503906, 277.2784423828125)
+    double_fontsize_int: 20
   - index: 249
     text: 'Weak coordination between HQ and Branch, Branch and local clusters '
     text_base: weak coordination between hq and branch branch and local clusters
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 9
     line_number: 0
     span_number: 1
     total_y: 3642.7698974609375
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 264.3829650878906, 392.8388977050781, 278.0679931640625)
+    double_fontsize_int: 20
   - index: 250
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 10
     line_number: 0
     span_number: 0
-    total_y: 3655.0098876953125
+    total_y: 3655.009887695313
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 277.31646728515625, 64.22120666503906, 289.5184326171875)
+    double_fontsize_int: 20
   - index: 251
     text: 'Significant delays in the launching of the process with the FSP (procurement,
       contract, etc.); mainly due to '
     text_base: significant delays in the launching of the process with the fsp procurement
       contract etc mainly due to
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 10
     line_number: 0
     span_number: 1
-    total_y: 3655.0098876953125
+    total_y: 3655.009887695313
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 276.6229553222656, 557.931640625, 290.3079833984375)
+    double_fontsize_int: 20
   - index: 252
     text: 'contract issues with the existing FSP '
     text_base: contract issues with the existing fsp
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 10
     line_number: 2
     span_number: 0
     total_y: 3666.409912109375
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 288.0229797363281, 243.2988739013672, 301.7080078125)
+    double_fontsize_int: 20
   - index: 253
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 11
     line_number: 0
     span_number: 0
     total_y: 3678.64990234375
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 300.95648193359375, 64.22120666503906, 313.158447265625)
+    double_fontsize_int: 20
   - index: 254
     text: 'The introduction of a new exchange rate created challenges with the FSP
       on agreeing on payment '
     text_base: the introduction of a new exchange rate created challenges with the
       fsp on agreeing on payment
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 11
     line_number: 0
     span_number: 1
     total_y: 3678.64990234375
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 300.2629699707031, 515.8688354492188, 313.947998046875)
+    double_fontsize_int: 20
   - index: 255
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 12
     line_number: 0
     span_number: 0
     total_y: 3690.7698974609375
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 313.07647705078125, 64.22120666503906, 325.2784423828125)
+    double_fontsize_int: 20
   - index: 256
     text: 'Response (distribution) took place significantly later than when assessments
       were done '
     text_base: response distribution took place significantly later than when assessments
       were done
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 12
     line_number: 0
     span_number: 1
     total_y: 3690.7698974609375
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 312.3829650878906, 467.9888916015625, 326.0679931640625)
+    double_fontsize_int: 20
   - index: 257
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 13
     line_number: 0
     span_number: 0
     total_y: 3703.0099182128906
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 325.3164978027344, 64.22120666503906, 337.5184631347656)
+    double_fontsize_int: 20
   - index: 258
     text: 'Agreeing with the community on the targeting criteria; different partners
       in the country apply different '
     text_base: agreeing with the community on the targeting criteria different partners
       in the country apply different
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 13
     line_number: 0
     span_number: 1
     total_y: 3703.0099182128906
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 324.62298583984375, 557.668701171875, 338.3080139160156)
+    double_fontsize_int: 20
   - index: 259
     text: 'approaches '
     text_base: approaches
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 13
     line_number: 2
     span_number: 0
     total_y: 3714.409912109375
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 336.0229797363281, 132.74887084960938, 349.7080078125)
+    double_fontsize_int: 20
   - index: 260
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 14
     line_number: 0
     span_number: 0
     total_y: 3726.64990234375
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 348.95648193359375, 64.22120666503906, 361.158447265625)
+    double_fontsize_int: 20
   - index: 261
     text: 'There is limited time to consult with Branches, technical departments and
       supporting partners '
     text_base: there is limited time to consult with branches technical departments
       and supporting partners
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 14
     line_number: 0
     span_number: 1
     total_y: 3726.64990234375
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 348.2629699707031, 493.0688781738281, 361.947998046875)
+    double_fontsize_int: 20
   - index: 262
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 15
     line_number: 0
     span_number: 0
-    total_y: 3738.7699279785156
+    total_y: 3738.769927978516
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 361.0765075683594, 64.22120666503906, 373.2784729003906)
+    double_fontsize_int: 20
   - index: 263
     text: 'Systems are too rigid that we become an inefficient emergency response
       organization  '
     text_base: systems are too rigid that we become an inefficient emergency response
       organization
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 4
     block_number: 15
     line_number: 0
     span_number: 1
-    total_y: 3738.7699279785156
+    total_y: 3738.769927978516
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 360.38299560546875, 463.0688781738281, 374.0680236816406)
+    double_fontsize_int: 20
+  items:
+  - The flooding was continuous throughout the response period, making it difficult
+    to access the affected location; this resulted in logistical challenges to move
+    items to the field
+  - As a result of the COVID-19 outbreak, activities were significantly delayed
+  - Insecurity in Twic East, Chukudum, Laffon, Mayom, Tonj due to inter-communal fighting
+  - "Funds transfer delays \u2013 IFRC to SSRC, HQ to Branch"
+  - Weak coordination between HQ and Branch, Branch and local clusters
+  - Significant delays in the launching of the process with the FSP (procurement,
+    contract, etc.); mainly due to contract issues with the existing FSP
+  - The introduction of a new exchange rate created challenges with the FSP on agreeing
+    on payment
+  - Response (distribution) took place significantly later than when assessments were
+    done
+  - Agreeing with the community on the targeting criteria; different partners in the
+    country apply different approaches
+  - There is limited time to consult with Branches, technical departments and supporting
+    partners
+  - Systems are too rigid that we become an inefficient emergency response organization
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 5
     block_number: 5
     line_number: 0
     span_number: 0
     total_y: 4459.969909667969
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 239.4081573486328, 105.58162689208984, 253.45330810546875)
     idx: 329
   sector_title: Health and Care
   sector_idx: 286
@@ -271,49 +396,71 @@
   content:
   - index: 330
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 6
     line_number: 0
     span_number: 0
     total_y: 4475.809875488281
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 256.19647216796875, 64.22120666503906, 268.3984375)
+    double_fontsize_int: 20
   - index: 331
     text: 'The appeal was underfunded, resulting in activities being reprioritised '
     text_base: the appeal was underfunded resulting in activities being reprioritised
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 6
     line_number: 0
     span_number: 1
     total_y: 4475.809875488281
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 255.50296020507812, 387.3188781738281, 269.18798828125)
+    double_fontsize_int: 20
   - index: 332
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 7
     line_number: 0
     span_number: 0
     total_y: 4487.929870605469
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 268.31646728515625, 64.22120666503906, 280.5184326171875)
+    double_fontsize_int: 20
   - index: 333
     text: 'Low uptake and competing priorities from the department '
     text_base: low uptake and competing priorities from the department
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 5
     block_number: 7
     line_number: 0
     span_number: 1
     total_y: 4487.929870605469
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 267.6229553222656, 333.43890380859375, 281.3079833984375)
+    double_fontsize_int: 20
+  items:
+  - The appeal was underfunded, resulting in activities being reprioritised
+  - Low uptake and competing priorities from the department
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 6
     block_number: 4
     line_number: 0
     span_number: 0
     total_y: 5262.0198974609375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 199.5381622314453, 105.58162689208984, 213.58331298828125)
     idx: 412
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 340
@@ -325,29 +472,43 @@
     text_base: the continued flooding affected the speed of implementation especially
       on water point repairs that were flooded and
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 6
     block_number: 5
     line_number: 0
     span_number: 0
     total_y: 5277.139892578125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 214.91299438476562, 557.2892456054688, 228.59803771972656)
+    double_fontsize_int: 20
   - index: 414
     text: 'rendered unusable '
     text_base: rendered unusable
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 6
     block_number: 5
     line_number: 1
     span_number: 0
     total_y: 5288.659851074219
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 226.43295288085938, 127.8288803100586, 240.1179962158203)
+    double_fontsize_int: 20
+  items:
+  - The continued flooding affected the speed of implementation especially on water
+    point repairs that were flooded and rendered unusable
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 6
     block_number: 17
     line_number: 0
     span_number: 0
     total_y: 5721.819885253906
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 659.338134765625, 105.58162689208984, 673.38330078125)
     idx: 453
   sector_title: Protection, Gender and Inclusion
   sector_idx: 418
@@ -355,49 +516,71 @@
   content:
   - index: 454
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 6
     block_number: 19
     line_number: 0
     span_number: 0
     total_y: 5749.179870605469
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 687.646484375, 64.22120666503906, 699.8484497070312)
+    double_fontsize_int: 20
   - index: 455
     text: 'Covid 19 Protocols limited training number of participants '
     text_base: covid 19 protocols limited training number of participants
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 6
     block_number: 19
     line_number: 0
     span_number: 1
     total_y: 5749.179870605469
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 686.9530029296875, 333.43890380859375, 700.6380004882812)
+    double_fontsize_int: 20
   - index: 456
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 6
     block_number: 20
     line_number: 0
     span_number: 0
     total_y: 5761.299865722656
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 699.7664794921875, 64.22120666503906, 711.9684448242188)
+    double_fontsize_int: 20
   - index: 457
     text: 'Insecurity in Tonj North. '
     text_base: insecurity in tonj north
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 6
     block_number: 20
     line_number: 0
     span_number: 1
     total_y: 5761.299865722656
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 699.072998046875, 186.02886962890625, 712.7579956054688)
+    double_fontsize_int: 20
+  items:
+  - Covid 19 Protocols limited training number of participants
+  - Insecurity in Tonj North.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 7
     block_number: 29
     line_number: 0
     span_number: 0
     total_y: 6265.60986328125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 361.2081604003906, 105.58162689208984, 375.2532958984375)
     idx: 539
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 511
@@ -409,20 +592,29 @@
     text_base: the continuous flooding made it difficult to implement the drr activities
       timely
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 7
     block_number: 30
     line_number: 0
     span_number: 0
     total_y: 6280.7298583984375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 376.5829772949219, 391.3988952636719, 390.26800537109375)
+    double_fontsize_int: 20
+  items:
+  - 'The continuous flooding made it difficult to implement the DRR activities timely '
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 7
     block_number: 14
     line_number: 6
     span_number: 0
     total_y: 6603.939880371094
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 699.5381469726562, 105.58162689208984, 713.5833129882812)
     idx: 502
   sector_title: National Society Strengthening
   sector_idx: 469
@@ -430,50 +622,75 @@
   content:
   - index: 503
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 15
     line_number: 0
     span_number: 0
     total_y: 6619.799865722656
+    origin_x: 62.63999938964844
+    bbox: (62.63999938964844, 716.3464965820312, 67.22120666503906, 728.5484619140625)
+    double_fontsize_int: 20
   - index: 504
     text: 'Weak coordination between HQ and Branch '
     text_base: weak coordination between hq and branch
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 15
     line_number: 0
     span_number: 1
     total_y: 6619.799865722656
+    origin_x: 80.66400146484375
+    bbox: (80.66400146484375, 715.6529541015625, 278.5788879394531, 729.3380126953125)
+    double_fontsize_int: 20
   - index: 505
     text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 16
     line_number: 0
     span_number: 0
     total_y: 6631.919860839844
+    origin_x: 62.63999938964844
+    bbox: (62.63999938964844, 728.4664916992188, 67.22120666503906, 740.66845703125)
+    double_fontsize_int: 20
   - index: 506
     text: 'Significant delays in the launching of the process with the FSP (procurement,
       contract, etc.) impacted '
     text_base: significant delays in the launching of the process with the fsp procurement
       contract etc impacted
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 16
     line_number: 0
     span_number: 1
     total_y: 6631.919860839844
+    origin_x: 80.66400146484375
+    bbox: (80.66400146484375, 727.77294921875, 557.399658203125, 741.4580078125)
+    double_fontsize_int: 20
   - index: 507
     text: negatively on the timely execution of other activities like post-distribution
       monitoring.
     text_base: negatively on the timely execution of other activities like post distribution
       monitoring
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 16
     line_number: 2
     span_number: 0
     total_y: 6643.319885253906
+    origin_x: 80.66400146484375
+    bbox: (80.66400146484375, 739.1729736328125, 451.7864990234375, 752.8580322265625)
+    double_fontsize_int: 20
+  items:
+  - Weak coordination between HQ and Branch
+  - Significant delays in the launching of the process with the FSP (procurement,
+    contract, etc.) impacted negatively on the timely execution of other activities
+    like post-distribution monitoring.

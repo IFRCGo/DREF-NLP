@@ -2,11 +2,14 @@
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 8
     block_number: 13
     line_number: 11
-    span_number: 0
+    span_number: 0.0
     total_y: 7373.829833984375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 627.5081176757812, 105.58162689208984, 641.5532836914062)
     idx: 818
   sector_title: Shelter, Housing and Settlements
   sector_idx: 538
@@ -15,207 +18,311 @@
   - index: 823
     text: 'For relief one of the main challenges was the wide '
     text_base: for relief one of the main challenges was the wide
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 0
-    span_number: 0
+    span_number: 0.0
     total_y: 7635.119812011719
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 47.132965087890625, 300.2537841796875, 60.8180046081543)
+    double_fontsize_int: 20
   - index: 824
     text: 'geographical spread of the response and in some cases '
     text_base: geographical spread of the response and in some cases
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 1
-    span_number: 0
+    span_number: 0.0
     total_y: 7646.639831542969
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 58.652984619140625, 300.22320556640625, 72.33802795410156)
+    double_fontsize_int: 20
   - index: 825
     text: 'the areas were very difficult to access.    '
     text_base: the areas were very difficult to access
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 2
-    span_number: 0
+    span_number: 0.0
     total_y: 7658.159851074219
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 70.17300415039062, 222.2988739013672, 83.85804748535156)
+    double_fontsize_int: 20
   - index: 826
     text: 'For shelter in Zamboanga Del Norte during design stage '
     text_base: for shelter in zamboanga del norte during design stage
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 4
-    span_number: 0
+    span_number: 0.0
     total_y: 7681.2198486328125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 93.23300170898438, 300.29888916015625, 106.91804504394531)
+    double_fontsize_int: 20
   - index: 827
     text: 'of the recovery project the local government allocated their '
     text_base: of the recovery project the local government allocated their
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 5
-    span_number: 0
+    span_number: 0.0
     total_y: 7692.739807128906
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 104.75296020507812, 300.29888916015625, 118.43800354003906)
+    double_fontsize_int: 20
   - index: 828
     text: 'shelter assistance, hence PRC had to change their '
     text_base: shelter assistance hence prc had to change their
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 6
-    span_number: 0
+    span_number: 0.0
     total_y: 7704.139831542969
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 116.15298461914062, 300.2401123046875, 129.83802795410156)
+    double_fontsize_int: 20
   - index: 829
     text: 'response from providing cash support to instead providing '
     text_base: response from providing cash support to instead providing
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 7
-    span_number: 0
+    span_number: 0.0
     total_y: 7715.659851074219
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 127.67300415039062, 299.992431640625, 141.35804748535156)
+    double_fontsize_int: 20
   - index: 830
     text: 'software support to complement the governments '
     text_base: software support to complement the governments
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 8
-    span_number: 0
-    total_y: 7727.1798095703125
+    span_number: 0.0
+    total_y: 7727.179809570312
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 139.19296264648438, 300.0124206542969, 152.8780059814453)
+    double_fontsize_int: 20
   - index: 831
     text: 'activities.  '
     text_base: activities
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 9
-    span_number: 0
-    total_y: 7738.6998291015625
+    span_number: 0.0
+    total_y: 7738.699829101562
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 150.71298217773438, 88.3528823852539, 164.3980255126953)
+    double_fontsize_int: 20
   - index: 832
     text: 'In shelter recovery in Bukidnon in the first few weeks of the '
     text_base: in shelter recovery in bukidnon in the first few weeks of the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 11
-    span_number: 0
+    span_number: 0.0
     total_y: 7761.619812011719
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 173.63296508789062, 300.2725830078125, 187.31800842285156)
+    double_fontsize_int: 20
   - index: 833
     text: 'shelter project, progress of shelter construction was slow '
     text_base: shelter project progress of shelter construction was slow
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 12
-    span_number: 0
+    span_number: 0.0
     total_y: 7773.139831542969
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 185.15298461914062, 300.27740478515625, 198.83802795410156)
+    double_fontsize_int: 20
   - index: 834
     text: 'due to the limited number of carpenters. The solution was '
     text_base: due to the limited number of carpenters the solution was
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 13
-    span_number: 0
+    span_number: 0.0
     total_y: 7784.659851074219
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 196.67300415039062, 300.216552734375, 210.35804748535156)
+    double_fontsize_int: 20
   - index: 835
     text: 'found during coordination, when the local government unit '
     text_base: found during coordination when the local government unit
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 14
-    span_number: 0
-    total_y: 7796.1798095703125
+    span_number: 0.0
+    total_y: 7796.179809570312
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 208.19296264648438, 300.1915283203125, 221.8780059814453)
+    double_fontsize_int: 20
   - index: 836
     text: 'offered to outsource carpenters from neighbouring '
     text_base: offered to outsource carpenters from neighbouring
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 15
-    span_number: 0
-    total_y: 7807.6998291015625
+    span_number: 0.0
+    total_y: 7807.699829101562
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 219.71298217773438, 299.9725341796875, 233.3980255126953)
+    double_fontsize_int: 20
   - index: 837
     text: 'barangays.  '
     text_base: barangays
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 16
-    span_number: 0
+    span_number: 0.0
     total_y: 7819.2198486328125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 231.23300170898438, 96.63288116455078, 244.9180450439453)
+    double_fontsize_int: 20
   - index: 838
     text: 'The resettlement sites were very far from the main market '
     text_base: the resettlement sites were very far from the main market
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 18
-    span_number: 0
+    span_number: 0.0
     total_y: 7842.139831542969
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 254.15298461914062, 300.1383361816406, 267.8380126953125)
+    double_fontsize_int: 20
   - index: 839
     text: 'making access difficult. Beneficiaries hauled their shelter materials through
       a raft made of banana stems. Hauling '
     text_base: making access difficult beneficiaries hauled their shelter materials
       through a raft made of banana stems hauling
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 19
-    span_number: 0
+    span_number: 0.0
     total_y: 7853.659851074219
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 265.6730041503906, 560.0170288085938, 279.3580322265625)
+    double_fontsize_int: 20
   - index: 840
     text: 'materials often around 4-6 hours from the main drop off int by road to
       the resettlement area - depending on the water '
     text_base: materials often around 4 6 hours from the main drop off int by road
       to the resettlement area depending on the water
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 20
-    span_number: 0
+    span_number: 0.0
     total_y: 7865.2098388671875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 277.2229919433594, 559.9003295898438, 290.90802001953125)
+    double_fontsize_int: 20
   - index: 841
     text: 'level from the river. '
     text_base: level from the river
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 21
-    span_number: 0
-    total_y: 7876.7298583984375
+    span_number: 0.0
+    total_y: 7876.729858398437
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 288.7430114746094, 129.50888061523438, 302.42803955078125)
+    double_fontsize_int: 20
   - index: 842
     text: 'Approval for the beneficiaries to source lumber took some time but with
       the support of the Local Government and '
     text_base: approval for the beneficiaries to source lumber took some time but
       with the support of the local government and
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 23
-    span_number: 0
+    span_number: 0.0
     total_y: 7899.649841308594
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 311.6629943847656, 560.0283813476562, 325.3480224609375)
+    double_fontsize_int: 20
   - index: 843
     text: 'BaReCom approval was given by the DENR. '
     text_base: barecom approval was given by the denr
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 9
     block_number: 1
     line_number: 24
-    span_number: 0
+    span_number: 0.0
     total_y: 7911.169830322266
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 323.1829833984375, 242.8030242919922, 336.8680114746094)
+    double_fontsize_int: 20
+  items:
+  - For relief one of the main challenges was the wide geographical spread of the
+    response and in some cases the areas were very difficult to access.
+  - For shelter in Zamboanga Del Norte during design stage of the recovery project
+    the local government allocated their shelter assistance, hence PRC had to change
+    their response from providing cash support to instead providing software support
+    to complement the governments activities.
+  - In shelter recovery in Bukidnon in the first few weeks of the shelter project,
+    progress of shelter construction was slow due to the limited number of carpenters.
+    The solution was found during coordination, when the local government unit offered
+    to outsource carpenters from neighbouring barangays.
+  - The resettlement sites were very far from the main market making access difficult.
+    Beneficiaries hauled their shelter materials through a raft made of banana stems.
+    Hauling materials often around 4-6 hours from the main drop off int by road to
+    the resettlement area - depending on the water level from the river.
+  - Approval for the beneficiaries to source lumber took some time but with the support
+    of the Local Government and BaReCom approval was given by the DENR.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 13
     block_number: 1
     line_number: 18
-    span_number: 0
-    total_y: 11211.979736328125
+    span_number: 0.0
+    total_y: 11211.979736328123
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 256.0581359863281, 105.58162689208984, 270.103271484375)
     idx: 1275
   sector_title: Livelihoods
   sector_idx: 1003
@@ -227,73 +334,109 @@
     text_base: at first it was not easy to establish an association as many of the
       association s officers did not have identification
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 13
     block_number: 1
     line_number: 19
-    span_number: 0
+    span_number: 0.0
     total_y: 11226.619750976562
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 270.9529724121094, 552.2066650390625, 284.63800048828125)
+    double_fontsize_int: 20
   - index: 1277
     text: 'and documents needed to have the accreditation in DOLE and requirements
       to open a bank account.  To fill this '
     text_base: and documents needed to have the accreditation in dole and requirements
       to open a bank account to fill this
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 1
     line_number: 20
-    span_number: 0
+    span_number: 0.0
     total_y: 11238.169738769531
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 282.5029602050781, 552.3040771484375, 296.18798828125)
+    double_fontsize_int: 20
   - index: 1278
     text: "gap, PRC collaborated with the relevant government offices, such as Municipal\
       \ Agriculture\u2019s Office, DOLE and DTI "
     text_base: gap prc collaborated with the relevant government offices such as municipal
       agriculture s office dole and dti
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 1
     line_number: 21
-    span_number: 0
+    span_number: 0.0
     total_y: 11249.569763183594
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 295.5934753417969, 551.7000122070312, 306.72064208984375)
+    double_fontsize_int: 20
   - index: 1279
     text: 'to support documentation and processing to establish the association. Further,
       members of the association were '
     text_base: to support documentation and processing to establish the association
       further members of the association were
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 1
     line_number: 22
-    span_number: 0
+    span_number: 0.0
     total_y: 11261.089782714844
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 305.4230041503906, 551.7825927734375, 319.1080322265625)
+    double_fontsize_int: 20
   - index: 1280
     text: 'provided with technical trainings on financial literacy, and leadership
       and management training to ensure '
     text_base: provided with technical trainings on financial literacy and leadership
       and management training to ensure
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 1
     line_number: 23
-    span_number: 0
+    span_number: 0.0
     total_y: 11272.609741210938
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 316.9429626464844, 552.3168334960938, 330.62799072265625)
+    double_fontsize_int: 20
   - index: 1281
     text: 'sustainability of the programmes.  '
     text_base: sustainability of the programmes
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 1
     line_number: 24
-    span_number: 0
+    span_number: 0.0
     total_y: 11284.129760742188
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 328.4629821777344, 193.94886779785156, 342.14801025390625)
+    double_fontsize_int: 20
+  items:
+  - "At first, it was not easy to establish an association as many of the association\u2019\
+    s officers did not have identification and documents needed to have the accreditation\
+    \ in DOLE and requirements to open a bank account.  To fill this gap, PRC collaborated\
+    \ with the relevant government offices, such as Municipal Agriculture\u2019s Office,\
+    \ DOLE and DTI to support documentation and processing to establish the association.\
+    \ Further, members of the association were provided with technical trainings on\
+    \ financial literacy, and leadership and management training to ensure sustainability\
+    \ of the programmes."
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 15
     block_number: 11
     line_number: 11
-    span_number: 0
+    span_number: 0.0
     total_y: 12938.569702148438
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 298.8081359863281, 105.58162689208984, 312.853271484375)
     idx: 1546
   sector_title: Health and Care
   sector_idx: 1424
@@ -305,29 +448,43 @@
     text_base: for relief one of the main challenges was the wide geographical spread
       of the response and in some cases the
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 15
     block_number: 11
     line_number: 12
-    span_number: 0
-    total_y: 12953.209716796875
+    span_number: 0.0
+    total_y: 12953.209716796877
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 313.7029724121094, 551.7114868164062, 327.38800048828125)
+    double_fontsize_int: 20
   - index: 1548
     text: 'areas were very difficult to access.    '
     text_base: areas were very difficult to access
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 15
     block_number: 11
     line_number: 13
-    span_number: 0
-    total_y: 12964.729736328125
+    span_number: 0.0
+    total_y: 12964.729736328123
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 325.2229919433594, 205.61888122558594, 338.90802001953125)
+    double_fontsize_int: 20
+  items:
+  - For relief one of the main challenges was the wide geographical spread of the
+    response and in some cases the areas were very difficult to access.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 18
     block_number: 1
     line_number: 11
-    span_number: 0
+    span_number: 0.0
     total_y: 15341.059692382812
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 175.5381622314453, 105.58162689208984, 189.58331298828125)
     idx: 1850
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 1554
@@ -339,93 +496,140 @@
     text_base: one of the main challenges was the wide geographical spread of the
       response and in some cases the areas were
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 18
     block_number: 1
     line_number: 12
-    span_number: 0
+    span_number: 0.0
     total_y: 15355.699645996094
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 190.43295288085938, 557.8139038085938, 204.1179962158203)
+    double_fontsize_int: 20
   - index: 1852
     text: 'very difficult to access. This was particularly the case for recovery WASH
       hardware and getting the construction '
     text_base: very difficult to access this was particularly the case for recovery
       wash hardware and getting the construction
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 1
     line_number: 13
-    span_number: 0
+    span_number: 0.0
     total_y: 15367.219665527344
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 201.95297241210938, 557.3787841796875, 215.6380157470703)
+    double_fontsize_int: 20
   - index: 1853
     text: 'materials to the communities. As such where possible standard designs were
       amended to reduce the need to move '
     text_base: materials to the communities as such where possible standard designs
       were amended to reduce the need to move
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 1
     line_number: 14
-    span_number: 0
+    span_number: 0.0
     total_y: 15378.739685058594
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 213.47299194335938, 557.7122802734375, 227.1580352783203)
+    double_fontsize_int: 20
   - index: 1854
     text: 'heavy construction materials.     '
     text_base: heavy construction materials
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 1
     line_number: 15
-    span_number: 0
+    span_number: 0.0
     total_y: 15390.259704589844
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 224.99301147460938, 184.94886779785156, 238.6780548095703)
+    double_fontsize_int: 20
   - index: 1855
     text: 'In Dingongan, the identified location for the construction of water system
       was privately-owned. Since the owner was '
     text_base: in dingongan the identified location for the construction of water
       system was privately owned since the owner was
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 1
     line_number: 17
-    span_number: 0
+    span_number: 0.0
     total_y: 15413.1796875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 247.91299438476562, 552.208984375, 261.5980224609375)
+    double_fontsize_int: 20
   - index: 1856
     text: 'not always around, dialogue to ask the permission of the owner took longer.
       This has caused a little delay on the '
     text_base: not always around dialogue to ask the permission of the owner took
       longer this has caused a little delay on the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 1
     line_number: 18
-    span_number: 0
+    span_number: 0.0
     total_y: 15424.699645996094
+    origin_x: 42.720001220703125
+    bbox: (42.720001220703125, 259.4329528808594, 551.5864868164062, 273.11798095703125)
+    double_fontsize_int: 20
   - index: 1857
     text: 'construction. Following negotiation with the owner, the beneficiaries through
       the chieftain and BaReCom, was able '
     text_base: construction following negotiation with the owner the beneficiaries
       through the chieftain and barecom was able
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 18
     block_number: 1
     line_number: 19
-    span_number: 0
+    span_number: 0.0
     total_y: 15436.219665527344
+    origin_x: 42.720001220703125
+    bbox: (42.720001220703125, 270.9529724121094, 552.0421752929688, 284.63800048828125)
+    double_fontsize_int: 20
   - index: 1858
     text: 'to secure a certificate, that they were allowed to do the construction.   '
     text_base: to secure a certificate that they were allowed to do the construction
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 18
     block_number: 1
     line_number: 20
-    span_number: 0
+    span_number: 0.0
     total_y: 15447.769653320312
+    origin_x: 42.720001220703125
+    bbox: (42.720001220703125, 282.5029602050781, 352.5188903808594, 296.18798828125)
+    double_fontsize_int: 20
+  items:
+  - One of the main challenges was the wide geographical spread of the response and
+    in some cases the areas were very difficult to access. This was particularly the
+    case for recovery WASH hardware and getting the construction materials to the
+    communities. As such where possible standard designs were amended to reduce the
+    need to move heavy construction materials.
+  - In Dingongan, the identified location for the construction of water system was
+    privately-owned. Since the owner was not always around, dialogue to ask the permission
+    of the owner took longer. This has caused a little delay on the construction.
+    Following negotiation with the owner, the beneficiaries through the chieftain
+    and BaReCom, was able to secure a certificate, that they were allowed to do the
+    construction.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 20
     block_number: 4
     line_number: 1
-    span_number: 0
+    span_number: 0.0
     total_y: 16956.61962890625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 107.25813293457031, 105.58162689208984, 121.30329132080078)
     idx: 1990
   sector_title: Protection, Gender and Inclusion
   sector_idx: 1862
@@ -437,29 +641,43 @@
     text_base: one of the main challenges was the wide geographical spread of the
       response and in some cases the areas were
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 20
     block_number: 4
     line_number: 2
-    span_number: 0
+    span_number: 0.0
     total_y: 16971.259643554688
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 122.15298461914062, 551.5621337890625, 135.83802795410156)
+    double_fontsize_int: 20
   - index: 1992
     text: 'very difficult to access.   '
     text_base: very difficult to access
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 20
     block_number: 4
     line_number: 3
-    span_number: 0
+    span_number: 0.0
     total_y: 16982.779663085938
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 133.67300415039062, 150.62887573242188, 147.35804748535156)
+    double_fontsize_int: 20
+  items:
+  - One of the main challenges was the wide geographical spread of the response and
+    in some cases the areas were very difficult to access.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 21
     block_number: 24
     line_number: 0
-    span_number: 0
+    span_number: 0.0
     total_y: 17986.729614257812
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 295.4481506347656, 105.58162689208984, 309.4932861328125)
     idx: 2183
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 2020
@@ -471,38 +689,56 @@
     text_base: one of the main challenges was the wide geographical spread of the
       response and in some cases the areas were
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 21
     block_number: 24
     line_number: 1
-    span_number: 0
+    span_number: 0.0
     total_y: 18001.249633789062
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 310.2229919433594, 551.8421020507812, 323.90802001953125)
+    double_fontsize_int: 20
   - index: 2185
     text: very difficult to access
     text_base: very difficult to access
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 21
     block_number: 24
     line_number: 2
-    span_number: 0
+    span_number: 0.0
     total_y: 18012.769622802734
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 321.74298095703125, 139.28785705566406, 335.4280090332031)
+    double_fontsize_int: 20
   - index: 2186
     text: '.  '
     text_base: ''
     style: 'italicmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 21
     block_number: 24
     line_number: 2
-    span_number: 1
+    span_number: 1.0
     total_y: 18012.769622802734
+    origin_x: 139.4600067138672
+    bbox: (139.4600067138672, 321.79278564453125, 147.74887084960938, 335.27862548828125)
+    double_fontsize_int: 20
+  items:
+  - One of the main challenges was the wide geographical spread of the response and
+    in some cases the areas were very difficult to access .
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 23
     block_number: 3
     line_number: 27
-    span_number: 0
-    total_y: 19972.749572753906
+    span_number: 0.0
+    total_y: 19972.749572753903
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 597.6281127929688, 105.58162689208984, 611.6732788085938)
     idx: 2303
   sector_title: International Disaster Response
   sector_idx: 2208
@@ -514,29 +750,43 @@
     text_base: one of the main challenges was the wide geographical spread of the
       response and in some cases the areas were
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 23
     block_number: 3
     line_number: 28
-    span_number: 0
+    span_number: 0.0
     total_y: 19987.389587402344
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 612.52294921875, 551.5621337890625, 626.2080078125)
+    double_fontsize_int: 20
   - index: 2305
     text: 'very difficult to access.   '
     text_base: very difficult to access
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 23
     block_number: 3
     line_number: 29
-    span_number: 0
+    span_number: 0.0
     total_y: 19998.789611816406
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 623.9229736328125, 150.62887573242188, 637.6080322265625)
+    double_fontsize_int: 20
+  items:
+  - One of the main challenges was the wide geographical spread of the response and
+    in some cases the areas were very difficult to access.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 24
     block_number: 19
     line_number: 12
-    span_number: 0
-    total_y: 20860.749572753906
+    span_number: 0.0
+    total_y: 20860.749572753903
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 643.7081298828125, 105.58162689208984, 657.7532958984375)
     idx: 2483
   sector_title: Influence others as leading strategic partner
   sector_idx: 2379
@@ -548,29 +798,44 @@
     text_base: funding was a challenge and the appeal had to be revised to reflect
       the low support to the original emergency
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 24
     block_number: 19
     line_number: 13
-    span_number: 0
+    span_number: 0.0
     total_y: 20875.419555664062
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 658.6329345703125, 551.7216796875, 672.3179931640625)
+    double_fontsize_int: 20
   - index: 2485
     text: 'Appeal. The uncertainly of funding puts an added complexity to planning.   '
     text_base: appeal the uncertainly of funding puts an added complexity to planning
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 24
     block_number: 19
     line_number: 14
-    span_number: 0
+    span_number: 0.0
     total_y: 20886.939575195312
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 670.1529541015625, 372.55889892578125, 683.8380126953125)
+    double_fontsize_int: 20
+  items:
+  - Funding was a challenge and the appeal had to be revised to reflect the low support
+    to the original Emergency Appeal. The uncertainly of funding puts an added complexity
+    to planning.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 25
     block_number: 17
     line_number: 15
-    span_number: 0
+    span_number: 0.0
     total_y: 21761.139587402344
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 702.1781616210938, 105.58162689208984, 716.2233276367188)
     idx: 2564
   sector_title: Effective, credible and accountable IFRC
   sector_idx: 2517
@@ -582,39 +847,62 @@
     text_base: the team worked in gida they need to travel several hours on foot cross
       rivers and mountains to do regular
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 25
     block_number: 17
     line_number: 16
-    span_number: 0
-    total_y: 21775.659545898438
+    span_number: 0.0
+    total_y: 21775.65954589844
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 716.9530029296875, 551.818359375, 730.6380004882812)
+    double_fontsize_int: 20
   - index: 2566
     text: 'monitoring. Due to the fatigue and risks of travelling every day, PRC staff
       and volunteers opted to stay for a week in '
     text_base: monitoring due to the fatigue and risks of travelling every day prc
       staff and volunteers opted to stay for a week in
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 25
     block_number: 17
     line_number: 17
-    span_number: 0
+    span_number: 0.0
     total_y: 21787.179565429688
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 728.4730224609375, 552.1455078125, 742.1580200195312)
+    double_fontsize_int: 20
   - index: 2567
     text: 'the areas. The cohesion built by constant visit of the team created a safer
       environment among staff and volunteers, '
     text_base: the areas the cohesion built by constant visit of the team created
       a safer environment among staff and volunteers
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 25
     block_number: 17
     line_number: 18
-    span_number: 0
+    span_number: 0.0
     total_y: 21798.695556640625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 739.989013671875, 552.3487548828125, 753.6740112304688)
+    double_fontsize_int: 20
   - index: 2568
     text: 'where community people welcomed the team as member of their community.  '
     text_base: where community people welcomed the team as member of their community
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 25
     block_number: 17
     line_number: 19
-    span_number: 0
+    span_number: 0.0
     total_y: 21810.215576171875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 751.509033203125, 388.03887939453125, 765.1940307617188)
+    double_fontsize_int: 20
+  items:
+  - The team worked in GIDA. They need to travel several hours on foot, cross rivers
+    and mountains to do regular monitoring. Due to the fatigue and risks of travelling
+    every day, PRC staff and volunteers opted to stay for a week in the areas. The
+    cohesion built by constant visit of the team created a safer environment among
+    staff and volunteers, where community people welcomed the team as member of their
+    community.

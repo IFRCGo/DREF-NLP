@@ -2,11 +2,14 @@
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 7
     block_number: 10
     line_number: 29
     span_number: 0
     total_y: 6539.229797363281
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 634.292724609375, 97.8328857421875, 648.0076904296875)
     idx: 397
   sector_title: Shelter, Housing and Settlements
   sector_idx: 349
@@ -18,60 +21,90 @@
     text_base: the movement of people and materials between antigua and barbuda was
       a reoccurring issue for the operation
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 7
     block_number: 10
     line_number: 30
     span_number: 0
     total_y: 6553.269836425781
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 648.282958984375, 550.2575073242188, 661.968017578125)
+    double_fontsize_int: 20
   - index: 399
     text: 'Planned activities and interventions were delayed due to lack of space
       or logistical options for moving people and '
     text_base: planned activities and interventions were delayed due to lack of space
       or logistical options for moving people and
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 10
     line_number: 31
     span_number: 0
     total_y: 6564.6998291015625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 659.7130126953125, 550.7051391601562, 673.3980102539062)
+    double_fontsize_int: 20
   - index: 400
     text: 'items to/from Barbuda. '
     text_base: items to from barbuda
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 10
     line_number: 32
     span_number: 0
     total_y: 6576.099792480469
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 671.1129150390625, 145.58888244628906, 684.7979736328125)
+    double_fontsize_int: 20
   - index: 401
     text: 'Another challenge was the extremely slow rate of Barbudans returning to
       Barbuda. It was difficult to support the '
     text_base: another challenge was the extremely slow rate of barbudans returning
       to barbuda it was difficult to support the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 10
     line_number: 34
     span_number: 0
     total_y: 6598.779846191406
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 693.79296875, 550.9088745117188, 707.47802734375)
+    double_fontsize_int: 20
   - index: 402
     text: 'recovery efforts without the community present on the island.  '
     text_base: recovery efforts without the community present on the island
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 10
     line_number: 35
     span_number: 0
     total_y: 6610.1798095703125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 705.1929931640625, 316.85888671875, 718.8779907226562)
+    double_fontsize_int: 20
+  items:
+  - The movement of people and materials between Antigua and Barbuda was a reoccurring
+    issue for the operation. Planned activities and interventions were delayed due
+    to lack of space or logistical options for moving people and items to/from Barbuda.
+  - Another challenge was the extremely slow rate of Barbudans returning to Barbuda.
+    It was difficult to support the recovery efforts without the community present
+    on the island.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 10
     block_number: 3
     line_number: 4
     span_number: 0
     total_y: 8551.219787597656
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 120.52278900146484, 97.8328857421875, 134.2377166748047)
     idx: 588
   sector_title: Livelihoods
   sector_idx: 418
@@ -83,62 +116,93 @@
     text_base: there were no banking facilities on barbuda at the beginning of the
       response the absence of a bank or atm also
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 10
     block_number: 3
     line_number: 5
     span_number: 0
     total_y: 8565.259765625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 134.51296997070312, 550.6881103515625, 148.19801330566406)
+    double_fontsize_int: 20
   - index: 590
     text: 'prevented planned cash transfer programme with debit cards. Only in February
       of 2018 was an ATM placed on the '
     text_base: prevented planned cash transfer programme with debit cards only in
       february of 2018 was an atm placed on the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 3
     line_number: 6
     span_number: 0
     total_y: 8576.77978515625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 146.03298950195312, 550.877197265625, 159.71803283691406)
+    double_fontsize_int: 20
   - index: 591
     text: 'island for a planned CTP activity for returning households. Therefore,
       ABRC ensured coordination with the sole '
     text_base: island for a planned ctp activity for returning households therefore
       abrc ensured coordination with the sole
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 3
     line_number: 7
     span_number: 0
     total_y: 8588.2998046875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 157.55300903320312, 550.7536010742188, 171.23805236816406)
+    double_fontsize_int: 20
   - index: 592
     text: 'bank on Barbuda was critical. Given the size of the operation, ensuring
       the ATM always had necessary funds was '
     text_base: bank on barbuda was critical given the size of the operation ensuring
       the atm always had necessary funds was
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 3
     line_number: 8
     span_number: 0
     total_y: 8599.819763183594
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 169.07296752929688, 550.4364624023438, 182.7580108642578)
+    double_fontsize_int: 20
   - index: 593
     text: 'critical to the smooth implementation of the support. '
     text_base: critical to the smooth implementation of the support
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 3
     line_number: 9
     span_number: 0
     total_y: 8611.339782714844
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 180.59298706054688, 273.53887939453125, 194.2780303955078)
+    double_fontsize_int: 20
+  items:
+  - There were no banking facilities on Barbuda at the beginning of the response.
+    The absence of a bank or ATM also prevented planned cash transfer programme with
+    debit cards. Only in February of 2018 was an ATM placed on the island for a planned
+    CTP activity for returning households. Therefore, ABRC ensured coordination with
+    the sole bank on Barbuda was critical. Given the size of the operation, ensuring
+    the ATM always had necessary funds was critical to the smooth implementation of
+    the support.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 12
     block_number: 5
     line_number: 3
     span_number: 0
-    total_y: 10400.209716796875
+    total_y: 10400.209716796877
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 285.6727600097656, 97.8328857421875, 299.3876647949219)
     idx: 717
   sector_title: Health and Care
   sector_idx: 601
@@ -150,42 +214,62 @@
     text_base: while the pss activities were effective the burnt out levels of red
       cross staff and volunteers were high due to the
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 12
     block_number: 5
     line_number: 4
     span_number: 0
     total_y: 10414.48974609375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 299.9029846191406, 550.8986206054688, 313.5880126953125)
+    double_fontsize_int: 20
   - index: 719
     text: 'tensions and amount of duties of the response phase. The National Society
       tried to put practices of staff appreciation '
     text_base: tensions and amount of duties of the response phase the national society
       tried to put practices of staff appreciation
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 5
     line_number: 5
     span_number: 0
     total_y: 10425.889770507812
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 311.3030090332031, 550.4567260742188, 324.988037109375)
+    double_fontsize_int: 20
   - index: 720
     text: 'at different phases of the operation to enhance the wellness of its staff
       and volunteers.  '
     text_base: at different phases of the operation to enhance the wellness of its
       staff and volunteers
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 5
     line_number: 6
     span_number: 0
-    total_y: 10437.289733886719
+    total_y: 10437.28973388672
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 322.7029724121094, 428.598876953125, 336.38800048828125)
+    double_fontsize_int: 20
+  items:
+  - While the PSS activities were effective, the burnt-out levels of Red Cross staff
+    and volunteers were high, due to the tensions and amount of duties of the response
+    phase. The National Society tried to put practices of staff appreciation at different
+    phases of the operation to enhance the wellness of its staff and volunteers.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 13
     block_number: 14
     line_number: 12
     span_number: 0
     total_y: 11168.659729003906
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 212.20278930664062, 97.8328857421875, 225.91770935058594)
     idx: 808
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 728
@@ -197,42 +281,63 @@
     text_base: coordination among different agencies government red cross and other
       agencies to provide water remained a
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 13
     block_number: 14
     line_number: 13
     span_number: 0
     total_y: 11182.69970703125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 226.19296264648438, 550.2276611328125, 239.8780059814453)
+    double_fontsize_int: 20
   - index: 810
     text: 'challenge. In addition, the logistics to transport water from Red Cross
       was another issue, as it was expensive.  '
     text_base: challenge in addition the logistics to transport water from red cross
       was another issue as it was expensive
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 14
     line_number: 14
     span_number: 0
     total_y: 11194.2197265625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 237.71298217773438, 553.5332641601562, 251.3980255126953)
+    double_fontsize_int: 20
   - index: 811
     text: 'Nevertheless, the National Society remained a key partner with the government
       and other partners in the sector.    '
     text_base: nevertheless the national society remained a key partner with the government
       and other partners in the sector
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 14
     line_number: 15
     span_number: 0
     total_y: 11205.73974609375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 249.23300170898438, 548.8688354492188, 262.91802978515625)
+    double_fontsize_int: 20
+  items:
+  - Coordination among different agencies (government, Red Cross and other agencies)
+    to provide water remained a challenge. In addition, the logistics to transport
+    water from Red Cross was another issue, as it was expensive. Nevertheless, the
+    National Society remained a key partner with the government and other partners
+    in the sector.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 14
     block_number: 3
     line_number: 6
     span_number: 0
     total_y: 11942.299682617188
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 143.92276000976562, 97.8328857421875, 157.63768005371094)
     idx: 822
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 759
@@ -244,73 +349,109 @@
     text_base: due to hiring delays for the staff responsible for implementing this
       sector of activities disaster risk reduction activities
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 14
     block_number: 3
     line_number: 7
     span_number: 0
     total_y: 11956.339721679688
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 157.91299438476562, 552.7380981445312, 171.59803771972656)
+    double_fontsize_int: 20
   - index: 824
     text: 'were the last to be implemented.  The activities started in June 2018,
       while ABRC tried their best to meet the targets. '
     text_base: were the last to be implemented the activities started in june 2018
       while abrc tried their best to meet the targets
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 3
     line_number: 8
     span_number: 0
-    total_y: 11967.859680175781
+    total_y: 11967.85968017578
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 169.43295288085938, 553.1888427734375, 183.1179962158203)
+    double_fontsize_int: 20
   - index: 825
     text: 'The construction of the branch office in Barbuda (which also serves as
       an emergency shelter) also saw multiple '
     text_base: the construction of the branch office in barbuda which also serves
       as an emergency shelter also saw multiple
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 3
     line_number: 10
     span_number: 0
-    total_y: 11990.899719238281
+    total_y: 11990.89971923828
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 192.47299194335938, 553.140380859375, 206.1580352783203)
+    double_fontsize_int: 20
   - index: 826
     text: 'delays due to the unexpected amount of resources needed to prepare the
       construction plans. While the technical '
     text_base: delays due to the unexpected amount of resources needed to prepare
       the construction plans while the technical
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 3
     line_number: 11
     span_number: 0
     total_y: 12002.419738769531
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 203.99301147460938, 552.86279296875, 217.6780548095703)
+    double_fontsize_int: 20
   - index: 827
     text: 'plans were now ready, the construction on site has not started.  The completion
       of the branch office will be completed '
     text_base: plans were now ready the construction on site has not started the completion
       of the branch office will be completed
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 3
     line_number: 12
     span_number: 0
     total_y: 12013.819702148438
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 215.39297485351562, 552.8566284179688, 229.07801818847656)
+    double_fontsize_int: 20
   - index: 828
     text: 'after the end of this operation.  '
     text_base: after the end of this operation
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 3
     line_number: 13
     span_number: 0
     total_y: 12025.339721679688
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 226.91299438476562, 180.02886962890625, 240.59803771972656)
+    double_fontsize_int: 20
+  items:
+  - Due to hiring delays for the staff responsible for implementing this sector of
+    activities, disaster risk reduction activities were the last to be implemented.  The
+    activities started in June 2018, while ABRC tried their best to meet the targets.
+  - The construction of the branch office in Barbuda (which also serves as an emergency
+    shelter) also saw multiple delays due to the unexpected amount of resources needed
+    to prepare the construction plans. While the technical plans were now ready, the
+    construction on site has not started.  The completion of the branch office will
+    be completed after the end of this operation.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 16
     block_number: 8
     line_number: 10
     span_number: 0
     total_y: 13998.789672851562
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 516.57275390625, 97.8328857421875, 530.2877197265625)
     idx: 1006
   sector_title: National Society Strengthening
   sector_idx: 836
@@ -322,39 +463,61 @@
     text_base: at the start national society staff support was a significant challenge
       to the operations the sknrc had no paid
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 16
     block_number: 8
     line_number: 11
     span_number: 0
-    total_y: 14013.189697265625
+    total_y: 14013.189697265623
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 530.9229736328125, 549.1917724609375, 544.6080322265625)
+    double_fontsize_int: 20
   - index: 1008
     text: 'staff and relied solely on volunteers. Having no dedicated counterparts
       at the NS made the implementation of '
     text_base: staff and relied solely on volunteers having no dedicated counterparts
       at the ns made the implementation of
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 8
     line_number: 12
     span_number: 0
     total_y: 14025.309692382812
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 543.04296875, 549.2813720703125, 556.72802734375)
+    double_fontsize_int: 20
   - index: 1009
     text: 'planned activities very difficult. As for ABRC, they increased the number
       of paid staff through the appeal, but '
     text_base: planned activities very difficult as for abrc they increased the number
       of paid staff through the appeal but
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 8
     line_number: 13
     span_number: 0
     total_y: 14037.309692382812
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 555.04296875, 549.20166015625, 568.72802734375)
+    double_fontsize_int: 20
   - index: 1010
     text: 'turnover and accountability were constant issues for the NS and operation. '
     text_base: turnover and accountability were constant issues for the ns and operation
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 16
     block_number: 8
     line_number: 14
     span_number: 0
     total_y: 14049.4296875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 567.1629638671875, 374.598876953125, 580.8480224609375)
+    double_fontsize_int: 20
+  items:
+  - At the start, national society staff support was a significant challenge to the
+    operations. The SKNRC had no paid staff and relied solely on volunteers. Having
+    no dedicated counterparts at the NS made the implementation of planned activities
+    very difficult. As for ABRC, they increased the number of paid staff through the
+    appeal, but turnover and accountability were constant issues for the NS and operation.

@@ -2,11 +2,14 @@
     text: 'Challenges or constraints: '
     text_base: challenges or constraints
     style: 'bold, 20, #000000, #ffffff'
+    size: 10.020000457763672
     page_number: 4
     block_number: 18
     line_number: 0
     span_number: 0
     total_y: 3720.6796875
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 341.9582824707031, 182.29876708984375, 355.7558288574219)
     idx: 455
   sector_title: Relief
   sector_idx: 165
@@ -18,76 +21,111 @@
     text_base: continuing rains and the increasing number of affected population in
       other areas
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 10.020000457763672
     page_number: 4
     block_number: 18
     line_number: 0
     span_number: 1
     total_y: 3720.6796875
+    origin_x: 182.3999786376953
+    bbox: (182.3999786376953, 341.9081726074219, 542.0637817382812, 355.6756591796875)
+    double_fontsize_int: 20
   - index: 457
     text: 'presented a challenge in terms of the human and technical resource capacity
       of the National Society. The '
     text_base: presented a challenge in terms of the human and technical resource
       capacity of the national society the
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 10.020000457763672
     page_number: 4
     block_number: 18
     line_number: 1
     span_number: 0
     total_y: 3732.19970703125
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 353.4281921386719, 542.048095703125, 367.1956787109375)
+    double_fontsize_int: 20
   - index: 458
     text: 'relief stocks of the Tajikistan Red Crescent were decreasing quickly, while
       the funds for the emergency '
     text_base: relief stocks of the tajikistan red crescent were decreasing quickly
       while the funds for the emergency
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 10.020000457763672
     page_number: 4
     block_number: 18
     line_number: 2
     span_number: 0
     total_y: 3743.719696044922
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 364.94818115234375, 542.0546264648438, 378.7156677246094)
+    double_fontsize_int: 20
   - index: 459
     text: appeal were arriving quite slowly. Tardy coverage of the appeal caused delays
       in the procurement of non-
     text_base: appeal were arriving quite slowly tardy coverage of the appeal caused
       delays in the procurement of non
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 10.020000457763672
     page_number: 4
     block_number: 18
     line_number: 3
     span_number: 0
     total_y: 3755.1796875
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 376.4081726074219, 539.1227416992188, 390.1756591796875)
+    double_fontsize_int: 20
   - index: 460
     text: 'food items, and in the case of construction tools the delay was much more
       sensible, since people had already '
     text_base: food items and in the case of construction tools the delay was much
       more sensible since people had already
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 10.020000457763672
     page_number: 4
     block_number: 18
     line_number: 4
     span_number: 0
     total_y: 3766.69970703125
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 387.9281921386719, 541.9415283203125, 401.6956787109375)
+    double_fontsize_int: 20
   - index: 461
     text: 'started the construction by that time. '
     text_base: started the construction by that time
     style: 'arialmt, 20, #000000, #ffffff'
+    size: 10.020000457763672
     page_number: 4
     block_number: 18
     line_number: 5
     span_number: 0
     total_y: 3778.219696044922
+    origin_x: 53.15999984741211
+    bbox: (53.15999984741211, 399.44818115234375, 215.40281677246094, 413.2156677246094)
+    double_fontsize_int: 20
+  items:
+  - Continuing rains and the increasing number of affected population in other areas
+    presented a challenge in terms of the human and technical resource capacity of
+    the National Society. The relief stocks of the Tajikistan Red Crescent were decreasing
+    quickly, while the funds for the emergency appeal were arriving quite slowly.
+    Tardy coverage of the appeal caused delays in the procurement of non- food items,
+    and in the case of construction tools the delay was much more sensible, since
+    people had already started the construction by that time.
 - title:
     text: 'Challenges or constraints:'
     text_base: challenges or constraints
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
     block_number: 8
     line_number: 11
     span_number: 0
-    total_y: 4698.5797119140625
+    total_y: 4698.579711914063
+    origin_x: 54.0
+    bbox: (54.0, 477.8583068847656, 180.87326049804688, 491.6558532714844)
     idx: 561
-  sector_title: Water, Sanitation and Hygiene
-  sector_idx: 475
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 519
   sector_similarity_score: 1.0
   content:
   - index: 562
@@ -95,82 +133,124 @@
       areas '
     text_base: continuing rains and the increasing number of affected population in
       other areas
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
     block_number: 8
     line_number: 11
     span_number: 1
-    total_y: 4698.5797119140625
+    total_y: 4698.579711914063
+    origin_x: 183.9604034423828
+    bbox: (183.9604034423828, 477.8081970214844, 546.3563232421875, 491.57568359375)
+    double_fontsize_int: 20
   - index: 563
     text: 'presented a challenge in terms of the human and technical resource capacity
       of the National Society. The '
     text_base: presented a challenge in terms of the human and technical resource
       capacity of the national society the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
     block_number: 8
     line_number: 12
     span_number: 0
     total_y: 4710.099700927734
+    origin_x: 53.99998474121094
+    bbox: (53.99998474121094, 489.32818603515625, 546.4356689453125, 503.0956726074219)
+    double_fontsize_int: 20
   - index: 564
     text: 'relief stocks of the National Society started melting at the very start
       of the operation, while the coverage of the '
     text_base: relief stocks of the national society started melting at the very start
       of the operation while the coverage of the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
     block_number: 8
     line_number: 13
     span_number: 0
     total_y: 4721.5595703125
+    origin_x: 53.99996948242188
+    bbox: (53.999969482421875, 500.7880554199219, 546.4326171875, 514.5555419921875)
+    double_fontsize_int: 20
   - index: 565
     text: 'emergency appeal was quite low. Late and low coverage of the appeal caused
       delays in the procurement of '
     text_base: emergency appeal was quite low late and low coverage of the appeal
       caused delays in the procurement of
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
     block_number: 8
     line_number: 14
     span_number: 0
     total_y: 4733.07958984375
+    origin_x: 53.99996948242188
+    bbox: (53.999969482421875, 512.30810546875, 546.3755493164062, 526.0755615234375)
+    double_fontsize_int: 20
   - index: 566
     text: 'non-food items for replenishment. The Tajikistan Red Crescent Dushanbe
       central disaster response stock was '
     text_base: non food items for replenishment the tajikistan red crescent dushanbe
       central disaster response stock was
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
     block_number: 8
     line_number: 15
     span_number: 0
     total_y: 4744.599548339844
+    origin_x: 53.99996948242188
+    bbox: (53.999969482421875, 523.8280639648438, 333.2002868652344, 537.5955200195312)
+    double_fontsize_int: 20
   - index: 568
     text: 'replenished by mid June 2010. Due to incomplete funds (91 per cent) only
       220 families out of the planned 494 '
     text_base: replenished by mid june 2010 due to incomplete funds 91 per cent only
       220 families out of the planned 494
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
     block_number: 8
     line_number: 16
     span_number: 0
-    total_y: 4756.0594482421875
+    total_y: 4756.059448242188
+    origin_x: 54.0
+    bbox: (54.0, 535.2879638671875, 546.3709716796875, 549.055419921875)
+    double_fontsize_int: 20
   - index: 569
     text: have been provided with construction tools
     text_base: have been provided with construction tools
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
     block_number: 8
     line_number: 17
     span_number: 0
-    total_y: 4768.5994873046875
+    total_y: 4768.599487304688
+    origin_x: 54.00001525878906
+    bbox: (54.00001525878906, 547.8280029296875, 243.0123291015625, 561.595458984375)
+    double_fontsize_int: 20
   - index: 570
     text: .
-    text_base: ''
-    style: 'bolditalicmt, 22, #1f487b, None'
+    text_base: .nan
+    style: 'bolditalicmt, 22, #1f487b, nan'
+    size: 10.979999542236328
     page_number: 5
     block_number: 8
     line_number: 17
     span_number: 1
     total_y: 4768.5997314453125
+    origin_x: 243.05999755859372
+    bbox: (243.05999755859375, 546.8181762695312, 246.11244201660156, 561.9925537109375)
+    double_fontsize_int: 22
+  items:
+  - Continuing rains and the increasing number of affected population in other areas
+    presented a challenge in terms of the human and technical resource capacity of
+    the National Society. The relief stocks of the National Society started melting
+    at the very start of the operation, while the coverage of the emergency appeal
+    was quite low. Late and low coverage of the appeal caused delays in the procurement
+    of non-food items for replenishment. The Tajikistan Red Crescent Dushanbe central
+    disaster response stock was replenished by mid June 2010. Due to incomplete funds
+    (91 per cent) only 220 families out of the planned 494 have been provided with
+    construction tools .

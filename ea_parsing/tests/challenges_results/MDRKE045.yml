@@ -2,11 +2,14 @@
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 8
     block_number: 14
     line_number: 11
     span_number: 0
     total_y: 7247.109832763672
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 500.78814697265625, 105.58162689208984, 514.8333129882812)
     idx: 525
   sector_title: Shelter, Housing and Settlements
   sector_idx: 468
@@ -16,92 +19,135 @@
     text: '- '
     text_base: ''
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 8
     block_number: 15
     line_number: 0
     span_number: 0
-    total_y: 7262.2298583984375
+    total_y: 7262.229858398437
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 516.1629638671875, 65.76888275146484, 529.8480224609375)
+    double_fontsize_int: 20
   - index: 527
     text: 'Delays in procurement of relief items slowed down delivery of assistance
       for affected populations. The delay '
     text_base: delays in procurement of relief items slowed down delivery of assistance
       for affected populations the delay
     style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 8
     block_number: 15
-    line_number: 1
-    span_number: 0
-    total_y: 7262.2298583984375
+    line_number: 0
+    span_number: 1
+    total_y: 7262.229858398437
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 516.1629638671875, 550.6234130859375, 529.8480224609375)
+    double_fontsize_int: 20
   - index: 528
     text: 'was more pronounced due to the effect of the COVID-19 pandemic which disrupted
       the flow of commodities '
     text_base: was more pronounced due to the effect of the covid 19 pandemic which
       disrupted the flow of commodities
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 15
     line_number: 2
     span_number: 0
     total_y: 7273.6298828125
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 527.56298828125, 550.6381225585938, 541.248046875)
+    double_fontsize_int: 20
   - index: 529
     text: 'especially importation of commodities.  '
     text_base: especially importation of commodities
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 15
     line_number: 3
     span_number: 0
     total_y: 7285.149841308594
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 539.0830078125, 252.1788787841797, 552.7680053710938)
+    double_fontsize_int: 20
   - index: 530
     text: '- '
     text_base: ''
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 16
     line_number: 0
     span_number: 0
     total_y: 7296.669860839844
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 550.60302734375, 65.76888275146484, 564.2880249023438)
+    double_fontsize_int: 20
   - index: 531
     text: "Damage to infrastructure affected KRCS\u2019 ability to deliver assistance\
       \ to affected communities in some areas "
     text_base: damage to infrastructure affected krcs ability to deliver assistance
       to affected communities in some areas
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 16
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 7296.669860839844
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 550.60302734375, 550.6411743164062, 564.2880249023438)
+    double_fontsize_int: 20
   - index: 532
     text: 'that had been cut off. KRCS engaged the county and national governments
       agencies including the military '
     text_base: that had been cut off krcs engaged the county and national governments
       agencies including the military
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 16
     line_number: 2
     span_number: 0
     total_y: 7308.2198486328125
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 562.1529541015625, 550.2957763671875, 575.8380126953125)
+    double_fontsize_int: 20
   - index: 533
     text: 'who provided aerial support for delivery of assistance to affected communities. '
     text_base: who provided aerial support for delivery of assistance to affected
       communities
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 16
     line_number: 3
     span_number: 0
     total_y: 7319.7398681640625
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 573.6729736328125, 427.3988952636719, 587.3580322265625)
+    double_fontsize_int: 20
+  items:
+  - Delays in procurement of relief items slowed down delivery of assistance for affected
+    populations. The delay was more pronounced due to the effect of the COVID-19 pandemic
+    which disrupted the flow of commodities especially importation of commodities.
+  - "Damage to infrastructure affected KRCS\u2019 ability to deliver assistance to\
+    \ affected communities in some areas that had been cut off. KRCS engaged the county\
+    \ and national governments agencies including the military who provided aerial\
+    \ support for delivery of assistance to affected communities."
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 10
     block_number: 5
     line_number: 8
     span_number: 0
     total_y: 8747.329833984375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 317.1681823730469, 105.58162689208984, 331.21331787109375)
     idx: 619
   sector_title: Livelihoods
   sector_idx: 538
@@ -110,52 +156,75 @@
   - index: 620
     text: '- '
     text_base: ''
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
     line_number: 0
     span_number: 0
     total_y: 8773.849822998047
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 343.9429931640625, 65.76888275146484, 357.6280212402344)
+    double_fontsize_int: 20
   - index: 621
     text: 'There was a lot of data mismatch from the register which took longer to
       verify. The list of beneficiaries which '
     text_base: there was a lot of data mismatch from the register which took longer
       to verify the list of beneficiaries which
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 8773.849822998047
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 343.9429931640625, 557.9558715820312, 357.6280212402344)
+    double_fontsize_int: 20
   - index: 622
     text: 'came from the local authorities was verified by KRCS to ensure that the
       targeted beneficiary was affected by '
     text_base: came from the local authorities was verified by krcs to ensure that
       the targeted beneficiary was affected by
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
     line_number: 2
     span_number: 0
     total_y: 8785.369812011719
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 355.4629821777344, 557.6906127929688, 369.14801025390625)
+    double_fontsize_int: 20
   - index: 623
     text: 'floods.  '
     text_base: floods
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
     line_number: 3
     span_number: 0
     total_y: 8796.88980102539
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 366.98297119140625, 112.7088851928711, 380.6679992675781)
+    double_fontsize_int: 20
+  items:
+  - There was a lot of data mismatch from the register which took longer to verify.
+    The list of beneficiaries which came from the local authorities was verified by
+    KRCS to ensure that the targeted beneficiary was affected by floods.
 - title:
     text: 'Challenges '
     text_base: challenges
     style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
     page_number: 11
     block_number: 21
     line_number: 6
     span_number: 0
-    total_y: 9884.979797363281
+    total_y: 9884.97979736328
+    origin_x: 41.880001068115234
+    bbox: (41.880001068115234, 612.8981323242188, 105.82162475585938, 626.9432983398438)
     idx: 709
   sector_title: Health and Care
   sector_idx: 633
@@ -164,41 +233,59 @@
   - index: 710
     text: '- '
     text_base: ''
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 23
     line_number: 0
     span_number: 0
-    total_y: 9911.619812011719
+    total_y: 9911.61981201172
+    origin_x: 59.880001068115234
+    bbox: (59.880001068115234, 639.79296875, 66.00888061523438, 653.47802734375)
+    double_fontsize_int: 20
   - index: 711
     text: 'Frequent go-slows and union action in the health sector continue to affect
       programme implementation and '
     text_base: frequent go slows and union action in the health sector continue to
       affect programme implementation and
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 23
-    line_number: 1
-    span_number: 0
-    total_y: 9911.619812011719
+    line_number: 0
+    span_number: 1
+    total_y: 9911.61981201172
+    origin_x: 77.90399932861328
+    bbox: (77.90399932861328, 639.79296875, 548.8082885742188, 653.47802734375)
+    double_fontsize_int: 20
   - index: 712
     text: 'hamper sustainability of health actions beyond emergency operations. '
     text_base: hamper sustainability of health actions beyond emergency operations
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 23
     line_number: 2
     span_number: 0
     total_y: 9923.139831542969
+    origin_x: 77.90399932861328
+    bbox: (77.90399932861328, 651.31298828125, 390.43890380859375, 664.998046875)
+    double_fontsize_int: 20
+  items:
+  - Frequent go-slows and union action in the health sector continue to affect programme
+    implementation and hamper sustainability of health actions beyond emergency operations.
 - title:
     text: Challenges
     text_base: challenges
-    style: 'black, 20, #000000, None'
+    style: 'black, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 24
     line_number: 0
     span_number: 0
-    total_y: 10713.579772949219
+    total_y: 10713.57977294922
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 599.578125, 102.04578399658203, 613.623291015625)
     idx: 780
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 719
@@ -207,152 +294,224 @@
   - index: 781
     text: '- '
     text_base: ''
-    style: 'italicmt, 20, #000000, None'
+    style: 'italicmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 25
     line_number: 0
     span_number: 0
     total_y: 10728.699768066406
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 615.0027465820312, 65.76888275146484, 628.4885864257812)
+    double_fontsize_int: 20
   - index: 782
     text: 'Due to often occurrence of floods in the areas of interventions, communities
       have over time developed high '
     text_base: due to often occurrence of floods in the areas of interventions communities
       have over time developed high
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 25
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 10728.699768066406
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 614.9530029296875, 563.8515625, 628.6380004882812)
+    double_fontsize_int: 20
   - index: 783
     text: 'expectations from National, County Governments and other actors on the
       ground during the response phase. '
     text_base: expectations from national county governments and other actors on the
       ground during the response phase
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 25
     line_number: 2
     span_number: 0
     total_y: 10740.099792480469
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 626.35302734375, 562.5488891601562, 640.0380249023438)
+    double_fontsize_int: 20
   - index: 784
     text: '- '
     text_base: ''
-    style: 'italicmt, 20, #000000, None'
+    style: 'italicmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 26
     line_number: 0
     span_number: 0
     total_y: 10751.619750976562
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 637.9227294921875, 65.76888275146484, 651.4085693359375)
+    double_fontsize_int: 20
   - index: 785
     text: 'Inadequate IEC materials to compliment community health education and hygiene
       promotion sessions. '
     text_base: inadequate iec materials to compliment community health education and
       hygiene promotion sessions
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 26
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 10751.619750976562
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 637.8729248046875, 534.7088623046875, 651.5579833984375)
+    double_fontsize_int: 20
   - index: 786
     text: '- '
     text_base: ''
-    style: 'italicmt, 20, #000000, None'
+    style: 'italicmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 27
     line_number: 0
     span_number: 0
-    total_y: 10764.939758300781
+    total_y: 10764.93975830078
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 651.2427368164062, 65.76888275146484, 664.7285766601562)
+    double_fontsize_int: 20
   - index: 787
     text: 'Community ownership to water and sanitation structures and facilities is
       still an issue and as such the '
     text_base: community ownership to water and sanitation structures and facilities
       is still an issue and as such the
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 27
-    line_number: 1
-    span_number: 0
-    total_y: 10764.939758300781
+    line_number: 0
+    span_number: 1
+    total_y: 10764.93975830078
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 651.1929931640625, 563.82177734375, 664.8779907226562)
+    double_fontsize_int: 20
   - index: 788
     text: 'sustainability of these actions will need to be strengthened on an ongoing
       basis. '
     text_base: sustainability of these actions will need to be strengthened on an
       ongoing basis
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 27
     line_number: 2
     span_number: 0
     total_y: 10778.139770507812
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 664.3929443359375, 433.5188903808594, 678.0780029296875)
+    double_fontsize_int: 20
   - index: 789
     text: '- '
     text_base: ''
-    style: 'italicmt, 20, #000000, None'
+    style: 'italicmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 28
     line_number: 0
     span_number: 0
     total_y: 10791.339782714844
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 677.6427612304688, 65.76888275146484, 691.1286010742188)
+    double_fontsize_int: 20
   - index: 790
     text: 'Due to stringent measures to prevent spread of the COVID-19 not all planned
       outreach activities could be '
     text_base: due to stringent measures to prevent spread of the covid 19 not all
       planned outreach activities could be
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 28
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 10791.339782714844
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 677.593017578125, 564.1851806640625, 691.2780151367188)
+    double_fontsize_int: 20
   - index: 791
     text: 'undertaken in person, so KRCS staff were forced to undertake some activities
       through calling beneficiaries and '
     text_base: undertaken in person so krcs staff were forced to undertake some activities
       through calling beneficiaries and
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 28
     line_number: 2
     span_number: 0
-    total_y: 10804.539794921875
+    total_y: 10804.539794921877
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 690.79296875, 563.9482421875, 704.47802734375)
+    double_fontsize_int: 20
   - index: 792
     text: 'over-reliance on IEC materials. '
     text_base: over reliance on iec materials
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 28
     line_number: 3
     span_number: 0
     total_y: 10817.73974609375
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 703.992919921875, 217.73887634277344, 717.677978515625)
+    double_fontsize_int: 20
   - index: 793
     text: '- '
     text_base: ''
-    style: 'italicmt, 20, #000000, None'
+    style: 'italicmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 29
     line_number: 0
     span_number: 0
-    total_y: 10831.079772949219
+    total_y: 10831.07977294922
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 717.3827514648438, 65.76888275146484, 730.8685913085938)
+    double_fontsize_int: 20
   - index: 794
     text: 'Resource limitations are a result of the COVID-19 outbreak in Kenya '
     text_base: resource limitations are a result of the covid 19 outbreak in kenya
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 12
     block_number: 29
-    line_number: 1
-    span_number: 0
-    total_y: 10831.079772949219
+    line_number: 0
+    span_number: 1
+    total_y: 10831.07977294922
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 717.3330078125, 383.4788818359375, 731.0180053710938)
+    double_fontsize_int: 20
+  items:
+  - Due to often occurrence of floods in the areas of interventions, communities have
+    over time developed high expectations from National, County Governments and other
+    actors on the ground during the response phase.
+  - Inadequate IEC materials to compliment community health education and hygiene
+    promotion sessions.
+  - Community ownership to water and sanitation structures and facilities is still
+    an issue and as such the sustainability of these actions will need to be strengthened
+    on an ongoing basis.
+  - Due to stringent measures to prevent spread of the COVID-19 not all planned outreach
+    activities could be undertaken in person, so KRCS staff were forced to undertake
+    some activities through calling beneficiaries and over-reliance on IEC materials.
+  - Resource limitations are a result of the COVID-19 outbreak in Kenya
 - title:
     text: Challenges
     text_base: challenges
-    style: 'black, 20, #000000, None'
+    style: 'black, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 17
     line_number: 0
     span_number: 0
-    total_y: 11624.979797363281
+    total_y: 11624.97979736328
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 669.0581665039062, 102.04578399658203, 683.1033325195312)
     idx: 847
   sector_title: Protection, Gender and Inclusion
   sector_idx: 797
@@ -361,41 +520,59 @@
   - index: 848
     text: '- '
     text_base: ''
-    style: 'italicmt, 20, #000000, None'
+    style: 'italicmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 18
     line_number: 0
     span_number: 0
     total_y: 11640.099792480469
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 684.4827880859375, 65.76888275146484, 697.9686279296875)
+    double_fontsize_int: 20
   - index: 849
     text: 'The number of frontline volunteers trained in PGI remains low in many areas
       hampering their ability to deliver '
     text_base: the number of frontline volunteers trained in pgi remains low in many
       areas hampering their ability to deliver
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 18
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 11640.099792480469
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 684.4329833984375, 558.709228515625, 698.1180419921875)
+    double_fontsize_int: 20
   - index: 850
     text: 'quality programmes to affected populations.   '
     text_base: quality programmes to affected populations
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 13
     block_number: 18
     line_number: 2
     span_number: 0
     total_y: 11651.619750976562
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 695.9530029296875, 280.0188903808594, 709.6380004882812)
+    double_fontsize_int: 20
+  items:
+  - The number of frontline volunteers trained in PGI remains low in many areas hampering
+    their ability to deliver quality programmes to affected populations.
 - title:
     text: Challenges
     text_base: challenges
-    style: 'black, 20, #000000, None'
+    style: 'black, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 14
     line_number: 0
     span_number: 0
     total_y: 12073.849731445312
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 276.0081481933594, 102.04578399658203, 290.05328369140625)
     idx: 903
   sector_title: National Society Strengthening
   sector_idx: 878
@@ -404,30 +581,43 @@
   - index: 904
     text: '- '
     text_base: ''
-    style: 'italicmt, 20, #000000, None'
+    style: 'italicmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 15
     line_number: 0
     span_number: 0
     total_y: 12088.9697265625
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 291.4327697753906, 65.76888275146484, 304.9186096191406)
+    double_fontsize_int: 20
   - index: 905
     text: 'COVID restrictions significantly affected trainings and field work. '
     text_base: covid restrictions significantly affected trainings and field work
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 14
     block_number: 15
-    line_number: 1
-    span_number: 0
+    line_number: 0
+    span_number: 1
     total_y: 12088.9697265625
+    origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 291.3829650878906, 363.91888427734375, 305.0679931640625)
+    double_fontsize_int: 20
+  items:
+  - COVID restrictions significantly affected trainings and field work.
 - title:
     text: Challenges
     text_base: challenges
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 5
     line_number: 5
     span_number: 0
     total_y: 14814.549682617188
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 491.2029724121094, 91.48979949951172, 504.88800048828125)
     idx: 1067
   sector_title: Disaster Management
   sector_idx: 910
@@ -438,18 +628,30 @@
       community engagement during the COVID-19 '
     text_base: the krcs toll free telephone number proved critical in ensuring continued
       community engagement during the covid 19
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 6
     line_number: 0
     span_number: 0
     total_y: 14831.349670410156
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 508.0029602050781, 576.0941162109375, 521.68798828125)
+    double_fontsize_int: 20
   - index: 1069
     text: 'pandemic which limited face to face interaction between KRCS and communities  '
     text_base: pandemic which limited face to face interaction between krcs and communities
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 17
     block_number: 6
     line_number: 1
     span_number: 0
     total_y: 14842.869689941406
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 519.52294921875, 403.5188903808594, 533.2080078125)
+    double_fontsize_int: 20
+  items:
+  - The KRCS toll-free telephone number proved critical in ensuring continued community
+    engagement during the COVID-19 pandemic which limited face to face interaction
+    between KRCS and communities

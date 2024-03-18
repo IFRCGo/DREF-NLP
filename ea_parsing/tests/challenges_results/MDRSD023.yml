@@ -1,12 +1,15 @@
 - title:
     text: 'Challenges  '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 29
     line_number: 0
     span_number: 0
     total_y: 6578.279846191406
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 673.3427734375, 118.56888580322266, 687.0577392578125)
     idx: 580
   sector_title: Shelter, Housing and Settlements
   sector_idx: 241
@@ -17,41 +20,60 @@
       a challenge. Additional immediate need '
     text_base: logistics and supply chain custom clearance of the basic nfis remains
       a challenge additional immediate need
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 29
     line_number: 1
     span_number: 0
     total_y: 6590.279846191406
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 685.29296875, 554.6309814453125, 698.97802734375)
+    double_fontsize_int: 20
   - index: 582
     text: 'of emergency shelter requirement following the current flash floods in
       the operation area caused shortage in '
     text_base: of emergency shelter requirement following the current flash floods
       in the operation area caused shortage in
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 29
     line_number: 2
     span_number: 0
     total_y: 6601.7998046875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 696.81298828125, 554.6390380859375, 710.4979858398438)
+    double_fontsize_int: 20
   - index: 583
     text: 'supply. '
     text_base: supply
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 7
     block_number: 29
     line_number: 3
     span_number: 0
     total_y: 6613.31982421875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 708.3330078125, 94.08888244628906, 722.0180053710938)
+    double_fontsize_int: 20
+  items:
+  - 'Logistics and Supply Chain: custom clearance of the basic NFIs remains a challenge.
+    Additional immediate need of emergency shelter requirement following the current
+    flash floods in the operation area caused shortage in supply.'
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 19
     line_number: 24
     span_number: 0
     total_y: 7368.359802246094
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 621.3827514648438, 115.80888366699219, 635.0977172851562)
     idx: 650
   sector_title: Health and Care
   sector_idx: 588
@@ -62,30 +84,44 @@
       in the states which are not affected '
     text_base: high expectation of the community from the ns to tackle the awd incidents
       in the states which are not affected
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 20
     line_number: 0
     span_number: 0
     total_y: 7380.359802246094
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 633.3330078125, 550.28759765625, 647.0180053710938)
+    double_fontsize_int: 20
   - index: 652
     text: 'by the flood disaster. '
     text_base: by the flood disaster
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 8
     block_number: 20
     line_number: 1
     span_number: 0
     total_y: 7391.879821777344
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 644.85302734375, 154.68887329101562, 658.5380249023438)
+    double_fontsize_int: 20
+  items:
+  - High expectation of the community from the NS to tackle the AWD incidents in the
+    states which are not affected by the flood disaster.
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 7
     line_number: 7
     span_number: 0
     total_y: 8798.159759521484
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 367.102783203125, 115.80888366699219, 380.81768798828125)
     idx: 774
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 653
@@ -96,31 +132,46 @@
       is high. The cost for water system '
     text_base: high expectation of communities in other flood and non flood affected
       area is high the cost for water system
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 8
     line_number: 0
     span_number: 0
     total_y: 8816.039764404297
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 384.9329833984375, 568.7943115234375, 398.6180114746094)
+    double_fontsize_int: 20
   - index: 776
     text: 'establishment is high due to less completion of the contractors and availability. '
     text_base: establishment is high due to less completion of the contractors and
       availability
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 10
     block_number: 8
     line_number: 1
     span_number: 0
     total_y: 8827.559753417969
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 396.4529724121094, 409.3256530761719, 410.13800048828125)
+    double_fontsize_int: 20
+  items:
+  - High expectation of communities in other flood and non-flood affected area is
+    high. The cost for water system establishment is high due to less completion of
+    the contractors and availability.
 - title:
     text: 'Challenges  '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 1
     line_number: 0
     span_number: 0
     total_y: 9337.799743652344
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 64.7027816772461, 118.56888580322266, 78.41770935058594)
     idx: 815
   sector_title: National Society Strengthening
   sector_idx: 780
@@ -129,61 +180,89 @@
   - index: 816
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 2
     line_number: 0
     span_number: 0
     total_y: 9356.519714355469
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 84.06645965576172, 82.22120666503906, 96.2684326171875)
+    double_fontsize_int: 20
   - index: 817
     text: 'Activities under this outcome needs additional time. And these could not
       be prioritized over direct '
     text_base: activities under this outcome needs additional time and these could
       not be prioritized over direct
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 2
     line_number: 0
     span_number: 1
     total_y: 9356.519714355469
+    origin_x: 95.6377182006836
+    bbox: (95.6377182006836, 83.37295532226562, 526.2694091796875, 97.05799865722656)
+    double_fontsize_int: 20
   - index: 818
     text: 'assistance to affected people.  '
     text_base: assistance to affected people
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 2
     line_number: 2
     span_number: 0
     total_y: 9367.923889160156
+    origin_x: 95.62777709960938
+    bbox: (95.62777709960938, 94.77713012695312, 233.51400756835938, 108.46217346191406)
+    double_fontsize_int: 20
   - index: 819
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 3
     line_number: 0
     span_number: 0
     total_y: 9380.159729003906
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 107.70647430419922, 82.22120666503906, 119.908447265625)
+    double_fontsize_int: 20
   - index: 820
     text: 'Tax exemption procedures in the country for vehicles is took more than
       a year to finalize. '
     text_base: tax exemption procedures in the country for vehicles is took more than
       a year to finalize
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 3
     line_number: 0
     span_number: 1
     total_y: 9380.159729003906
+    origin_x: 95.63999938964844
+    bbox: (95.63999938964844, 107.01296997070312, 490.80889892578125, 120.69801330566406)
+    double_fontsize_int: 20
+  items:
+  - Activities under this outcome needs additional time. And these could not be prioritized
+    over direct assistance to affected people.
+  - Tax exemption procedures in the country for vehicles is took more than a year
+    to finalize.
 - title:
     text: 'Challenges  '
     text_base: challenges
-    style: 'bold, 20, #000000, None'
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 19
     line_number: 15
     span_number: 0
     total_y: 9851.639709472656
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 578.542724609375, 118.56888580322266, 592.2576904296875)
     idx: 862
   sector_title: Quality Programming
   sector_idx: 824
@@ -192,91 +271,137 @@
   - index: 863
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 20
     line_number: 0
     span_number: 0
     total_y: 9870.359741210938
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 597.906494140625, 64.22120666503906, 610.1084594726562)
+    double_fontsize_int: 20
   - index: 864
     text: 'Continuous nature of flood in the area is a challenge for communities in
       five states. Request for support form '
     text_base: continuous nature of flood in the area is a challenge for communities
       in five states request for support form
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 20
     line_number: 0
     span_number: 1
     total_y: 9870.359741210938
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 597.2130126953125, 563.045654296875, 610.8980102539062)
+    double_fontsize_int: 20
   - index: 865
     text: 'localities challenged the branch offices capacity and resources. The resettlement
       request of the community in '
     text_base: localities challenged the branch offices capacity and resources the
       resettlement request of the community in
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 20
     line_number: 2
     span_number: 0
     total_y: 9881.759704589844
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 608.6129150390625, 563.0626831054688, 622.2979736328125)
+    double_fontsize_int: 20
   - index: 866
     text: 'Acla area of Kassala state was addressed through bilateral support Emeritus
       Red Crescent for 1200 HHs. '
     text_base: acla area of kassala state was addressed through bilateral support
       emeritus red crescent for 1200 hhs
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 20
     line_number: 3
     span_number: 0
-    total_y: 9893.283447265625
+    total_y: 9893.283447265623
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 620.13671875, 563.0945434570312, 633.8217163085938)
+    double_fontsize_int: 20
   - index: 867
     text: 'More requests of resettlement from disaster prone area is coming to the
       branch offices. '
     text_base: more requests of resettlement from disaster prone area is coming to
       the branch offices
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 20
     line_number: 4
     span_number: 0
     total_y: 9904.807189941406
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 631.660400390625, 465.7314147949219, 645.345458984375)
+    double_fontsize_int: 20
   - index: 868
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 21
     line_number: 0
     span_number: 0
-    total_y: 9917.039733886719
+    total_y: 9917.03973388672
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 644.5864868164062, 64.22120666503906, 656.7884521484375)
+    double_fontsize_int: 20
   - index: 869
     text: 'Less coordination among partners responding the disaster is also another
       observed challenge.   '
     text_base: less coordination among partners responding the disaster is also another
       observed challenge
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 21
     line_number: 0
     span_number: 1
-    total_y: 9917.039733886719
+    total_y: 9917.03973388672
+    origin_x: 77.6377182006836
+    bbox: (77.6377182006836, 643.8929443359375, 504.0054016113281, 657.5780029296875)
+    double_fontsize_int: 20
   - index: 870
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, None'
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 22
     line_number: 0
     span_number: 0
     total_y: 9929.159729003906
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 656.7064819335938, 64.22120666503906, 668.908447265625)
+    double_fontsize_int: 20
   - index: 871
     text: PMER capacities both at National and branch levels needs to be improved.
     text_base: pmer capacities both at national and branch levels needs to be improved
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
     page_number: 11
     block_number: 22
     line_number: 0
     span_number: 1
     total_y: 9929.159729003906
+    origin_x: 77.63999938964844
+    bbox: (77.63999938964844, 656.012939453125, 409.266357421875, 669.697998046875)
+    double_fontsize_int: 20
+  items:
+  - Continuous nature of flood in the area is a challenge for communities in five
+    states. Request for support form localities challenged the branch offices capacity
+    and resources. The resettlement request of the community in Acla area of Kassala
+    state was addressed through bilateral support Emeritus Red Crescent for 1200 HHs.
+    More requests of resettlement from disaster prone area is coming to the branch
+    offices.
+  - Less coordination among partners responding the disaster is also another observed
+    challenge.
+  - PMER capacities both at National and branch levels needs to be improved.

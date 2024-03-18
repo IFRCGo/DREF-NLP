@@ -1,179 +1,248 @@
-- content:
-  - block_number: 3
-    index: 652
-    line_number: 2
+- title:
+    text: 'Lessons learned '
+    text_base: lessons learned
+    style: 'arial,bold, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 1
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6824.0400390625
+    origin_x: 44.639991760253906
+    idx: 651
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 652
     text: 'Coordination could have been deepened to yield greater results. Agencies
       such as OXFAM and CARE were on '
     text_base: coordination could have been deepened to yield greater results agencies
       such as oxfam and care were on
-    total_y: 6835.800048828125
-  - block_number: 3
-    index: 653
-    line_number: 3
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 2
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6835.800048828125
+    origin_x: 44.639991760253906
+    double_fontsize_int: 20
+  - index: 653
     text: "the ground together with the ERCS. Coordination did take place, for example\
       \ with ERCS\u2019 participation in the "
     text_base: the ground together with the ercs coordination did take place for example
       with ercs participation in the
-    total_y: 6847.320068359375
-  - block_number: 3
-    index: 654
-    line_number: 4
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 3
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6847.320068359375
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 654
     text: 'health cluster forums and meetings, but this collaboration could have been
       further strengthened in order to '
     text_base: health cluster forums and meetings but this collaboration could have
       been further strengthened in order to
-    total_y: 6858.840087890625
-  - block_number: 3
-    index: 655
-    line_number: 5
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 4
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6858.840087890625
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 655
     text: 'provide assistance that was even better targeted. A further lesson learned
       is that it is necessary to plan for '
     text_base: provide assistance that was even better targeted a further lesson learned
       is that it is necessary to plan for
-    total_y: 6870.360107421875
-  - block_number: 3
-    index: 656
-    line_number: 6
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 5
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6870.360107421875
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 656
     text: 'greater follow-up and support to trained hygiene promoters or PHAST trainers
       in order to both get a picture of the '
     text_base: greater follow up and support to trained hygiene promoters or phast
       trainers in order to both get a picture of the
-    total_y: 6881.880126953125
-  - block_number: 3
-    index: 657
-    line_number: 7
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 6
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6881.880126953125
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 657
     text: 'effectiveness of their work, and to help them grow into their role and
       become more effective.  '
     text_base: effectiveness of their work and to help them grow into their role and
       become more effective
-    total_y: 6893.400146484375
-  - block_number: 3
-    index: 658
-    line_number: 9
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 7
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6893.400146484375
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 658
     text: 'There were several causes of delays in the programme, such as the problems
       mentioned above regarding '
     text_base: there were several causes of delays in the programme such as the problems
       mentioned above regarding
-    total_y: 6914.040100097656
-  - block_number: 3
-    index: 659
-    line_number: 10
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 9
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6914.040100097656
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 659
     text: 'importation of standard AWD kits. Another cause of delays was the need
       to continually redesign programmes to '
     text_base: importation of standard awd kits another cause of delays was the need
       to continually redesign programmes to
-    total_y: 6925.560119628906
-  - block_number: 3
-    index: 660
-    line_number: 11
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 10
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6925.560119628906
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 660
     text: 'adapt to changing circumstances both external (in terms of the reduced
       needs for WatSan hardware) and internal '
     text_base: adapt to changing circumstances both external in terms of the reduced
       needs for watsan hardware and internal
-    total_y: 6937.080139160156
-  - block_number: 3
-    index: 661
-    line_number: 12
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 11
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6937.080139160156
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 661
     text: '(in terms of, for example, budget revisions due to implementing less capital
       intensive activities), which drew in '
     text_base: in terms of for example budget revisions due to implementing less capital
       intensive activities which drew in
-    total_y: 6948.600158691406
-  - block_number: 3
-    index: 662
-    line_number: 13
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 12
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6948.600158691406
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 662
     text: 'time in terms of coordination and consultation. These delays mean that
       a balance of funds remains on the project, '
     text_base: time in terms of coordination and consultation these delays mean that
       a balance of funds remains on the project
-    total_y: 6959.880187988281
-  - block_number: 3
-    index: 663
-    line_number: 14
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 13
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6959.880187988281
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 663
     text: 'and this is currently being cleared, with expenditures on medical items
       and support for a clinic in West Hararghe, '
     text_base: and this is currently being cleared with expenditures on medical items
       and support for a clinic in west hararghe
-    total_y: 6971.400207519531
-  - block_number: 3
-    index: 664
-    line_number: 15
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 14
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6971.400207519531
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 664
     text: 'Oromia region and to arrange insurance for 10,000 ERCS volunteers such
       as those who undertook the epidemic '
     text_base: oromia region and to arrange insurance for 10 000 ercs volunteers such
       as those who undertook the epidemic
-    total_y: 6982.920227050781
-  - block_number: 3
-    index: 665
-    line_number: 16
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 15
     span_number: 0
-    style: 'Arial, 20, #000000, None'
+    total_y: 6982.920227050781
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 665
     text: 'prevention campaign. The remainder of the balance funds will also support
       a number of other activities relating to '
     text_base: prevention campaign the remainder of the balance funds will also support
       a number of other activities relating to
-    total_y: 6994.440246582031
-  - block_number: 3
-    index: 666
-    line_number: 17
+    style: 'arial, 20, #000000, None'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 16
     span_number: 0
-    style: 'Arial, 20, #000000, #7f7f7f'
+    total_y: 6994.440246582031
+    origin_x: 44.6400146484375
+    double_fontsize_int: 20
+  - index: 666
     text: 'Disaster Management and Health and Care that are currently being identified
       by the ERCS.  '
     text_base: disaster management and health and care that are currently being identified
       by the ercs
-    total_y: 7005.960266113281
-  sector_idx: null
-  sector_similarity_score: null
-  sector_title: null
-  title:
-    block_number: 3
-    idx: 651
-    line_number: 1
+    style: 'arial, 20, #000000, #7f7f7f'
+    size: 10.079999923706055
     page_number: 8
+    block_number: 3
+    line_number: 17
     span_number: 0
-    style: 'Arial,Bold, 20, #000000, None'
-    text: 'Lessons learned '
-    text_base: lessons learned
-    total_y: 6824.0400390625
+    total_y: 7005.960266113281
+    origin_x: 44.63999938964844
+    double_fontsize_int: 20
+  items:
+  - "Coordination could have been deepened to yield greater results. Agencies such\
+    \ as OXFAM and CARE were on the ground together with the ERCS. Coordination did\
+    \ take place, for example with ERCS\u2019 participation in the health cluster\
+    \ forums and meetings, but this collaboration could have been further strengthened\
+    \ in order to provide assistance that was even better targeted. A further lesson\
+    \ learned is that it is necessary to plan for greater follow-up and support to\
+    \ trained hygiene promoters or PHAST trainers in order to both get a picture of\
+    \ the effectiveness of their work, and to help them grow into their role and become\
+    \ more effective."
+  - There were several causes of delays in the programme, such as the problems mentioned
+    above regarding importation of standard AWD kits. Another cause of delays was
+    the need to continually redesign programmes to adapt to changing circumstances
+    both external (in terms of the reduced needs for WatSan hardware) and internal
+    (in terms of, for example, budget revisions due to implementing less capital intensive
+    activities), which drew in time in terms of coordination and consultation. These
+    delays mean that a balance of funds remains on the project, and this is currently
+    being cleared, with expenditures on medical items and support for a clinic in
+    West Hararghe, Oromia region and to arrange insurance for 10,000 ERCS volunteers
+    such as those who undertook the epidemic prevention campaign. The remainder of
+    the balance funds will also support a number of other activities relating to Disaster
+    Management and Health and Care that are currently being identified by the ERCS.

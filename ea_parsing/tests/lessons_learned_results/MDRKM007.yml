@@ -1,279 +1,404 @@
-- content:
-  - block_number: 6
-    index: 317
-    line_number: 0
+- title:
+    text: 'Lesson learned '
+    text_base: lesson learned
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 5
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    total_y: 4583.719909667969
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 363.0921325683594, 133.98162841796875, 377.2218933105469)
+    idx: 316
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 217
+  sector_similarity_score: 1.0
+  content:
+  - index: 317
     text: 'Given the limited funding received, only 7% of the identified needs were
       able to be covered through the operation; '
     text_base: given the limited funding received only 7 of the identified needs were
       able to be covered through the operation
-    total_y: 4596.739898681641
-  - block_number: 6
-    index: 318
-    line_number: 1
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 6
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 4596.739898681641
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 376.36846923828125, 545.185546875, 390.1359558105469)
+    double_fontsize_int: 20
+  - index: 318
     text: 'therefore with the support of the IFRC, developed an advocacy campaign  at
       local level in collaboration with UN '
     text_base: therefore with the support of the ifrc developed an advocacy campaign
       at local level in collaboration with un
-    total_y: 4608.2598876953125
-  - block_number: 6
-    index: 319
-    line_number: 2
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 6
+    line_number: 1
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 4608.2598876953125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 387.8884582519531, 545.1856079101562, 401.65594482421875)
+    double_fontsize_int: 20
+  - index: 319
     text: 'agencies (UNICEF, UNDP, WFP). This campaign  at the local level contributed
       to the achievement of results in the '
     text_base: agencies unicef undp wfp this campaign at the local level contributed
       to the achievement of results in the
-    total_y: 4619.719909667969
-  - block_number: 6
-    index: 320
-    line_number: 3
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 6
+    line_number: 2
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 4619.719909667969
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 399.3484802246094, 545.1610107421875, 413.115966796875)
+    double_fontsize_int: 20
+  - index: 320
     text: 'shelter sector which were unmet by the EA; but able to be addressed in
       cooperation with other organizations.. This '
     text_base: shelter sector which were unmet by the ea but able to be addressed
       in cooperation with other organizations this
-    total_y: 4631.2598876953125
-  - block_number: 6
-    index: 321
-    line_number: 4
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 6
+    line_number: 3
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 4631.2598876953125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 410.8884582519531, 545.1737060546875, 424.65594482421875)
+    double_fontsize_int: 20
+  - index: 321
     text: 'suggests that CoRC should explore the potential for strengthening local
       partnership and opportunities for resource '
     text_base: suggests that corc should explore the potential for strengthening local
       partnership and opportunities for resource
-    total_y: 4642.7799072265625
-  - block_number: 6
-    index: 322
-    line_number: 5
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 6
+    line_number: 4
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 4642.7799072265625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 422.4084777832031, 545.1734008789062, 436.17596435546875)
+    double_fontsize_int: 20
+  - index: 322
     text: 'mobilisation at the country level, especially in advance of another disaster
       situation.  '
     text_base: mobilisation at the country level especially in advance of another
       disaster situation
-    total_y: 4654.239898681641
-  - block_number: 6
-    index: 323
-    line_number: 7
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 6
+    line_number: 5
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 4654.239898681641
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 433.86846923828125, 415.76556396484375, 447.6359558105469)
+    double_fontsize_int: 20
+  - index: 323
     text: 'Another lesson learned is the advantage of community participation. In
       localities where the CoRC has established '
     text_base: another lesson learned is the advantage of community participation
       in localities where the corc has established
-    total_y: 4677.2799072265625
-  - block_number: 6
-    index: 324
-    line_number: 8
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 6
+    line_number: 7
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 4677.2799072265625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 456.9084777832031, 545.1856079101562, 470.67596435546875)
+    double_fontsize_int: 20
+  - index: 324
     text: '77 community management committees, it did not encounter any difficulties
       in targeting within the affected '
     text_base: 77 community management committees it did not encounter any difficulties
       in targeting within the affected
-    total_y: 4688.739898681641
-  - block_number: 6
-    index: 325
-    line_number: 9
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 6
+    line_number: 8
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 4688.739898681641
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 468.36846923828125, 545.1550903320312, 482.1359558105469)
+    double_fontsize_int: 20
+  - index: 325
     text: 'population (identifying the recipients) or implementation of the activities
       planned (relief distributions). However, in '
     text_base: population identifying the recipients or implementation of the activities
       planned relief distributions however in
-    total_y: 4700.2598876953125
-  - block_number: 6
-    index: 326
-    line_number: 10
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 6
+    line_number: 9
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 4700.2598876953125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 479.8884582519531, 545.1514892578125, 493.65594482421875)
+    double_fontsize_int: 20
+  - index: 326
     text: 'localities where community management committees had not been established,
       targeting, selection and planning '
     text_base: localities where community management committees had not been established
       targeting selection and planning
-    total_y: 4711.7799072265625
-  - block_number: 6
-    index: 327
-    line_number: 11
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 6
+    line_number: 10
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 4711.7799072265625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 491.4084777832031, 544.9439697265625, 505.17596435546875)
+    double_fontsize_int: 20
+  - index: 327
     text: 'and implemention was more challenging, resulting in delays in reaching
       the affected population with necessary '
     text_base: and implemention was more challenging resulting in delays in reaching
       the affected population with necessary
-    total_y: 4723.239929199219
-  - block_number: 6
-    index: 328
-    line_number: 12
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 6
+    line_number: 11
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 4723.239929199219
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 502.8684997558594, 545.188720703125, 516.635986328125)
+    double_fontsize_int: 20
+  - index: 328
     text: 'assistance.  '
     text_base: assistance
-    total_y: 4734.7598876953125
-  sector_idx: 217
-  sector_similarity_score: 1.0
-  sector_title: Shelter, Housing and Settlements
-  title:
-    block_number: 5
-    idx: 316
-    line_number: 0
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 5
+    block_number: 6
+    line_number: 12
     span_number: 0
-    style: 'Arial-Black, 20, #000000, #f4f4f4'
-    text: 'Lesson learned '
-    text_base: lesson learned
-    total_y: 4583.719909667969
-- content:
-  - block_number: 14
-    index: 402
-    line_number: 0
+    total_y: 4734.7598876953125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 514.3884887695312, 97.24555969238281, 528.1559448242188)
+    double_fontsize_int: 20
+  items:
+  - Given the limited funding received, only 7% of the identified needs were able
+    to be covered through the operation; therefore with the support of the IFRC, developed
+    an advocacy campaign  at local level in collaboration with UN agencies (UNICEF,
+    UNDP, WFP). This campaign  at the local level contributed to the achievement of
+    results in the shelter sector which were unmet by the EA; but able to be addressed
+    in cooperation with other organizations.. This suggests that CoRC should explore
+    the potential for strengthening local partnership and opportunities for resource
+    mobilisation at the country level, especially in advance of another disaster situation.
+  - Another lesson learned is the advantage of community participation. In localities
+    where the CoRC has established 77 community management committees, it did not
+    encounter any difficulties in targeting within the affected population (identifying
+    the recipients) or implementation of the activities planned (relief distributions).
+    However, in localities where community management committees had not been established,
+    targeting, selection and planning and implemention was more challenging, resulting
+    in delays in reaching the affected population with necessary assistance.
+- title:
+    text: 'Lessons learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 6
+    block_number: 13
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    total_y: 5611.4798583984375
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 549.2385864257812, 128.9855499267578, 563.0360717773438)
+    idx: 401
+  sector_title: Health and Care
+  sector_idx: 329
+  sector_similarity_score: 1.0
+  content:
+  - index: 402
     text: 'CoRC benefited from a good coordination with other organizations during
       the implementation of the response to '
     text_base: corc benefited from a good coordination with other organizations during
       the implementation of the response to
-    total_y: 5627.7398681640625
-  - block_number: 14
-    index: 403
-    line_number: 1
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 6
+    block_number: 14
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 5627.739868164063
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 565.448486328125, 545.1856079101562, 579.2159423828125)
+    double_fontsize_int: 20
+  - index: 403
     text: 'TC Kenneth (MoH, UNICEF, WHO etc.) '
     text_base: tc kenneth moh unicef who etc
-    total_y: 5639.199890136719
-  sector_idx: 329
-  sector_similarity_score: 1.0
-  sector_title: Health and Care
-  title:
-    block_number: 13
-    idx: 401
-    line_number: 0
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 6
+    block_number: 14
+    line_number: 1
     span_number: 0
-    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
+    total_y: 5639.199890136719
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 576.9085083007812, 220.00555419921875, 590.6759643554688)
+    double_fontsize_int: 20
+  items:
+  - CoRC benefited from a good coordination with other organizations during the implementation
+    of the response to TC Kenneth (MoH, UNICEF, WHO etc.)
+- title:
     text: 'Lessons learned '
     text_base: lessons learned
-    total_y: 5611.4798583984375
-- content:
-  - block_number: 17
-    index: 491
-    line_number: 0
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 7
+    block_number: 16
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    total_y: 6614.459838867188
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 710.298583984375, 128.9855499267578, 724.0960693359375)
+    idx: 490
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 404
+  sector_similarity_score: 1.0
+  content:
+  - index: 491
     text: 'Establishment of a National Community Platform facilitated the decision
       to construct 10 latrines as it enabled '
     text_base: establishment of a national community platform facilitated the decision
       to construct 10 latrines as it enabled
-    total_y: 6628.619873046875
-  - block_number: 17
-    index: 492
-    line_number: 1
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 7
+    block_number: 17
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 6628.619873046875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 724.4085083007812, 556.1773071289062, 738.1759643554688)
+    double_fontsize_int: 20
+  - index: 492
     text: 'consultation with the targeted population on the lack of financial resources
       to construct the intended 50; and enabled '
     text_base: consultation with the targeted population on the lack of financial
       resources to construct the intended 50 and enabled
-    total_y: 6640.079895019531
-  - block_number: 17
-    index: 493
-    line_number: 2
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 7
+    block_number: 17
+    line_number: 1
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 6640.079895019531
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 735.8685302734375, 556.0963134765625, 749.635986328125)
+    double_fontsize_int: 20
+  - index: 493
     text: 'their participation in the selection of benefitting schools.  Through this
       operation, a lesson learned was to have better '
     text_base: their participation in the selection of benefitting schools through
       this operation a lesson learned was to have better
-    total_y: 6651.599853515625
-  - block_number: 17
-    index: 494
-    line_number: 3
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 7
+    block_number: 17
+    line_number: 2
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 6651.599853515625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 747.3884887695312, 556.215576171875, 761.1559448242188)
+    double_fontsize_int: 20
+  - index: 494
     text: 'community engagement for accountability and transparency. It encourages
       a positive image of the CoRC within the '
     text_base: community engagement for accountability and transparency it encourages
       a positive image of the corc within the
-    total_y: 6663.119873046875
-  - block_number: 17
-    index: 495
-    line_number: 4
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 7
+    block_number: 17
+    line_number: 3
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 6663.119873046875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 758.9085083007812, 556.0462036132812, 772.6759643554688)
+    double_fontsize_int: 20
+  - index: 495
     text: 'affected population '
     text_base: affected population
-    total_y: 6674.579895019531
-  sector_idx: 404
-  sector_similarity_score: 1.0
-  sector_title: Water, Sanitation and Hygiene
-  title:
-    block_number: 16
-    idx: 490
-    line_number: 0
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 7
+    block_number: 17
+    line_number: 4
     span_number: 0
-    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
-    text: 'Lessons learned '
-    text_base: lessons learned
-    total_y: 6614.4598388671875
-- content:
-  - block_number: 24
-    index: 551
-    line_number: 0
+    total_y: 6674.579895019531
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 770.3685302734375, 128.92555236816406, 784.135986328125)
+    double_fontsize_int: 20
+  items:
+  - Establishment of a National Community Platform facilitated the decision to construct
+    10 latrines as it enabled consultation with the targeted population on the lack
+    of financial resources to construct the intended 50; and enabled their participation
+    in the selection of benefitting schools.  Through this operation, a lesson learned
+    was to have better community engagement for accountability and transparency. It
+    encourages a positive image of the CoRC within the affected population
+- title:
+    text: 'Lessons learnt '
+    text_base: lessons learnt
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 8
+    block_number: 23
+    line_number: 2
     span_number: 0
-    style: 'ArialMT, 20, #000000, #f4f4f4'
+    total_y: 7246.659851074219
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 500.5785827636719, 115.00556182861328, 514.3760986328125)
+    idx: 550
+  sector_title: National Society Strengthening
+  sector_idx: 496
+  sector_similarity_score: 1.0
+  content:
+  - index: 551
     text: 'CoRC benefited from a good coordination with other organizations during
       the implementation of the response to TC '
     text_base: corc benefited from a good coordination with other organizations during
       the implementation of the response to tc
-    total_y: 7262.919860839844
-  - block_number: 24
-    index: 552
-    line_number: 1
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 10.020000457763672
     page_number: 8
+    block_number: 24
+    line_number: 0
     span_number: 0
-    style: 'ArialMT, 20, #000000, None'
+    total_y: 7262.919860839844
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 516.7885131835938, 549.26611328125, 530.5559692382812)
+    double_fontsize_int: 20
+  - index: 552
     text: 'Kenneth (MoH, UNICEF, WHO etc.) '
     text_base: kenneth moh unicef who etc
-    total_y: 7274.4398193359375
-  sector_idx: 496
-  sector_similarity_score: 1.0
-  sector_title: National Society Strengthening
-  title:
-    block_number: 23
-    idx: 550
-    line_number: 2
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
     page_number: 8
+    block_number: 24
+    line_number: 1
     span_number: 0
-    style: 'Arial-BoldMT, 20, #000000, #f4f4f4'
-    text: 'Lessons learnt '
-    text_base: lessons learnt
-    total_y: 7246.659851074219
+    total_y: 7274.4398193359375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 528.3084716796875, 203.92555236816406, 542.075927734375)
+    double_fontsize_int: 20
+  items:
+  - CoRC benefited from a good coordination with other organizations during the implementation
+    of the response to TC Kenneth (MoH, UNICEF, WHO etc.)
