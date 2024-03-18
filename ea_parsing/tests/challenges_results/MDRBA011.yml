@@ -6,7 +6,7 @@
     block_number: 7
     line_number: 0
     span_number: 0
-    total_y: 12844.45965576172
+    total_y: 12844.459655761719
     idx: 858
   sector_title: Shelter, Housing and Settlements
   sector_idx: 812
@@ -15,7 +15,7 @@
   - index: 859
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 15
     block_number: 8
     line_number: 0
@@ -26,7 +26,7 @@
       of Rulebook to enable employment '
     text_base: limited staff in rcsbih hq due to delayed internal process of adoption
       of rulebook to enable employment
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 15
     block_number: 8
     line_number: 0
@@ -37,7 +37,7 @@
       its technical and '
     text_base: of the personnel needed for well functioning of the rcsbih hqs and
       strengthening its technical and
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 15
     block_number: 8
     line_number: 2
@@ -46,7 +46,7 @@
   - index: 862
     text: 'coordination role in implementation of the field activities '
     text_base: coordination role in implementation of the field activities
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 15
     block_number: 8
     line_number: 3
@@ -55,7 +55,7 @@
   - index: 863
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 15
     block_number: 9
     line_number: 0
@@ -64,7 +64,7 @@
   - index: 864
     text: 'The delay in the procurement processes '
     text_base: the delay in the procurement processes
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 15
     block_number: 9
     line_number: 0
@@ -73,32 +73,32 @@
   - index: 865
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 15
     block_number: 10
     line_number: 0
     span_number: 0
-    total_y: 12920.56964111328
+    total_y: 12920.569641113281
   - index: 866
     text: ' Frequent changes in political context which required Red Cross organization
       to be flexible and prepared '
     text_base: frequent changes in political context which required red cross organization
       to be flexible and prepared
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 15
     block_number: 10
     line_number: 0
     span_number: 1
-    total_y: 12920.56964111328
+    total_y: 12920.569641113281
   - index: 867
     text: to respond at any location in the country.
     text_base: to respond at any location in the country
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 15
     block_number: 10
     line_number: 2
     span_number: 0
-    total_y: 12935.20965576172
+    total_y: 12935.209655761719
   - index: 868
     text: For more details, please refer to Operations Updates 1-9
     text_base: for more details please refer to operations updates 1 9
@@ -125,38 +125,38 @@
   - index: 943
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 16
     block_number: 17
     line_number: 0
     span_number: 0
-    total_y: 14030.109619140623
+    total_y: 14030.109619140625
   - index: 944
     text: 'Lack of staff in National Society due to delayed internal process of adoption
       of Rulebook to enable '
     text_base: lack of staff in national society due to delayed internal process of
       adoption of rulebook to enable
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 16
     block_number: 17
     line_number: 0
     span_number: 1
-    total_y: 14030.109619140623
+    total_y: 14030.109619140625
   - index: 945
     text: 'employment of the personnel needed for well-functioning of the RCSBiH HQs
       and strengthening its '
     text_base: employment of the personnel needed for well functioning of the rcsbih
       hqs and strengthening its
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 16
     block_number: 17
     line_number: 2
     span_number: 0
-    total_y: 14043.66961669922
+    total_y: 14043.669616699219
   - index: 946
     text: 'coordination Public role in implementation of the field activities  '
     text_base: coordination public role in implementation of the field activities
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 16
     block_number: 17
     line_number: 3
@@ -165,7 +165,7 @@
   - index: 947
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 16
     block_number: 18
     line_number: 0
@@ -176,7 +176,7 @@
       staying outside TRCs in need of '
     text_base: changing situation on the ground leading to increased number of people
       staying outside trcs in need of
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 16
     block_number: 18
     line_number: 0
@@ -185,16 +185,16 @@
   - index: 949
     text: 'emergency assistance.  '
     text_base: emergency assistance
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 16
     block_number: 18
     line_number: 2
     span_number: 0
-    total_y: 14084.589599609377
+    total_y: 14084.589599609375
   - index: 950
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 16
     block_number: 19
     line_number: 0
@@ -205,7 +205,7 @@
       migrant assistance to work on '
     text_base: insufficient number of volunteers and staff to be allocated from emergency
       migrant assistance to work on
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 16
     block_number: 19
     line_number: 0
@@ -216,21 +216,21 @@
       critical in terms of migrant '
     text_base: cash program as during the reporting period situation continued to
       be very critical in terms of migrant
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 16
     block_number: 19
     line_number: 2
     span_number: 0
-    total_y: 14111.859619140623
+    total_y: 14111.859619140625
   - index: 953
     text: "crisis in various parts of BiH and particularly in USC and Biha\u0107 "
     text_base: crisis in various parts of bih and particularly in usc and biha
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 16
     block_number: 19
     line_number: 3
     span_number: 0
-    total_y: 14125.41961669922
+    total_y: 14125.419616699219
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -270,7 +270,7 @@
       situation on Lipa location. '
     text_base: have increased during the course of the operation especially due to
       the situation on lipa location
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 18
     block_number: 4
     line_number: 2
@@ -279,7 +279,7 @@
   - index: 1030
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 18
     block_number: 5
     line_number: 0
@@ -288,7 +288,7 @@
   - index: 1031
     text: 'Lack of FA materials/replenishments. '
     text_base: lack of fa materials replenishments
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 18
     block_number: 5
     line_number: 0
@@ -297,7 +297,7 @@
   - index: 1032
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 18
     block_number: 6
     line_number: 0
@@ -306,7 +306,7 @@
   - index: 1033
     text: 'Lack of access/opportunities to engage with migrants. '
     text_base: lack of access opportunities to engage with migrants
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 18
     block_number: 6
     line_number: 0
@@ -315,7 +315,7 @@
   - index: 1034
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 18
     block_number: 7
     line_number: 0
@@ -326,7 +326,7 @@
       used for MT activities  '
     text_base: limited number of trained ns staff lack of transportation means to
       be used for mt activities
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 18
     block_number: 7
     line_number: 0
@@ -335,7 +335,7 @@
   - index: 1036
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 18
     block_number: 8
     line_number: 0
@@ -346,7 +346,7 @@
       by MTs on the ground  '
     text_base: limited quantities of relief fa materials available for use distribution
       by mts on the ground
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 18
     block_number: 8
     line_number: 0
@@ -355,7 +355,7 @@
   - index: 1038
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 18
     block_number: 9
     line_number: 0
@@ -366,7 +366,7 @@
       rotation in shifts  '
     text_base: insufficient experienced medical staff to relieve current staff and
       ensure rotation in shifts
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 18
     block_number: 9
     line_number: 0
@@ -375,7 +375,7 @@
   - index: 1040
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 18
     block_number: 10
     line_number: 0
@@ -386,7 +386,7 @@
       conditions posing huge '
     text_base: insufficient supply of water for hygiene purposes and extremely poor
       sanitation conditions posing huge
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 18
     block_number: 10
     line_number: 0
@@ -395,7 +395,7 @@
   - index: 1042
     text: 'health risks  '
     text_base: health risks
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 18
     block_number: 10
     line_number: 2
@@ -404,7 +404,7 @@
   - index: 1043
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 18
     block_number: 11
     line_number: 0
@@ -413,7 +413,7 @@
   - index: 1044
     text: 'Many cases of scabies '
     text_base: many cases of scabies
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 18
     block_number: 11
     line_number: 0
@@ -422,7 +422,7 @@
   - index: 1045
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 18
     block_number: 12
     line_number: 0
@@ -432,7 +432,7 @@
     text: 'Restrictive measures by the Governments at all levels due to COVID-19 '
     text_base: restrictive measures by the governments at all levels due to covid
       19
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 18
     block_number: 12
     line_number: 0
@@ -441,7 +441,7 @@
   - index: 1047
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 18
     block_number: 13
     line_number: 0
@@ -450,7 +450,7 @@
   - index: 1048
     text: 'The delay in the procurement processes '
     text_base: the delay in the procurement processes
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 18
     block_number: 13
     line_number: 0
@@ -464,7 +464,7 @@
     block_number: 23
     line_number: 1
     span_number: 0
-    total_y: 16302.529541015623
+    total_y: 16302.529541015625
     idx: 1134
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 1049
@@ -491,7 +491,7 @@
   - index: 1137
     text: "\u2022"
     text_base: ''
-    style: 'symbolmt, 20, #000000, nan'
+    style: 'symbolmt, 20, #000000, None'
     page_number: 19
     block_number: 25
     line_number: 0
@@ -502,7 +502,7 @@
       evo (Klju\u010D) and on Lipa location.  "
     text_base: poor sanitation conditions on vu jak location checkpoint vele evo klju
       and on lipa location
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 19
     block_number: 25
     line_number: 0
@@ -567,7 +567,7 @@
     block_number: 21
     line_number: 0
     span_number: 0
-    total_y: 18380.37951660156
+    total_y: 18380.379516601562
     idx: 1233
   sector_title: Migration and displacement
   sector_idx: 1182
@@ -594,7 +594,7 @@
   - index: 1236
     text: "\u2022 "
     text_base: ''
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     page_number: 21
     block_number: 23
     line_number: 0
@@ -605,7 +605,7 @@
       group meetings which '
     text_base: covid 19 restrictions caused cancellation of trainings and some physical
       group meetings which
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 21
     block_number: 23
     line_number: 0
@@ -619,7 +619,7 @@
     block_number: 23
     line_number: 2
     span_number: 0
-    total_y: 18421.419494628903
+    total_y: 18421.419494628906
 - title:
     text: Challenges
     text_base: challenges
@@ -655,7 +655,7 @@
   - index: 1327
     text: "\u2022 "
     text_base: ''
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     page_number: 22
     block_number: 28
     line_number: 0
@@ -666,7 +666,7 @@
       group meetings '
     text_base: covid 19 restrictions have caused cancellation of trainings and some
       physical group meetings
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 22
     block_number: 28
     line_number: 0
@@ -718,16 +718,16 @@
   - index: 1433
     text: 'population. '
     text_base: population
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 24
     block_number: 6
     line_number: 2
     span_number: 0
-    total_y: 20371.57946777344
+    total_y: 20371.579467773438
   - index: 1434
     text: "\u2022 "
     text_base: ''
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     page_number: 24
     block_number: 7
     line_number: 0
@@ -738,7 +738,7 @@
       group meetings which '
     text_base: covid 19 restrictions caused cancellation of trainings and some physical
       group meetings which
-    style: 'regular, 20, #000000, nan'
+    style: 'regular, 20, #000000, None'
     page_number: 24
     block_number: 7
     line_number: 0
@@ -795,4 +795,4 @@
     block_number: 4
     line_number: 2
     span_number: 0
-    total_y: 21304.339416503903
+    total_y: 21304.339416503906

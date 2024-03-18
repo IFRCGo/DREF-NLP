@@ -3,16 +3,21 @@ Shelter, Housing and Settlements:
   - shelter settlements
   - shelter settlements household items
   - shelter non food items
+  - emergency shelter
   - emergency shelter non food items
+  - emergency shelter camp management
   - temporary emergency shelter human settlements
   - shelter settlements non food items
   - shelter including non food items
   - transitional shelter
+  - shelter support
+  - shelter nfis
 
 Livelihoods:
   - livelihoods and basic needs
   - livelihoods support
   - recovery rehabilitation restoration of livelihoods
+  - relief/livelihoods
 
 Relief:
   - relief
@@ -23,6 +28,7 @@ Relief:
   - relief distributions non food items
   - relief distributions basic non food items
   - relief distributions food and basic non food items
+  - relief distributions cash household kits tarpaulins
   - food and non food item distributions
 
 Multi-Purpose Cash:
@@ -37,6 +43,8 @@ Health and Care:
   - health nutrition
   - emergency health
   - emergency health care
+  - emergency health sanitation
+  - emergency health disease prevention health promotion
   - health hygiene promotion
 
 Water, Sanitation and Hygiene:
@@ -64,15 +72,20 @@ Food insecurity and nutrition:
 
 Risk Reduction, Climate adaptation and Recovery:
   - risk reduction climate adaptation recovery
+  - response recovery leadership coordination support
   - disaster response preparedness early warning risk reduction
+  - disaster preparedness mitigation
+  - disaster preparedness
   - disaster risk reduction
   - disaster preparedness risk reduction
   - early warning emergency response preparedness
+  - early warning response preparedness risk reduction
   - risk reduction climate adaptation
   - community preparedness risk reduction
   - community preparedness disaster risk reduction
   - early warning preparedness emergency response
   - community based risk reduction
+  - early recovery
 
 National Society Strengthening:
   - national capacity building
@@ -87,6 +100,11 @@ National Society Strengthening:
   - national society institutional preparedness
   - national society disaster preparedness and capacity building
   - organisational development
+  - internal communication capacity building
+  - communication advocacy public information capacity building
+  - information technology/telecommunications capacity building
+  - relief/livelihoods capacity building
+  - logistics capacity building
 
 Community Engagement and Accountability:
   - cea
@@ -100,6 +118,7 @@ Quality Programming:
   - quality programming common areas all sectors
   - quality programming programming support services
   - support services
+  - assessment
 
 Migration and displacement:
   - migration

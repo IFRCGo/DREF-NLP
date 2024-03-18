@@ -1,0 +1,56 @@
+- title:
+    text: 'Challenges:'
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, None'
+    page_number: 2
+    block_number: 3
+    line_number: 10
+    span_number: 0
+    total_y: 1999.2001342773438
+    idx: 133
+  sector_title: Relief
+  sector_idx: 99
+  sector_similarity_score: 1.0
+  content:
+  - index: 134
+    text: ' Reconciling beneficiary needs and figures from the SRCS, government and
+      the FACT '
+    text_base: reconciling beneficiary needs and figures from the srcs government
+      and the fact
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 3
+    line_number: 10
+    span_number: 1
+    total_y: 1999.2001342773438
+  - index: 135
+    text: 'assessments was a challenge that delayed the formulation and final agreement
+      on the revised operation, but '
+    text_base: assessments was a challenge that delayed the formulation and final
+      agreement on the revised operation but
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 3
+    line_number: 11
+    span_number: 0
+    total_y: 2010.9601440429688
+  - index: 136
+    text: 'this constraint was resolved during the assessment missions and follow-up
+      discussions with the National '
+    text_base: this constraint was resolved during the assessment missions and follow
+      up discussions with the national
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 3
+    line_number: 12
+    span_number: 0
+    total_y: 2022.4801330566406
+  - index: 137
+    text: Society.
+    text_base: society
+    style: 'arial, 20, #000000, None'
+    page_number: 2
+    block_number: 3
+    line_number: 13
+    span_number: 0
+    total_y: 2034.0001220703125
