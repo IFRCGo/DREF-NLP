@@ -106,7 +106,8 @@ class Line(pd.Series):
         """
         Consider sentence start if the first letter is uppercase.
         """
-        alphanumeric = re.sub(r'[^A-Za-z0-9 ]+', ' ', str(self['text'])).strip()
+        alphanumeric = re.sub(r'[^A-Za-z0-9 ]+', ' ', str(self['text']))
+        alphanumeric = re.sub(r'^[a-zA-Z](\)|\.)\s', '', alphanumeric.strip()).strip()
         if alphanumeric:
             first_char = alphanumeric[0]
             if first_char.isalpha():
@@ -346,7 +347,12 @@ class Lines(pd.DataFrame):
             'bullet_start'
         ] = True
         lines.loc[
-            (lines['text'].str.strip().str[0].isin(ea_parsing.definitions.BULLETS)) &
+            (
+                (lines['text'].str.strip().str[0].isin(ea_parsing.definitions.BULLETS)) |
+                lines['text'].str.strip().apply(
+                    lambda txt: bool(re.match(r'^[a-zA-Z](\)|\.)\s', txt))
+                )
+            ) &
             (lines['span_number'] == 0),
             'bullet_start'
         ] = True
@@ -388,8 +394,7 @@ class Lines(pd.DataFrame):
         # Item start: line starts with a bullet point
         lines['starts_with_bullet'] = False
         lines.loc[
-            lines['sentence_start'].fillna(True) &
-            lines['bullet_start'],
+            lines['sentence_start'].fillna(True) & lines['bullet_start'],
             'starts_with_bullet'
         ] = True
 
