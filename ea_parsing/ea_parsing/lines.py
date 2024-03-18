@@ -374,22 +374,30 @@ class Lines(pd.DataFrame):
             axis=1
         )
 
-        # Set the reasons for considering item start
+        # Item start: line starts with a bullet point
         lines['starts_with_bullet'] = False
         lines.loc[
             lines['sentence_start'].fillna(True) &
             lines['bullet_start'],
             'starts_with_bullet'
         ] = True
+
+        # Item start: previous line is short
+        line_enders = [':']
         lines['previous_line_ends_short'] = False
         lines.loc[
             lines['sentence_start'].fillna(True) & (
-                lines['sentence_end'].shift(1).fillna(True) &
+                (
+                    lines['sentence_end'].shift(1).fillna(True) |
+                    lines['text'].shift(1).str.strip().str[-1].isin(line_enders)
+                ) &
                 ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) >= lines['size']*0.1) &
                 (lines['end_gap'].shift(1).fillna(-1) >= lines['first_word_size']*1.2)
             ),
             'previous_line_ends_short'
         ] = True
+
+        # Item start: significant vertical gap
         lines['vertical_gap'] = False
         lines.loc[
             lines['sentence_start'].fillna(True) & (
