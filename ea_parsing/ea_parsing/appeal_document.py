@@ -511,7 +511,10 @@ class AppealDocument:
 
         # Process the lines into text
         for section in lessons_learned:
-            section['items'] = Lines(section['content']).set_index('index').to_items()
+            if section['content']:
+                section['items'] = Lines(section['content']).set_index('index').to_items()
+            else:
+                section['items'] = []
 
         return lessons_learned
 
@@ -531,6 +534,9 @@ class AppealDocument:
 
         # Process the lines into text
         for section in challenges:
-            section['items'] = Lines(section['content']).set_index('index').to_items()
+            if section['content']:
+                section['items'] = Lines(section['content']).set_index('index').to_items()
+            else:
+                section['items'] = []
 
         return challenges
