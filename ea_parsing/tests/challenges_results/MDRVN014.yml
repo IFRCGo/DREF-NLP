@@ -1,0 +1,658 @@
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'bold, 20, #000000, #e7e6e6'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 3
+    line_number: 5
+    span_number: 0
+    total_y: 5194.219909667969
+    origin_x: 41.63999938964844
+    idx: 412
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 251
+  sector_similarity_score: 1.0
+  content:
+  - index: 413
+    text: 'The procurement and replenishment of WPTs and ceramic water filters took
+      longer than expected as these items are '
+    text_base: the procurement and replenishment of wpts and ceramic water filters
+      took longer than expected as these items are
+    style: 'arialmt, 20, #000000, #e7e6e6'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 3
+    line_number: 6
+    span_number: 0
+    total_y: 5206.219909667969
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 414
+    text: 'not standard items available in the market and therefore were difficult
+      to source. In the meantime, VNRC has '
+    text_base: not standard items available in the market and therefore were difficult
+      to source in the meantime vnrc has
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 3
+    line_number: 7
+    span_number: 0
+    total_y: 5217.7398681640625
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 415
+    text: 'undergone its transitional period in consolidating procurement guidelines
+      and procedures as well as its procurement '
+    text_base: undergone its transitional period in consolidating procurement guidelines
+      and procedures as well as its procurement
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 3
+    line_number: 8
+    span_number: 0
+    total_y: 5229.2598876953125
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 416
+    text: 'team. Therefore, this led to significant delays and had an impact on the
+      process.  '
+    text_base: team therefore this led to significant delays and had an impact on
+      the process
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 3
+    line_number: 9
+    span_number: 0
+    total_y: 5240.659851074219
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 417
+    text: 'IEC materials were not in place at the onset of the operation which hampered
+      the impact of the dissemination to '
+    text_base: iec materials were not in place at the onset of the operation which
+      hampered the impact of the dissemination to
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 3
+    line_number: 11
+    span_number: 0
+    total_y: 5263.699890136719
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 418
+    text: 'affected people. '
+    text_base: affected people
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 3
+    line_number: 12
+    span_number: 0
+    total_y: 5275.219909667969
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  items:
+  - The procurement and replenishment of WPTs and ceramic water filters took longer
+    than expected as these items are not standard items available in the market and
+    therefore were difficult to source. In the meantime, VNRC has undergone its transitional
+    period in consolidating procurement guidelines and procedures as well as its procurement
+    team. Therefore, this led to significant delays and had an impact on the process.
+  - IEC materials were not in place at the onset of the operation which hampered the
+    impact of the dissemination to affected people.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'bold, 20, #000000, #e7e6e6'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 3
+    line_number: 21
+    span_number: 0
+    total_y: 6220.1298828125
+    origin_x: 41.63999938964844
+    idx: 508
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 424
+  sector_similarity_score: 1.0
+  content:
+  - index: 509
+    text: 'There was a delay at the start of the operation due to the issue of indirect
+      cost that VNRC aims to apply to all '
+    text_base: there was a delay at the start of the operation due to the issue of
+      indirect cost that vnrc aims to apply to all
+    style: 'arialmt, 20, #000000, #e7e6e6'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 3
+    line_number: 22
+    span_number: 0
+    total_y: 6232.129852294922
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 510
+    text: 'programs regardless of emergency operations or development programs as
+      well as the project management team '
+    text_base: programs regardless of emergency operations or development programs
+      as well as the project management team
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 3
+    line_number: 23
+    span_number: 0
+    total_y: 6243.649871826172
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 511
+    text: '(PMT). In addition, the operation took place right at the time when the
+      procurement team was dissolved and changes '
+    text_base: pmt in addition the operation took place right at the time when the
+      procurement team was dissolved and changes
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 3
+    line_number: 24
+    span_number: 0
+    total_y: 6255.169860839844
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 512
+    text: 'in procurement were occurring, leading to significant delays.  '
+    text_base: in procurement were occurring leading to significant delays
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 3
+    line_number: 25
+    span_number: 0
+    total_y: 6266.689849853516
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  items:
+  - There was a delay at the start of the operation due to the issue of indirect cost
+    that VNRC aims to apply to all programs regardless of emergency operations or
+    development programs as well as the project management team (PMT). In addition,
+    the operation took place right at the time when the procurement team was dissolved
+    and changes in procurement were occurring, leading to significant delays.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'bold, 20, #000000, #e7e6e6'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 7394.259826660156
+    origin_x: 41.63999938964844
+    idx: 622
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 517
+  sector_similarity_score: 1.0
+  content:
+  - index: 623
+    text: 'There was no challenge experienced during the implementation except the
+      appeal coverage was low so some '
+    text_base: there was no challenge experienced during the implementation except
+      the appeal coverage was low so some
+    style: 'arialmt, 20, #000000, #e7e6e6'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 12
+    line_number: 1
+    span_number: 0
+    total_y: 7406.259826660156
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 624
+    text: 'capacity building activities for VNRC were removed such as PASSA trainings
+      and Disaster Response Teams as initial '
+    text_base: capacity building activities for vnrc were removed such as passa trainings
+      and disaster response teams as initial
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 12
+    line_number: 2
+    span_number: 0
+    total_y: 7417.779846191406
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 625
+    text: 'plan.  '
+    text_base: plan
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 12
+    line_number: 3
+    span_number: 0
+    total_y: 7429.299865722656
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  items:
+  - There was no challenge experienced during the implementation except the appeal
+    coverage was low so some capacity building activities for VNRC were removed such
+    as PASSA trainings and Disaster Response Teams as initial plan.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'bold, 20, #000000, #e7e6e6'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 8
+    line_number: 1
+    span_number: 0
+    total_y: 9909.579772949219
+    origin_x: 41.63999938964844
+    idx: 817
+  sector_title: Food insecurity and nutrition
+  sector_idx: 637
+  sector_similarity_score: 1.0
+  content:
+  - index: 818
+    text: 'The operation experienced a delay at its onset due to the following reasons:  '
+    text_base: the operation experienced a delay at its onset due to the following
+      reasons
+    style: 'arialmt, 20, #000000, #e7e6e6'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 9921.459777832031
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 819
+    text: '(i) '
+    text_base: i
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 9932.979797363281
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
+  - index: 820
+    text: "the operation start date occurred just before the biggest National Holidays\
+      \ known as \u201CTet\u201D, which normally "
+    text_base: the operation start date occurred just before the biggest national
+      holidays known as tet which normally
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 9
+    line_number: 1
+    span_number: 0
+    total_y: 9932.979797363281
+    origin_x: 95.66400146484375
+    double_fontsize_int: 20
+  - index: 821
+    text: 'lasts for two weeks;  '
+    text_base: lasts for two weeks
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 9
+    line_number: 2
+    span_number: 0
+    total_y: 9944.499816894531
+    origin_x: 95.66400146484375
+    double_fontsize_int: 20
+  - index: 822
+    text: '(ii) '
+    text_base: ii
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 9956.019775390625
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
+  - index: 823
+    text: 'VNRC has been in a transitional period of change toward a new national
+      society structure in headquarters '
+    text_base: vnrc has been in a transitional period of change toward a new national
+      society structure in headquarters
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 10
+    line_number: 1
+    span_number: 0
+    total_y: 9956.019775390625
+    origin_x: 95.66400146484375
+    double_fontsize_int: 20
+  - index: 824
+    text: 'in particular, in which it stipulates that a project management team (PMT)
+      shall be established for every '
+    text_base: in particular in which it stipulates that a project management team
+      pmt shall be established for every
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 9967.419799804688
+    origin_x: 95.66400146484375
+    double_fontsize_int: 20
+  - index: 825
+    text: 'project/programme;  '
+    text_base: project programme
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 10
+    line_number: 3
+    span_number: 0
+    total_y: 9978.939819335938
+    origin_x: 95.66400146484375
+    double_fontsize_int: 20
+  - index: 826
+    text: '(iii) '
+    text_base: iii
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 9990.459777832031
+    origin_x: 59.63999938964844
+    double_fontsize_int: 20
+  - index: 827
+    text: ' the national society has been testing its new policy of indirect cost
+      application to both emergency '
+    text_base: the national society has been testing its new policy of indirect cost
+      application to both emergency
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 11
+    line_number: 1
+    span_number: 0
+    total_y: 9990.459777832031
+    origin_x: 95.66400146484375
+    double_fontsize_int: 20
+  - index: 828
+    text: 'operations and development programmes.  '
+    text_base: operations and development programmes
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 11
+    line_number: 2
+    span_number: 0
+    total_y: 10001.999816894531
+    origin_x: 95.66400146484375
+    double_fontsize_int: 20
+  - index: 829
+    text: 'Both VNRC and IFRC have done their best to resolve the above-mentioned
+      constraints by having daily updates and '
+    text_base: both vnrc and ifrc have done their best to resolve the above mentioned
+      constraints by having daily updates and
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 10025.039794921875
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 830
+    text: 'weekly face to face meetings as well as weekly updates during the operations.  '
+    text_base: weekly face to face meetings as well as weekly updates during the operations
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 13
+    line_number: 1
+    span_number: 0
+    total_y: 10036.439819335938
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 942
+    text: 'At the exit meeting took place in Quy Nhon, Binh Dinh on 26 May, attended
+      by New Zealand Embassy representatives, '
+    text_base: at the exit meeting took place in quy nhon binh dinh on 26 may attended
+      by new zealand embassy representatives
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 10187.77978515625
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 943
+    text: "IFRC and VNRC. VNRC HQs\u2019s Deputy Director of Disaster Management Department\
+      \ and the Chairman of Binh Dinh "
+    text_base: ifrc and vnrc vnrc hqs s deputy director of disaster management department
+      and the chairman of binh dinh
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 3
+    line_number: 1
+    span_number: 0
+    total_y: 10199.2998046875
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 944
+    text: 'Provincial RC Chapter admitted the implementation delays mentioned above
+      and promised to take necessary '
+    text_base: provincial rc chapter admitted the implementation delays mentioned
+      above and promised to take necessary
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 10210.699768066406
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 945
+    text: 'measures to ensure quick access and reach to beneficiaries in the future
+      by addressing internal organizational '
+    text_base: measures to ensure quick access and reach to beneficiaries in the future
+      by addressing internal organizational
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 3
+    line_number: 3
+    span_number: 0
+    total_y: 10222.219787597656
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 946
+    text: 'challenges '
+    text_base: challenges
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 3
+    line_number: 4
+    span_number: 0
+    total_y: 10233.739807128906
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  items:
+  - "The operation experienced a delay at its onset due to the following reasons:\
+    \ (i) the operation start date occurred just before the biggest National Holidays\
+    \ known as \u201CTet\u201D, which normally lasts for two weeks; (ii) VNRC has\
+    \ been in a transitional period of change toward a new national society structure\
+    \ in headquarters in particular, in which it stipulates that a project management\
+    \ team (PMT) shall be established for every project/programme; (iii) the national\
+    \ society has been testing its new policy of indirect cost application to both\
+    \ emergency operations and development programmes."
+  - "Both VNRC and IFRC have done their best to resolve the above-mentioned constraints\
+    \ by having daily updates and weekly face to face meetings as well as weekly updates\
+    \ during the operations. At the exit meeting took place in Quy Nhon, Binh Dinh\
+    \ on 26 May, attended by New Zealand Embassy representatives, IFRC and VNRC. VNRC\
+    \ HQs\u2019s Deputy Director of Disaster Management Department and the Chairman\
+    \ of Binh Dinh Provincial RC Chapter admitted the implementation delays mentioned\
+    \ above and promised to take necessary measures to ensure quick access and reach\
+    \ to beneficiaries in the future by addressing internal organizational challenges"
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #e1e2e1'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 3
+    line_number: 3
+    span_number: 0
+    total_y: 11908.2197265625
+    origin_x: 41.63999938964844
+    idx: 1106
+  sector_title: Quality Programming
+  sector_idx: 959
+  sector_similarity_score: 1.0
+  content:
+  - index: 1107
+    text: 'Language was a barrier to foreign personnel due to the limited English
+      competency within VNRC especially at the '
+    text_base: language was a barrier to foreign personnel due to the limited english
+      competency within vnrc especially at the
+    style: 'arialmt, 20, #000000, #e1e2e1'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 3
+    line_number: 4
+    span_number: 0
+    total_y: 11921.179748535156
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 1108
+    text: 'local level. Hence, a translator was hired to accompany the RDRT to the
+      field but still has limited contribution and '
+    text_base: local level hence a translator was hired to accompany the rdrt to the
+      field but still has limited contribution and
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 3
+    line_number: 5
+    span_number: 0
+    total_y: 11932.699768066406
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 1109
+    text: 'accessibility to information and coordination meetings.  '
+    text_base: accessibility to information and coordination meetings
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 3
+    line_number: 6
+    span_number: 0
+    total_y: 11944.2197265625
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 1110
+    text: 'While the feedback/complaints mechanism was accessible to community members,
+      there was no complaints received '
+    text_base: while the feedback complaints mechanism was accessible to community
+      members there was no complaints received
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 3
+    line_number: 8
+    span_number: 0
+    total_y: 11967.139770507812
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 1111
+    text: "during the operation. Instead, \u2018thank you\u2019 notes were received.\
+      \ This is partly due to the culturally cultivated perception "
+    text_base: during the operation instead thank you notes were received this is
+      partly due to the culturally cultivated perception
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 3
+    line_number: 9
+    span_number: 0
+    total_y: 11978.659729003906
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 1112
+    text: 'of giving no complains to those who give help.   '
+    text_base: of giving no complains to those who give help
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 3
+    line_number: 10
+    span_number: 0
+    total_y: 11990.179748535156
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 1113
+    text: 'The procurement of relief items for replenishment took place during the
+      last three months of the operation, putting a '
+    text_base: the procurement of relief items for replenishment took place during
+      the last three months of the operation putting a
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 3
+    line_number: 12
+    span_number: 0
+    total_y: 12013.2197265625
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 1114
+    text: 'lot of pressure on the DM team on the implementation and reporting as well
+      as planning for the lessons learned '
+    text_base: lot of pressure on the dm team on the implementation and reporting
+      as well as planning for the lessons learned
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 3
+    line_number: 13
+    span_number: 0
+    total_y: 12024.619750976562
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  - index: 1115
+    text: 'workshop. '
+    text_base: workshop
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 3
+    line_number: 14
+    span_number: 0
+    total_y: 12036.169738769531
+    origin_x: 41.63999938964844
+    double_fontsize_int: 20
+  items:
+  - Language was a barrier to foreign personnel due to the limited English competency
+    within VNRC especially at the local level. Hence, a translator was hired to accompany
+    the RDRT to the field but still has limited contribution and accessibility to
+    information and coordination meetings.
+  - "While the feedback/complaints mechanism was accessible to community members,\
+    \ there was no complaints received during the operation. Instead, \u2018thank\
+    \ you\u2019 notes were received. This is partly due to the culturally cultivated\
+    \ perception of giving no complains to those who give help."
+  - The procurement of relief items for replenishment took place during the last three
+    months of the operation, putting a lot of pressure on the DM team on the implementation
+    and reporting as well as planning for the lessons learned workshop.
