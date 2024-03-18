@@ -106,12 +106,14 @@ class Line(pd.Series):
         """
         Consider sentence start if the first letter is uppercase.
         """
-        text_chars = re.sub(r'[^A-Za-z ]+', ' ', str(self['text'])).strip()
-        if text_chars:
-            if text_chars[0].isupper():
-                return True
-            else:
-                return False
+        alphanumeric = re.sub(r'[^A-Za-z0-9 ]+', ' ', str(self['text'])).strip()
+        if alphanumeric:
+            first_char = alphanumeric[0]
+            if first_char.isalpha():
+                if first_char.isupper():
+                    return True
+                else:
+                    return False
 
 
 class Lines(pd.DataFrame):
