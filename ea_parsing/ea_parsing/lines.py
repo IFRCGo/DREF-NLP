@@ -375,19 +375,13 @@ class Lines(pd.DataFrame):
         )
 
         # Set the reasons for considering item start
+        lines['starts_with_bullet'] = False
         lines.loc[
             lines['sentence_start'].fillna(True) &
             lines['bullet_start'],
             'starts_with_bullet'
         ] = True
-        lines.loc[
-            lines['sentence_start'].fillna(True) & (
-                (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
-                (abs(lines['origin_x'] - lines['origin_x'].shift(1).fillna(-1)) > 10) &
-                ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) >= lines['size']*0.1)
-            ),
-            'horizontal_gap_different_line'
-        ] = True
+        lines['previous_line_ends_short'] = False
         lines.loc[
             lines['sentence_start'].fillna(True) & (
                 lines['sentence_end'].shift(1).fillna(True) &
@@ -396,6 +390,7 @@ class Lines(pd.DataFrame):
             ),
             'previous_line_ends_short'
         ] = True
+        lines['vertical_gap'] = False
         lines.loc[
             lines['sentence_start'].fillna(True) & (
                 (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
@@ -406,7 +401,7 @@ class Lines(pd.DataFrame):
 
         # New group is when the item starts and the previous item ends
         lines['item_start'] = lines[[
-            'starts_with_bullet', 'horizontal_gap_different_line', 'previous_line_ends_short', 'vertical_gap'
+            'starts_with_bullet', 'previous_line_ends_short', 'vertical_gap'
         ]].any(axis=1)
         lines['item_no'] = lines['item_start'].cumsum()
 
