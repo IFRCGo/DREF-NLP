@@ -343,9 +343,9 @@ class Lines(pd.DataFrame):
         # Get the approximate size of the first word
         lines['bbox_x1'] = lines['bbox'].apply(
             lambda bbox:
-                literal_eval(bbox)[1]
+                literal_eval(bbox)[0]
                 if type(bbox) is str
-                else bbox[1]
+                else bbox[0]
         )
         lines['bbox_x2'] = lines['bbox'].apply(
             lambda bbox:
