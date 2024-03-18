@@ -9,11 +9,7 @@
     span_number: 0
     total_y: 6056.0400390625
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 503.0235290527344
-    - 97.80720520019531
-    - 514.1506958007812
+    bbox: (41.63999938964844, 503.0235290527344, 97.80720520019531, 514.1506958007812)
     idx: 532
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 371
@@ -32,11 +28,7 @@
     span_number: 0
     total_y: 6067.440002441406
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 514.4234619140625
-    - 591.7342529296875
-    - 525.5506591796875
+    bbox: (41.63999938964844, 514.4234619140625, 591.7342529296875, 525.5506591796875)
     double_fontsize_int: 20
   - index: 534
     text: 'challenge at all levels. The Ebola operation demanded high level logistics
@@ -51,11 +43,7 @@
     span_number: 0
     total_y: 6078.9599609375
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 525.9434204101562
-    - 591.7235107421875
-    - 537.0706176757812
+    bbox: (41.63999938964844, 525.9434204101562, 591.7235107421875, 537.0706176757812)
     double_fontsize_int: 20
   - index: 535
     text: 'of SDB materials and equipment in Guinea or the setting up Ebola treatment
@@ -70,11 +58,7 @@
     span_number: 0
     total_y: 6090.47998046875
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 537.4634399414062
-    - 496.9298095703125
-    - 548.5906372070312
+    bbox: (41.63999938964844, 537.4634399414062, 496.9298095703125, 548.5906372070312)
     double_fontsize_int: 20
   - index: 536
     text: 'Continuous improvement of protocols and training on Ebola responses for
@@ -89,11 +73,7 @@
     span_number: 0
     total_y: 6108.0
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 554.9834594726562
-    - 591.7513427734375
-    - 566.1106567382812
+    bbox: (41.63999938964844, 554.9834594726562, 591.7513427734375, 566.1106567382812)
     double_fontsize_int: 20
   - index: 537
     text: 'necessary, while finding adequate human resources profiles and proficient
@@ -108,11 +88,7 @@
     span_number: 0
     total_y: 6119.52001953125
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 566.5034790039062
-    - 535.2061157226562
-    - 577.6306762695312
+    bbox: (41.63999938964844, 566.5034790039062, 535.2061157226562, 577.6306762695312)
     double_fontsize_int: 20
   - index: 538
     text: 'Recruitment was very challenging because of the fear and stigma attached
@@ -127,11 +103,7 @@
     span_number: 0
     total_y: 6137.039978027344
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 584.0234375
-    - 591.7621459960938
-    - 595.150634765625
+    bbox: (41.63999938964844, 584.0234375, 591.7621459960938, 595.150634765625)
     double_fontsize_int: 20
   - index: 539
     text: 'travel advisories constraining access to the affected countries. '
@@ -144,11 +116,7 @@
     span_number: 0
     total_y: 6148.559997558594
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 595.54345703125
-    - 319.5721435546875
-    - 606.670654296875
+    bbox: (41.63999938964844, 595.54345703125, 319.5721435546875, 606.670654296875)
     double_fontsize_int: 20
   - index: 540
     text: 'Staff turnover, sometimes due to poaching of Red Cross staff and volunteers
@@ -163,11 +131,7 @@
     span_number: 0
     total_y: 6165.960021972656
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 612.9434814453125
-    - 591.7491455078125
-    - 624.0706787109375
+    bbox: (41.63999938964844, 612.9434814453125, 591.7491455078125, 624.0706787109375)
     double_fontsize_int: 20
   - index: 541
     text: 'recruitment, orientation and training. Trauma among posted staff, as well
@@ -182,11 +146,7 @@
     span_number: 0
     total_y: 6177.47998046875
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 624.4634399414062
-    - 591.755126953125
-    - 635.5906372070312
+    bbox: (41.63999938964844, 624.4634399414062, 591.755126953125, 635.5906372070312)
     double_fontsize_int: 20
   - index: 542
     text: challenges to HR management.
@@ -199,11 +159,7 @@
     span_number: 0
     total_y: 6189.0
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 635.9834594726562
-    - 181.555419921875
-    - 647.1106567382812
+    bbox: (41.63999938964844, 635.9834594726562, 181.555419921875, 647.1106567382812)
     double_fontsize_int: 20
   items:
   - The unpredictability of the Ebola outbreak and the lack of knowledge about management
@@ -232,11 +188,7 @@
     span_number: 0
     total_y: 7439.160003662109
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 302.14349365234375
-    - 97.80720520019531
-    - 313.2706604003906
+    bbox: (41.63999938964844, 302.14349365234375, 97.80720520019531, 313.2706604003906)
     idx: 636
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 586
@@ -255,11 +207,7 @@
     span_number: 0
     total_y: 7450.559997558594
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 313.5434875488281
-    - 591.7731323242188
-    - 324.670654296875
+    bbox: (41.63999938964844, 313.5434875488281, 591.7731323242188, 324.670654296875)
     double_fontsize_int: 20
   - index: 638
     text: 'were governing individual and community behaviour in the affected areas.
@@ -274,11 +222,7 @@
     span_number: 0
     total_y: 7462.079986572266
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 325.0634765625
-    - 591.7742919921875
-    - 336.1906433105469
+    bbox: (41.63999938964844, 325.0634765625, 591.7742919921875, 336.1906433105469)
     double_fontsize_int: 20
   - index: 639
     text: 'generated information because of the recent civil wars in Liberia and Sierra
@@ -293,11 +237,7 @@
     span_number: 0
     total_y: 7473.600006103516
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 336.58349609375
-    - 591.77294921875
-    - 347.7106628417969
+    bbox: (41.63999938964844, 336.58349609375, 591.77294921875, 347.7106628417969)
     double_fontsize_int: 20
   - index: 640
     text: 'warring parties for their own interests. '
@@ -310,11 +250,7 @@
     span_number: 0
     total_y: 7485.1199951171875
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 348.1034851074219
-    - 211.20733642578125
-    - 359.23065185546875
+    bbox: (41.63999938964844, 348.1034851074219, 211.20733642578125, 359.23065185546875)
     double_fontsize_int: 20
   - index: 641
     text: 'In the initial phases of the response to the Ebola outbreak, one-way communication
@@ -327,13 +263,9 @@
     block_number: 4
     line_number: 0
     span_number: 0
-    total_y: 7502.6400146484375
+    total_y: 7502.640014648437
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 365.6235046386719
-    - 591.806884765625
-    - 376.75067138671875
+    bbox: (41.63999938964844, 365.6235046386719, 591.806884765625, 376.75067138671875)
     double_fontsize_int: 20
   - index: 642
     text: 'adapted to the local context. This top-down messaging resulted from the
@@ -348,11 +280,7 @@
     span_number: 0
     total_y: 7514.160003662109
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 377.14349365234375
-    - 591.7801513671875
-    - 388.2706604003906
+    bbox: (41.63999938964844, 377.14349365234375, 591.7801513671875, 388.2706604003906)
     double_fontsize_int: 20
   - index: 643
     text: 'affected communities, but as it usually did not have time to consider local
@@ -367,11 +295,7 @@
     span_number: 0
     total_y: 7525.559997558594
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 388.5434875488281
-    - 591.799072265625
-    - 399.670654296875
+    bbox: (41.63999938964844, 388.5434875488281, 591.799072265625, 399.670654296875)
     double_fontsize_int: 20
   - index: 644
     text: 'often work.  Furthermore, there was no partner coordination on messaging,
@@ -386,11 +310,7 @@
     span_number: 0
     total_y: 7537.079986572266
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 400.0634765625
-    - 591.7084350585938
-    - 411.1906433105469
+    bbox: (41.63999938964844, 400.0634765625, 591.7084350585938, 411.1906433105469)
     double_fontsize_int: 20
   - index: 645
     text: 'communities. '
@@ -403,11 +323,7 @@
     span_number: 0
     total_y: 7548.600006103516
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 411.58349609375
-    - 103.33055877685547
-    - 422.7106628417969
+    bbox: (41.63999938964844, 411.58349609375, 103.33055877685547, 422.7106628417969)
     double_fontsize_int: 20
   - index: 646
     text: 'Apart from messaging causing prolonged denial and anger, it also unintentionally
@@ -422,11 +338,7 @@
     span_number: 0
     total_y: 7566.1199951171875
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 429.1034851074219
-    - 591.734130859375
-    - 440.23065185546875
+    bbox: (41.63999938964844, 429.1034851074219, 591.734130859375, 440.23065185546875)
     double_fontsize_int: 20
   - index: 647
     text: 'is a killer disease, if you are affected you will die - therefore, people
@@ -439,13 +351,9 @@
     block_number: 5
     line_number: 1
     span_number: 0
-    total_y: 7577.6400146484375
+    total_y: 7577.640014648437
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 440.6235046386719
-    - 591.7813110351562
-    - 451.75067138671875
+    bbox: (41.63999938964844, 440.6235046386719, 591.7813110351562, 451.75067138671875)
     double_fontsize_int: 20
   - index: 648
     text: 'die, in this mal-informed perspective. '
@@ -458,11 +366,7 @@
     span_number: 0
     total_y: 7589.160003662109
     origin_x: 41.63999938964844
-    bbox: !!python/tuple
-    - 41.63999938964844
-    - 452.14349365234375
-    - 207.36276245117188
-    - 463.2706604003906
+    bbox: (41.63999938964844, 452.14349365234375, 207.36276245117188, 463.2706604003906)
     double_fontsize_int: 20
   items:
   - Scientific knowledge underpinning Red Cross approaches seriously conflicted with

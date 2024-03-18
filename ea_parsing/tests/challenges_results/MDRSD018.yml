@@ -9,7 +9,7 @@
     span_number: 0
     total_y: 3739.27001953125
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 560.61279296875
     - 92.57279205322266
@@ -32,7 +32,7 @@
     span_number: 1
     total_y: 3739.27001953125
     origin_x: 92.66400146484375
-    bbox: !!python/tuple
+    bbox:
     - 92.66400146484375
     - 560.56298828125
     - 573.2088012695312
@@ -49,7 +49,7 @@
     span_number: 0
     total_y: 3750.9400024414062
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 572.2330322265625
     - 323.9588928222656
@@ -69,7 +69,7 @@
     span_number: 0
     total_y: 4687.5360107421875
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 716.8787841796875
     - 92.62068176269531
@@ -92,7 +92,7 @@
     span_number: 1
     total_y: 4687.5360107421875
     origin_x: 92.66400146484375
-    bbox: !!python/tuple
+    bbox:
     - 92.66400146484375
     - 716.8289794921875
     - 573.2488403320312
@@ -111,7 +111,7 @@
     span_number: 0
     total_y: 4699.200012207031
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 728.4930419921875
     - 481.30889892578125
@@ -132,7 +132,7 @@
     span_number: 0
     total_y: 7229.780029296875
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 91.1228256225586
     - 92.62068176269531
@@ -155,7 +155,7 @@
     span_number: 1
     total_y: 7229.780029296875
     origin_x: 92.66400146484375
-    bbox: !!python/tuple
+    bbox:
     - 92.66400146484375
     - 91.07302856445312
     - 573.090576171875
@@ -174,7 +174,7 @@
     span_number: 0
     total_y: 7241.419982910156
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 102.71298217773438
     - 572.9026489257812
@@ -193,7 +193,7 @@
     span_number: 0
     total_y: 7252.940002441406
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 114.23300170898438
     - 572.7667236328125
@@ -210,7 +210,7 @@
     span_number: 0
     total_y: 7264.460021972656
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 125.75302124023438
     - 150.50888061523438
@@ -233,7 +233,7 @@
     span_number: 0
     total_y: 7599.910003662109
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 461.2528076171875
     - 92.57279205322266
@@ -256,7 +256,7 @@
     span_number: 1
     total_y: 7599.910003662109
     origin_x: 92.66400146484375
-    bbox: !!python/tuple
+    bbox:
     - 92.66400146484375
     - 461.2030029296875
     - 573.2429809570312
@@ -275,7 +275,7 @@
     span_number: 0
     total_y: 7611.549987792969
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 472.8429870605469
     - 572.84521484375
@@ -294,7 +294,7 @@
     span_number: 0
     total_y: 7623.070007324219
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 484.3630065917969
     - 572.599609375
@@ -313,7 +313,7 @@
     span_number: 0
     total_y: 7634.589996337891
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 495.88299560546875
     - 573.101806640625
@@ -330,7 +330,7 @@
     span_number: 0
     total_y: 7645.989990234375
     origin_x: 36.0
-    bbox: !!python/tuple
+    bbox:
     - 36.0
     - 507.2829895019531
     - 79.952880859375
