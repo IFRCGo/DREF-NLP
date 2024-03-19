@@ -375,7 +375,7 @@ class ChallengesLessonsLearnedExtractor:
         """
         # Section should only contain text lower than the title
         section_lines = self.document.lines.loc[
-            self.document.lines['total_y'] >= title['total_y']
+            self.document.lines['total_y'] >= (title['total_y'] - title['size']*0.2)
         ]
         section_lines = section_lines.drop(title.name)
 
