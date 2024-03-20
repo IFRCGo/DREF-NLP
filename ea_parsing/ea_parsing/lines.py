@@ -1,11 +1,10 @@
 """
 """
-from ast import literal_eval
 import re
 from functools import cached_property
 import pandas as pd
 import ea_parsing.definitions
-from ea_parsing.utils import colour_diff, is_text_title
+from ea_parsing.utils import colour_diff, is_text_title, strip_non_alphanumeric
 
 
 class Line(pd.Series):
@@ -153,6 +152,76 @@ class Lines(pd.DataFrame):
         block_y = lines.groupby(['page_block'])['total_y'].min().to_dict()
         lines['order'] = lines['page_block'].map(block_y)
         lines = lines.sort_values(by=['order', 'total_y']).drop(columns=['page_block', 'order'])
+
+        return lines
+
+    def merge_inline_text(self, exclude_texts=None):
+        """
+        Sometimes there is text of a different style, e.g. bold, that is inline in a paragraph.
+        Merge this text with the other lines.
+        """
+        lines = self.copy()
+
+        # Don't merge rows which have text in exclude_texts (ignoring case etc)
+        lines['ignore'] = False
+        if exclude_texts is not None:
+            exclude_texts = [strip_non_alphanumeric(item) for item in exclude_texts]
+            lines['text_base'] = lines['text']\
+                .str.replace(r'[^A-Za-z0-9 ]+', ' ', regex=True)\
+                .str.replace(' +', ' ', regex=True)\
+                .str.lower()\
+                .str.strip()
+            exclude_indexes = lines.loc[
+                lines['text_base']
+                .str.replace(r'[^A-Za-z ]+', ' ', regex=True)
+                .str.strip()
+                .isin(exclude_texts)
+            ].index
+            lines.loc[exclude_indexes, 'ignore'] = True
+            lines.loc[
+                pd.Series(lines.index).shift(1).isin(exclude_indexes),
+                'ignore'
+            ] = True
+
+        # To be considered joined to the previous item, the item must be
+        # to the right (because of reading left to right), and must be close horizontally
+        lines['h_gap'] = lines['bbox_x1'] - lines['bbox_x2'].shift(1).fillna(0)
+        lines['h_group'] = True
+        lines.loc[
+            (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
+            (lines['block_number'] == lines['block_number'].shift(1).fillna(0)) &
+            (lines['line_number'] == lines['line_number'].shift(1).fillna(0)) &
+            ((lines['total_y'] - lines['total_y'].shift(1).fillna(0)).abs() < 2) &
+            (lines['double_fontsize_int'] == lines['double_fontsize_int'].shift(1).fillna(0)) &
+            (lines['span_number'] != 0) &
+            (lines['h_gap'] < 10) & (lines['h_gap'] > 0) &
+            ~lines['ignore'],
+            'h_group'
+        ] = False
+        lines['h_group'] = lines['h_group'].cumsum()
+
+        # Combine row texts and keep the first element from other columns
+        lines['text'] = lines['text'].fillna('')
+        agg_funcs = {
+            'index': 'min',
+            'text': lambda x: ' '.join(x.astype(str)),
+            'span_number': 'min',
+            'origin_x': 'min',
+            'bbox_x1': 'min',
+            'bbox_y1': 'min',
+            'bbox_x2': 'max',
+            'bbox_y2': 'max'
+        }
+        agg_funcs = {
+            **agg_funcs,
+            **{col: 'first' for col in lines if col not in agg_funcs}
+        }
+        lines = lines\
+            .reset_index()\
+            .groupby('h_group')\
+            .agg(agg_funcs)\
+            .drop(columns=['h_gap', 'h_group'])\
+            .set_index('index')
 
         return lines
 

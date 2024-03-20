@@ -9,6 +9,13 @@
     span_number: 0
     total_y: 1268.3203125
     origin_x: 59.27996826171875
+    bbox:
+    - 59.27996826171875
+    - 417.1951599121094
+    - 135.9904327392578
+    - 428.4564208984375
+    bbox_x1: 59.27996826171875
+    bbox_x2: 135.9904327392578
     idx: 110
   sector_title: null
   sector_idx: null
@@ -27,6 +34,13 @@
     span_number: 0
     total_y: 1280.080322265625
     origin_x: 59.27996826171875
+    bbox:
+    - 59.27996826171875
+    - 428.9551696777344
+    - 537.2567749023438
+    - 440.2164306640625
+    bbox_x1: 59.27996826171875
+    bbox_x2: 537.2567749023438
     double_fontsize_int: 20
   - index: 112
     text: 'the National Society in the last 15 years, and as such has had a notable
@@ -41,6 +55,13 @@
     span_number: 0
     total_y: 1291.6003112792969
     origin_x: 59.27996826171875
+    bbox:
+    - 59.27996826171875
+    - 440.47515869140625
+    - 537.29052734375
+    - 451.7364196777344
+    bbox_x1: 59.27996826171875
+    bbox_x2: 537.29052734375
     double_fontsize_int: 20
   - index: 113
     text: 'strengthening existing processes and highlighting capacity-building areas
@@ -55,6 +76,13 @@
     span_number: 0
     total_y: 1303.1203002929688
     origin_x: 59.27996826171875
+    bbox:
+    - 59.27996826171875
+    - 451.9951477050781
+    - 537.2533569335938
+    - 463.25640869140625
+    bbox_x1: 59.27996826171875
+    bbox_x2: 537.2533569335938
     double_fontsize_int: 20
   - index: 114
     text: 'operations. '
@@ -67,6 +95,13 @@
     span_number: 0
     total_y: 1314.6402893066406
     origin_x: 59.27996826171875
+    bbox:
+    - 59.27996826171875
+    - 463.51513671875
+    - 111.51718139648438
+    - 474.7763977050781
+    bbox_x1: 59.27996826171875
+    bbox_x2: 111.51718139648438
     double_fontsize_int: 20
   - index: 115
     text: "\u2022"
@@ -79,6 +114,13 @@
     span_number: 0
     total_y: 1338.1602783203125
     origin_x: 77.27996826171875
+    bbox:
+    - 77.27996826171875
+    - 485.9794921875
+    - 81.9167709350586
+    - 499.11370849609375
+    bbox_x1: 77.27996826171875
+    bbox_x2: 81.9167709350586
     double_fontsize_int: 20
   - index: 116
     text: 'Emergency relief:'
@@ -91,6 +133,13 @@
     span_number: 1
     total_y: 1338.1602783203125
     origin_x: 95.27996826171875
+    bbox:
+    - 95.27996826171875
+    - 487.0351257324219
+    - 180.96343994140625
+    - 498.29638671875
+    bbox_x1: 95.27996826171875
+    bbox_x2: 180.96343994140625
     double_fontsize_int: 20
   - index: 117
     text: ' The quick response of and close coordination between the National Society '
@@ -103,6 +152,13 @@
     span_number: 1
     total_y: 1338.1602783203125
     origin_x: 180.9599609375
+    bbox:
+    - 180.9599609375
+    - 487.0351257324219
+    - 537.28369140625
+    - 498.29638671875
+    bbox_x1: 180.9599609375
+    bbox_x2: 537.28369140625
     double_fontsize_int: 20
   - index: 118
     text: 'and the Pan American Disaster Response Unit (PADRU) following the impact
@@ -117,6 +173,13 @@
     span_number: 0
     total_y: 1349.9202880859375
     origin_x: 95.27996063232422
+    bbox:
+    - 95.27996063232422
+    - 498.7951354980469
+    - 537.2770385742188
+    - 510.056396484375
+    bbox_x1: 95.27996063232422
+    bbox_x2: 537.2770385742188
     double_fontsize_int: 20
   - index: 119
     text: 'ensured that a coherent Plan of Action was drawn up that responded to the
@@ -131,6 +194,13 @@
     span_number: 0
     total_y: 1361.4403076171875
     origin_x: 95.27996063232422
+    bbox:
+    - 95.27996063232422
+    - 510.3151550292969
+    - 537.2669677734375
+    - 521.576416015625
+    bbox_x1: 95.27996063232422
+    bbox_x2: 537.2669677734375
     double_fontsize_int: 20
   - index: 120
     text: 'affected population.  In particular, the use of prepositioned relief items
@@ -145,6 +215,13 @@
     span_number: 0
     total_y: 1372.7202758789062
     origin_x: 95.27996063232422
+    bbox:
+    - 95.27996063232422
+    - 521.5950927734375
+    - 537.263427734375
+    - 532.8563842773438
+    bbox_x1: 95.27996063232422
+    bbox_x2: 537.263427734375
     double_fontsize_int: 20
   - index: 121
     text: 'and their quick deployment to the country made it possible for the Red
@@ -159,6 +236,13 @@
     span_number: 0
     total_y: 1384.240234375
     origin_x: 95.27996063232422
+    bbox:
+    - 95.27996063232422
+    - 533.1150512695312
+    - 537.2636108398438
+    - 544.3763427734375
+    bbox_x1: 95.27996063232422
+    bbox_x2: 537.2636108398438
     double_fontsize_int: 20
   - index: 122
     text: 'relief to beneficiaries. However, the fluctuation of the prices of some
@@ -173,6 +257,13 @@
     span_number: 0
     total_y: 1395.76025390625
     origin_x: 95.27996063232422
+    bbox:
+    - 95.27996063232422
+    - 544.6350708007812
+    - 537.2735595703125
+    - 555.8963623046875
+    bbox_x1: 95.27996063232422
+    bbox_x2: 537.2735595703125
     double_fontsize_int: 20
   - index: 123
     text: 'may be necessary to conduct a study of the market and existing agreements
@@ -187,6 +278,13 @@
     span_number: 0
     total_y: 1407.2802734375
     origin_x: 95.27996063232422
+    bbox:
+    - 95.27996063232422
+    - 556.1550903320312
+    - 537.2667236328125
+    - 567.4163818359375
+    bbox_x1: 95.27996063232422
+    bbox_x2: 537.2667236328125
     double_fontsize_int: 20
   - index: 124
     text: 'region, in particular for those products for which there is the greatest
@@ -201,6 +299,13 @@
     span_number: 0
     total_y: 1418.8002319335938
     origin_x: 95.27996063232422
+    bbox:
+    - 95.27996063232422
+    - 567.675048828125
+    - 447.0135192871094
+    - 578.9363403320312
+    bbox_x1: 95.27996063232422
+    bbox_x2: 447.0135192871094
     double_fontsize_int: 20
   - index: 125
     text: "\u2022"
@@ -213,10 +318,19 @@
     span_number: 0
     total_y: 1430.8002319335938
     origin_x: 77.27996063232422
+    bbox:
+    - 77.27996063232422
+    - 578.6194458007812
+    - 81.91676330566406
+    - 591.753662109375
+    bbox_x1: 77.27996063232422
+    bbox_x2: 81.91676330566406
     double_fontsize_int: 20
   - index: 126
-    text: 'Institutional strengthening: '
-    text_base: institutional strengthening
+    text: 'Institutional strengthening:  The operation has served to strengthen links
+      between the Cuban '
+    text_base: institutional strengthening the operation has served to strengthen
+      links between the cuban
     style: 'arial,bold, 20, #000000, None'
     size: 10.079999923706055
     page_number: 1
@@ -225,18 +339,13 @@
     span_number: 1
     total_y: 1430.8002319335938
     origin_x: 95.27996063232422
-    double_fontsize_int: 20
-  - index: 127
-    text: 'The operation has served to strengthen links between the Cuban '
-    text_base: the operation has served to strengthen links between the cuban
-    style: 'arial, 20, #000000, None'
-    size: 10.079999923706055
-    page_number: 1
-    block_number: 1
-    line_number: 46
-    span_number: 1
-    total_y: 1430.8002319335938
-    origin_x: 231.11996459960938
+    bbox:
+    - 95.27996063232422
+    - 579.675048828125
+    - 229.58712768554688
+    - 590.9363403320312
+    bbox_x1: 95.27996063232422
+    bbox_x2: 537.27685546875
     double_fontsize_int: 20
   - index: 128
     text: "Red Cross\u2019 national headquarters and the provincial and municipal\
@@ -251,6 +360,13 @@
     span_number: 0
     total_y: 1442.5602416992188
     origin_x: 95.27996826171875
+    bbox:
+    - 95.27996826171875
+    - 591.43505859375
+    - 537.2869262695312
+    - 602.6963500976562
+    bbox_x1: 95.27996826171875
+    bbox_x2: 537.2869262695312
     double_fontsize_int: 20
   - index: 129
     text: 'internal relations but also transferring capacity in the technical and
@@ -265,6 +381,13 @@
     span_number: 0
     total_y: 1454.0802001953125
     origin_x: 95.27996826171875
+    bbox:
+    - 95.27996826171875
+    - 602.9550170898438
+    - 537.2364501953125
+    - 614.21630859375
+    bbox_x1: 95.27996826171875
+    bbox_x2: 537.2364501953125
     double_fontsize_int: 20
   - index: 130
     text: 'management.  '
@@ -277,6 +400,13 @@
     span_number: 0
     total_y: 1465.6002197265625
     origin_x: 95.27996826171875
+    bbox:
+    - 95.27996826171875
+    - 614.4750366210938
+    - 161.92054748535156
+    - 625.736328125
+    bbox_x1: 95.27996826171875
+    bbox_x2: 161.92054748535156
     double_fontsize_int: 20
   - index: 131
     text: "\u2022"
@@ -289,10 +419,19 @@
     span_number: 0
     total_y: 1477.6002197265625
     origin_x: 77.27996826171875
+    bbox:
+    - 77.27996826171875
+    - 625.41943359375
+    - 81.9167709350586
+    - 638.5536499023438
+    bbox_x1: 77.27996826171875
+    bbox_x2: 81.9167709350586
     double_fontsize_int: 20
   - index: 132
-    text: 'Development and integration of broader, longer-term recovery strategies: '
+    text: 'Development and integration of broader, longer-term recovery strategies:  The
+      inclusion of an '
     text_base: development and integration of broader longer term recovery strategies
+      the inclusion of an
     style: 'arial,bold, 20, #000000, None'
     size: 10.079999923706055
     page_number: 1
@@ -301,18 +440,13 @@
     span_number: 1
     total_y: 1477.6002197265625
     origin_x: 95.27996826171875
-    double_fontsize_int: 20
-  - index: 133
-    text: 'The inclusion of an '
-    text_base: the inclusion of an
-    style: 'arial, 20, #000000, None'
-    size: 10.079999923706055
-    page_number: 1
-    block_number: 1
-    line_number: 51
-    span_number: 1
-    total_y: 1477.6002197265625
-    origin_x: 449.51995849609375
+    bbox:
+    - 95.27996826171875
+    - 626.4750366210938
+    - 449.18682861328125
+    - 637.736328125
+    bbox_x1: 95.27996826171875
+    bbox_x2: 537.2803955078125
     double_fontsize_int: 20
   - index: 134
     text: early recovery component in the CRC plan of action has provided much needed,
@@ -327,6 +461,13 @@
     span_number: 0
     total_y: 1489.1202392578125
     origin_x: 95.27996826171875
+    bbox:
+    - 95.27996826171875
+    - 637.9950561523438
+    - 534.6996459960938
+    - 649.25634765625
+    bbox_x1: 95.27996826171875
+    bbox_x2: 534.6996459960938
     double_fontsize_int: 20
   - index: 135
     text: 'term support to the affected communities in their recovery from the aftermath
@@ -341,6 +482,13 @@
     span_number: 0
     total_y: 1500.6402587890625
     origin_x: 95.27996826171875
+    bbox:
+    - 95.27996826171875
+    - 649.5150756835938
+    - 537.2533569335938
+    - 660.7763671875
+    bbox_x1: 95.27996826171875
+    bbox_x2: 537.2533569335938
     double_fontsize_int: 20
   - index: 136
     text: 'the same time it is promoting and developing new skill sets within the
@@ -355,6 +503,13 @@
     span_number: 0
     total_y: 1512.1602783203125
     origin_x: 95.27996826171875
+    bbox:
+    - 95.27996826171875
+    - 661.0350952148438
+    - 537.3108520507812
+    - 672.29638671875
+    bbox_x1: 95.27996826171875
+    bbox_x2: 537.3108520507812
     double_fontsize_int: 20
   - index: 137
     text: 'branches which will be key in providing integral response. '
@@ -367,6 +522,13 @@
     span_number: 0
     total_y: 1523.6802368164062
     origin_x: 95.27996826171875
+    bbox:
+    - 95.27996826171875
+    - 672.5550537109375
+    - 352.47369384765625
+    - 683.8163452148438
+    bbox_x1: 95.27996826171875
+    bbox_x2: 352.47369384765625
     double_fontsize_int: 20
   - index: 138
     text: "\u2022"
@@ -379,6 +541,13 @@
     span_number: 0
     total_y: 1535.6802368164062
     origin_x: 77.27996826171875
+    bbox:
+    - 77.27996826171875
+    - 683.4994506835938
+    - 81.9167709350586
+    - 696.6336669921875
+    bbox_x1: 77.27996826171875
+    bbox_x2: 81.9167709350586
     double_fontsize_int: 20
   - index: 139
     text: 'Recruitment, training and promotion of volunteers:'
@@ -391,6 +560,13 @@
     span_number: 1
     total_y: 1535.6802368164062
     origin_x: 95.27996826171875
+    bbox:
+    - 95.27996826171875
+    - 684.5550537109375
+    - 340.0867004394531
+    - 695.8163452148438
+    bbox_x1: 95.27996826171875
+    bbox_x2: 340.0867004394531
     double_fontsize_int: 20
   - index: 140
     text: ' In total, 139 new volunteers were recruited '
@@ -403,6 +579,13 @@
     span_number: 1
     total_y: 1535.6802368164062
     origin_x: 339.8399658203125
+    bbox:
+    - 339.8399658203125
+    - 684.5550537109375
+    - 537.2601318359375
+    - 695.8163452148438
+    bbox_x1: 339.8399658203125
+    bbox_x2: 537.2601318359375
     double_fontsize_int: 20
   - index: 141
     text: 'from the affected communities, with local populations keen to support the
@@ -417,6 +600,13 @@
     span_number: 0
     total_y: 1547.4402465820312
     origin_x: 95.27996826171875
+    bbox:
+    - 95.27996826171875
+    - 696.3150634765625
+    - 537.2702026367188
+    - 707.5763549804688
+    bbox_x1: 95.27996826171875
+    bbox_x2: 537.2702026367188
     double_fontsize_int: 20
   - index: 142
     text: 'the development of the operation. The response also afforded the opportunity
@@ -431,6 +621,13 @@
     span_number: 0
     total_y: 1558.9602661132812
     origin_x: 95.27996826171875
+    bbox:
+    - 95.27996826171875
+    - 707.8350830078125
+    - 537.2735595703125
+    - 719.0963745117188
+    bbox_x1: 95.27996826171875
+    bbox_x2: 537.2735595703125
     double_fontsize_int: 20
   - index: 143
     text: 'volunteers at the local level, including specialized training in disaster
@@ -445,6 +642,13 @@
     span_number: 0
     total_y: 1570.240234375
     origin_x: 95.27996826171875
+    bbox:
+    - 95.27996826171875
+    - 719.1150512695312
+    - 530.0465698242188
+    - 730.3763427734375
+    bbox_x1: 95.27996826171875
+    bbox_x2: 530.0465698242188
     double_fontsize_int: 20
   - index: 144
     text: "\u2022"
@@ -457,10 +661,19 @@
     span_number: 0
     total_y: 1582.240234375
     origin_x: 77.27996826171875
+    bbox:
+    - 77.27996826171875
+    - 730.0594482421875
+    - 81.9167709350586
+    - 743.1936645507812
+    bbox_x1: 77.27996826171875
+    bbox_x2: 81.9167709350586
     double_fontsize_int: 20
   - index: 145
-    text: 'Strengthening of inter-institutional links: '
-    text_base: strengthening of inter institutional links
+    text: 'Strengthening of inter-institutional links:  Close coordination with all
+      actors involved in the '
+    text_base: strengthening of inter institutional links close coordination with
+      all actors involved in the
     style: 'arial,bold, 20, #000000, None'
     size: 10.079999923706055
     page_number: 1
@@ -469,18 +682,13 @@
     span_number: 1
     total_y: 1582.240234375
     origin_x: 95.27996826171875
-    double_fontsize_int: 20
-  - index: 146
-    text: 'Close coordination with all actors involved in the '
-    text_base: close coordination with all actors involved in the
-    style: 'arial, 20, #000000, None'
-    size: 10.079999923706055
-    page_number: 1
-    block_number: 1
-    line_number: 62
-    span_number: 1
-    total_y: 1582.240234375
-    origin_x: 302.63995361328125
+    bbox:
+    - 95.27996826171875
+    - 731.1150512695312
+    - 299.89697265625
+    - 742.3763427734375
+    bbox_x1: 95.27996826171875
+    bbox_x2: 537.266845703125
     double_fontsize_int: 20
   - index: 147
     text: response was required, improving relations with national and local authorities
@@ -495,6 +703,13 @@
     span_number: 0
     total_y: 1594.000244140625
     origin_x: 95.27995300292969
+    bbox:
+    - 95.27995300292969
+    - 742.8750610351562
+    - 534.2197265625
+    - 754.1363525390625
+    bbox_x1: 95.27995300292969
+    bbox_x2: 534.2197265625
     double_fontsize_int: 20
   - index: 148
     text: 'governmental organizations, as well as with members of the Red Cross Red
@@ -509,6 +724,13 @@
     span_number: 0
     total_y: 1605.520263671875
     origin_x: 95.27995300292969
+    bbox:
+    - 95.27995300292969
+    - 754.3950805664062
+    - 537.2736206054688
+    - 765.6563720703125
+    bbox_x1: 95.27995300292969
+    bbox_x2: 537.2736206054688
     double_fontsize_int: 20
   - index: 150
     text: 'This served to consolidate existing and new partnerships vital to respond
@@ -523,6 +745,13 @@
     span_number: 0
     total_y: 1765.679931640625
     origin_x: 95.280029296875
+    bbox:
+    - 95.280029296875
+    - 72.55477905273438
+    - 537.2702026367188
+    - 83.81602478027344
+    bbox_x1: 95.280029296875
+    bbox_x2: 537.2702026367188
     double_fontsize_int: 20
   - index: 151
     text: 'future emergencies. '
@@ -535,6 +764,13 @@
     span_number: 0
     total_y: 1777.199951171875
     origin_x: 95.280029296875
+    bbox:
+    - 95.280029296875
+    - 84.07479858398438
+    - 186.39389038085938
+    - 95.33604431152344
+    bbox_x1: 95.280029296875
+    bbox_x2: 186.39389038085938
     double_fontsize_int: 20
   - index: 152
     text: "\u2022"
@@ -547,10 +783,19 @@
     span_number: 0
     total_y: 1789.199951171875
     origin_x: 77.280029296875
+    bbox:
+    - 77.280029296875
+    - 95.01914978027344
+    - 81.91683197021484
+    - 108.15338897705078
+    bbox_x1: 77.280029296875
+    bbox_x2: 81.91683197021484
     double_fontsize_int: 20
   - index: 153
-    text: 'Strengthening of community links:'
-    text_base: strengthening of community links
+    text: 'Strengthening of community links:  By its very nature, an operation such
+      as this serves to '
+    text_base: strengthening of community links by its very nature an operation such
+      as this serves to
     style: 'arial,bold, 20, #000000, None'
     size: 10.079999923706055
     page_number: 2
@@ -559,18 +804,13 @@
     span_number: 1
     total_y: 1789.199951171875
     origin_x: 95.280029296875
-    double_fontsize_int: 20
-  - index: 154
-    text: ' By its very nature, an operation such as this serves to '
-    text_base: by its very nature an operation such as this serves to
-    style: 'arial, 20, #000000, None'
-    size: 10.079999923706055
-    page_number: 2
-    block_number: 1
-    line_number: 3
-    span_number: 1
-    total_y: 1789.199951171875
-    origin_x: 267.84002685546875
+    bbox:
+    - 95.280029296875
+    - 96.07479858398438
+    - 267.8300476074219
+    - 107.33604431152344
+    bbox_x1: 95.280029296875
+    bbox_x2: 537.2736206054688
     double_fontsize_int: 20
   - index: 155
     text: 'strengthen links with affected communities, not only in the immediate response
@@ -585,6 +825,13 @@
     span_number: 0
     total_y: 1800.9599609375
     origin_x: 95.280029296875
+    bbox:
+    - 95.280029296875
+    - 107.83480834960938
+    - 537.2703857421875
+    - 119.09605407714844
+    bbox_x1: 95.280029296875
+    bbox_x2: 537.2703857421875
     double_fontsize_int: 20
   - index: 156
     text: 'recovery and recovery phases, enhancing a greater understanding of community
@@ -599,6 +846,13 @@
     span_number: 0
     total_y: 1812.47998046875
     origin_x: 95.280029296875
+    bbox:
+    - 95.280029296875
+    - 119.35482788085938
+    - 537.246826171875
+    - 130.61607360839844
+    bbox_x1: 95.280029296875
+    bbox_x2: 537.246826171875
     double_fontsize_int: 20
   - index: 157
     text: 'establishing priorities for continued action in these areas. Actions developed
@@ -613,6 +867,13 @@
     span_number: 0
     total_y: 1823.760009765625
     origin_x: 95.280029296875
+    bbox:
+    - 95.280029296875
+    - 130.63485717773438
+    - 537.2669677734375
+    - 141.89610290527344
+    bbox_x1: 95.280029296875
+    bbox_x2: 537.2669677734375
     double_fontsize_int: 20
   - index: 158
     text: 'have served to strengthen links with formal and informal community leaders,
@@ -627,6 +888,13 @@
     span_number: 0
     total_y: 1835.280029296875
     origin_x: 95.280029296875
+    bbox:
+    - 95.280029296875
+    - 142.15487670898438
+    - 537.2636108398438
+    - 153.41612243652344
+    bbox_x1: 95.280029296875
+    bbox_x2: 537.2636108398438
     double_fontsize_int: 20
   - index: 159
     text: 'recruitment of community volunteers. '
@@ -639,6 +907,13 @@
     span_number: 0
     total_y: 1846.800048828125
     origin_x: 95.280029296875
+    bbox:
+    - 95.280029296875
+    - 153.67489624023438
+    - 261.9871826171875
+    - 164.93614196777344
+    bbox_x1: 95.280029296875
+    bbox_x2: 261.9871826171875
     double_fontsize_int: 20
   - index: 160
     text: 'Although the operation has officially ended, the CRC continues its work
@@ -653,6 +928,13 @@
     span_number: 0
     total_y: 1869.840087890625
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 176.71493530273438
+    - 537.2703857421875
+    - 187.97618103027344
+    bbox_x1: 59.280029296875
+    bbox_x2: 537.2703857421875
     double_fontsize_int: 20
   - index: 161
     text: 'and in addressing broader disaster risk reduction issues. '
@@ -665,6 +947,13 @@
     span_number: 0
     total_y: 1881.360107421875
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 188.23495483398438
+    - 312.1404724121094
+    - 199.49620056152344
+    bbox_x1: 59.280029296875
+    bbox_x2: 312.1404724121094
     double_fontsize_int: 20
   - index: 162
     text: 'On behalf of Cuban Red Cross, the International Federation would like to
@@ -679,6 +968,13 @@
     span_number: 0
     total_y: 1903.9201049804688
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 211.22947692871094
+    - 537.1856079101562
+    - 221.95448303222656
+    bbox_x1: 59.280029296875
+    bbox_x2: 537.1856079101562
     double_fontsize_int: 19
   - index: 163
     text: generous response to this appeal.
@@ -691,6 +987,13 @@
     span_number: 0
     total_y: 1915.2001342773438
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 222.50950622558594
+    - 205.46722412109375
+    - 233.23451232910156
+    bbox_x1: 59.280029296875
+    bbox_x2: 205.46722412109375
     double_fontsize_int: 19
   - index: 164
     text: ' The operation received multilateral contributions from the American Red '
@@ -704,6 +1007,13 @@
     span_number: 1
     total_y: 1915.2001342773438
     origin_x: 205.44003295898438
+    bbox:
+    - 205.44003295898438
+    - 222.07498168945312
+    - 537.263671875
+    - 233.3362274169922
+    bbox_x1: 205.44003295898438
+    bbox_x2: 537.263671875
     double_fontsize_int: 20
   - index: 165
     text: 'Cross, the Australian government/Australian Red Cross, the Barbados Red
@@ -718,6 +1028,13 @@
     span_number: 0
     total_y: 1926.7201538085938
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 233.59500122070312
+    - 537.2907104492188
+    - 244.8562469482422
+    bbox_x1: 59.280029296875
+    bbox_x2: 537.2907104492188
     double_fontsize_int: 20
   - index: 166
     text: 'government/British Red Cross, the Canadian government/Canadian Red Cross,
@@ -732,6 +1049,13 @@
     span_number: 0
     total_y: 1938.2401733398438
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 245.11502075195312
+    - 537.371337890625
+    - 256.37628173828125
+    bbox_x1: 59.280029296875
+    bbox_x2: 537.371337890625
     double_fontsize_int: 20
   - index: 167
     text: "European Community\u2019s Humanitarian Aid Office (ECHO), the Finnish Red\
@@ -746,6 +1070,13 @@
     span_number: 0
     total_y: 1949.7601928710938
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 256.6350402832031
+    - 537.2838134765625
+    - 267.89630126953125
+    bbox_x1: 59.280029296875
+    bbox_x2: 537.2838134765625
     double_fontsize_int: 20
   - index: 168
     text: 'Italian government, the Japanese Red Cross Society, the Monaco Red Cross,
@@ -760,6 +1091,13 @@
     span_number: 0
     total_y: 1961.2802124023438
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 268.1550598144531
+    - 537.29052734375
+    - 279.41632080078125
+    bbox_x1: 59.280029296875
+    bbox_x2: 537.29052734375
     double_fontsize_int: 20
   - index: 169
     text: 'the Nicaraguan Red Cross, the Norwegian government/Norwegian Red Cross,
@@ -774,6 +1112,13 @@
     span_number: 0
     total_y: 1972.8002319335938
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 279.6750793457031
+    - 537.310791015625
+    - 290.93634033203125
+    bbox_x1: 59.280029296875
+    bbox_x2: 537.310791015625
     double_fontsize_int: 20
   - index: 170
     text: 'International '
@@ -786,6 +1131,13 @@
     span_number: 0
     total_y: 1984.3202514648438
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 291.1950988769531
+    - 117.27723693847656
+    - 302.45635986328125
+    bbox_x1: 59.280029296875
+    bbox_x2: 117.27723693847656
     double_fontsize_int: 20
   - index: 171
     text: 'Development, '
@@ -798,6 +1150,13 @@
     span_number: 0
     total_y: 1984.3202514648438
     origin_x: 129.11669921875
+    bbox:
+    - 129.11669921875
+    - 291.1950988769531
+    - 193.83726501464844
+    - 302.45635986328125
+    bbox_x1: 129.11669921875
+    bbox_x2: 193.83726501464844
     double_fontsize_int: 20
   - index: 172
     text: 'the '
@@ -810,6 +1169,13 @@
     span_number: 0
     total_y: 1984.3202514648438
     origin_x: 205.6767120361328
+    bbox:
+    - 205.6767120361328
+    - 291.1950988769531
+    - 222.39727783203125
+    - 302.45635986328125
+    bbox_x1: 205.6767120361328
+    bbox_x2: 222.39727783203125
     double_fontsize_int: 20
   - index: 173
     text: 'Spanish '
@@ -822,6 +1188,13 @@
     span_number: 0
     total_y: 1984.3202514648438
     origin_x: 234.23672485351562
+    bbox:
+    - 234.23672485351562
+    - 291.1950988769531
+    - 273.04058837890625
+    - 302.45635986328125
+    bbox_x1: 234.23672485351562
+    bbox_x2: 273.04058837890625
     double_fontsize_int: 20
   - index: 174
     text: 'government/Spanish '
@@ -834,6 +1207,13 @@
     span_number: 0
     total_y: 1984.3202514648438
     origin_x: 284.88006591796875
+    bbox:
+    - 284.88006591796875
+    - 291.1950988769531
+    - 379.3605041503906
+    - 302.45635986328125
+    bbox_x1: 284.88006591796875
+    bbox_x2: 379.3605041503906
     double_fontsize_int: 20
   - index: 175
     text: 'Red '
@@ -846,6 +1226,13 @@
     span_number: 0
     total_y: 1984.3202514648438
     origin_x: 391.1999816894531
+    bbox:
+    - 391.1999816894531
+    - 291.1950988769531
+    - 412.2539978027344
+    - 302.45635986328125
+    bbox_x1: 391.1999816894531
+    bbox_x2: 412.2539978027344
     double_fontsize_int: 20
   - index: 176
     text: 'Cross, '
@@ -858,6 +1245,13 @@
     span_number: 0
     total_y: 1984.3202514648438
     origin_x: 424.0934753417969
+    bbox:
+    - 424.0934753417969
+    - 291.1950988769531
+    - 455.9306640625
+    - 302.45635986328125
+    bbox_x1: 424.0934753417969
+    bbox_x2: 455.9306640625
     double_fontsize_int: 20
   - index: 177
     text: 'the '
@@ -870,6 +1264,13 @@
     span_number: 0
     total_y: 1984.3202514648438
     origin_x: 467.7701416015625
+    bbox:
+    - 467.7701416015625
+    - 291.1950988769531
+    - 484.49066162109375
+    - 302.45635986328125
+    bbox_x1: 467.7701416015625
+    bbox_x2: 484.49066162109375
     double_fontsize_int: 20
   - index: 178
     text: 'Swedish '
@@ -882,6 +1283,13 @@
     span_number: 0
     total_y: 1984.3202514648438
     origin_x: 496.33013916015625
+    bbox:
+    - 496.33013916015625
+    - 291.1950988769531
+    - 537.2907104492188
+    - 302.45635986328125
+    bbox_x1: 496.33013916015625
+    bbox_x2: 537.2907104492188
     double_fontsize_int: 20
   - index: 179
     text: 'government/Swedish Red Cross, the United Arab Emirates Red Crescent, the
@@ -896,6 +1304,13 @@
     span_number: 0
     total_y: 1995.8402709960938
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 302.7151184082031
+    - 537.3040771484375
+    - 313.97637939453125
+    bbox_x1: 59.280029296875
+    bbox_x2: 537.3040771484375
     double_fontsize_int: 20
   - index: 180
     text: 'and private donors. The Cuban Red Cross response was also bilaterally supported
@@ -910,6 +1325,13 @@
     span_number: 0
     total_y: 2007.3602905273438
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 314.2351379394531
+    - 537.2871704101562
+    - 325.49639892578125
+    bbox_x1: 59.280029296875
+    bbox_x2: 537.2871704101562
     double_fontsize_int: 20
   - index: 181
     text: 'Cross and the Spanish Red Cross.  '
@@ -922,6 +1344,13 @@
     span_number: 0
     total_y: 2018.8802795410156
     origin_x: 59.280029296875
+    bbox:
+    - 59.280029296875
+    - 325.755126953125
+    - 218.8107147216797
+    - 337.0163879394531
+    bbox_x1: 59.280029296875
+    bbox_x2: 218.8107147216797
     double_fontsize_int: 20
   items:
   - The response to the 2008 hurricane season was the largest emergency response operation
@@ -938,11 +1367,11 @@
     indicates that it may be necessary to conduct a study of the market and existing
     agreements with suppliers in the region, in particular for those products for
     which there is the greatest demand.'
-  - "Institutional strengthening: The operation has served to strengthen links between\
+  - "Institutional strengthening:  The operation has served to strengthen links between\
     \ the Cuban Red Cross\u2019 national headquarters and the provincial and municipal\
     \ branches, not only improving internal relations but also transferring capacity\
     \ in the technical and operational roles of emergency management."
-  - 'Development and integration of broader, longer-term recovery strategies: The
+  - 'Development and integration of broader, longer-term recovery strategies:  The
     inclusion of an early recovery component in the CRC plan of action has provided
     much needed, valuable longer- term support to the affected communities in their
     recovery from the aftermath of the hurricanes. At the same time it is promoting
@@ -953,12 +1382,12 @@
     the work of the Red Cross in the development of the operation. The response also
     afforded the opportunity to provide training to volunteers at the local level,
     including specialized training in disaster response and preparedness.'
-  - 'Strengthening of inter-institutional links: Close coordination with all actors
+  - 'Strengthening of inter-institutional links:  Close coordination with all actors
     involved in the response was required, improving relations with national and local
     authorities and non- governmental organizations, as well as with members of the
     Red Cross Red Crescent Movement. This served to consolidate existing and new partnerships
     vital to respond not only to this but to future emergencies.'
-  - 'Strengthening of community links: By its very nature, an operation such as this
+  - 'Strengthening of community links:  By its very nature, an operation such as this
     serves to strengthen links with affected communities, not only in the immediate
     response but in the early recovery and recovery phases, enhancing a greater understanding
     of community needs and establishing priorities for continued action in these areas.

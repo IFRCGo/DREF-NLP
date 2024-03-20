@@ -9,7 +9,13 @@
     span_number: 0
     total_y: 7317.43994140625
     origin_x: 41.400001525878906
-    bbox: (41.400001525878906, 177.65013122558594, 100.96285247802734, 191.2955322265625)
+    bbox:
+    - 41.400001525878906
+    - 177.65013122558594
+    - 100.96285247802734
+    - 191.2955322265625
+    bbox_x1: 41.400001525878906
+    bbox_x2: 100.96285247802734
     idx: 459
   sector_title: Shelter, Housing and Settlements
   sector_idx: 331
@@ -17,7 +23,7 @@
   content:
   - index: 460
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 9
@@ -26,11 +32,19 @@
     span_number: 0
     total_y: 7344.679931640625
     origin_x: 59.400001525878906
-    bbox: (59.400001525878906, 205.52615356445312, 64.0088119506836, 217.8016357421875)
+    bbox:
+    - 59.400001525878906
+    - 205.52615356445312
+    - 64.0088119506836
+    - 217.8016357421875
+    bbox_x1: 59.400001525878906
+    bbox_x2: 64.0088119506836
     double_fontsize_int: 20
   - index: 461
-    text: 'Lack of Warehouse Facilities:'
-    text_base: lack of warehouse facilities
+    text: 'Lack of Warehouse Facilities:  One significant challenge encountered was
+      the absence of warehouse '
+    text_base: lack of warehouse facilities one significant challenge encountered
+      was the absence of warehouse
     style: 'italic, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 9
@@ -39,20 +53,13 @@
     span_number: 1
     total_y: 7344.679931640625
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 204.89012145996094, 203.17034912109375, 218.5355224609375)
-    double_fontsize_int: 20
-  - index: 462
-    text: ' One significant challenge encountered was the absence of warehouse '
-    text_base: one significant challenge encountered was the absence of warehouse
-    style: 'regular, 20, #000000, #f4f4f4'
-    size: 10.020000457763672
-    page_number: 9
-    block_number: 4
-    line_number: 1
-    span_number: 1
-    total_y: 7344.679931640625
-    origin_x: 203.17999267578125
-    bbox: (203.17999267578125, 204.89012145996094, 533.2313232421875, 218.5355224609375)
+    bbox:
+    - 77.4000015258789
+    - 204.89012145996094
+    - 203.17034912109375
+    - 218.5355224609375
+    bbox_x1: 77.4000015258789
+    bbox_x2: 533.2313232421875
     double_fontsize_int: 20
   - index: 463
     text: 'facilities at the BDRCS branch level for storing relief items. Consequently,
@@ -65,9 +72,15 @@
     block_number: 4
     line_number: 2
     span_number: 0
-    total_y: 7358.299926757812
+    total_y: 7358.2999267578125
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 218.51011657714844, 553.7583618164062, 232.155517578125)
+    bbox:
+    - 77.4000015258789
+    - 218.51011657714844
+    - 553.7583618164062
+    - 232.155517578125
+    bbox_x1: 77.4000015258789
+    bbox_x2: 553.7583618164062
     double_fontsize_int: 20
   - index: 464
     text: 'items such as tarpaulins, shelter toolkits, sleeping mats, etc., from its
@@ -82,11 +95,17 @@
     span_number: 0
     total_y: 7371.919921875
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 232.13011169433594, 531.44287109375, 245.7755126953125)
+    bbox:
+    - 77.4000015258789
+    - 232.13011169433594
+    - 531.44287109375
+    - 245.7755126953125
+    bbox_x1: 77.4000015258789
+    bbox_x2: 531.44287109375
     double_fontsize_int: 20
   - index: 465
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 9
@@ -95,11 +114,19 @@
     span_number: 0
     total_y: 7399.159973144531
     origin_x: 59.400001525878906
-    bbox: (59.400001525878906, 260.0061950683594, 64.0088119506836, 272.28167724609375)
+    bbox:
+    - 59.400001525878906
+    - 260.0061950683594
+    - 64.0088119506836
+    - 272.28167724609375
+    bbox_x1: 59.400001525878906
+    bbox_x2: 64.0088119506836
     double_fontsize_int: 20
   - index: 466
-    text: 'Difficulty in Road Access:'
-    text_base: difficulty in road access
+    text: 'Difficulty in Road Access:  Accessing the operation location by road was
+      challenging due to inundation and '
+    text_base: difficulty in road access accessing the operation location by road
+      was challenging due to inundation and
     style: 'italic, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 9
@@ -108,22 +135,13 @@
     span_number: 1
     total_y: 7399.159973144531
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 259.37017822265625, 185.51510620117188, 273.01556396484375)
-    double_fontsize_int: 20
-  - index: 467
-    text: ' Accessing the operation location by road was challenging due to inundation
-      and '
-    text_base: accessing the operation location by road was challenging due to inundation
-      and
-    style: 'regular, 20, #000000, #f4f4f4'
-    size: 10.020000457763672
-    page_number: 9
-    block_number: 6
-    line_number: 1
-    span_number: 1
-    total_y: 7399.159973144531
-    origin_x: 185.5399932861328
-    bbox: (185.5399932861328, 259.37017822265625, 562.615234375, 273.01556396484375)
+    bbox:
+    - 77.4000015258789
+    - 259.37017822265625
+    - 185.51510620117188
+    - 273.01556396484375
+    bbox_x1: 77.4000015258789
+    bbox_x2: 562.615234375
     double_fontsize_int: 20
   - index: 468
     text: 'adverse weather conditions, including heavy rainfall leading to muddy roads
@@ -138,7 +156,13 @@
     span_number: 0
     total_y: 7412.779937744141
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 272.9901123046875, 547.015869140625, 286.6355285644531)
+    bbox:
+    - 77.4000015258789
+    - 272.9901123046875
+    - 547.015869140625
+    - 286.6355285644531
+    bbox_x1: 77.4000015258789
+    bbox_x2: 547.015869140625
     double_fontsize_int: 20
   - index: 469
     text: 'Nonetheless, BDRCS organized locally available transportation options like
@@ -153,7 +177,13 @@
     span_number: 0
     total_y: 7426.399963378906
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 286.61016845703125, 554.3095703125, 300.25555419921875)
+    bbox:
+    - 77.4000015258789
+    - 286.61016845703125
+    - 554.3095703125
+    - 300.25555419921875
+    bbox_x1: 77.4000015258789
+    bbox_x2: 554.3095703125
     double_fontsize_int: 20
   - index: 470
     text: 'deliver relief items to the affected people. '
@@ -166,11 +196,17 @@
     span_number: 0
     total_y: 7440.019958496094
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 300.23016357421875, 274.1228332519531, 313.87554931640625)
+    bbox:
+    - 77.4000015258789
+    - 300.23016357421875
+    - 274.1228332519531
+    - 313.87554931640625
+    bbox_x1: 77.4000015258789
+    bbox_x2: 274.1228332519531
     double_fontsize_int: 20
   - index: 471
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 9
@@ -179,11 +215,19 @@
     span_number: 0
     total_y: 7467.259948730469
     origin_x: 59.400001525878906
-    bbox: (59.400001525878906, 328.1061706542969, 64.0088119506836, 340.38165283203125)
+    bbox:
+    - 59.400001525878906
+    - 328.1061706542969
+    - 64.0088119506836
+    - 340.38165283203125
+    bbox_x1: 59.400001525878906
+    bbox_x2: 64.0088119506836
     double_fontsize_int: 20
   - index: 472
-    text: 'Limited Transportation Access in Remote Areas:'
-    text_base: limited transportation access in remote areas
+    text: 'Limited Transportation Access in Remote Areas:  In remote haor locations
+      like Telikhal and Companiganj, '
+    text_base: limited transportation access in remote areas in remote haor locations
+      like telikhal and companiganj
     style: 'italic, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 9
@@ -192,20 +236,13 @@
     span_number: 1
     total_y: 7467.259948730469
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 327.47015380859375, 285.2641906738281, 341.11553955078125)
-    double_fontsize_int: 20
-  - index: 473
-    text: ' In remote haor locations like Telikhal and Companiganj, '
-    text_base: in remote haor locations like telikhal and companiganj
-    style: 'regular, 20, #000000, #f4f4f4'
-    size: 10.020000457763672
-    page_number: 9
-    block_number: 8
-    line_number: 1
-    span_number: 1
-    total_y: 7467.259948730469
-    origin_x: 285.32000732421875
-    bbox: (285.32000732421875, 327.47015380859375, 549.2055053710938, 341.11553955078125)
+    bbox:
+    - 77.4000015258789
+    - 327.47015380859375
+    - 285.2641906738281
+    - 341.11553955078125
+    bbox_x1: 77.4000015258789
+    bbox_x2: 549.2055053710938
     double_fontsize_int: 20
   - index: 474
     text: 'there was limited transportation access by road, particularly for delivering
@@ -220,7 +257,13 @@
     span_number: 0
     total_y: 7480.879943847656
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 341.09014892578125, 546.1134033203125, 354.73553466796875)
+    bbox:
+    - 77.4000015258789
+    - 341.09014892578125
+    - 546.1134033203125
+    - 354.73553466796875
+    bbox_x1: 77.4000015258789
+    bbox_x2: 546.1134033203125
     double_fontsize_int: 20
   - index: 475
     text: 'consultation with local communities, BDRCS arranged distribution points
@@ -235,7 +278,13 @@
     span_number: 0
     total_y: 7494.499938964844
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 354.71014404296875, 541.2936401367188, 368.35552978515625)
+    bbox:
+    - 77.4000015258789
+    - 354.71014404296875
+    - 541.2936401367188
+    - 368.35552978515625
+    bbox_x1: 77.4000015258789
+    bbox_x2: 541.2936401367188
     double_fontsize_int: 20
   - index: 476
     text: 'targeted communities. Simultaneously, BDRCS emphasized a cash-based intervention,
@@ -250,7 +299,13 @@
     span_number: 0
     total_y: 7508.139953613281
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 368.35015869140625, 563.989013671875, 381.99554443359375)
+    bbox:
+    - 77.4000015258789
+    - 368.35015869140625
+    - 563.989013671875
+    - 381.99554443359375
+    bbox_x1: 77.4000015258789
+    bbox_x2: 563.989013671875
     double_fontsize_int: 20
   - index: 477
     text: 'households to procure locally available items. '
@@ -263,11 +318,17 @@
     span_number: 0
     total_y: 7521.759948730469
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 381.97015380859375, 292.1228332519531, 395.61553955078125)
+    bbox:
+    - 77.4000015258789
+    - 381.97015380859375
+    - 292.1228332519531
+    - 395.61553955078125
+    bbox_x1: 77.4000015258789
+    bbox_x2: 292.1228332519531
     double_fontsize_int: 20
   - index: 478
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 9
@@ -276,11 +337,19 @@
     span_number: 0
     total_y: 7548.999938964844
     origin_x: 59.400001525878906
-    bbox: (59.400001525878906, 409.8461608886719, 64.0088119506836, 422.12164306640625)
+    bbox:
+    - 59.400001525878906
+    - 409.8461608886719
+    - 64.0088119506836
+    - 422.12164306640625
+    bbox_x1: 59.400001525878906
+    bbox_x2: 64.0088119506836
     double_fontsize_int: 20
   - index: 479
-    text: 'Resource Constraints:'
-    text_base: resource constraints
+    text: 'Resource Constraints:  BDRCS faced challenges in meeting the needs of a
+      large number of affected people '
+    text_base: resource constraints bdrcs faced challenges in meeting the needs of
+      a large number of affected people
     style: 'italic, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 9
@@ -289,22 +358,13 @@
     span_number: 1
     total_y: 7548.999938964844
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 409.21014404296875, 172.408935546875, 422.85552978515625)
-    double_fontsize_int: 20
-  - index: 480
-    text: ' BDRCS faced challenges in meeting the needs of a large number of affected
-      people '
-    text_base: bdrcs faced challenges in meeting the needs of a large number of affected
-      people
-    style: 'regular, 20, #000000, #f4f4f4'
-    size: 10.020000457763672
-    page_number: 9
-    block_number: 10
-    line_number: 1
-    span_number: 1
-    total_y: 7548.999938964844
-    origin_x: 172.4600067138672
-    bbox: (172.4600067138672, 409.21014404296875, 563.182373046875, 422.85552978515625)
+    bbox:
+    - 77.4000015258789
+    - 409.21014404296875
+    - 172.408935546875
+    - 422.85552978515625
+    bbox_x1: 77.4000015258789
+    bbox_x2: 563.182373046875
     double_fontsize_int: 20
   - index: 481
     text: 'with limited available resources. To address these challenges, BDRCS maintained
@@ -319,7 +379,13 @@
     span_number: 0
     total_y: 7562.619964599609
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 422.83013916015625, 553.8470458984375, 436.4755554199219)
+    bbox:
+    - 77.4000015258789
+    - 422.83013916015625
+    - 553.8470458984375
+    - 436.4755554199219
+    bbox_x1: 77.4000015258789
+    bbox_x2: 553.8470458984375
     double_fontsize_int: 20
   - index: 482
     text: 'and consultation with local communities, humanitarian agencies, and the
@@ -334,7 +400,13 @@
     span_number: 0
     total_y: 7576.239959716797
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 436.45013427734375, 567.0347900390625, 450.0955505371094)
+    bbox:
+    - 77.4000015258789
+    - 436.45013427734375
+    - 567.0347900390625
+    - 450.0955505371094
+    bbox_x1: 77.4000015258789
+    bbox_x2: 567.0347900390625
     double_fontsize_int: 20
   - index: 483
     text: 'the most affected communities in coordination with relevant stakeholders
@@ -349,7 +421,13 @@
     span_number: 0
     total_y: 7589.859954833984
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 450.07012939453125, 535.8326416015625, 463.7155456542969)
+    bbox:
+    - 77.4000015258789
+    - 450.07012939453125
+    - 535.8326416015625
+    - 463.7155456542969
+    bbox_x1: 77.4000015258789
+    bbox_x2: 535.8326416015625
     double_fontsize_int: 20
   - index: 484
     text: 'vulnerable affected households through multisectoral household assessments.
@@ -364,7 +442,13 @@
     span_number: 0
     total_y: 7603.479949951172
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 463.69012451171875, 523.207763671875, 477.3355407714844)
+    bbox:
+    - 77.4000015258789
+    - 463.69012451171875
+    - 523.207763671875
+    - 477.3355407714844
+    bbox_x1: 77.4000015258789
+    bbox_x2: 523.207763671875
     double_fontsize_int: 20
   - index: 485
     text: 'operation, a feedback and complaint mechanism was established between the
@@ -379,7 +463,13 @@
     span_number: 0
     total_y: 7617.099945068359
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 477.31011962890625, 567.3756713867188, 490.9555358886719)
+    bbox:
+    - 77.4000015258789
+    - 477.31011962890625
+    - 567.3756713867188
+    - 490.9555358886719
+    bbox_x1: 77.4000015258789
+    bbox_x2: 567.3756713867188
     double_fontsize_int: 20
   - index: 486
     text: 'address this challenge. '
@@ -392,25 +482,31 @@
     span_number: 0
     total_y: 7630.719940185547
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 490.93011474609375, 186.2828369140625, 504.5755310058594)
+    bbox:
+    - 77.4000015258789
+    - 490.93011474609375
+    - 186.2828369140625
+    - 504.5755310058594
+    bbox_x1: 77.4000015258789
+    bbox_x2: 186.2828369140625
     double_fontsize_int: 20
   items:
-  - 'Lack of Warehouse Facilities: One significant challenge encountered was the absence
-    of warehouse facilities at the BDRCS branch level for storing relief items. Consequently,
-    BDRCS had to mobilize relief items such as tarpaulins, shelter toolkits, sleeping
-    mats, etc., from its central warehouse facilities.'
-  - 'Difficulty in Road Access: Accessing the operation location by road was challenging
+  - 'Lack of Warehouse Facilities:  One significant challenge encountered was the
+    absence of warehouse facilities at the BDRCS branch level for storing relief items.
+    Consequently, BDRCS had to mobilize relief items such as tarpaulins, shelter toolkits,
+    sleeping mats, etc., from its central warehouse facilities.'
+  - 'Difficulty in Road Access:  Accessing the operation location by road was challenging
     due to inundation and adverse weather conditions, including heavy rainfall leading
     to muddy roads and high temperatures. Nonetheless, BDRCS organized locally available
     transportation options like boats and rickshaw vans to deliver relief items to
     the affected people.'
-  - 'Limited Transportation Access in Remote Areas: In remote haor locations like
+  - 'Limited Transportation Access in Remote Areas:  In remote haor locations like
     Telikhal and Companiganj, there was limited transportation access by road, particularly
     for delivering corrugated iron sheets. In consultation with local communities,
     BDRCS arranged distribution points as close as possible to the targeted communities.
     Simultaneously, BDRCS emphasized a cash-based intervention, allowing targeted
     households to procure locally available items.'
-  - 'Resource Constraints: BDRCS faced challenges in meeting the needs of a large
+  - 'Resource Constraints:  BDRCS faced challenges in meeting the needs of a large
     number of affected people with limited available resources. To address these challenges,
     BDRCS maintained regular coordination and consultation with local communities,
     humanitarian agencies, and the government. BDRCS prioritized the most affected
@@ -427,9 +523,15 @@
     block_number: 4
     line_number: 26
     span_number: 0
-    total_y: 10142.09991455078
+    total_y: 10142.099914550781
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 625.9501342773438, 101.20285034179688, 639.5955200195312)
+    bbox:
+    - 41.63999938964844
+    - 625.9501342773438
+    - 101.20285034179688
+    - 639.5955200195312
+    bbox_x1: 41.63999938964844
+    bbox_x2: 101.20285034179688
     idx: 658
   sector_title: Livelihoods
   sector_idx: 505
@@ -437,7 +539,7 @@
   content:
   - index: 659
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 12
@@ -446,7 +548,13 @@
     span_number: 0
     total_y: 10169.339965820312
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 653.8262329101562, 64.24880981445312, 666.1016845703125)
+    bbox:
+    - 59.63999938964844
+    - 653.8262329101562
+    - 64.24880981445312
+    - 666.1016845703125
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 660
     text: 'During the initial relief phase, BDRCS encountered difficulties in reaching
@@ -461,7 +569,13 @@
     span_number: 1
     total_y: 10169.339965820312
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 653.190185546875, 569.7088623046875, 666.8355712890625)
+    bbox:
+    - 77.63999938964844
+    - 653.190185546875
+    - 569.7088623046875
+    - 666.8355712890625
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.7088623046875
     double_fontsize_int: 20
   - index: 661
     text: 'food assistance. This was primarily due to inundation, a lack of transportation
@@ -476,7 +590,13 @@
     span_number: 0
     total_y: 10182.9599609375
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 666.8101806640625, 569.7780151367188, 680.45556640625)
+    bbox:
+    - 77.63999938964844
+    - 666.8101806640625
+    - 569.7780151367188
+    - 680.45556640625
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.7780151367188
     double_fontsize_int: 20
   - index: 662
     text: 'accessibility. To address this situation, BDRCS engaged the support of
@@ -491,7 +611,13 @@
     span_number: 0
     total_y: 10196.579956054688
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 680.43017578125, 569.6575927734375, 694.0755615234375)
+    bbox:
+    - 77.63999938964844
+    - 680.43017578125
+    - 569.6575927734375
+    - 694.0755615234375
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.6575927734375
     double_fontsize_int: 20
   - index: 663
     text: 'floods. These branches procured food items and delivered them to the flood-affected
@@ -504,13 +630,19 @@
     block_number: 5
     line_number: 4
     span_number: 0
-    total_y: 10210.199951171877
+    total_y: 10210.199951171875
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 694.0501708984375, 519.2628173828125, 707.695556640625)
+    bbox:
+    - 77.63999938964844
+    - 694.0501708984375
+    - 519.2628173828125
+    - 707.695556640625
+    bbox_x1: 77.63999938964844
+    bbox_x2: 519.2628173828125
     double_fontsize_int: 20
   - index: 687
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 13
@@ -519,7 +651,13 @@
     span_number: 0
     total_y: 10355.39990234375
     origin_x: 58.13999938964844
-    bbox: (58.13999938964844, 47.76614761352539, 62.748809814453125, 60.0416259765625)
+    bbox:
+    - 58.13999938964844
+    - 47.76614761352539
+    - 62.748809814453125
+    - 60.0416259765625
+    bbox_x1: 58.13999938964844
+    bbox_x2: 62.748809814453125
     double_fontsize_int: 20
   - index: 688
     text: 'Volunteers and staff in respective severely flood affected districts experienced
@@ -534,7 +672,13 @@
     span_number: 1
     total_y: 10355.39990234375
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 47.13011169433594, 569.6870727539062, 60.7755126953125)
+    bbox:
+    - 77.63999938964844
+    - 47.13011169433594
+    - 569.6870727539062
+    - 60.7755126953125
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.6870727539062
     double_fontsize_int: 20
   - index: 689
     text: 'using mobile phone and computer as there was several days without electricity
@@ -549,7 +693,13 @@
     span_number: 0
     total_y: 10369.019958496094
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 60.75016784667969, 569.4691162109375, 74.39556884765625)
+    bbox:
+    - 77.63999938964844
+    - 60.75016784667969
+    - 569.4691162109375
+    - 74.39556884765625
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.4691162109375
     double_fontsize_int: 20
   - index: 690
     text: 'disrupted. '
@@ -560,9 +710,15 @@
     block_number: 2
     line_number: 3
     span_number: 0
-    total_y: 10382.63995361328
+    total_y: 10382.639953613281
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 74.37016296386719, 127.96285247802734, 88.01556396484375)
+    bbox:
+    - 77.63999938964844
+    - 74.37016296386719
+    - 127.96285247802734
+    - 88.01556396484375
+    bbox_x1: 77.63999938964844
+    bbox_x2: 127.96285247802734
     double_fontsize_int: 20
   items:
   - During the initial relief phase, BDRCS encountered difficulties in reaching flood-affected
@@ -584,7 +740,13 @@
     span_number: 0
     total_y: 11609.619934082031
     origin_x: 41.400001525878906
-    bbox: (41.400001525878906, 509.23016357421875, 100.96285247802734, 522.8755493164062)
+    bbox:
+    - 41.400001525878906
+    - 509.23016357421875
+    - 100.96285247802734
+    - 522.8755493164062
+    bbox_x1: 41.400001525878906
+    bbox_x2: 100.96285247802734
     idx: 802
   sector_title: Multi-Purpose Cash
   sector_idx: 705
@@ -592,7 +754,7 @@
   content:
   - index: 803
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 14
@@ -601,7 +763,13 @@
     span_number: 0
     total_y: 11636.859924316406
     origin_x: 59.400001525878906
-    bbox: (59.400001525878906, 537.106201171875, 64.0088119506836, 549.3816528320312)
+    bbox:
+    - 59.400001525878906
+    - 537.106201171875
+    - 64.0088119506836
+    - 549.3816528320312
+    bbox_x1: 59.400001525878906
+    bbox_x2: 64.0088119506836
     double_fontsize_int: 20
   - index: 804
     text: 'Considering the national cash working recommended package, BDRCS initially
@@ -616,7 +784,13 @@
     span_number: 1
     total_y: 11636.859924316406
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 536.4701538085938, 570.0993041992188, 550.1155395507812)
+    bbox:
+    - 77.4000015258789
+    - 536.4701538085938
+    - 570.0993041992188
+    - 550.1155395507812
+    bbox_x1: 77.4000015258789
+    bbox_x2: 570.0993041992188
     double_fontsize_int: 20
   - index: 805
     text: 'cash grant of BDT 4,500 per household. However, both the evaluation and
@@ -631,7 +805,13 @@
     span_number: 0
     total_y: 11650.479919433594
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 550.0901489257812, 570.0169067382812, 563.7355346679688)
+    bbox:
+    - 77.4000015258789
+    - 550.0901489257812
+    - 570.0169067382812
+    - 563.7355346679688
+    bbox_x1: 77.4000015258789
+    bbox_x2: 570.0169067382812
     double_fontsize_int: 20
   - index: 806
     text: 'assistance was insufficient to meet the needs.  '
@@ -642,9 +822,15 @@
     block_number: 15
     line_number: 3
     span_number: 0
-    total_y: 11664.09991455078
+    total_y: 11664.099914550781
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 563.7101440429688, 295.6228332519531, 577.3555297851562)
+    bbox:
+    - 77.4000015258789
+    - 563.7101440429688
+    - 295.6228332519531
+    - 577.3555297851562
+    bbox_x1: 77.4000015258789
+    bbox_x2: 295.6228332519531
     double_fontsize_int: 20
   - index: 807
     text: 'As a result, there is a recommendation to increase the multipurpose cash
@@ -659,7 +845,13 @@
     span_number: 0
     total_y: 11691.339904785156
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 590.9501342773438, 570.0975952148438, 604.5955200195312)
+    bbox:
+    - 77.4000015258789
+    - 590.9501342773438
+    - 570.0975952148438
+    - 604.5955200195312
+    bbox_x1: 77.4000015258789
+    bbox_x2: 570.0975952148438
     double_fontsize_int: 20
   - index: 808
     text: 'market prices of essential items and inflation. Based on updated information
@@ -674,7 +866,13 @@
     span_number: 0
     total_y: 11704.9599609375
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 604.5701904296875, 569.9107055664062, 618.215576171875)
+    bbox:
+    - 77.4000015258789
+    - 604.5701904296875
+    - 569.9107055664062
+    - 618.215576171875
+    bbox_x1: 77.4000015258789
+    bbox_x2: 569.9107055664062
     double_fontsize_int: 20
   - index: 809
     text: 'Economic Survey (HES), the CWG is currently in the process of raising the
@@ -687,9 +885,15 @@
     block_number: 15
     line_number: 7
     span_number: 0
-    total_y: 11718.59991455078
+    total_y: 11718.599914550781
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 618.2101440429688, 569.7905883789062, 631.8555297851562)
+    bbox:
+    - 77.4000015258789
+    - 618.2101440429688
+    - 569.7905883789062
+    - 631.8555297851562
+    bbox_x1: 77.4000015258789
+    bbox_x2: 569.7905883789062
     double_fontsize_int: 20
   - index: 810
     text: 'to BDT 6,000. This adjustment aims to better enable people to meet their
@@ -702,9 +906,15 @@
     block_number: 15
     line_number: 8
     span_number: 0
-    total_y: 11732.159912109377
+    total_y: 11732.159912109375
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 631.7701416015625, 569.922607421875, 645.41552734375)
+    bbox:
+    - 77.4000015258789
+    - 631.7701416015625
+    - 569.922607421875
+    - 645.41552734375
+    bbox_x1: 77.4000015258789
+    bbox_x2: 569.922607421875
     double_fontsize_int: 20
   - index: 811
     text: 'this increase are expected to be published by December 2023. '
@@ -717,11 +927,17 @@
     span_number: 0
     total_y: 11745.779907226562
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 645.39013671875, 369.72283935546875, 659.0355224609375)
+    bbox:
+    - 77.4000015258789
+    - 645.39013671875
+    - 369.72283935546875
+    - 659.0355224609375
+    bbox_x1: 77.4000015258789
+    bbox_x2: 369.72283935546875
     double_fontsize_int: 20
   - index: 812
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 14
@@ -730,7 +946,13 @@
     span_number: 0
     total_y: 11773.019897460938
     origin_x: 59.400001525878906
-    bbox: (59.400001525878906, 673.2661743164062, 64.0088119506836, 685.5416259765625)
+    bbox:
+    - 59.400001525878906
+    - 673.2661743164062
+    - 64.0088119506836
+    - 685.5416259765625
+    bbox_x1: 59.400001525878906
+    bbox_x2: 64.0088119506836
     double_fontsize_int: 20
   - index: 813
     text: 'BDRCS volunteers, NDRT members, and staff faced significant challenges
@@ -745,7 +967,13 @@
     span_number: 1
     total_y: 11773.019897460938
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 672.630126953125, 569.9006958007812, 686.2755126953125)
+    bbox:
+    - 77.4000015258789
+    - 672.630126953125
+    - 569.9006958007812
+    - 686.2755126953125
+    bbox_x1: 77.4000015258789
+    bbox_x2: 569.9006958007812
     double_fontsize_int: 20
   - index: 814
     text: 'assessments due to factors such as remoteness, inundation, and transportation
@@ -758,9 +986,15 @@
     block_number: 17
     line_number: 2
     span_number: 0
-    total_y: 11786.639892578123
+    total_y: 11786.639892578125
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 686.2501220703125, 570.0762939453125, 699.8955078125)
+    bbox:
+    - 77.4000015258789
+    - 686.2501220703125
+    - 570.0762939453125
+    - 699.8955078125
+    bbox_x1: 77.4000015258789
+    bbox_x2: 570.0762939453125
     double_fontsize_int: 20
   - index: 815
     text: 'with the dedicated support of local volunteers, BDRCS persevered in carrying
@@ -775,7 +1009,13 @@
     span_number: 0
     total_y: 11800.259948730469
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 699.8701782226562, 569.8106079101562, 713.5155639648438)
+    bbox:
+    - 77.4000015258789
+    - 699.8701782226562
+    - 569.8106079101562
+    - 713.5155639648438
+    bbox_x1: 77.4000015258789
+    bbox_x2: 569.8106079101562
     double_fontsize_int: 20
   - index: 816
     text: 'finalizing the selection of targeted households for cash assistance. '
@@ -788,7 +1028,13 @@
     span_number: 0
     total_y: 11813.879943847656
     origin_x: 77.4000015258789
-    bbox: (77.4000015258789, 713.4901733398438, 387.7828369140625, 727.1355590820312)
+    bbox:
+    - 77.4000015258789
+    - 713.4901733398438
+    - 387.7828369140625
+    - 727.1355590820312
+    bbox_x1: 77.4000015258789
+    bbox_x2: 387.7828369140625
     double_fontsize_int: 20
   items:
   - Considering the national cash working recommended package, BDRCS initially provided
@@ -816,7 +1062,13 @@
     span_number: 0
     total_y: 14315.999877929688
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 47.13011169433594, 101.20285034179688, 60.7755126953125)
+    bbox:
+    - 41.63999938964844
+    - 47.13011169433594
+    - 101.20285034179688
+    - 60.7755126953125
+    bbox_x1: 41.63999938964844
+    bbox_x2: 101.20285034179688
     idx: 951
   sector_title: Health and Care
   sector_idx: 837
@@ -824,16 +1076,22 @@
   content:
   - index: 952
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 18
     block_number: 3
     line_number: 0
     span_number: 0
-    total_y: 14343.23992919922
+    total_y: 14343.239929199219
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 75.00619506835938, 64.24880981445312, 87.28167724609375)
+    bbox:
+    - 59.63999938964844
+    - 75.00619506835938
+    - 64.24880981445312
+    - 87.28167724609375
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 953
     text: 'Due to inundation and lack of transport, during the initial emergency phase
@@ -846,9 +1104,15 @@
     block_number: 3
     line_number: 0
     span_number: 1
-    total_y: 14343.23992919922
+    total_y: 14343.239929199219
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 74.37016296386719, 572.8489990234375, 88.01556396484375)
+    bbox:
+    - 77.63999938964844
+    - 74.37016296386719
+    - 572.8489990234375
+    - 88.01556396484375
+    bbox_x1: 77.63999938964844
+    bbox_x2: 572.8489990234375
     double_fontsize_int: 20
   - index: 954
     text: 'difficulties to reach remote locations and often it took longer time to
@@ -863,7 +1127,13 @@
     span_number: 0
     total_y: 14356.859924316406
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 87.99015808105469, 572.6368408203125, 101.63555908203125)
+    bbox:
+    - 77.63999938964844
+    - 87.99015808105469
+    - 572.6368408203125
+    - 101.63555908203125
+    bbox_x1: 77.63999938964844
+    bbox_x2: 572.6368408203125
     double_fontsize_int: 20
   - index: 955
     text: 'Considering the challenges, BDRCS allocated more resources for MMT and
@@ -878,7 +1148,13 @@
     span_number: 0
     total_y: 14370.479919433594
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 101.61015319824219, 572.5455322265625, 115.25555419921875)
+    bbox:
+    - 77.63999938964844
+    - 101.61015319824219
+    - 572.5455322265625
+    - 115.25555419921875
+    bbox_x1: 77.63999938964844
+    bbox_x2: 572.5455322265625
     double_fontsize_int: 20
   - index: 956
     text: 'provide emergency health services.  '
@@ -891,7 +1167,13 @@
     span_number: 0
     total_y: 14384.119934082031
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 115.25016784667969, 247.06285095214844, 128.89556884765625)
+    bbox:
+    - 77.63999938964844
+    - 115.25016784667969
+    - 247.06285095214844
+    - 128.89556884765625
+    bbox_x1: 77.63999938964844
+    bbox_x2: 247.06285095214844
     double_fontsize_int: 20
   items:
   - Due to inundation and lack of transport, during the initial emergency phase mobile
@@ -908,9 +1190,15 @@
     block_number: 2
     line_number: 16
     span_number: 0
-    total_y: 16118.119873046877
+    total_y: 16118.119873046875
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 265.0101318359375, 101.20285034179688, 278.655517578125)
+    bbox:
+    - 41.63999938964844
+    - 265.0101318359375
+    - 101.20285034179688
+    - 278.655517578125
+    bbox_x1: 41.63999938964844
+    bbox_x2: 101.20285034179688
     idx: 1085
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 961
@@ -918,7 +1206,7 @@
   content:
   - index: 1086
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 20
@@ -927,7 +1215,13 @@
     span_number: 0
     total_y: 16145.359893798828
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 292.88616943359375, 64.24880981445312, 305.1616516113281)
+    bbox:
+    - 59.63999938964844
+    - 292.88616943359375
+    - 64.24880981445312
+    - 305.1616516113281
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 1087
     text: 'The planned targets could not be reached due to low funding coverage, representing
@@ -942,7 +1236,13 @@
     span_number: 1
     total_y: 16145.359893798828
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 292.2501220703125, 569.8775634765625, 305.8955383300781)
+    bbox:
+    - 77.63999938964844
+    - 292.2501220703125
+    - 569.8775634765625
+    - 305.8955383300781
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.8775634765625
     double_fontsize_int: 20
   - index: 1088
     text: 'the total IFRC EA ask. '
@@ -955,11 +1255,17 @@
     span_number: 0
     total_y: 16158.979888916016
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 305.8701171875, 177.70285034179688, 319.5155334472656)
+    bbox:
+    - 77.63999938964844
+    - 305.8701171875
+    - 177.70285034179688
+    - 319.5155334472656
+    bbox_x1: 77.63999938964844
+    bbox_x2: 177.70285034179688
     double_fontsize_int: 20
   - index: 1089
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 20
@@ -968,7 +1274,13 @@
     span_number: 0
     total_y: 16186.219909667969
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 333.7461853027344, 64.24880981445312, 346.02166748046875)
+    bbox:
+    - 59.63999938964844
+    - 333.7461853027344
+    - 64.24880981445312
+    - 346.02166748046875
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 1090
     text: 'Since the Sylhet region had not experienced such severe floods in the last
@@ -983,7 +1295,13 @@
     span_number: 1
     total_y: 16186.219909667969
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 333.11016845703125, 569.58984375, 346.75555419921875)
+    bbox:
+    - 77.63999938964844
+    - 333.11016845703125
+    - 569.58984375
+    - 346.75555419921875
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.58984375
     double_fontsize_int: 20
   - index: 1091
     text: 'limited capacity in the flood-affected districts to provide WASH services
@@ -998,7 +1316,13 @@
     span_number: 0
     total_y: 16199.839904785156
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 346.73016357421875, 569.6910400390625, 360.37554931640625)
+    bbox:
+    - 77.63999938964844
+    - 346.73016357421875
+    - 569.6910400390625
+    - 360.37554931640625
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.6910400390625
     double_fontsize_int: 20
   - index: 1092
     text: 'severely flooded districts, such as Sylhet and Sunamganj, there were no
@@ -1013,7 +1337,13 @@
     span_number: 0
     total_y: 16213.459899902344
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 360.35015869140625, 569.8193359375, 373.99554443359375)
+    bbox:
+    - 77.63999938964844
+    - 360.35015869140625
+    - 569.8193359375
+    - 373.99554443359375
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.8193359375
     double_fontsize_int: 20
   - index: 1093
     text: 'Consequently, BDRCS had to deploy mobile water purification units from
@@ -1028,7 +1358,13 @@
     span_number: 0
     total_y: 16227.099884033203
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 373.9901123046875, 569.8200073242188, 387.6355285644531)
+    bbox:
+    - 77.63999938964844
+    - 373.9901123046875
+    - 569.8200073242188
+    - 387.6355285644531
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.8200073242188
     double_fontsize_int: 20
   - index: 1094
     text: 'in Dhaka. '
@@ -1041,11 +1377,17 @@
     span_number: 0
     total_y: 16240.719909667969
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 387.61016845703125, 124.00285339355469, 401.25555419921875)
+    bbox:
+    - 77.63999938964844
+    - 387.61016845703125
+    - 124.00285339355469
+    - 401.25555419921875
+    bbox_x1: 77.63999938964844
+    bbox_x2: 124.00285339355469
     double_fontsize_int: 20
   - index: 1095
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 20
@@ -1054,7 +1396,13 @@
     span_number: 0
     total_y: 16267.959899902344
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 415.4861755371094, 64.24880981445312, 427.76165771484375)
+    bbox:
+    - 59.63999938964844
+    - 415.4861755371094
+    - 64.24880981445312
+    - 427.76165771484375
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 1096
     text: 'A significant number of sanitation facilities had been damaged, and according
@@ -1069,7 +1417,13 @@
     span_number: 1
     total_y: 16267.959899902344
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 414.85015869140625, 569.7655639648438, 428.49554443359375)
+    bbox:
+    - 77.63999938964844
+    - 414.85015869140625
+    - 569.7655639648438
+    - 428.49554443359375
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.7655639648438
     double_fontsize_int: 20
   - index: 1097
     text: 'a large portion of the affected people could not construct latrines without
@@ -1084,7 +1438,13 @@
     span_number: 0
     total_y: 16281.579895019531
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 428.47015380859375, 569.5294799804688, 442.11553955078125)
+    bbox:
+    - 77.63999938964844
+    - 428.47015380859375
+    - 569.5294799804688
+    - 442.11553955078125
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.5294799804688
     double_fontsize_int: 20
   - index: 1098
     text: 'challenges in identifying the limited number of targeted households that
@@ -1097,9 +1457,15 @@
     block_number: 5
     line_number: 3
     span_number: 0
-    total_y: 16295.19989013672
+    total_y: 16295.199890136719
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 442.09014892578125, 569.883056640625, 455.73553466796875)
+    bbox:
+    - 77.63999938964844
+    - 442.09014892578125
+    - 569.883056640625
+    - 455.73553466796875
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.883056640625
     double_fontsize_int: 20
   - index: 1099
     text: 'large, affected population. To overcome this challenge, BDRCS conducted
@@ -1114,7 +1480,13 @@
     span_number: 0
     total_y: 16308.819885253906
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 455.71014404296875, 569.629638671875, 469.35552978515625)
+    bbox:
+    - 77.63999938964844
+    - 455.71014404296875
+    - 569.629638671875
+    - 469.35552978515625
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.629638671875
     double_fontsize_int: 20
   - index: 1100
     text: 'most affected areas in coordination with local government and other humanitarian
@@ -1129,7 +1501,13 @@
     span_number: 0
     total_y: 16322.439910888672
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 469.33013916015625, 569.6094360351562, 482.9755554199219)
+    bbox:
+    - 77.63999938964844
+    - 469.33013916015625
+    - 569.6094360351562
+    - 482.9755554199219
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.6094360351562
     double_fontsize_int: 20
   - index: 1101
     text: 'limited resources. '
@@ -1142,7 +1520,13 @@
     span_number: 0
     total_y: 16336.05990600586
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 482.95013427734375, 163.5428466796875, 496.5955505371094)
+    bbox:
+    - 77.63999938964844
+    - 482.95013427734375
+    - 163.5428466796875
+    - 496.5955505371094
+    bbox_x1: 77.63999938964844
+    bbox_x2: 163.5428466796875
     double_fontsize_int: 20
   items:
   - The planned targets could not be reached due to low funding coverage, representing
@@ -1171,7 +1555,13 @@
     span_number: 0
     total_y: 17607.07989501953
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 169.7301483154297, 101.20285034179688, 183.37554931640625)
+    bbox:
+    - 41.63999938964844
+    - 169.7301483154297
+    - 101.20285034179688
+    - 183.37554931640625
+    bbox_x1: 41.63999938964844
+    bbox_x2: 101.20285034179688
     idx: 1184
   sector_title: Protection, Gender and Inclusion
   sector_idx: 1111
@@ -1179,7 +1569,7 @@
   content:
   - index: 1185
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 22
@@ -1188,7 +1578,13 @@
     span_number: 0
     total_y: 17634.259887695312
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 197.54617309570312, 64.24880981445312, 209.8216552734375)
+    bbox:
+    - 59.63999938964844
+    - 197.54617309570312
+    - 64.24880981445312
+    - 209.8216552734375
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 1186
     text: 'Time limitation is one of the biggest challenges for providing psychological
@@ -1203,7 +1599,13 @@
     span_number: 1
     total_y: 17634.259887695312
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 196.91014099121094, 569.9010009765625, 210.5555419921875)
+    bbox:
+    - 77.63999938964844
+    - 196.91014099121094
+    - 569.9010009765625
+    - 210.5555419921875
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.9010009765625
     double_fontsize_int: 20
   - index: 1187
     text: 'long-term treatment.  '
@@ -1216,11 +1618,17 @@
     span_number: 0
     total_y: 17647.8798828125
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 210.53013610839844, 180.94284057617188, 224.175537109375)
+    bbox:
+    - 77.63999938964844
+    - 210.53013610839844
+    - 180.94284057617188
+    - 224.175537109375
+    bbox_x1: 77.63999938964844
+    bbox_x2: 180.94284057617188
     double_fontsize_int: 20
   - index: 1188
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 22
@@ -1229,7 +1637,13 @@
     span_number: 0
     total_y: 17675.119873046875
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 238.40615844726562, 64.24880981445312, 250.681640625)
+    bbox:
+    - 59.63999938964844
+    - 238.40615844726562
+    - 64.24880981445312
+    - 250.681640625
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 1189
     text: 'There is lack of technical expertise to conduct detail individual assessment
@@ -1244,7 +1658,13 @@
     span_number: 1
     total_y: 17675.119873046875
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 237.77012634277344, 569.8617553710938, 251.41552734375)
+    bbox:
+    - 77.63999938964844
+    - 237.77012634277344
+    - 569.8617553710938
+    - 251.41552734375
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.8617553710938
     double_fontsize_int: 20
   - index: 1190
     text: 'to provide appropriate assistance on time. to overcome the challenges BDRCS
@@ -1259,7 +1679,13 @@
     span_number: 0
     total_y: 17688.739868164062
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 251.39012145996094, 569.710205078125, 265.0355224609375)
+    bbox:
+    - 77.63999938964844
+    - 251.39012145996094
+    - 569.710205078125
+    - 265.0355224609375
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.710205078125
     double_fontsize_int: 20
   - index: 1191
     text: 'Disability in Development (CDD) to identify the individual needs of people
@@ -1274,7 +1700,13 @@
     span_number: 0
     total_y: 17702.35986328125
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 265.0101318359375, 569.6296997070312, 278.655517578125)
+    bbox:
+    - 77.63999938964844
+    - 265.0101318359375
+    - 569.6296997070312
+    - 278.655517578125
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.6296997070312
     double_fontsize_int: 20
   - index: 1192
     text: 'appropriate assistance.  '
@@ -1287,11 +1719,17 @@
     span_number: 0
     total_y: 17715.979888916016
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 278.630126953125, 191.50283813476562, 292.2755432128906)
+    bbox:
+    - 77.63999938964844
+    - 278.630126953125
+    - 191.50283813476562
+    - 292.2755432128906
+    bbox_x1: 77.63999938964844
+    bbox_x2: 191.50283813476562
     double_fontsize_int: 20
   - index: 1193
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 22
@@ -1300,7 +1738,13 @@
     span_number: 0
     total_y: 17743.21987915039
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 306.50616455078125, 64.24880981445312, 318.7816467285156)
+    bbox:
+    - 59.63999938964844
+    - 306.50616455078125
+    - 64.24880981445312
+    - 318.7816467285156
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 1194
     text: There was lack of availability of existing health practitioners particularly
@@ -1315,7 +1759,13 @@
     span_number: 1
     total_y: 17743.21987915039
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 305.8701171875, 567.2841796875, 319.5155334472656)
+    bbox:
+    - 77.63999938964844
+    - 305.8701171875
+    - 567.2841796875
+    - 319.5155334472656
+    bbox_x1: 77.63999938964844
+    bbox_x2: 567.2841796875
     double_fontsize_int: 20
   - index: 1195
     text: 'language pathologists (SLPs)/ speech therapists in the respective local
@@ -1330,11 +1780,17 @@
     span_number: 0
     total_y: 17756.839874267578
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 319.4901123046875, 472.86285400390625, 333.1355285644531)
+    bbox:
+    - 77.63999938964844
+    - 319.4901123046875
+    - 472.86285400390625
+    - 333.1355285644531
+    bbox_x1: 77.63999938964844
+    bbox_x2: 472.86285400390625
     double_fontsize_int: 20
   - index: 1196
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 22
@@ -1343,7 +1799,13 @@
     span_number: 0
     total_y: 17784.07989501953
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 347.3661804199219, 64.24880981445312, 359.64166259765625)
+    bbox:
+    - 59.63999938964844
+    - 347.3661804199219
+    - 64.24880981445312
+    - 359.64166259765625
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 1197
     text: 'Due to low funding coverage, BDRCS was not able to reach more PWDs.  '
@@ -1356,7 +1818,13 @@
     span_number: 1
     total_y: 17784.07989501953
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 346.73016357421875, 415.74285888671875, 360.37554931640625)
+    bbox:
+    - 77.63999938964844
+    - 346.73016357421875
+    - 415.74285888671875
+    - 360.37554931640625
+    bbox_x1: 77.63999938964844
+    bbox_x2: 415.74285888671875
     double_fontsize_int: 20
   items:
   - Time limitation is one of the biggest challenges for providing psychological support
@@ -1381,7 +1849,13 @@
     span_number: 0
     total_y: 18574.279876708984
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 344.81011962890625, 95.80883026123047, 358.4555358886719)
+    bbox:
+    - 41.63999938964844
+    - 344.81011962890625
+    - 95.80883026123047
+    - 358.4555358886719
+    bbox_x1: 41.63999938964844
+    bbox_x2: 95.80883026123047
     idx: 1249
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 1208
@@ -1389,7 +1863,7 @@
   content:
   - index: 1250
     text: ':  '
-    text_base: .nan
+    text_base: ''
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 23
@@ -1398,11 +1872,17 @@
     span_number: 1
     total_y: 18574.279876708984
     origin_x: 95.81999969482422
-    bbox: (95.81999969482422, 344.81011962890625, 103.60285186767578, 358.4555358886719)
+    bbox:
+    - 95.81999969482422
+    - 344.81011962890625
+    - 103.60285186767578
+    - 358.4555358886719
+    bbox_x1: 95.81999969482422
+    bbox_x2: 103.60285186767578
     double_fontsize_int: 20
   - index: 1251
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 23
@@ -1411,7 +1891,13 @@
     span_number: 0
     total_y: 18601.53988647461
     origin_x: 58.13999938964844
-    bbox: (58.13999938964844, 372.7061767578125, 62.748809814453125, 384.9816589355469)
+    bbox:
+    - 58.13999938964844
+    - 372.7061767578125
+    - 62.748809814453125
+    - 384.9816589355469
+    bbox_x1: 58.13999938964844
+    bbox_x2: 62.748809814453125
     double_fontsize_int: 20
   - index: 1252
     text: 'There were less volunteers who are trained on search and rescue; and insufficient
@@ -1426,7 +1912,13 @@
     span_number: 1
     total_y: 18601.53988647461
     origin_x: 76.13999938964844
-    bbox: (76.13999938964844, 372.07012939453125, 568.6986694335938, 385.7155456542969)
+    bbox:
+    - 76.13999938964844
+    - 372.07012939453125
+    - 568.6986694335938
+    - 385.7155456542969
+    bbox_x1: 76.13999938964844
+    bbox_x2: 568.6986694335938
     double_fontsize_int: 20
   - index: 1253
     text: 'available in respective BDRCS branch for respective Unit Disaster Response
@@ -1439,9 +1931,15 @@
     block_number: 4
     line_number: 2
     span_number: 0
-    total_y: 18615.1598815918
+    total_y: 18615.159881591797
     origin_x: 76.13999938964844
-    bbox: (76.13999938964844, 385.69012451171875, 568.669189453125, 399.3355407714844)
+    bbox:
+    - 76.13999938964844
+    - 385.69012451171875
+    - 568.669189453125
+    - 399.3355407714844
+    bbox_x1: 76.13999938964844
+    bbox_x2: 568.669189453125
     double_fontsize_int: 20
   - index: 1254
     text: 'ensure the safety of volunteers and staff during the evacuation, BDRCS
@@ -1456,7 +1954,13 @@
     span_number: 0
     total_y: 18628.779876708984
     origin_x: 76.13999938964844
-    bbox: (76.13999938964844, 399.31011962890625, 568.560302734375, 412.9555358886719)
+    bbox:
+    - 76.13999938964844
+    - 399.31011962890625
+    - 568.560302734375
+    - 412.9555358886719
+    bbox_x1: 76.13999938964844
+    bbox_x2: 568.560302734375
     double_fontsize_int: 20
   - index: 1255
     text: '175 life jackets to flood affected BDRCS branches.  '
@@ -1467,9 +1971,15 @@
     block_number: 4
     line_number: 4
     span_number: 0
-    total_y: 18642.39987182617
+    total_y: 18642.399871826172
     origin_x: 76.13999938964844
-    bbox: (76.13999938964844, 412.93011474609375, 312.0628356933594, 426.5755310058594)
+    bbox:
+    - 76.13999938964844
+    - 412.93011474609375
+    - 312.0628356933594
+    - 426.5755310058594
+    bbox_x1: 76.13999938964844
+    bbox_x2: 312.0628356933594
     double_fontsize_int: 20
   items:
   - There were less volunteers who are trained on search and rescue; and insufficient
@@ -1488,7 +1998,13 @@
     span_number: 0
     total_y: 19651.55987548828
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 629.9701538085938, 103.78285217285156, 643.6155395507812)
+    bbox:
+    - 41.63999938964844
+    - 629.9701538085938
+    - 103.78285217285156
+    - 643.6155395507812
+    bbox_x1: 41.63999938964844
+    bbox_x2: 103.78285217285156
     idx: 1311
   sector_title: National Society Strengthening
   sector_idx: 1266
@@ -1496,7 +2012,7 @@
   content:
   - index: 1312
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 24
@@ -1505,7 +2021,13 @@
     span_number: 0
     total_y: 19678.739868164062
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 657.7861938476562, 64.24880981445312, 670.0616455078125)
+    bbox:
+    - 59.63999938964844
+    - 657.7861938476562
+    - 64.24880981445312
+    - 670.0616455078125
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 1313
     text: 'Some of the BDRCS branches in Sylhet region like in Sunamganj BDRCS branch
@@ -1520,7 +2042,13 @@
     span_number: 1
     total_y: 19678.739868164062
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 657.150146484375, 569.8059692382812, 670.7955322265625)
+    bbox:
+    - 77.63999938964844
+    - 657.150146484375
+    - 569.8059692382812
+    - 670.7955322265625
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.8059692382812
     double_fontsize_int: 20
   - index: 1314
     text: 'and facilities to work properly. BDRCS experienced difficulties to store
@@ -1535,7 +2063,13 @@
     span_number: 0
     total_y: 19692.35986328125
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 670.7701416015625, 569.90283203125, 684.41552734375)
+    bbox:
+    - 77.63999938964844
+    - 670.7701416015625
+    - 569.90283203125
+    - 684.41552734375
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.90283203125
     double_fontsize_int: 20
   - index: 1315
     text: 'its volunteers and staff during the emergency phase of the operation. To
@@ -1548,9 +2082,15 @@
     block_number: 8
     line_number: 3
     span_number: 0
-    total_y: 19705.97985839844
+    total_y: 19705.979858398438
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 684.39013671875, 569.8418579101562, 698.0355224609375)
+    bbox:
+    - 77.63999938964844
+    - 684.39013671875
+    - 569.8418579101562
+    - 698.0355224609375
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.8418579101562
     double_fontsize_int: 20
   - index: 1316
     text: 'warehouse space, BDRCS is planning to have framework agreement which will
@@ -1565,7 +2105,13 @@
     span_number: 0
     total_y: 19719.599853515625
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 698.0101318359375, 569.67236328125, 711.655517578125)
+    bbox:
+    - 77.63999938964844
+    - 698.0101318359375
+    - 569.67236328125
+    - 711.655517578125
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.67236328125
     double_fontsize_int: 20
   - index: 1317
     text: 'deliver relief items from supplier warehouse.  '
@@ -1576,9 +2122,15 @@
     block_number: 8
     line_number: 5
     span_number: 0
-    total_y: 19733.21984863281
+    total_y: 19733.219848632812
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 711.630126953125, 291.9428405761719, 725.2755126953125)
+    bbox:
+    - 77.63999938964844
+    - 711.630126953125
+    - 291.9428405761719
+    - 725.2755126953125
+    bbox_x1: 77.63999938964844
+    bbox_x2: 291.9428405761719
     double_fontsize_int: 20
   items:
   - Some of the BDRCS branches in Sylhet region like in Sunamganj BDRCS branch office,
@@ -1598,7 +2150,13 @@
     span_number: 0
     total_y: 24244.959838867188
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 470.650146484375, 95.80883026123047, 484.2955322265625)
+    bbox:
+    - 41.63999938964844
+    - 470.650146484375
+    - 95.80883026123047
+    - 484.2955322265625
+    bbox_x1: 41.63999938964844
+    bbox_x2: 95.80883026123047
     idx: 1551
   sector_title: Community Engagement and Accountability
   sector_idx: 1490
@@ -1606,7 +2164,7 @@
   content:
   - index: 1552
     text: ': '
-    text_base: .nan
+    text_base: ''
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 30
@@ -1615,11 +2173,17 @@
     span_number: 1
     total_y: 24244.959838867188
     origin_x: 95.81999969482422
-    bbox: (95.81999969482422, 470.650146484375, 101.0228500366211, 484.2955322265625)
+    bbox:
+    - 95.81999969482422
+    - 470.650146484375
+    - 101.0228500366211
+    - 484.2955322265625
+    bbox_x1: 95.81999969482422
+    bbox_x2: 101.0228500366211
     double_fontsize_int: 20
   - index: 1553
     text: "\u2022"
-    text_base: .nan
+    text_base: ''
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 30
@@ -1628,7 +2192,13 @@
     span_number: 0
     total_y: 24272.19985961914
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 498.52618408203125, 64.24880981445312, 510.8016662597656)
+    bbox:
+    - 59.63999938964844
+    - 498.52618408203125
+    - 64.24880981445312
+    - 510.8016662597656
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 1554
     text: 'BDRCS experienced challenges to identified targeted households from number
@@ -1643,7 +2213,13 @@
     span_number: 1
     total_y: 24272.19985961914
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 497.89013671875, 569.90283203125, 511.5355529785156)
+    bbox:
+    - 77.63999938964844
+    - 497.89013671875
+    - 569.90283203125
+    - 511.5355529785156
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.90283203125
     double_fontsize_int: 20
   - index: 1555
     text: 'and meet the expectation of affected people. BDRCS through its community
@@ -1658,7 +2234,13 @@
     span_number: 0
     total_y: 24285.81982421875
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 511.5101318359375, 569.7709350585938, 525.155517578125)
+    bbox:
+    - 77.63999938964844
+    - 511.5101318359375
+    - 569.7709350585938
+    - 525.155517578125
+    bbox_x1: 77.63999938964844
+    bbox_x2: 569.7709350585938
     double_fontsize_int: 20
   - index: 1556
     text: 'series of community consultation, explained about BDRCS mandate, working
@@ -1673,7 +2255,13 @@
     span_number: 0
     total_y: 24299.439819335938
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 525.130126953125, 560.6028442382812, 538.7755126953125)
+    bbox:
+    - 77.63999938964844
+    - 525.130126953125
+    - 560.6028442382812
+    - 538.7755126953125
+    bbox_x1: 77.63999938964844
+    bbox_x2: 560.6028442382812
     double_fontsize_int: 20
   items:
   - BDRCS experienced challenges to identified targeted households from number of

@@ -10,6 +10,8 @@
     total_y: 7007.4599609375
     origin_x: 41.400001525878906
     bbox: (41.400001525878906, 659.7901611328125, 124.66284942626953, 673.435546875)
+    bbox_x1: 41.400001525878906
+    bbox_x2: 124.66284942626952
     idx: 572
   sector_title: Shelter, Housing and Settlements
   sector_idx: 234
@@ -29,6 +31,8 @@
     total_y: 7021.079956054688
     origin_x: 41.400001525878906
     bbox: (41.400001525878906, 673.41015625, 573.1112670898438, 687.0555419921875)
+    bbox_x1: 41.400001525878906
+    bbox_x2: 573.1112670898438
     double_fontsize_int: 20
   - index: 574
     text: 'suppliers. An agreement was made between the community and supplier to
@@ -44,6 +48,8 @@
     total_y: 7034.699951171875
     origin_x: 41.400001525878906
     bbox: (41.400001525878906, 687.0301513671875, 573.0586547851562, 700.675537109375)
+    bbox_x1: 41.400001525878906
+    bbox_x2: 573.0586547851562
     double_fontsize_int: 20
   - index: 575
     text: 'number of materials needed. '
@@ -57,6 +63,8 @@
     total_y: 7048.319946289063
     origin_x: 41.400001525878906
     bbox: (41.400001525878906, 700.650146484375, 179.98284912109375, 714.2955322265625)
+    bbox_x1: 41.400001525878906
+    bbox_x2: 179.98284912109375
     double_fontsize_int: 20
   items:
   - PRC engaged in multiple suppliers which led to competition as a mitigation measure
@@ -75,6 +83,8 @@
     total_y: 11629.89990234375
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 529.5101318359375, 129.88284301757812, 543.155517578125)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 129.88284301757812
     idx: 1002
   sector_title: Livelihoods
   sector_idx: 581
@@ -92,6 +102,8 @@
     total_y: 11643.519897460938
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 543.7661743164062, 46.248809814453125, 556.0416259765625)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1004
     text: 'Capacity-building programme should be in place, to enable staff and volunteers
@@ -107,6 +119,8 @@
     total_y: 11643.519897460938
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 543.130126953125, 569.665771484375, 556.7755126953125)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 569.665771484375
     double_fontsize_int: 20
   - index: 1005
     text: 'conducting livelihood activities on the ground. '
@@ -120,6 +134,8 @@
     total_y: 11657.139892578123
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 556.7501220703125, 276.40283203125, 570.3955078125)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 276.40283203125
     double_fontsize_int: 20
   - index: 1006
     text: "\u2022"
@@ -133,6 +149,8 @@
     total_y: 11670.759948730469
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 571.0062255859375, 46.248809814453125, 583.2816772460938)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1007
     text: 'There is a need for improved CSG and CMLP implementing guidelines. '
@@ -146,6 +164,8 @@
     total_y: 11670.759948730469
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 570.3701782226562, 388.3228454589844, 584.0155639648438)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 388.3228454589844
     double_fontsize_int: 20
   items:
   - Capacity-building programme should be in place, to enable staff and volunteers
@@ -163,6 +183,8 @@
     total_y: 13796.23989868164
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 319.4901123046875, 129.88284301757812, 333.1355285644531)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 129.88284301757812
     idx: 1182
   sector_title: Health and Care
   sector_idx: 1008
@@ -180,6 +202,8 @@
     total_y: 13809.859924316406
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 333.7461853027344, 46.248809814453125, 346.02166748046875)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1184
     text: 'Proper coordination and understanding among the stakeholders for a smooth
@@ -195,6 +219,8 @@
     total_y: 13809.859924316406
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 333.11016845703125, 569.7455444335938, 346.75555419921875)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 569.7455444335938
     double_fontsize_int: 20
   - index: 1185
     text: 'operation. '
@@ -208,6 +234,8 @@
     total_y: 13823.479919433594
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 346.73016357421875, 110.56285095214844, 360.37554931640625)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 110.56285095214844
     double_fontsize_int: 20
   - index: 1186
     text: "\u2022"
@@ -221,6 +249,8 @@
     total_y: 13837.09991455078
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 360.9861755371094, 46.248809814453125, 373.26165771484375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1187
     text: 'Capacity building specially on different health response and to allocate
@@ -236,6 +266,8 @@
     total_y: 13837.09991455078
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 360.35015869140625, 569.635498046875, 373.99554443359375)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 569.635498046875
     double_fontsize_int: 20
   - index: 1188
     text: 'trainings/capacity building under regular programming. '
@@ -249,6 +281,8 @@
     total_y: 13850.73989868164
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 373.9901123046875, 320.9428405761719, 387.6355285644531)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 320.9428405761719
     double_fontsize_int: 20
   items:
   - Proper coordination and understanding among the stakeholders for a smooth implementation
@@ -267,6 +301,8 @@
     total_y: 15530.319915771484
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 469.33013916015625, 129.88284301757812, 482.9755554199219)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 129.88284301757812
     idx: 1294
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 1189
@@ -284,6 +320,8 @@
     total_y: 15543.939910888672
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 483.586181640625, 46.248809814453125, 495.8616638183594)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1296
     text: 'Encourage the chapters to build the capacity of the volunteers by providing
@@ -299,6 +337,8 @@
     total_y: 15543.939910888672
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 482.95013427734375, 562.0428466796875, 496.5955505371094)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 562.0428466796875
     double_fontsize_int: 20
   - index: 1297
     text: "\u2022"
@@ -312,6 +352,8 @@
     total_y: 15557.55990600586
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 497.2061767578125, 46.248809814453125, 509.4816589355469)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1298
     text: 'Regular monitoring of assets and quarterly inventory checks to ensure assets
@@ -327,6 +369,8 @@
     total_y: 15557.55990600586
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 496.57012939453125, 569.90087890625, 510.2155456542969)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 569.90087890625
     double_fontsize_int: 20
   - index: 1299
     text: 'and ready to deploy. '
@@ -340,6 +384,8 @@
     total_y: 15571.179931640623
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 510.190185546875, 158.02284240722656, 523.8355712890625)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 158.02284240722656
     double_fontsize_int: 20
   items:
   - Encourage the chapters to build the capacity of the volunteers by providing specific
@@ -358,6 +404,8 @@
     total_y: 16923.859893798828
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 278.630126953125, 129.88284301757812, 292.2755432128906)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 129.88284301757812
     idx: 1412
   sector_title: Protection, Gender and Inclusion
   sector_idx: 1300
@@ -375,6 +423,8 @@
     total_y: 16937.479888916016
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 292.88616943359375, 46.248809814453125, 305.1616516113281)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1414
     text: 'Annually conduct capacity-building trainings to chapter staff/volunteers
@@ -390,6 +440,8 @@
     total_y: 16937.479888916016
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 292.2501220703125, 569.7025146484375, 305.8955383300781)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 569.7025146484375
     double_fontsize_int: 20
   - index: 1415
     text: 'volunteers who are available to deploy. Furthermore, ensure debriefing
@@ -405,6 +457,8 @@
     total_y: 16951.099884033203
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 305.8701171875, 569.6055908203125, 319.5155334472656)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 569.6055908203125
     double_fontsize_int: 20
   - index: 1416
     text: 'volunteers involved in the operation. '
@@ -418,6 +472,8 @@
     total_y: 16964.71987915039
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 319.4901123046875, 233.38284301757812, 333.1355285644531)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 233.38284301757807
     double_fontsize_int: 20
   items:
   - Annually conduct capacity-building trainings to chapter staff/volunteers to increase
@@ -435,6 +491,8 @@
     total_y: 21072.39987182617
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 466.57012939453125, 129.88284301757812, 480.2155456542969)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 129.88284301757812
     idx: 1706
   sector_title: National Society Strengthening
   sector_idx: 1635
@@ -452,6 +510,8 @@
     total_y: 21086.01986694336
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 480.826171875, 46.248809814453125, 493.1016540527344)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1708
     text: 'Learned the importance of having trained and experienced Chapter Service
@@ -467,6 +527,8 @@
     total_y: 21086.01986694336
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 480.19012451171875, 569.635498046875, 493.8355407714844)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 569.635498046875
     double_fontsize_int: 20
   - index: 1709
     text: 'persons in each chapter. Provision of NHQ training capacity-building activities
@@ -482,6 +544,8 @@
     total_y: 21099.639862060547
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 493.81011962890625, 569.7672119140625, 507.4555358886719)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 569.7672119140625
     double_fontsize_int: 20
   - index: 1710
     text: 'simulations exercise. '
@@ -495,6 +559,8 @@
     total_y: 21113.259887695312
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 507.43017578125, 159.5828399658203, 521.0755615234375)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 159.5828399658203
     double_fontsize_int: 20
   - index: 1711
     text: "\u2022"
@@ -508,6 +574,8 @@
     total_y: 21126.8798828125
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 521.6862182617188, 46.248809814453125, 533.961669921875)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1712
     text: 'Focus on volunteer recruitment, retention, and appreciation programmes.
@@ -523,6 +591,8 @@
     total_y: 21126.8798828125
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 521.0501708984375, 569.8497924804688, 534.695556640625)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 569.8497924804688
     double_fontsize_int: 20
   - index: 1713
     text: 'communication among NHQ / chapter / LGUs play a vital role in the success
@@ -538,6 +608,8 @@
     total_y: 21140.499877929688
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 534.670166015625, 494.3028564453125, 548.3155517578125)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 494.3028564453125
     double_fontsize_int: 20
   items:
   - Learned the importance of having trained and experienced Chapter Service Representatives
@@ -558,14 +630,18 @@
     total_y: 27497.61981201172
     origin_x: 41.400001525878906
     bbox: (41.400001525878906, 554.8301391601562, 129.64285278320312, 568.4755249023438)
+    bbox_x1: 41.400001525878906
+    bbox_x2: 129.64285278320312
     idx: 2137
   sector_title: Shelter, Housing and Settlements
   sector_idx: 2082
   sector_similarity_score: 1.0
   content:
   - index: 2138
-    text: "\u2022"
-    text_base: .nan
+    text: "\u2022 Adopt and adapt new approaches in delivering services including\
+      \ safety protocols. "
+    text_base: adopt and adapt new approaches in delivering services including safety
+      protocols
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 34
@@ -575,25 +651,14 @@
     total_y: 27511.239807128903
     origin_x: 41.400001525878906
     bbox: (41.400001525878906, 569.086181640625, 45.96272277832031, 581.3616333007812)
-    double_fontsize_int: 20
-  - index: 2139
-    text: 'Adopt and adapt new approaches in delivering services including safety
-      protocols. '
-    text_base: adopt and adapt new approaches in delivering services including safety
-      protocols
-    style: 'regular, 20, #000000, #f4f4f4'
-    size: 10.020000457763672
-    page_number: 34
-    block_number: 9
-    line_number: 3
-    span_number: 1
-    total_y: 27511.239807128903
-    origin_x: 55.68000030517578
-    bbox: (55.68000030517578, 568.4501342773438, 439.86285400390625, 582.0955200195312)
+    bbox_x1: 41.400001525878906
+    bbox_x2: 439.8628540039063
     double_fontsize_int: 20
   - index: 2140
-    text: "\u2022"
-    text_base: .nan
+    text: "\u2022 Due to the COVID-19 lockdown and restrictions, NHQ and chapters\
+      \ to continue implementing innovations on "
+    text_base: due to the covid 19 lockdown and restrictions nhq and chapters to continue
+      implementing innovations on
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 34
@@ -603,21 +668,8 @@
     total_y: 27524.85986328125
     origin_x: 41.400001525878906
     bbox: (41.400001525878906, 582.7062377929688, 45.96272277832031, 594.981689453125)
-    double_fontsize_int: 20
-  - index: 2141
-    text: 'Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue
-      implementing innovations on '
-    text_base: due to the covid 19 lockdown and restrictions nhq and chapters to continue
-      implementing innovations on
-    style: 'regular, 20, #000000, #f4f4f4'
-    size: 10.020000457763672
-    page_number: 34
-    block_number: 9
-    line_number: 4
-    span_number: 1
-    total_y: 27524.85986328125
-    origin_x: 55.68000030517578
-    bbox: (55.68000030517578, 582.0701904296875, 572.976318359375, 595.715576171875)
+    bbox_x1: 41.400001525878906
+    bbox_x2: 572.976318359375
     double_fontsize_int: 20
   - index: 2142
     text: 'project implementation such as using online messaging applications for
@@ -633,12 +685,15 @@
     total_y: 27538.47985839844
     origin_x: 55.68000030517578
     bbox: (55.68000030517578, 595.690185546875, 573.142822265625, 609.3355712890625)
+    bbox_x1: 55.68000030517578
+    bbox_x2: 573.142822265625
     double_fontsize_int: 20
   items:
-  - Adopt and adapt new approaches in delivering services including safety protocols.
-  - Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue implementing
-    innovations on project implementation such as using online messaging applications
-    for monitoring and submission of reports.
+  - "\u2022 Adopt and adapt new approaches in delivering services including safety\
+    \ protocols."
+  - "\u2022 Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue\
+    \ implementing innovations on project implementation such as using online messaging\
+    \ applications for monitoring and submission of reports."
 - title:
     text: 'Lessons Learned: '
     text_base: lessons learned
@@ -651,14 +706,18 @@
     total_y: 30462.019805908203
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 350.7501220703125, 129.88284301757812, 364.3955383300781)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 129.88284301757812
     idx: 2404
   sector_title: Livelihoods
   sector_idx: 2143
   sector_similarity_score: 1.0
   content:
   - index: 2405
-    text: "\u2022"
-    text_base: .nan
+    text: "\u2022 Adopt and adapt new approaches in delivering services including\
+      \ safety protocols. "
+    text_base: adopt and adapt new approaches in delivering services including safety
+      protocols
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 38
@@ -668,25 +727,14 @@
     total_y: 30475.63980102539
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 365.00616455078125, 46.202720642089844, 377.2816467285156)
-    double_fontsize_int: 20
-  - index: 2406
-    text: 'Adopt and adapt new approaches in delivering services including safety
-      protocols. '
-    text_base: adopt and adapt new approaches in delivering services including safety
-      protocols
-    style: 'regular, 20, #000000, #f4f4f4'
-    size: 10.020000457763672
-    page_number: 38
-    block_number: 14
-    line_number: 9
-    span_number: 1
-    total_y: 30475.63980102539
-    origin_x: 55.91999816894531
-    bbox: (55.91999816894531, 364.3701171875, 440.10284423828125, 378.0155334472656)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 440.1028442382813
     double_fontsize_int: 20
   - index: 2407
-    text: "\u2022"
-    text_base: .nan
+    text: "\u2022 Due to the COVID-19 lockdown and restrictions, NHQ and chapters\
+      \ to continue implementing innovations on "
+    text_base: due to the covid 19 lockdown and restrictions nhq and chapters to continue
+      implementing innovations on
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 38
@@ -696,21 +744,8 @@
     total_y: 30489.279815673828
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 378.64617919921875, 46.202720642089844, 390.9216613769531)
-    double_fontsize_int: 20
-  - index: 2408
-    text: 'Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue
-      implementing innovations on '
-    text_base: due to the covid 19 lockdown and restrictions nhq and chapters to continue
-      implementing innovations on
-    style: 'regular, 20, #000000, #f4f4f4'
-    size: 10.020000457763672
-    page_number: 38
-    block_number: 14
-    line_number: 10
-    span_number: 1
-    total_y: 30489.279815673828
-    origin_x: 55.91999816894531
-    bbox: (55.91999816894531, 378.0101318359375, 569.90283203125, 391.6555480957031)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 569.90283203125
     double_fontsize_int: 20
   - index: 2409
     text: 'project implementation such as using online messaging applications for
@@ -726,12 +761,15 @@
     total_y: 30502.899810791016
     origin_x: 55.91999816894531
     bbox: (55.91999816894531, 391.630126953125, 569.90283203125, 405.2755432128906)
+    bbox_x1: 55.91999816894531
+    bbox_x2: 569.90283203125
     double_fontsize_int: 20
   items:
-  - Adopt and adapt new approaches in delivering services including safety protocols.
-  - Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue implementing
-    innovations on project implementation such as using online messaging applications
-    for monitoring and submission of reports.
+  - "\u2022 Adopt and adapt new approaches in delivering services including safety\
+    \ protocols."
+  - "\u2022 Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue\
+    \ implementing innovations on project implementation such as using online messaging\
+    \ applications for monitoring and submission of reports."
 - title:
     text: 'Lessons Learned: '
     text_base: lessons learned
@@ -744,14 +782,18 @@
     total_y: 32657.359802246094
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 169.7301483154297, 129.88284301757812, 183.37554931640625)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 129.88284301757812
     idx: 2582
   sector_title: Health and Care
   sector_idx: 2410
   sector_similarity_score: 1.0
   content:
   - index: 2583
-    text: "\u2022"
-    text_base: .nan
+    text: "\u2022 Proper coordination and understanding among the stakeholders led\
+      \ to a smooth implementation of the "
+    text_base: proper coordination and understanding among the stakeholders led to
+      a smooth implementation of the
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 41
@@ -761,21 +803,8 @@
     total_y: 32670.919799804688
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 183.92617797851562, 46.202720642089844, 196.20166015625)
-    double_fontsize_int: 20
-  - index: 2584
-    text: 'Proper coordination and understanding among the stakeholders led to a smooth
-      implementation of the '
-    text_base: proper coordination and understanding among the stakeholders led to
-      a smooth implementation of the
-    style: 'regular, 20, #000000, #f4f4f4'
-    size: 10.020000457763672
-    page_number: 41
-    block_number: 6
-    line_number: 2
-    span_number: 1
-    total_y: 32670.919799804688
-    origin_x: 55.91999816894531
-    bbox: (55.91999816894531, 183.29014587402344, 569.6831665039062, 196.935546875)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 569.6831665039062
     double_fontsize_int: 20
   - index: 2585
     text: 'response operation. '
@@ -789,10 +818,14 @@
     total_y: 32684.539794921875
     origin_x: 55.91999816894531
     bbox: (55.91999816894531, 196.91014099121094, 152.6228485107422, 210.5555419921875)
+    bbox_x1: 55.91999816894531
+    bbox_x2: 152.6228485107422
     double_fontsize_int: 20
   - index: 2586
-    text: "\u2022"
-    text_base: .nan
+    text: "\u2022 Capacity building, especially on different health responses and\
+      \ to allocate adequate budgets for "
+    text_base: capacity building especially on different health responses and to allocate
+      adequate budgets for
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 41
@@ -802,21 +835,8 @@
     total_y: 32698.159790039062
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 211.16616821289062, 46.202720642089844, 223.441650390625)
-    double_fontsize_int: 20
-  - index: 2587
-    text: 'Capacity building, especially on different health responses and to allocate
-      adequate budgets for '
-    text_base: capacity building especially on different health responses and to allocate
-      adequate budgets for
-    style: 'regular, 20, #000000, #f4f4f4'
-    size: 10.020000457763672
-    page_number: 41
-    block_number: 8
-    line_number: 0
-    span_number: 1
-    total_y: 32698.159790039062
-    origin_x: 55.91999816894531
-    bbox: (55.91999816894531, 210.53013610839844, 569.7815551757812, 224.175537109375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 569.7815551757812
     double_fontsize_int: 20
   - index: 2588
     text: 'trainings/capacity building under regular programming. '
@@ -830,9 +850,11 @@
     total_y: 32711.77978515625
     origin_x: 55.91999816894531
     bbox: (55.91999816894531, 224.15013122558594, 317.22283935546875, 237.7955322265625)
+    bbox_x1: 55.91999816894531
+    bbox_x2: 317.22283935546875
     double_fontsize_int: 20
   items:
-  - Proper coordination and understanding among the stakeholders led to a smooth implementation
-    of the response operation.
-  - Capacity building, especially on different health responses and to allocate adequate
-    budgets for trainings/capacity building under regular programming.
+  - "\u2022 Proper coordination and understanding among the stakeholders led to a\
+    \ smooth implementation of the response operation."
+  - "\u2022 Capacity building, especially on different health responses and to allocate\
+    \ adequate budgets for trainings/capacity building under regular programming."

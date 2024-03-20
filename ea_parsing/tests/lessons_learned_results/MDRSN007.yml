@@ -1,7 +1,7 @@
 - title:
     text: 'Lessons learned:  '
     text_base: lessons learned
-    style: 'arial,bold, 20, #000000, nan'
+    style: 'arial,bold, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 1
@@ -9,7 +9,13 @@
     span_number: 0
     total_y: 1291.01025390625
     origin_x: 54.599945068359375
-    bbox: (54.599945068359375, 438.4330749511719, 142.46705627441406, 452.1479797363281)
+    bbox:
+    - 54.599945068359375
+    - 438.4330749511719
+    - 142.46705627441406
+    - 452.1479797363281
+    bbox_x1: 54.599945068359375
+    bbox_x2: 142.46705627441406
     idx: 94
   sector_title: null
   sector_idx: null
@@ -17,8 +23,8 @@
   content:
   - index: 95
     text: "\uF0B7"
-    text_base: .nan
-    style: 'symbol, 20, #000000, nan'
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 2
@@ -26,14 +32,20 @@
     span_number: 0
     total_y: 1303.3902587890625
     origin_x: 72.62394714355469
-    bbox: (72.62394714355469, 451.456787109375, 77.20515441894531, 463.65875244140625)
+    bbox:
+    - 72.62394714355469
+    - 451.456787109375
+    - 77.20515441894531
+    - 463.65875244140625
+    bbox_x1: 72.62394714355469
+    bbox_x2: 77.20515441894531
     double_fontsize_int: 20
   - index: 96
     text: 'This food insecurity operation was the first of its kind in which the Senegalese
       Red Cross was involved '
     text_base: this food insecurity operation was the first of its kind in which the
       senegalese red cross was involved
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 2
@@ -41,40 +53,58 @@
     span_number: 1
     total_y: 1303.3902587890625
     origin_x: 90.02238464355469
-    bbox: (90.02238464355469, 452.4537658691406, 548.5891723632812, 463.5809326171875)
+    bbox:
+    - 90.02238464355469
+    - 452.4537658691406
+    - 548.5891723632812
+    - 463.5809326171875
+    bbox_x1: 90.02238464355469
+    bbox_x2: 548.5891723632812
     double_fontsize_int: 20
   - index: 97
     text: 'and operational right from the onset, when the crisis was identified late
       2011 in certain regions of '
     text_base: and operational right from the onset when the crisis was identified
       late 2011 in certain regions of
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 2
     line_number: 2
     span_number: 0
     total_y: 1314.9102478027344
-    origin_x: 90.62394714355467
-    bbox: (90.62394714355469, 463.9737548828125, 548.5439453125, 475.1009216308594)
+    origin_x: 90.62394714355469
+    bbox:
+    - 90.62394714355469
+    - 463.9737548828125
+    - 548.5439453125
+    - 475.1009216308594
+    bbox_x1: 90.62394714355469
+    bbox_x2: 548.5439453125
     double_fontsize_int: 20
   - index: 98
     text: 'Senegal. '
     text_base: senegal
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 2
     line_number: 3
     span_number: 0
     total_y: 1326.3102416992188
-    origin_x: 90.62394714355467
-    bbox: (90.62394714355469, 475.3737487792969, 132.7471466064453, 486.50091552734375)
+    origin_x: 90.62394714355469
+    bbox:
+    - 90.62394714355469
+    - 475.3737487792969
+    - 132.7471466064453
+    - 486.50091552734375
+    bbox_x1: 90.62394714355469
+    bbox_x2: 132.7471466064453
     double_fontsize_int: 20
   - index: 99
     text: "\uF0B7"
-    text_base: .nan
-    style: 'symbol, 20, #000000, nan'
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 3
@@ -82,14 +112,20 @@
     span_number: 0
     total_y: 1338.5502319335938
     origin_x: 72.62395477294922
-    bbox: (72.62395477294922, 486.61676025390625, 77.20516967773438, 498.8187255859375)
+    bbox:
+    - 72.62395477294922
+    - 486.61676025390625
+    - 77.20516967773438
+    - 498.8187255859375
+    bbox_x1: 72.62395477294922
+    bbox_x2: 77.20516967773438
     double_fontsize_int: 20
   - index: 100
     text: 'In its role as an auxiliary of the authorities, SRCS was selected as one
       of the main partners of WFP for '
     text_base: in its role as an auxiliary of the authorities srcs was selected as
       one of the main partners of wfp for
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 3
@@ -97,29 +133,41 @@
     span_number: 1
     total_y: 1338.5502319335938
     origin_x: 90.02395629882812
-    bbox: (90.02395629882812, 487.6137390136719, 548.6204223632812, 498.74090576171875)
+    bbox:
+    - 90.02395629882812
+    - 487.6137390136719
+    - 548.6204223632812
+    - 498.74090576171875
+    bbox_x1: 90.02395629882812
+    bbox_x2: 548.6204223632812
     double_fontsize_int: 20
   - index: 101
     text: 'the delivery of emergency food, financial and humanitarian assistance in
       seven regions. With a '
     text_base: the delivery of emergency food financial and humanitarian assistance
       in seven regions with a
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 3
     line_number: 2
     span_number: 0
     total_y: 1350.0702209472656
-    origin_x: 90.62396240234376
-    bbox: (90.62396240234375, 499.13372802734375, 548.6114501953125, 510.2608947753906)
+    origin_x: 90.62396240234375
+    bbox:
+    - 90.62396240234375
+    - 499.13372802734375
+    - 548.6114501953125
+    - 510.2608947753906
+    bbox_x1: 90.62396240234375
+    bbox_x2: 548.6114501953125
     double_fontsize_int: 20
   - index: 102
     text: 'contribution of some CHF 3.4 million given by the authorities to WFP to
       assure food distribution to over '
     text_base: contribution of some chf 3 4 million given by the authorities to wfp
       to assure food distribution to over
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 3
@@ -127,12 +175,18 @@
     span_number: 0
     total_y: 1361.5902099609375
     origin_x: 90.62399291992188
-    bbox: (90.62399291992188, 510.6537170410156, 548.3569946289062, 521.7808837890625)
+    bbox:
+    - 90.62399291992188
+    - 510.6537170410156
+    - 548.3569946289062
+    - 521.7808837890625
+    bbox_x1: 90.62399291992188
+    bbox_x2: 548.3569946289062
     double_fontsize_int: 20
   - index: 103
     text: '500,000 beneficiaries living in the vulnerable targeted regions.  '
     text_base: 500 000 beneficiaries living in the vulnerable targeted regions
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 3
@@ -140,12 +194,18 @@
     span_number: 0
     total_y: 1372.9901733398438
     origin_x: 90.62399291992188
-    bbox: (90.62399291992188, 522.0536499023438, 370.468505859375, 533.1808471679688)
+    bbox:
+    - 90.62399291992188
+    - 522.0536499023438
+    - 370.468505859375
+    - 533.1808471679688
+    bbox_x1: 90.62399291992188
+    bbox_x2: 370.468505859375
     double_fontsize_int: 20
   - index: 104
     text: "\uF0B7"
-    text_base: .nan
-    style: 'symbol, 20, #000000, nan'
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 4
@@ -153,14 +213,20 @@
     span_number: 0
     total_y: 1385.2301635742188
     origin_x: 72.62399291992188
-    bbox: (72.62399291992188, 533.2966918945312, 77.2052001953125, 545.4986572265625)
+    bbox:
+    - 72.62399291992188
+    - 533.2966918945312
+    - 77.2052001953125
+    - 545.4986572265625
+    bbox_x1: 72.62399291992188
+    bbox_x2: 77.2052001953125
     double_fontsize_int: 20
   - index: 105
     text: 'The National Society headquarters has worked very effectively with its
       Red Cross branches and with '
     text_base: the national society headquarters has worked very effectively with
       its red cross branches and with
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 4
@@ -168,42 +234,60 @@
     span_number: 1
     total_y: 1385.2301635742188
     origin_x: 90.02243041992188
-    bbox: (90.02243041992188, 534.2936401367188, 548.6358032226562, 545.4208374023438)
+    bbox:
+    - 90.02243041992188
+    - 534.2936401367188
+    - 548.6358032226562
+    - 545.4208374023438
+    bbox_x1: 90.02243041992188
+    bbox_x2: 548.6358032226562
     double_fontsize_int: 20
   - index: 106
     text: 'the local authorities and the beneficiaries; through its humanitarian service
       delivery SRCS has been '
     text_base: the local authorities and the beneficiaries through its humanitarian
       service delivery srcs has been
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 4
     line_number: 2
     span_number: 0
     total_y: 1396.7501831054688
-    origin_x: 90.62396240234376
-    bbox: (90.62396240234375, 545.8136596679688, 548.483642578125, 556.9408569335938)
+    origin_x: 90.62396240234375
+    bbox:
+    - 90.62396240234375
+    - 545.8136596679688
+    - 548.483642578125
+    - 556.9408569335938
+    bbox_x1: 90.62396240234375
+    bbox_x2: 548.483642578125
     double_fontsize_int: 20
   - index: 107
     text: very well perceived by the population and has been praised on the national
       media.
     text_base: very well perceived by the population and has been praised on the national
       media
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 4
     line_number: 3
     span_number: 0
     total_y: 1408.2702026367188
-    origin_x: 90.62396240234376
-    bbox: (90.62396240234375, 557.3336791992188, 454.7101745605469, 568.4608764648438)
+    origin_x: 90.62396240234375
+    bbox:
+    - 90.62396240234375
+    - 557.3336791992188
+    - 454.7101745605469
+    - 568.4608764648438
+    bbox_x1: 90.62396240234375
+    bbox_x2: 454.7101745605469
     double_fontsize_int: 20
   - index: 108
     text: "\uF0B7"
-    text_base: .nan
-    style: 'symbol, 20, #000000, nan'
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 5
@@ -211,14 +295,20 @@
     span_number: 0
     total_y: 1420.3901977539062
     origin_x: 72.62396240234375
-    bbox: (72.62396240234375, 568.4567260742188, 77.20516967773438, 580.65869140625)
+    bbox:
+    - 72.62396240234375
+    - 568.4567260742188
+    - 77.20516967773438
+    - 580.65869140625
+    bbox_x1: 72.62396240234375
+    bbox_x2: 77.20516967773438
     double_fontsize_int: 20
   - index: 109
     text: 'SRCS Beneficiary selection procedures were improved providing a more community
       based and '
     text_base: srcs beneficiary selection procedures were improved providing a more
       community based and
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 5
@@ -226,25 +316,37 @@
     span_number: 1
     total_y: 1420.3901977539062
     origin_x: 90.02239990234375
-    bbox: (90.02239990234375, 569.4536743164062, 548.4298706054688, 580.5808715820312)
+    bbox:
+    - 90.02239990234375
+    - 569.4536743164062
+    - 548.4298706054688
+    - 580.5808715820312
+    bbox_x1: 90.02239990234375
+    bbox_x2: 548.4298706054688
     double_fontsize_int: 20
   - index: 110
     text: inclusive approach.
     text_base: inclusive approach
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 5
     line_number: 2
     span_number: 0
     total_y: 1431.91015625
-    origin_x: 90.62396240234376
-    bbox: (90.62396240234375, 580.9736328125, 176.03929138183594, 592.100830078125)
+    origin_x: 90.62396240234375
+    bbox:
+    - 90.62396240234375
+    - 580.9736328125
+    - 176.03929138183594
+    - 592.100830078125
+    bbox_x1: 90.62396240234375
+    bbox_x2: 176.03929138183594
     double_fontsize_int: 20
   - index: 111
     text: "\uF0B7"
-    text_base: .nan
-    style: 'symbol, 20, #000000, nan'
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 6
@@ -252,14 +354,20 @@
     span_number: 0
     total_y: 1444.1502075195312
     origin_x: 72.62396240234375
-    bbox: (72.62396240234375, 592.2167358398438, 77.20516967773438, 604.418701171875)
+    bbox:
+    - 72.62396240234375
+    - 592.2167358398438
+    - 77.20516967773438
+    - 604.418701171875
+    bbox_x1: 72.62396240234375
+    bbox_x2: 77.20516967773438
     double_fontsize_int: 20
   - index: 112
     text: 'The operations in Senegal focused more on emergency assistance than on
       longer term livelihood '
     text_base: the operations in senegal focused more on emergency assistance than
       on longer term livelihood
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 6
@@ -267,57 +375,81 @@
     span_number: 1
     total_y: 1444.1502075195312
     origin_x: 90.02239990234375
-    bbox: (90.02239990234375, 593.2136840820312, 548.5792236328125, 604.3408813476562)
+    bbox:
+    - 90.02239990234375
+    - 593.2136840820312
+    - 548.5792236328125
+    - 604.3408813476562
+    bbox_x1: 90.02239990234375
+    bbox_x2: 548.5792236328125
     double_fontsize_int: 20
   - index: 113
     text: 'projects, contributing to building the resilience of the targeted beneficiaries.
       During an exit meeting, '
     text_base: projects contributing to building the resilience of the targeted beneficiaries
       during an exit meeting
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 6
     line_number: 2
     span_number: 0
     total_y: 1455.5501708984375
-    origin_x: 90.62396240234376
-    bbox: (90.62396240234375, 604.6136474609375, 548.1051025390625, 615.7408447265625)
+    origin_x: 90.62396240234375
+    bbox:
+    - 90.62396240234375
+    - 604.6136474609375
+    - 548.1051025390625
+    - 615.7408447265625
+    bbox_x1: 90.62396240234375
+    bbox_x2: 548.1051025390625
     double_fontsize_int: 20
   - index: 114
     text: 'future plans were discussed and the National Society leadership and management
       agreed this was an '
     text_base: future plans were discussed and the national society leadership and
       management agreed this was an
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 6
     line_number: 3
     span_number: 0
     total_y: 1467.0701904296875
-    origin_x: 90.62396240234376
-    bbox: (90.62396240234375, 616.1336669921875, 548.5929565429688, 627.2608642578125)
+    origin_x: 90.62396240234375
+    bbox:
+    - 90.62396240234375
+    - 616.1336669921875
+    - 548.5929565429688
+    - 627.2608642578125
+    bbox_x1: 90.62396240234375
+    bbox_x2: 548.5929565429688
     double_fontsize_int: 20
   - index: 115
     text: objective they would consider engaging in more in depth any future food
       security programming.
     text_base: objective they would consider engaging in more in depth any future
       food security programming
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 6
     line_number: 4
     span_number: 0
     total_y: 1478.5901489257812
-    origin_x: 90.62396240234376
-    bbox: (90.62396240234375, 627.6536254882812, 510.8834533691406, 638.7808227539062)
+    origin_x: 90.62396240234375
+    bbox:
+    - 90.62396240234375
+    - 627.6536254882812
+    - 510.8834533691406
+    - 638.7808227539062
+    bbox_x1: 90.62396240234375
+    bbox_x2: 510.8834533691406
     double_fontsize_int: 20
   - index: 116
     text: "\uF0B7"
-    text_base: .nan
-    style: 'symbol, 20, #000000, nan'
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 7
@@ -325,14 +457,20 @@
     span_number: 0
     total_y: 1490.8601684570312
     origin_x: 72.62396240234375
-    bbox: (72.62396240234375, 638.9266967773438, 77.20516967773438, 651.128662109375)
+    bbox:
+    - 72.62396240234375
+    - 638.9266967773438
+    - 77.20516967773438
+    - 651.128662109375
+    bbox_x1: 72.62396240234375
+    bbox_x2: 77.20516967773438
     double_fontsize_int: 20
   - index: 117
     text: 'As resilience building requires longer-term follow-up, the SRCS will in
       the future consider planning '
     text_base: as resilience building requires longer term follow up the srcs will
       in the future consider planning
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 7
@@ -340,25 +478,37 @@
     span_number: 1
     total_y: 1490.8601684570312
     origin_x: 90.02239990234375
-    bbox: (90.02239990234375, 639.9236450195312, 548.3702392578125, 651.0508422851562)
+    bbox:
+    - 90.02239990234375
+    - 639.9236450195312
+    - 548.3702392578125
+    - 651.0508422851562
+    bbox_x1: 90.02239990234375
+    bbox_x2: 548.3702392578125
     double_fontsize_int: 20
   - index: 118
     text: resilience building initiatives earlier in the appeal process.
     text_base: resilience building initiatives earlier in the appeal process
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 7
     line_number: 2
     span_number: 0
     total_y: 1502.2601928710938
-    origin_x: 90.62396240234376
-    bbox: (90.62396240234375, 651.3236694335938, 345.0106506347656, 662.4508666992188)
+    origin_x: 90.62396240234375
+    bbox:
+    - 90.62396240234375
+    - 651.3236694335938
+    - 345.0106506347656
+    - 662.4508666992188
+    bbox_x1: 90.62396240234375
+    bbox_x2: 345.0106506347656
     double_fontsize_int: 20
   - index: 119
     text: "\uF0B7"
-    text_base: .nan
-    style: 'symbol, 20, #000000, nan'
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 8
@@ -366,14 +516,20 @@
     span_number: 0
     total_y: 1514.5001831054688
     origin_x: 72.62396240234375
-    bbox: (72.62396240234375, 662.5667114257812, 77.20516967773438, 674.7686767578125)
+    bbox:
+    - 72.62396240234375
+    - 662.5667114257812
+    - 77.20516967773438
+    - 674.7686767578125
+    bbox_x1: 72.62396240234375
+    bbox_x2: 77.20516967773438
     double_fontsize_int: 20
   - index: 120
     text: 'The beneficiary to household count in the Emergency Appeal for Senegal
       was based on a seven '
     text_base: the beneficiary to household count in the emergency appeal for senegal
       was based on a seven
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 8
@@ -381,29 +537,41 @@
     span_number: 1
     total_y: 1514.5001831054688
     origin_x: 90.02395629882812
-    bbox: (90.02395629882812, 663.5636596679688, 548.5899047851562, 674.6908569335938)
+    bbox:
+    - 90.02395629882812
+    - 663.5636596679688
+    - 548.5899047851562
+    - 674.6908569335938
+    bbox_x1: 90.02395629882812
+    bbox_x2: 548.5899047851562
     double_fontsize_int: 20
   - index: 121
     text: 'persons per family. Into the operations, however, it was revealed that
       the reality particularly in rural '
     text_base: persons per family into the operations however it was revealed that
       the reality particularly in rural
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 8
     line_number: 2
     span_number: 0
     total_y: 1525.9002075195312
-    origin_x: 90.62396240234376
-    bbox: (90.62396240234375, 674.9636840820312, 548.4234008789062, 686.0908813476562)
+    origin_x: 90.62396240234375
+    bbox:
+    - 90.62396240234375
+    - 674.9636840820312
+    - 548.4234008789062
+    - 686.0908813476562
+    bbox_x1: 90.62396240234375
+    bbox_x2: 548.4234008789062
     double_fontsize_int: 20
   - index: 122
     text: 'areas where a family size can reach up to 30 people. In those cases a double
       ration was delivered to '
     text_base: areas where a family size can reach up to 30 people in those cases
       a double ration was delivered to
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 8
@@ -411,12 +579,18 @@
     span_number: 0
     total_y: 1537.420166015625
     origin_x: 90.62393188476562
-    bbox: (90.62393188476562, 686.483642578125, 548.635986328125, 697.61083984375)
+    bbox:
+    - 90.62393188476562
+    - 686.483642578125
+    - 548.635986328125
+    - 697.61083984375
+    bbox_x1: 90.62393188476562
+    bbox_x2: 548.635986328125
     double_fontsize_int: 20
   - index: 123
     text: 'these big households. '
     text_base: these big households
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 8
@@ -424,12 +598,18 @@
     span_number: 0
     total_y: 1548.940185546875
     origin_x: 90.6239013671875
-    bbox: (90.6239013671875, 698.003662109375, 190.70712280273438, 709.130859375)
+    bbox:
+    - 90.6239013671875
+    - 698.003662109375
+    - 190.70712280273438
+    - 709.130859375
+    bbox_x1: 90.6239013671875
+    bbox_x2: 190.70712280273438
     double_fontsize_int: 20
   - index: 124
     text: "\uF0B7"
-    text_base: .nan
-    style: 'symbol, 20, #000000, nan'
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 9
@@ -437,14 +617,20 @@
     span_number: 0
     total_y: 1561.18017578125
     origin_x: 72.62390899658203
-    bbox: (72.62390899658203, 709.2467041015625, 77.20512390136719, 721.4486694335938)
+    bbox:
+    - 72.62390899658203
+    - 709.2467041015625
+    - 77.20512390136719
+    - 721.4486694335938
+    bbox_x1: 72.62390899658203
+    bbox_x2: 77.20512390136719
     double_fontsize_int: 20
   - index: 125
     text: 'The experience of the cash transfer or direct cash assistance has proved
       to be a valuable support '
     text_base: the experience of the cash transfer or direct cash assistance has proved
       to be a valuable support
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 9
@@ -452,74 +638,104 @@
     span_number: 1
     total_y: 1561.18017578125
     origin_x: 90.02234649658203
-    bbox: (90.02234649658203, 710.24365234375, 548.0911254882812, 721.370849609375)
+    bbox:
+    - 90.02234649658203
+    - 710.24365234375
+    - 548.0911254882812
+    - 721.370849609375
+    bbox_x1: 90.02234649658203
+    bbox_x2: 548.0911254882812
     double_fontsize_int: 20
   - index: 126
     text: 'process for many communities in need. SRCs taking on increased measures
       to build its capacity in '
     text_base: process for many communities in need srcs taking on increased measures
       to build its capacity in
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 9
     line_number: 2
     span_number: 0
     total_y: 1572.5802001953125
-    origin_x: 90.62390899658205
-    bbox: (90.62390899658203, 721.6436767578125, 548.6229248046875, 732.7708740234375)
+    origin_x: 90.62390899658203
+    bbox:
+    - 90.62390899658203
+    - 721.6436767578125
+    - 548.6229248046875
+    - 732.7708740234375
+    bbox_x1: 90.62390899658203
+    bbox_x2: 548.6229248046875
     double_fontsize_int: 20
   - index: 127
     text: 'this activity, and has been chosen as one of the leading National Societies
       that will carry forward the '
     text_base: this activity and has been chosen as one of the leading national societies
       that will carry forward the
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 9
     line_number: 3
     span_number: 0
     total_y: 1584.09619140625
-    origin_x: 90.62390899658205
-    bbox: (90.62390899658203, 733.15966796875, 548.2146606445312, 744.286865234375)
+    origin_x: 90.62390899658203
+    bbox:
+    - 90.62390899658203
+    - 733.15966796875
+    - 548.2146606445312
+    - 744.286865234375
+    bbox_x1: 90.62390899658203
+    bbox_x2: 548.2146606445312
     double_fontsize_int: 20
   - index: 128
     text: 'process after all the necessary training. The International Federation
       selected four pilot countries (Viet '
     text_base: process after all the necessary training the international federation
       selected four pilot countries viet
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 9
     line_number: 4
     span_number: 0
     total_y: 1595.6161499023438
-    origin_x: 90.62390899658205
-    bbox: (90.62390899658203, 744.6796264648438, 548.1947021484375, 755.8068237304688)
+    origin_x: 90.62390899658203
+    bbox:
+    - 90.62390899658203
+    - 744.6796264648438
+    - 548.1947021484375
+    - 755.8068237304688
+    bbox_x1: 90.62390899658203
+    bbox_x2: 548.1947021484375
     double_fontsize_int: 20
   - index: 129
     text: 'Nam, Philippines, Chile and Senegal) to support their National Societies
       with training and coaching, '
     text_base: nam philippines chile and senegal to support their national societies
       with training and coaching
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 1
     block_number: 9
     line_number: 5
     span_number: 0
     total_y: 1607.1361694335938
-    origin_x: 90.62390899658205
-    bbox: (90.62390899658203, 756.1996459960938, 548.4039306640625, 767.3268432617188)
+    origin_x: 90.62390899658203
+    bbox:
+    - 90.62390899658203
+    - 756.1996459960938
+    - 548.4039306640625
+    - 767.3268432617188
+    bbox_x1: 90.62390899658203
+    bbox_x2: 548.4039306640625
     double_fontsize_int: 20
   - index: 131
     text: 'ensuring cash transfers and market assessment are embedded into their existing
       preparedness '
     text_base: ensuring cash transfers and market assessment are embedded into their
       existing preparedness
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 2
     block_number: 1
@@ -527,14 +743,20 @@
     span_number: 0
     total_y: 1765.0799560546875
     origin_x: 90.6240005493164
-    bbox: (90.6240005493164, 72.22346496582031, 548.1051025390625, 83.35065460205078)
+    bbox:
+    - 90.6240005493164
+    - 72.22346496582031
+    - 548.1051025390625
+    - 83.35065460205078
+    bbox_x1: 90.6240005493164
+    bbox_x2: 548.1051025390625
     double_fontsize_int: 20
   - index: 132
     text: 'measures and Contingency Planning (CP) so that when a disaster occurs,
       an operation with a scalable '
     text_base: measures and contingency planning cp so that when a disaster occurs
       an operation with a scalable
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 2
     block_number: 1
@@ -542,14 +764,20 @@
     span_number: 0
     total_y: 1776.6199340820312
     origin_x: 90.6240005493164
-    bbox: (90.6240005493164, 83.76344299316406, 548.1052856445312, 94.89063262939453)
+    bbox:
+    - 90.6240005493164
+    - 83.76344299316406
+    - 548.1052856445312
+    - 94.89063262939453
+    bbox_x1: 90.6240005493164
+    bbox_x2: 548.1052856445312
     double_fontsize_int: 20
   - index: 133
     text: 'cash transfer components will come rapidly into being. On 14 February 2013,
       with the financial support '
     text_base: cash transfer components will come rapidly into being on 14 february
       2013 with the financial support
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 2
     block_number: 1
@@ -557,14 +785,20 @@
     span_number: 0
     total_y: 1788.1399536132812
     origin_x: 90.6240005493164
-    bbox: (90.6240005493164, 95.28346252441406, 548.184814453125, 106.41065216064453)
+    bbox:
+    - 90.6240005493164
+    - 95.28346252441406
+    - 548.184814453125
+    - 106.41065216064453
+    bbox_x1: 90.6240005493164
+    bbox_x2: 548.184814453125
     double_fontsize_int: 20
   - index: 134
     text: 'of ECHO and British Red Cross, the pilot project with the Senegalese Red
       Cross Society (SRCS) was '
     text_base: of echo and british red cross the pilot project with the senegalese
       red cross society srcs was
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 2
     block_number: 1
@@ -572,72 +806,102 @@
     span_number: 0
     total_y: 1799.5399780273438
     origin_x: 90.6240005493164
-    bbox: (90.6240005493164, 106.68348693847656, 548.0653076171875, 117.81067657470703)
+    bbox:
+    - 90.6240005493164
+    - 106.68348693847656
+    - 548.0653076171875
+    - 117.81067657470703
+    bbox_x1: 90.6240005493164
+    bbox_x2: 548.0653076171875
     double_fontsize_int: 20
   - index: 135
     text: 'launched. It is expected that the case studies and lessons learned from
       this pilot project will allow '
     text_base: launched it is expected that the case studies and lessons learned from
       this pilot project will allow
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 2
     block_number: 1
     line_number: 4
     span_number: 0
-    total_y: 1811.0599975585935
+    total_y: 1811.0599975585938
     origin_x: 90.6240005493164
-    bbox: (90.6240005493164, 118.20350646972656, 548.5533447265625, 129.3306884765625)
+    bbox:
+    - 90.6240005493164
+    - 118.20350646972656
+    - 548.5533447265625
+    - 129.3306884765625
+    bbox_x1: 90.6240005493164
+    bbox_x2: 548.5533447265625
     double_fontsize_int: 20
   - index: 136
     text: 'reaching other countries in the future. '
     text_base: reaching other countries in the future
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 2
     block_number: 1
     line_number: 5
     span_number: 0
-    total_y: 1822.580017089844
+    total_y: 1822.5800170898438
     origin_x: 90.6240005493164
-    bbox: (90.6240005493164, 129.72352600097656, 259.01605224609375, 140.8507080078125)
+    bbox:
+    - 90.6240005493164
+    - 129.72352600097656
+    - 259.01605224609375
+    - 140.8507080078125
+    bbox_x1: 90.6240005493164
+    bbox_x2: 259.01605224609375
     double_fontsize_int: 20
   - index: 137
     text: 'The appeal was 75 percent funded with the main donors being the Finnish,
       Canadian, Danish, British, Monaco '
     text_base: the appeal was 75 percent funded with the main donors being the finnish
       canadian danish british monaco
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 2
     block_number: 3
     line_number: 0
     span_number: 0
-    total_y: 1857.1400756835935
-    origin_x: 54.59999847412109
-    bbox: (54.599998474121094, 164.28358459472656, 548.6359252929688, 175.4107666015625)
+    total_y: 1857.1400756835938
+    origin_x: 54.599998474121094
+    bbox:
+    - 54.599998474121094
+    - 164.28358459472656
+    - 548.6359252929688
+    - 175.4107666015625
+    bbox_x1: 54.599998474121094
+    bbox_x2: 548.6359252929688
     double_fontsize_int: 20
   - index: 138
     text: and Japanese Red Cross Societies with the Canadian Red Cross also supporting
       the operations manager.
     text_base: and japanese red cross societies with the canadian red cross also supporting
       the operations manager
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 2
     block_number: 3
     line_number: 1
     span_number: 0
-    total_y: 1868.540100097656
+    total_y: 1868.5401000976562
     origin_x: 54.600006103515625
-    bbox: (54.600006103515625, 175.68360900878906, 545.3076782226562, 186.810791015625)
+    bbox:
+    - 54.600006103515625
+    - 175.68360900878906
+    - 545.3076782226562
+    - 186.810791015625
+    bbox_x1: 54.600006103515625
+    bbox_x2: 545.3076782226562
     double_fontsize_int: 20
   - index: 139
-    text: 'The IFRC on behalf of the  Senegalese Red Cross Society would like to extend
-      thanks to all these partners '
-    text_base: the ifrc on behalf of the senegalese red cross society would like to
-      extend thanks to all these partners
-    style: 'arial, 20, #000000, nan'
+    text: 'The IFRC on behalf of the  the  Senegalese Red Cross Society would like
+      to extend thanks to all these partners '
+    text_base: the ifrc on behalf of the the senegalese red cross society would like
+      to extend thanks to all these partners
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 2
     block_number: 3
@@ -645,33 +909,32 @@
     span_number: 0
     total_y: 1879.9401245117188
     origin_x: 54.5999755859375
-    bbox: (54.5999755859375, 187.08363342285156, 173.28164672851562, 198.2108154296875)
-    double_fontsize_int: 20
-  - index: 140
-    text: 'the '
-    text_base: the
-    style: 'arial,bold, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 2
-    block_number: 3
-    line_number: 2
-    span_number: 1
-    total_y: 1879.9401245117188
-    origin_x: 173.65997314453125
-    bbox: (173.65997314453125, 185.44296264648438, 191.41864013671875, 199.1578826904297)
+    bbox:
+    - 54.5999755859375
+    - 187.08363342285156
+    - 173.28164672851562
+    - 198.2108154296875
+    bbox_x1: 54.5999755859375
+    bbox_x2: 548.627197265625
     double_fontsize_int: 20
   - index: 142
     text: for their generous contributions to this appeal.
     text_base: for their generous contributions to this appeal
-    style: 'arial, 20, #000000, nan'
+    style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 2
     block_number: 3
     line_number: 3
     span_number: 0
-    total_y: 1891.580139160156
+    total_y: 1891.5801391601562
     origin_x: 54.5999755859375
-    bbox: (54.5999755859375, 198.72364807128906, 257.4571838378906, 209.850830078125)
+    bbox:
+    - 54.5999755859375
+    - 198.72364807128906
+    - 257.4571838378906
+    - 209.850830078125
+    bbox_x1: 54.5999755859375
+    bbox_x2: 257.4571838378906
     double_fontsize_int: 20
   items:
   - This food insecurity operation was the first of its kind in which the Senegalese
@@ -714,6 +977,6 @@
     learned from this pilot project will allow reaching other countries in the future.
   - The appeal was 75 percent funded with the main donors being the Finnish, Canadian,
     Danish, British, Monaco and Japanese Red Cross Societies with the Canadian Red
-    Cross also supporting the operations manager. The IFRC on behalf of the  Senegalese
-    Red Cross Society would like to extend thanks to all these partners the for their
+    Cross also supporting the operations manager. The IFRC on behalf of the  the  Senegalese
+    Red Cross Society would like to extend thanks to all these partners for their
     generous contributions to this appeal.

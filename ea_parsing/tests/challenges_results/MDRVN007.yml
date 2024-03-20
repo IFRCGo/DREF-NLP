@@ -1,7 +1,7 @@
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'arial,bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -9,11 +9,9 @@
     span_number: 0
     total_y: 6339.430328369141
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 435.333251953125
-    - 110.184326171875
-    - 449.04815673828125
+    bbox: (53.999977111816406, 435.333251953125, 110.184326171875, 449.04815673828125)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 110.184326171875
     idx: 511
   sector_title: Relief
   sector_idx: 367
@@ -22,24 +20,22 @@
   - index: 512
     text: 'Beneficiary selection '
     text_base: beneficiary selection
-    style: 'arial,italic, 20, #000000, None'
+    style: 'arial,italic, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
     line_number: 34
     span_number: 0
-    total_y: 6362.4703369140625
+    total_y: 6362.470336914063
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 458.3732604980469
-    - 148.47056579589844
-    - 471.8591003417969
+    bbox: (53.999977111816406, 458.3732604980469, 148.47056579589844, 471.8591003417969)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 148.47056579589844
     double_fontsize_int: 20
   - index: 513
     text: 'The beneficiaries were selected through a process of '
     text_base: the beneficiaries were selected through a process of
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -47,16 +43,14 @@
     span_number: 0
     total_y: 6373.990325927734
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 469.84344482421875
-    - 303.4183349609375
-    - 483.5284729003906
+    bbox: (53.999977111816406, 469.84344482421875, 303.4183349609375, 483.5284729003906)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 303.4183349609375
     double_fontsize_int: 20
   - index: 514
     text: 'joint decision-making between local Red Cross, '
     text_base: joint decision making between local red cross
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -64,16 +58,14 @@
     span_number: 0
     total_y: 6385.510314941406
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 481.3634338378906
-    - 303.5478210449219
-    - 495.0484619140625
+    bbox: (53.999977111816406, 481.3634338378906, 303.5478210449219, 495.0484619140625)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 303.5478210449219
     double_fontsize_int: 20
   - index: 515
     text: 'community leaders and local authorities according to '
     text_base: community leaders and local authorities according to
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -81,18 +73,16 @@
     span_number: 0
     total_y: 6397.030303955078
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 492.8834228515625
-    - 303.6374816894531
-    - 506.5684509277344
+    bbox: (53.999977111816406, 492.8834228515625, 303.6374816894531, 506.5684509277344)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 303.6374816894531
     double_fontsize_int: 20
   - index: 516
     text: 'the guidelines provided by VNRC national headquarters. Although efforts
       were made to adhere to VNRC '
     text_base: the guidelines provided by vnrc national headquarters although efforts
       were made to adhere to vnrc
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -100,18 +90,16 @@
     span_number: 0
     total_y: 6408.55029296875
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 504.4034118652344
-    - 546.2230834960938
-    - 518.0884399414062
+    bbox: (53.999977111816406, 504.4034118652344, 546.2230834960938, 518.0884399414062)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 546.2230834960938
     double_fontsize_int: 20
   - index: 517
     text: 'guidelines for cash distribution, in some cases it was difficult to do
       so. In some villages, there was a demand to '
     text_base: guidelines for cash distribution in some cases it was difficult to
       do so in some villages there was a demand to
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -119,18 +107,16 @@
     span_number: 0
     total_y: 6420.070251464844
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 515.92333984375
-    - 546.2531127929688
-    - 529.6083984375
+    bbox: (53.999977111816406, 515.92333984375, 546.2531127929688, 529.6083984375)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 546.2531127929688
     double_fontsize_int: 20
   - index: 518
     text: 'share the allocated money among all households instead of a few selected.
       Thus, money was distributed '
     text_base: share the allocated money among all households instead of a few selected
       thus money was distributed
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -138,18 +124,16 @@
     span_number: 0
     total_y: 6431.590270996094
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 527.443359375
-    - 546.3030395507812
-    - 541.12841796875
+    bbox: (53.999977111816406, 527.443359375, 546.3030395507812, 541.12841796875)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 546.3030395507812
     double_fontsize_int: 20
   - index: 519
     text: 'among a larger number of households than there were on the beneficiary
       list, thereby reducing the amount of '
     text_base: among a larger number of households than there were on the beneficiary
       list thereby reducing the amount of
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -157,18 +141,16 @@
     span_number: 0
     total_y: 6442.990295410156
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 538.8433837890625
-    - 546.233154296875
-    - 552.5284423828125
+    bbox: (53.999977111816406, 538.8433837890625, 546.233154296875, 552.5284423828125)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 546.233154296875
     double_fontsize_int: 20
   - index: 520
     text: 'money that households were supposed to receive. Often community members
       hesitated in accepting support '
     text_base: money that households were supposed to receive often community members
       hesitated in accepting support
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -176,18 +158,16 @@
     span_number: 0
     total_y: 6454.51025390625
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 550.3634033203125
-    - 546.402587890625
-    - 564.0484008789062
+    bbox: (53.999977111816406, 550.3634033203125, 546.402587890625, 564.0484008789062)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 546.402587890625
     double_fontsize_int: 20
   - index: 521
     text: 'while other households in the same community did not. The review team also
       reported that in some cases, it '
     text_base: while other households in the same community did not the review team
       also reported that in some cases it
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -195,18 +175,16 @@
     span_number: 0
     total_y: 6466.060241699219
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 561.913330078125
-    - 546.47216796875
-    - 575.598388671875
+    bbox: (53.999977111816406, 561.913330078125, 546.47216796875, 575.598388671875)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 546.47216796875
     double_fontsize_int: 20
   - index: 522
     text: 'was difficult for the parties concerned to come up with a beneficiary list
       that everyone agreed upon. '
     text_base: was difficult for the parties concerned to come up with a beneficiary
       list that everyone agreed upon
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -214,18 +192,16 @@
     span_number: 0
     total_y: 6477.580261230469
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 573.433349609375
-    - 494.3816223144531
-    - 587.118408203125
+    bbox: (53.999977111816406, 573.433349609375, 494.3816223144531, 587.118408203125)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 494.3816223144531
     double_fontsize_int: 20
   - index: 523
     text: 'Further, while selecting households for the cash distribution, local authorities
       were faced with the dilemma of '
     text_base: further while selecting households for the cash distribution local
       authorities were faced with the dilemma of
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -233,18 +209,16 @@
     span_number: 0
     total_y: 6500.6202392578125
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 596.473388671875
-    - 546.17333984375
-    - 610.1583862304688
+    bbox: (53.999977111816406, 596.473388671875, 546.17333984375, 610.1583862304688)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 546.17333984375
     double_fontsize_int: 20
   - index: 524
     text: 'distributing money between richer households that had been badly affected
       by the floods and very poor '
     text_base: distributing money between richer households that had been badly affected
       by the floods and very poor
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -252,18 +226,16 @@
     span_number: 0
     total_y: 6512.020202636719
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 607.873291015625
-    - 546.053955078125
-    - 621.558349609375
+    bbox: (53.999977111816406, 607.873291015625, 546.053955078125, 621.558349609375)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 546.053955078125
     double_fontsize_int: 20
   - index: 525
     text: 'households that had suffered fewer damages in the floods because they had
       fewer belongings to lose. In the '
     text_base: households that had suffered fewer damages in the floods because they
       had fewer belongings to lose in the
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -271,18 +243,16 @@
     span_number: 0
     total_y: 6523.540222167969
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 619.393310546875
-    - 546.4515991210938
-    - 633.078369140625
+    bbox: (53.999977111816406, 619.393310546875, 546.4515991210938, 633.078369140625)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 546.4515991210938
     double_fontsize_int: 20
   - index: 526
     text: 'guidelines for cash distribution, there was an additional criterion of
       providing grants to those who had received '
     text_base: guidelines for cash distribution there was an additional criterion
       of providing grants to those who had received
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -290,18 +260,16 @@
     span_number: 0
     total_y: 6535.060241699219
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 630.913330078125
-    - 546.432373046875
-    - 644.598388671875
+    bbox: (53.999977111816406, 630.913330078125, 546.432373046875, 644.598388671875)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 546.432373046875
     double_fontsize_int: 20
   - index: 527
     text: 'no support from Red Cross or any other agency as yet. These largely included
       richer households, because the '
     text_base: no support from red cross or any other agency as yet these largely
       included richer households because the
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -309,18 +277,16 @@
     span_number: 0
     total_y: 6546.580261230469
     origin_x: 53.999977111816406
-    bbox:
-    - 53.999977111816406
-    - 642.433349609375
-    - 546.300537109375
-    - 656.118408203125
+    bbox: (53.999977111816406, 642.433349609375, 546.300537109375, 656.118408203125)
+    bbox_x1: 53.999977111816406
+    bbox_x2: 546.300537109375
     double_fontsize_int: 20
   - index: 528
     text: 'poor affected households had already received support in the past. Thus,
       the post-distribution monitoring '
     text_base: poor affected households had already received support in the past thus
       the post distribution monitoring
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -328,18 +294,16 @@
     span_number: 0
     total_y: 6558.100280761719
     origin_x: 53.99993896484375
-    bbox:
-    - 53.99993896484375
-    - 653.953369140625
-    - 546.323486328125
-    - 667.638427734375
+    bbox: (53.99993896484375, 653.953369140625, 546.323486328125, 667.638427734375)
+    bbox_x1: 53.99993896484375
+    bbox_x2: 546.323486328125
     double_fontsize_int: 20
   - index: 529
     text: 'exercise found that cash had been granted to households that had recovered
       better than others. It has been '
     text_base: exercise found that cash had been granted to households that had recovered
       better than others it has been
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -347,18 +311,16 @@
     span_number: 0
     total_y: 6569.500244140625
     origin_x: 53.99993896484375
-    bbox:
-    - 53.99993896484375
-    - 665.3533935546875
-    - 546.3916015625
-    - 679.0383911132812
+    bbox: (53.99993896484375, 665.3533935546875, 546.3916015625, 679.0383911132812)
+    bbox_x1: 53.99993896484375
+    bbox_x2: 546.3916015625
     double_fontsize_int: 20
   - index: 530
     text: 'reported that in some cases, it was difficult to come up with a beneficiary
       list that all parties concerned agreed '
     text_base: reported that in some cases it was difficult to come up with a beneficiary
       list that all parties concerned agreed
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -366,16 +328,14 @@
     span_number: 0
     total_y: 6581.020263671875
     origin_x: 53.99993896484375
-    bbox:
-    - 53.99993896484375
-    - 676.8734130859375
-    - 546.4424438476562
-    - 690.5584106445312
+    bbox: (53.99993896484375, 676.8734130859375, 546.4424438476562, 690.5584106445312)
+    bbox_x1: 53.99993896484375
+    bbox_x2: 546.4424438476562
     double_fontsize_int: 20
   - index: 531
     text: 'on.  '
     text_base: 'on'
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -383,53 +343,33 @@
     span_number: 0
     total_y: 6592.540222167969
     origin_x: 53.99993896484375
-    bbox:
-    - 53.99993896484375
-    - 688.393310546875
-    - 73.47282409667969
-    - 702.078369140625
+    bbox: (53.99993896484375, 688.393310546875, 73.47282409667969, 702.078369140625)
+    bbox_x1: 53.99993896484375
+    bbox_x2: 73.47282409667969
     double_fontsize_int: 20
-  - index: 533
-    text: Ketsana operation final report
-    text_base: ketsana operation final report
-    style: 'arial, 20, #0000ff, #0000ff'
+  - index: 532
+    text: 'The  Ketsana operation final report  pointed out that the national society
+      needed to advocate the understanding '
+    text_base: the ketsana operation final report pointed out that the national society
+      needed to advocate the understanding
+    style: 'arial, 20, #000000, #0000ff'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
     line_number: 56
-    span_number: 1
-    total_y: 6615.579895019531
-    origin_x: 74.42400360107422
-    bbox:
-    - 74.42400360107422
-    - 711.4329833984375
-    - 206.3441925048828
-    - 725.1180419921875
-    double_fontsize_int: 20
-  - index: 534
-    text: ' pointed out that the national society needed to advocate the understanding  The '
-    text_base: pointed out that the national society needed to advocate the understanding
-      the
-    style: 'arial, 20, #000000, None'
-    size: 9.960000038146973
-    page_number: 7
-    block_number: 2
-    line_number: 56
-    span_number: 2
-    total_y: 6615.579895019531
-    origin_x: 206.4499969482422
-    bbox:
-    - 206.4499969482422
-    - 711.4329833984375
-    - 546.430419921875
-    - 725.1180419921875
+    span_number: 0
+    total_y: 6615.580261230469
+    origin_x: 53.99993896484375
+    bbox: (53.99993896484375, 711.433349609375, 74.04873657226562, 725.118408203125)
+    bbox_x1: 53.99993896484375
+    bbox_x2: 546.430419921875
     double_fontsize_int: 20
   - index: 535
     text: "of the \u201Cmost in need\u201D concept and build the national society\u2019\
       s capacity in applying the Fundamental Principles "
     text_base: of the most in need concept and build the national society s capacity
       in applying the fundamental principles
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -437,18 +377,16 @@
     span_number: 0
     total_y: 6627.099853515625
     origin_x: 54.000030517578125
-    bbox:
-    - 54.000030517578125
-    - 724.6434326171875
-    - 546.0025634765625
-    - 735.7706298828125
+    bbox: (54.000030517578125, 724.6434326171875, 546.0025634765625, 735.7706298828125)
+    bbox_x1: 54.000030517578125
+    bbox_x2: 546.0025634765625
     double_fontsize_int: 20
   - index: 536
     text: 'while addressing local community member concerns. VNRC, with support from
       IFRC, is now working on '
     text_base: while addressing local community member concerns vnrc with support
       from ifrc is now working on
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -456,16 +394,14 @@
     span_number: 0
     total_y: 6638.519836425781
     origin_x: 54.000030517578125
-    bbox:
-    - 54.000030517578125
-    - 734.3729248046875
-    - 546.4227294921875
-    - 748.0579833984375
+    bbox: (54.000030517578125, 734.3729248046875, 546.4227294921875, 748.0579833984375)
+    bbox_x1: 54.000030517578125
+    bbox_x2: 546.4227294921875
     double_fontsize_int: 20
   - index: 537
     text: 'revising the guidelines for beneficiary selection. '
     text_base: revising the guidelines for beneficiary selection
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
     block_number: 2
@@ -473,16 +409,14 @@
     span_number: 0
     total_y: 6650.039855957031
     origin_x: 54.000030517578125
-    bbox:
-    - 54.000030517578125
-    - 745.8929443359375
-    - 266.4568176269531
-    - 759.5780029296875
+    bbox: (54.000030517578125, 745.8929443359375, 266.4568176269531, 759.5780029296875)
+    bbox_x1: 54.000030517578125
+    bbox_x2: 266.4568176269531
     double_fontsize_int: 20
   - index: 542
     text: 'Monitoring '
     text_base: monitoring
-    style: 'arial,italic, 20, #000000, None'
+    style: 'arial,italic, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
     block_number: 2
@@ -490,18 +424,16 @@
     span_number: 0
     total_y: 6828.0198974609375
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 82.0028305053711
-    - 103.47132873535156
-    - 95.48867797851562
+    bbox: (54.0, 82.0028305053711, 103.47132873535156, 95.48867797851562)
+    bbox_x1: 54.0
+    bbox_x2: 103.47132873535156
     double_fontsize_int: 20
   - index: 543
     text: 'Financial issues were not supervised at the same time that the relief programme
       was implemented. The '
     text_base: financial issues were not supervised at the same time that the relief
       programme was implemented the
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
     block_number: 2
@@ -509,18 +441,16 @@
     span_number: 0
     total_y: 6839.659912109375
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 93.59304809570312
-    - 545.8946533203125
-    - 107.27809143066406
+    bbox: (54.0, 93.59304809570312, 545.8946533203125, 107.27809143066406)
+    bbox_x1: 54.0
+    bbox_x2: 545.8946533203125
     double_fontsize_int: 20
   - index: 544
     text: 'requirements for missing or necessary accounting records and papers came
       a few months later after the relief '
     text_base: requirements for missing or necessary accounting records and papers
       came a few months later after the relief
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
     block_number: 2
@@ -528,66 +458,58 @@
     span_number: 0
     total_y: 6851.0599365234375
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 104.99307250976562
-    - 546.3128662109375
-    - 118.67811584472656
+    bbox: (54.0, 104.99307250976562, 546.3128662109375, 118.67811584472656)
+    bbox_x1: 54.0
+    bbox_x2: 546.3128662109375
     double_fontsize_int: 20
   - index: 545
     text: 'programme was delivered. Also, although the officers were experienced in
       relief distribution, they had limited '
     text_base: programme was delivered also although the officers were experienced
       in relief distribution they had limited
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
     block_number: 2
     line_number: 4
     span_number: 0
-    total_y: 6862.5799560546875
+    total_y: 6862.579956054688
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 116.51309204101562
-    - 546.3685302734375
-    - 130.19813537597656
+    bbox: (54.0, 116.51309204101562, 546.3685302734375, 130.19813537597656)
+    bbox_x1: 54.0
+    bbox_x2: 546.3685302734375
     double_fontsize_int: 20
   - index: 546
     text: 'capacity in financial accounting. This challenge will be addressed through
       further training for Red Cross staff '
     text_base: capacity in financial accounting this challenge will be addressed through
       further training for red cross staff
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
     block_number: 2
     line_number: 5
     span_number: 0
     total_y: 6874.0999755859375
-    origin_x: 54.000003814697266
-    bbox:
-    - 54.000003814697266
-    - 128.03311157226562
-    - 546.4322509765625
-    - 141.71815490722656
+    origin_x: 54.00000381469727
+    bbox: (54.000003814697266, 128.03311157226562, 546.4322509765625, 141.71815490722656)
+    bbox_x1: 54.00000381469727
+    bbox_x2: 546.4322509765625
     double_fontsize_int: 20
   - index: 547
     text: 'on cash distribution, financial management and monitoring. '
     text_base: on cash distribution financial management and monitoring
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
     block_number: 2
     line_number: 6
     span_number: 0
-    total_y: 6885.6199951171875
-    origin_x: 54.000003814697266
-    bbox:
-    - 54.000003814697266
-    - 139.55313110351562
-    - 318.0595703125
-    - 153.23817443847656
+    total_y: 6885.619995117188
+    origin_x: 54.00000381469727
+    bbox: (54.000003814697266, 139.55313110351562, 318.0595703125, 153.23817443847656)
+    bbox_x1: 54.00000381469727
+    bbox_x2: 318.0595703125
     double_fontsize_int: 20
   items:
   - Beneficiary selection The beneficiaries were selected through a process of joint
@@ -613,9 +535,9 @@
     exercise found that cash had been granted to households that had recovered better
     than others. It has been reported that in some cases, it was difficult to come
     up with a beneficiary list that all parties concerned agreed on.
-  - "Ketsana operation final report pointed out that the national society needed to\
-    \ advocate the understanding  The of the \u201Cmost in need\u201D concept and\
-    \ build the national society\u2019s capacity in applying the Fundamental Principles\
+  - "The  Ketsana operation final report  pointed out that the national society needed\
+    \ to advocate the understanding of the \u201Cmost in need\u201D concept and build\
+    \ the national society\u2019s capacity in applying the Fundamental Principles\
     \ while addressing local community member concerns. VNRC, with support from IFRC,\
     \ is now working on revising the guidelines for beneficiary selection."
   - Monitoring Financial issues were not supervised at the same time that the relief
@@ -628,7 +550,7 @@
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'arial,bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
     block_number: 10
@@ -636,11 +558,9 @@
     span_number: 0
     total_y: 9078.699829101562
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 648.8427734375
-    - 110.18435668945312
-    - 662.5577392578125
+    bbox: (54.0, 648.8427734375, 110.18435668945312, 662.5577392578125)
+    bbox_x1: 54.0
+    bbox_x2: 110.18435668945312
     idx: 763
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 610
@@ -649,114 +569,102 @@
   - index: 764
     text: 'Maintenance '
     text_base: maintenance
-    style: 'arial,italic, 20, #000000, None'
+    style: 'arial,italic, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
     block_number: 10
     line_number: 56
     span_number: 0
-    total_y: 9103.539794921875
-    origin_x: 54.599998474121094
-    bbox:
-    - 54.599998474121094
-    - 673.6827392578125
-    - 114.62891387939453
-    - 687.1685791015625
+    total_y: 9103.539794921877
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 673.6827392578125, 114.62891387939453, 687.1685791015625)
+    bbox_x1: 54.59999847412109
+    bbox_x2: 114.62891387939452
     double_fontsize_int: 20
   - index: 765
     text: 'Provincial Red Cross trained staff to operate the water treatment unit
       said that they had had some trouble with '
     text_base: provincial red cross trained staff to operate the water treatment unit
       said that they had had some trouble with
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
     block_number: 10
     line_number: 57
     span_number: 0
     total_y: 9116.85986328125
-    origin_x: 54.599998474121094
-    bbox:
-    - 54.599998474121094
-    - 686.9530029296875
-    - 546.2156982421875
-    - 700.6380615234375
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 686.9530029296875, 546.2156982421875, 700.6380615234375)
+    bbox_x1: 54.59999847412109
+    bbox_x2: 546.2156982421875
     double_fontsize_int: 20
   - index: 766
     text: 'the filters as the water being treated was very muddy and had required
       frequent change of filters that are very '
     text_base: the filters as the water being treated was very muddy and had required
       frequent change of filters that are very
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
     block_number: 10
     line_number: 58
     span_number: 0
     total_y: 9128.259826660156
-    origin_x: 54.599998474121094
-    bbox:
-    - 54.599998474121094
-    - 698.35302734375
-    - 546.4248657226562
-    - 712.0380249023438
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 698.35302734375, 546.4248657226562, 712.0380249023438)
+    bbox_x1: 54.59999847412109
+    bbox_x2: 546.4248657226562
     double_fontsize_int: 20
   - index: 767
     text: 'costly. Maintenance was, therefore, very expensive. Nevertheless, VNRC
       said that the water produced met '
     text_base: costly maintenance was therefore very expensive nevertheless vnrc said
       that the water produced met
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
     block_number: 10
     line_number: 59
     span_number: 0
-    total_y: 9139.659851074219
-    origin_x: 54.599998474121094
-    bbox:
-    - 54.599998474121094
-    - 709.7530517578125
-    - 546.1559448242188
-    - 723.4380493164062
+    total_y: 9139.65985107422
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 709.7530517578125, 546.1559448242188, 723.4380493164062)
+    bbox_x1: 54.59999847412109
+    bbox_x2: 546.1559448242188
     double_fontsize_int: 20
   - index: 768
     text: 'Australian standards for drinking water. Provincial Red Cross staff have
       said that, in future, they would like to '
     text_base: australian standards for drinking water provincial red cross staff
       have said that in future they would like to
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
     block_number: 10
     line_number: 60
     span_number: 0
-    total_y: 9151.059814453125
-    origin_x: 54.599998474121094
-    bbox:
-    - 54.599998474121094
-    - 721.1529541015625
-    - 546.4048461914062
-    - 734.8380126953125
+    total_y: 9151.059814453123
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 721.1529541015625, 546.4048461914062, 734.8380126953125)
+    bbox_x1: 54.59999847412109
+    bbox_x2: 546.4048461914062
     double_fontsize_int: 20
   - index: 769
     text: 'train more people on how to operate the different units, and will source
       and stock spare parts.  '
     text_base: train more people on how to operate the different units and will source
       and stock spare parts
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
     block_number: 10
     line_number: 61
     span_number: 0
-    total_y: 9162.599853515625
-    origin_x: 54.599998474121094
-    bbox:
-    - 54.599998474121094
-    - 732.6929931640625
-    - 473.394287109375
-    - 746.3780517578125
+    total_y: 9162.599853515623
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 732.6929931640625, 473.394287109375, 746.3780517578125)
+    bbox_x1: 54.59999847412109
+    bbox_x2: 473.394287109375
     double_fontsize_int: 20
   items:
   - Maintenance Provincial Red Cross trained staff to operate the water treatment
@@ -769,7 +677,7 @@
 - title:
     text: 'Challenges  '
     text_base: challenges
-    style: 'arial,bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
     block_number: 27
@@ -777,20 +685,20 @@
     span_number: 0
     total_y: 9900.699768066406
     origin_x: 54.600006103515625
-    bbox:
-    - 54.600006103515625
-    - 628.9227294921875
-    - 113.5532455444336
-    - 642.6376953125
+    bbox: (54.600006103515625, 628.9227294921875, 113.5532455444336, 642.6376953125)
+    bbox_x1: 54.600006103515625
+    bbox_x2: 113.5532455444336
     idx: 843
   sector_title: Livelihoods
   sector_idx: 775
   sector_similarity_score: 1.0
   content:
   - index: 844
-    text: 'The overall challenges of the cash grant programme were discussed earlier '
+    text: 'The overall challenges of the cash grant programme were discussed earlier  (see
+      section on relief distributions: '
     text_base: the overall challenges of the cash grant programme were discussed earlier
-    style: 'arial, 20, #000000, None'
+      see section on relief distributions
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
     block_number: 27
@@ -798,33 +706,14 @@
     span_number: 0
     total_y: 9923.619750976562
     origin_x: 54.600006103515625
-    bbox:
-    - 54.600006103515625
-    - 651.79296875
-    - 391.6564636230469
-    - 665.4779663085938
-    double_fontsize_int: 20
-  - index: 845
-    text: '(see section on relief distributions: '
-    text_base: see section on relief distributions
-    style: 'arial,italic, 20, #000000, None'
-    size: 9.960000038146973
-    page_number: 11
-    block_number: 27
-    line_number: 12
-    span_number: 1
-    total_y: 9923.619750976562
-    origin_x: 392.1100158691406
-    bbox:
-    - 392.1100158691406
-    - 651.8427124023438
-    - 546.3406372070312
-    - 665.3285522460938
+    bbox: (54.600006103515625, 651.79296875, 391.6564636230469, 665.4779663085938)
+    bbox_x1: 54.600006103515625
+    bbox_x2: 546.3406372070312
     double_fontsize_int: 20
   - index: 846
-    text: food)
+    text: 'food) .  '
     text_base: food
-    style: 'arial,italic, 20, #000000, None'
+    style: 'arial,italic, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
     block_number: 27
@@ -832,36 +721,17 @@
     span_number: 0
     total_y: 9935.139770507812
     origin_x: 54.600006103515625
-    bbox:
-    - 54.600006103515625
-    - 663.3627319335938
-    - 77.26325225830078
-    - 676.8485717773438
-    double_fontsize_int: 20
-  - index: 847
-    text: '.  '
-    text_base: ''
-    style: 'arial, 20, #000000, None'
-    size: 9.960000038146973
-    page_number: 11
-    block_number: 27
-    line_number: 13
-    span_number: 1
-    total_y: 9935.139770507812
-    origin_x: 77.30400848388672
-    bbox:
-    - 77.30400848388672
-    - 663.31298828125
-    - 85.71025848388672
-    - 676.9979858398438
+    bbox: (54.600006103515625, 663.3627319335938, 77.26325225830078, 676.8485717773438)
+    bbox_x1: 54.600006103515625
+    bbox_x2: 85.71025848388672
     double_fontsize_int: 20
   items:
-  - 'The overall challenges of the cash grant programme were discussed earlier (see
+  - 'The overall challenges of the cash grant programme were discussed earlier  (see
     section on relief distributions: food) .'
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'arial,bold, 20, #000000, None'
+    style: 'arial,bold, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
     block_number: 2
@@ -869,11 +739,9 @@
     span_number: 0
     total_y: 10704.819702148438
     origin_x: 54.599884033203125
-    bbox:
-    - 54.599884033203125
-    - 591.1226806640625
-    - 110.78424072265625
-    - 604.837646484375
+    bbox: (54.599884033203125, 591.1226806640625, 110.78424072265625, 604.837646484375)
+    bbox_x1: 54.599884033203125
+    bbox_x2: 110.78424072265624
     idx: 883
   sector_title: Psycho social support
   sector_idx: 887
@@ -884,7 +752,7 @@
       considerable amount of time to '
     text_base: given that ps had not been a component in recent operations it took
       a considerable amount of time to
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
     block_number: 2
@@ -892,18 +760,16 @@
     span_number: 0
     total_y: 10727.859741210938
     origin_x: 54.599884033203125
-    bbox:
-    - 54.599884033203125
-    - 614.1129150390625
-    - 546.0164794921875
-    - 627.7979736328125
+    bbox: (54.599884033203125, 614.1129150390625, 546.0164794921875, 627.7979736328125)
+    bbox_x1: 54.599884033203125
+    bbox_x2: 546.0164794921875
     double_fontsize_int: 20
   - index: 885
     text: 'achieve the objectives under this component. However, having built some
       capacity in PS, VNRC now plans to '
     text_base: achieve the objectives under this component however having built some
       capacity in ps vnrc now plans to
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
     block_number: 2
@@ -911,28 +777,24 @@
     span_number: 0
     total_y: 10739.379760742188
     origin_x: 54.599884033203125
-    bbox:
-    - 54.599884033203125
-    - 625.6329345703125
-    - 546.4149169921875
-    - 639.3179931640625
+    bbox: (54.599884033203125, 625.6329345703125, 546.4149169921875, 639.3179931640625)
+    bbox_x1: 54.599884033203125
+    bbox_x2: 546.4149169921875
     double_fontsize_int: 20
   - index: 886
     text: 'focus on building it further.  '
     text_base: focus on building it further
-    style: 'arial, 20, #000000, None'
+    style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
     block_number: 2
     line_number: 42
     span_number: 0
-    total_y: 10750.899719238281
+    total_y: 10750.89971923828
     origin_x: 54.599884033203125
-    bbox:
-    - 54.599884033203125
-    - 637.1529541015625
-    - 177.5062713623047
-    - 650.8379516601562
+    bbox: (54.599884033203125, 637.1529541015625, 177.5062713623047, 650.8379516601562)
+    bbox_x1: 54.599884033203125
+    bbox_x2: 177.5062713623047
     double_fontsize_int: 20
   items:
   - Given that PS had not been a component in recent operations, it took a considerable

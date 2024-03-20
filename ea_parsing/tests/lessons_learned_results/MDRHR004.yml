@@ -9,6 +9,13 @@
     span_number: 0
     total_y: 32305.72930908203
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 297.3206787109375
+    - 412.9466857910156
+    - 316.7759094238281
+    bbox_x1: 36.0
+    bbox_x2: 412.9466857910156
     idx: 2170
   sector_title: null
   sector_idx: null
@@ -27,6 +34,13 @@
     span_number: 0
     total_y: 32332.36932373047
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 328.7642517089844
+    - 561.3577880859375
+    - 342.32794189453125
+    bbox_x1: 36.0
+    bbox_x2: 561.3577880859375
     double_fontsize_int: 20
   - index: 2172
     text: 'lessons learned was launched in order to improve future operations. All
@@ -41,6 +55,13 @@
     span_number: 0
     total_y: 32345.929321289062
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 342.3242492675781
+    - 561.4773559570312
+    - 355.887939453125
+    bbox_x1: 36.0
+    bbox_x2: 561.4773559570312
     double_fontsize_int: 20
   - index: 2173
     text: 'the opportunity to point out the shortcomings and suggest measures for
@@ -55,6 +76,13 @@
     span_number: 0
     total_y: 32359.609344482422
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 356.0042724609375
+    - 561.690185546875
+    - 369.5679626464844
+    bbox_x1: 36.0
+    bbox_x2: 561.690185546875
     double_fontsize_int: 20
   - index: 2174
     text: 'established to analyze the lessons learned. The group meets once a quarter.  '
@@ -67,6 +95,13 @@
     span_number: 0
     total_y: 32373.169342041016
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 369.56427001953125
+    - 396.01727294921875
+    - 383.1279602050781
+    bbox_x1: 36.0
+    bbox_x2: 396.01727294921875
     double_fontsize_int: 20
   - index: 2175
     text: 'Process of collecting the observations from CRC personnel and volunteers
@@ -81,6 +116,13 @@
     span_number: 0
     total_y: 32392.849334716797
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 389.2442626953125
+    - 561.99267578125
+    - 402.8079528808594
+    bbox_x1: 36.0
+    bbox_x2: 561.99267578125
     double_fontsize_int: 20
   - index: 2176
     text: 'operation started in September 2021 and will continue by the end of EA
@@ -95,6 +137,13 @@
     span_number: 0
     total_y: 32406.40933227539
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 402.80426025390625
+    - 561.8948974609375
+    - 416.3679504394531
+    bbox_x1: 36.0
+    bbox_x2: 561.8948974609375
     double_fontsize_int: 20
   - index: 2177
     text: 'report after collecting information from CRC assistance recipients. '
@@ -107,6 +156,13 @@
     span_number: 0
     total_y: 32420.089324951172
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 416.4842529296875
+    - 345.6172790527344
+    - 430.0479431152344
+    bbox_x1: 36.0
+    bbox_x2: 345.6172790527344
     double_fontsize_int: 20
   - index: 2178
     text: 'The Croatian Red Cross launched the Concept on the Lessons Learned based
@@ -121,6 +177,13 @@
     span_number: 0
     total_y: 32439.649322509766
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 436.04425048828125
+    - 561.8826293945312
+    - 449.6079406738281
+    bbox_x1: 36.0
+    bbox_x2: 561.8826293945312
     double_fontsize_int: 20
   - index: 2179
     text: 'developed by the Croatian Armed Forces respecting the fundamental principles
@@ -135,6 +198,13 @@
     span_number: 0
     total_y: 32453.329345703125
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 449.7242736816406
+    - 561.7642822265625
+    - 463.2879638671875
+    bbox_x1: 36.0
+    bbox_x2: 561.7642822265625
     double_fontsize_int: 20
   - index: 2180
     text: 'NATO''s system of lessons learned. The concept describes in detail the
@@ -149,6 +219,13 @@
     span_number: 0
     total_y: 32466.90933227539
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 463.30426025390625
+    - 562.0072631835938
+    - 476.8679504394531
+    bbox_x1: 36.0
+    bbox_x2: 562.0072631835938
     double_fontsize_int: 20
   - index: 2181
     text: 'and applying lessons learned, the responsibilities of individuals and all
@@ -163,6 +240,13 @@
     span_number: 0
     total_y: 32480.589324951172
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 476.9842529296875
+    - 561.9559936523438
+    - 490.5479431152344
+    bbox_x1: 36.0
+    bbox_x2: 561.9559936523438
     double_fontsize_int: 20
   - index: 2182
     text: 'a single system of lessons learned, and technical solutions as well as
@@ -177,6 +261,13 @@
     span_number: 0
     total_y: 32494.149322509766
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 490.54425048828125
+    - 561.8397827148438
+    - 504.1079406738281
+    bbox_x1: 36.0
+    bbox_x2: 561.8397827148438
     double_fontsize_int: 20
   - index: 2183
     text: 'learned. The aim of drafting the Concept of Lessons Learned (hereinafter:
@@ -191,6 +282,13 @@
     span_number: 0
     total_y: 32507.829345703125
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 504.2242736816406
+    - 561.5066528320312
+    - 517.7879638671875
+    bbox_x1: 36.0
+    bbox_x2: 561.5066528320312
     double_fontsize_int: 20
   - index: 2184
     text: 'standardized and harmonized approach to the field of lessons learned in
@@ -205,6 +303,13 @@
     span_number: 0
     total_y: 32521.38934326172
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 517.7842407226562
+    - 561.9650268554688
+    - 531.3479614257812
+    bbox_x1: 36.0
+    bbox_x2: 561.9650268554688
     double_fontsize_int: 20
   - index: 2185
     text: 'responsibilities in the process of collecting, processing, and publishing
@@ -219,6 +324,13 @@
     span_number: 0
     total_y: 32535.0693359375
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 531.4642333984375
+    - 561.7166137695312
+    - 545.0279541015625
+    bbox_x1: 36.0
+    bbox_x2: 561.7166137695312
     double_fontsize_int: 20
   - index: 2186
     text: 'ways in which the system of lessons learned can best be applied to support
@@ -233,6 +345,13 @@
     span_number: 0
     total_y: 32548.629333496094
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 545.0242309570312
+    - 561.9784545898438
+    - 558.5879516601562
+    bbox_x1: 36.0
+    bbox_x2: 561.9784545898438
     double_fontsize_int: 20
   - index: 2187
     text: 'how lessons learned can be applied in correcting perceived shortcomings
@@ -247,6 +366,13 @@
     span_number: 0
     total_y: 32562.309326171875
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 558.7042236328125
+    - 561.6699829101562
+    - 572.2679443359375
+    bbox_x1: 36.0
+    bbox_x2: 561.6699829101562
     double_fontsize_int: 20
   - index: 2188
     text: 'implementation of tasks. In addition, the Concept describes how to identify
@@ -261,6 +387,13 @@
     span_number: 0
     total_y: 32575.86932373047
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 572.2642211914062
+    - 561.536865234375
+    - 585.8279418945312
+    bbox_x1: 36.0
+    bbox_x2: 561.536865234375
     double_fontsize_int: 20
   - index: 2189
     text: 'experiences and solutions in operations and other activities and how to
@@ -275,6 +408,13 @@
     span_number: 0
     total_y: 32589.54931640625
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 585.9442138671875
+    - 561.8984375
+    - 599.5079345703125
+    bbox_x1: 36.0
+    bbox_x2: 561.8984375
     double_fontsize_int: 20
   - index: 2190
     text: 'positive experiences. '
@@ -287,10 +427,19 @@
     span_number: 0
     total_y: 32603.109313964844
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 599.5042114257812
+    - 136.16726684570312
+    - 613.0679321289062
+    bbox_x1: 36.0
+    bbox_x2: 136.16726684570312
     double_fontsize_int: 20
   - index: 2191
-    text: 'Lessons learned and suggestions for improvement '
-    text_base: lessons learned and suggestions for improvement
+    text: "Lessons learned and suggestions for improvement  \u2013 list of collected\
+      \ observations from CRC and local branches "
+    text_base: lessons learned and suggestions for improvement list of collected observations
+      from crc and local branches
     style: 'bolditalic, 20, #000000, None'
     size: 9.960000038146973
     page_number: 38
@@ -299,18 +448,13 @@
     span_number: 0
     total_y: 32642.349365234375
     origin_x: 36.0
-    double_fontsize_int: 20
-  - index: 2192
-    text: "\u2013 list of collected observations from CRC and local branches "
-    text_base: list of collected observations from crc and local branches
-    style: 'italic, 20, #000000, None'
-    size: 9.960000038146973
-    page_number: 38
-    block_number: 11
-    line_number: 0
-    span_number: 1
-    total_y: 32642.349365234375
-    origin_x: 275.45001220703125
+    bbox:
+    - 36.0
+    - 638.7442626953125
+    - 275.13726806640625
+    - 652.3079833984375
+    bbox_x1: 36.0
+    bbox_x2: 539.6365356445312
     double_fontsize_int: 20
   - index: 2193
     text: 'staff and volunteers involved in the operation '
@@ -323,6 +467,13 @@
     span_number: 0
     total_y: 32656.059326171875
     origin_x: 36.0
+    bbox:
+    - 36.0
+    - 652.4542236328125
+    - 238.3172607421875
+    - 666.0179443359375
+    bbox_x1: 36.0
+    bbox_x2: 238.3172607421875
     double_fontsize_int: 20
   - index: 2194
     text: 'Identified challenge '
@@ -335,6 +486,13 @@
     span_number: 0
     total_y: 32683.779296875
     origin_x: 50.279998779296875
+    bbox:
+    - 50.279998779296875
+    - 680.1741943359375
+    - 152.00726318359375
+    - 693.7379150390625
+    bbox_x1: 50.279998779296875
+    bbox_x2: 152.00726318359375
     double_fontsize_int: 20
   - index: 2195
     text: 'Task '
@@ -347,6 +505,13 @@
     span_number: 0
     total_y: 32683.779296875
     origin_x: 229.97000122070312
+    bbox:
+    - 229.97000122070312
+    - 680.1741943359375
+    - 255.59725952148438
+    - 693.7379150390625
+    bbox_x1: 229.97000122070312
+    bbox_x2: 255.59725952148438
     double_fontsize_int: 20
   - index: 2196
     text: 'Conclusions '
@@ -359,6 +524,13 @@
     span_number: 0
     total_y: 32683.779296875
     origin_x: 410.1099853515625
+    bbox:
+    - 410.1099853515625
+    - 680.1741943359375
+    - 472.3672790527344
+    - 693.7379150390625
+    bbox_x1: 410.1099853515625
+    bbox_x2: 472.3672790527344
     double_fontsize_int: 20
   - index: 2197
     text: 'Lack of qualified logistics '
@@ -371,6 +543,13 @@
     span_number: 0
     total_y: 32697.8193359375
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 694.2142333984375
+    - 159.6400604248047
+    - 707.7779541015625
+    bbox_x1: 41.63999938964844
+    bbox_x2: 159.6400604248047
     double_fontsize_int: 20
   - index: 2199
     text: 'List the employees from the '
@@ -383,6 +562,13 @@
     span_number: 0
     total_y: 32697.8193359375
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 694.2142333984375
+    - 301.8739318847656
+    - 707.7779541015625
+    bbox_x1: 168.97999572753906
+    bbox_x2: 301.8739318847656
     double_fontsize_int: 20
   - index: 2204
     text: 'Training for drivers (volunteers / employees) with '
@@ -395,6 +581,13 @@
     span_number: 0
     total_y: 32697.8193359375
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 694.2142333984375
+    - 556.3181762695312
+    - 707.7779541015625
+    bbox_x1: 324.8900146484375
+    bbox_x2: 556.3181762695312
     double_fontsize_int: 20
   - index: 2198
     text: 'staff '
@@ -407,6 +600,13 @@
     span_number: 0
     total_y: 32711.49932861328
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 707.8942260742188
+    - 64.86726379394531
+    - 721.4579467773438
+    bbox_x1: 41.63999938964844
+    bbox_x2: 64.86726379394531
     double_fontsize_int: 20
   - index: 2200
     text: 'Red Cross system who already '
@@ -419,6 +619,13 @@
     span_number: 0
     total_y: 32711.49932861328
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 707.8942260742188
+    - 313.1585388183594
+    - 721.4579467773438
+    bbox_x1: 168.97999572753906
+    bbox_x2: 313.1585388183594
     double_fontsize_int: 20
   - index: 2205
     text: 'C category; it is necessary to make a list of '
@@ -431,6 +638,13 @@
     span_number: 0
     total_y: 32711.49932861328
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 707.8942260742188
+    - 522.9818725585938
+    - 721.4579467773438
+    bbox_x1: 324.8900146484375
+    bbox_x2: 522.9818725585938
     double_fontsize_int: 20
   - index: 2201
     text: 'have existing training and '
@@ -443,6 +657,13 @@
     span_number: 0
     total_y: 32725.059326171875
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 721.4542236328125
+    - 291.2167053222656
+    - 735.0179443359375
+    bbox_x1: 168.97999572753906
+    bbox_x2: 291.2167053222656
     double_fontsize_int: 20
   - index: 2206
     text: 'persons; a circular is sent with an invitation to '
@@ -455,6 +676,13 @@
     span_number: 0
     total_y: 32725.059326171875
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 721.4542236328125
+    - 540.4119873046875
+    - 735.0179443359375
+    bbox_x1: 324.8900146484375
+    bbox_x2: 540.4119873046875
     double_fontsize_int: 20
   - index: 2202
     text: 'organize and describe '
@@ -467,6 +695,13 @@
     span_number: 0
     total_y: 32738.7353515625
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 735.1302490234375
+    - 274.31463623046875
+    - 748.6939697265625
+    bbox_x1: 168.97999572753906
+    bbox_x2: 274.31463623046875
     double_fontsize_int: 20
   - index: 2207
     text: 'contact the persons that local Red Cross has as '
@@ -479,6 +714,13 @@
     span_number: 0
     total_y: 32738.7353515625
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 735.1302490234375
+    - 546.2298583984375
+    - 748.6939697265625
+    bbox_x1: 324.8900146484375
+    bbox_x2: 546.2298583984375
     double_fontsize_int: 20
   - index: 2203
     text: 'additional training '
@@ -491,6 +733,13 @@
     span_number: 0
     total_y: 32752.295349121094
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 748.6902465820312
+    - 256.9172668457031
+    - 762.2539672851562
+    bbox_x1: 168.97999572753906
+    bbox_x2: 256.9172668457031
     double_fontsize_int: 20
   - index: 2208
     text: 'drivers, those who have the required categories '
@@ -503,6 +752,13 @@
     span_number: 0
     total_y: 32752.295349121094
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 748.6902465820312
+    - 549.7672729492188
+    - 762.2539672851562
+    bbox_x1: 324.8900146484375
+    bbox_x2: 549.7672729492188
     double_fontsize_int: 20
   - index: 2210
     text: 'Setting up large tents in '
@@ -515,6 +771,13 @@
     span_number: 0
     total_y: 32899.67932128906
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 54.154266357421875
+    - 154.6978302001953
+    - 67.71795654296875
+    bbox_x1: 41.63999938964844
+    bbox_x2: 154.6978302001953
     double_fontsize_int: 20
   - index: 2213
     text: 'Organize several times a year '
@@ -527,6 +790,13 @@
     span_number: 0
     total_y: 32899.67932128906
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 54.154266357421875
+    - 308.6263427734375
+    - 67.71795654296875
+    bbox_x1: 168.97999572753906
+    bbox_x2: 308.6263427734375
     double_fontsize_int: 20
   - index: 2216
     text: 'Setting up the Alaska tents mentored by supplier '
@@ -539,6 +809,13 @@
     span_number: 0
     total_y: 32899.67932128906
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 54.154266357421875
+    - 554.5433959960938
+    - 67.71795654296875
+    bbox_x1: 324.8900146484375
+    bbox_x2: 554.5433959960938
     double_fontsize_int: 20
   - index: 2211
     text: 'the area of the crisis '
@@ -551,6 +828,13 @@
     span_number: 0
     total_y: 32913.359313964844
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 67.83425903320312
+    - 138.8074188232422
+    - 81.39794921875
+    bbox_x1: 41.63999938964844
+    bbox_x2: 138.8074188232422
     double_fontsize_int: 20
   - index: 2214
     text: 'activity in which tents of larger '
@@ -563,6 +847,13 @@
     span_number: 0
     total_y: 32913.359313964844
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 67.83425903320312
+    - 313.4283447265625
+    - 81.39794921875
+    bbox_x1: 168.97999572753906
+    bbox_x2: 313.4283447265625
     double_fontsize_int: 20
   - index: 2217
     text: 'and Croatian Army experts; tent-raising training '
@@ -575,6 +866,13 @@
     span_number: 0
     total_y: 32913.359313964844
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 67.83425903320312
+    - 549.48779296875
+    - 81.39794921875
+    bbox_x1: 324.8900146484375
+    bbox_x2: 549.48779296875
     double_fontsize_int: 20
   - index: 2212
     text: 'operation '
@@ -587,6 +885,13 @@
     span_number: 0
     total_y: 32926.91931152344
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 81.39425659179688
+    - 89.97126770019531
+    - 94.95794677734375
+    bbox_x1: 41.63999938964844
+    bbox_x2: 89.97126770019531
     double_fontsize_int: 20
   - index: 2215
     text: 'dimensions are erected '
@@ -599,6 +904,13 @@
     span_number: 0
     total_y: 32926.91931152344
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 81.39425659179688
+    - 281.39727783203125
+    - 94.95794677734375
+    bbox_x1: 168.97999572753906
+    bbox_x2: 281.39727783203125
     double_fontsize_int: 20
   - index: 2218
     text: 'to be organized every 6 months; identify who will '
@@ -611,6 +923,13 @@
     span_number: 0
     total_y: 32926.91931152344
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 81.39425659179688
+    - 555.5270385742188
+    - 94.95794677734375
+    bbox_x1: 324.8900146484375
+    bbox_x2: 555.5270385742188
     double_fontsize_int: 20
   - index: 2219
     text: 'be responsible for tents and training among '
@@ -623,6 +942,13 @@
     span_number: 0
     total_y: 32940.61932373047
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 95.09426879882812
+    - 532.5867309570312
+    - 108.657958984375
+    bbox_x1: 324.8900146484375
+    bbox_x2: 532.5867309570312
     double_fontsize_int: 20
   - index: 2220
     text: 'participants: 1) Persons from the DM department '
@@ -635,6 +961,13 @@
     span_number: 0
     total_y: 32954.17932128906
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 108.65426635742188
+    - 556.918701171875
+    - 122.21795654296875
+    bbox_x1: 324.8900146484375
+    bbox_x2: 556.918701171875
     double_fontsize_int: 20
   - index: 2221
     text: '2) Red Cross employees 3) Members of the '
@@ -647,6 +980,13 @@
     span_number: 0
     total_y: 32967.859313964844
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 122.33425903320312
+    - 526.5872802734375
+    - 135.89794921875
+    bbox_x1: 324.8900146484375
+    bbox_x2: 526.5872802734375
     double_fontsize_int: 20
   - index: 2222
     text: 'intervention team '
@@ -659,6 +999,13 @@
     span_number: 0
     total_y: 32981.41931152344
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 135.89425659179688
+    - 411.01727294921875
+    - 149.45794677734375
+    bbox_x1: 324.8900146484375
+    bbox_x2: 411.01727294921875
     double_fontsize_int: 20
   - index: 2223
     text: 'Protection of private '
@@ -671,6 +1018,13 @@
     span_number: 0
     total_y: 32995.579345703125
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 150.05429077148438
+    - 139.4149627685547
+    - 163.61798095703125
+    bbox_x1: 41.63999938964844
+    bbox_x2: 139.4149627685547
     double_fontsize_int: 20
   - index: 2228
     text: 'Make a proposal for a solution '
@@ -683,6 +1037,13 @@
     span_number: 0
     total_y: 32995.579345703125
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 150.05429077148438
+    - 313.41754150390625
+    - 163.61798095703125
+    bbox_x1: 168.97999572753906
+    bbox_x2: 313.41754150390625
     double_fontsize_int: 20
   - index: 2236
     text: 'Planned for procurement in January 2022: 5 '
@@ -695,6 +1056,13 @@
     span_number: 0
     total_y: 32995.579345703125
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 150.05429077148438
+    - 531.1672973632812
+    - 163.61798095703125
+    bbox_x1: 324.8900146484375
+    bbox_x2: 531.1672973632812
     double_fontsize_int: 20
   - index: 2224
     text: 'property of staff and '
@@ -707,6 +1075,13 @@
     span_number: 0
     total_y: 33009.13934326172
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 163.61428833007812
+    - 140.44842529296875
+    - 177.177978515625
+    bbox_x1: 41.63999938964844
+    bbox_x2: 140.44842529296875
     double_fontsize_int: 20
   - index: 2229
     text: 'and cost estimate for this '
@@ -719,6 +1094,13 @@
     span_number: 0
     total_y: 33009.13934326172
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 163.61428833007812
+    - 289.63311767578125
+    - 177.177978515625
+    bbox_x1: 168.97999572753906
+    bbox_x2: 289.63311767578125
     double_fontsize_int: 20
   - index: 2237
     text: 'cabinets with 20 compartments - 100 pieces, '
@@ -731,6 +1113,13 @@
     span_number: 0
     total_y: 33009.13934326172
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 163.61428833007812
+    - 534.4603271484375
+    - 177.177978515625
+    bbox_x1: 324.8900146484375
+    bbox_x2: 534.4603271484375
     double_fontsize_int: 20
   - index: 2225
     text: 'volunteers when '
@@ -743,6 +1132,13 @@
     span_number: 0
     total_y: 33022.8193359375
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 177.29428100585938
+    - 121.98822784423828
+    - 190.85797119140625
+    bbox_x1: 41.63999938964844
+    bbox_x2: 121.98822784423828
     double_fontsize_int: 20
   - index: 2230
     text: 'solution (development in two '
@@ -755,6 +1151,13 @@
     span_number: 0
     total_y: 33022.8193359375
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 177.29428100585938
+    - 307.5411682128906
+    - 190.85797119140625
+    bbox_x1: 168.97999572753906
+    bbox_x2: 307.5411682128906
     double_fontsize_int: 20
   - index: 2238
     text: 'from the funds of National Society '
@@ -767,6 +1170,13 @@
     span_number: 0
     total_y: 33022.8193359375
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 177.29428100585938
+    - 487.1272888183594
+    - 190.85797119140625
+    bbox_x1: 324.8900146484375
+    bbox_x2: 487.1272888183594
     double_fontsize_int: 20
   - index: 2226
     text: 'working in the field in '
@@ -779,6 +1189,13 @@
     span_number: 0
     total_y: 33036.379333496094
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 190.85427856445312
+    - 144.7845916748047
+    - 204.41796875
+    bbox_x1: 41.63999938964844
+    bbox_x2: 144.7845916748047
     double_fontsize_int: 20
   - index: 2231
     text: 'directions - when there are few '
@@ -791,6 +1208,13 @@
     span_number: 0
     total_y: 33036.379333496094
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 190.85427856445312
+    - 316.584228515625
+    - 204.41796875
+    bbox_x1: 168.97999572753906
+    bbox_x2: 316.584228515625
     double_fontsize_int: 20
   - index: 2227
     text: 'crisis situations '
@@ -803,6 +1227,13 @@
     span_number: 0
     total_y: 33050.059326171875
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 204.53427124023438
+    - 115.88726806640625
+    - 218.09796142578125
+    bbox_x1: 41.63999938964844
+    bbox_x2: 115.88726806640625
     double_fontsize_int: 20
   - index: 2232
     text: 'people in one location and we '
@@ -815,6 +1246,13 @@
     span_number: 0
     total_y: 33050.059326171875
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 204.53427124023438
+    - 311.375732421875
+    - 218.09796142578125
+    bbox_x1: 168.97999572753906
+    bbox_x2: 311.375732421875
     double_fontsize_int: 20
   - index: 2233
     text: 'have several locations, and '
@@ -827,6 +1265,13 @@
     span_number: 0
     total_y: 33063.61932373047
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 218.09426879882812
+    - 296.9537048339844
+    - 231.657958984375
+    bbox_x1: 168.97999572753906
+    bbox_x2: 296.9537048339844
     double_fontsize_int: 20
   - index: 2234
     text: 'when a lot of people are in the '
@@ -839,6 +1284,13 @@
     span_number: 0
     total_y: 33077.29931640625
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 231.77426147460938
+    - 313.6466064453125
+    - 245.33795166015625
+    bbox_x1: 168.97999572753906
+    bbox_x2: 313.6466064453125
     double_fontsize_int: 20
   - index: 2235
     text: 'same location) '
@@ -851,6 +1303,13 @@
     span_number: 0
     total_y: 33090.859313964844
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 245.33425903320312
+    - 239.5172576904297
+    - 258.89794921875
+    bbox_x1: 168.97999572753906
+    bbox_x2: 239.5172576904297
     double_fontsize_int: 20
   - index: 2239
     text: 'Flow of key information '
@@ -863,6 +1322,13 @@
     span_number: 0
     total_y: 33105.019287109375
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 259.4942321777344
+    - 153.97654724121094
+    - 273.05792236328125
+    bbox_x1: 41.63999938964844
+    bbox_x2: 153.97654724121094
     double_fontsize_int: 20
   - index: 2242
     text: 'Make a solution proposal, '
@@ -875,6 +1341,13 @@
     span_number: 0
     total_y: 33105.019287109375
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 259.4942321777344
+    - 291.6947937011719
+    - 273.05792236328125
+    bbox_x1: 168.97999572753906
+    bbox_x2: 291.6947937011719
     double_fontsize_int: 20
   - index: 2244
     text: 'Problems of information flow; it is necessary to '
@@ -887,6 +1360,13 @@
     span_number: 0
     total_y: 33105.019287109375
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 259.4942321777344
+    - 546.5209350585938
+    - 273.05792236328125
+    bbox_x1: 324.8900146484375
+    bbox_x2: 546.5209350585938
     double_fontsize_int: 20
   - index: 2240
     text: 'for the operation from '
@@ -899,6 +1379,13 @@
     span_number: 0
     total_y: 33118.609313964844
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 273.0842590332031
+    - 149.2472686767578
+    - 286.64794921875
+    bbox_x1: 41.63999938964844
+    bbox_x2: 149.2472686767578
     double_fontsize_int: 20
   - index: 2243
     text: 'form  '
@@ -911,6 +1398,13 @@
     span_number: 0
     total_y: 33118.609313964844
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 273.0842590332031
+    - 197.00726318359375
+    - 286.64794921875
+    bbox_x1: 168.97999572753906
+    bbox_x2: 197.00726318359375
     double_fontsize_int: 20
   - index: 2245
     text: 'make a distribution of information; use a unified '
@@ -923,6 +1417,13 @@
     span_number: 0
     total_y: 33118.609313964844
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 273.0842590332031
+    - 552.6329345703125
+    - 286.64794921875
+    bbox_x1: 324.8900146484375
+    bbox_x2: 552.6329345703125
     double_fontsize_int: 20
   - index: 2241
     text: 'the Call Center '
@@ -935,6 +1436,13 @@
     span_number: 0
     total_y: 33132.289306640625
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 286.7642517089844
+    - 112.88726806640625
+    - 300.32794189453125
+    bbox_x1: 41.63999938964844
+    bbox_x2: 112.88726806640625
     double_fontsize_int: 20
   - index: 2246
     text: 'tool for the distribution and dissemination of '
@@ -947,6 +1455,13 @@
     span_number: 0
     total_y: 33132.289306640625
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 286.7642517089844
+    - 536.7069091796875
+    - 300.32794189453125
+    bbox_x1: 324.8900146484375
+    bbox_x2: 536.7069091796875
     double_fontsize_int: 20
   - index: 2247
     text: 'information; A short online course during crisis '
@@ -959,6 +1474,13 @@
     span_number: 0
     total_y: 33145.84930419922
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 300.3242492675781
+    - 546.3829345703125
+    - 313.887939453125
+    bbox_x1: 324.8900146484375
+    bbox_x2: 546.3829345703125
     double_fontsize_int: 20
   - index: 2248
     text: 'to inform others about the situation and needs; '
@@ -971,6 +1493,13 @@
     span_number: 0
     total_y: 33159.529296875
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 314.0042419433594
+    - 548.8282470703125
+    - 327.56793212890625
+    bbox_x1: 324.8900146484375
+    bbox_x2: 548.8282470703125
     double_fontsize_int: 20
   - index: 2249
     text: 'INFO HUB with level of permits-confirmation of '
@@ -983,6 +1512,13 @@
     span_number: 0
     total_y: 33173.08932495117
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 327.56427001953125
+    - 546.7537841796875
+    - 341.1279602050781
+    bbox_x1: 324.8900146484375
+    bbox_x2: 546.7537841796875
     double_fontsize_int: 20
   - index: 2250
     text: 'information; Define when the info desk is '
@@ -995,6 +1531,13 @@
     span_number: 0
     total_y: 33186.76931762695
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 341.2442626953125
+    - 519.5556640625
+    - 354.8079528808594
+    bbox_x1: 324.8900146484375
+    bbox_x2: 519.5556640625
     double_fontsize_int: 20
   - index: 2251
     text: 'launched, who runs it - info center in National '
@@ -1007,6 +1550,13 @@
     span_number: 0
     total_y: 33200.32931518555
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 354.80426025390625
+    - 539.8714599609375
+    - 368.3679504394531
+    bbox_x1: 324.8900146484375
+    bbox_x2: 539.8714599609375
     double_fontsize_int: 20
   - index: 2252
     text: 'logistic center; to describe what happened '
@@ -1019,6 +1569,13 @@
     span_number: 0
     total_y: 33214.00930786133
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 368.4842529296875
+    - 524.43603515625
+    - 382.0479431152344
+    bbox_x1: 324.8900146484375
+    bbox_x2: 524.43603515625
     double_fontsize_int: 20
   - index: 2253
     text: 'during the work of info desk, what was a '
@@ -1031,6 +1588,13 @@
     span_number: 0
     total_y: 33227.56930541992
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 382.04425048828125
+    - 515.6717529296875
+    - 395.6079406738281
+    bbox_x1: 324.8900146484375
+    bbox_x2: 515.6717529296875
     double_fontsize_int: 20
   - index: 2254
     text: 'problem, ... to sketch infographics and describe '
@@ -1043,6 +1607,13 @@
     span_number: 0
     total_y: 33241.24932861328
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 395.7242736816406
+    - 547.7938232421875
+    - 409.2879638671875
+    bbox_x1: 324.8900146484375
+    bbox_x2: 547.7938232421875
     double_fontsize_int: 20
   - index: 2255
     text: 'the levels of communication '
@@ -1055,6 +1626,13 @@
     span_number: 0
     total_y: 33254.809326171875
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 409.2842712402344
+    - 458.77728271484375
+    - 422.84796142578125
+    bbox_x1: 324.8900146484375
+    bbox_x2: 458.77728271484375
     double_fontsize_int: 20
   - index: 2256
     text: 'Volunteer coordination '
@@ -1067,6 +1645,13 @@
     span_number: 0
     total_y: 33268.969329833984
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 423.44427490234375
+    - 152.00726318359375
+    - 437.0079650878906
+    bbox_x1: 41.63999938964844
+    bbox_x2: 152.00726318359375
     double_fontsize_int: 20
   - index: 2257
     text: '1. List the employees from the '
@@ -1079,6 +1664,13 @@
     span_number: 0
     total_y: 33268.969329833984
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 423.44427490234375
+    - 312.7900085449219
+    - 437.0079650878906
+    bbox_x1: 168.97999572753906
+    bbox_x2: 312.7900085449219
     double_fontsize_int: 20
   - index: 2262
     text: 'Development of the database - which is under '
@@ -1091,6 +1683,13 @@
     span_number: 0
     total_y: 33268.969329833984
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 423.44427490234375
+    - 542.0147094726562
+    - 437.0079650878906
+    bbox_x1: 324.8900146484375
+    bbox_x2: 542.0147094726562
     double_fontsize_int: 20
   - index: 2258
     text: 'local Red Cross system who '
@@ -1103,6 +1702,13 @@
     span_number: 0
     total_y: 33282.52932739258
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 437.0042724609375
+    - 300.10101318359375
+    - 450.5679626464844
+    bbox_x1: 168.97999572753906
+    bbox_x2: 300.10101318359375
     double_fontsize_int: 20
   - index: 2263
     text: 'construction; additional training for basic unit '
@@ -1115,6 +1721,13 @@
     span_number: 0
     total_y: 33282.52932739258
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 437.0042724609375
+    - 539.7002563476562
+    - 450.5679626464844
+    bbox_x1: 324.8900146484375
+    bbox_x2: 539.7002563476562
     double_fontsize_int: 20
   - index: 2259
     text: 'already have existing training '
@@ -1127,6 +1740,13 @@
     span_number: 0
     total_y: 33296.20932006836
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 450.68426513671875
+    - 308.03729248046875
+    - 464.2479553222656
+    bbox_x1: 168.97999572753906
+    bbox_x2: 308.03729248046875
     double_fontsize_int: 20
   - index: 2264
     text: "intervention team - communication - volunteer \u2013 "
@@ -1139,6 +1759,13 @@
     span_number: 0
     total_y: 33296.20932006836
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 450.68426513671875
+    - 552.8872680664062
+    - 464.2479553222656
+    bbox_x1: 324.8900146484375
+    bbox_x2: 552.8872680664062
     double_fontsize_int: 20
   - index: 2260
     text: '2. Describe and organize '
@@ -1151,6 +1778,13 @@
     span_number: 0
     total_y: 33309.789306640625
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 464.2642517089844
+    - 286.40606689453125
+    - 477.82794189453125
+    bbox_x1: 168.97999572753906
+    bbox_x2: 286.40606689453125
     double_fontsize_int: 20
   - index: 2265
     text: 'administration '
@@ -1163,6 +1797,13 @@
     span_number: 0
     total_y: 33309.789306640625
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 464.2642517089844
+    - 395.89727783203125
+    - 477.82794189453125
+    bbox_x1: 324.8900146484375
+    bbox_x2: 395.89727783203125
     double_fontsize_int: 20
   - index: 2261
     text: 'additional education  '
@@ -1175,6 +1816,13 @@
     span_number: 0
     total_y: 33323.469329833984
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 477.94427490234375
+    - 269.8772888183594
+    - 491.5079650878906
+    bbox_x1: 168.97999572753906
+    bbox_x2: 269.8772888183594
     double_fontsize_int: 20
   - index: 2266
     text: 'Records of humanitarian '
@@ -1187,6 +1835,13 @@
     span_number: 0
     total_y: 33339.309326171875
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 493.7842712402344
+    - 159.4844207763672
+    - 507.34796142578125
+    bbox_x1: 41.63999938964844
+    bbox_x2: 159.4844207763672
     double_fontsize_int: 20
   - index: 2268
     text: 'The establishment of a '
@@ -1199,6 +1854,13 @@
     span_number: 0
     total_y: 33339.309326171875
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 493.7842712402344
+    - 277.58148193359375
+    - 507.34796142578125
+    bbox_x1: 168.97999572753906
+    bbox_x2: 277.58148193359375
     double_fontsize_int: 20
   - index: 2275
     text: 'Proposal for creation of a single catalog with '
@@ -1211,6 +1873,13 @@
     span_number: 0
     total_y: 33339.309326171875
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 493.7842712402344
+    - 533.9478149414062
+    - 507.34796142578125
+    bbox_x1: 324.8900146484375
+    bbox_x2: 533.9478149414062
     double_fontsize_int: 20
   - index: 2267
     text: 'aid in crisis situations '
@@ -1223,6 +1892,13 @@
     span_number: 0
     total_y: 33352.86932373047
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 507.3442687988281
+    - 143.96726989746094
+    - 520.907958984375
+    bbox_x1: 41.63999938964844
+    bbox_x2: 143.96726989746094
     double_fontsize_int: 20
   - index: 2269
     text: 'centralized system within the '
@@ -1235,6 +1911,13 @@
     span_number: 0
     total_y: 33352.86932373047
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 507.3442687988281
+    - 307.30218505859375
+    - 520.907958984375
+    bbox_x1: 168.97999572753906
+    bbox_x2: 307.30218505859375
     double_fontsize_int: 20
   - index: 2276
     text: 'prices for recording humanitarian aid; a single '
@@ -1247,6 +1930,13 @@
     span_number: 0
     total_y: 33352.86932373047
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 507.3442687988281
+    - 541.9940795898438
+    - 520.907958984375
+    bbox_x1: 324.8900146484375
+    bbox_x2: 541.9940795898438
     double_fontsize_int: 20
   - index: 2270
     text: 'Red Cross '
@@ -1259,6 +1949,13 @@
     span_number: 0
     total_y: 33366.54931640625
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 521.0242309570312
+    - 218.03726196289062
+    - 534.5879516601562
+    bbox_x1: 168.97999572753906
+    bbox_x2: 218.03726196289062
     double_fontsize_int: 20
   - index: 2277
     text: 'form for receiving humanitarian aid; online '
@@ -1271,6 +1968,13 @@
     span_number: 0
     total_y: 33366.54931640625
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 521.0242309570312
+    - 527.5499877929688
+    - 534.5879516601562
+    bbox_x1: 324.8900146484375
+    bbox_x2: 527.5499877929688
     double_fontsize_int: 20
   - index: 2271
     text: 'List the employees from the '
@@ -1283,6 +1987,13 @@
     span_number: 0
     total_y: 33380.109313964844
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 534.584228515625
+    - 301.8739318847656
+    - 548.14794921875
+    bbox_x1: 168.97999572753906
+    bbox_x2: 301.8739318847656
     double_fontsize_int: 20
   - index: 2278
     text: 'database with receipts connected to local '
@@ -1295,6 +2006,13 @@
     span_number: 0
     total_y: 33380.109313964844
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 534.584228515625
+    - 519.9073486328125
+    - 548.14794921875
+    bbox_x1: 324.8900146484375
+    bbox_x2: 519.9073486328125
     double_fontsize_int: 20
   - index: 2272
     text: 'Red Cross system who already '
@@ -1307,6 +2025,13 @@
     span_number: 0
     total_y: 33393.789306640625
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 548.2642211914062
+    - 313.26849365234375
+    - 561.8279418945312
+    bbox_x1: 168.97999572753906
+    bbox_x2: 313.26849365234375
     double_fontsize_int: 20
   - index: 2279
     text: 'branches operating in the area; plan for '
@@ -1319,6 +2044,13 @@
     span_number: 0
     total_y: 33393.789306640625
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 548.2642211914062
+    - 512.4371948242188
+    - 561.8279418945312
+    bbox_x1: 324.8900146484375
+    bbox_x2: 512.4371948242188
     double_fontsize_int: 20
   - index: 2273
     text: 'have existing education or '
@@ -1331,6 +2063,13 @@
     span_number: 0
     total_y: 33407.34930419922
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 561.82421875
+    - 293.9756774902344
+    - 575.387939453125
+    bbox_x1: 168.97999572753906
+    bbox_x2: 293.9756774902344
     double_fontsize_int: 20
   - index: 2280
     text: 'education of Red Cross employees on collection '
@@ -1343,6 +2082,13 @@
     span_number: 0
     total_y: 33407.34930419922
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 561.82421875
+    - 550.1091918945312
+    - 575.387939453125
+    bbox_x1: 324.8900146484375
+    bbox_x2: 550.1091918945312
     double_fontsize_int: 20
   - index: 2274
     text: 'knowledge in this area '
@@ -1355,6 +2101,13 @@
     span_number: 0
     total_y: 33421.029296875
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 575.5042114257812
+    - 276.3572692871094
+    - 589.0679321289062
+    bbox_x1: 168.97999572753906
+    bbox_x2: 276.3572692871094
     double_fontsize_int: 20
   - index: 2281
     text: 'and distribution of humanitarian aid including '
@@ -1367,6 +2120,13 @@
     span_number: 0
     total_y: 33421.029296875
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 575.5042114257812
+    - 541.6072998046875
+    - 589.0679321289062
+    bbox_x1: 324.8900146484375
+    bbox_x2: 541.6072998046875
     double_fontsize_int: 20
   - index: 2282
     text: 'local RC branches directors '
@@ -1379,6 +2139,13 @@
     span_number: 0
     total_y: 33434.589294433594
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 589.064208984375
+    - 453.977294921875
+    - 602.6279296875
+    bbox_x1: 324.8900146484375
+    bbox_x2: 453.977294921875
     double_fontsize_int: 20
   - index: 2283
     text: 'Developed protocol for '
@@ -1391,6 +2158,13 @@
     span_number: 0
     total_y: 33448.74932861328
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 603.2242431640625
+    - 151.9602508544922
+    - 616.7879638671875
+    bbox_x1: 41.63999938964844
+    bbox_x2: 151.9602508544922
     double_fontsize_int: 20
   - index: 2288
     text: 'Establishment of a commission '
@@ -1403,6 +2177,13 @@
     span_number: 0
     total_y: 33448.74932861328
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 603.2242431640625
+    - 316.5350341796875
+    - 616.7879638671875
+    bbox_x1: 168.97999572753906
+    bbox_x2: 316.5350341796875
     double_fontsize_int: 20
   - index: 2292
     text: 'Use the document that exists by the IFRC - its '
@@ -1415,6 +2196,13 @@
     span_number: 0
     total_y: 33448.74932861328
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 603.2242431640625
+    - 537.6339721679688
+    - 616.7879638671875
+    bbox_x1: 324.8900146484375
+    bbox_x2: 537.6339721679688
     double_fontsize_int: 20
   - index: 2284
     text: 'managing situations of '
@@ -1427,6 +2215,13 @@
     span_number: 0
     total_y: 33462.309326171875
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 616.7842407226562
+    - 150.36102294921875
+    - 630.3479614257812
+    bbox_x1: 41.63999938964844
+    bbox_x2: 150.36102294921875
     double_fontsize_int: 20
   - index: 2289
     text: 'for such and similar situations, '
@@ -1439,6 +2234,13 @@
     span_number: 0
     total_y: 33462.309326171875
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 616.7842407226562
+    - 314.2641906738281
+    - 630.3479614257812
+    bbox_x1: 168.97999572753906
+    bbox_x2: 314.2641906738281
     double_fontsize_int: 20
   - index: 2293
     text: 'inclusion in the Rules of the Croatian Red Cross; '
@@ -1451,6 +2253,13 @@
     span_number: 0
     total_y: 33462.309326171875
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 616.7842407226562
+    - 549.784423828125
+    - 630.3479614257812
+    bbox_x1: 324.8900146484375
+    bbox_x2: 549.784423828125
     double_fontsize_int: 20
   - index: 2285
     text: 'sexual harassment of '
@@ -1463,6 +2272,13 @@
     span_number: 0
     total_y: 33475.989318847656
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 630.4642333984375
+    - 143.9859161376953
+    - 644.0279541015625
+    bbox_x1: 41.63999938964844
+    bbox_x2: 143.9859161376953
     double_fontsize_int: 20
   - index: 2290
     text: 'COMMISSION FOR CONFLICT '
@@ -1475,6 +2291,13 @@
     span_number: 0
     total_y: 33475.989318847656
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 630.4642333984375
+    - 306.33599853515625
+    - 644.0279541015625
+    bbox_x1: 168.97999572753906
+    bbox_x2: 306.33599853515625
     double_fontsize_int: 20
   - index: 2294
     text: 'write a harassment or similar reporting '
@@ -1487,6 +2310,13 @@
     span_number: 0
     total_y: 33475.989318847656
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 630.4642333984375
+    - 509.84466552734375
+    - 644.0279541015625
+    bbox_x1: 324.8900146484375
+    bbox_x2: 509.84466552734375
     double_fontsize_int: 20
   - index: 2286
     text: 'Red Cross employees '
@@ -1499,6 +2329,13 @@
     span_number: 0
     total_y: 33489.54931640625
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 644.0242309570312
+    - 143.85714721679688
+    - 657.5879516601562
+    bbox_x1: 41.63999938964844
+    bbox_x2: 143.85714721679688
     double_fontsize_int: 20
   - index: 2291
     text: 'SITUATIONS '
@@ -1511,6 +2348,13 @@
     span_number: 0
     total_y: 33489.54931640625
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 644.0242309570312
+    - 228.1172637939453
+    - 657.5879516601562
+    bbox_x1: 168.97999572753906
+    bbox_x2: 228.1172637939453
     double_fontsize_int: 20
   - index: 2295
     text: "procedure; establishment of commission \u2013 "
@@ -1523,6 +2367,13 @@
     span_number: 0
     total_y: 33489.54931640625
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 644.0242309570312
+    - 525.8872680664062
+    - 657.5879516601562
+    bbox_x1: 324.8900146484375
+    bbox_x2: 525.8872680664062
     double_fontsize_int: 20
   - index: 2287
     text: 'and volunteers '
@@ -1535,6 +2386,13 @@
     span_number: 0
     total_y: 33503.259338378906
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 657.7342529296875
+    - 114.08726501464844
+    - 671.2979736328125
+    bbox_x1: 41.63999938964844
+    bbox_x2: 114.08726501464844
     double_fontsize_int: 20
   - index: 2296
     text: 'address for information reporting, implemented '
@@ -1547,6 +2405,13 @@
     span_number: 0
     total_y: 33503.259338378906
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 657.7342529296875
+    - 552.0997924804688
+    - 671.2979736328125
+    bbox_x1: 324.8900146484375
+    bbox_x2: 552.0997924804688
     double_fontsize_int: 20
   - index: 2297
     text: 'the process of case confirmation and finally '
@@ -1559,6 +2424,13 @@
     span_number: 0
     total_y: 33516.8193359375
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 671.2942504882812
+    - 530.207275390625
+    - 684.8579711914062
+    bbox_x1: 324.8900146484375
+    bbox_x2: 530.207275390625
     double_fontsize_int: 20
   - index: 2298
     text: 'decision-making: if confirmed goes to the ethics '
@@ -1571,6 +2443,13 @@
     span_number: 0
     total_y: 33530.49932861328
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 684.9742431640625
+    - 549.7386474609375
+    - 698.5379638671875
+    bbox_x1: 324.8900146484375
+    bbox_x2: 549.7386474609375
     double_fontsize_int: 20
   - index: 2299
     text: 'commission which decides further '
@@ -1583,6 +2462,13 @@
     span_number: 0
     total_y: 33544.059326171875
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 698.5342407226562
+    - 487.3672790527344
+    - 712.0979614257812
+    bbox_x1: 324.8900146484375
+    bbox_x2: 487.3672790527344
     double_fontsize_int: 20
   - index: 2300
     text: 'NIT - National '
@@ -1595,6 +2481,13 @@
     span_number: 0
     total_y: 33558.219299316406
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 712.6942138671875
+    - 107.8495864868164
+    - 726.2579345703125
+    bbox_x1: 41.63999938964844
+    bbox_x2: 107.8495864868164
     double_fontsize_int: 20
   - index: 2302
     text: 'Marking, education, evaluation '
@@ -1607,6 +2500,13 @@
     span_number: 0
     total_y: 33558.219299316406
     origin_x: 168.97999572753906
+    bbox:
+    - 168.97999572753906
+    - 712.6942138671875
+    - 314.7572937011719
+    - 726.2579345703125
+    bbox_x1: 168.97999572753906
+    bbox_x2: 314.7572937011719
     double_fontsize_int: 20
   - index: 2303
     text: 'Compose a program for establishment of '
@@ -1619,6 +2519,13 @@
     span_number: 0
     total_y: 33558.219299316406
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 712.6942138671875
+    - 520.0079956054688
+    - 726.2579345703125
+    bbox_x1: 324.8900146484375
+    bbox_x2: 520.0079956054688
     double_fontsize_int: 20
   - index: 2301
     text: 'Intervention Team '
@@ -1631,6 +2538,13 @@
     span_number: 0
     total_y: 33571.779296875
     origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 726.2542114257812
+    - 130.04727172851562
+    - 739.8179321289062
+    bbox_x1: 41.63999938964844
+    bbox_x2: 130.04727172851562
     double_fontsize_int: 20
   - index: 2304
     text: 'National intervention team with 50 people, in line '
@@ -1643,6 +2557,13 @@
     span_number: 0
     total_y: 33571.779296875
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 726.2542114257812
+    - 557.447265625
+    - 739.8179321289062
+    bbox_x1: 324.8900146484375
+    bbox_x2: 557.447265625
     double_fontsize_int: 20
   - index: 2305
     text: 'with existing CRC guidelines '
@@ -1655,6 +2576,13 @@
     span_number: 0
     total_y: 33585.455322265625
     origin_x: 324.8900146484375
+    bbox:
+    - 324.8900146484375
+    - 739.9302368164062
+    - 457.457275390625
+    - 753.4939575195312
+    bbox_x1: 324.8900146484375
+    bbox_x2: 457.457275390625
     double_fontsize_int: 20
   items:
   - After the operational activities of the Croatian Red Cross in the area affected
@@ -1684,7 +2612,7 @@
     describes how to identify and permanently store the best experiences and solutions
     in operations and other activities and how to inform other team members about
     such positive experiences.'
-  - "Lessons learned and suggestions for improvement \u2013 list of collected observations\
+  - "Lessons learned and suggestions for improvement  \u2013 list of collected observations\
     \ from CRC and local branches staff and volunteers involved in the operation"
   - "Identified challenge Task Conclusions Lack of qualified logistics List the employees\
     \ from the Training for drivers (volunteers / employees) with staff Red Cross\

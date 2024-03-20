@@ -9,11 +9,9 @@
     span_number: 0.0
     total_y: 5592.669921875
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 530.4927978515625
-    - 187.348876953125
-    - 544.207763671875
+    bbox: (54.0, 530.4927978515625, 187.348876953125, 544.207763671875)
+    bbox_x1: 54.0
+    bbox_x2: 187.348876953125
     idx: 405
   sector_title: Relief
   sector_idx: 308
@@ -32,11 +30,9 @@
     span_number: 0.0
     total_y: 5604.309875488281
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 542.0830078125
-    - 542.7453002929688
-    - 555.7680053710938
+    bbox: (54.0, 542.0830078125, 542.7453002929688, 555.7680053710938)
+    bbox_x1: 54.0
+    bbox_x2: 542.7453002929688
     double_fontsize_int: 20
   - index: 407
     text: 'been only natural that challenges in capacity and ability to respond quickly
@@ -51,11 +47,9 @@
     span_number: 0.0
     total_y: 5615.829895019531
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 553.60302734375
-    - 542.1595458984375
-    - 567.2880249023438
+    bbox: (54.0, 553.60302734375, 542.1595458984375, 567.2880249023438)
+    bbox_x1: 54.0
+    bbox_x2: 542.1595458984375
     double_fontsize_int: 20
   - index: 408
     text: 'during the VNRC review meeting.  '
@@ -68,11 +62,9 @@
     span_number: 0.0
     total_y: 5627.2598876953125
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 565.032958984375
-    - 208.0188751220703
-    - 578.718017578125
+    bbox: (54.0, 565.032958984375, 208.0188751220703, 578.718017578125)
+    bbox_x1: 54.0
+    bbox_x2: 208.0188751220703
     double_fontsize_int: 20
   - index: 409
     text: 'Moving forward, VNRC, IFRC and PNS identified areas that needed further
@@ -87,11 +79,9 @@
     span_number: 0.0
     total_y: 5650.299865722656
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 588.072998046875
-    - 542.7698364257812
-    - 601.7579956054688
+    bbox: (54.0, 588.072998046875, 542.7698364257812, 601.7579956054688)
+    bbox_x1: 54.0
+    bbox_x2: 542.7698364257812
     double_fontsize_int: 20
   - index: 410
     text: 'positive outcomes. These included damage and needs assessment techniques
@@ -106,11 +96,9 @@
     span_number: 0.0
     total_y: 5661.819885253906
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 599.593017578125
-    - 542.8067626953125
-    - 613.2780151367188
+    bbox: (54.0, 599.593017578125, 542.8067626953125, 613.2780151367188)
+    bbox_x1: 54.0
+    bbox_x2: 542.8067626953125
     double_fontsize_int: 20
   - index: 411
     text: 'needed to be strengthened especially at the branch level in order to improve
@@ -125,11 +113,9 @@
     span_number: 0.0
     total_y: 5673.33984375
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 611.1129150390625
-    - 542.6980590820312
-    - 624.7979736328125
+    bbox: (54.0, 611.1129150390625, 542.6980590820312, 624.7979736328125)
+    bbox_x1: 54.0
+    bbox_x2: 542.6980590820312
     double_fontsize_int: 20
   - index: 412
     text: 'effectiveness of information collection, which in turn facilitated a better
@@ -144,11 +130,9 @@
     span_number: 0.0
     total_y: 5684.85986328125
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 622.6329345703125
-    - 448.78887939453125
-    - 636.3179931640625
+    bbox: (54.0, 622.6329345703125, 448.78887939453125, 636.3179931640625)
+    bbox_x1: 54.0
+    bbox_x2: 448.7888793945313
     double_fontsize_int: 20
   - index: 413
     text: 'Essential relief items to be prepositioned in the future and made ready
@@ -163,11 +147,9 @@
     span_number: 0.0
     total_y: 5707.7799072265625
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 645.552978515625
-    - 542.5389404296875
-    - 659.238037109375
+    bbox: (54.0, 645.552978515625, 542.5389404296875, 659.238037109375)
+    bbox_x1: 54.0
+    bbox_x2: 542.5389404296875
     double_fontsize_int: 20
   - index: 414
     text: 'an effective coordination towards the common goal should be agreed upon
@@ -182,11 +164,9 @@
     span_number: 0.0
     total_y: 5719.299865722656
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 657.072998046875
-    - 542.8035888671875
-    - 670.7579956054688
+    bbox: (54.0, 657.072998046875, 542.8035888671875, 670.7579956054688)
+    bbox_x1: 54.0
+    bbox_x2: 542.8035888671875
     double_fontsize_int: 20
   - index: 415
     text: 'assistance of local Red Cross volunteers and the local government, these
@@ -201,11 +181,9 @@
     span_number: 0.0
     total_y: 5730.819885253906
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 668.593017578125
-    - 542.82470703125
-    - 682.2780151367188
+    bbox: (54.0, 668.593017578125, 542.82470703125, 682.2780151367188)
+    bbox_x1: 54.0
+    bbox_x2: 542.82470703125
     double_fontsize_int: 20
   - index: 416
     text: 'successfully brought to a close. '
@@ -218,11 +196,9 @@
     span_number: 0.0
     total_y: 5742.33984375
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 680.1129150390625
-    - 195.8988800048828
-    - 693.7979736328125
+    bbox: (54.0, 680.1129150390625, 195.8988800048828, 693.7979736328125)
+    bbox_x1: 54.0
+    bbox_x2: 195.8988800048828
     double_fontsize_int: 20
   items:
   - With ten years passed since the last large scale disaster for VNRC provinces in
@@ -249,11 +225,9 @@
     span_number: 0.0
     total_y: 6965.419860839844
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 219.40280151367188
-    - 181.10887145996094
-    - 233.1177215576172
+    bbox: (45.0, 219.40280151367188, 181.10887145996094, 233.1177215576172)
+    bbox_x1: 45.0
+    bbox_x2: 181.1088714599609
     idx: 519
   sector_title: Health and Care
   sector_idx: 422
@@ -272,11 +246,9 @@
     span_number: 0.0
     total_y: 6977.059875488281
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 230.99301147460938
-    - 551.4183959960938
-    - 244.6780548095703
+    bbox: (45.0, 230.99301147460938, 551.4183959960938, 244.6780548095703)
+    bbox_x1: 45.0
+    bbox_x2: 551.4183959960938
     double_fontsize_int: 20
   - index: 521
     text: 'to incorporate HFMD and dengue prevention messages in this Mekong flood
@@ -289,13 +261,11 @@
     block_number: 9
     line_number: 2
     span_number: 0.0
-    total_y: 6988.4898681640625
+    total_y: 6988.489868164063
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 242.42300415039062
-    - 551.3606567382812
-    - 256.1080322265625
+    bbox: (45.0, 242.42300415039062, 551.3606567382812, 256.1080322265625)
+    bbox_x1: 45.0
+    bbox_x2: 551.3606567382812
     double_fontsize_int: 20
   - index: 522
     text: 'active trainers to train volunteers and roll out behaviour change activities
@@ -310,11 +280,9 @@
     span_number: 0.0
     total_y: 7000.009826660156
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 253.94296264648438
-    - 550.9796142578125
-    - 267.62799072265625
+    bbox: (45.0, 253.94296264648438, 550.9796142578125, 267.62799072265625)
+    bbox_x1: 45.0
+    bbox_x2: 550.9796142578125
     double_fontsize_int: 20
   - index: 523
     text: 'HFMD cases. However, due to time limitations, activities such as monitoring
@@ -329,11 +297,9 @@
     span_number: 0.0
     total_y: 7011.529846191406
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 265.4629821777344
-    - 551.265625
-    - 279.14801025390625
+    bbox: (45.0, 265.4629821777344, 551.265625, 279.14801025390625)
+    bbox_x1: 45.0
+    bbox_x2: 551.265625
     double_fontsize_int: 20
   - index: 524
     text: 'improvement. In addition, behaviour change requires follow-up and repeated
@@ -348,11 +314,9 @@
     span_number: 0.0
     total_y: 7023.049865722656
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 276.9830017089844
-    - 551.387451171875
-    - 290.66802978515625
+    bbox: (45.0, 276.9830017089844, 551.387451171875, 290.66802978515625)
+    bbox_x1: 45.0
+    bbox_x2: 551.387451171875
     double_fontsize_int: 20
   - index: 525
     text: high risk areas, VNRC will need to continue integrating health education,
@@ -367,11 +331,9 @@
     span_number: 0.0
     total_y: 7034.56982421875
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 288.5029602050781
-    - 548.57666015625
-    - 302.18798828125
+    bbox: (45.0, 288.5029602050781, 548.57666015625, 302.18798828125)
+    bbox_x1: 45.0
+    bbox_x2: 548.57666015625
     double_fontsize_int: 20
   - index: 526
     text: 'term program such as risk reduction and community-based health. Another
@@ -386,11 +348,9 @@
     span_number: 0.0
     total_y: 7046.08984375
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 300.0229797363281
-    - 551.1785888671875
-    - 313.7080078125
+    bbox: (45.0, 300.0229797363281, 551.1785888671875, 313.7080078125)
+    bbox_x1: 45.0
+    bbox_x2: 551.1785888671875
     double_fontsize_int: 20
   - index: 527
     text: 'VNRC is better coordination and integration of emergency health and disaster
@@ -403,13 +363,11 @@
     block_number: 9
     line_number: 8
     span_number: 0.0
-    total_y: 7057.4898681640625
+    total_y: 7057.489868164063
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 311.4230041503906
-    - 550.9923095703125
-    - 325.1080322265625
+    bbox: (45.0, 311.4230041503906, 550.9923095703125, 325.1080322265625)
+    bbox_x1: 45.0
+    bbox_x2: 550.9923095703125
     double_fontsize_int: 20
   - index: 528
     text: 'operational mechanism. During the operation, it is observed that systems
@@ -424,11 +382,9 @@
     span_number: 0.0
     total_y: 7069.009857177734
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 322.9429931640625
-    - 550.9382934570312
-    - 336.6280212402344
+    bbox: (45.0, 322.9429931640625, 550.9382934570312, 336.6280212402344)
+    bbox_x1: 45.0
+    bbox_x2: 550.9382934570312
     double_fontsize_int: 20
   - index: 529
     text: 'tracking needs to be better coordinated for more effective response. Similarly,
@@ -443,11 +399,9 @@
     span_number: 0.0
     total_y: 7080.529846191406
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 334.4629821777344
-    - 551.1914672851562
-    - 348.14801025390625
+    bbox: (45.0, 334.4629821777344, 551.1914672851562, 348.14801025390625)
+    bbox_x1: 45.0
+    bbox_x2: 551.1914672851562
     double_fontsize_int: 20
   - index: 530
     text: 'management and emergency health unit working together in planning and execution
@@ -462,11 +416,9 @@
     span_number: 0.0
     total_y: 7092.049835205078
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 345.98297119140625
-    - 550.9679565429688
-    - 359.6679992675781
+    bbox: (45.0, 345.98297119140625, 550.9679565429688, 359.6679992675781)
+    bbox_x1: 45.0
+    bbox_x2: 550.9679565429688
     double_fontsize_int: 20
   - index: 531
     text: 'operation more effective and timely to the end-user beneficiaries. The
@@ -481,11 +433,9 @@
     span_number: 0.0
     total_y: 7103.569854736328
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 357.50299072265625
-    - 551.4376831054688
-    - 371.1880187988281
+    bbox: (45.0, 357.50299072265625, 551.4376831054688, 371.1880187988281)
+    bbox_x1: 45.0
+    bbox_x2: 551.4376831054688
     double_fontsize_int: 20
   - index: 532
     text: 'been taken into consideration, to be addressed in the longer-term programme,
@@ -500,11 +450,9 @@
     span_number: 0.0
     total_y: 7115.08984375
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 369.0229797363281
-    - 551.3634643554688
-    - 382.7080078125
+    bbox: (45.0, 369.0229797363281, 551.3634643554688, 382.7080078125)
+    bbox_x1: 45.0
+    bbox_x2: 551.3634643554688
     double_fontsize_int: 20
   - index: 533
     text: 'inter-department collaboration in VNRC before and during disasters.       '
@@ -517,11 +465,9 @@
     span_number: 0.0
     total_y: 7126.489837646484
     origin_x: 45.0
-    bbox:
-    - 45.0
-    - 380.4229736328125
-    - 365.7189025878906
-    - 394.1080017089844
+    bbox: (45.0, 380.4229736328125, 365.7189025878906, 394.1080017089844)
+    bbox_x1: 45.0
+    bbox_x2: 365.7189025878906
     double_fontsize_int: 20
   items:
   - Due to increased cases of HFMD and dengue and the potential disease outbreaks
@@ -553,11 +499,9 @@
     span_number: 0.0
     total_y: 8118.429870605469
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 530.4927978515625
-    - 187.348876953125
-    - 544.207763671875
+    bbox: (54.0, 530.4927978515625, 187.348876953125, 544.207763671875)
+    bbox_x1: 54.0
+    bbox_x2: 187.348876953125
     idx: 627
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 534
@@ -576,11 +520,9 @@
     span_number: 0.0
     total_y: 8130.06982421875
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 542.0830078125
-    - 542.5828247070312
-    - 555.7680053710938
+    bbox: (54.0, 542.0830078125, 542.5828247070312, 555.7680053710938)
+    bbox_x1: 54.0
+    bbox_x2: 542.5828247070312
     double_fontsize_int: 20
   - index: 629
     text: 'improved through deployment of equipment and team to the affected area
@@ -595,11 +537,9 @@
     span_number: 0.0
     total_y: 8141.58984375
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 553.60302734375
-    - 542.5800170898438
-    - 567.2880249023438
+    bbox: (54.0, 553.60302734375, 542.5800170898438, 567.2880249023438)
+    bbox_x1: 54.0
+    bbox_x2: 542.5800170898438
     double_fontsize_int: 20
   - index: 630
     text: 'shortcoming in the deployment is the need to carry out a thorough needs
@@ -614,11 +554,9 @@
     span_number: 0.0
     total_y: 8153.019836425781
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 565.032958984375
-    - 542.6698608398438
-    - 578.718017578125
+    bbox: (54.0, 565.032958984375, 542.6698608398438, 578.718017578125)
+    bbox_x1: 54.0
+    bbox_x2: 542.6698608398438
     double_fontsize_int: 20
   - index: 631
     text: 'Although a general assessment was included in all training for trainers
@@ -633,11 +571,9 @@
     span_number: 0.0
     total_y: 8164.539855957031
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 576.552978515625
-    - 542.63037109375
-    - 590.238037109375
+    bbox: (54.0, 576.552978515625, 542.63037109375, 590.238037109375)
+    bbox_x1: 54.0
+    bbox_x2: 542.63037109375
     double_fontsize_int: 20
   - index: 632
     text: 'focused on assessment of water source. Thus, in the long-term water and
@@ -652,11 +588,9 @@
     span_number: 0.0
     total_y: 8176.059814453125
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 588.072998046875
-    - 542.6635131835938
-    - 601.7579956054688
+    bbox: (54.0, 588.072998046875, 542.6635131835938, 601.7579956054688)
+    bbox_x1: 54.0
+    bbox_x2: 542.6635131835938
     double_fontsize_int: 20
   - index: 633
     text: 'management programme, it is needed to bring in identified lesson-learned
@@ -671,11 +605,9 @@
     span_number: 0.0
     total_y: 8187.579833984375
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 599.593017578125
-    - 542.5428466796875
-    - 613.2780151367188
+    bbox: (54.0, 599.593017578125, 542.5428466796875, 613.2780151367188)
+    bbox_x1: 54.0
+    bbox_x2: 542.5428466796875
     double_fontsize_int: 20
   - index: 634
     text: 'practical sessions on need assessment covering needs and conditions for
@@ -690,11 +622,9 @@
     span_number: 0.0
     total_y: 8199.099792480469
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 611.1129150390625
-    - 531.5888671875
-    - 624.7979736328125
+    bbox: (54.0, 611.1129150390625, 531.5888671875, 624.7979736328125)
+    bbox_x1: 54.0
+    bbox_x2: 531.5888671875
     double_fontsize_int: 20
   - index: 635
     text: 'At operational level, VNRC used the same trained volunteers for emergency
@@ -709,11 +639,9 @@
     span_number: 0.0
     total_y: 8222.019836425781
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 634.032958984375
-    - 542.11962890625
-    - 647.718017578125
+    bbox: (54.0, 634.032958984375, 542.11962890625, 647.718017578125)
+    bbox_x1: 54.0
+    bbox_x2: 542.11962890625
     double_fontsize_int: 20
   - index: 636
     text: 'community in prevention of water-borne diseases. On one hand, it is good
@@ -728,11 +656,9 @@
     span_number: 0.0
     total_y: 8233.539855957031
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 645.552978515625
-    - 542.7488403320312
-    - 659.238037109375
+    bbox: (54.0, 645.552978515625, 542.7488403320312, 659.238037109375)
+    bbox_x1: 54.0
+    bbox_x2: 542.7488403320312
     double_fontsize_int: 20
   - index: 637
     text: 'equipped with a wider knowledge of disease prevention and health education,
@@ -747,11 +673,9 @@
     span_number: 0.0
     total_y: 8245.059814453125
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 657.072998046875
-    - 542.5396118164062
-    - 670.7579956054688
+    bbox: (54.0, 657.072998046875, 542.5396118164062, 670.7579956054688)
+    bbox_x1: 54.0
+    bbox_x2: 542.5396118164062
     double_fontsize_int: 20
   - index: 638
     text: 'activities for affected communes. The volunteers were also able to quickly
@@ -766,11 +690,9 @@
     span_number: 0.0
     total_y: 8256.579833984375
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 668.593017578125
-    - 542.1099243164062
-    - 682.2780151367188
+    bbox: (54.0, 668.593017578125, 542.1099243164062, 682.2780151367188)
+    bbox_x1: 54.0
+    bbox_x2: 542.1099243164062
     double_fontsize_int: 20
   - index: 639
     text: 'activities and campaigns in target communes shortly after the operation
@@ -785,11 +707,9 @@
     span_number: 0.0
     total_y: 8268.099792480469
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 680.1129150390625
-    - 542.7529296875
-    - 693.7979736328125
+    bbox: (54.0, 680.1129150390625, 542.7529296875, 693.7979736328125)
+    bbox_x1: 54.0
+    bbox_x2: 542.7529296875
     double_fontsize_int: 20
   - index: 640
     text: 'workload for volunteers was a lot more, and as a result, monitoring of
@@ -804,11 +724,9 @@
     span_number: 0.0
     total_y: 8279.619812011719
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 691.6329345703125
-    - 542.5038452148438
-    - 705.3179931640625
+    bbox: (54.0, 691.6329345703125, 542.5038452148438, 705.3179931640625)
+    bbox_x1: 54.0
+    bbox_x2: 542.5038452148438
     double_fontsize_int: 20
   - index: 641
     text: 'families was not adequately emphasized and implemented. Sanitation and
@@ -823,11 +741,9 @@
     span_number: 0.0
     total_y: 8291.019836425781
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 703.032958984375
-    - 542.7340087890625
-    - 716.718017578125
+    bbox: (54.0, 703.032958984375, 542.7340087890625, 716.718017578125)
+    bbox_x1: 54.0
+    bbox_x2: 542.7340087890625
     double_fontsize_int: 20
   - index: 642
     text: 'area that interventions were not intensified in the actual execution, limiting
@@ -842,11 +758,9 @@
     span_number: 0.0
     total_y: 8302.539855957031
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 714.552978515625
-    - 542.5654907226562
-    - 728.238037109375
+    bbox: (54.0, 714.552978515625, 542.5654907226562, 728.238037109375)
+    bbox_x1: 54.0
+    bbox_x2: 542.5654907226562
     double_fontsize_int: 20
   - index: 643
     text: 'in water and sanitation in emergency. Again, the lessons learned around
@@ -861,11 +775,9 @@
     span_number: 0.0
     total_y: 8314.079833984375
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 726.093017578125
-    - 542.7301025390625
-    - 739.7780151367188
+    bbox: (54.0, 726.093017578125, 542.7301025390625, 739.7780151367188)
+    bbox_x1: 54.0
+    bbox_x2: 542.7301025390625
     double_fontsize_int: 20
   - index: 644
     text: 'and disaster tracking system for timely and effectively response will need
@@ -880,11 +792,9 @@
     span_number: 0.0
     total_y: 8325.599853515625
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 737.613037109375
-    - 542.258544921875
-    - 751.2980346679688
+    bbox: (54.0, 737.613037109375, 542.258544921875, 751.2980346679688)
+    bbox_x1: 54.0
+    bbox_x2: 542.258544921875
     double_fontsize_int: 20
   - index: 645
     text: 'through the longer-term capacity building and development programme.          '
@@ -897,11 +807,9 @@
     span_number: 0.0
     total_y: 8337.119812011719
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 749.1329345703125
-    - 399.1988830566406
-    - 762.8179931640625
+    bbox: (54.0, 749.1329345703125, 399.1988830566406, 762.8179931640625)
+    bbox_x1: 54.0
+    bbox_x2: 399.1988830566406
     double_fontsize_int: 20
   items:
   - "During the operation, it shows that VNRC\u201Fs capacity in water and sanitation\
@@ -939,19 +847,19 @@
     span_number: 0.0
     total_y: 10696.179809570312
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 582.4827880859375
-    - 187.348876953125
-    - 596.19775390625
+    bbox: (54.0, 582.4827880859375, 187.348876953125, 596.19775390625)
+    bbox_x1: 54.0
+    bbox_x2: 187.348876953125
     idx: 839
   sector_title: Shelter, Housing and Settlements
   sector_idx: 651
   sector_similarity_score: 1.0
   content:
   - index: 840
-    text: 'Design:'
-    text_base: design
+    text: 'Design:  Allocation of funds and the initial of agreement on the design,
+      size and total funding contribution was '
+    text_base: design allocation of funds and the initial of agreement on the design
+      size and total funding contribution was
     style: 'arial,bold, 20, #000000, None'
     size: 9.960000038146973
     page_number: 12
@@ -960,30 +868,9 @@
     span_number: 0.0
     total_y: 10713.699768066406
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 600.0027465820312
-    - 90.52332305908203
-    - 613.7177124023438
-    double_fontsize_int: 20
-  - index: 841
-    text: ' Allocation of funds and the initial of agreement on the design, size and
-      total funding contribution was '
-    text_base: allocation of funds and the initial of agreement on the design size
-      and total funding contribution was
-    style: 'arial, 20, #000000, None'
-    size: 9.960000038146973
-    page_number: 12
-    block_number: 3
-    line_number: 0
-    span_number: 1.0
-    total_y: 10713.699768066406
-    origin_x: 90.6240005493164
-    bbox:
-    - 90.6240005493164
-    - 599.9530029296875
-    - 542.5175170898438
-    - 613.6380004882812
+    bbox: (54.0, 600.0027465820312, 90.52332305908203, 613.7177124023438)
+    bbox_x1: 54.0
+    bbox_x2: 542.5175170898438
     double_fontsize_int: 20
   - index: 842
     text: 'a challenge faced at the early onset. In spite of VNRC, IFRC and PNS agreeing
@@ -998,11 +885,9 @@
     span_number: 0.0
     total_y: 10725.339782714844
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 611.593017578125
-    - 542.7908935546875
-    - 625.2780151367188
+    bbox: (54.0, 611.593017578125, 542.7908935546875, 625.2780151367188)
+    bbox_x1: 54.0
+    bbox_x2: 542.7908935546875
     double_fontsize_int: 20
   - index: 843
     text: 'from experience of Ketsana, there still remained a challenge around the
@@ -1017,11 +902,9 @@
     span_number: 0.0
     total_y: 10736.859741210938
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 623.1129150390625
-    - 542.85986328125
-    - 636.7979736328125
+    bbox: (54.0, 623.1129150390625, 542.85986328125, 636.7979736328125)
+    bbox_x1: 54.0
+    bbox_x2: 542.85986328125
     double_fontsize_int: 20
   - index: 844
     text: 'during the implementation phase. This was very much variation to differences
@@ -1036,11 +919,9 @@
     span_number: 0.0
     total_y: 10748.379760742188
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 634.6329345703125
-    - 542.1498413085938
-    - 648.3179931640625
+    bbox: (54.0, 634.6329345703125, 542.1498413085938, 648.3179931640625)
+    bbox_x1: 54.0
+    bbox_x2: 542.1498413085938
     double_fontsize_int: 20
   - index: 845
     text: 'cost for suppliers and labor. Adjustments were made throughout the implementation
@@ -1055,11 +936,9 @@
     span_number: 0.0
     total_y: 10759.77978515625
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 646.032958984375
-    - 542.33984375
-    - 659.718017578125
+    bbox: (54.0, 646.032958984375, 542.33984375, 659.718017578125)
+    bbox_x1: 54.0
+    bbox_x2: 542.33984375
     double_fontsize_int: 20
   - index: 846
     text: 'address these challenges.   '
@@ -1072,15 +951,15 @@
     span_number: 0.0
     total_y: 10771.2998046875
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 657.552978515625
-    - 178.58888244628906
-    - 671.238037109375
+    bbox: (54.0, 657.552978515625, 178.58888244628906, 671.238037109375)
+    bbox_x1: 54.0
+    bbox_x2: 178.58888244628906
     double_fontsize_int: 20
   - index: 847
-    text: 'Supervision: '
-    text_base: supervision
+    text: 'Supervision:  Average construction time per house in the programme was
+      some 45 days. Construction site '
+    text_base: supervision average construction time per house in the programme was
+      some 45 days construction site
     style: 'arial,bold, 20, #000000, None'
     size: 9.960000038146973
     page_number: 12
@@ -1089,30 +968,9 @@
     span_number: 0.0
     total_y: 10794.219787597656
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 680.5227661132812
-    - 117.16633605957031
-    - 694.2377319335938
-    double_fontsize_int: 20
-  - index: 848
-    text: 'Average construction time per house in the programme was some 45 days.
-      Construction site '
-    text_base: average construction time per house in the programme was some 45 days
-      construction site
-    style: 'arial, 20, #000000, None'
-    size: 9.960000038146973
-    page_number: 12
-    block_number: 3
-    line_number: 7
-    span_number: 1.0
-    total_y: 10794.219787597656
-    origin_x: 118.22000122070312
-    bbox:
-    - 118.22000122070312
-    - 680.4730224609375
-    - 542.7700805664062
-    - 694.1580200195312
+    bbox: (54.0, 680.5227661132812, 117.16633605957031, 694.2377319335938)
+    bbox_x1: 54.0
+    bbox_x2: 542.7700805664062
     double_fontsize_int: 20
   - index: 849
     text: 'was scattered over the three provinces and accessible mainly by boats.
@@ -1127,11 +985,9 @@
     span_number: 0.0
     total_y: 10805.859741210938
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 692.1129150390625
-    - 542.7949829101562
-    - 705.7979736328125
+    bbox: (54.0, 692.1129150390625, 542.7949829101562, 705.7979736328125)
+    bbox_x1: 54.0
+    bbox_x2: 542.7949829101562
     double_fontsize_int: 20
   - index: 850
     text: 'supervisors, it was evident that it was not possible to fully meet the
@@ -1146,11 +1002,9 @@
     span_number: 0.0
     total_y: 10817.379760742188
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 703.6329345703125
-    - 542.2195434570312
-    - 717.3179931640625
+    bbox: (54.0, 703.6329345703125, 542.2195434570312, 717.3179931640625)
+    bbox_x1: 54.0
+    bbox_x2: 542.2195434570312
     double_fontsize_int: 20
   - index: 851
     text: 'Supervision. Weekly visits would not be sufficient to provide adequate
@@ -1165,11 +1019,9 @@
     span_number: 0.0
     total_y: 10828.77978515625
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 715.032958984375
-    - 542.7261962890625
-    - 728.718017578125
+    bbox: (54.0, 715.032958984375, 542.7261962890625, 728.718017578125)
+    bbox_x1: 54.0
+    bbox_x2: 542.7261962890625
     double_fontsize_int: 20
   - index: 852
     text: 'out by the errors identified. Acknowledging a lack of supervision and accountability
@@ -1184,11 +1036,9 @@
     span_number: 0.0
     total_y: 10840.319763183594
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 726.572998046875
-    - 542.426513671875
-    - 740.2579956054688
+    bbox: (54.0, 726.572998046875, 542.426513671875, 740.2579956054688)
+    bbox_x1: 54.0
+    bbox_x2: 542.426513671875
     double_fontsize_int: 20
   - index: 853
     text: 'with the support from IFRC, strengthened its ongoing monitoring to the
@@ -1203,11 +1053,9 @@
     span_number: 0.0
     total_y: 10851.839782714844
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 738.093017578125
-    - 542.74169921875
-    - 751.7780151367188
+    bbox: (54.0, 738.093017578125, 542.74169921875, 751.7780151367188)
+    bbox_x1: 54.0
+    bbox_x2: 542.74169921875
     double_fontsize_int: 20
   - index: 859
     text: 'construction as well as the progress of the programme. It was worth noting
@@ -1222,11 +1070,9 @@
     span_number: 0.0
     total_y: 11026.199768066406
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 70.53298950195312
-    - 542.3507080078125
-    - 84.21803283691406
+    bbox: (54.0, 70.53298950195312, 542.3507080078125, 84.21803283691406)
+    bbox_x1: 54.0
+    bbox_x2: 542.3507080078125
     double_fontsize_int: 20
   - index: 860
     text: his minimum 5 visits per house within the programme timeframe.
@@ -1239,47 +1085,26 @@
     span_number: 0.0
     total_y: 11037.73974609375
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 82.07296752929688
-    - 339.4736022949219
-    - 95.75801086425781
+    bbox: (54.0, 82.07296752929688, 339.4736022949219, 95.75801086425781)
+    bbox_x1: 54.0
+    bbox_x2: 339.4736022949219
     double_fontsize_int: 20
   - index: 861
-    text: 'Partnership: '
-    text_base: partnership
+    text: 'Partnership:  Taking the advantage of experience gained in the Ketsana
+      recovery programme in 2009, VNRC '
+    text_base: partnership taking the advantage of experience gained in the ketsana
+      recovery programme in 2009 vnrc
     style: 'arial,bold, 20, #000000, None'
     size: 9.960000038146973
     page_number: 13
     block_number: 1
     line_number: 3
     span_number: 0.0
-    total_y: 11060.539733886719
+    total_y: 11060.53973388672
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 104.9227523803711
-    - 115.58885955810547
-    - 118.63768005371094
-    double_fontsize_int: 20
-  - index: 862
-    text: 'Taking the advantage of experience gained in the Ketsana recovery programme
-      in 2009, VNRC '
-    text_base: taking the advantage of experience gained in the ketsana recovery programme
-      in 2009 vnrc
-    style: 'arial, 20, #000000, None'
-    size: 9.960000038146973
-    page_number: 13
-    block_number: 1
-    line_number: 3
-    span_number: 1.0
-    total_y: 11060.539733886719
-    origin_x: 115.69999694824219
-    bbox:
-    - 115.69999694824219
-    - 104.87295532226562
-    - 542.860107421875
-    - 118.55799865722656
+    bbox: (54.0, 104.9227523803711, 115.58885955810547, 118.63768005371094)
+    bbox_x1: 54.0
+    bbox_x2: 542.860107421875
     double_fontsize_int: 20
   - index: 863
     text: 'focused into further investment in building its technical capacity in terms
@@ -1294,11 +1119,9 @@
     span_number: 0.0
     total_y: 11072.179748535156
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 116.51296997070312
-    - 542.2094116210938
-    - 130.19801330566406
+    bbox: (54.0, 116.51296997070312, 542.2094116210938, 130.19801330566406)
+    bbox_x1: 54.0
+    bbox_x2: 542.2094116210938
     double_fontsize_int: 20
   - index: 864
     text: 'through partnership with DWF. A notable difference to the Ketsana programme
@@ -1313,11 +1136,9 @@
     span_number: 0.0
     total_y: 11083.699768066406
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 128.03298950195312
-    - 542.5094604492188
-    - 141.71803283691406
+    bbox: (54.0, 128.03298950195312, 542.5094604492188, 141.71803283691406)
+    bbox_x1: 54.0
+    bbox_x2: 542.5094604492188
     double_fontsize_int: 20
   - index: 865
     text: 'VNRC, demonstrating a growing capacity and confidence as the programme
@@ -1332,11 +1153,9 @@
     span_number: 0.0
     total_y: 11095.219787597656
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 139.55300903320312
-    - 542.8168334960938
-    - 153.23805236816406
+    bbox: (54.0, 139.55300903320312, 542.8168334960938, 153.23805236816406)
+    bbox_x1: 54.0
+    bbox_x2: 542.8168334960938
     double_fontsize_int: 20
   - index: 866
     text: 'described changes to the roles and responsibilities, but the MOU was adopted
@@ -1351,11 +1170,9 @@
     span_number: 0.0
     total_y: 11106.73974609375
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 151.07296752929688
-    - 542.7698364257812
-    - 164.7580108642578
+    bbox: (54.0, 151.07296752929688, 542.7698364257812, 164.7580108642578)
+    bbox_x1: 54.0
+    bbox_x2: 542.7698364257812
     double_fontsize_int: 20
   - index: 867
     text: 'modification. The complexity in the relationship of the primary stakeholders
@@ -1370,11 +1187,9 @@
     span_number: 0.0
     total_y: 11118.259765625
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 162.59298706054688
-    - 542.4026489257812
-    - 176.2780303955078
+    bbox: (54.0, 162.59298706054688, 542.4026489257812, 176.2780303955078)
+    bbox_x1: 54.0
+    bbox_x2: 542.4026489257812
     double_fontsize_int: 20
   - index: 868
     text: 'management, responsibility, and accountability. This related also to the
@@ -1389,11 +1204,9 @@
     span_number: 0.0
     total_y: 11129.659790039062
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 173.99301147460938
-    - 542.8211669921875
-    - 187.6780548095703
+    bbox: (54.0, 173.99301147460938, 542.8211669921875, 187.6780548095703)
+    bbox_x1: 54.0
+    bbox_x2: 542.8211669921875
     double_fontsize_int: 20
   - index: 869
     text: 'made through the implementation phase in order to optimize the gaps.  '
@@ -1406,15 +1219,15 @@
     span_number: 0.0
     total_y: 11141.179748535156
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 185.51296997070312
-    - 370.3988952636719
-    - 199.19801330566406
+    bbox: (54.0, 185.51296997070312, 370.3988952636719, 199.19801330566406)
+    bbox_x1: 54.0
+    bbox_x2: 370.3988952636719
     double_fontsize_int: 20
   - index: 870
-    text: 'Finance management support - '
-    text_base: finance management support
+    text: 'Finance management support -  The capacity of the householders to manage
+      additional construction work '
+    text_base: finance management support the capacity of the householders to manage
+      additional construction work
     style: 'arial,bold, 20, #000000, None'
     size: 9.960000038146973
     page_number: 13
@@ -1423,29 +1236,9 @@
     span_number: 0.0
     total_y: 11164.099731445312
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 208.48275756835938
-    - 207.77886962890625
-    - 222.1976776123047
-    double_fontsize_int: 20
-  - index: 871
-    text: 'The capacity of the householders to manage additional construction work '
-    text_base: the capacity of the householders to manage additional construction
-      work
-    style: 'arial, 20, #000000, None'
-    size: 9.960000038146973
-    page_number: 13
-    block_number: 1
-    line_number: 12
-    span_number: 1.0
-    total_y: 11164.099731445312
-    origin_x: 208.61000061035156
-    bbox:
-    - 208.61000061035156
-    - 208.43295288085938
-    - 542.8441162109375
-    - 222.1179962158203
+    bbox: (54.0, 208.48275756835938, 207.77886962890625, 222.1976776123047)
+    bbox_x1: 54.0
+    bbox_x2: 542.8441162109375
     double_fontsize_int: 20
   - index: 872
     text: 'outside of the agreed design for extensions and alterations varied from
@@ -1460,11 +1253,9 @@
     span_number: 0.0
     total_y: 11175.73974609375
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 220.07296752929688
-    - 542.8193969726562
-    - 233.7580108642578
+    bbox: (54.0, 220.07296752929688, 542.8193969726562, 233.7580108642578)
+    bbox_x1: 54.0
+    bbox_x2: 542.8193969726562
     double_fontsize_int: 20
   - index: 873
     text: 'area that VNRC recognized additional support and close monitoring by project
@@ -1479,11 +1270,9 @@
     span_number: 0.0
     total_y: 11187.259765625
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 231.59298706054688
-    - 432.1988830566406
-    - 245.2780303955078
+    bbox: (54.0, 231.59298706054688, 432.1988830566406, 245.2780303955078)
+    bbox_x1: 54.0
+    bbox_x2: 432.1988830566406
     double_fontsize_int: 20
   - index: 874
     text: 'It was also recognized that for future projects there remained an opportunity
@@ -1498,11 +1287,9 @@
     span_number: 0.0
     total_y: 11210.209777832031
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 254.54299926757812
-    - 542.4849243164062
-    - 268.22802734375
+    bbox: (54.0, 254.54299926757812, 542.4849243164062, 268.22802734375)
+    bbox_x1: 54.0
+    bbox_x2: 542.4849243164062
     double_fontsize_int: 20
   - index: 875
     text: 'shelter programme to include a component on project and financial management  for
@@ -1515,13 +1302,11 @@
     block_number: 1
     line_number: 17
     span_number: 0.0
-    total_y: 11221.729736328125
+    total_y: 11221.729736328123
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 266.0629577636719
-    - 542.7609252929688
-    - 279.74798583984375
+    bbox: (54.0, 266.0629577636719, 542.7609252929688, 279.74798583984375)
+    bbox_x1: 54.0
+    bbox_x2: 542.7609252929688
     double_fontsize_int: 20
   - index: 876
     text: 'that they fully understand the implications of the owner driven housing
@@ -1534,13 +1319,11 @@
     block_number: 1
     line_number: 18
     span_number: 0.0
-    total_y: 11233.249755859375
+    total_y: 11233.249755859377
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 277.5829772949219
-    - 542.8091430664062
-    - 291.26800537109375
+    bbox: (54.0, 277.5829772949219, 542.8091430664062, 291.26800537109375)
+    bbox_x1: 54.0
+    bbox_x2: 542.8091430664062
     double_fontsize_int: 20
   - index: 877
     text: 'financial management if additional work is to be carried out. '
@@ -1551,23 +1334,21 @@
     block_number: 1
     line_number: 19
     span_number: 0.0
-    total_y: 11244.769775390625
+    total_y: 11244.769775390623
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 289.1029968261719
-    - 319.85888671875
-    - 302.78802490234375
+    bbox: (54.0, 289.1029968261719, 319.85888671875, 302.78802490234375)
+    bbox_x1: 54.0
+    bbox_x2: 319.85888671875
     double_fontsize_int: 20
   items:
-  - 'Design: Allocation of funds and the initial of agreement on the design, size
+  - 'Design:  Allocation of funds and the initial of agreement on the design, size
     and total funding contribution was a challenge faced at the early onset. In spite
     of VNRC, IFRC and PNS agreeing on an improved approach from experience of Ketsana,
     there still remained a challenge around the allocated budget being insufficient
     during the implementation phase. This was very much variation to differences in
     the 3 locations, inflation and cost for suppliers and labor. Adjustments were
     made throughout the implementation phase in order to address these challenges.'
-  - 'Supervision: Average construction time per house in the programme was some 45
+  - 'Supervision:  Average construction time per house in the programme was some 45
     days. Construction site was scattered over the three provinces and accessible
     mainly by boats. Given such a workload of the DWF supervisors, it was evident
     that it was not possible to fully meet the requirements of the Instruction of
@@ -1578,7 +1359,7 @@
     the construction as well as the progress of the programme. It was worth noting
     that each shelter focal person paid his minimum 5 visits per house within the
     programme timeframe.'
-  - 'Partnership: Taking the advantage of experience gained in the Ketsana recovery
+  - 'Partnership:  Taking the advantage of experience gained in the Ketsana recovery
     programme in 2009, VNRC focused into further investment in building its technical
     capacity in terms of shelter programming locally through partnership with DWF.
     A notable difference to the Ketsana programme was the more involved role of VNRC,
@@ -1588,7 +1369,7 @@
     of the primary stakeholders created some gaps in management, responsibility, and
     accountability. This related also to the reporting mechanisms. Efforts were made
     through the implementation phase in order to optimize the gaps.'
-  - Finance management support - The capacity of the householders to manage additional
+  - Finance management support -  The capacity of the householders to manage additional
     construction work outside of the agreed design for extensions and alterations
     varied from household to household, and was an area that VNRC recognized additional
     support and close monitoring by project staff.
@@ -1608,11 +1389,9 @@
     span_number: 0.0
     total_y: 12196.029754638672
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 398.4927978515625
-    - 187.348876953125
-    - 412.20770263671875
+    bbox: (54.0, 398.4927978515625, 187.348876953125, 412.20770263671875)
+    bbox_x1: 54.0
+    bbox_x2: 187.348876953125
     idx: 941
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 878
@@ -1631,11 +1410,9 @@
     span_number: 0.0
     total_y: 12213.669738769531
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 416.0829772949219
-    - 542.650634765625
-    - 429.76800537109375
+    bbox: (54.0, 416.0829772949219, 542.650634765625, 429.76800537109375)
+    bbox_x1: 54.0
+    bbox_x2: 542.650634765625
     double_fontsize_int: 20
   - index: 943
     text: 'respond quickly to disasters among VNRC staff and volunteers given the
@@ -1648,13 +1425,11 @@
     block_number: 3
     line_number: 1
     span_number: 0.0
-    total_y: 12225.189758300781
+    total_y: 12225.18975830078
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 427.6029968261719
-    - 542.667724609375
-    - 441.28802490234375
+    bbox: (54.0, 427.6029968261719, 542.667724609375, 441.28802490234375)
+    bbox_x1: 54.0
+    bbox_x2: 542.667724609375
     double_fontsize_int: 20
   - index: 944
     text: 'Mekong Delta region ten years back. Taking into consideration, the unpredictability
@@ -1667,13 +1442,11 @@
     block_number: 3
     line_number: 2
     span_number: 0.0
-    total_y: 12236.709747314453
+    total_y: 12236.709747314451
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 439.12298583984375
-    - 542.850830078125
-    - 452.8080139160156
+    bbox: (54.0, 439.12298583984375, 542.850830078125, 452.8080139160156)
+    bbox_x1: 54.0
+    bbox_x2: 542.850830078125
     double_fontsize_int: 20
   - index: 945
     text: 'growing impact of climate change, it is crucial to have a long term investment
@@ -1688,11 +1461,9 @@
     span_number: 0.0
     total_y: 12248.109741210938
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 450.5229797363281
-    - 542.3291015625
-    - 464.2080078125
+    bbox: (54.0, 450.5229797363281, 542.3291015625, 464.2080078125)
+    bbox_x1: 54.0
+    bbox_x2: 542.3291015625
     double_fontsize_int: 20
   - index: 946
     text: 'provinces across the country. Enhancing VNRC and community capacities to
@@ -1707,11 +1478,9 @@
     span_number: 0.0
     total_y: 12259.62973022461
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 462.04296875
-    - 542.5744018554688
-    - 475.7279968261719
+    bbox: (54.0, 462.04296875, 542.5744018554688, 475.7279968261719)
+    bbox_x1: 54.0
+    bbox_x2: 542.5744018554688
     double_fontsize_int: 20
   - index: 947
     text: 'contributes to saving lives, speeds up recovery and reduces the impact
@@ -1726,11 +1495,9 @@
     span_number: 0.0
     total_y: 12271.14974975586
     origin_x: 54.0
-    bbox:
-    - 54.0
-    - 473.56298828125
-    - 451.66888427734375
-    - 487.2480163574219
+    bbox: (54.0, 473.56298828125, 451.66888427734375, 487.2480163574219)
+    bbox_x1: 54.0
+    bbox_x2: 451.66888427734375
     double_fontsize_int: 20
   items:
   - It was obvious that VNRC faced challenges in disaster response preparedness capacity

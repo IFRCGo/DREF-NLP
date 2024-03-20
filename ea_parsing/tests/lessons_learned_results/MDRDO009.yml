@@ -9,6 +9,9 @@
     span_number: 0
     total_y: 4588.489898681641
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 368.2327880859375, 123.38888549804688, 381.94769287109375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 123.38888549804688
     idx: 362
   sector_title: Health and Care
   sector_idx: 189
@@ -19,7 +22,7 @@
       them with other health interventions. '
     text_base: the drc health department could work to prioritise pss activities and
       link them with other health interventions
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 5
     block_number: 0
@@ -27,13 +30,16 @@
     span_number: 0
     total_y: 4612.0098876953125
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 391.7029724121094, 550.8258666992188, 405.38800048828125)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.8258666992188
     double_fontsize_int: 20
   - index: 364
     text: 'Strategic pre-positioning of health supplies is required for a timely and
       efficient intervention. Qualified human '
     text_base: strategic pre positioning of health supplies is required for a timely
       and efficient intervention qualified human
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 5
     block_number: 0
@@ -41,13 +47,16 @@
     span_number: 0
     total_y: 4623.409912109375
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 403.1029968261719, 550.7291259765625, 416.78802490234375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.7291259765625
     double_fontsize_int: 20
   - index: 365
     text: 'resources for health interventions are required at the branch level. The
       updating/revision of the procedures and '
     text_base: resources for health interventions are required at the branch level
       the updating revision of the procedures and
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 5
     block_number: 0
@@ -55,13 +64,16 @@
     span_number: 0
     total_y: 4634.929901123047
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 414.62298583984375, 550.3272094726562, 428.3080139160156)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.3272094726562
     double_fontsize_int: 20
   - index: 366
     text: 'processes will enable branches to access available resources and report
       on their use.  '
     text_base: processes will enable branches to access available resources and report
       on their use
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 5
     block_number: 0
@@ -69,6 +81,9 @@
     span_number: 0
     total_y: 4646.449890136719
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 426.1429748535156, 426.43890380859375, 439.8280029296875)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 426.43890380859375
     double_fontsize_int: 20
   items:
   - The DRC health department could work to prioritise PSS activities and link them
@@ -88,6 +103,9 @@
     span_number: 0
     total_y: 6680.73583984375
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 776.6387329101562, 123.38888549804688, 790.3536987304688)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 123.38888549804688
     idx: 514
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 367
@@ -98,7 +116,7 @@
       work to strengthen its rapid (24 hours) '
     text_base: following the trainings and the maintenance of equipment the drc should
       work to strengthen its rapid 24 hours
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
     block_number: 0
@@ -106,11 +124,14 @@
     span_number: 0
     total_y: 6790.679870605469
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 44.613006591796875, 550.300048828125, 58.29804611206055)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.300048828125
     double_fontsize_int: 20
   - index: 519
     text: 'deployment capacity. '
     text_base: deployment capacity
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
     block_number: 0
@@ -118,6 +139,9 @@
     span_number: 0
     total_y: 6802.1998291015625
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 56.132965087890625, 138.3888702392578, 69.81800842285156)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 138.3888702392578
     double_fontsize_int: 20
   items:
   - Following the trainings and the maintenance of equipment, the DRC should work
@@ -133,6 +157,9 @@
     span_number: 0
     total_y: 7797.139831542969
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 209.20278930664062, 123.38888549804688, 222.91770935058594)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 123.38888549804688
     idx: 621
   sector_title: Shelter, Housing and Settlements
   sector_idx: 520
@@ -140,7 +167,7 @@
   content:
   - index: 622
     text: "\u2022"
-    text_base: ''
+    text_base: .nan
     style: 'symbolmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 9
@@ -149,6 +176,9 @@
     span_number: 0
     total_y: 7821.379821777344
     origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 234.08648681640625, 64.22120666503906, 246.2884521484375)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.22120666503906
     double_fontsize_int: 20
   - index: 623
     text: 'More accurate and timely information is required for the drafting of the
@@ -163,10 +193,13 @@
     span_number: 1
     total_y: 7821.379821777344
     origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 233.39297485351562, 454.54888916015625, 247.07801818847656)
+    bbox_x1: 77.66400146484375
+    bbox_x2: 454.54888916015625
     double_fontsize_int: 20
   - index: 624
     text: "\u2022"
-    text_base: ''
+    text_base: .nan
     style: 'symbolmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 9
@@ -175,6 +208,9 @@
     span_number: 0
     total_y: 7833.499816894531
     origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 246.20648193359375, 64.22120666503906, 258.408447265625)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.22120666503906
     double_fontsize_int: 20
   - index: 625
     text: 'Emergency response operations require a unified data collection mechanism
@@ -189,6 +225,9 @@
     span_number: 1
     total_y: 7833.499816894531
     origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 245.51296997070312, 556.4664916992188, 259.197998046875)
+    bbox_x1: 77.66400146484375
+    bbox_x2: 556.4664916992188
     double_fontsize_int: 20
   - index: 626
     text: 'necessary personnel to centralize the data collection.  '
@@ -201,6 +240,9 @@
     span_number: 0
     total_y: 7845.0498046875
     origin_x: 77.66400146484375
+    bbox: (77.66400146484375, 257.0629577636719, 318.43890380859375, 270.74798583984375)
+    bbox_x1: 77.66400146484375
+    bbox_x2: 318.4389038085937
     double_fontsize_int: 20
   items:
   - More accurate and timely information is required for the drafting of the plan
@@ -218,6 +260,9 @@
     span_number: 0
     total_y: 8555.539794921875
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 125.6827621459961, 123.38888549804688, 139.39768981933594)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 123.38888549804688
     idx: 670
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 627
@@ -228,7 +273,7 @@
       to be implemented in such a short time, '
     text_base: in retrospect the ns felt that the drr component had too many activities
       to be implemented in such a short time
-    style: 'italicmt, 20, #000000, None'
+    style: 'italicmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
     block_number: 0
@@ -236,13 +281,16 @@
     span_number: 0
     total_y: 8579.059814453125
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 149.20278930664062, 550.313232421875, 162.68862915039062)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.313232421875
     double_fontsize_int: 20
   - index: 672
     text: 'even though a participatory process of prioritisation was done in January
       2018. Further, the NS did not have enough '
     text_base: even though a participatory process of prioritisation was done in january
       2018 further the ns did not have enough
-    style: 'italicmt, 20, #000000, None'
+    style: 'italicmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
     block_number: 0
@@ -250,11 +298,14 @@
     span_number: 0
     total_y: 8590.579833984375
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 160.72280883789062, 550.4566650390625, 174.20864868164062)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.4566650390625
     double_fontsize_int: 20
   - index: 673
     text: 'personnel to carry out the necessary field activities. '
     text_base: personnel to carry out the necessary field activities
-    style: 'italicmt, 20, #000000, None'
+    style: 'italicmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
     block_number: 0
@@ -262,6 +313,9 @@
     span_number: 0
     total_y: 8602.099792480469
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 172.24276733398438, 271.1722717285156, 185.72860717773438)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 271.1722717285156
     double_fontsize_int: 20
   items:
   - In retrospect, the NS felt that the DRR component had too many activities to be
@@ -279,6 +333,9 @@
     span_number: 0
     total_y: 9513.499816894531
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 241.72280883789062, 123.38888549804688, 255.43772888183594)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 123.38888549804688
     idx: 732
   sector_title: National Society Strengthening
   sector_idx: 674
@@ -289,7 +346,7 @@
       with regards to the administration and '
     text_base: the drc has identified the need to strengthen internal planning especially
       with regards to the administration and
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
     block_number: 6
@@ -297,11 +354,14 @@
     span_number: 0
     total_y: 9536.929809570312
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 265.1029968261719, 550.7814331054688, 278.78802490234375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.7814331054688
     double_fontsize_int: 20
   - index: 734
     text: 'coordination. '
     text_base: coordination
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
     block_number: 6
@@ -309,6 +369,9 @@
     span_number: 0
     total_y: 9548.449768066406
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 276.6229553222656, 101.67288208007812, 290.3079833984375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 101.67288208007812
     double_fontsize_int: 20
   items:
   - The DRC has identified the need to strengthen internal planning, especially with
@@ -322,8 +385,11 @@
     block_number: 0
     line_number: 19
     span_number: 0
-    total_y: 10366.939758300781
+    total_y: 10366.93975830078
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 253.24276733398438, 123.38888549804688, 266.9576721191406)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 123.38888549804688
     idx: 786
   sector_title: Quality Programming
   sector_idx: 735
@@ -334,7 +400,7 @@
       the related budget. '
     text_base: as mentioned the drc should hire an operations coordinator who also
       manages the related budget
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
     block_number: 0
@@ -342,6 +408,9 @@
     span_number: 0
     total_y: 10390.369750976562
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 276.6229553222656, 489.8288879394531, 290.3079833984375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 489.8288879394531
     double_fontsize_int: 20
   items:
   - 'As mentioned, the DRC should hire an operations coordinator who also manages
@@ -357,6 +426,9 @@
     span_number: 0
     total_y: 10728.099792480469
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 614.4027709960938, 123.38888549804688, 628.1177368164062)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 123.38888549804688
     idx: 805
   sector_title: Communications
   sector_idx: 788
@@ -367,7 +439,7 @@
       Additional communication personnel '
     text_base: communications should be integrated into the planning process for operations
       additional communication personnel
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
     block_number: 2
@@ -375,20 +447,26 @@
     span_number: 0
     total_y: 10751.619750976562
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 637.8729248046875, 550.5931396484375, 651.5579833984375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.5931396484375
     double_fontsize_int: 20
   - index: 807
     text: 'as well as technical services (video production and edition), should be
       included in the budget. '
     text_base: as well as technical services video production and edition should be
       included in the budget
-    style: 'arialmt, 20, #000000, None'
+    style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
     block_number: 2
     line_number: 27
     span_number: 0
-    total_y: 10763.019775390625
+    total_y: 10763.019775390623
     origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 649.27294921875, 457.0688781738281, 662.9580078125)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 457.0688781738281
     double_fontsize_int: 20
   items:
   - Communications should be integrated into the planning process for operations.

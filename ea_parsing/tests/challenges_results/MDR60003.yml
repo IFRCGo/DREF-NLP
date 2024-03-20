@@ -9,7 +9,11 @@
     span_number: 0
     total_y: 3956.39990234375
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 578.7257690429688, 103.38726806640625, 591.0595092773438)
+    bbox:
+    - 41.63999938964844
+    - 578.7257690429688
+    - 103.38726806640625
+    - 591.0595092773438
     idx: 395
   sector_title: null
   sector_idx: null
@@ -27,16 +31,22 @@
     span_number: 0
     total_y: 5939.639892578125
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 36.20579528808594, 103.38726806640625, 48.53954315185547)
+    bbox:
+    - 41.63999938964844
+    - 36.20579528808594
+    - 103.38726806640625
+    - 48.53954315185547
     idx: 572
   sector_title: null
   sector_idx: null
   sector_similarity_score: null
   content:
   - index: 573
-    text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text: "\uF076  There was delay in the start of the operations hence it led to\
+      \ hurried implementation and failure of "
+    text_base: there was delay in the start of the operations hence it led to hurried
+      implementation and failure of
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 1
@@ -44,29 +54,18 @@
     span_number: 0
     total_y: 5953.559875488281
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 50.19585418701172, 69.47789001464844, 62.44874572753906)
-    double_fontsize_int: 22
-  - index: 574
-    text: ' There was delay in the start of the operations hence it led to hurried
-      implementation and failure of '
-    text_base: there was delay in the start of the operations hence it led to hurried
-      implementation and failure of
-    style: 'arialmt, 22, #000000, nan'
-    size: 11.039999961853027
-    page_number: 7
-    block_number: 1
-    line_number: 0
-    span_number: 1
-    total_y: 5953.559875488281
-    origin_x: 69.4800033569336
-    bbox: (69.4800033569336, 50.12577819824219, 550.330322265625, 62.45952606201172)
+    bbox:
+    - 59.63999938964844
+    - 50.19585418701172
+    - 69.47789001464844
+    - 62.44874572753906
     double_fontsize_int: 22
   - index: 575
     text: 'the Federation to undertake National Society Development (in the implementation
       period August '
     text_base: the federation to undertake national society development in the implementation
       period august
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 2
@@ -74,12 +73,16 @@
     span_number: 0
     total_y: 5966.159851074219
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 62.72575378417969, 550.3832397460938, 75.05950164794922)
+    bbox:
+    - 77.63999938964844
+    - 62.72575378417969
+    - 550.3832397460938
+    - 75.05950164794922
     double_fontsize_int: 22
   - index: 576
     text: "\u2013 December 2017) "
     text_base: december 2017
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 2
@@ -87,12 +90,16 @@
     span_number: 0
     total_y: 5978.8779296875
     origin_x: 77.62896728515625
-    bbox: (77.62896728515625, 75.44383239746094, 171.78726196289062, 87.77758026123047)
+    bbox:
+    - 77.62896728515625
+    - 75.44383239746094
+    - 171.78726196289062
+    - 87.77758026123047
     double_fontsize_int: 22
   - index: 577
     text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text_base: ''
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 3
@@ -100,14 +107,18 @@
     span_number: 0
     total_y: 5991.4798583984375
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 88.11583709716797, 69.47789001464844, 100.36872863769531)
+    bbox:
+    - 59.63999938964844
+    - 88.11583709716797
+    - 69.47789001464844
+    - 100.36872863769531
     double_fontsize_int: 22
   - index: 578
     text: ' With the donor (ICRC) restriction in geographical coverage and response
       options, communities '
     text_base: with the donor icrc restriction in geographical coverage and response
       options communities
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 3
@@ -115,14 +126,18 @@
     span_number: 1
     total_y: 5991.4798583984375
     origin_x: 69.47663879394531
-    bbox: (69.47663879394531, 88.04576110839844, 550.3318481445312, 100.37950897216797)
+    bbox:
+    - 69.47663879394531
+    - 88.04576110839844
+    - 550.3318481445312
+    - 100.37950897216797
     double_fontsize_int: 22
   - index: 579
     text: 'accused the National Society of bias as well as offering them non-priority
       assistance  '
     text_base: accused the national society of bias as well as offering them non priority
       assistance
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 3
@@ -130,12 +145,16 @@
     span_number: 0
     total_y: 6004.197937011719
     origin_x: 77.63522338867188
-    bbox: (77.63522338867188, 100.76383972167969, 492.9029541015625, 113.09758758544922)
+    bbox:
+    - 77.63522338867188
+    - 100.76383972167969
+    - 492.9029541015625
+    - 113.09758758544922
     double_fontsize_int: 22
   - index: 580
     text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text_base: ''
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 4
@@ -143,14 +162,18 @@
     span_number: 0
     total_y: 6016.799865722656
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 113.43584442138672, 69.47789001464844, 125.68873596191406)
+    bbox:
+    - 59.63999938964844
+    - 113.43584442138672
+    - 69.47789001464844
+    - 125.68873596191406
     double_fontsize_int: 22
   - index: 581
     text: ' Low capacity of the National Societies to access hard-to reach areas led
       to reduction in '
     text_base: low capacity of the national societies to access hard to reach areas
       led to reduction in
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 4
@@ -158,14 +181,18 @@
     span_number: 1
     total_y: 6016.799865722656
     origin_x: 69.47663879394531
-    bbox: (69.47663879394531, 113.36576843261719, 550.3363037109375, 125.69951629638672)
+    bbox:
+    - 69.47663879394531
+    - 113.36576843261719
+    - 550.3363037109375
+    - 125.69951629638672
     double_fontsize_int: 22
   - index: 582
     text: 'geographical coverage and number of people reached by the interventions.
       Such can be '
     text_base: geographical coverage and number of people reached by the interventions
       such can be
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 5
@@ -173,14 +200,18 @@
     span_number: 0
     total_y: 6029.399841308594
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 125.96574401855469, 550.26708984375, 138.29949951171875)
+    bbox:
+    - 77.63999938964844
+    - 125.96574401855469
+    - 550.26708984375
+    - 138.29949951171875
     double_fontsize_int: 22
   - index: 583
     text: 'perceived as bias and is damaging the National Society credibility as responder
       of first choice in '
     text_base: perceived as bias and is damaging the national society credibility
       as responder of first choice in
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 5
@@ -188,12 +219,16 @@
     span_number: 0
     total_y: 6042.117919921875
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 138.68382263183594, 550.2571411132812, 151.017578125)
+    bbox:
+    - 77.63999938964844
+    - 138.68382263183594
+    - 550.2571411132812
+    - 151.017578125
     double_fontsize_int: 22
   - index: 584
     text: 'disaster '
     text_base: disaster
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 5
@@ -201,12 +236,16 @@
     span_number: 0
     total_y: 6054.714538574219
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 151.2804412841797, 119.225830078125, 163.61419677734375)
+    bbox:
+    - 77.63999938964844
+    - 151.2804412841797
+    - 119.225830078125
+    - 163.61419677734375
     double_fontsize_int: 22
   - index: 585
     text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text_base: ''
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 6
@@ -214,12 +253,16 @@
     span_number: 0
     total_y: 6067.439880371094
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 164.07586669921875, 69.47789001464844, 176.32875061035156)
+    bbox:
+    - 59.63999938964844
+    - 164.07586669921875
+    - 69.47789001464844
+    - 176.32875061035156
     double_fontsize_int: 22
   - index: 586
     text: ' The long targeting tools prolonged periods of beneficiary selection '
     text_base: the long targeting tools prolonged periods of beneficiary selection
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 6
@@ -227,12 +270,16 @@
     span_number: 1
     total_y: 6067.439880371094
     origin_x: 69.47663879394531
-    bbox: (69.47663879394531, 164.0057830810547, 401.7588195800781, 176.33953857421875)
+    bbox:
+    - 69.47663879394531
+    - 164.0057830810547
+    - 401.7588195800781
+    - 176.33953857421875
     double_fontsize_int: 22
   - index: 587
     text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text_base: ''
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 6
@@ -240,14 +287,18 @@
     span_number: 0
     total_y: 6080.0364990234375
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 176.6724853515625, 69.47789001464844, 188.9253692626953)
+    bbox:
+    - 59.63999938964844
+    - 176.6724853515625
+    - 69.47789001464844
+    - 188.9253692626953
     double_fontsize_int: 22
   - index: 588
     text: ' Serious security problems at the border between Oromia and Somali regions
       of Babile woreda '
     text_base: serious security problems at the border between oromia and somali regions
       of babile woreda
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 6
@@ -255,12 +306,16 @@
     span_number: 1
     total_y: 6080.0364990234375
     origin_x: 69.47663879394531
-    bbox: (69.47663879394531, 176.60240173339844, 550.3704833984375, 188.9361572265625)
+    bbox:
+    - 69.47663879394531
+    - 176.60240173339844
+    - 550.3704833984375
+    - 188.9361572265625
     double_fontsize_int: 22
   - index: 589
     text: 'jeopardize the operation for 2 months '
     text_base: jeopardize the operation for 2 months
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 6
@@ -268,40 +323,52 @@
     span_number: 0
     total_y: 6092.633117675781
     origin_x: 77.63525390625
-    bbox: (77.63525390625, 189.1990203857422, 262.98394775390625, 201.53277587890625)
+    bbox:
+    - 77.63525390625
+    - 189.1990203857422
+    - 262.98394775390625
+    - 201.53277587890625
     double_fontsize_int: 22
   - index: 590
     text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text_base: ''
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 7
     line_number: 0
     span_number: 0
-    total_y: 6105.351196289063
+    total_y: 6105.3511962890625
     origin_x: 59.640045166015625
-    bbox: (59.640045166015625, 201.9871826171875, 69.47793579101562, 214.2400665283203)
+    bbox:
+    - 59.640045166015625
+    - 201.9871826171875
+    - 69.47793579101562
+    - 214.2400665283203
     double_fontsize_int: 22
   - index: 591
     text: ' Frequent turnover of government higher officials, especially of conflict
       induced areas of Somali & '
     text_base: frequent turnover of government higher officials especially of conflict
       induced areas of somali
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 7
     line_number: 0
     span_number: 1
-    total_y: 6105.351196289063
+    total_y: 6105.3511962890625
     origin_x: 69.4766845703125
-    bbox: (69.4766845703125, 201.91709899902344, 550.3184814453125, 214.2508544921875)
+    bbox:
+    - 69.4766845703125
+    - 201.91709899902344
+    - 550.3184814453125
+    - 214.2508544921875
     double_fontsize_int: 22
   - index: 592
     text: 'Oromia region created a communication gap '
     text_base: oromia region created a communication gap
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 7
@@ -309,40 +376,52 @@
     span_number: 0
     total_y: 6117.947814941406
     origin_x: 77.63524627685547
-    bbox: (77.63524627685547, 214.5137176513672, 297.7820129394531, 226.84747314453125)
+    bbox:
+    - 77.63524627685547
+    - 214.5137176513672
+    - 297.7820129394531
+    - 226.84747314453125
     double_fontsize_int: 22
   - index: 593
     text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text_base: ''
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 8
     line_number: 0
     span_number: 0
-    total_y: 6130.665893554688
+    total_y: 6130.6658935546875
     origin_x: 59.640045166015625
-    bbox: (59.640045166015625, 227.3018798828125, 69.47793579101562, 239.5547637939453)
+    bbox:
+    - 59.640045166015625
+    - 227.3018798828125
+    - 69.47793579101562
+    - 239.5547637939453
     double_fontsize_int: 22
   - index: 594
     text: ' Revision of the operational plan of conducting water tracking created
       dissatisfaction among the '
     text_base: revision of the operational plan of conducting water tracking created
       dissatisfaction among the
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 8
     line_number: 0
     span_number: 1
-    total_y: 6130.665893554688
+    total_y: 6130.6658935546875
     origin_x: 69.4766845703125
-    bbox: (69.4766845703125, 227.23179626464844, 550.356201171875, 239.5655517578125)
+    bbox:
+    - 69.4766845703125
+    - 227.23179626464844
+    - 550.356201171875
+    - 239.5655517578125
     double_fontsize_int: 22
   - index: 595
     text: 'community (e.g. Afar, Kuri district) '
     text_base: community e g afar kuri district
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 8
@@ -350,12 +429,16 @@
     span_number: 0
     total_y: 6143.262512207031
     origin_x: 77.63522338867188
-    bbox: (77.63522338867188, 239.8284149169922, 246.42391967773438, 252.16217041015625)
+    bbox:
+    - 77.63522338867188
+    - 239.8284149169922
+    - 246.42391967773438
+    - 252.16217041015625
     double_fontsize_int: 22
   - index: 596
     text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text_base: ''
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 9
@@ -363,14 +446,18 @@
     span_number: 0
     total_y: 6155.8798828125
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 252.515869140625, 69.47789001464844, 264.76873779296875)
+    bbox:
+    - 59.63999938964844
+    - 252.515869140625
+    - 69.47789001464844
+    - 264.76873779296875
     double_fontsize_int: 22
   - index: 597
     text: ' Delay in budget transfer and budget settlement from the concerned bodies
       affected the '
     text_base: delay in budget transfer and budget settlement from the concerned bodies
       affected the
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 9
@@ -378,12 +465,16 @@
     span_number: 1
     total_y: 6155.8798828125
     origin_x: 69.47663879394531
-    bbox: (69.47663879394531, 252.44578552246094, 550.2738647460938, 264.779541015625)
+    bbox:
+    - 69.47663879394531
+    - 252.44578552246094
+    - 550.2738647460938
+    - 264.779541015625
     double_fontsize_int: 22
   - index: 598
     text: 'performance of the implementation '
     text_base: performance of the implementation
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 10
@@ -391,12 +482,16 @@
     span_number: 0
     total_y: 6168.599853515625
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 265.1657409667969, 250.71896362304688, 277.49951171875)
+    bbox:
+    - 77.63999938964844
+    - 265.1657409667969
+    - 250.71896362304688
+    - 277.49951171875
     double_fontsize_int: 22
   - index: 599
     text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text_base: ''
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 11
@@ -404,14 +499,18 @@
     span_number: 0
     total_y: 6181.319885253906
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 277.95587158203125, 69.47789001464844, 290.208740234375)
+    bbox:
+    - 59.63999938964844
+    - 277.95587158203125
+    - 69.47789001464844
+    - 290.208740234375
     double_fontsize_int: 22
   - index: 600
     text: ' The changeover in Government administration in Somaliland has impacted
       on the speed at which '
     text_base: the changeover in government administration in somaliland has impacted
       on the speed at which
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 11
@@ -419,14 +518,18 @@
     span_number: 1
     total_y: 6181.319885253906
     origin_x: 69.47663879394531
-    bbox: (69.47663879394531, 277.8857727050781, 550.3450927734375, 290.21954345703125)
+    bbox:
+    - 69.47663879394531
+    - 277.8857727050781
+    - 550.3450927734375
+    - 290.21954345703125
     double_fontsize_int: 22
   - index: 601
     text: 'SRCS is able to obtain customs clearance and tax exemption for cargo clearing
       and transport of '
     text_base: srcs is able to obtain customs clearance and tax exemption for cargo
       clearing and transport of
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 11
@@ -434,14 +537,18 @@
     span_number: 0
     total_y: 6194.755554199219
     origin_x: 77.63522338867188
-    bbox: (77.63522338867188, 291.3214416503906, 550.2623291015625, 303.65521240234375)
+    bbox:
+    - 77.63522338867188
+    - 291.3214416503906
+    - 550.2623291015625
+    - 303.65521240234375
     double_fontsize_int: 22
   - index: 602
     text: 'relief items into Puntland. As noted previously, the change-over in administration
       means the SRCS '
     text_base: relief items into puntland as noted previously the change over in administration
       means the srcs
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 11
@@ -449,29 +556,37 @@
     span_number: 0
     total_y: 6208.080810546875
     origin_x: 77.63522338867188
-    bbox: (77.63522338867188, 304.6466979980469, 550.3472900390625, 316.98046875)
+    bbox:
+    - 77.63522338867188
+    - 304.6466979980469
+    - 550.3472900390625
+    - 316.98046875
     double_fontsize_int: 22
   - index: 603
     text: 'must develop new relationships with the incoming Government. IFRC Hargeisa
       is currently in '
     text_base: must develop new relationships with the incoming government ifrc hargeisa
       is currently in
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 11
     line_number: 3
     span_number: 0
-    total_y: 6221.516479492188
+    total_y: 6221.5164794921875
     origin_x: 77.63522338867188
-    bbox: (77.63522338867188, 318.0823669433594, 550.3350830078125, 330.4161376953125)
+    bbox:
+    - 77.63522338867188
+    - 318.0823669433594
+    - 550.3350830078125
+    - 330.4161376953125
     double_fontsize_int: 22
   - index: 604
     text: 'negotiation with WFP regarding the re-shipment of cargo in Berbera to Bosasso
       in Puntland '
     text_base: negotiation with wfp regarding the re shipment of cargo in berbera
       to bosasso in puntland
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 11
@@ -479,12 +594,16 @@
     span_number: 0
     total_y: 6234.9521484375
     origin_x: 77.63519287109375
-    bbox: (77.63519287109375, 331.5180358886719, 525.8746948242188, 343.851806640625)
+    bbox:
+    - 77.63519287109375
+    - 331.5180358886719
+    - 525.8746948242188
+    - 343.851806640625
     double_fontsize_int: 22
   - index: 605
     text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text_base: ''
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -492,14 +611,18 @@
     span_number: 0
     total_y: 6248.277435302734
     origin_x: 59.62898254394531
-    bbox: (59.62898254394531, 344.9134216308594, 69.46687316894531, 357.1662902832031)
+    bbox:
+    - 59.62898254394531
+    - 344.9134216308594
+    - 69.46687316894531
+    - 357.1662902832031
     double_fontsize_int: 22
   - index: 606
     text: ' A key development in January was the military confrontation between Somaliland
       and Puntland '
     text_base: a key development in january was the military confrontation between
       somaliland and puntland
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -507,14 +630,18 @@
     span_number: 1
     total_y: 6248.277435302734
     origin_x: 69.46562194824219
-    bbox: (69.46562194824219, 344.84332275390625, 550.2636108398438, 357.1795349121094)
+    bbox:
+    - 69.46562194824219
+    - 344.84332275390625
+    - 550.2636108398438
+    - 357.1795349121094
     double_fontsize_int: 22
   - index: 607
     text: 'in the disputed territories in Sool and Sanaag which both Governments claim.
       This confrontation '
     text_base: in the disputed territories in sool and sanaag which both governments
       claim this confrontation
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -522,14 +649,18 @@
     span_number: 0
     total_y: 6261.715545654297
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 358.28143310546875, 550.2781982421875, 370.6152038574219)
+    bbox:
+    - 77.63999938964844
+    - 358.28143310546875
+    - 550.2781982421875
+    - 370.6152038574219
     double_fontsize_int: 22
   - index: 608
     text: 'was prompted by the stated intention of the President of FRG in Mogadishu
       to visit territory in Sool '
     text_base: was prompted by the stated intention of the president of frg in mogadishu
       to visit territory in sool
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -537,14 +668,18 @@
     span_number: 0
     total_y: 6275.040832519531
     origin_x: 77.6399917602539
-    bbox: (77.6399917602539, 371.6067199707031, 550.2540893554688, 383.94049072265625)
+    bbox:
+    - 77.6399917602539
+    - 371.6067199707031
+    - 550.2540893554688
+    - 383.94049072265625
     double_fontsize_int: 22
   - index: 609
     text: 'accompanied by representatives of the Puntland administration. Military
       forces of Somaliland '
     text_base: accompanied by representatives of the puntland administration military
       forces of somaliland
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -552,14 +687,18 @@
     span_number: 0
     total_y: 6288.476501464844
     origin_x: 77.6399917602539
-    bbox: (77.6399917602539, 385.0423889160156, 550.3731079101562, 397.3795166015625)
+    bbox:
+    - 77.6399917602539
+    - 385.0423889160156
+    - 550.3731079101562
+    - 397.3795166015625
     double_fontsize_int: 22
   - index: 610
     text: 'attacked and took control of territory previously controlled by Puntland.
       The Somaliland '
     text_base: attacked and took control of territory previously controlled by puntland
       the somaliland
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -567,42 +706,37 @@
     span_number: 0
     total_y: 6301.799865722656
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 398.3657531738281, 550.28564453125, 410.69952392578125)
+    bbox:
+    - 77.63999938964844
+    - 398.3657531738281
+    - 550.28564453125
+    - 410.69952392578125
     double_fontsize_int: 22
   - index: 611
     text: 'administration immediately began to reinforce its control of the area and
       at other points along the '
     text_base: administration immediately began to reinforce its control of the area
       and at other points along the
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
     line_number: 5
     span_number: 0
-    total_y: 6315.239868164063
+    total_y: 6315.2398681640625
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 411.8057556152344, 550.3516845703125, 424.1395263671875)
+    bbox:
+    - 77.63999938964844
+    - 411.8057556152344
+    - 550.3516845703125
+    - 424.1395263671875
     double_fontsize_int: 22
-  - index: 613
-    text: th
-    text_base: th
-    style: 'arialmt, 14, #000000, nan'
-    size: 6.960000038146973
-    page_number: 7
-    block_number: 12
-    line_number: 6
-    span_number: 1
-    total_y: 6324.599853515625
-    origin_x: 295.79998779296875
-    bbox: (295.79998779296875, 424.8592834472656, 301.5917663574219, 432.6348876953125)
-    double_fontsize_int: 14
   - index: 614
     text: ' of January the Government of Puntland declared  line of control (Sool
       and Sanaag) On the 13'
     text_base: of january the government of puntland declared line of control sool
       and sanaag on the 13
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -610,14 +744,18 @@
     span_number: 2
     total_y: 6328.559875488281
     origin_x: 301.44000244140625
-    bbox: (301.44000244140625, 425.1257629394531, 550.3380737304688, 437.45953369140625)
+    bbox:
+    - 301.44000244140625
+    - 425.1257629394531
+    - 550.3380737304688
+    - 437.45953369140625
     double_fontsize_int: 22
   - index: 615
     text: 'war on Somaliland. In response the Government of Somaliland stated that
       it has no intention of '
     text_base: war on somaliland in response the government of somaliland stated that
       it has no intention of
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -625,14 +763,18 @@
     span_number: 0
     total_y: 6341.995544433594
     origin_x: 77.63711547851562
-    bbox: (77.63711547851562, 438.5614318847656, 550.2232055664062, 450.89520263671875)
+    bbox:
+    - 77.63711547851562
+    - 438.5614318847656
+    - 550.2232055664062
+    - 450.89520263671875
     double_fontsize_int: 22
   - index: 616
     text: 'attacking Puntland but will defend its territory which it defines as up
       the point of the colonially '
     text_base: attacking puntland but will defend its territory which it defines as
       up the point of the colonially
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -640,14 +782,18 @@
     span_number: 0
     total_y: 6355.431213378906
     origin_x: 77.63711547851562
-    bbox: (77.63711547851562, 451.9971008300781, 550.312744140625, 464.33087158203125)
+    bbox:
+    - 77.63711547851562
+    - 451.9971008300781
+    - 550.312744140625
+    - 464.33087158203125
     double_fontsize_int: 22
   - index: 617
     text: 'established border. The initial military operation has caused displacement
       of civilians within Sool. '
     text_base: established border the initial military operation has caused displacement
       of civilians within sool
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -655,14 +801,18 @@
     span_number: 0
     total_y: 6368.756500244141
     origin_x: 77.63712310791016
-    bbox: (77.63712310791016, 465.3223876953125, 550.309326171875, 477.6561584472656)
+    bbox:
+    - 77.63712310791016
+    - 465.3223876953125
+    - 550.309326171875
+    - 477.6561584472656
     double_fontsize_int: 22
   - index: 618
     text: 'To date there have been ongoing low-level exchanges of artillery and gun
       fire between the '
     text_base: to date there have been ongoing low level exchanges of artillery and
       gun fire between the
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -670,14 +820,18 @@
     span_number: 0
     total_y: 6382.192169189453
     origin_x: 77.63711547851562
-    bbox: (77.63711547851562, 478.758056640625, 550.334716796875, 491.0995178222656)
+    bbox:
+    - 77.63711547851562
+    - 478.758056640625
+    - 550.334716796875
+    - 491.0995178222656
     double_fontsize_int: 22
   - index: 619
     text: 'opposing armies. As a result of this, the planned distribution of WASH/NFIs
       has been put on hold '
     text_base: opposing armies as a result of this the planned distribution of wash
       nfis has been put on hold
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -685,12 +839,16 @@
     span_number: 0
     total_y: 6395.519866943359
     origin_x: 77.63999938964844
-    bbox: (77.63999938964844, 492.08575439453125, 550.3597412109375, 504.4195251464844)
+    bbox:
+    - 77.63999938964844
+    - 492.08575439453125
+    - 550.3597412109375
+    - 504.4195251464844
     double_fontsize_int: 22
   - index: 620
     text: 'pending an assessment of the situation. '
     text_base: pending an assessment of the situation
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 12
@@ -698,12 +856,16 @@
     span_number: 0
     total_y: 6408.955505371094
     origin_x: 77.63998413085938
-    bbox: (77.63998413085938, 505.5213928222656, 274.62725830078125, 517.8595581054688)
+    bbox:
+    - 77.63998413085938
+    - 505.5213928222656
+    - 274.62725830078125
+    - 517.8595581054688
     double_fontsize_int: 22
   - index: 621
     text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text_base: ''
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 13
@@ -711,14 +873,18 @@
     span_number: 0
     total_y: 6422.28515625
     origin_x: 59.63616943359375
-    bbox: (59.63616943359375, 518.921142578125, 69.47406005859375, 531.1740112304688)
+    bbox:
+    - 59.63616943359375
+    - 518.921142578125
+    - 69.47406005859375
+    - 531.1740112304688
     double_fontsize_int: 22
   - index: 622
     text: " Logistics \u2013 rain from July to November made overland transportation\
       \ routes impossible to bypass. "
     text_base: logistics rain from july to november made overland transportation routes
       impossible to bypass
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 13
@@ -726,12 +892,16 @@
     span_number: 1
     total_y: 6422.28515625
     origin_x: 69.47280883789062
-    bbox: (69.47280883789062, 518.85107421875, 550.3590087890625, 531.184814453125)
+    bbox:
+    - 69.47280883789062
+    - 518.85107421875
+    - 550.3590087890625
+    - 531.184814453125
     double_fontsize_int: 22
   - index: 623
     text: 'Flying supplies to hard-to-reach areas was the only possibility. '
     text_base: flying supplies to hard to reach areas was the only possibility
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 13
@@ -739,12 +909,16 @@
     span_number: 0
     total_y: 6435.7208251953125
     origin_x: 77.62033081054688
-    bbox: (77.62033081054688, 532.2867431640625, 383.32708740234375, 544.6204833984375)
+    bbox:
+    - 77.62033081054688
+    - 532.2867431640625
+    - 383.32708740234375
+    - 544.6204833984375
     double_fontsize_int: 22
   - index: 624
     text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text_base: ''
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 14
@@ -752,14 +926,18 @@
     span_number: 0
     total_y: 6449.046081542969
     origin_x: 59.6251220703125
-    bbox: (59.6251220703125, 545.6820678710938, 69.4630126953125, 557.9349365234375)
+    bbox:
+    - 59.6251220703125
+    - 545.6820678710938
+    - 69.4630126953125
+    - 557.9349365234375
     double_fontsize_int: 22
   - index: 625
     text: ' For the second year in a row in 2017, South Sudan was ranked as the most
       dangerous context '
     text_base: for the second year in a row in 2017 south sudan was ranked as the
       most dangerous context
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 14
@@ -767,14 +945,18 @@
     span_number: 1
     total_y: 6449.046081542969
     origin_x: 69.46176147460938
-    bbox: (69.46176147460938, 545.6119995117188, 550.2969970703125, 557.9457397460938)
+    bbox:
+    - 69.46176147460938
+    - 545.6119995117188
+    - 550.2969970703125
+    - 557.9457397460938
     double_fontsize_int: 22
   - index: 626
     text: 'for humanitarian workers in the world, having reported the highest frequency
       of attacks on aid '
     text_base: for humanitarian workers in the world having reported the highest frequency
       of attacks on aid
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 14
@@ -782,14 +964,18 @@
     span_number: 0
     total_y: 6462.481750488281
     origin_x: 77.62031555175781
-    bbox: (77.62031555175781, 559.0476684570312, 550.3623046875, 571.3814086914062)
+    bbox:
+    - 77.62031555175781
+    - 559.0476684570312
+    - 550.3623046875
+    - 571.3814086914062
     double_fontsize_int: 22
   - index: 627
     text: 'staffers. The operations had to be adaptable to the changing security environment
       in the areas of '
     text_base: staffers the operations had to be adaptable to the changing security
       environment in the areas of
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 14
@@ -797,12 +983,16 @@
     span_number: 0
     total_y: 6475.917419433594
     origin_x: 77.62033081054688
-    bbox: (77.62033081054688, 572.4833374023438, 550.272705078125, 584.8170776367188)
+    bbox:
+    - 77.62033081054688
+    - 572.4833374023438
+    - 550.272705078125
+    - 584.8170776367188
     double_fontsize_int: 22
   - index: 628
     text: 'implementation. This posed challenges to planning.  '
     text_base: implementation this posed challenges to planning
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 14
@@ -810,27 +1000,35 @@
     span_number: 0
     total_y: 6489.242736816406
     origin_x: 77.62033081054688
-    bbox: (77.62033081054688, 585.8086547851562, 333.8900146484375, 598.1423950195312)
+    bbox:
+    - 77.62033081054688
+    - 585.8086547851562
+    - 333.8900146484375
+    - 598.1423950195312
     double_fontsize_int: 22
   - index: 629
     text: "\uF076"
-    text_base: .nan
-    style: 'regular, 22, #000000, nan'
+    text_base: ''
+    style: 'regular, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 15
     line_number: 0
     span_number: 0
     total_y: 6502.678405761719
-    origin_x: 59.62515258789063
-    bbox: (59.625152587890625, 599.3143920898438, 69.46304321289062, 611.5672607421875)
+    origin_x: 59.625152587890625
+    bbox:
+    - 59.625152587890625
+    - 599.3143920898438
+    - 69.46304321289062
+    - 611.5672607421875
     double_fontsize_int: 22
   - index: 630
     text: ' The SSRC is a young national society that is still working on enhancing
       its capacity, systems and '
     text_base: the ssrc is a young national society that is still working on enhancing
       its capacity systems and
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 15
@@ -838,12 +1036,16 @@
     span_number: 1
     total_y: 6502.678405761719
     origin_x: 69.4617919921875
-    bbox: (69.4617919921875, 599.2443237304688, 550.3092041015625, 611.5780639648438)
+    bbox:
+    - 69.4617919921875
+    - 599.2443237304688
+    - 550.3092041015625
+    - 611.5780639648438
     double_fontsize_int: 22
   - index: 631
     text: 'infrastructure. '
     text_base: infrastructure
-    style: 'arialmt, 22, #000000, nan'
+    style: 'arialmt, 22, #000000, None'
     size: 11.039999961853027
     page_number: 7
     block_number: 15
@@ -851,12 +1053,16 @@
     span_number: 0
     total_y: 6515.882263183594
     origin_x: 77.62035369873047
-    bbox: (77.62035369873047, 612.4481811523438, 147.88809204101562, 624.7819213867188)
+    bbox:
+    - 77.62035369873047
+    - 612.4481811523438
+    - 147.88809204101562
+    - 624.7819213867188
     double_fontsize_int: 22
   items:
-  - "There was delay in the start of the operations hence it led to hurried implementation\
-    \ and failure of the Federation to undertake National Society Development (in\
-    \ the implementation period August \u2013 December 2017)"
+  - "\uF076  There was delay in the start of the operations hence it led to hurried\
+    \ implementation and failure of the Federation to undertake National Society Development\
+    \ (in the implementation period August \u2013 December 2017)"
   - With the donor (ICRC) restriction in geographical coverage and response options,
     communities accused the National Society of bias as well as offering them non-priority
     assistance
@@ -886,7 +1092,7 @@
     of the Puntland administration. Military forces of Somaliland attacked and took
     control of territory previously controlled by Puntland. The Somaliland administration
     immediately began to reinforce its control of the area and at other points along
-    the th of January the Government of Puntland declared  line of control (Sool and
+    the of January the Government of Puntland declared  line of control (Sool and
     Sanaag) On the 13 war on Somaliland. In response the Government of Somaliland
     stated that it has no intention of attacking Puntland but will defend its territory
     which it defines as up the point of the colonially established border. The initial

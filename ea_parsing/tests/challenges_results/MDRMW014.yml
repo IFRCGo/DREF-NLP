@@ -10,6 +10,8 @@
     total_y: 4366.8798828125
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 146.25209045410156, 105.5416259765625, 160.38186645507812)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 105.5416259765625
     idx: 324
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 275
@@ -29,6 +31,8 @@
     total_y: 4382.059875488281
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 161.68846130371094, 544.9341430664062, 175.45594787597656)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 544.9341430664062
     double_fontsize_int: 20
   - index: 326
     text: 'work with its partners on this aspect. '
@@ -42,6 +46,8 @@
     total_y: 4393.5198974609375
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 173.1484832763672, 205.66555786132812, 186.9159698486328)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 205.66555786132807
     double_fontsize_int: 20
   items:
   - The trained NRT teams have not been equipped, but the NS has committed to continue
@@ -58,6 +64,8 @@
     total_y: 5542.959869384766
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 480.412109375, 105.5416259765625, 494.5418701171875)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 105.5416259765625
     idx: 411
   sector_title: Shelter, Housing and Settlements
   sector_idx: 331
@@ -77,6 +85,8 @@
     total_y: 5558.079895019531
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 495.7884826660156, 545.2022705078125, 509.55596923828125)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 545.2022705078125
     double_fontsize_int: 20
   - index: 413
     text: 'support all of them due to limited resources. '
@@ -90,6 +100,8 @@
     total_y: 5569.599853515625
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 507.3084411621094, 238.4855499267578, 521.075927734375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 238.4855499267578
     double_fontsize_int: 20
   items:
   - Many of the affected households required permanent shelter support, however the
@@ -106,6 +118,8 @@
     total_y: 8211.939819335938
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 623.8884887695312, 94.48555755615234, 637.6559448242188)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 94.48555755615234
     idx: 621
   sector_title: Livelihoods
   sector_idx: 419
@@ -125,6 +139,8 @@
     total_y: 8228.679809570312
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 640.6284790039062, 545.0743408203125, 654.3959350585938)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 545.0743408203125
     double_fontsize_int: 20
   - index: 623
     text: 'support by the project team. In order to mitigate this, the operation linked
@@ -140,6 +156,8 @@
     total_y: 8240.199829101562
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 652.1484985351562, 545.3900146484375, 665.9159545898438)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 545.3900146484375
     double_fontsize_int: 20
   - index: 624
     text: 'Red Cross structures so that there is continued support.  '
@@ -153,6 +171,8 @@
     total_y: 8251.719848632812
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 663.6685180664062, 294.5455627441406, 677.4359741210938)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 294.5455627441406
     double_fontsize_int: 20
   items:
   - Delayed provision of livestock, beneficiaries received goats towards the end of
@@ -171,6 +191,8 @@
     total_y: 9494.659790039062
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 222.51210021972656, 105.5416259765625, 236.64187622070312)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 105.5416259765625
     idx: 727
   sector_title: Health and Care
   sector_idx: 635
@@ -178,7 +200,7 @@
   content:
   - index: 728
     text: "\u2022"
-    text_base: ''
+    text_base: .nan
     style: 'symbolmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 11
@@ -188,6 +210,8 @@
     total_y: 9520.81982421875
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 249.62619018554688, 64.24880981445312, 261.90167236328125)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 729
     text: 'Competing priorities in the government health sector caused some activities
@@ -203,6 +227,8 @@
     total_y: 9520.81982421875
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 248.9285125732422, 545.1856079101562, 262.69598388671875)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 545.1856079101562
     double_fontsize_int: 20
   - index: 730
     text: 'had to wait for the stakeholders to be available for joint implementation. '
@@ -216,6 +242,8 @@
     total_y: 9532.339782714844
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 260.4484558105469, 395.70556640625, 274.2159423828125)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 395.70556640625
     double_fontsize_int: 20
   items:
   - Competing priorities in the government health sector caused some activities to
@@ -233,6 +261,8 @@
     total_y: 10658.439819335938
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 544.3721313476562, 105.5416259765625, 558.5018920898438)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 105.5416259765625
     idx: 785
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 745
@@ -240,7 +270,7 @@
   content:
   - index: 786
     text: "\u2022"
-    text_base: ''
+    text_base: .nan
     style: 'symbolmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 12
@@ -250,6 +280,8 @@
     total_y: 10685.73974609375
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 572.6261596679688, 64.24880981445312, 584.901611328125)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 787
     text: 'The COVID-19 pandemic led to the suspension of group and interactive activities
@@ -265,10 +297,12 @@
     total_y: 10685.73974609375
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 573.0249633789062, 544.8261108398438, 585.3909301757812)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 544.8261108398438
     double_fontsize_int: 18
   - index: 788
-    text: Total Sanitation, House to house visits and Mass Hygiene promotion due to
-      restrictions introduced by the government
+    text: 'Total Sanitation, House to house visits and Mass Hygiene promotion due
+      to restrictions introduced by the government . '
     text_base: total sanitation house to house visits and mass hygiene promotion due
       to restrictions introduced by the government
     style: 'arialmt, 18, #000000, #ffffff'
@@ -280,23 +314,12 @@
     total_y: 10696.059814453123
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 583.3450317382812, 539.7361450195312, 595.7109985351562)
-    double_fontsize_int: 18
-  - index: 789
-    text: '. '
-    text_base: ''
-    style: 'italicmt, 18, #000000, #ffffff'
-    size: 9.0
-    page_number: 12
-    block_number: 4
-    line_number: 2
-    span_number: 1
-    total_y: 10696.059814453123
-    origin_x: 539.8200073242188
-    bbox: (539.8200073242188, 583.3900146484375, 544.9020385742188, 595.5760498046875)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 544.9020385742188
     double_fontsize_int: 18
   - index: 790
     text: "\u2022"
-    text_base: ''
+    text_base: .nan
     style: 'symbolmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 12
@@ -306,6 +329,8 @@
     total_y: 10708.059814453123
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 594.9462280273438, 64.24880981445312, 607.2216796875)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 791
     text: 'Community mobilization in the face of Covid-19 pandemic was difficult.
@@ -321,6 +346,8 @@
     total_y: 10708.059814453123
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 595.3450317382812, 550.3811645507812, 607.7109985351562)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 550.3811645507812
     double_fontsize_int: 18
   - index: 792
     text: 'of local materials like sand, bricks and water as per agreement with the
@@ -336,6 +363,8 @@
     total_y: 10718.379760742188
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 605.6649780273438, 550.5121459960938, 618.0309448242188)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 550.5121459960938
     double_fontsize_int: 18
   - index: 793
     text: 'difficult because local authorities were barred from assembling people
@@ -351,10 +380,12 @@
     total_y: 10728.759765625
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 616.0449829101562, 461.38201904296875, 628.4109497070312)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 461.3820190429688
     double_fontsize_int: 18
   - index: 794
     text: "\u2022"
-    text_base: ''
+    text_base: .nan
     style: 'symbolmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 12
@@ -364,6 +395,8 @@
     total_y: 10740.699768066406
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 627.586181640625, 64.24880981445312, 639.8616333007812)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 795
     text: 'The WASH component encountered funding constraints which led to the non-implementation
@@ -379,6 +412,8 @@
     total_y: 10740.699768066406
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 627.9849853515625, 550.4832153320312, 640.3509521484375)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 550.4832153320312
     double_fontsize_int: 18
   - index: 796
     text: 'funding flow was inconsistent. This made it difficult to implement smoothly
@@ -394,6 +429,8 @@
     total_y: 10751.019775390623
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 638.3049926757812, 550.438232421875, 650.6709594726562)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 550.438232421875
     double_fontsize_int: 18
   - index: 797
     text: 'time, thereby inconveniencing partner stakeholders.  '
@@ -407,10 +444,12 @@
     total_y: 10761.399780273438
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 648.6849975585938, 288.802001953125, 661.0509643554688)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 288.802001953125
     double_fontsize_int: 18
   - index: 798
     text: "\u2022"
-    text_base: ''
+    text_base: .nan
     style: 'symbolmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 12
@@ -420,6 +459,8 @@
     total_y: 10773.339782714844
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 660.2261962890625, 64.24880981445312, 672.5016479492188)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 799
     text: "The CLTS policy of \u2018\u2018no subsidies to latrine construction\u201D\
@@ -435,6 +476,8 @@
     total_y: 10773.339782714844
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 662.1525268554688, 550.237548828125, 672.2072143554688)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 550.237548828125
     double_fontsize_int: 18
   - index: 800
     text: constructed. We lacked incentives to motivate target families to construct
@@ -450,10 +493,12 @@
     total_y: 10784.679809570312
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 671.9650268554688, 463.28802490234375, 684.3309936523438)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 463.28802490234375
     double_fontsize_int: 18
   - index: 801
     text: '.  '
-    text_base: ''
+    text_base: .nan
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 12
@@ -463,6 +508,8 @@
     total_y: 10784.679809570312
     origin_x: 463.3800048828125
     bbox: (463.3800048828125, 670.8685302734375, 471.74554443359375, 684.635986328125)
+    bbox_x1: 463.3800048828125
+    bbox_x2: 471.74554443359375
     double_fontsize_int: 20
   items:
   - The COVID-19 pandemic led to the suspension of group and interactive activities
@@ -492,6 +539,8 @@
     total_y: 11452.359771728516
     origin_x: 41.880001068115234
     bbox: (41.880001068115234, 496.37213134765625, 105.78163146972656, 510.50189208984375)
+    bbox_x1: 41.880001068115234
+    bbox_x2: 105.78163146972656
     idx: 871
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 745
@@ -499,7 +548,7 @@
   content:
   - index: 872
     text: "\u2022"
-    text_base: ''
+    text_base: .nan
     style: 'symbolmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 13
@@ -509,6 +558,8 @@
     total_y: 11468.259765625
     origin_x: 59.880001068115234
     bbox: (59.880001068115234, 513.2261962890625, 64.48880767822266, 525.5016479492188)
+    bbox_x1: 59.880001068115234
+    bbox_x2: 64.48880767822266
     double_fontsize_int: 20
   - index: 873
     text: 'Borehole drilling encountered a lot of hiccups; breakdown of machinery
@@ -524,6 +575,8 @@
     total_y: 11468.259765625
     origin_x: 77.87999725341797
     bbox: (77.87999725341797, 512.5285034179688, 544.9619140625, 526.2959594726562)
+    bbox_x1: 77.87999725341797
+    bbox_x2: 544.9619140625
     double_fontsize_int: 20
   - index: 874
     text: 'borders especially in Phalombe, difficulty in vehicle mobilization during
@@ -539,6 +592,8 @@
     total_y: 11479.719787597656
     origin_x: 77.87999725341797
     bbox: (77.87999725341797, 523.988525390625, 544.9249877929688, 537.7559814453125)
+    bbox_x1: 77.87999725341797
+    bbox_x2: 544.9249877929688
     double_fontsize_int: 20
   - index: 875
     text: 'impassability and high salinity levels in 2 of the 10 wet boreholes drilled.
@@ -554,6 +609,8 @@
     total_y: 11491.23974609375
     origin_x: 77.87999725341797
     bbox: (77.87999725341797, 535.5084838867188, 545.2079467773438, 549.2759399414062)
+    bbox_x1: 77.87999725341797
+    bbox_x2: 545.2079467773438
     double_fontsize_int: 20
   - index: 876
     text: 'were drilled after the rainy season when the roads had dried up. Through
@@ -569,6 +626,8 @@
     total_y: 11502.699768066406
     origin_x: 77.87999725341797
     bbox: (77.87999725341797, 546.968505859375, 544.841552734375, 560.7359619140625)
+    bbox_x1: 77.87999725341797
+    bbox_x2: 544.841552734375
     double_fontsize_int: 20
   - index: 877
     text: 'together with the communities constructed a strong bridge which enabled
@@ -584,10 +643,12 @@
     total_y: 11514.219787597656
     origin_x: 77.87999725341797
     bbox: (77.87999725341797, 558.488525390625, 536.5455932617188, 572.2559814453125)
+    bbox_x1: 77.87999725341797
+    bbox_x2: 536.5455932617188
     double_fontsize_int: 20
   - index: 878
     text: "\u2022"
-    text_base: ''
+    text_base: .nan
     style: 'symbolmt, 18, #000000, nan'
     size: 9.0
     page_number: 13
@@ -597,6 +658,8 @@
     total_y: 11525.73974609375
     origin_x: 59.880001068115234
     bbox: (59.880001068115234, 571.7316284179688, 64.0196533203125, 582.7575073242188)
+    bbox_x1: 59.880001068115234
+    bbox_x2: 64.0196533203125
     double_fontsize_int: 18
   - index: 879
     text: 'The drilling of eight boreholes and installation of solar powered water
@@ -612,6 +675,8 @@
     total_y: 11525.73974609375
     origin_x: 77.87999725341797
     bbox: (77.87999725341797, 570.0084838867188, 545.1136474609375, 583.7759399414062)
+    bbox_x1: 77.87999725341797
+    bbox_x2: 545.1136474609375
     double_fontsize_int: 20
   - index: 880
     text: funding constraints.
@@ -625,6 +690,8 @@
     total_y: 11537.199768066406
     origin_x: 77.87999725341797
     bbox: (77.87999725341797, 581.468505859375, 164.6331329345703, 595.2359619140625)
+    bbox_x1: 77.87999725341797
+    bbox_x2: 164.6331329345703
     double_fontsize_int: 20
   items:
   - Borehole drilling encountered a lot of hiccups; breakdown of machinery from time
@@ -648,6 +715,8 @@
     total_y: 12120.73974609375
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 322.8321228027344, 105.5416259765625, 336.9618835449219)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 105.5416259765625
     idx: 959
   sector_title: Protection, Gender and Inclusion
   sector_idx: 932
@@ -655,7 +724,7 @@
   content:
   - index: 960
     text: "\u2022"
-    text_base: ''
+    text_base: .nan
     style: 'symbolmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 14
@@ -665,6 +734,8 @@
     total_y: 12148.099731445312
     origin_x: 59.63999938964844
     bbox: (59.63999938964844, 351.1461486816406, 64.24880981445312, 363.421630859375)
+    bbox_x1: 59.63999938964844
+    bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 961
     text: 'There were no dedicated capacity building sessions on PGI for our volunteers,
@@ -680,6 +751,8 @@
     total_y: 12148.099731445312
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 350.4484558105469, 544.912353515625, 364.2159423828125)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 544.912353515625
     double_fontsize_int: 20
   - index: 962
     text: 'component was mainstreamed in the project interventions by staff through
@@ -695,6 +768,8 @@
     total_y: 12159.619750976562
     origin_x: 77.63999938964844
     bbox: (77.63999938964844, 361.9684753417969, 545.1856079101562, 375.7359619140625)
+    bbox_x1: 77.63999938964844
+    bbox_x2: 545.1856079101562
     double_fontsize_int: 20
   items:
   - There were no dedicated capacity building sessions on PGI for our volunteers,
@@ -712,6 +787,8 @@
     total_y: 13530.7197265625
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 48.972129821777344, 105.5416259765625, 63.10189437866211)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 105.5416259765625
     idx: 1088
   sector_title: National Society Strengthening
   sector_idx: 971
@@ -731,6 +808,8 @@
     total_y: 13545.89971923828
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 64.40849304199219, 545.0529174804688, 78.17597198486328)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 545.0529174804688
     double_fontsize_int: 20
   - index: 1090
     text: 'early warning and communication materials. Though some projects are facilitating
@@ -746,6 +825,8 @@
     total_y: 13557.419738769531
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 75.92851257324219, 544.8739013671875, 89.69599151611328)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 544.8739013671875
     double_fontsize_int: 20
   - index: 1091
     text: 'strengthening.  '
@@ -759,6 +840,8 @@
     total_y: 13568.939697265623
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 87.44847106933594, 110.62555694580078, 101.21595001220703)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 110.62555694580078
     double_fontsize_int: 20
   items:
   - There are still capacity gaps in the national society in terms of disaster related

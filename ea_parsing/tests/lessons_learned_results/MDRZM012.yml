@@ -9,16 +9,24 @@
     span_number: 0
     total_y: 15663.959686279297
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 500.38348388671875, 126.6072006225586, 511.5106506347656)
+    bbox:
+    - 41.63999938964844
+    - 500.38348388671875
+    - 126.6072006225586
+    - 511.5106506347656
+    bbox_x1: 41.63999938964844
+    bbox_x2: 126.6072006225586
     idx: 690
   sector_title: Protection, Gender and Inclusion
   sector_idx: 632
   sector_similarity_score: 1.0
   content:
   - index: 691
-    text: "\uF0D8"
-    text_base: .nan
-    style: 'regular, 20, #000000, nan'
+    text: "\uF0D8  Protection, gender, and inclusion issues are important aspects\
+      \ to consider in selecting beneficiaries and "
+    text_base: protection gender and inclusion issues are important aspects to consider
+      in selecting beneficiaries and
+    style: 'regular, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
     block_number: 31
@@ -26,29 +34,20 @@
     span_number: 0
     total_y: 15699.479675292969
     origin_x: 59.63999938964844
-    bbox: (59.63999938964844, 535.9666748046875, 67.55255889892578, 547.0209350585938)
-    double_fontsize_int: 20
-  - index: 692
-    text: ' Protection, gender, and inclusion issues are important aspects to consider
-      in selecting beneficiaries and '
-    text_base: protection gender and inclusion issues are important aspects to consider
-      in selecting beneficiaries and
-    style: 'arialmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 18
-    block_number: 31
-    line_number: 0
-    span_number: 1
-    total_y: 15699.479675292969
-    origin_x: 67.55819702148438
-    bbox: (67.55819702148438, 535.9034423828125, 566.6450805664062, 547.0306396484375)
+    bbox:
+    - 59.63999938964844
+    - 535.9666748046875
+    - 67.55255889892578
+    - 547.0209350585938
+    bbox_x1: 59.63999938964844
+    bbox_x2: 566.6450805664062
     double_fontsize_int: 20
   - index: 693
     text: 'volunteers signing of code of conduct at the beginning of the operation.
       In addition, this operation brought forth '
     text_base: volunteers signing of code of conduct at the beginning of the operation
       in addition this operation brought forth
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
     block_number: 32
@@ -56,14 +55,20 @@
     span_number: 0
     total_y: 15716.640747070312
     origin_x: 77.6376953125
-    bbox: (77.6376953125, 553.0645141601562, 566.6192016601562, 564.1917114257812)
+    bbox:
+    - 77.6376953125
+    - 553.0645141601562
+    - 566.6192016601562
+    - 564.1917114257812
+    bbox_x1: 77.6376953125
+    bbox_x2: 566.6192016601562
     double_fontsize_int: 20
   - index: 694
     text: 'a lesson that public selection and validation of beneficiaries minimizes
       bias and increases chances that the '
     text_base: a lesson that public selection and validation of beneficiaries minimizes
       bias and increases chances that the
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
     block_number: 33
@@ -71,14 +76,20 @@
     span_number: 0
     total_y: 15733.92138671875
     origin_x: 77.6376953125
-    bbox: (77.6376953125, 570.3451538085938, 566.6361694335938, 581.4723510742188)
+    bbox:
+    - 77.6376953125
+    - 570.3451538085938
+    - 566.6361694335938
+    - 581.4723510742188
+    bbox_x1: 77.6376953125
+    bbox_x2: 566.6361694335938
     double_fontsize_int: 20
   - index: 695
     text: 'marginalised populations in communities will be identified and selected
       to benefit from humanitarian assistance.  '
     text_base: marginalised populations in communities will be identified and selected
       to benefit from humanitarian assistance
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
     block_number: 34
@@ -86,12 +97,20 @@
     span_number: 0
     total_y: 15751.201965332031
     origin_x: 77.62774658203125
-    bbox: (77.62774658203125, 587.625732421875, 569.39111328125, 598.7529296875)
+    bbox:
+    - 77.62774658203125
+    - 587.625732421875
+    - 569.39111328125
+    - 598.7529296875
+    bbox_x1: 77.62774658203125
+    bbox_x2: 569.39111328125
     double_fontsize_int: 20
   - index: 696
-    text: "\uF0D8"
-    text_base: .nan
-    style: 'regular, 20, #000000, nan'
+    text: "\uF0D8  Feedback collection mechanisms and ensuring a process of listening\
+      \ to and incorporating insights from all "
+    text_base: feedback collection mechanisms and ensuring a process of listening
+      to and incorporating insights from all
+    style: 'regular, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
     block_number: 35
@@ -99,29 +118,20 @@
     span_number: 0
     total_y: 15768.482543945312
     origin_x: 59.62005615234375
-    bbox: (59.62005615234375, 604.9695434570312, 67.5326156616211, 616.0238037109375)
-    double_fontsize_int: 20
-  - index: 697
-    text: ' Feedback collection mechanisms and ensuring a process of listening to
-      and incorporating insights from all '
-    text_base: feedback collection mechanisms and ensuring a process of listening
-      to and incorporating insights from all
-    style: 'arialmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 18
-    block_number: 35
-    line_number: 0
-    span_number: 1
-    total_y: 15768.482543945312
-    origin_x: 67.53825378417969
-    bbox: (67.53825378417969, 604.9063110351562, 566.5647583007812, 616.0335083007812)
+    bbox:
+    - 59.62005615234375
+    - 604.9695434570312
+    - 67.5326156616211
+    - 616.0238037109375
+    bbox_x1: 59.62005615234375
+    bbox_x2: 566.5647583007812
     double_fontsize_int: 20
   - index: 698
     text: 'types, of feedback, including complaints and compliment, are important
       tools in cash transfer projects.  '
     text_base: types of feedback including complaints and compliment are important
       tools in cash transfer projects
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
     block_number: 36
@@ -129,12 +139,20 @@
     span_number: 0
     total_y: 15785.643615722656
     origin_x: 77.60781860351562
-    bbox: (77.60781860351562, 622.0673828125, 533.3757934570312, 633.194580078125)
+    bbox:
+    - 77.60781860351562
+    - 622.0673828125
+    - 533.3757934570312
+    - 633.194580078125
+    bbox_x1: 77.60781860351562
+    bbox_x2: 533.3757934570312
     double_fontsize_int: 20
   - index: 699
-    text: "\uF0D8"
-    text_base: .nan
-    style: 'regular, 20, #000000, nan'
+    text: "\uF0D8  Multiple modes of feedback are important as they provide opportunities\
+      \ to beneficiaries and non-beneficiaries "
+    text_base: multiple modes of feedback are important as they provide opportunities
+      to beneficiaries and non beneficiaries
+    style: 'regular, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
     block_number: 37
@@ -142,57 +160,60 @@
     span_number: 0
     total_y: 15802.924194335938
     origin_x: 59.610137939453125
-    bbox: (59.610137939453125, 639.4111938476562, 67.52269744873047, 650.4654541015625)
-    double_fontsize_int: 20
-  - index: 700
-    text: ' Multiple modes of feedback are important as they provide opportunities
-      to beneficiaries and non-beneficiaries '
-    text_base: multiple modes of feedback are important as they provide opportunities
-      to beneficiaries and non beneficiaries
-    style: 'arialmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 18
-    block_number: 37
-    line_number: 0
-    span_number: 1
-    total_y: 15802.924194335938
-    origin_x: 67.52833557128906
-    bbox: (67.52833557128906, 639.3479614257812, 566.5972900390625, 650.4751586914062)
+    bbox:
+    - 59.610137939453125
+    - 639.4111938476562
+    - 67.52269744873047
+    - 650.4654541015625
+    bbox_x1: 59.610137939453125
+    bbox_x2: 566.5972900390625
     double_fontsize_int: 20
   - index: 701
     text: 'to take part in improving the project strategies for improved implementation.
       Red Cross actors can also use '
     text_base: to take part in improving the project strategies for improved implementation
       red cross actors can also use
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
     block_number: 38
     line_number: 0
     span_number: 0
-    total_y: 15820.204833984377
+    total_y: 15820.204833984375
     origin_x: 77.597900390625
-    bbox: (77.597900390625, 656.6286010742188, 566.5693969726562, 667.7557983398438)
+    bbox:
+    - 77.597900390625
+    - 656.6286010742188
+    - 566.5693969726562
+    - 667.7557983398438
+    bbox_x1: 77.597900390625
+    bbox_x2: 566.5693969726562
     double_fontsize_int: 20
   - index: 702
     text: 'these different streams of information to triangulate feedback and identify
       the most critical to apply to improving '
     text_base: these different streams of information to triangulate feedback and
       identify the most critical to apply to improving
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
     block_number: 39
     line_number: 0
     span_number: 0
-    total_y: 15837.36590576172
+    total_y: 15837.365905761719
     origin_x: 77.57797241210938
-    bbox: (77.57797241210938, 673.7896728515625, 566.4880981445312, 684.9168701171875)
+    bbox:
+    - 77.57797241210938
+    - 673.7896728515625
+    - 566.4880981445312
+    - 684.9168701171875
+    bbox_x1: 77.57797241210938
+    bbox_x2: 566.4880981445312
     double_fontsize_int: 20
   - index: 703
     text: 'the response.   '
     text_base: the response
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
     block_number: 40
@@ -200,27 +221,33 @@
     span_number: 0
     total_y: 15854.646484375
     origin_x: 77.57797241210938
-    bbox: (77.57797241210938, 691.0702514648438, 146.46961975097656, 702.1974487304688)
+    bbox:
+    - 77.57797241210938
+    - 691.0702514648438
+    - 146.46961975097656
+    - 702.1974487304688
+    bbox_x1: 77.57797241210938
+    bbox_x2: 146.46961975097656
     double_fontsize_int: 20
   items:
-  - Protection, gender, and inclusion issues are important aspects to consider in
-    selecting beneficiaries and volunteers signing of code of conduct at the beginning
-    of the operation. In addition, this operation brought forth a lesson that public
-    selection and validation of beneficiaries minimizes bias and increases chances
-    that the marginalised populations in communities will be identified and selected
-    to benefit from humanitarian assistance.
-  - Feedback collection mechanisms and ensuring a process of listening to and incorporating
-    insights from all types, of feedback, including complaints and compliment, are
-    important tools in cash transfer projects.
-  - Multiple modes of feedback are important as they provide opportunities to beneficiaries
-    and non-beneficiaries to take part in improving the project strategies for improved
-    implementation. Red Cross actors can also use these different streams of information
-    to triangulate feedback and identify the most critical to apply to improving the
-    response.
+  - "\uF0D8  Protection, gender, and inclusion issues are important aspects to consider\
+    \ in selecting beneficiaries and volunteers signing of code of conduct at the\
+    \ beginning of the operation. In addition, this operation brought forth a lesson\
+    \ that public selection and validation of beneficiaries minimizes bias and increases\
+    \ chances that the marginalised populations in communities will be identified\
+    \ and selected to benefit from humanitarian assistance."
+  - "\uF0D8  Feedback collection mechanisms and ensuring a process of listening to\
+    \ and incorporating insights from all types, of feedback, including complaints\
+    \ and compliment, are important tools in cash transfer projects."
+  - "\uF0D8  Multiple modes of feedback are important as they provide opportunities\
+    \ to beneficiaries and non-beneficiaries to take part in improving the project\
+    \ strategies for improved implementation. Red Cross actors can also use these\
+    \ different streams of information to triangulate feedback and identify the most\
+    \ critical to apply to improving the response."
 - title:
     text: 'Lessons Learned '
     text_base: lessons learned
-    style: 'bold, 20, #000000, nan'
+    style: 'bold, 20, #000000, None'
     size: 9.960000038146973
     page_number: 20
     block_number: 6
@@ -228,7 +255,13 @@
     span_number: 0
     total_y: 16950.599670410156
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 103.18348693847656, 126.6072006225586, 114.31067657470703)
+    bbox:
+    - 41.63999938964844
+    - 103.18348693847656
+    - 126.6072006225586
+    - 114.31067657470703
+    bbox_x1: 41.63999938964844
+    bbox_x2: 126.6072006225586
     idx: 762
   sector_title: National Society Strengthening
   sector_idx: 705
@@ -239,7 +272,7 @@
       that coordinated collaboration with all key '
     text_base: through implementation of the emergency appeal operation it was learnt
       that coordinated collaboration with all key
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 20
     block_number: 7
@@ -247,14 +280,20 @@
     span_number: 0
     total_y: 16968.83966064453
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 121.42347717285156, 557.7787475585938, 132.5506591796875)
+    bbox:
+    - 41.63999938964844
+    - 121.42347717285156
+    - 557.7787475585938
+    - 132.5506591796875
+    bbox_x1: 41.63999938964844
+    bbox_x2: 557.7787475585938
     double_fontsize_int: 20
   - index: 764
     text: 'stakeholders is fundamental to effective project implementation to avert
       duplication and misapplication of support. '
     text_base: stakeholders is fundamental to effective project implementation to
       avert duplication and misapplication of support
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 20
     block_number: 8
@@ -262,14 +301,20 @@
     span_number: 0
     total_y: 16985.999633789062
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 138.5834503173828, 557.78564453125, 149.71063232421875)
+    bbox:
+    - 41.63999938964844
+    - 138.5834503173828
+    - 557.78564453125
+    - 149.71063232421875
+    bbox_x1: 41.63999938964844
+    bbox_x2: 557.78564453125
     double_fontsize_int: 20
   - index: 765
     text: 'Additionally, it was learnt that engagement of key stakeholders in the
       project cycle from start to finish is an important '
     text_base: additionally it was learnt that engagement of key stakeholders in the
       project cycle from start to finish is an important
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 20
     block_number: 9
@@ -277,12 +322,18 @@
     span_number: 0
     total_y: 17003.280212402344
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 155.86402893066406, 557.7845458984375, 166.9912109375)
+    bbox:
+    - 41.63999938964844
+    - 155.86402893066406
+    - 557.7845458984375
+    - 166.9912109375
+    bbox_x1: 41.63999938964844
+    bbox_x2: 557.7845458984375
     double_fontsize_int: 20
   - index: 766
     text: 'ingredient to successful project implementation.  '
     text_base: ingredient to successful project implementation
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 20
     block_number: 10
@@ -290,7 +341,13 @@
     span_number: 0
     total_y: 17020.560791015625
     origin_x: 41.63999938964844
-    bbox: (41.63999938964844, 173.1446075439453, 257.88983154296875, 184.27178955078125)
+    bbox:
+    - 41.63999938964844
+    - 173.1446075439453
+    - 257.88983154296875
+    - 184.27178955078125
+    bbox_x1: 41.63999938964844
+    bbox_x2: 257.88983154296875
     double_fontsize_int: 20
   items:
   - Through implementation of the Emergency Appeal operation, it was learnt that coordinated
@@ -307,9 +364,15 @@
     block_number: 32
     line_number: 0
     span_number: 0
-    total_y: 18233.1596069336
+    total_y: 18233.159606933594
     origin_x: 41.880001068115234
-    bbox: (41.880001068115234, 543.8234252929688, 126.84720611572266, 554.9506225585938)
+    bbox:
+    - 41.880001068115234
+    - 543.8234252929688
+    - 126.84720611572266
+    - 554.9506225585938
+    bbox_x1: 41.880001068115234
+    bbox_x2: 126.84720611572266
     idx: 835
   sector_title: Influence others as leading strategic partner
   sector_idx: 805
@@ -320,7 +383,7 @@
       ZRCS worked hand in hand with the Government '
     text_base: stakeholder collaboration is key to project success in this operation
       zrcs worked hand in hand with the government
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 21
     block_number: 33
@@ -328,14 +391,20 @@
     span_number: 0
     total_y: 18251.39959716797
     origin_x: 41.880001068115234
-    bbox: (41.880001068115234, 562.0634155273438, 556.5189208984375, 573.1906127929688)
+    bbox:
+    - 41.880001068115234
+    - 562.0634155273438
+    - 556.5189208984375
+    - 573.1906127929688
+    bbox_x1: 41.880001068115234
+    bbox_x2: 556.5189208984375
     double_fontsize_int: 20
   - index: 837
     text: including structures at community level, this helps in sustainability of
-      the interventions
+      the interventions .
     text_base: including structures at community level this helps in sustainability
       of the interventions
-    style: 'arialmt, 20, #000000, nan'
+    style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 21
     block_number: 34
@@ -343,20 +412,13 @@
     span_number: 0
     total_y: 18268.679626464844
     origin_x: 41.880001068115234
-    bbox: (41.880001068115234, 579.3434448242188, 419.0574035644531, 590.4706420898438)
-    double_fontsize_int: 20
-  - index: 838
-    text: .
-    text_base: .nan
-    style: 'italicmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 21
-    block_number: 34
-    line_number: 0
-    span_number: 1
-    total_y: 18268.679626464844
-    origin_x: 419.1548461914063
-    bbox: (419.15484619140625, 579.3434448242188, 421.92205810546875, 590.4706420898438)
+    bbox:
+    - 41.880001068115234
+    - 579.3434448242188
+    - 419.0574035644531
+    - 590.4706420898438
+    bbox_x1: 41.880001068115234
+    bbox_x2: 421.92205810546875
     double_fontsize_int: 20
   items:
   - Stakeholder collaboration is key to project success, in this operation, ZRCS worked

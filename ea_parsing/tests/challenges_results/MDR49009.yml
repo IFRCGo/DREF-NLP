@@ -10,6 +10,8 @@
     total_y: 6539.229797363281
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 634.292724609375, 97.8328857421875, 648.0076904296875)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 97.8328857421875
     idx: 397
   sector_title: Shelter, Housing and Settlements
   sector_idx: 349
@@ -29,6 +31,8 @@
     total_y: 6553.269836425781
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 648.282958984375, 550.2575073242188, 661.968017578125)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.2575073242188
     double_fontsize_int: 20
   - index: 399
     text: 'Planned activities and interventions were delayed due to lack of space
@@ -44,6 +48,8 @@
     total_y: 6564.6998291015625
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 659.7130126953125, 550.7051391601562, 673.3980102539062)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.7051391601562
     double_fontsize_int: 20
   - index: 400
     text: 'items to/from Barbuda. '
@@ -57,6 +63,8 @@
     total_y: 6576.099792480469
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 671.1129150390625, 145.58888244628906, 684.7979736328125)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 145.58888244628906
     double_fontsize_int: 20
   - index: 401
     text: 'Another challenge was the extremely slow rate of Barbudans returning to
@@ -72,6 +80,8 @@
     total_y: 6598.779846191406
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 693.79296875, 550.9088745117188, 707.47802734375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.9088745117188
     double_fontsize_int: 20
   - index: 402
     text: 'recovery efforts without the community present on the island.  '
@@ -85,6 +95,8 @@
     total_y: 6610.1798095703125
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 705.1929931640625, 316.85888671875, 718.8779907226562)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 316.85888671875
     double_fontsize_int: 20
   items:
   - The movement of people and materials between Antigua and Barbuda was a reoccurring
@@ -105,6 +117,8 @@
     total_y: 8551.219787597656
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 120.52278900146484, 97.8328857421875, 134.2377166748047)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 97.8328857421875
     idx: 588
   sector_title: Livelihoods
   sector_idx: 418
@@ -124,6 +138,8 @@
     total_y: 8565.259765625
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 134.51296997070312, 550.6881103515625, 148.19801330566406)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.6881103515625
     double_fontsize_int: 20
   - index: 590
     text: 'prevented planned cash transfer programme with debit cards. Only in February
@@ -139,6 +155,8 @@
     total_y: 8576.77978515625
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 146.03298950195312, 550.877197265625, 159.71803283691406)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.877197265625
     double_fontsize_int: 20
   - index: 591
     text: 'island for a planned CTP activity for returning households. Therefore,
@@ -154,6 +172,8 @@
     total_y: 8588.2998046875
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 157.55300903320312, 550.7536010742188, 171.23805236816406)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.7536010742188
     double_fontsize_int: 20
   - index: 592
     text: 'bank on Barbuda was critical. Given the size of the operation, ensuring
@@ -169,6 +189,8 @@
     total_y: 8599.819763183594
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 169.07296752929688, 550.4364624023438, 182.7580108642578)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.4364624023438
     double_fontsize_int: 20
   - index: 593
     text: 'critical to the smooth implementation of the support. '
@@ -182,6 +204,8 @@
     total_y: 8611.339782714844
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 180.59298706054688, 273.53887939453125, 194.2780303955078)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 273.53887939453125
     double_fontsize_int: 20
   items:
   - There were no banking facilities on Barbuda at the beginning of the response.
@@ -203,6 +227,8 @@
     total_y: 10400.209716796877
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 285.6727600097656, 97.8328857421875, 299.3876647949219)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 97.8328857421875
     idx: 717
   sector_title: Health and Care
   sector_idx: 601
@@ -222,6 +248,8 @@
     total_y: 10414.48974609375
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 299.9029846191406, 550.8986206054688, 313.5880126953125)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.8986206054688
     double_fontsize_int: 20
   - index: 719
     text: 'tensions and amount of duties of the response phase. The National Society
@@ -237,6 +265,8 @@
     total_y: 10425.889770507812
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 311.3030090332031, 550.4567260742188, 324.988037109375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.4567260742188
     double_fontsize_int: 20
   - index: 720
     text: 'at different phases of the operation to enhance the wellness of its staff
@@ -252,6 +282,8 @@
     total_y: 10437.28973388672
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 322.7029724121094, 428.598876953125, 336.38800048828125)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 428.598876953125
     double_fontsize_int: 20
   items:
   - While the PSS activities were effective, the burnt-out levels of Red Cross staff
@@ -270,6 +302,8 @@
     total_y: 11168.659729003906
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 212.20278930664062, 97.8328857421875, 225.91770935058594)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 97.8328857421875
     idx: 808
   sector_title: Water, Sanitation and Hygiene
   sector_idx: 728
@@ -289,6 +323,8 @@
     total_y: 11182.69970703125
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 226.19296264648438, 550.2276611328125, 239.8780059814453)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 550.2276611328125
     double_fontsize_int: 20
   - index: 810
     text: 'challenge. In addition, the logistics to transport water from Red Cross
@@ -304,6 +340,8 @@
     total_y: 11194.2197265625
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 237.71298217773438, 553.5332641601562, 251.3980255126953)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 553.5332641601562
     double_fontsize_int: 20
   - index: 811
     text: 'Nevertheless, the National Society remained a key partner with the government
@@ -319,6 +357,8 @@
     total_y: 11205.73974609375
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 249.23300170898438, 548.8688354492188, 262.91802978515625)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 548.8688354492188
     double_fontsize_int: 20
   items:
   - Coordination among different agencies (government, Red Cross and other agencies)
@@ -338,6 +378,8 @@
     total_y: 11942.299682617188
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 143.92276000976562, 97.8328857421875, 157.63768005371094)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 97.8328857421875
     idx: 822
   sector_title: Risk Reduction, Climate adaptation and Recovery
   sector_idx: 759
@@ -357,6 +399,8 @@
     total_y: 11956.339721679688
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 157.91299438476562, 552.7380981445312, 171.59803771972656)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 552.7380981445312
     double_fontsize_int: 20
   - index: 824
     text: 'were the last to be implemented.  The activities started in June 2018,
@@ -372,6 +416,8 @@
     total_y: 11967.85968017578
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 169.43295288085938, 553.1888427734375, 183.1179962158203)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 553.1888427734375
     double_fontsize_int: 20
   - index: 825
     text: 'The construction of the branch office in Barbuda (which also serves as
@@ -387,6 +433,8 @@
     total_y: 11990.89971923828
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 192.47299194335938, 553.140380859375, 206.1580352783203)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 553.140380859375
     double_fontsize_int: 20
   - index: 826
     text: 'delays due to the unexpected amount of resources needed to prepare the
@@ -402,6 +450,8 @@
     total_y: 12002.419738769531
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 203.99301147460938, 552.86279296875, 217.6780548095703)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 552.86279296875
     double_fontsize_int: 20
   - index: 827
     text: 'plans were now ready, the construction on site has not started.  The completion
@@ -417,6 +467,8 @@
     total_y: 12013.819702148438
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 215.39297485351562, 552.8566284179688, 229.07801818847656)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 552.8566284179688
     double_fontsize_int: 20
   - index: 828
     text: 'after the end of this operation.  '
@@ -430,6 +482,8 @@
     total_y: 12025.339721679688
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 226.91299438476562, 180.02886962890625, 240.59803771972656)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 180.02886962890625
     double_fontsize_int: 20
   items:
   - Due to hiring delays for the staff responsible for implementing this sector of
@@ -452,6 +506,8 @@
     total_y: 13998.789672851562
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 516.57275390625, 97.8328857421875, 530.2877197265625)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 97.8328857421875
     idx: 1006
   sector_title: National Society Strengthening
   sector_idx: 836
@@ -471,6 +527,8 @@
     total_y: 14013.189697265623
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 530.9229736328125, 549.1917724609375, 544.6080322265625)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 549.1917724609375
     double_fontsize_int: 20
   - index: 1008
     text: 'staff and relied solely on volunteers. Having no dedicated counterparts
@@ -486,6 +544,8 @@
     total_y: 14025.309692382812
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 543.04296875, 549.2813720703125, 556.72802734375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 549.2813720703125
     double_fontsize_int: 20
   - index: 1009
     text: 'planned activities very difficult. As for ABRC, they increased the number
@@ -501,6 +561,8 @@
     total_y: 14037.309692382812
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 555.04296875, 549.20166015625, 568.72802734375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 549.20166015625
     double_fontsize_int: 20
   - index: 1010
     text: 'turnover and accountability were constant issues for the NS and operation. '
@@ -514,6 +576,8 @@
     total_y: 14049.4296875
     origin_x: 41.63999938964844
     bbox: (41.63999938964844, 567.1629638671875, 374.598876953125, 580.8480224609375)
+    bbox_x1: 41.63999938964844
+    bbox_x2: 374.598876953125
     double_fontsize_int: 20
   items:
   - At the start, national society staff support was a significant challenge to the

@@ -9,15 +9,23 @@
     span_number: 0
     total_y: 4129.4599609375
     origin_x: 44.63999938964844
-    bbox: (44.63999938964844, 158.21426391601562, 101.37126159667969, 171.7779541015625)
+    bbox:
+    - 44.63999938964844
+    - 158.21426391601562
+    - 101.37126159667969
+    - 171.7779541015625
+    bbox_x1: 44.63999938964844
+    bbox_x2: 101.37126159667969
     idx: 355
   sector_title: Shelter, Housing and Settlements
   sector_idx: 294
   sector_similarity_score: 1.0
   content:
   - index: 356
-    text: "\u2022"
-    text_base: ''
+    text: "\u2022 The major challenge was on logistics as most of the roads had been\
+      \ destroyed. "
+    text_base: the major challenge was on logistics as most of the roads had been
+      destroyed
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.85989761352539
     page_number: 5
@@ -26,24 +34,16 @@
     span_number: 0
     total_y: 4143.019958496094
     origin_x: 44.63999938964844
-    bbox: (44.63999938964844, 172.406494140625, 49.12958526611328, 184.60845947265625)
-    double_fontsize_int: 20
-  - index: 357
-    text: 'The major challenge was on logistics as most of the roads had been destroyed. '
-    text_base: the major challenge was on logistics as most of the roads had been
-      destroyed
-    style: 'open sans, 20, #000000, #f4f4f4'
-    size: 9.960000038146973
-    page_number: 5
-    block_number: 6
-    line_number: 1
-    span_number: 1
-    total_y: 4143.019958496094
-    origin_x: 58.91999816894531
-    bbox: (58.91999816894531, 171.77426147460938, 428.0572814941406, 185.33795166015625)
+    bbox:
+    - 44.63999938964844
+    - 172.406494140625
+    - 49.12958526611328
+    - 184.60845947265625
+    bbox_x1: 44.63999938964844
+    bbox_x2: 428.0572814941406
     double_fontsize_int: 20
   items:
-  - The major challenge was on logistics as most of the roads had been destroyed.
+  - "\u2022 The major challenge was on logistics as most of the roads had been destroyed. "
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -55,71 +55,64 @@
     span_number: 0
     total_y: 4933.4599609375
     origin_x: 44.63999938964844
-    bbox: (44.63999938964844, 170.09426879882812, 101.37126159667969, 183.657958984375)
+    bbox:
+    - 44.63999938964844
+    - 170.09426879882812
+    - 101.37126159667969
+    - 183.657958984375
+    bbox_x1: 44.63999938964844
+    bbox_x2: 101.37126159667969
     idx: 427
   sector_title: Livelihoods
   sector_idx: 361
   sector_similarity_score: 1.0
   content:
   - index: 428
-    text: "\u2022"
-    text_base: ''
-    style: 'symbolmt, 20, #000000, #f4f4f4'
-    size: 9.85989761352539
-    page_number: 6
-    block_number: 10
-    line_number: 1
-    span_number: 0
-    total_y: 4947.139953613281
-    origin_x: 44.63999938964844
-    bbox: (44.63999938964844, 184.406494140625, 49.12958526611328, 196.60845947265625)
-    double_fontsize_int: 20
-  - index: 429
-    text: 'The major challenge was on logistics as most of the roads had been destroyed. '
+    text: "\u2022 The major challenge was on logistics as most of the roads had been\
+      \ destroyed. "
     text_base: the major challenge was on logistics as most of the roads had been
       destroyed
-    style: 'open sans, 20, #000000, #f4f4f4'
-    size: 9.960000038146973
+    style: 'symbolmt, 20, #000000, #f4f4f4'
+    size: 9.85989761352539
     page_number: 6
     block_number: 10
     line_number: 1
-    span_number: 1
+    span_number: 0
     total_y: 4947.139953613281
-    origin_x: 58.91999816894531
-    bbox: (58.91999816894531, 183.77426147460938, 428.0572814941406, 197.33795166015625)
+    origin_x: 44.63999938964844
+    bbox:
+    - 44.63999938964844
+    - 184.406494140625
+    - 49.12958526611328
+    - 196.60845947265625
+    bbox_x1: 44.63999938964844
+    bbox_x2: 428.0572814941406
     double_fontsize_int: 20
   - index: 430
-    text: "\u2022"
-    text_base: ''
+    text: "\u2022 Destruction of communication infrastructure made it difficult to\
+      \ implement cash-based solutions. "
+    text_base: destruction of communication infrastructure made it difficult to implement
+      cash based solutions
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.85989761352539
     page_number: 6
     block_number: 10
     line_number: 2
     span_number: 0
-    total_y: 4960.819946289063
+    total_y: 4960.8199462890625
     origin_x: 44.63999938964844
-    bbox: (44.63999938964844, 198.08648681640625, 49.12958526611328, 210.2884521484375)
-    double_fontsize_int: 20
-  - index: 431
-    text: 'Destruction of communication infrastructure made it difficult to implement
-      cash-based solutions. '
-    text_base: destruction of communication infrastructure made it difficult to implement
-      cash based solutions
-    style: 'open sans, 20, #000000, #f4f4f4'
-    size: 9.960000038146973
-    page_number: 6
-    block_number: 10
-    line_number: 2
-    span_number: 1
-    total_y: 4960.819946289063
-    origin_x: 58.91999816894531
-    bbox: (58.91999816894531, 197.45425415039062, 514.2472534179688, 211.0179443359375)
+    bbox:
+    - 44.63999938964844
+    - 198.08648681640625
+    - 49.12958526611328
+    - 210.2884521484375
+    bbox_x1: 44.63999938964844
+    bbox_x2: 514.2472534179688
     double_fontsize_int: 20
   items:
-  - The major challenge was on logistics as most of the roads had been destroyed.
-  - Destruction of communication infrastructure made it difficult to implement cash-based
-    solutions.
+  - "\u2022 The major challenge was on logistics as most of the roads had been destroyed."
+  - "\u2022 Destruction of communication infrastructure made it difficult to implement\
+    \ cash-based solutions."
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -131,15 +124,23 @@
     span_number: 0
     total_y: 6025.029968261719
     origin_x: 44.63999938964844
-    bbox: (44.63999938964844, 469.5442810058594, 101.37126159667969, 483.10797119140625)
+    bbox:
+    - 44.63999938964844
+    - 469.5442810058594
+    - 101.37126159667969
+    - 483.10797119140625
+    bbox_x1: 44.63999938964844
+    bbox_x2: 101.37126159667969
     idx: 528
   sector_title: Multi-Purpose Cash
   sector_idx: 438
   sector_similarity_score: 1.0
   content:
   - index: 529
-    text: "\u2022"
-    text_base: ''
+    text: "\u2022 There were connectivity challenges in some of the areas due to the\
+      \ destruction of communication "
+    text_base: there were connectivity challenges in some of the areas due to the
+      destruction of communication
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.85989761352539
     page_number: 7
@@ -148,22 +149,13 @@
     span_number: 0
     total_y: 6038.7099609375
     origin_x: 44.63999938964844
-    bbox: (44.63999938964844, 483.85650634765625, 49.12958526611328, 496.0584716796875)
-    double_fontsize_int: 20
-  - index: 530
-    text: 'There were connectivity challenges in some of the areas due to the destruction
-      of communication '
-    text_base: there were connectivity challenges in some of the areas due to the
-      destruction of communication
-    style: 'open sans, 20, #000000, #f4f4f4'
-    size: 9.960000038146973
-    page_number: 7
-    block_number: 18
-    line_number: 9
-    span_number: 1
-    total_y: 6038.7099609375
-    origin_x: 58.91999816894531
-    bbox: (58.91999816894531, 483.2242736816406, 565.2153930664062, 496.7879638671875)
+    bbox:
+    - 44.63999938964844
+    - 483.85650634765625
+    - 49.12958526611328
+    - 496.0584716796875
+    bbox_x1: 44.63999938964844
+    bbox_x2: 565.2153930664062
     double_fontsize_int: 20
   - index: 531
     text: 'infrastructure by the cyclone. '
@@ -176,11 +168,19 @@
     span_number: 0
     total_y: 6052.269958496094
     origin_x: 58.91999816894531
-    bbox: (58.91999816894531, 496.7842712402344, 197.63726806640625, 510.34796142578125)
+    bbox:
+    - 58.91999816894531
+    - 496.7842712402344
+    - 197.63726806640625
+    - 510.34796142578125
+    bbox_x1: 58.91999816894531
+    bbox_x2: 197.63726806640625
     double_fontsize_int: 20
   - index: 532
-    text: "\u2022"
-    text_base: ''
+    text: "\u2022 Identification particulars still pose a challenge as some of the\
+      \ community members had no IDs because they "
+    text_base: identification particulars still pose a challenge as some of the community
+      members had no ids because they
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.85989761352539
     page_number: 7
@@ -189,22 +189,13 @@
     span_number: 0
     total_y: 6065.949951171875
     origin_x: 44.63999938964844
-    bbox: (44.63999938964844, 511.09649658203125, 49.12958526611328, 523.2984619140625)
-    double_fontsize_int: 20
-  - index: 533
-    text: 'Identification particulars still pose a challenge as some of the community
-      members had no IDs because they '
-    text_base: identification particulars still pose a challenge as some of the community
-      members had no ids because they
-    style: 'open sans, 20, #000000, #f4f4f4'
-    size: 9.960000038146973
-    page_number: 7
-    block_number: 20
-    line_number: 0
-    span_number: 1
-    total_y: 6065.949951171875
-    origin_x: 58.91999816894531
-    bbox: (58.91999816894531, 510.4642639160156, 565.1907958984375, 524.0279541015625)
+    bbox:
+    - 44.63999938964844
+    - 511.09649658203125
+    - 49.12958526611328
+    - 523.2984619140625
+    bbox_x1: 44.63999938964844
+    bbox_x2: 565.1907958984375
     double_fontsize_int: 20
   - index: 534
     text: 'had been destroyed in the floods, or they had not been issued with one. '
@@ -217,14 +208,20 @@
     span_number: 0
     total_y: 6079.509948730469
     origin_x: 58.91999816894531
-    bbox: (58.91999816894531, 524.0242309570312, 396.7372741699219, 537.5879516601562)
+    bbox:
+    - 58.91999816894531
+    - 524.0242309570312
+    - 396.7372741699219
+    - 537.5879516601562
+    bbox_x1: 58.91999816894531
+    bbox_x2: 396.7372741699219
     double_fontsize_int: 20
   items:
-  - There were connectivity challenges in some of the areas due to the destruction
-    of communication infrastructure by the cyclone.
-  - Identification particulars still pose a challenge as some of the community members
-    had no IDs because they had been destroyed in the floods, or they had not been
-    issued with one.
+  - "\u2022 There were connectivity challenges in some of the areas due to the destruction\
+    \ of communication infrastructure by the cyclone."
+  - "\u2022 Identification particulars still pose a challenge as some of the community\
+    \ members had no IDs because they had been destroyed in the floods, or they had\
+    \ not been issued with one."
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -236,15 +233,23 @@
     span_number: 0
     total_y: 6916.779968261719
     origin_x: 44.63999938964844
-    bbox: (44.63999938964844, 569.1742553710938, 101.37126159667969, 582.7379760742188)
+    bbox:
+    - 44.63999938964844
+    - 569.1742553710938
+    - 101.37126159667969
+    - 582.7379760742188
+    bbox_x1: 44.63999938964844
+    bbox_x2: 101.37126159667969
     idx: 616
   sector_title: Health and Care
   sector_idx: 542
   sector_similarity_score: 1.0
   content:
   - index: 617
-    text: "\u2022"
-    text_base: ''
+    text: "\u2022 The health needs for the affected populations were very high leading\
+      \ to high demand against supply. The "
+    text_base: the health needs for the affected populations were very high leading
+      to high demand against supply the
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.85989761352539
     page_number: 8
@@ -253,22 +258,13 @@
     span_number: 0
     total_y: 6930.4599609375
     origin_x: 44.63999938964844
-    bbox: (44.63999938964844, 583.4865112304688, 49.12958526611328, 595.6884765625)
-    double_fontsize_int: 20
-  - index: 618
-    text: 'The health needs for the affected populations were very high leading to
-      high demand against supply. The '
-    text_base: the health needs for the affected populations were very high leading
-      to high demand against supply the
-    style: 'open sans, 20, #000000, #f4f4f4'
-    size: 9.960000038146973
-    page_number: 8
-    block_number: 23
-    line_number: 1
-    span_number: 1
-    total_y: 6930.4599609375
-    origin_x: 58.91999816894531
-    bbox: (58.91999816894531, 582.854248046875, 564.7161254882812, 596.41796875)
+    bbox:
+    - 44.63999938964844
+    - 583.4865112304688
+    - 49.12958526611328
+    - 595.6884765625
+    bbox_x1: 44.63999938964844
+    bbox_x2: 564.7161254882812
     double_fontsize_int: 20
   - index: 619
     text: 'deficit created made distribution processes very difficult as several deserving
@@ -283,9 +279,15 @@
     span_number: 0
     total_y: 6944.019958496094
     origin_x: 58.91999816894531
-    bbox: (58.91999816894531, 596.4142456054688, 540.6472778320312, 609.9779663085938)
+    bbox:
+    - 58.91999816894531
+    - 596.4142456054688
+    - 540.6472778320312
+    - 609.9779663085938
+    bbox_x1: 58.91999816894531
+    bbox_x2: 540.6472778320312
     double_fontsize_int: 20
   items:
-  - The health needs for the affected populations were very high leading to high demand
-    against supply. The deficit created made distribution processes very difficult
-    as several deserving households were left out.
+  - "\u2022 The health needs for the affected populations were very high leading to\
+    \ high demand against supply. The deficit created made distribution processes\
+    \ very difficult as several deserving households were left out."

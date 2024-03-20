@@ -271,6 +271,11 @@ class AppealDocument:
 
         lines = self.raw_lines.copy()
 
+        # Merge inline texts
+        lines = lines.merge_inline_text(
+            exclude_texts=ChallengesLessonsLearnedExtractor().title_texts()
+        )
+
         # Sort lines by y of blocks
         lines = lines.sort_blocks_by_y()
 
