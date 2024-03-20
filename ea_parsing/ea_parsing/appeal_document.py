@@ -299,6 +299,9 @@ class AppealDocument:
         # Remove reference numbers
         lines = self.remove_reference_labels(lines=lines)
 
+        # Remove date superscript (th, st, etc)
+        lines = self.remove_date_superscripts(lines=lines)
+
         return lines
 
     def remove_photo_blocks(self, lines):
@@ -466,6 +469,19 @@ class AppealDocument:
         lines = lines.loc[~(
             (lines['size'] <= 7) &
             (lines['text_base'].astype(str).str.isdigit())
+        )]
+
+        return lines
+
+    def remove_date_superscripts(self, lines):
+        """
+        Remove the small reference labels that are in text.
+        Remove based on fontsize.
+        """
+        date_superscripts = ['th', 'st', 'nd']
+        lines = lines.loc[~(
+            (lines['size'] <= 7) &
+            (lines['text_base'].astype(str).str.strip().isin(date_superscripts))
         )]
 
         return lines
