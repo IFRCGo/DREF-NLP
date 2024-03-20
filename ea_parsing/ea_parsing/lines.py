@@ -337,7 +337,7 @@ class Lines(pd.DataFrame):
         """
         Convert the Lines object to a list or dict of text.
         """
-        lines = self.copy()
+        lines = self.copy().set_index('index')
         if len(lines) <= 1:
             return lines['text'].tolist()
 
