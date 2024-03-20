@@ -359,18 +359,6 @@ class Lines(pd.DataFrame):
         ] = True
 
         # Get the approximate size of the first word
-        lines['bbox_x1'] = lines['bbox'].apply(
-            lambda bbox:
-                literal_eval(bbox)[0]
-                if type(bbox) is str
-                else bbox[0]
-        )
-        lines['bbox_x2'] = lines['bbox'].apply(
-            lambda bbox:
-                literal_eval(bbox)[2]
-                if type(bbox) is str
-                else bbox[2]
-        )
         lines['end_gap'] = lines['bbox_x2'].max() - lines['bbox_x2']
         lines['first_word_size'] = lines.apply(
             lambda row:

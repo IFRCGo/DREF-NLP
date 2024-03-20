@@ -248,6 +248,10 @@ class AppealDocument:
                         span['origin_y'] = span['origin'][1]
                         span['total_y'] = span['origin'][1]+total_y
                         span['img'] = bool(contains_images)
+                        span['bbox_x1'] = span['bbox'][0]
+                        span['bbox_y1'] = span['bbox'][1]
+                        span['bbox_x2'] = span['bbox'][2]
+                        span['bbox_y2'] = span['bbox'][3]
                         data.append(span)
 
             total_y += page_layout.rect.height
