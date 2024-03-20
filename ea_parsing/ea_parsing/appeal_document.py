@@ -510,8 +510,7 @@ class AppealDocument:
 
         return sector_titles
 
-    @cached_property
-    def lessons_learned(self):
+    def get_challenges_lessons_learned(self, section_type):
         """
         Extract lessons learned from the document.
         """
@@ -519,39 +518,35 @@ class AppealDocument:
             return None
 
         # Extrac the lessons learned lines
-        extractor = ChallengesLessonsLearnedExtractor(section_type='lessons_learned')
-        lessons_learned = extractor.get_sections(
+        extractor = ChallengesLessonsLearnedExtractor(section_type=section_type)
+        sections = extractor.get_sections(
             document=self
         )
 
         # Process the lines into text
-        for section in lessons_learned:
+        for section in sections:
             if section['content']:
-                section['items'] = Lines(section['content']).set_index('index').to_items()
+                section_lines = Lines(section['content'])
+                section['items'] = section_lines.to_items()
             else:
                 section['items'] = []
 
-        return lessons_learned
+        return sections
+
+    @cached_property
+    def lessons_learned(self):
+        """
+        Extract lessons learned from the document.
+        """
+        return self.get_challenges_lessons_learned(
+            section_type='lessons_learned'
+        )
 
     @cached_property
     def challenges(self):
         """
-        Extract lessons learned from the document.
+        Extract challenges from the document.
         """
-        if self.lines is None:
-            return None
-
-        # Extrac the challenges lines
-        extractor = ChallengesLessonsLearnedExtractor(section_type='challenges')
-        challenges = extractor.get_sections(
-            document=self
+        return self.get_challenges_lessons_learned(
+            section_type='challenges'
         )
-
-        # Process the lines into text
-        for section in challenges:
-            if section['content']:
-                section['items'] = Lines(section['content']).set_index('index').to_items()
-            else:
-                section['items'] = []
-
-        return challenges
