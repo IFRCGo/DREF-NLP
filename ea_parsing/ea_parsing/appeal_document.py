@@ -542,7 +542,7 @@ class AppealDocument:
         # Process the lines into text
         for section in sections:
             if section['content']:
-                section_lines = Lines(section['content'])
+                section_lines = Lines(section['content']).set_index('index')
                 section['items'] = section_lines.to_items()
             else:
                 section['items'] = []
