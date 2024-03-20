@@ -255,7 +255,8 @@ class Lines(pd.DataFrame):
             'na',
             'n a',
             'none',
-            'not applicable'
+            'not applicable',
+            'no significant details to report'
         ]
         text_content = ' '.join(self['text_base'].astype(str).tolist()).strip()
         if (not text_content) or (text_content in nothing_texts):
