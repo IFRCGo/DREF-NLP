@@ -8,18 +8,19 @@ from ea_parsing.utils import generate_sentence_variations
 
 
 class ChallengesLessonsLearnedExtractor:
-    def __init__(self, section_type):
+    def __init__(self, section_type=None):
         """
         Extract sections in the Emergency Appeal document based on title texts, and associate with a sector.
         Only works for "Challenges" or "Lessons Learned".
         """
         # Check that section_type is "challenges" or "lessons_learned"
-        self.section_type = str(section_type).lower().strip()
-        if section_type not in ['challenges', 'lessons_learned']:
-            raise ValueError("'section_type' must be 'challenges' or 'lessons_learned'")
+        if section_type is not None:
+            self.section_type = str(section_type).lower().strip()
+            if section_type not in ['challenges', 'lessons_learned']:
+                raise ValueError("'section_type' must be 'challenges' or 'lessons_learned'")
 
     @cached_property
-    def title_texts(self):
+    def _title_texts_dict(self):
         """
         Get the title texts, including abbreviations.
         """
@@ -38,6 +39,18 @@ class ChallengesLessonsLearnedExtractor:
 
         return title_texts
 
+    def title_texts(self, section_type=None):
+        """
+        Return a list of lessons learned title texts and challenges title texts, without repititions.
+        """
+        if section_type is None:
+            return list(set(
+                self._title_texts_dict['lessons_learned'] +
+                self._title_texts_dict['challenges']
+            ))
+        else:
+            return self._title_texts_dict[section_type]
+
     @cached_property
     def section_titles(self):
         """
@@ -47,7 +60,7 @@ class ChallengesLessonsLearnedExtractor:
             self.document.titles['text_base']
                 .str.replace(r'[^A-Za-z ]+', ' ', regex=True)
                 .str.strip()
-                .isin(self.title_texts[self.section_type])
+                .isin(self.title_texts(self.section_type))
         ]
         return section_titles
 
@@ -392,10 +405,7 @@ class ChallengesLessonsLearnedExtractor:
             self.document.titles['text_base']
                 .str.replace(r'[^A-Za-z ]+', ' ', regex=True)
                 .str.strip()
-                .isin(
-                    self.title_texts['lessons_learned'] +
-                    self.title_texts['challenges']
-                )
+                .isin(self.title_texts())
         ]
         lessons_learned_challenges_titles_after_section = lessons_learned_challenges_titles.drop(title.name).loc[
             lessons_learned_challenges_titles['total_y'] > title['total_y']
