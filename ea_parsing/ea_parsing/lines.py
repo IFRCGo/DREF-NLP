@@ -163,7 +163,7 @@ class Lines(pd.DataFrame):
         lines['text'] = lines\
             .groupby(['page_number', 'block_number', 'line_number', 'style'])['text']\
             .transform(lambda x: ' '.join([txt for txt in x if txt == txt]))
-        lines = lines.drop_duplicates(subset=['page_number', 'block_number', 'line_number', 'style'])
+        lines = lines.drop_duplicates(subset=['page_number', 'block_number', 'line_number', 'style', 'text'])
 
         return lines
 
