@@ -44,9 +44,6 @@ class TestResults(unittest.TestCase):
     def compare_validated_results(self, validated_results_files, type_):
         """
         """
-        mdr_done = [item for item in validated_results_files if 'MDRSN007' in item][0]
-        validated_results_files = validated_results_files[validated_results_files.index(mdr_done):]
-
         # Read in the results from yaml files
         for i, path in enumerate(validated_results_files):
 
@@ -88,33 +85,37 @@ class TestResults(unittest.TestCase):
                     f"Different number of sections for MDR code: {mdr_code}"
                 )
 
-                # Loop through section results to compare
+                # Compare section titles
+                results_titles = [x['title']['text'] for x in results]
+                validated_titles = [x['title']['text'] for x in validated_results]
+                self.assertListEqual(
+                    results_titles,
+                    validated_titles,
+                    f"""
+                    Different titles for MDR code: {mdr_code}
+
+                    Results: {results_titles}
+                    Validated results: {validated_titles}
+                    """
+                )
+
+                # Compare section sectors
+                results_sectors = [x['sector_title'] for x in results]
+                validated_sectors = [x['sector_title'] for x in validated_results]
+                self.assertListEqual(
+                    results_sectors,
+                    validated_sectors,
+                    f"""
+                    Different sector titles for MDR code: {mdr_code}
+
+                    Results: {results_sectors}
+                    Validated results: {validated_sectors}
+                    """
+                )
+
+                # Loop through section results to compare excerpts
                 for i, result in enumerate(results):
                     validated_result = validated_results[i]
-
-                    # Compare section title
-                    self.assertEqual(
-                        result['title']['text'],
-                        validated_result['title']['text'],
-                        f"""
-                        Different titles for MDR code: {mdr_code}
-
-                        Results: {result['title']}
-                        Validated results: {validated_result['title']}
-                        """
-                    )
-
-                    # Compare sector
-                    self.assertEqual(
-                        result['sector_title'],
-                        validated_result['sector_title'],
-                        f"""
-                        Different sector titles for MDR code: {mdr_code}
-
-                        Results: {result['sector_title']}
-                        Validated results: {validated_result['sector_title']}
-                        """
-                    )
 
                     # Compare section items - "excerpts"
                     self.assertListEqual(
