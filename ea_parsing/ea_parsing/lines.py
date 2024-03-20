@@ -220,6 +220,12 @@ class Lines(pd.DataFrame):
         if len(lines) == 1 and lines.iloc[0]['text_base'].isdigit():
             return True
 
+        # If only contains "page" and number, assume page label
+        combined_text_chars = ' '.join(lines_with_chars['text_base'].dropna().to_list())
+        combined_text_chars_no_numbers = re.sub(r'[0-9]', '', combined_text_chars)
+        if not combined_text_chars_no_numbers.replace('page', '').strip():
+            return True
+
         return False
 
     def is_reference(self):
