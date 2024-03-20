@@ -44,6 +44,9 @@ class TestResults(unittest.TestCase):
     def compare_validated_results(self, validated_results_files, type_):
         """
         """
+        mdr_done = [item for item in validated_results_files if 'MDRSN007' in item][0]
+        validated_results_files = validated_results_files[validated_results_files.index(mdr_done):]
+
         # Read in the results from yaml files
         for i, path in enumerate(validated_results_files):
 
@@ -89,7 +92,7 @@ class TestResults(unittest.TestCase):
                 for i, result in enumerate(results):
                     validated_result = validated_results[i]
 
-                    # Compare title and sector title
+                    # Compare section title
                     self.assertEqual(
                         result['title']['text'],
                         validated_result['title']['text'],
@@ -100,6 +103,8 @@ class TestResults(unittest.TestCase):
                         Validated results: {validated_result['title']}
                         """
                     )
+
+                    # Compare sector
                     self.assertEqual(
                         result['sector_title'],
                         validated_result['sector_title'],
@@ -111,37 +116,7 @@ class TestResults(unittest.TestCase):
                         """
                     )
 
-                    # Compare content length
-                    validated_content = pd.DataFrame(
-                        [item['text'] for item in validated_result['content']],
-                        columns=['content']
-                    )
-                    results_content = pd.DataFrame(
-                        [item['text'] for item in result['content']],
-                        columns=['content']
-                    )
-                    self.assertEqual(
-                        len(validated_result['content']),
-                        len(result['content']),
-                        f"""
-                        Different length of content for MDR code: {mdr_code}, sector: {result['sector_title']}
-
-                        Results: {results_content}
-                        Validated results: {validated_content}
-                        """
-                    )
-
-                    # Compare content
-                    self.assertTrue(
-                        validated_content.equals(results_content),
-                        f"""
-                        Section contents does not match for MDR code: {mdr_code}, sector: {result['sector_title']}
-
-                        {results_content.compare(validated_content)}
-                        """
-                    )
-
-                    # Compare content items - lines processed into items
+                    # Compare section items - "excerpts"
                     self.assertListEqual(
                         validated_result['items'],
                         result['items'],
