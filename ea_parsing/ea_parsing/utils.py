@@ -1,5 +1,6 @@
 import re
 import itertools
+import ea_parsing.definitions
 
 
 def phrase_in_sentence(phrase, sentence):
@@ -91,6 +92,79 @@ def strip_filler_words(text):
     filler_words = ['and', 'the', 'to', 'for', 'in', 'a', 'in']
     text_without_fillers = replace_phrases_in_sentence(filler_words, '', text).strip()
     return text_without_fillers
+
+
+def is_bulleted(text, end=False):
+    """
+    Check whether the text is a bullet point, i.e. it starts with a bullet point or other format ("a)", "a.", etc.)
+
+    Parameters
+    ----------
+    text : string (required)
+        Text to check.
+
+    end : bool (default=False)
+        If True, force pattern end. I.e. will only return True if the whole text is a bullet point.
+    """
+    text = text.strip()
+
+    # First character is a bullet point character
+    pattern = r'('+r'|'.join(ea_parsing.definitions.BULLETS)+r')'
+    pattern += '$' if end else r'\s'
+    if re.match(pattern, text):
+        return True
+
+    close_bracket_or_point = r'(\)|\.)'
+
+    # Text matches the format: 1), 1.
+    pattern = r'^[1-9]' + close_bracket_or_point
+    pattern += '$' if end else r'\s'
+    if re.match(pattern, text):
+        return True
+
+    # Text matches the format: a), a.
+    pattern = r'^[a-zA-Z]' + close_bracket_or_point
+    pattern += '$' if end else r'\s'
+    if re.match(pattern, text):
+        return True
+
+    # Text matches the format: i) ii) ... xx)
+    regex_roman_numerals = r'^(X{0,3})(IX|IV|V?I{0,3})'
+    pattern = regex_roman_numerals + close_bracket_or_point
+    pattern += '$' if end else r'\s'
+    if re.match(pattern, text, re.IGNORECASE):
+        return True
+
+    return False
+
+
+def is_bullet(text):
+    """
+    Check whether the text is a bullet point (with no text following).
+    """
+    return is_bulleted(text=text, end=True)
+
+
+def remove_bullet(text):
+    """
+    Remove bullet characters from the beginning of the text.
+    """
+    text = text.strip()
+
+    # Remove bullet point
+    if text[0] in ea_parsing.definitions.BULLETS:
+        return text[1:]
+
+    # Remove 1), 1.
+    text = re.sub(r'^[1-9](\)|\.)\s', '', text)
+    
+    # Remove a), a.
+    text = re.sub(r'^[a-zA-Z](\)|\.)\s', '', str(text)).strip()
+
+    # Remove i, ii, etc.
+    text = re.sub(r'^(X{0,3})(IX|IV|V?I{0,3})(\)|\.)\s', '', str(text)).strip()
+
+    return text
 
 
 def tidy_sentence(text):

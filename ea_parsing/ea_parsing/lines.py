@@ -4,7 +4,7 @@ import re
 from functools import cached_property
 import pandas as pd
 import ea_parsing.definitions
-from ea_parsing.utils import is_text_title, strip_non_alphanumeric, tidy_sentence
+from ea_parsing.utils import is_text_title, strip_non_alphanumeric, tidy_sentence, is_bulleted, is_bullet, remove_bullet
 
 
 class Line(pd.Series):
@@ -78,8 +78,8 @@ class Line(pd.Series):
         Consider sentence start if the first letter is uppercase.
         Account for letters as bullet items, e.g. a), b., etc.
         """
-        alphanumeric = re.sub(r'^[a-zA-Z](\)|\.)\s', '', str(self['text'])).strip()
-        alphanumeric = re.sub(r'[^A-Za-z0-9 ]+', ' ', alphanumeric).strip()
+        text = remove_bullet(self.copy()['text'])
+        alphanumeric = re.sub(r'[^A-Za-z0-9 ]+', ' ', text).strip()
         if alphanumeric:
             first_char = alphanumeric[0]
             if first_char.isalpha():
@@ -87,6 +87,10 @@ class Line(pd.Series):
                     return True
                 else:
                     return False
+            else:
+                return
+
+        return False
 
 
 class Lines(pd.DataFrame):
@@ -382,28 +386,14 @@ class Lines(pd.DataFrame):
         if len(lines) > 1:
 
             # Get which lines start with a bullet
-            lines['bullet'] = False
-            lines.loc[
-                (lines['text'].str.strip().isin(ea_parsing.definitions.BULLETS)) &
-                (lines['span_number'] == 0),
-                'bullet'
-            ] = True
             lines['bullet_start'] = False
-            lines.loc[
-                (lines['total_y'] == lines['total_y'].shift(1).fillna(-1)) &
-                lines['bullet'].shift(1).fillna(False),
-                'bullet_start'
-            ] = True
-            lines.loc[
-                (
-                    (lines['text'].str.strip().str[0].isin(ea_parsing.definitions.BULLETS)) |
-                    lines['text'].str.strip().apply(
-                        lambda txt: bool(re.match(r'^[a-zA-Z](\)|\.)\s', txt))
-                    )
-                ) &
-                (lines['span_number'] == 0),
-                'bullet_start'
-            ] = True
+            lines.loc[lines.is_bullet_start(), 'bullet_start'] = True
+
+            # Remove bullet points from the text
+            lines = lines.loc[~(
+                lines['text'].str.strip().apply(is_bullet) &
+                (lines['span_number'] == 0)
+            )]
 
             # Get the approximate size of the first word
             lines['end_gap'] = lines['bbox_x2'].max() - lines['bbox_x2']
@@ -415,26 +405,18 @@ class Lines(pd.DataFrame):
             )
 
             # Get sentence end and sentence start
-            lines = lines.loc[~lines['bullet']]
-            lines['sentence_end'] = lines.apply(
-                lambda row:
-                    row.is_sentence_end(),
-                axis=1
-            )
-            lines['sentence_start'] = lines.apply(
-                lambda row:
-                    row.is_sentence_start(),
-                axis=1
-            )
+            lines['sentence_start'] = lines.apply(lambda row: row.is_sentence_start(), axis=1)
+            lines['sentence_end'] = lines.apply(lambda row: row.is_sentence_end(), axis=1)
 
-            # Item start: line starts with a bullet point
-            lines['starts_with_bullet'] = False
+            # Get whether or not the sentence is the start of a new "item"
+            # # 1. line starts with a bullet point
+            lines['sentence_start_with_bullet'] = False
             lines.loc[
                 lines['sentence_start'].fillna(True) & lines['bullet_start'],
-                'starts_with_bullet'
+                'sentence_start_with_bullet'
             ] = True
 
-            # Item start: previous line is short
+            # # 2. previous line is short
             line_enders = [':']
             lines['previous_line_ends_short'] = False
             lines.loc[
@@ -449,7 +431,7 @@ class Lines(pd.DataFrame):
                 'previous_line_ends_short'
             ] = True
 
-            # Item start: significant vertical gap
+            # # 3. significant vertical gap
             line_spacing_min = (lines['total_y'] - lines['total_y'].shift(1)).min()
             lines['vertical_gap'] = False
             lines.loc[
@@ -464,7 +446,7 @@ class Lines(pd.DataFrame):
 
             # New group is when the item starts and the previous item ends
             lines['item_start'] = lines[[
-                'starts_with_bullet', 'previous_line_ends_short', 'vertical_gap'
+                'sentence_start_with_bullet', 'previous_line_ends_short', 'vertical_gap'
             ]].any(axis=1)
             lines['item_no'] = lines['item_start'].cumsum()
 
@@ -482,3 +464,28 @@ class Lines(pd.DataFrame):
         ]
 
         return items
+
+    def is_bullet_start(self):
+        """
+        Check whether each row in a dataframe is the start of a bullet point.
+        I.e. it is a bullet point itself, or is following a bullet point on the same level.
+        """
+        lines = self.copy()
+        lines['bullet_start'] = False
+
+        # The row is a bullet start if it meets a bullet format (i.e. bullet point character, "a)", "a.", etc.)
+        lines.loc[
+            lines['text'].str.strip().apply(is_bulleted) &
+            (lines['span_number'] == 0),
+            'bullet_start'
+        ] = True
+
+        # The row is a bullet start if the previous row is a bullet, and is on the same level
+        lines['bullet'] = lines['text'].str.strip().apply(is_bullet)
+        lines.loc[
+            (lines['total_y'] == lines['total_y'].shift(1).fillna(-1)) &
+            lines['bullet'].shift(1).fillna(False),
+            'bullet_start'
+        ] = True
+
+        return lines['bullet_start']
