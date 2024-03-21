@@ -1,175 +1,22 @@
 - title:
     text: 'Challenges '
     text_base: challenges
-    style: 'bold, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 5
-    block_number: 15
-    line_number: 28
-    span_number: 0
-    total_y: 4796.109924316406
-    origin_x: 48.959999084472656
-    bbox: (48.959999084472656, 575.852783203125, 104.98500061035156, 589.5677490234375)
     idx: 372
   sector_title: Food insecurity and nutrition
-  sector_idx: 232
-  sector_similarity_score: 1.0
-  content:
-  - index: 373
-    text: '1. Most of the targeted villages are in rural and mountainous parts of Lesotho. These are areas characterized '
-    text_base: 1 most of the targeted villages are in rural and mountainous parts of lesotho these are areas characterized
-    style: 'arialmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 5
-    block_number: 17
-    line_number: 0
-    span_number: 0
-    total_y: 4819.14990234375
-    origin_x: 56.040000915527344
-    bbox: (56.040000915527344, 598.843017578125, 555.9488525390625, 612.5280151367188)
-    double_fontsize_int: 20
-  - index: 374
-    text: 'by poor and damaged roads, sharp topography and bad weather conditions. This therefore posed a challenge '
-    text_base: by poor and damaged roads sharp topography and bad weather conditions this therefore posed a challenge
-    style: 'arialmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 5
-    block_number: 18
-    line_number: 0
-    span_number: 0
-    total_y: 4832.349914550781
-    origin_x: 74.06400299072266
-    bbox: (74.06400299072266, 612.04296875, 555.7772216796875, 625.72802734375)
-    double_fontsize_int: 20
-  - index: 375
-    text: 'in terms of delivery of food items resulting in delays in most cases.  '
-    text_base: in terms of delivery of food items resulting in delays in most cases
-    style: 'arialmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 5
-    block_number: 18
-    line_number: 1
-    span_number: 0
-    total_y: 4845.549865722656
-    origin_x: 74.06400299072266
-    bbox: (74.06400299072266, 625.242919921875, 373.1589050292969, 638.927978515625)
-    double_fontsize_int: 20
-  - index: 376
-    text: '2. The Post distribution monitoring and complaints mechanism was insufficient for effective follow up on '
-    text_base: 2 the post distribution monitoring and complaints mechanism was insufficient for effective follow up on
-    style: 'arialmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 5
-    block_number: 19
-    line_number: 0
-    span_number: 0
-    total_y: 4858.749877929688
-    origin_x: 56.040000915527344
-    bbox: (56.040000915527344, 638.4429931640625, 554.7437744140625, 652.1279907226562)
-    double_fontsize_int: 20
-  - index: 377
-    text: 'problems / issues with Cash. '
-    text_base: problems issues with cash
-    style: 'arialmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 5
-    block_number: 20
-    line_number: 0
-    span_number: 0
-    total_y: 4871.979919433594
-    origin_x: 74.06400299072266
-    bbox: (74.06400299072266, 651.6729736328125, 204.1788787841797, 665.3580322265625)
-    double_fontsize_int: 20
   items:
-  - 1. Most of the targeted villages are in rural and mountainous parts of Lesotho. These are areas characterized by poor and damaged roads, sharp topography and bad weather conditions. This therefore posed a challenge in terms of delivery of food items resulting in delays in most cases.
-  - 2. The Post distribution monitoring and complaints mechanism was insufficient for effective follow up on problems / issues with Cash.
+  - Most of the targeted villages are in rural and mountainous parts of Lesotho. These are areas characterized by poor and damaged roads, sharp topography and bad weather conditions. This therefore posed a challenge in terms of delivery of food items resulting in delays in most cases.
+  - The Post distribution monitoring and complaints mechanism was insufficient for effective follow up on problems / issues with Cash.
 - title:
     text: 'Challenges  '
     text_base: challenges
-    style: 'bold, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 6
-    block_number: 31
-    line_number: 14
-    span_number: 0
-    total_y: 5726.619873046875
-    origin_x: 48.959999084472656
-    bbox: (48.959999084472656, 664.4427490234375, 107.90888214111328, 678.15771484375)
     idx: 446
   sector_title: Water, Sanitation and Hygiene
-  sector_idx: 393
-  sector_similarity_score: 1.0
-  content:
-  - index: 447
-    text: '1. Retaining skilled volunteers remains a major challenge and this affected especially the WASH activities which '
-    text_base: 1 retaining skilled volunteers remains a major challenge and this affected especially the wash activities which
-    style: 'arialmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 6
-    block_number: 31
-    line_number: 15
-    span_number: 0
-    total_y: 5738.139892578125
-    origin_x: 47.040000915527344
-    bbox: (47.040000915527344, 675.9129638671875, 555.7452392578125, 689.5980224609375)
-    double_fontsize_int: 20
-  - index: 448
-    text: 'relied on the volunteers for dissemination of information to the community members.  '
-    text_base: relied on the volunteers for dissemination of information to the community members
-    style: 'arialmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 6
-    block_number: 32
-    line_number: 0
-    span_number: 0
-    total_y: 5751.33984375
-    origin_x: 65.06400299072266
-    bbox: (65.06400299072266, 689.1129150390625, 442.54888916015625, 702.7979736328125)
-    double_fontsize_int: 20
   items:
-  - 1. Retaining skilled volunteers remains a major challenge and this affected especially the WASH activities which relied on the volunteers for dissemination of information to the community members.
+  - Retaining skilled volunteers remains a major challenge and this affected especially the WASH activities which relied on the volunteers for dissemination of information to the community members.
 - title:
     text: 'Challenges  '
     text_base: challenges
-    style: 'bold, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 7
-    block_number: 28
-    line_number: 21
-    span_number: 0
-    total_y: 6563.739868164063
-    origin_x: 48.959999084472656
-    bbox: (48.959999084472656, 659.6427612304688, 107.90888214111328, 673.3577270507812)
     idx: 515
   sector_title: Water, Sanitation and Hygiene
-  sector_idx: 393
-  sector_similarity_score: 1.0
-  content:
-  - index: 516
-    text: '1. Communication between Finance teams internationally and nationally was always delayed and presented '
-    text_base: 1 communication between finance teams internationally and nationally was always delayed and presented
-    style: 'arialmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 7
-    block_number: 28
-    line_number: 22
-    span_number: 0
-    total_y: 6575.259826660156
-    origin_x: 47.040000915527344
-    bbox: (47.040000915527344, 671.1129150390625, 555.54150390625, 684.7979736328125)
-    double_fontsize_int: 20
-  - index: 517
-    text: 'challenges in the implementation of project activities. '
-    text_base: challenges in the implementation of project activities
-    style: 'arialmt, 20, #000000, nan'
-    size: 9.960000038146973
-    page_number: 7
-    block_number: 29
-    line_number: 0
-    span_number: 0
-    total_y: 6588.579895019531
-    origin_x: 65.06400299072266
-    bbox: (65.06400299072266, 684.4329833984375, 301.3788757324219, 698.1180419921875)
-    double_fontsize_int: 20
   items:
-  - 1. Communication between Finance teams internationally and nationally was always delayed and presented challenges in the implementation of project activities.
+  - Communication between Finance teams internationally and nationally was always delayed and presented challenges in the implementation of project activities.

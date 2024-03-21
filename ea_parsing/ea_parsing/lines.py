@@ -451,7 +451,16 @@ class Lines(pd.DataFrame):
             lines['item_no'] = lines['item_start'].cumsum()
 
             # Group into items and combine the text
-            lines = lines.groupby(['item_no'])['text'].apply(lambda x: ' '.join(x.str.strip())).to_frame()
+            lines = lines.groupby(['item_no'])[['text', 'bullet_start']].agg({
+                'text': lambda x: ' '.join(x.str.strip()),
+                'bullet_start': 'first'
+            })
+            lines = lines.dropna(subset=['text'])
+
+            # Remove bullets for cases where all items are bullets
+            lines['text'] = lines['text'].astype(str).apply(remove_bullet)
+            if not lines['bullet_start'].all():
+                lines.loc[lines['bullet_start'], 'text'] = '• ' + lines['text']
 
         # Convert to list
         items = lines['text'].dropna().astype(str).str.strip().tolist()

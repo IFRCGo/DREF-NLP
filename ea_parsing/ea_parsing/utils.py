@@ -157,7 +157,7 @@ def remove_bullet(text):
 
     # Remove 1), 1.
     text = re.sub(r'^[1-9](\)|\.)\s', '', text)
-    
+
     # Remove a), a.
     text = re.sub(r'^[a-zA-Z](\)|\.)\s', '', str(text)).strip()
 
