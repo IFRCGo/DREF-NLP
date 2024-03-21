@@ -119,8 +119,8 @@ class TestResults(unittest.TestCase):
 
                     # Compare section items - "excerpts"
                     self.assertListEqual(
-                        validated_result['items'],
                         result['items'],
+                        validated_result['items'],
                         f"""
                         Section items do not match for MDR code: {mdr_code}, sector: {result['sector_title']}
                         """
