@@ -1,6 +1,5 @@
 import re
 import itertools
-from math import sqrt
 
 
 def phrase_in_sentence(phrase, sentence):
@@ -92,37 +91,3 @@ def strip_filler_words(text):
     filler_words = ['and', 'the', 'to', 'for', 'in', 'a', 'in']
     text_without_fillers = replace_phrases_in_sentence(filler_words, '', text).strip()
     return text_without_fillers
-
-
-def colour_diff(colour1, colour2):
-    """
-    Find the difference between two colours.
-    Both colours must be in hex format.
-    """
-    # If both nan, return True
-    if (colour1 != colour1) and (colour2 != colour2):
-        return 0
-
-    # Calculate distance if both not nan
-    elif (colour1 == colour1) and (colour2 == colour2):
-
-        # If the same, return
-        if colour1 == colour2:
-            return 0
-
-        # Convert hex to RGB
-        colour1 = tuple(int(str(colour1).lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
-        colour2 = tuple(int(str(colour2).lstrip("#")[i:i+2], 16) for i in (0, 2, 4))
-
-        # Calculate distance, and normalize to 1
-        distance = sqrt(
-            (colour1[0] - colour2[0])**2 +
-            (colour1[1] - colour2[1])**2 +
-            (colour1[2] - colour2[2])**2
-        )/sqrt(3*(255**2))
-
-        return distance
-
-    # If one is nan and the other is not nan, return max distance 1
-    else:
-        return 1

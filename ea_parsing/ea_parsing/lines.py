@@ -4,7 +4,7 @@ import re
 from functools import cached_property
 import pandas as pd
 import ea_parsing.definitions
-from ea_parsing.utils import colour_diff, is_text_title, strip_non_alphanumeric
+from ea_parsing.utils import is_text_title, strip_non_alphanumeric
 
 
 class Line(pd.Series):
@@ -15,34 +15,6 @@ class Line(pd.Series):
     @property
     def _constructor_expanddim(self):
         return Lines
-
-    def is_similar_style(self, line2):
-        # Size tolerance greater if highlight_colour
-        size_tolerance = 6 if not self['highlight_color'] else 100
-
-        # Check if sizes are similar
-        if abs(self["double_fontsize_int"] - line2["double_fontsize_int"]) <= size_tolerance:
-
-            # Check if fonts are similar
-            font = self['font'].split('-')[0].lower()
-            other_font = line2['font'].split('-')[0].lower()
-            similar_fonts = [['arial', 'calibri', 'opensans', 'montserrat']]
-            common_fonts = [fonts for fonts in similar_fonts if ((font in fonts) and (other_font in fonts))]
-            if (font == other_font) or common_fonts:
-
-                # Check if colours and bold are similar
-                highlight_color1 = self['highlight_color'] if self['highlight_color'] is not None else "#ffffff"
-                highlight_color2 = line2['highlight_color'] if line2['highlight_color'] is not None else "#ffffff"
-                if colour_diff(highlight_color1, highlight_color2) < 0.2:
-
-                    color1 = self['color'] if self['color'] is not None else "#000000"
-                    color2 = line2['color'] if line2['color'] is not None else "#000000"
-                    if colour_diff(color1, color2) < 0.2:
-
-                        if self['bold'] == line2['bold']:
-                            return True
-
-        return False
 
     def more_titley(self, title, nontitle):
         """
