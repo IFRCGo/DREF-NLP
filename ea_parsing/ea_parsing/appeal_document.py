@@ -531,43 +531,24 @@ class AppealDocument:
 
         return sector_titles
 
-    def get_challenges_lessons_learned(self, section_type):
-        """
-        Extract lessons learned from the document.
-        """
-        if self.lines is None:
-            return None
-
-        # Extrac the lessons learned lines
-        extractor = ChallengesLessonsLearnedExtractor(section_type=section_type)
-        sections = extractor.get_sections(
-            document=self
-        )
-
-        # Process the lines into text
-        for section in sections:
-            if section['content']:
-                section_lines = Lines(section['content']).set_index('index')
-                section['items'] = section_lines.to_items()
-            else:
-                section['items'] = []
-
-        return sections
-
     @cached_property
     def lessons_learned(self):
         """
         Extract lessons learned from the document.
         """
-        return self.get_challenges_lessons_learned(
-            section_type='lessons_learned'
+        extractor = ChallengesLessonsLearnedExtractor(section_type='lessons_learned')
+        sections = extractor.get_sections(
+            document=self
         )
+        return sections
 
     @cached_property
     def challenges(self):
         """
-        Extract challenges from the document.
+        Extract lessons learned from the document.
         """
-        return self.get_challenges_lessons_learned(
-            section_type='challenges'
+        extractor = ChallengesLessonsLearnedExtractor(section_type='challenges')
+        sections = extractor.get_sections(
+            document=self
         )
+        return sections

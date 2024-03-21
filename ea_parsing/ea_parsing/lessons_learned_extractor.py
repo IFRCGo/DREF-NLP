@@ -96,49 +96,29 @@ class ChallengesLessonsLearnedExtractor:
         # Get the span of each section
         sections = []
         sector_titles_dict = self.document.sector_titles['Sector title'].to_dict()
-        sector_similarity_scores_dict = self.document.sector_titles['Sector similarity score'].to_dict()
         for idx, row in self.section_titles.iterrows():
 
             # Get section title and details
-            select_columns = [
-                'text',
-                'text_base',
-                'style',
-                'size',
-                'page_number',
-                'block_number',
-                'line_number',
-                'span_number',
-                'total_y',
-                'origin_x',
-                'bbox',
-                'bbox_x1',
-                'bbox_x2'
-            ]
             section_title = self.section_titles.loc[idx]
-            title_details = section_title[select_columns].to_dict()
+            title_details = section_title[['text', 'text_base']].to_dict()
             title_details['idx'] = idx
 
-            # Get section content, check if empty
+            # Get section content
             section_content = self.get_section_lines(
                 title=section_title
             )
-            if section_content.is_nothing:
-                section_content = pd.DataFrame()
 
-            # Add title, content, and sector details to sections
+            # Add title, content, and sector items/ excerpts
             sector_idx = section_sector_map.get(idx)
-            section_details = {
+            sections.append({
                 'title': title_details,
                 'sector_title': sector_titles_dict.get(sector_idx),
-                'sector_idx': None if sector_idx is None else int(sector_idx),
-                'sector_similarity_score': sector_similarity_scores_dict.get(sector_idx),
-                'content': section_content[[
-                    col for col in select_columns
-                    if col in section_content.columns
-                    ]].reset_index().to_dict('records')
-            }
-            sections.append(section_details)
+                'items': (
+                    []
+                    if (section_content.empty or section_content.is_nothing)
+                    else section_content.to_items()
+                )
+            })
 
         return sections
 
