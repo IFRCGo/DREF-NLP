@@ -18,10 +18,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 325
-    text: 'The trained NRT teams have not been equipped, but the NS has committed
-      to continue mobilising resources and '
-    text_base: the trained nrt teams have not been equipped but the ns has committed
-      to continue mobilising resources and
+    text: 'The trained NRT teams have not been equipped, but the NS has committed to continue mobilising resources and '
+    text_base: the trained nrt teams have not been equipped but the ns has committed to continue mobilising resources and
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 5
@@ -50,8 +48,7 @@
     bbox_x2: 205.66555786132807
     double_fontsize_int: 20
   items:
-  - The trained NRT teams have not been equipped, but the NS has committed to continue
-    mobilising resources and work with its partners on this aspect.
+  - The trained NRT teams have not been equipped, but the NS has committed to continue mobilising resources and work with its partners on this aspect.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -72,10 +69,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 412
-    text: 'Many of the affected households required permanent shelter support, however
-      the operation was not able to '
-    text_base: many of the affected households required permanent shelter support
-      however the operation was not able to
+    text: 'Many of the affected households required permanent shelter support, however the operation was not able to '
+    text_base: many of the affected households required permanent shelter support however the operation was not able to
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 6
@@ -104,8 +99,7 @@
     bbox_x2: 238.4855499267578
     double_fontsize_int: 20
   items:
-  - Many of the affected households required permanent shelter support, however the
-    operation was not able to support all of them due to limited resources.
+  - Many of the affected households required permanent shelter support, however the operation was not able to support all of them due to limited resources.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -126,10 +120,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 622
-    text: 'Delayed provision of livestock, beneficiaries received goats towards the
-      end of the project which limited further '
-    text_base: delayed provision of livestock beneficiaries received goats towards
-      the end of the project which limited further
+    text: 'Delayed provision of livestock, beneficiaries received goats towards the end of the project which limited further '
+    text_base: delayed provision of livestock beneficiaries received goats towards the end of the project which limited further
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 9
@@ -143,10 +135,8 @@
     bbox_x2: 545.0743408203125
     double_fontsize_int: 20
   - index: 623
-    text: 'support by the project team. In order to mitigate this, the operation linked
-      the beneficiaries to the government and '
-    text_base: support by the project team in order to mitigate this the operation
-      linked the beneficiaries to the government and
+    text: 'support by the project team. In order to mitigate this, the operation linked the beneficiaries to the government and '
+    text_base: support by the project team in order to mitigate this the operation linked the beneficiaries to the government and
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 9
@@ -175,10 +165,7 @@
     bbox_x2: 294.5455627441406
     double_fontsize_int: 20
   items:
-  - Delayed provision of livestock, beneficiaries received goats towards the end of
-    the project which limited further support by the project team. In order to mitigate
-    this, the operation linked the beneficiaries to the government and Red Cross structures
-    so that there is continued support.
+  - Delayed provision of livestock, beneficiaries received goats towards the end of the project which limited further support by the project team. In order to mitigate this, the operation linked the beneficiaries to the government and Red Cross structures so that there is continued support.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -214,10 +201,8 @@
     bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 729
-    text: 'Competing priorities in the government health sector caused some activities
-      to be delayed because MRCS '
-    text_base: competing priorities in the government health sector caused some activities
-      to be delayed because mrcs
+    text: 'Competing priorities in the government health sector caused some activities to be delayed because MRCS '
+    text_base: competing priorities in the government health sector caused some activities to be delayed because mrcs
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 11
@@ -246,9 +231,7 @@
     bbox_x2: 395.70556640625
     double_fontsize_int: 20
   items:
-  - Competing priorities in the government health sector caused some activities to
-    be delayed because MRCS had to wait for the stakeholders to be available for joint
-    implementation.
+  - Competing priorities in the government health sector caused some activities to be delayed because MRCS had to wait for the stakeholders to be available for joint implementation.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -284,10 +267,8 @@
     bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 787
-    text: 'The COVID-19 pandemic led to the suspension of group and interactive activities
-      such as training on Community Led '
-    text_base: the covid 19 pandemic led to the suspension of group and interactive
-      activities such as training on community led
+    text: 'The COVID-19 pandemic led to the suspension of group and interactive activities such as training on Community Led '
+    text_base: the covid 19 pandemic led to the suspension of group and interactive activities such as training on community led
     style: 'arialmt, 18, #000000, #ffffff'
     size: 9.0
     page_number: 12
@@ -301,10 +282,8 @@
     bbox_x2: 544.8261108398438
     double_fontsize_int: 18
   - index: 788
-    text: 'Total Sanitation, House to house visits and Mass Hygiene promotion due
-      to restrictions introduced by the government . '
-    text_base: total sanitation house to house visits and mass hygiene promotion due
-      to restrictions introduced by the government
+    text: 'Total Sanitation, House to house visits and Mass Hygiene promotion due to restrictions introduced by the government . '
+    text_base: total sanitation house to house visits and mass hygiene promotion due to restrictions introduced by the government
     style: 'arialmt, 18, #000000, #ffffff'
     size: 9.0
     page_number: 12
@@ -333,10 +312,8 @@
     bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 791
-    text: 'Community mobilization in the face of Covid-19 pandemic was difficult.
-      Latrine construction relied on the mobilization '
-    text_base: community mobilization in the face of covid 19 pandemic was difficult
-      latrine construction relied on the mobilization
+    text: 'Community mobilization in the face of Covid-19 pandemic was difficult. Latrine construction relied on the mobilization '
+    text_base: community mobilization in the face of covid 19 pandemic was difficult latrine construction relied on the mobilization
     style: 'arialmt, 18, #000000, #ffffff'
     size: 9.0
     page_number: 12
@@ -350,10 +327,8 @@
     bbox_x2: 550.3811645507812
     double_fontsize_int: 18
   - index: 792
-    text: 'of local materials like sand, bricks and water as per agreement with the
-      School Management Committee; this was '
-    text_base: of local materials like sand bricks and water as per agreement with
-      the school management committee this was
+    text: 'of local materials like sand, bricks and water as per agreement with the School Management Committee; this was '
+    text_base: of local materials like sand bricks and water as per agreement with the school management committee this was
     style: 'arialmt, 18, #000000, #ffffff'
     size: 9.0
     page_number: 12
@@ -367,10 +342,8 @@
     bbox_x2: 550.5121459960938
     double_fontsize_int: 18
   - index: 793
-    text: 'difficult because local authorities were barred from assembling people
-      together for group action. '
-    text_base: difficult because local authorities were barred from assembling people
-      together for group action
+    text: 'difficult because local authorities were barred from assembling people together for group action. '
+    text_base: difficult because local authorities were barred from assembling people together for group action
     style: 'arialmt, 18, #000000, #ffffff'
     size: 9.0
     page_number: 12
@@ -399,10 +372,8 @@
     bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 795
-    text: 'The WASH component encountered funding constraints which led to the non-implementation
-      of some activities. The '
-    text_base: the wash component encountered funding constraints which led to the
-      non implementation of some activities the
+    text: 'The WASH component encountered funding constraints which led to the non-implementation of some activities. The '
+    text_base: the wash component encountered funding constraints which led to the non implementation of some activities the
     style: 'arialmt, 18, #000000, nan'
     size: 9.0
     page_number: 12
@@ -416,10 +387,8 @@
     bbox_x2: 550.4832153320312
     double_fontsize_int: 18
   - index: 796
-    text: 'funding flow was inconsistent. This made it difficult to implement smoothly
-      as teams had to cancel plans from time to '
-    text_base: funding flow was inconsistent this made it difficult to implement smoothly
-      as teams had to cancel plans from time to
+    text: 'funding flow was inconsistent. This made it difficult to implement smoothly as teams had to cancel plans from time to '
+    text_base: funding flow was inconsistent this made it difficult to implement smoothly as teams had to cancel plans from time to
     style: 'arialmt, 18, #000000, nan'
     size: 9.0
     page_number: 12
@@ -463,10 +432,8 @@
     bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 799
-    text: "The CLTS policy of \u2018\u2018no subsidies to latrine construction\u201D\
-      \ impacted the project negatively in sites where shelters were "
-    text_base: the clts policy of no subsidies to latrine construction impacted the
-      project negatively in sites where shelters were
+    text: "The CLTS policy of \u2018\u2018no subsidies to latrine construction\u201D impacted the project negatively in sites where shelters were "
+    text_base: the clts policy of no subsidies to latrine construction impacted the project negatively in sites where shelters were
     style: 'arialmt, 18, #000000, nan'
     size: 9.0
     page_number: 12
@@ -480,10 +447,8 @@
     bbox_x2: 550.237548828125
     double_fontsize_int: 18
   - index: 800
-    text: constructed. We lacked incentives to motivate target families to construct
-      their household latrines
-    text_base: constructed we lacked incentives to motivate target families to construct
-      their household latrines
+    text: constructed. We lacked incentives to motivate target families to construct their household latrines
+    text_base: constructed we lacked incentives to motivate target families to construct their household latrines
     style: 'arialmt, 18, #000000, nan'
     size: 9.0
     page_number: 12
@@ -512,21 +477,10 @@
     bbox_x2: 471.74554443359375
     double_fontsize_int: 20
   items:
-  - The COVID-19 pandemic led to the suspension of group and interactive activities
-    such as training on Community Led Total Sanitation, House to house visits and
-    Mass Hygiene promotion due to restrictions introduced by the government .
-  - Community mobilization in the face of Covid-19 pandemic was difficult. Latrine
-    construction relied on the mobilization of local materials like sand, bricks and
-    water as per agreement with the School Management Committee; this was difficult
-    because local authorities were barred from assembling people together for group
-    action.
-  - The WASH component encountered funding constraints which led to the non-implementation
-    of some activities. The funding flow was inconsistent. This made it difficult
-    to implement smoothly as teams had to cancel plans from time to time, thereby
-    inconveniencing partner stakeholders.
-  - "The CLTS policy of \u2018\u2018no subsidies to latrine construction\u201D impacted\
-    \ the project negatively in sites where shelters were constructed. We lacked incentives\
-    \ to motivate target families to construct their household latrines ."
+  - The COVID-19 pandemic led to the suspension of group and interactive activities such as training on Community Led Total Sanitation, House to house visits and Mass Hygiene promotion due to restrictions introduced by the government.
+  - Community mobilization in the face of Covid-19 pandemic was difficult. Latrine construction relied on the mobilization of local materials like sand, bricks and water as per agreement with the School Management Committee; this was difficult because local authorities were barred from assembling people together for group action.
+  - The WASH component encountered funding constraints which led to the non-implementation of some activities. The funding flow was inconsistent. This made it difficult to implement smoothly as teams had to cancel plans from time to time, thereby inconveniencing partner stakeholders.
+  - "The CLTS policy of \u2018\u2018no subsidies to latrine construction\u201D impacted the project negatively in sites where shelters were constructed. We lacked incentives to motivate target families to construct their household latrines."
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -562,10 +516,8 @@
     bbox_x2: 64.48880767822266
     double_fontsize_int: 20
   - index: 873
-    text: 'Borehole drilling encountered a lot of hiccups; breakdown of machinery
-      from time to time due to stone '
-    text_base: borehole drilling encountered a lot of hiccups breakdown of machinery
-      from time to time due to stone
+    text: 'Borehole drilling encountered a lot of hiccups; breakdown of machinery from time to time due to stone '
+    text_base: borehole drilling encountered a lot of hiccups breakdown of machinery from time to time due to stone
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 13
@@ -579,10 +531,8 @@
     bbox_x2: 544.9619140625
     double_fontsize_int: 20
   - index: 874
-    text: 'borders especially in Phalombe, difficulty in vehicle mobilization during
-      the rainy season due to road '
-    text_base: borders especially in phalombe difficulty in vehicle mobilization during
-      the rainy season due to road
+    text: 'borders especially in Phalombe, difficulty in vehicle mobilization during the rainy season due to road '
+    text_base: borders especially in phalombe difficulty in vehicle mobilization during the rainy season due to road
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 13
@@ -596,10 +546,8 @@
     bbox_x2: 544.9249877929688
     double_fontsize_int: 20
   - index: 875
-    text: 'impassability and high salinity levels in 2 of the 10 wet boreholes drilled.
-      The impassable communities '
-    text_base: impassability and high salinity levels in 2 of the 10 wet boreholes
-      drilled the impassable communities
+    text: 'impassability and high salinity levels in 2 of the 10 wet boreholes drilled. The impassable communities '
+    text_base: impassability and high salinity levels in 2 of the 10 wet boreholes drilled the impassable communities
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 13
@@ -613,10 +561,8 @@
     bbox_x2: 545.2079467773438
     double_fontsize_int: 20
   - index: 876
-    text: 'were drilled after the rainy season when the roads had dried up. Through
-      coordination, the government '
-    text_base: were drilled after the rainy season when the roads had dried up through
-      coordination the government
+    text: 'were drilled after the rainy season when the roads had dried up. Through coordination, the government '
+    text_base: were drilled after the rainy season when the roads had dried up through coordination the government
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 13
@@ -630,10 +576,8 @@
     bbox_x2: 544.841552734375
     double_fontsize_int: 20
   - index: 877
-    text: 'together with the communities constructed a strong bridge which enabled
-      the drilling rig to pass across. '
-    text_base: together with the communities constructed a strong bridge which enabled
-      the drilling rig to pass across
+    text: 'together with the communities constructed a strong bridge which enabled the drilling rig to pass across. '
+    text_base: together with the communities constructed a strong bridge which enabled the drilling rig to pass across
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 13
@@ -662,10 +606,8 @@
     bbox_x2: 64.0196533203125
     double_fontsize_int: 18
   - index: 879
-    text: 'The drilling of eight boreholes and installation of solar powered water
-      supply was not implemented due to '
-    text_base: the drilling of eight boreholes and installation of solar powered water
-      supply was not implemented due to
+    text: 'The drilling of eight boreholes and installation of solar powered water supply was not implemented due to '
+    text_base: the drilling of eight boreholes and installation of solar powered water supply was not implemented due to
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 13
@@ -694,15 +636,8 @@
     bbox_x2: 164.6331329345703
     double_fontsize_int: 20
   items:
-  - Borehole drilling encountered a lot of hiccups; breakdown of machinery from time
-    to time due to stone borders especially in Phalombe, difficulty in vehicle mobilization
-    during the rainy season due to road impassability and high salinity levels in
-    2 of the 10 wet boreholes drilled. The impassable communities were drilled after
-    the rainy season when the roads had dried up. Through coordination, the government
-    together with the communities constructed a strong bridge which enabled the drilling
-    rig to pass across.
-  - The drilling of eight boreholes and installation of solar powered water supply
-    was not implemented due to funding constraints.
+  - Borehole drilling encountered a lot of hiccups; breakdown of machinery from time to time due to stone borders especially in Phalombe, difficulty in vehicle mobilization during the rainy season due to road impassability and high salinity levels in 2 of the 10 wet boreholes drilled. The impassable communities were drilled after the rainy season when the roads had dried up. Through coordination, the government together with the communities constructed a strong bridge which enabled the drilling rig to pass across.
+  - The drilling of eight boreholes and installation of solar powered water supply was not implemented due to funding constraints.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -738,10 +673,8 @@
     bbox_x2: 64.24880981445312
     double_fontsize_int: 20
   - index: 961
-    text: 'There were no dedicated capacity building sessions on PGI for our volunteers,
-      nevertheless the PGI '
-    text_base: there were no dedicated capacity building sessions on pgi for our volunteers
-      nevertheless the pgi
+    text: 'There were no dedicated capacity building sessions on PGI for our volunteers, nevertheless the PGI '
+    text_base: there were no dedicated capacity building sessions on pgi for our volunteers nevertheless the pgi
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 14
@@ -755,10 +688,8 @@
     bbox_x2: 544.912353515625
     double_fontsize_int: 20
   - index: 962
-    text: 'component was mainstreamed in the project interventions by staff through
-      trainings and review meetings. '
-    text_base: component was mainstreamed in the project interventions by staff through
-      trainings and review meetings
+    text: 'component was mainstreamed in the project interventions by staff through trainings and review meetings. '
+    text_base: component was mainstreamed in the project interventions by staff through trainings and review meetings
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 14
@@ -772,9 +703,7 @@
     bbox_x2: 545.1856079101562
     double_fontsize_int: 20
   items:
-  - There were no dedicated capacity building sessions on PGI for our volunteers,
-    nevertheless the PGI component was mainstreamed in the project interventions by
-    staff through trainings and review meetings.
+  - There were no dedicated capacity building sessions on PGI for our volunteers, nevertheless the PGI component was mainstreamed in the project interventions by staff through trainings and review meetings.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -795,10 +724,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1089
-    text: 'There are still capacity gaps in the national society in terms of disaster
-      related equipment like protective materials, '
-    text_base: there are still capacity gaps in the national society in terms of disaster
-      related equipment like protective materials
+    text: 'There are still capacity gaps in the national society in terms of disaster related equipment like protective materials, '
+    text_base: there are still capacity gaps in the national society in terms of disaster related equipment like protective materials
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 16
@@ -812,10 +739,8 @@
     bbox_x2: 545.0529174804688
     double_fontsize_int: 20
   - index: 1090
-    text: 'early warning and communication materials. Though some projects are facilitating
-      to support, the gap still require '
-    text_base: early warning and communication materials though some projects are
-      facilitating to support the gap still require
+    text: 'early warning and communication materials. Though some projects are facilitating to support, the gap still require '
+    text_base: early warning and communication materials though some projects are facilitating to support the gap still require
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 16
@@ -844,6 +769,4 @@
     bbox_x2: 110.62555694580078
     double_fontsize_int: 20
   items:
-  - There are still capacity gaps in the national society in terms of disaster related
-    equipment like protective materials, early warning and communication materials.
-    Though some projects are facilitating to support, the gap still require strengthening.
+  - There are still capacity gaps in the national society in terms of disaster related equipment like protective materials, early warning and communication materials. Though some projects are facilitating to support, the gap still require strengthening.

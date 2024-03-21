@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 456
-    text: 'Continuing rains and the increasing number of affected population in other
-      areas '
-    text_base: continuing rains and the increasing number of affected population in
-      other areas
+    text: 'Continuing rains and the increasing number of affected population in other areas '
+    text_base: continuing rains and the increasing number of affected population in other areas
     style: 'arialmt, 20, #000000, #ffffff'
     size: 10.020000457763672
     page_number: 4
@@ -31,10 +29,8 @@
     bbox: (182.3999786376953, 341.9081726074219, 542.0637817382812, 355.6756591796875)
     double_fontsize_int: 20
   - index: 457
-    text: 'presented a challenge in terms of the human and technical resource capacity
-      of the National Society. The '
-    text_base: presented a challenge in terms of the human and technical resource
-      capacity of the national society the
+    text: 'presented a challenge in terms of the human and technical resource capacity of the National Society. The '
+    text_base: presented a challenge in terms of the human and technical resource capacity of the national society the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 10.020000457763672
     page_number: 4
@@ -46,10 +42,8 @@
     bbox: (53.15999984741211, 353.4281921386719, 542.048095703125, 367.1956787109375)
     double_fontsize_int: 20
   - index: 458
-    text: 'relief stocks of the Tajikistan Red Crescent were decreasing quickly, while
-      the funds for the emergency '
-    text_base: relief stocks of the tajikistan red crescent were decreasing quickly
-      while the funds for the emergency
+    text: 'relief stocks of the Tajikistan Red Crescent were decreasing quickly, while the funds for the emergency '
+    text_base: relief stocks of the tajikistan red crescent were decreasing quickly while the funds for the emergency
     style: 'arialmt, 20, #000000, #ffffff'
     size: 10.020000457763672
     page_number: 4
@@ -61,10 +55,8 @@
     bbox: (53.15999984741211, 364.94818115234375, 542.0546264648438, 378.7156677246094)
     double_fontsize_int: 20
   - index: 459
-    text: appeal were arriving quite slowly. Tardy coverage of the appeal caused delays
-      in the procurement of non-
-    text_base: appeal were arriving quite slowly tardy coverage of the appeal caused
-      delays in the procurement of non
+    text: appeal were arriving quite slowly. Tardy coverage of the appeal caused delays in the procurement of non-
+    text_base: appeal were arriving quite slowly tardy coverage of the appeal caused delays in the procurement of non
     style: 'arialmt, 20, #000000, #ffffff'
     size: 10.020000457763672
     page_number: 4
@@ -76,10 +68,8 @@
     bbox: (53.15999984741211, 376.4081726074219, 539.1227416992188, 390.1756591796875)
     double_fontsize_int: 20
   - index: 460
-    text: 'food items, and in the case of construction tools the delay was much more
-      sensible, since people had already '
-    text_base: food items and in the case of construction tools the delay was much
-      more sensible since people had already
+    text: 'food items, and in the case of construction tools the delay was much more sensible, since people had already '
+    text_base: food items and in the case of construction tools the delay was much more sensible since people had already
     style: 'arialmt, 20, #000000, #ffffff'
     size: 10.020000457763672
     page_number: 4
@@ -104,13 +94,7 @@
     bbox: (53.15999984741211, 399.44818115234375, 215.40281677246094, 413.2156677246094)
     double_fontsize_int: 20
   items:
-  - Continuing rains and the increasing number of affected population in other areas
-    presented a challenge in terms of the human and technical resource capacity of
-    the National Society. The relief stocks of the Tajikistan Red Crescent were decreasing
-    quickly, while the funds for the emergency appeal were arriving quite slowly.
-    Tardy coverage of the appeal caused delays in the procurement of non- food items,
-    and in the case of construction tools the delay was much more sensible, since
-    people had already started the construction by that time.
+  - Continuing rains and the increasing number of affected population in other areas presented a challenge in terms of the human and technical resource capacity of the National Society. The relief stocks of the Tajikistan Red Crescent were decreasing quickly, while the funds for the emergency appeal were arriving quite slowly. Tardy coverage of the appeal caused delays in the procurement of non- food items, and in the case of construction tools the delay was much more sensible, since people had already started the construction by that time.
 - title:
     text: 'Challenges or constraints:'
     text_base: challenges or constraints
@@ -129,10 +113,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 562
-    text: 'Continuing rains and the increasing number of affected population in other
-      areas '
-    text_base: continuing rains and the increasing number of affected population in
-      other areas
+    text: 'Continuing rains and the increasing number of affected population in other areas '
+    text_base: continuing rains and the increasing number of affected population in other areas
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -144,10 +126,8 @@
     bbox: (183.9604034423828, 477.8081970214844, 546.3563232421875, 491.57568359375)
     double_fontsize_int: 20
   - index: 563
-    text: 'presented a challenge in terms of the human and technical resource capacity
-      of the National Society. The '
-    text_base: presented a challenge in terms of the human and technical resource
-      capacity of the national society the
+    text: 'presented a challenge in terms of the human and technical resource capacity of the National Society. The '
+    text_base: presented a challenge in terms of the human and technical resource capacity of the national society the
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -159,10 +139,8 @@
     bbox: (53.99998474121094, 489.32818603515625, 546.4356689453125, 503.0956726074219)
     double_fontsize_int: 20
   - index: 564
-    text: 'relief stocks of the National Society started melting at the very start
-      of the operation, while the coverage of the '
-    text_base: relief stocks of the national society started melting at the very start
-      of the operation while the coverage of the
+    text: 'relief stocks of the National Society started melting at the very start of the operation, while the coverage of the '
+    text_base: relief stocks of the national society started melting at the very start of the operation while the coverage of the
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -174,10 +152,8 @@
     bbox: (53.999969482421875, 500.7880554199219, 546.4326171875, 514.5555419921875)
     double_fontsize_int: 20
   - index: 565
-    text: 'emergency appeal was quite low. Late and low coverage of the appeal caused
-      delays in the procurement of '
-    text_base: emergency appeal was quite low late and low coverage of the appeal
-      caused delays in the procurement of
+    text: 'emergency appeal was quite low. Late and low coverage of the appeal caused delays in the procurement of '
+    text_base: emergency appeal was quite low late and low coverage of the appeal caused delays in the procurement of
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -189,10 +165,8 @@
     bbox: (53.999969482421875, 512.30810546875, 546.3755493164062, 526.0755615234375)
     double_fontsize_int: 20
   - index: 566
-    text: 'non-food items for replenishment. The Tajikistan Red Crescent Dushanbe
-      central disaster response stock was '
-    text_base: non food items for replenishment the tajikistan red crescent dushanbe
-      central disaster response stock was
+    text: 'non-food items for replenishment. The Tajikistan Red Crescent Dushanbe central disaster response stock was '
+    text_base: non food items for replenishment the tajikistan red crescent dushanbe central disaster response stock was
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -204,10 +178,8 @@
     bbox: (53.999969482421875, 523.8280639648438, 333.2002868652344, 537.5955200195312)
     double_fontsize_int: 20
   - index: 568
-    text: 'replenished by mid June 2010. Due to incomplete funds (91 per cent) only
-      220 families out of the planned 494 '
-    text_base: replenished by mid june 2010 due to incomplete funds 91 per cent only
-      220 families out of the planned 494
+    text: 'replenished by mid June 2010. Due to incomplete funds (91 per cent) only 220 families out of the planned 494 '
+    text_base: replenished by mid june 2010 due to incomplete funds 91 per cent only 220 families out of the planned 494
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -245,12 +217,4 @@
     bbox: (243.05999755859375, 546.8181762695312, 246.11244201660156, 561.9925537109375)
     double_fontsize_int: 22
   items:
-  - Continuing rains and the increasing number of affected population in other areas
-    presented a challenge in terms of the human and technical resource capacity of
-    the National Society. The relief stocks of the National Society started melting
-    at the very start of the operation, while the coverage of the emergency appeal
-    was quite low. Late and low coverage of the appeal caused delays in the procurement
-    of non-food items for replenishment. The Tajikistan Red Crescent Dushanbe central
-    disaster response stock was replenished by mid June 2010. Due to incomplete funds
-    (91 per cent) only 220 families out of the planned 494 have been provided with
-    construction tools .
+  - Continuing rains and the increasing number of affected population in other areas presented a challenge in terms of the human and technical resource capacity of the National Society. The relief stocks of the National Society started melting at the very start of the operation, while the coverage of the emergency appeal was quite low. Late and low coverage of the appeal caused delays in the procurement of non-food items for replenishment. The Tajikistan Red Crescent Dushanbe central disaster response stock was replenished by mid June 2010. Due to incomplete funds (91 per cent) only 220 families out of the planned 494 have been provided with construction tools.

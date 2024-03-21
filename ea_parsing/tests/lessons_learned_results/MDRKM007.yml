@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 317
-    text: 'Given the limited funding received, only 7% of the identified needs were
-      able to be covered through the operation; '
-    text_base: given the limited funding received only 7 of the identified needs were
-      able to be covered through the operation
+    text: 'Given the limited funding received, only 7% of the identified needs were able to be covered through the operation; '
+    text_base: given the limited funding received only 7 of the identified needs were able to be covered through the operation
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 5
@@ -31,10 +29,8 @@
     bbox: (41.63999938964844, 376.36846923828125, 545.185546875, 390.1359558105469)
     double_fontsize_int: 20
   - index: 318
-    text: 'therefore with the support of the IFRC, developed an advocacy campaign  at
-      local level in collaboration with UN '
-    text_base: therefore with the support of the ifrc developed an advocacy campaign
-      at local level in collaboration with un
+    text: 'therefore with the support of the IFRC, developed an advocacy campaign  at local level in collaboration with UN '
+    text_base: therefore with the support of the ifrc developed an advocacy campaign at local level in collaboration with un
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -46,10 +42,8 @@
     bbox: (41.63999938964844, 387.8884582519531, 545.1856079101562, 401.65594482421875)
     double_fontsize_int: 20
   - index: 319
-    text: 'agencies (UNICEF, UNDP, WFP). This campaign  at the local level contributed
-      to the achievement of results in the '
-    text_base: agencies unicef undp wfp this campaign at the local level contributed
-      to the achievement of results in the
+    text: 'agencies (UNICEF, UNDP, WFP). This campaign  at the local level contributed to the achievement of results in the '
+    text_base: agencies unicef undp wfp this campaign at the local level contributed to the achievement of results in the
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -61,10 +55,8 @@
     bbox: (41.63999938964844, 399.3484802246094, 545.1610107421875, 413.115966796875)
     double_fontsize_int: 20
   - index: 320
-    text: 'shelter sector which were unmet by the EA; but able to be addressed in
-      cooperation with other organizations.. This '
-    text_base: shelter sector which were unmet by the ea but able to be addressed
-      in cooperation with other organizations this
+    text: 'shelter sector which were unmet by the EA; but able to be addressed in cooperation with other organizations.. This '
+    text_base: shelter sector which were unmet by the ea but able to be addressed in cooperation with other organizations this
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -76,10 +68,8 @@
     bbox: (41.63999938964844, 410.8884582519531, 545.1737060546875, 424.65594482421875)
     double_fontsize_int: 20
   - index: 321
-    text: 'suggests that CoRC should explore the potential for strengthening local
-      partnership and opportunities for resource '
-    text_base: suggests that corc should explore the potential for strengthening local
-      partnership and opportunities for resource
+    text: 'suggests that CoRC should explore the potential for strengthening local partnership and opportunities for resource '
+    text_base: suggests that corc should explore the potential for strengthening local partnership and opportunities for resource
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -91,10 +81,8 @@
     bbox: (41.63999938964844, 422.4084777832031, 545.1734008789062, 436.17596435546875)
     double_fontsize_int: 20
   - index: 322
-    text: 'mobilisation at the country level, especially in advance of another disaster
-      situation.  '
-    text_base: mobilisation at the country level especially in advance of another
-      disaster situation
+    text: 'mobilisation at the country level, especially in advance of another disaster situation.  '
+    text_base: mobilisation at the country level especially in advance of another disaster situation
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -106,10 +94,8 @@
     bbox: (41.63999938964844, 433.86846923828125, 415.76556396484375, 447.6359558105469)
     double_fontsize_int: 20
   - index: 323
-    text: 'Another lesson learned is the advantage of community participation. In
-      localities where the CoRC has established '
-    text_base: another lesson learned is the advantage of community participation
-      in localities where the corc has established
+    text: 'Another lesson learned is the advantage of community participation. In localities where the CoRC has established '
+    text_base: another lesson learned is the advantage of community participation in localities where the corc has established
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -121,10 +107,8 @@
     bbox: (41.63999938964844, 456.9084777832031, 545.1856079101562, 470.67596435546875)
     double_fontsize_int: 20
   - index: 324
-    text: '77 community management committees, it did not encounter any difficulties
-      in targeting within the affected '
-    text_base: 77 community management committees it did not encounter any difficulties
-      in targeting within the affected
+    text: '77 community management committees, it did not encounter any difficulties in targeting within the affected '
+    text_base: 77 community management committees it did not encounter any difficulties in targeting within the affected
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -136,10 +120,8 @@
     bbox: (41.63999938964844, 468.36846923828125, 545.1550903320312, 482.1359558105469)
     double_fontsize_int: 20
   - index: 325
-    text: 'population (identifying the recipients) or implementation of the activities
-      planned (relief distributions). However, in '
-    text_base: population identifying the recipients or implementation of the activities
-      planned relief distributions however in
+    text: 'population (identifying the recipients) or implementation of the activities planned (relief distributions). However, in '
+    text_base: population identifying the recipients or implementation of the activities planned relief distributions however in
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -151,10 +133,8 @@
     bbox: (41.63999938964844, 479.8884582519531, 545.1514892578125, 493.65594482421875)
     double_fontsize_int: 20
   - index: 326
-    text: 'localities where community management committees had not been established,
-      targeting, selection and planning '
-    text_base: localities where community management committees had not been established
-      targeting selection and planning
+    text: 'localities where community management committees had not been established, targeting, selection and planning '
+    text_base: localities where community management committees had not been established targeting selection and planning
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -166,10 +146,8 @@
     bbox: (41.63999938964844, 491.4084777832031, 544.9439697265625, 505.17596435546875)
     double_fontsize_int: 20
   - index: 327
-    text: 'and implemention was more challenging, resulting in delays in reaching
-      the affected population with necessary '
-    text_base: and implemention was more challenging resulting in delays in reaching
-      the affected population with necessary
+    text: 'and implemention was more challenging, resulting in delays in reaching the affected population with necessary '
+    text_base: and implemention was more challenging resulting in delays in reaching the affected population with necessary
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -194,21 +172,8 @@
     bbox: (41.63999938964844, 514.3884887695312, 97.24555969238281, 528.1559448242188)
     double_fontsize_int: 20
   items:
-  - Given the limited funding received, only 7% of the identified needs were able
-    to be covered through the operation; therefore with the support of the IFRC, developed
-    an advocacy campaign  at local level in collaboration with UN agencies (UNICEF,
-    UNDP, WFP). This campaign  at the local level contributed to the achievement of
-    results in the shelter sector which were unmet by the EA; but able to be addressed
-    in cooperation with other organizations.. This suggests that CoRC should explore
-    the potential for strengthening local partnership and opportunities for resource
-    mobilisation at the country level, especially in advance of another disaster situation.
-  - Another lesson learned is the advantage of community participation. In localities
-    where the CoRC has established 77 community management committees, it did not
-    encounter any difficulties in targeting within the affected population (identifying
-    the recipients) or implementation of the activities planned (relief distributions).
-    However, in localities where community management committees had not been established,
-    targeting, selection and planning and implemention was more challenging, resulting
-    in delays in reaching the affected population with necessary assistance.
+  - Given the limited funding received, only 7% of the identified needs were able to be covered through the operation; therefore with the support of the IFRC, developed an advocacy campaign at local level in collaboration with UN agencies (UNICEF, UNDP, WFP). This campaign at the local level contributed to the achievement of results in the shelter sector which were unmet by the EA; but able to be addressed in cooperation with other organizations.. This suggests that CoRC should explore the potential for strengthening local partnership and opportunities for resource mobilisation at the country level, especially in advance of another disaster situation.
+  - Another lesson learned is the advantage of community participation. In localities where the CoRC has established 77 community management committees, it did not encounter any difficulties in targeting within the affected population (identifying the recipients) or implementation of the activities planned (relief distributions). However, in localities where community management committees had not been established, targeting, selection and planning and implemention was more challenging, resulting in delays in reaching the affected population with necessary assistance.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -227,10 +192,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 402
-    text: 'CoRC benefited from a good coordination with other organizations during
-      the implementation of the response to '
-    text_base: corc benefited from a good coordination with other organizations during
-      the implementation of the response to
+    text: 'CoRC benefited from a good coordination with other organizations during the implementation of the response to '
+    text_base: corc benefited from a good coordination with other organizations during the implementation of the response to
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 6
@@ -255,8 +218,7 @@
     bbox: (41.63999938964844, 576.9085083007812, 220.00555419921875, 590.6759643554688)
     double_fontsize_int: 20
   items:
-  - CoRC benefited from a good coordination with other organizations during the implementation
-    of the response to TC Kenneth (MoH, UNICEF, WHO etc.)
+  - CoRC benefited from a good coordination with other organizations during the implementation of the response to TC Kenneth (MoH, UNICEF, WHO etc.)
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -275,10 +237,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 491
-    text: 'Establishment of a National Community Platform facilitated the decision
-      to construct 10 latrines as it enabled '
-    text_base: establishment of a national community platform facilitated the decision
-      to construct 10 latrines as it enabled
+    text: 'Establishment of a National Community Platform facilitated the decision to construct 10 latrines as it enabled '
+    text_base: establishment of a national community platform facilitated the decision to construct 10 latrines as it enabled
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 7
@@ -290,10 +250,8 @@
     bbox: (41.63999938964844, 724.4085083007812, 556.1773071289062, 738.1759643554688)
     double_fontsize_int: 20
   - index: 492
-    text: 'consultation with the targeted population on the lack of financial resources
-      to construct the intended 50; and enabled '
-    text_base: consultation with the targeted population on the lack of financial
-      resources to construct the intended 50 and enabled
+    text: 'consultation with the targeted population on the lack of financial resources to construct the intended 50; and enabled '
+    text_base: consultation with the targeted population on the lack of financial resources to construct the intended 50 and enabled
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 7
@@ -305,10 +263,8 @@
     bbox: (41.63999938964844, 735.8685302734375, 556.0963134765625, 749.635986328125)
     double_fontsize_int: 20
   - index: 493
-    text: 'their participation in the selection of benefitting schools.  Through this
-      operation, a lesson learned was to have better '
-    text_base: their participation in the selection of benefitting schools through
-      this operation a lesson learned was to have better
+    text: 'their participation in the selection of benefitting schools.  Through this operation, a lesson learned was to have better '
+    text_base: their participation in the selection of benefitting schools through this operation a lesson learned was to have better
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 7
@@ -320,10 +276,8 @@
     bbox: (41.63999938964844, 747.3884887695312, 556.215576171875, 761.1559448242188)
     double_fontsize_int: 20
   - index: 494
-    text: 'community engagement for accountability and transparency. It encourages
-      a positive image of the CoRC within the '
-    text_base: community engagement for accountability and transparency it encourages
-      a positive image of the corc within the
+    text: 'community engagement for accountability and transparency. It encourages a positive image of the CoRC within the '
+    text_base: community engagement for accountability and transparency it encourages a positive image of the corc within the
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 7
@@ -348,12 +302,7 @@
     bbox: (41.63999938964844, 770.3685302734375, 128.92555236816406, 784.135986328125)
     double_fontsize_int: 20
   items:
-  - Establishment of a National Community Platform facilitated the decision to construct
-    10 latrines as it enabled consultation with the targeted population on the lack
-    of financial resources to construct the intended 50; and enabled their participation
-    in the selection of benefitting schools.  Through this operation, a lesson learned
-    was to have better community engagement for accountability and transparency. It
-    encourages a positive image of the CoRC within the affected population
+  - Establishment of a National Community Platform facilitated the decision to construct 10 latrines as it enabled consultation with the targeted population on the lack of financial resources to construct the intended 50; and enabled their participation in the selection of benefitting schools. Through this operation, a lesson learned was to have better community engagement for accountability and transparency. It encourages a positive image of the CoRC within the affected population
 - title:
     text: 'Lessons learnt '
     text_base: lessons learnt
@@ -372,10 +321,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 551
-    text: 'CoRC benefited from a good coordination with other organizations during
-      the implementation of the response to TC '
-    text_base: corc benefited from a good coordination with other organizations during
-      the implementation of the response to tc
+    text: 'CoRC benefited from a good coordination with other organizations during the implementation of the response to TC '
+    text_base: corc benefited from a good coordination with other organizations during the implementation of the response to tc
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 8
@@ -400,5 +347,4 @@
     bbox: (41.63999938964844, 528.3084716796875, 203.92555236816406, 542.075927734375)
     double_fontsize_int: 20
   items:
-  - CoRC benefited from a good coordination with other organizations during the implementation
-    of the response to TC Kenneth (MoH, UNICEF, WHO etc.)
+  - CoRC benefited from a good coordination with other organizations during the implementation of the response to TC Kenneth (MoH, UNICEF, WHO etc.)

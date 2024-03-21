@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 509
-    text: '5. Although, SRCS has long years of experience in responding to emergencies,
-      SRCS DM and Operations '
-    text_base: 5 although srcs has long years of experience in responding to emergencies
-      srcs dm and operations
+    text: '5. Although, SRCS has long years of experience in responding to emergencies, SRCS DM and Operations '
+    text_base: 5 although srcs has long years of experience in responding to emergencies srcs dm and operations
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 8
@@ -31,10 +29,8 @@
     bbox: (59.63999938964844, 185.39297485351562, 550.8206176757812, 199.07801818847656)
     double_fontsize_int: 20
   - index: 510
-    text: 'department needs to be further strengthened to effectively respond to multiple
-      emergencies and to ensure '
-    text_base: department needs to be further strengthened to effectively respond
-      to multiple emergencies and to ensure
+    text: 'department needs to be further strengthened to effectively respond to multiple emergencies and to ensure '
+    text_base: department needs to be further strengthened to effectively respond to multiple emergencies and to ensure
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -59,10 +55,8 @@
     bbox: (77.66400146484375, 208.43295288085938, 383.35888671875, 222.1179962158203)
     double_fontsize_int: 20
   - index: 512
-    text: '6. Future operations should also strengthen mechanisms for Monitoring,
-      Reporting and Accountability, since '
-    text_base: 6 future operations should also strengthen mechanisms for monitoring
-      reporting and accountability since
+    text: '6. Future operations should also strengthen mechanisms for Monitoring, Reporting and Accountability, since '
+    text_base: 6 future operations should also strengthen mechanisms for monitoring reporting and accountability since
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -74,10 +68,8 @@
     bbox: (59.63999938964844, 225.83297729492188, 550.8609619140625, 239.5180206298828)
     double_fontsize_int: 20
   - index: 513
-    text: 'securing travel permits is sometimes lengthy and challenging. During the
-      time of this operation, IFRC had '
-    text_base: securing travel permits is sometimes lengthy and challenging during
-      the time of this operation ifrc had
+    text: 'securing travel permits is sometimes lengthy and challenging. During the time of this operation, IFRC had '
+    text_base: securing travel permits is sometimes lengthy and challenging during the time of this operation ifrc had
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -89,10 +81,8 @@
     bbox: (77.66400146484375, 237.35299682617188, 550.881591796875, 251.0380401611328)
     double_fontsize_int: 20
   - index: 514
-    text: 'supported initiatives for strengthening Beneficiary Communication and Accountability
-      to beneficiaries. '
-    text_base: supported initiatives for strengthening beneficiary communication and
-      accountability to beneficiaries
+    text: 'supported initiatives for strengthening Beneficiary Communication and Accountability to beneficiaries. '
+    text_base: supported initiatives for strengthening beneficiary communication and accountability to beneficiaries
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -104,10 +94,8 @@
     bbox: (77.66400146484375, 248.87295532226562, 550.9088745117188, 262.5579833984375)
     double_fontsize_int: 20
   - index: 515
-    text: 'Although it was too early for these initiatives to have an impact on the
-      operations, the support has been well '
-    text_base: although it was too early for these initiatives to have an impact on
-      the operations the support has been well
+    text: 'Although it was too early for these initiatives to have an impact on the operations, the support has been well '
+    text_base: although it was too early for these initiatives to have an impact on the operations the support has been well
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -119,10 +107,8 @@
     bbox: (77.66400146484375, 260.3929748535156, 550.505126953125, 274.0780029296875)
     double_fontsize_int: 20
   - index: 516
-    text: 'received by the national society to be included in all its plans. HQ linkages
-      with branches in PMER needs '
-    text_base: received by the national society to be included in all its plans hq
-      linkages with branches in pmer needs
+    text: 'received by the national society to be included in all its plans. HQ linkages with branches in PMER needs '
+    text_base: received by the national society to be included in all its plans hq linkages with branches in pmer needs
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -134,10 +120,8 @@
     bbox: (77.66400146484375, 271.9129943847656, 550.6829833984375, 285.5980224609375)
     double_fontsize_int: 20
   - index: 517
-    text: 'to further strengthened to ensure timely support from partners. Branches
-      in general were seen to be in need '
-    text_base: to further strengthened to ensure timely support from partners branches
-      in general were seen to be in need
+    text: 'to further strengthened to ensure timely support from partners. Branches in general were seen to be in need '
+    text_base: to further strengthened to ensure timely support from partners branches in general were seen to be in need
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -149,10 +133,8 @@
     bbox: (77.66400146484375, 283.4629821777344, 550.7344360351562, 297.14801025390625)
     double_fontsize_int: 20
   - index: 518
-    text: 'of better guidance and support from higher levels. This was also evident
-      from the partnership between White '
-    text_base: of better guidance and support from higher levels this was also evident
-      from the partnership between white
+    text: 'of better guidance and support from higher levels. This was also evident from the partnership between White '
+    text_base: of better guidance and support from higher levels this was also evident from the partnership between white
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -164,10 +146,8 @@
     bbox: (77.66400146484375, 294.8630065917969, 550.9252319335938, 308.54803466796875)
     double_fontsize_int: 20
   - index: 519
-    text: 'Nile branch had with UNHCR through which, field based presence and support
-      of UNHCR contributed to '
-    text_base: nile branch had with unhcr through which field based presence and support
-      of unhcr contributed to
+    text: 'Nile branch had with UNHCR through which, field based presence and support of UNHCR contributed to '
+    text_base: nile branch had with unhcr through which field based presence and support of unhcr contributed to
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -205,10 +185,8 @@
     bbox: (59.63999938964844, 335.22198486328125, 71.85311889648438, 350.3909606933594)
     double_fontsize_int: 22
   - index: 522
-    text: 'There is also need to provide greater support for financial management
-      at all levels within the national '
-    text_base: there is also need to provide greater support for financial management
-      at all levels within the national
+    text: 'There is also need to provide greater support for financial management at all levels within the national '
+    text_base: there is also need to provide greater support for financial management at all levels within the national
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -220,10 +198,8 @@
     bbox: (77.66400146484375, 336.38299560546875, 550.6875610351562, 350.0680236816406)
     double_fontsize_int: 20
   - index: 523
-    text: 'society. Delayed financial reporting from branches and from headquarters
-      to IFRC has been a problem and '
-    text_base: society delayed financial reporting from branches and from headquarters
-      to ifrc has been a problem and
+    text: 'society. Delayed financial reporting from branches and from headquarters to IFRC has been a problem and '
+    text_base: society delayed financial reporting from branches and from headquarters to ifrc has been a problem and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -235,10 +211,8 @@
     bbox: (77.66400146484375, 347.9029846191406, 550.3558959960938, 361.5880126953125)
     double_fontsize_int: 20
   - index: 524
-    text: 'which affected activity planning and implementation. Improvement of financial
-      management procedures and '
-    text_base: which affected activity planning and implementation improvement of
-      financial management procedures and
+    text: 'which affected activity planning and implementation. Improvement of financial management procedures and '
+    text_base: which affected activity planning and implementation improvement of financial management procedures and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -263,26 +237,9 @@
     bbox: (77.66400146484375, 370.8229675292969, 308.6259460449219, 384.50799560546875)
     double_fontsize_int: 20
   items:
-  - 5. Although, SRCS has long years of experience in responding to emergencies, SRCS
-    DM and Operations department needs to be further strengthened to effectively respond
-    to multiple emergencies and to ensure that there is greater participation of all
-    key sectors in the operations.
-  - 6. Future operations should also strengthen mechanisms for Monitoring, Reporting
-    and Accountability, since securing travel permits is sometimes lengthy and challenging.
-    During the time of this operation, IFRC had supported initiatives for strengthening
-    Beneficiary Communication and Accountability to beneficiaries. Although it was
-    too early for these initiatives to have an impact on the operations, the support
-    has been well received by the national society to be included in all its plans.
-    HQ linkages with branches in PMER needs to further strengthened to ensure timely
-    support from partners. Branches in general were seen to be in need of better guidance
-    and support from higher levels. This was also evident from the partnership between
-    White Nile branch had with UNHCR through which, field based presence and support
-    of UNHCR contributed to regular and improved quality of reports from the branch.
-  - 7. There is also need to provide greater support for financial management at all
-    levels within the national society. Delayed financial reporting from branches
-    and from headquarters to IFRC has been a problem and which affected activity planning
-    and implementation. Improvement of financial management procedures and systems
-    can contribute to more effective response.
+  - 5. Although, SRCS has long years of experience in responding to emergencies, SRCS DM and Operations department needs to be further strengthened to effectively respond to multiple emergencies and to ensure that there is greater participation of all key sectors in the operations.
+  - 6. Future operations should also strengthen mechanisms for Monitoring, Reporting and Accountability, since securing travel permits is sometimes lengthy and challenging. During the time of this operation, IFRC had supported initiatives for strengthening Beneficiary Communication and Accountability to beneficiaries. Although it was too early for these initiatives to have an impact on the operations, the support has been well received by the national society to be included in all its plans. HQ linkages with branches in PMER needs to further strengthened to ensure timely support from partners. Branches in general were seen to be in need of better guidance and support from higher levels. This was also evident from the partnership between White Nile branch had with UNHCR through which, field based presence and support of UNHCR contributed to regular and improved quality of reports from the branch.
+  - 7. There is also need to provide greater support for financial management at all levels within the national society. Delayed financial reporting from branches and from headquarters to IFRC has been a problem and which affected activity planning and implementation. Improvement of financial management procedures and systems can contribute to more effective response.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -301,10 +258,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 639
-    text: 'Services provided by SRCS have been timely and life-saving. Feedback received
-      from beneficiaries acknowledged '
-    text_base: services provided by srcs have been timely and life saving feedback
-      received from beneficiaries acknowledged
+    text: 'Services provided by SRCS have been timely and life-saving. Feedback received from beneficiaries acknowledged '
+    text_base: services provided by srcs have been timely and life saving feedback received from beneficiaries acknowledged
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 10
@@ -316,10 +271,8 @@
     bbox: (41.63999938964844, 312.7430114746094, 557.6869506835938, 326.42803955078125)
     double_fontsize_int: 20
   - index: 640
-    text: 'that services provided by SRCS contributed to reduction in incidence of
-      malaria, diarrhoea, eye infections and have '
-    text_base: that services provided by srcs contributed to reduction in incidence
-      of malaria diarrhoea eye infections and have
+    text: 'that services provided by SRCS contributed to reduction in incidence of malaria, diarrhoea, eye infections and have '
+    text_base: that services provided by srcs contributed to reduction in incidence of malaria diarrhoea eye infections and have
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -331,10 +284,8 @@
     bbox: (41.63999938964844, 324.2629699707031, 557.951416015625, 337.947998046875)
     double_fontsize_int: 20
   - index: 641
-    text: 'also contributed to filling major gaps in assistance for the displaced.
-      There is however, need to strengthen SRCS '
-    text_base: also contributed to filling major gaps in assistance for the displaced
-      there is however need to strengthen srcs
+    text: 'also contributed to filling major gaps in assistance for the displaced. There is however, need to strengthen SRCS '
+    text_base: also contributed to filling major gaps in assistance for the displaced there is however need to strengthen srcs
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -346,10 +297,8 @@
     bbox: (41.63999938964844, 335.7829895019531, 557.9888305664062, 349.468017578125)
     double_fontsize_int: 20
   - index: 642
-    text: 'capacities at national and branch levels in health programming. There is
-      also need to strengthen advocacy and SRCS '
-    text_base: capacities at national and branch levels in health programming there
-      is also need to strengthen advocacy and srcs
+    text: 'capacities at national and branch levels in health programming. There is also need to strengthen advocacy and SRCS '
+    text_base: capacities at national and branch levels in health programming there is also need to strengthen advocacy and srcs
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -374,13 +323,7 @@
     bbox: (41.63999938964844, 358.7029724121094, 241.8312530517578, 372.38800048828125)
     double_fontsize_int: 20
   items:
-  - Services provided by SRCS have been timely and life-saving. Feedback received
-    from beneficiaries acknowledged that services provided by SRCS contributed to
-    reduction in incidence of malaria, diarrhoea, eye infections and have also contributed
-    to filling major gaps in assistance for the displaced. There is however, need
-    to strengthen SRCS capacities at national and branch levels in health programming.
-    There is also need to strengthen advocacy and SRCS visibility to distinguish SRCS
-    from MoH staff.
+  - Services provided by SRCS have been timely and life-saving. Feedback received from beneficiaries acknowledged that services provided by SRCS contributed to reduction in incidence of malaria, diarrhoea, eye infections and have also contributed to filling major gaps in assistance for the displaced. There is however, need to strengthen SRCS capacities at national and branch levels in health programming. There is also need to strengthen advocacy and SRCS visibility to distinguish SRCS from MoH staff.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -399,10 +342,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 738
-    text: 'SRCS interventions in WASH has had very positive impact on the targeted
-      population and acknowledged by the state '
-    text_base: srcs interventions in wash has had very positive impact on the targeted
-      population and acknowledged by the state
+    text: 'SRCS interventions in WASH has had very positive impact on the targeted population and acknowledged by the state '
+    text_base: srcs interventions in wash has had very positive impact on the targeted population and acknowledged by the state
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 11
@@ -414,10 +355,8 @@
     bbox: (41.63999938964844, 698.2330322265625, 557.8308715820312, 711.9180297851562)
     double_fontsize_int: 20
   - index: 739
-    text: 'Ministry of Health. However, expectations by other humanitarian actors
-      from SRCS have been greater than existing '
-    text_base: ministry of health however expectations by other humanitarian actors
-      from srcs have been greater than existing
+    text: 'Ministry of Health. However, expectations by other humanitarian actors from SRCS have been greater than existing '
+    text_base: ministry of health however expectations by other humanitarian actors from srcs have been greater than existing
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -429,10 +368,8 @@
     bbox: (41.63999938964844, 709.7529296875, 557.882568359375, 723.43798828125)
     double_fontsize_int: 20
   - index: 740
-    text: 'NS capacities. A comprehensive strategy for WASH in emergencies and prioritizing
-      interventions based on SRCS '
-    text_base: ns capacities a comprehensive strategy for wash in emergencies and
-      prioritizing interventions based on srcs
+    text: 'NS capacities. A comprehensive strategy for WASH in emergencies and prioritizing interventions based on SRCS '
+    text_base: ns capacities a comprehensive strategy for wash in emergencies and prioritizing interventions based on srcs
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -444,10 +381,8 @@
     bbox: (41.63999938964844, 721.1529541015625, 557.8020629882812, 734.8380126953125)
     double_fontsize_int: 20
   - index: 741
-    text: 'strengths and capacities will assist SRCS to be more effective and have
-      better visibility. '
-    text_base: strengths and capacities will assist srcs to be more effective and
-      have better visibility
+    text: 'strengths and capacities will assist SRCS to be more effective and have better visibility. '
+    text_base: strengths and capacities will assist srcs to be more effective and have better visibility
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -459,10 +394,8 @@
     bbox: (41.63999938964844, 732.6689453125, 430.7588806152344, 746.35400390625)
     double_fontsize_int: 20
   - index: 742
-    text: 'Although water production did not meet sphere standards, WASH assistance
-      under the Complex Emergency was '
-    text_base: although water production did not meet sphere standards wash assistance
-      under the complex emergency was
+    text: 'Although water production did not meet sphere standards, WASH assistance under the Complex Emergency was '
+    text_base: although water production did not meet sphere standards wash assistance under the complex emergency was
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -474,10 +407,8 @@
     bbox: (41.63999938964844, 750.18896484375, 557.9776000976562, 763.8740234375)
     double_fontsize_int: 20
   - index: 743
-    text: 'acknowledged by WES programme as providing good quality safe drinking water
-      that contributed to reducing '
-    text_base: acknowledged by wes programme as providing good quality safe drinking
-      water that contributed to reducing
+    text: 'acknowledged by WES programme as providing good quality safe drinking water that contributed to reducing '
+    text_base: acknowledged by wes programme as providing good quality safe drinking water that contributed to reducing
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -489,10 +420,8 @@
     bbox: (41.63999938964844, 761.708984375, 557.9954223632812, 775.39404296875)
     double_fontsize_int: 20
   - index: 744
-    text: 'incidence of diarrheal and other waterborne diseases among the affected
-      population. By working in close collaboration '
-    text_base: incidence of diarrheal and other waterborne diseases among the affected
-      population by working in close collaboration
+    text: 'incidence of diarrheal and other waterborne diseases among the affected population. By working in close collaboration '
+    text_base: incidence of diarrheal and other waterborne diseases among the affected population by working in close collaboration
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -504,10 +433,8 @@
     bbox: (41.63999938964844, 773.22900390625, 557.899169921875, 786.9140014648438)
     double_fontsize_int: 20
   - index: 748
-    text: 'with WES and SMoH, SRCS interventions have contributed to sustainability
-      in provision of services for affected '
-    text_base: with wes and smoh srcs interventions have contributed to sustainability
-      in provision of services for affected
+    text: 'with WES and SMoH, SRCS interventions have contributed to sustainability in provision of services for affected '
+    text_base: with wes and smoh srcs interventions have contributed to sustainability in provision of services for affected
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -532,18 +459,8 @@
     bbox: (41.63999938964844, 72.69296264648438, 103.16293334960938, 86.37800598144531)
     double_fontsize_int: 20
   items:
-  - SRCS interventions in WASH has had very positive impact on the targeted population
-    and acknowledged by the state Ministry of Health. However, expectations by other
-    humanitarian actors from SRCS have been greater than existing NS capacities. A
-    comprehensive strategy for WASH in emergencies and prioritizing interventions
-    based on SRCS strengths and capacities will assist SRCS to be more effective and
-    have better visibility.
-  - Although water production did not meet sphere standards, WASH assistance under
-    the Complex Emergency was acknowledged by WES programme as providing good quality
-    safe drinking water that contributed to reducing incidence of diarrheal and other
-    waterborne diseases among the affected population. By working in close collaboration
-    with WES and SMoH, SRCS interventions have contributed to sustainability in provision
-    of services for affected communities.
+  - SRCS interventions in WASH has had very positive impact on the targeted population and acknowledged by the state Ministry of Health. However, expectations by other humanitarian actors from SRCS have been greater than existing NS capacities. A comprehensive strategy for WASH in emergencies and prioritizing interventions based on SRCS strengths and capacities will assist SRCS to be more effective and have better visibility.
+  - Although water production did not meet sphere standards, WASH assistance under the Complex Emergency was acknowledged by WES programme as providing good quality safe drinking water that contributed to reducing incidence of diarrheal and other waterborne diseases among the affected population. By working in close collaboration with WES and SMoH, SRCS interventions have contributed to sustainability in provision of services for affected communities.
 - title:
     text: 'Lessons learnt: '
     text_base: lessons learnt
@@ -562,10 +479,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 787
-    text: 'Through various partnerships with organizations outside the RCRC Movement,
-      SRCS has been able to '
-    text_base: through various partnerships with organizations outside the rcrc movement
-      srcs has been able to
+    text: 'Through various partnerships with organizations outside the RCRC Movement, SRCS has been able to '
+    text_base: through various partnerships with organizations outside the rcrc movement srcs has been able to
     style: 'arialmt, 22, #000000, nan'
     size: 11.039999961853027
     page_number: 12
@@ -577,10 +492,8 @@
     bbox: (41.63999938964844, 559.8820190429688, 556.82080078125, 575.0509643554688)
     double_fontsize_int: 22
   - index: 788
-    text: 'reach out to more vulnerable people. Organizational development support
-      for SRCS and branches will be '
-    text_base: reach out to more vulnerable people organizational development support
-      for srcs and branches will be
+    text: 'reach out to more vulnerable people. Organizational development support for SRCS and branches will be '
+    text_base: reach out to more vulnerable people organizational development support for srcs and branches will be
     style: 'arialmt, 22, #000000, nan'
     size: 11.039999961853027
     page_number: 12
@@ -593,8 +506,7 @@
     double_fontsize_int: 22
   - index: 789
     text: 'future priorities so that the NS is able to meet the expectations of partners. '
-    text_base: future priorities so that the ns is able to meet the expectations of
-      partners
+    text_base: future priorities so that the ns is able to meet the expectations of partners
     style: 'arialmt, 22, #000000, nan'
     size: 11.039999961853027
     page_number: 12
@@ -606,10 +518,7 @@
     bbox: (41.63999938964844, 585.2019653320312, 406.8191223144531, 600.3709106445312)
     double_fontsize_int: 22
   items:
-  - Through various partnerships with organizations outside the RCRC Movement, SRCS
-    has been able to reach out to more vulnerable people. Organizational development
-    support for SRCS and branches will be future priorities so that the NS is able
-    to meet the expectations of partners.
+  - Through various partnerships with organizations outside the RCRC Movement, SRCS has been able to reach out to more vulnerable people. Organizational development support for SRCS and branches will be future priorities so that the NS is able to meet the expectations of partners.
 - title:
     text: 'Lessons learnt '
     text_base: lessons learnt
@@ -628,10 +537,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 820
-    text: 'SRCS is seen as an important partner for WFP in Sudan. During late 2015,
-      a framework agreement on resilience in '
-    text_base: srcs is seen as an important partner for wfp in sudan during late 2015
-      a framework agreement on resilience in
+    text: 'SRCS is seen as an important partner for WFP in Sudan. During late 2015, a framework agreement on resilience in '
+    text_base: srcs is seen as an important partner for wfp in sudan during late 2015 a framework agreement on resilience in
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -656,8 +563,7 @@
     bbox: (41.63999938964844, 291.0229797363281, 262.6524353027344, 304.7080078125)
     double_fontsize_int: 20
   items:
-  - SRCS is seen as an important partner for WFP in Sudan. During late 2015, a framework
-    agreement on resilience in Sudan was also signed between WFP and SRCS.
+  - SRCS is seen as an important partner for WFP in Sudan. During late 2015, a framework agreement on resilience in Sudan was also signed between WFP and SRCS.
 - title:
     text: 'Lessons learnt  '
     text_base: lessons learnt
@@ -676,10 +582,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 858
-    text: 'SRCS branch capacities in advocacy and dissemination needs to be strengthened
-      so that needs of the most '
-    text_base: srcs branch capacities in advocacy and dissemination needs to be strengthened
-      so that needs of the most
+    text: 'SRCS branch capacities in advocacy and dissemination needs to be strengthened so that needs of the most '
+    text_base: srcs branch capacities in advocacy and dissemination needs to be strengthened so that needs of the most
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -704,9 +608,7 @@
     bbox: (41.63999938964844, 777.908935546875, 316.98419189453125, 791.593994140625)
     double_fontsize_int: 20
   items:
-  - SRCS branch capacities in advocacy and dissemination needs to be strengthened
-    so that needs of the most vulnerable can continue to be addressed in a sustainable
-    way.
+  - SRCS branch capacities in advocacy and dissemination needs to be strengthened so that needs of the most vulnerable can continue to be addressed in a sustainable way.
 - title:
     text: 'Lessons learnt '
     text_base: lessons learnt
@@ -738,10 +640,8 @@
     bbox: (59.63999938964844, 498.1365051269531, 64.22120666503906, 510.3384704589844)
     double_fontsize_int: 20
   - index: 900
-    text: 'The 2-day introductory workshop on disaster laws has generated great interest
-      among participants. This is '
-    text_base: the 2 day introductory workshop on disaster laws has generated great
-      interest among participants this is
+    text: 'The 2-day introductory workshop on disaster laws has generated great interest among participants. This is '
+    text_base: the 2 day introductory workshop on disaster laws has generated great interest among participants this is
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -753,10 +653,8 @@
     bbox: (77.66400146484375, 497.4429931640625, 550.1605834960938, 511.1280212402344)
     double_fontsize_int: 20
   - index: 901
-    text: 'a significant progress for SRCS, considering that Sudan is vulnerable to
-      multiple disasters and Sudanese '
-    text_base: a significant progress for srcs considering that sudan is vulnerable
-      to multiple disasters and sudanese
+    text: 'a significant progress for SRCS, considering that Sudan is vulnerable to multiple disasters and Sudanese '
+    text_base: a significant progress for srcs considering that sudan is vulnerable to multiple disasters and sudanese
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -768,10 +666,8 @@
     bbox: (77.66400146484375, 508.9629821777344, 544.9683227539062, 522.6480102539062)
     double_fontsize_int: 20
   - index: 902
-    text: 'Red Crescent is increasingly seen as the major responder to disasters in
-      Sudan.  '
-    text_base: red crescent is increasingly seen as the major responder to disasters
-      in sudan
+    text: 'Red Crescent is increasingly seen as the major responder to disasters in Sudan.  '
+    text_base: red crescent is increasingly seen as the major responder to disasters in sudan
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -809,8 +705,5 @@
     bbox: (77.66400146484375, 539.6829833984375, 333.2903137207031, 553.3680419921875)
     double_fontsize_int: 20
   items:
-  - The 2-day introductory workshop on disaster laws has generated great interest
-    among participants. This is a significant progress for SRCS, considering that
-    Sudan is vulnerable to multiple disasters and Sudanese Red Crescent is increasingly
-    seen as the major responder to disasters in Sudan.
+  - The 2-day introductory workshop on disaster laws has generated great interest among participants. This is a significant progress for SRCS, considering that Sudan is vulnerable to multiple disasters and Sudanese Red Crescent is increasingly seen as the major responder to disasters in Sudan.
   - SRCS plans in 2016 will further build on these successes.

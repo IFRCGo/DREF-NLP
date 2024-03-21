@@ -16,10 +16,8 @@
   sector_similarity_score: null
   content:
   - index: 1107
-    text: 'Throughout the operation, lessons learned during implementation informed
-      adjustments to the implementation '
-    text_base: throughout the operation lessons learned during implementation informed
-      adjustments to the implementation
+    text: 'Throughout the operation, lessons learned during implementation informed adjustments to the implementation '
+    text_base: throughout the operation lessons learned during implementation informed adjustments to the implementation
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -44,10 +42,8 @@
     bbox: (44.87999725341797, 456.053466796875, 364.5147705078125, 467.1806335449219)
     double_fontsize_int: 20
   - index: 1109
-    text: 'For instance, in the course of delivering shelter assistance, it was noted
-      that beneficiaries from remote areas '
-    text_base: for instance in the course of delivering shelter assistance it was
-      noted that beneficiaries from remote areas
+    text: 'For instance, in the course of delivering shelter assistance, it was noted that beneficiaries from remote areas '
+    text_base: for instance in the course of delivering shelter assistance it was noted that beneficiaries from remote areas
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -59,10 +55,8 @@
     bbox: (44.87999725341797, 478.97344970703125, 547.5396728515625, 490.1006164550781)
     double_fontsize_int: 20
   - index: 1110
-    text: "expressed that they felt disadvantaged since they had to put in extra resources\
-      \ \u2013 in terms of transportation costs "
-    text_base: expressed that they felt disadvantaged since they had to put in extra
-      resources in terms of transportation costs
+    text: "expressed that they felt disadvantaged since they had to put in extra resources \u2013 in terms of transportation costs "
+    text_base: expressed that they felt disadvantaged since they had to put in extra resources in terms of transportation costs
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -74,10 +68,8 @@
     bbox: (44.87999725341797, 490.4934387207031, 547.3405151367188, 501.62060546875)
     double_fontsize_int: 20
   - index: 1111
-    text: "\u2013 compared to those from areas near distribution sites. In future\
-      \ shelter interventions, it may be necessary to "
-    text_base: compared to those from areas near distribution sites in future shelter
-      interventions it may be necessary to
+    text: "\u2013 compared to those from areas near distribution sites. In future shelter interventions, it may be necessary to "
+    text_base: compared to those from areas near distribution sites in future shelter interventions it may be necessary to
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -89,10 +81,8 @@
     bbox: (44.87999725341797, 502.013427734375, 547.3903198242188, 513.140625)
     double_fontsize_int: 20
   - index: 1112
-    text: 'allocate a bigger budget for transporting items to accommodate the needs
-      of beneficiaries living in remote areas '
-    text_base: allocate a bigger budget for transporting items to accommodate the
-      needs of beneficiaries living in remote areas
+    text: 'allocate a bigger budget for transporting items to accommodate the needs of beneficiaries living in remote areas '
+    text_base: allocate a bigger budget for transporting items to accommodate the needs of beneficiaries living in remote areas
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -104,10 +94,8 @@
     bbox: (44.87999725341797, 513.5333862304688, 547.5396728515625, 524.6605834960938)
     double_fontsize_int: 20
   - index: 1113
-    text: 'so as to enhance equity. Such a provision would also position the project
-      teams to ensure that all items needed '
-    text_base: so as to enhance equity such a provision would also position the project
-      teams to ensure that all items needed
+    text: 'so as to enhance equity. Such a provision would also position the project teams to ensure that all items needed '
+    text_base: so as to enhance equity such a provision would also position the project teams to ensure that all items needed
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -119,10 +107,8 @@
     bbox: (44.87999725341797, 525.0534057617188, 546.9322509765625, 536.1806030273438)
     double_fontsize_int: 20
   - index: 1114
-    text: 'to repair or to construct have been received by beneficiaries in good condition
-      and on time. This lesson has been '
-    text_base: to repair or to construct have been received by beneficiaries in good
-      condition and on time this lesson has been
+    text: 'to repair or to construct have been received by beneficiaries in good condition and on time. This lesson has been '
+    text_base: to repair or to construct have been received by beneficiaries in good condition and on time this lesson has been
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -134,10 +120,8 @@
     bbox: (44.87999725341797, 536.453369140625, 547.2907104492188, 547.58056640625)
     double_fontsize_int: 20
   - index: 1115
-    text: 'applied during the ongoing Typhoon Bopha operation in that for shelter
-      repair kits, an additional amount of up to '
-    text_base: applied during the ongoing typhoon bopha operation in that for shelter
-      repair kits an additional amount of up to
+    text: 'applied during the ongoing Typhoon Bopha operation in that for shelter repair kits, an additional amount of up to '
+    text_base: applied during the ongoing typhoon bopha operation in that for shelter repair kits an additional amount of up to
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -149,10 +133,8 @@
     bbox: (44.87999725341797, 547.9733276367188, 546.9021606445312, 559.1005249023438)
     double_fontsize_int: 20
   - index: 1116
-    text: 'PHP 2,000 has been set aside for beneficiaries from far-flung areas. The
-      additional amount would cater for '
-    text_base: php 2 000 has been set aside for beneficiaries from far flung areas
-      the additional amount would cater for
+    text: 'PHP 2,000 has been set aside for beneficiaries from far-flung areas. The additional amount would cater for '
+    text_base: php 2 000 has been set aside for beneficiaries from far flung areas the additional amount would cater for
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -177,10 +159,8 @@
     bbox: (44.87999725341797, 571.0433349609375, 152.18734741210938, 582.1705322265625)
     double_fontsize_int: 20
   - index: 1118
-    text: "Through maintaining harmonious relations with local authorities in different\
-      \ areas of intervention, PRC \u2013 at "
-    text_base: through maintaining harmonious relations with local authorities in
-      different areas of intervention prc at
+    text: "Through maintaining harmonious relations with local authorities in different areas of intervention, PRC \u2013 at "
+    text_base: through maintaining harmonious relations with local authorities in different areas of intervention prc at
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -192,10 +172,8 @@
     bbox: (44.87999725341797, 594.0833129882812, 547.5382690429688, 605.2105102539062)
     double_fontsize_int: 20
   - index: 1119
-    text: "national headquarters and chapter levels \u2013 has been able to advocate\
-      \ successfully for safer land to resettle "
-    text_base: national headquarters and chapter levels has been able to advocate
-      successfully for safer land to resettle
+    text: "national headquarters and chapter levels \u2013 has been able to advocate successfully for safer land to resettle "
+    text_base: national headquarters and chapter levels has been able to advocate successfully for safer land to resettle
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -207,10 +185,8 @@
     bbox: (44.8800048828125, 605.4833374023438, 547.4700927734375, 616.6105346679688)
     double_fontsize_int: 20
   - index: 1120
-    text: 'families who used to live in hazard-prone areas. It is important to continue
-      nurturing the relations and engaging '
-    text_base: families who used to live in hazard prone areas it is important to
-      continue nurturing the relations and engaging
+    text: 'families who used to live in hazard-prone areas. It is important to continue nurturing the relations and engaging '
+    text_base: families who used to live in hazard prone areas it is important to continue nurturing the relations and engaging
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -235,10 +211,8 @@
     bbox: (44.8800048828125, 628.5233764648438, 280.0140380859375, 639.6505737304688)
     double_fontsize_int: 20
   - index: 1122
-    text: 'Finally, considering the unconditional cash grants provided under this
-      intervention are a first whereby PRC has '
-    text_base: finally considering the unconditional cash grants provided under this
-      intervention are a first whereby prc has
+    text: 'Finally, considering the unconditional cash grants provided under this intervention are a first whereby PRC has '
+    text_base: finally considering the unconditional cash grants provided under this intervention are a first whereby prc has
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -250,10 +224,8 @@
     bbox: (44.8800048828125, 651.5633544921875, 547.53955078125, 662.6905517578125)
     double_fontsize_int: 20
   - index: 1123
-    text: 'used the cash transfer methodology, an external evaluation for this project
-      component is planned for July and '
-    text_base: used the cash transfer methodology an external evaluation for this
-      project component is planned for july and
+    text: 'used the cash transfer methodology, an external evaluation for this project component is planned for July and '
+    text_base: used the cash transfer methodology an external evaluation for this project component is planned for july and
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -265,10 +237,8 @@
     bbox: (44.8800048828125, 663.0833740234375, 547.3406372070312, 674.2105712890625)
     double_fontsize_int: 20
   - index: 1124
-    text: 'August 2013. The purpose of the evaluation is to review the impact of cash-based
-      programming (CBP) '
-    text_base: august 2013 the purpose of the evaluation is to review the impact of
-      cash based programming cbp
+    text: 'August 2013. The purpose of the evaluation is to review the impact of cash-based programming (CBP) '
+    text_base: august 2013 the purpose of the evaluation is to review the impact of cash based programming cbp
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -280,10 +250,8 @@
     bbox: (44.8800048828125, 674.4833374023438, 547.4102172851562, 685.6105346679688)
     double_fontsize_int: 20
   - index: 1125
-    text: 'interventions undertaken by PRC from 2011 as part of emergency appeal operations
-      supported by IFRC, and to '
-    text_base: interventions undertaken by prc from 2011 as part of emergency appeal
-      operations supported by ifrc and to
+    text: 'interventions undertaken by PRC from 2011 as part of emergency appeal operations supported by IFRC, and to '
+    text_base: interventions undertaken by prc from 2011 as part of emergency appeal operations supported by ifrc and to
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -295,10 +263,8 @@
     bbox: (44.8800048828125, 686.0033569335938, 547.2807006835938, 697.1305541992188)
     double_fontsize_int: 20
   - index: 1126
-    text: 'analyse key areas for improvement as a whole. The evaluation will specifically
-      look at the design, implementation '
-    text_base: analyse key areas for improvement as a whole the evaluation will specifically
-      look at the design implementation
+    text: 'analyse key areas for improvement as a whole. The evaluation will specifically look at the design, implementation '
+    text_base: analyse key areas for improvement as a whole the evaluation will specifically look at the design implementation
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -310,10 +276,8 @@
     bbox: (44.8800048828125, 697.5233764648438, 547.2509765625, 708.6505737304688)
     double_fontsize_int: 20
   - index: 1127
-    text: 'and sustainability elements of CBP in relief, shelter and livelihoods.
-      It is expected that key lessons and '
-    text_base: and sustainability elements of cbp in relief shelter and livelihoods
-      it is expected that key lessons and
+    text: 'and sustainability elements of CBP in relief, shelter and livelihoods. It is expected that key lessons and '
+    text_base: and sustainability elements of cbp in relief shelter and livelihoods it is expected that key lessons and
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -325,10 +289,8 @@
     bbox: (44.8800048828125, 709.0433959960938, 547.2409057617188, 720.1705932617188)
     double_fontsize_int: 20
   - index: 1128
-    text: 'recommendations from the evaluation will guide PRC in future operations
-      and contribute to broader Red Cross '
-    text_base: recommendations from the evaluation will guide prc in future operations
-      and contribute to broader red cross
+    text: 'recommendations from the evaluation will guide PRC in future operations and contribute to broader Red Cross '
+    text_base: recommendations from the evaluation will guide prc in future operations and contribute to broader red cross
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -340,10 +302,8 @@
     bbox: (44.8800048828125, 720.5633544921875, 546.9320678710938, 731.6905517578125)
     double_fontsize_int: 20
   - index: 1129
-    text: 'Red Crescent learning, particularly to better address needs in emergency,
-      relief and recovery, taking into '
-    text_base: red crescent learning particularly to better address needs in emergency
-      relief and recovery taking into
+    text: 'Red Crescent learning, particularly to better address needs in emergency, relief and recovery, taking into '
+    text_base: red crescent learning particularly to better address needs in emergency relief and recovery taking into
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -355,10 +315,8 @@
     bbox: (44.8800048828125, 731.9833374023438, 547.519775390625, 743.1105346679688)
     double_fontsize_int: 20
   - index: 1130
-    text: 'account long-term impact and sustainability. Once finalized, the report
-      will be shared with interested donors and '
-    text_base: account long term impact and sustainability once finalized the report
-      will be shared with interested donors and
+    text: 'account long-term impact and sustainability. Once finalized, the report will be shared with interested donors and '
+    text_base: account long term impact and sustainability once finalized the report will be shared with interested donors and
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -383,35 +341,7 @@
     bbox: (44.8800048828125, 755.0233764648438, 87.14856719970703, 766.1505737304688)
     double_fontsize_int: 20
   items:
-  - Throughout the operation, lessons learned during implementation informed adjustments
-    to the implementation plan to ensure that assistance was delivered to beneficiaries
-    effectively.
-  - "For instance, in the course of delivering shelter assistance, it was noted that\
-    \ beneficiaries from remote areas expressed that they felt disadvantaged since\
-    \ they had to put in extra resources \u2013 in terms of transportation costs \u2013\
-    \ compared to those from areas near distribution sites. In future shelter interventions,\
-    \ it may be necessary to allocate a bigger budget for transporting items to accommodate\
-    \ the needs of beneficiaries living in remote areas so as to enhance equity. Such\
-    \ a provision would also position the project teams to ensure that all items needed\
-    \ to repair or to construct have been received by beneficiaries in good condition\
-    \ and on time. This lesson has been applied during the ongoing Typhoon Bopha operation\
-    \ in that for shelter repair kits, an additional amount of up to PHP 2,000 has\
-    \ been set aside for beneficiaries from far-flung areas. The additional amount\
-    \ would cater for transportation of items."
-  - "Through maintaining harmonious relations with local authorities in different\
-    \ areas of intervention, PRC \u2013 at national headquarters and chapter levels\
-    \ \u2013 has been able to advocate successfully for safer land to resettle families\
-    \ who used to live in hazard-prone areas. It is important to continue nurturing\
-    \ the relations and engaging the authorities as an auxiliary so as to reach further."
-  - Finally, considering the unconditional cash grants provided under this intervention
-    are a first whereby PRC has used the cash transfer methodology, an external evaluation
-    for this project component is planned for July and August 2013. The purpose of
-    the evaluation is to review the impact of cash-based programming (CBP) interventions
-    undertaken by PRC from 2011 as part of emergency appeal operations supported by
-    IFRC, and to analyse key areas for improvement as a whole. The evaluation will
-    specifically look at the design, implementation and sustainability elements of
-    CBP in relief, shelter and livelihoods. It is expected that key lessons and recommendations
-    from the evaluation will guide PRC in future operations and contribute to broader
-    Red Cross Red Crescent learning, particularly to better address needs in emergency,
-    relief and recovery, taking into account long-term impact and sustainability.
-    Once finalized, the report will be shared with interested donors and partners.
+  - Throughout the operation, lessons learned during implementation informed adjustments to the implementation plan to ensure that assistance was delivered to beneficiaries effectively.
+  - "For instance, in the course of delivering shelter assistance, it was noted that beneficiaries from remote areas expressed that they felt disadvantaged since they had to put in extra resources \u2013 in terms of transportation costs \u2013 compared to those from areas near distribution sites. In future shelter interventions, it may be necessary to allocate a bigger budget for transporting items to accommodate the needs of beneficiaries living in remote areas so as to enhance equity. Such a provision would also position the project teams to ensure that all items needed to repair or to construct have been received by beneficiaries in good condition and on time. This lesson has been applied during the ongoing Typhoon Bopha operation in that for shelter repair kits, an additional amount of up to PHP 2,000 has been set aside for beneficiaries from far-flung areas. The additional amount would cater for transportation of items."
+  - "Through maintaining harmonious relations with local authorities in different areas of intervention, PRC \u2013 at national headquarters and chapter levels \u2013 has been able to advocate successfully for safer land to resettle families who used to live in hazard-prone areas. It is important to continue nurturing the relations and engaging the authorities as an auxiliary so as to reach further."
+  - Finally, considering the unconditional cash grants provided under this intervention are a first whereby PRC has used the cash transfer methodology, an external evaluation for this project component is planned for July and August 2013. The purpose of the evaluation is to review the impact of cash-based programming (CBP) interventions undertaken by PRC from 2011 as part of emergency appeal operations supported by IFRC, and to analyse key areas for improvement as a whole. The evaluation will specifically look at the design, implementation and sustainability elements of CBP in relief, shelter and livelihoods. It is expected that key lessons and recommendations from the evaluation will guide PRC in future operations and contribute to broader Red Cross Red Crescent learning, particularly to better address needs in emergency, relief and recovery, taking into account long-term impact and sustainability. Once finalized, the report will be shared with interested donors and partners.

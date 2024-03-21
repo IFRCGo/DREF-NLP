@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 497
-    text: 'There were not many trained and skilled staff and volunteers who could
-      assist CVM with immediate needs '
-    text_base: there were not many trained and skilled staff and volunteers who could
-      assist cvm with immediate needs
+    text: 'There were not many trained and skilled staff and volunteers who could assist CVM with immediate needs '
+    text_base: there were not many trained and skilled staff and volunteers who could assist cvm with immediate needs
     style: 'arialmt, 20, #000000, #f1f1f1'
     size: 9.960000038146973
     page_number: 6
@@ -31,10 +29,8 @@
     bbox: (36.2400016784668, 390.2129821777344, 532.6434936523438, 403.89801025390625)
     double_fontsize_int: 20
   - index: 498
-    text: 'assessment on the ground, requiring sending NDRT from Maputo and neighbouring
-      provinces to lead the '
-    text_base: assessment on the ground requiring sending ndrt from maputo and neighbouring
-      provinces to lead the
+    text: 'assessment on the ground, requiring sending NDRT from Maputo and neighbouring provinces to lead the '
+    text_base: assessment on the ground requiring sending ndrt from maputo and neighbouring provinces to lead the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -59,10 +55,8 @@
     bbox: (36.2400016784668, 413.2566833496094, 76.80709075927734, 426.94171142578125)
     double_fontsize_int: 20
   - index: 500
-    text: 'Lack of emergency funds to kick start the operation while awaiting funding
-      from donors or even DREF start-up '
-    text_base: lack of emergency funds to kick start the operation while awaiting
-      funding from donors or even dref start up
+    text: 'Lack of emergency funds to kick start the operation while awaiting funding from donors or even DREF start-up '
+    text_base: lack of emergency funds to kick start the operation while awaiting funding from donors or even dref start up
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -74,10 +68,8 @@
     bbox: (36.2400016784668, 436.052978515625, 538.6820678710938, 449.7380065917969)
     double_fontsize_int: 20
   - index: 501
-    text: 'funds. This could have enabled payment of transportation for the prepositioned
-      items to the provinces that '
-    text_base: funds this could have enabled payment of transportation for the prepositioned
-      items to the provinces that
+    text: 'funds. This could have enabled payment of transportation for the prepositioned items to the provinces that '
+    text_base: funds this could have enabled payment of transportation for the prepositioned items to the provinces that
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -102,12 +94,8 @@
     bbox: (36.2400016784668, 458.9729919433594, 176.28756713867188, 472.65802001953125)
     double_fontsize_int: 20
   items:
-  - There were not many trained and skilled staff and volunteers who could assist
-    CVM with immediate needs assessment on the ground, requiring sending NDRT from
-    Maputo and neighbouring provinces to lead the process.
-  - Lack of emergency funds to kick start the operation while awaiting funding from
-    donors or even DREF start-up funds. This could have enabled payment of transportation
-    for the prepositioned items to the provinces that needed the items much earlier.
+  - There were not many trained and skilled staff and volunteers who could assist CVM with immediate needs assessment on the ground, requiring sending NDRT from Maputo and neighbouring provinces to lead the process.
+  - Lack of emergency funds to kick start the operation while awaiting funding from donors or even DREF start-up funds. This could have enabled payment of transportation for the prepositioned items to the provinces that needed the items much earlier.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -126,10 +114,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 660
-    text: 'In some areas, as the volunteers were distributing Certeza, the water purification
-      liquid, they were chased by '
-    text_base: in some areas as the volunteers were distributing certeza the water
-      purification liquid they were chased by
+    text: 'In some areas, as the volunteers were distributing Certeza, the water purification liquid, they were chased by '
+    text_base: in some areas as the volunteers were distributing certeza the water purification liquid they were chased by
     style: 'arialmt, 20, #000000, #ecebdf'
     size: 9.960000038146973
     page_number: 8
@@ -141,10 +127,8 @@
     bbox: (36.2400016784668, 316.6529846191406, 538.657470703125, 330.3380126953125)
     double_fontsize_int: 20
   - index: 661
-    text: 'some community members who thought that the liquid would cause them cholera.
-      In this situation, the volunteers '
-    text_base: some community members who thought that the liquid would cause them
-      cholera in this situation the volunteers
+    text: 'some community members who thought that the liquid would cause them cholera. In this situation, the volunteers '
+    text_base: some community members who thought that the liquid would cause them cholera in this situation the volunteers
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -156,10 +140,8 @@
     bbox: (36.2400016784668, 328.1729736328125, 538.6801147460938, 341.8580017089844)
     double_fontsize_int: 20
   - index: 662
-    text: 'focused on those households that accepted them and use these households
-      to advocate for the use of drinking '
-    text_base: focused on those households that accepted them and use these households
-      to advocate for the use of drinking
+    text: 'focused on those households that accepted them and use these households to advocate for the use of drinking '
+    text_base: focused on those households that accepted them and use these households to advocate for the use of drinking
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -184,10 +166,8 @@
     bbox: (36.239990234375, 351.22039794921875, 182.89102172851562, 364.9054260253906)
     double_fontsize_int: 20
   - index: 664
-    text: 'First time volunteers felt insecure reaching out to households for sensitization.
-      There was need for confidence '
-    text_base: first time volunteers felt insecure reaching out to households for
-      sensitization there was need for confidence
+    text: 'First time volunteers felt insecure reaching out to households for sensitization. There was need for confidence '
+    text_base: first time volunteers felt insecure reaching out to households for sensitization there was need for confidence
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -199,10 +179,8 @@
     bbox: (36.2400016784668, 374.0129699707031, 538.4370727539062, 387.697998046875)
     double_fontsize_int: 20
   - index: 665
-    text: 'building and pairing up of volunteers (new and old) to give the necessary
-      support to reach to the households. '
-    text_base: building and pairing up of volunteers new and old to give the necessary
-      support to reach to the households
+    text: 'building and pairing up of volunteers (new and old) to give the necessary support to reach to the households. '
+    text_base: building and pairing up of volunteers new and old to give the necessary support to reach to the households
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -214,10 +192,8 @@
     bbox: (36.239990234375, 385.53668212890625, 519.8477783203125, 399.2217102050781)
     double_fontsize_int: 20
   - index: 666
-    text: 'When the volunteers used the megaphones to announce their presence, in
-      some areas, the community '
-    text_base: when the volunteers used the megaphones to announce their presence
-      in some areas the community
+    text: 'When the volunteers used the megaphones to announce their presence, in some areas, the community '
+    text_base: when the volunteers used the megaphones to announce their presence in some areas the community
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -229,10 +205,8 @@
     bbox: (36.2400016784668, 408.5729675292969, 532.4722290039062, 422.25799560546875)
     double_fontsize_int: 20
   - index: 667
-    text: 'members left their homes and were not found in the homesteads by the volunteers.
-      This meant that the '
-    text_base: members left their homes and were not found in the homesteads by the
-      volunteers this meant that the
+    text: 'members left their homes and were not found in the homesteads by the volunteers. This meant that the '
+    text_base: members left their homes and were not found in the homesteads by the volunteers this meant that the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -244,10 +218,8 @@
     bbox: (36.2400016784668, 420.0966796875, 532.4783325195312, 433.7817077636719)
     double_fontsize_int: 20
   - index: 668
-    text: 'volunteers went back to these households where members were missing to
-      conduct their awareness sessions. '
-    text_base: volunteers went back to these households where members were missing
-      to conduct their awareness sessions
+    text: 'volunteers went back to these households where members were missing to conduct their awareness sessions. '
+    text_base: volunteers went back to these households where members were missing to conduct their awareness sessions
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -259,10 +231,8 @@
     bbox: (36.2400016784668, 431.5008850097656, 532.4635009765625, 445.1859130859375)
     double_fontsize_int: 20
   - index: 669
-    text: 'A lot of time was spent in covering these areas. For the available households,
-      awareness sessions were '
-    text_base: a lot of time was spent in covering these areas for the available households
-      awareness sessions were
+    text: 'A lot of time was spent in covering these areas. For the available households, awareness sessions were '
+    text_base: a lot of time was spent in covering these areas for the available households awareness sessions were
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -287,10 +257,8 @@
     bbox: (36.239959716796875, 454.5483093261719, 171.2477569580078, 468.23333740234375)
     double_fontsize_int: 20
   - index: 671
-    text: 'The CVM health focal point was on sick leave during the first three months
-      of the operation that also hampered '
-    text_base: the cvm health focal point was on sick leave during the first three
-      months of the operation that also hampered
+    text: 'The CVM health focal point was on sick leave during the first three months of the operation that also hampered '
+    text_base: the cvm health focal point was on sick leave during the first three months of the operation that also hampered
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -302,10 +270,8 @@
     bbox: (36.2400016784668, 477.5729675292969, 532.3078002929688, 491.25799560546875)
     double_fontsize_int: 20
   - index: 672
-    text: 'the progress and CVM capacity in combating cholera. As a result, a temporary
-      focal point was nominated to fill '
-    text_base: the progress and cvm capacity in combating cholera as a result a temporary
-      focal point was nominated to fill
+    text: 'the progress and CVM capacity in combating cholera. As a result, a temporary focal point was nominated to fill '
+    text_base: the progress and cvm capacity in combating cholera as a result a temporary focal point was nominated to fill
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -317,10 +283,8 @@
     bbox: (36.2400016784668, 489.0966796875, 532.4550170898438, 502.7817077636719)
     double_fontsize_int: 20
   - index: 673
-    text: 'the gap however; confusion in coordination with branches and other stakeholders
-      were reported. '
-    text_base: the gap however confusion in coordination with branches and other stakeholders
-      were reported
+    text: 'the gap however; confusion in coordination with branches and other stakeholders were reported. '
+    text_base: the gap however confusion in coordination with branches and other stakeholders were reported
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -332,24 +296,11 @@
     bbox: (36.239990234375, 500.6203918457031, 465.3666076660156, 514.305419921875)
     double_fontsize_int: 20
   items:
-  - In some areas, as the volunteers were distributing Certeza, the water purification
-    liquid, they were chased by some community members who thought that the liquid
-    would cause them cholera. In this situation, the volunteers focused on those households
-    that accepted them and use these households to advocate for the use of drinking
-    treated water to prevent cholera.
-  - First time volunteers felt insecure reaching out to households for sensitization.
-    There was need for confidence building and pairing up of volunteers (new and old)
-    to give the necessary support to reach to the households.
-  - When the volunteers used the megaphones to announce their presence, in some areas,
-    the community members left their homes and were not found in the homesteads by
-    the volunteers. This meant that the volunteers went back to these households where
-    members were missing to conduct their awareness sessions.
-  - A lot of time was spent in covering these areas. For the available households,
-    awareness sessions were conducted during the first visit
-  - The CVM health focal point was on sick leave during the first three months of
-    the operation that also hampered the progress and CVM capacity in combating cholera.
-    As a result, a temporary focal point was nominated to fill the gap however; confusion
-    in coordination with branches and other stakeholders were reported.
+  - In some areas, as the volunteers were distributing Certeza, the water purification liquid, they were chased by some community members who thought that the liquid would cause them cholera. In this situation, the volunteers focused on those households that accepted them and use these households to advocate for the use of drinking treated water to prevent cholera.
+  - First time volunteers felt insecure reaching out to households for sensitization. There was need for confidence building and pairing up of volunteers (new and old) to give the necessary support to reach to the households.
+  - When the volunteers used the megaphones to announce their presence, in some areas, the community members left their homes and were not found in the homesteads by the volunteers. This meant that the volunteers went back to these households where members were missing to conduct their awareness sessions.
+  - A lot of time was spent in covering these areas. For the available households, awareness sessions were conducted during the first visit
+  - The CVM health focal point was on sick leave during the first three months of the operation that also hampered the progress and CVM capacity in combating cholera. As a result, a temporary focal point was nominated to fill the gap however; confusion in coordination with branches and other stakeholders were reported.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -368,10 +319,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 792
-    text: 'In 1 de Maio and Mudiba where shallow wells were constructed, the area
-      is dry, meaning in the run up to the '
-    text_base: in 1 de maio and mudiba where shallow wells were constructed the area
-      is dry meaning in the run up to the
+    text: 'In 1 de Maio and Mudiba where shallow wells were constructed, the area is dry, meaning in the run up to the '
+    text_base: in 1 de maio and mudiba where shallow wells were constructed the area is dry meaning in the run up to the
     style: 'arialmt, 20, #000000, #ecebdf'
     size: 9.960000038146973
     page_number: 10
@@ -383,10 +332,8 @@
     bbox: (36.2400016784668, 348.6929626464844, 538.2391357421875, 362.37799072265625)
     double_fontsize_int: 20
   - index: 793
-    text: 'rainy season most of the wells were dry. This was confirmed during focus
-      group discussion at the evaluation '
-    text_base: rainy season most of the wells were dry this was confirmed during focus
-      group discussion at the evaluation
+    text: 'rainy season most of the wells were dry. This was confirmed during focus group discussion at the evaluation '
+    text_base: rainy season most of the wells were dry this was confirmed during focus group discussion at the evaluation
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -398,10 +345,8 @@
     bbox: (36.2400016784668, 360.2129821777344, 538.3098754882812, 373.89801025390625)
     double_fontsize_int: 20
   - index: 794
-    text: 'which means that the nearest rivers/streams with contaminated water are
-      what the community resorts to when '
-    text_base: which means that the nearest rivers streams with contaminated water
-      are what the community resorts to when
+    text: 'which means that the nearest rivers/streams with contaminated water are what the community resorts to when '
+    text_base: which means that the nearest rivers streams with contaminated water are what the community resorts to when
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -426,11 +371,7 @@
     bbox: (36.24000549316406, 383.2604064941406, 111.24876403808594, 396.9454345703125)
     double_fontsize_int: 20
   items:
-  - In 1 de Maio and Mudiba where shallow wells were constructed, the area is dry,
-    meaning in the run up to the rainy season most of the wells were dry. This was
-    confirmed during focus group discussion at the evaluation which means that the
-    nearest rivers/streams with contaminated water are what the community resorts
-    to when the wells dry up.
+  - In 1 de Maio and Mudiba where shallow wells were constructed, the area is dry, meaning in the run up to the rainy season most of the wells were dry. This was confirmed during focus group discussion at the evaluation which means that the nearest rivers/streams with contaminated water are what the community resorts to when the wells dry up.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -449,10 +390,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1038
-    text: '1.  There was delay in release of NFIs from warehouse in Maputo and finding
-      transport solution to deliver the '
-    text_base: 1 there was delay in release of nfis from warehouse in maputo and finding
-      transport solution to deliver the
+    text: '1.  There was delay in release of NFIs from warehouse in Maputo and finding transport solution to deliver the '
+    text_base: 1 there was delay in release of nfis from warehouse in maputo and finding transport solution to deliver the
     style: 'arialmt, 20, #000000, #ecebdf'
     size: 9.892471313476562
     page_number: 13
@@ -464,10 +403,8 @@
     bbox: (36.2400016784668, 309.9329528808594, 47.13146209716797, 323.61798095703125)
     double_fontsize_int: 20
   - index: 1040
-    text: 'items to the affected provinces. This in turn led to the delay in distribution
-      of relief to the affected populations '
-    text_base: items to the affected provinces this in turn led to the delay in distribution
-      of relief to the affected populations
+    text: 'items to the affected provinces. This in turn led to the delay in distribution of relief to the affected populations '
+    text_base: items to the affected provinces this in turn led to the delay in distribution of relief to the affected populations
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -479,10 +416,8 @@
     bbox: (54.2400016784668, 321.3329772949219, 538.34619140625, 335.01800537109375)
     double_fontsize_int: 20
   - index: 1041
-    text: 'thereby affecting CVM response time. Some of the beneficiaries had to wait
-      up to more than two weeks to '
-    text_base: thereby affecting cvm response time some of the beneficiaries had to
-      wait up to more than two weeks to
+    text: 'thereby affecting CVM response time. Some of the beneficiaries had to wait up to more than two weeks to '
+    text_base: thereby affecting cvm response time some of the beneficiaries had to wait up to more than two weeks to
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -494,10 +429,8 @@
     bbox: (54.2400016784668, 332.856689453125, 538.3748168945312, 346.5417175292969)
     double_fontsize_int: 20
   - index: 1042
-    text: 'receive support. Lack of transportation and inability of CVM to engage
-      private transport companies without '
-    text_base: receive support lack of transportation and inability of cvm to engage
-      private transport companies without
+    text: 'receive support. Lack of transportation and inability of CVM to engage private transport companies without '
+    text_base: receive support lack of transportation and inability of cvm to engage private transport companies without
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -509,10 +442,8 @@
     bbox: (54.2400016784668, 344.3804016113281, 538.364990234375, 358.0654296875)
     double_fontsize_int: 20
   - index: 1043
-    text: 'upfront payment led to this delay. When transport was available, it was
-      shared with other stakeholders '
-    text_base: upfront payment led to this delay when transport was available it was
-      shared with other stakeholders
+    text: 'upfront payment led to this delay. When transport was available, it was shared with other stakeholders '
+    text_base: upfront payment led to this delay when transport was available it was shared with other stakeholders
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -524,10 +455,8 @@
     bbox: (54.2400016784668, 355.8929748535156, 538.39697265625, 369.5891418457031)
     double_fontsize_int: 20
   - index: 1044
-    text: "therefore preference was given to the delivery of the stakeholder\u2019\
-      s items over those of CVM further "
-    text_base: therefore preference was given to the delivery of the stakeholder s
-      items over those of cvm further
+    text: "therefore preference was given to the delivery of the stakeholder\u2019s items over those of CVM further "
+    text_base: therefore preference was given to the delivery of the stakeholder s items over those of cvm further
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -552,10 +481,8 @@
     bbox: (54.2400016784668, 378.9329833984375, 204.12803649902344, 392.6180114746094)
     double_fontsize_int: 20
   - index: 1046
-    text: '2.  SPHERE standards was used in planning for the operation yet at the
-      time of implementation, the stock '
-    text_base: 2 sphere standards was used in planning for the operation yet at the
-      time of implementation the stock
+    text: '2.  SPHERE standards was used in planning for the operation yet at the time of implementation, the stock '
+    text_base: 2 sphere standards was used in planning for the operation yet at the time of implementation the stock
     style: 'arialmt, 20, #000000, nan'
     size: 9.892471313476562
     page_number: 13
@@ -567,10 +494,8 @@
     bbox: (36.2400016784668, 390.3329772949219, 47.12654495239258, 404.01800537109375)
     double_fontsize_int: 20
   - index: 1048
-    text: 'available was not enough to enable sufficient distribution hence in some
-      cases, only one blanket was given '
-    text_base: available was not enough to enable sufficient distribution hence in
-      some cases only one blanket was given
+    text: 'available was not enough to enable sufficient distribution hence in some cases, only one blanket was given '
+    text_base: available was not enough to enable sufficient distribution hence in some cases only one blanket was given
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -595,10 +520,8 @@
     bbox: (54.2400016784668, 413.3766784667969, 301.5766906738281, 427.06170654296875)
     double_fontsize_int: 20
   - index: 1050
-    text: '3.  Slow funds transfer from the IFRC and slow funds accountability from
-      CVM. '
-    text_base: 3 slow funds transfer from the ifrc and slow funds accountability from
-      cvm
+    text: '3.  Slow funds transfer from the IFRC and slow funds accountability from CVM. '
+    text_base: 3 slow funds transfer from the ifrc and slow funds accountability from cvm
     style: 'arialmt, 20, #000000, nan'
     size: 9.892471313476562
     page_number: 13
@@ -610,10 +533,8 @@
     bbox: (36.2400016784668, 424.8929748535156, 47.12654495239258, 438.5780029296875)
     double_fontsize_int: 20
   - index: 1052
-    text: '4.  The displaced households were allocated land for construction of dwellings
-      yet there was no land allocated '
-    text_base: 4 the displaced households were allocated land for construction of
-      dwellings yet there was no land allocated
+    text: '4.  The displaced households were allocated land for construction of dwellings yet there was no land allocated '
+    text_base: 4 the displaced households were allocated land for construction of dwellings yet there was no land allocated
     style: 'arialmt, 20, #000000, nan'
     size: 9.892471313476562
     page_number: 13
@@ -625,10 +546,8 @@
     bbox: (36.2400016784668, 436.4129638671875, 47.12654495239258, 450.0979919433594)
     double_fontsize_int: 20
   - index: 1054
-    text: 'for livelihood activities like farming, especially for the community in
-      Nacogolone. '
-    text_base: for livelihood activities like farming especially for the community
-      in nacogolone
+    text: 'for livelihood activities like farming, especially for the community in Nacogolone. '
+    text_base: for livelihood activities like farming especially for the community in nacogolone
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -640,10 +559,8 @@
     bbox: (54.2400016784668, 447.8171691894531, 408.6167907714844, 461.502197265625)
     double_fontsize_int: 20
   - index: 1055
-    text: '5.  At the time of the evaluation, shelter construction had not been completed
-      as expected due to the following '
-    text_base: 5 at the time of the evaluation shelter construction had not been completed
-      as expected due to the following
+    text: '5.  At the time of the evaluation, shelter construction had not been completed as expected due to the following '
+    text_base: 5 at the time of the evaluation shelter construction had not been completed as expected due to the following
     style: 'arialmt, 20, #000000, nan'
     size: 9.892471313476562
     page_number: 13
@@ -668,10 +585,8 @@
     bbox: (54.24000549316406, 470.856689453125, 95.4046859741211, 484.5417175292969)
     double_fontsize_int: 20
   - index: 1058
-    text: 'a)  There was delay and irregular delivery of blocks and small stones for
-      construction by the supplier. '
-    text_base: a there was delay and irregular delivery of blocks and small stones
-      for construction by the supplier
+    text: 'a)  There was delay and irregular delivery of blocks and small stones for construction by the supplier. '
+    text_base: a there was delay and irregular delivery of blocks and small stones for construction by the supplier
     style: 'arialmt, 20, #000000, nan'
     size: 9.892471313476562
     page_number: 13
@@ -683,10 +598,8 @@
     bbox: (72.23999786376953, 482.37298583984375, 83.60798645019531, 496.0580139160156)
     double_fontsize_int: 20
   - index: 1060
-    text: 'b)  Plans had been made to have the supplier make the blocks at the construction
-      sites but the quality '
-    text_base: b plans had been made to have the supplier make the blocks at the construction
-      sites but the quality
+    text: 'b)  Plans had been made to have the supplier make the blocks at the construction sites but the quality '
+    text_base: b plans had been made to have the supplier make the blocks at the construction sites but the quality
     style: 'arialmt, 20, #000000, nan'
     size: 9.892471313476562
     page_number: 13
@@ -698,10 +611,8 @@
     bbox: (72.23999786376953, 493.8929748535156, 83.60798645019531, 507.5780029296875)
     double_fontsize_int: 20
   - index: 1062
-    text: 'of these blocks were poor compared to those delivered from Quelimane further
-      affecting the '
-    text_base: of these blocks were poor compared to those delivered from quelimane
-      further affecting the
+    text: 'of these blocks were poor compared to those delivered from Quelimane further affecting the '
+    text_base: of these blocks were poor compared to those delivered from quelimane further affecting the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -726,10 +637,8 @@
     bbox: (90.23999786376953, 516.81298828125, 231.9707794189453, 530.498046875)
     double_fontsize_int: 20
   - index: 1064
-    text: 'c)  The beneficiaries in 1 de Maio and Mudiba during the evaluation expressed
-      their inability to '
-    text_base: c the beneficiaries in 1 de maio and mudiba during the evaluation expressed
-      their inability to
+    text: 'c)  The beneficiaries in 1 de Maio and Mudiba during the evaluation expressed their inability to '
+    text_base: c the beneficiaries in 1 de maio and mudiba during the evaluation expressed their inability to
     style: 'arialmt, 20, #000000, nan'
     size: 9.892471313476562
     page_number: 13
@@ -741,10 +650,8 @@
     bbox: (72.23999786376953, 528.3330078125, 83.12654113769531, 542.0180053710938)
     double_fontsize_int: 20
   - index: 1066
-    text: 'complete the construction due to financial constraints hence the need to
-      demonstrate how the '
-    text_base: complete the construction due to financial constraints hence the need
-      to demonstrate how the
+    text: 'complete the construction due to financial constraints hence the need to demonstrate how the '
+    text_base: complete the construction due to financial constraints hence the need to demonstrate how the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -756,10 +663,8 @@
     bbox: (90.23999786376953, 539.8529052734375, 538.2619018554688, 553.5379638671875)
     double_fontsize_int: 20
   - index: 1067
-    text: 'structures could be completed in a more affordable way without necessarily
-      using the expensive '
-    text_base: structures could be completed in a more affordable way without necessarily
-      using the expensive
+    text: 'structures could be completed in a more affordable way without necessarily using the expensive '
+    text_base: structures could be completed in a more affordable way without necessarily using the expensive
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -784,10 +689,8 @@
     bbox: (90.23999786376953, 562.8929443359375, 165.1292266845703, 576.5780029296875)
     double_fontsize_int: 20
   - index: 1069
-    text: 'd)  There were also structural errors noticed with regards with the way
-      the roofing had been built that '
-    text_base: d there were also structural errors noticed with regards with the way
-      the roofing had been built that
+    text: 'd)  There were also structural errors noticed with regards with the way the roofing had been built that '
+    text_base: d there were also structural errors noticed with regards with the way the roofing had been built that
     style: 'arialmt, 20, #000000, nan'
     size: 9.892471313476562
     page_number: 13
@@ -799,10 +702,8 @@
     bbox: (72.23999786376953, 574.4129638671875, 83.60798645019531, 588.0980224609375)
     double_fontsize_int: 20
   - index: 1071
-    text: 'led to some roofs being blown off a week before the evaluation began. This
-      required technical '
-    text_base: led to some roofs being blown off a week before the evaluation began
-      this required technical
+    text: 'led to some roofs being blown off a week before the evaluation began. This required technical '
+    text_base: led to some roofs being blown off a week before the evaluation began this required technical
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -814,10 +715,8 @@
     bbox: (90.23999786376953, 585.81298828125, 538.3873291015625, 599.4979858398438)
     double_fontsize_int: 20
   - index: 1072
-    text: 'expertise to establish what corrective measure could be done to ensure
-      a structurally sound '
-    text_base: expertise to establish what corrective measure could be done to ensure
-      a structurally sound
+    text: 'expertise to establish what corrective measure could be done to ensure a structurally sound '
+    text_base: expertise to establish what corrective measure could be done to ensure a structurally sound
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -842,10 +741,8 @@
     bbox: (90.23999786376953, 608.85302734375, 279.72900390625, 622.5380249023438)
     double_fontsize_int: 20
   - index: 1074
-    text: 'e)  Some of the timber and iron were purchased twice because they were
-      stolen. '
-    text_base: e some of the timber and iron were purchased twice because they were
-      stolen
+    text: 'e)  Some of the timber and iron were purchased twice because they were stolen. '
+    text_base: e some of the timber and iron were purchased twice because they were stolen
     style: 'arialmt, 20, #000000, nan'
     size: 9.892471313476562
     page_number: 13
@@ -857,39 +754,16 @@
     bbox: (72.23999786376953, 619.532958984375, 83.61145782470703, 633.218017578125)
     double_fontsize_int: 20
   items:
-  - "1.  There was delay in release of NFIs from warehouse in Maputo and finding transport\
-    \ solution to deliver the items to the affected provinces. This in turn led to\
-    \ the delay in distribution of relief to the affected populations thereby affecting\
-    \ CVM response time. Some of the beneficiaries had to wait up to more than two\
-    \ weeks to receive support. Lack of transportation and inability of CVM to engage\
-    \ private transport companies without upfront payment led to this delay. When\
-    \ transport was available, it was shared with other stakeholders therefore preference\
-    \ was given to the delivery of the stakeholder\u2019s items over those of CVM\
-    \ further contributing to delayed response."
-  - 2.  SPHERE standards was used in planning for the operation yet at the time of
-    implementation, the stock available was not enough to enable sufficient distribution
-    hence in some cases, only one blanket was given per household due to fewer numbers
-    available in stock.
-  - 3.  Slow funds transfer from the IFRC and slow funds accountability from CVM.
-  - 4.  The displaced households were allocated land for construction of dwellings
-    yet there was no land allocated for livelihood activities like farming, especially
-    for the community in Nacogolone.
-  - '5.  At the time of the evaluation, shelter construction had not been completed
-    as expected due to the following reasons:'
-  - a)  There was delay and irregular delivery of blocks and small stones for construction
-    by the supplier.
-  - b)  Plans had been made to have the supplier make the blocks at the construction
-    sites but the quality of these blocks were poor compared to those delivered from
-    Quelimane further affecting the structures that were being built.
-  - c)  The beneficiaries in 1 de Maio and Mudiba during the evaluation expressed
-    their inability to complete the construction due to financial constraints hence
-    the need to demonstrate how the structures could be completed in a more affordable
-    way without necessarily using the expensive concrete blocks.
-  - d)  There were also structural errors noticed with regards with the way the roofing
-    had been built that led to some roofs being blown off a week before the evaluation
-    began. This required technical expertise to establish what corrective measure
-    could be done to ensure a structurally sound structure handed over to the communities.
-  - e)  Some of the timber and iron were purchased twice because they were stolen.
+  - "1. There was delay in release of NFIs from warehouse in Maputo and finding transport solution to deliver the items to the affected provinces. This in turn led to the delay in distribution of relief to the affected populations thereby affecting CVM response time. Some of the beneficiaries had to wait up to more than two weeks to receive support. Lack of transportation and inability of CVM to engage private transport companies without upfront payment led to this delay. When transport was available, it was shared with other stakeholders therefore preference was given to the delivery of the stakeholder\u2019s items over those of CVM further contributing to delayed response."
+  - 2. SPHERE standards was used in planning for the operation yet at the time of implementation, the stock available was not enough to enable sufficient distribution hence in some cases, only one blanket was given per household due to fewer numbers available in stock.
+  - 3. Slow funds transfer from the IFRC and slow funds accountability from CVM.
+  - 4. The displaced households were allocated land for construction of dwellings yet there was no land allocated for livelihood activities like farming, especially for the community in Nacogolone.
+  - '5. At the time of the evaluation, shelter construction had not been completed as expected due to the following reasons:'
+  - a) There was delay and irregular delivery of blocks and small stones for construction by the supplier.
+  - b) Plans had been made to have the supplier make the blocks at the construction sites but the quality of these blocks were poor compared to those delivered from Quelimane further affecting the structures that were being built.
+  - c) The beneficiaries in 1 de Maio and Mudiba during the evaluation expressed their inability to complete the construction due to financial constraints hence the need to demonstrate how the structures could be completed in a more affordable way without necessarily using the expensive concrete blocks.
+  - d) There were also structural errors noticed with regards with the way the roofing had been built that led to some roofs being blown off a week before the evaluation began. This required technical expertise to establish what corrective measure could be done to ensure a structurally sound structure handed over to the communities.
+  - e) Some of the timber and iron were purchased twice because they were stolen.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -908,10 +782,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1113
-    text: 'There were not many trained and skilful staff and volunteers who could
-      assist CVM with immediate needs '
-    text_base: there were not many trained and skilful staff and volunteers who could
-      assist cvm with immediate needs
+    text: 'There were not many trained and skilful staff and volunteers who could assist CVM with immediate needs '
+    text_base: there were not many trained and skilful staff and volunteers who could assist cvm with immediate needs
     style: 'arialmt, 20, #000000, #ecebdf'
     size: 9.960000038146973
     page_number: 14
@@ -923,10 +795,8 @@
     bbox: (36.2400016784668, 318.0929870605469, 532.6781005859375, 331.77801513671875)
     double_fontsize_int: 20
   - index: 1114
-    text: 'assessment on the ground, requiring sending NDRT from Maputo and neighbouring
-      provinces to lead the '
-    text_base: assessment on the ground requiring sending ndrt from maputo and neighbouring
-      provinces to lead the
+    text: 'assessment on the ground, requiring sending NDRT from Maputo and neighbouring provinces to lead the '
+    text_base: assessment on the ground requiring sending ndrt from maputo and neighbouring provinces to lead the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -951,9 +821,7 @@
     bbox: (36.2400016784668, 341.1366882324219, 76.80709075927734, 354.82171630859375)
     double_fontsize_int: 20
   items:
-  - There were not many trained and skilful staff and volunteers who could assist
-    CVM with immediate needs assessment on the ground, requiring sending NDRT from
-    Maputo and neighbouring provinces to lead the process.
+  - There were not many trained and skilful staff and volunteers who could assist CVM with immediate needs assessment on the ground, requiring sending NDRT from Maputo and neighbouring provinces to lead the process.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -985,4 +853,4 @@
     bbox: (36.2400016784668, 481.5329895019531, 365.8888854980469, 495.218017578125)
     double_fontsize_int: 20
   items:
-  - 'Same as mentioned under Outcome 5: National Society Capacity Building '
+  - 'Same as mentioned under Outcome 5: National Society Capacity Building'

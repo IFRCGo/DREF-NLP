@@ -20,10 +20,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 322
-    text: 'The rainy season and logistical difficulties made shelter construction
-      very difficult. Mud bricks could '
-    text_base: the rainy season and logistical difficulties made shelter construction
-      very difficult mud bricks could
+    text: 'The rainy season and logistical difficulties made shelter construction very difficult. Mud bricks could '
+    text_base: the rainy season and logistical difficulties made shelter construction very difficult mud bricks could
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 3
@@ -56,8 +54,7 @@
     - 718.1306762695312
     double_fontsize_int: 20
   items:
-  - The rainy season and logistical difficulties made shelter construction very difficult.
-    Mud bricks could not dry on time, and material supply was done late.
+  - The rainy season and logistical difficulties made shelter construction very difficult. Mud bricks could not dry on time, and material supply was done late.
 - title:
     text: 'Challenges: '
     text_base: challenges
@@ -80,10 +77,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 840
-    text: 'Just like in the past, logistics remained a challenge in this region due
-      to limited paved roads, '
-    text_base: just like in the past logistics remained a challenge in this region
-      due to limited paved roads
+    text: 'Just like in the past, logistics remained a challenge in this region due to limited paved roads, '
+    text_base: just like in the past logistics remained a challenge in this region due to limited paved roads
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -99,10 +94,8 @@
     - 564.7405395507812
     double_fontsize_int: 20
   - index: 841
-    text: 'making access very difficult, particularly during the rainy season. Many
-      areas where the refugees '
-    text_base: making access very difficult particularly during the rainy season many
-      areas where the refugees
+    text: 'making access very difficult, particularly during the rainy season. Many areas where the refugees '
+    text_base: making access very difficult particularly during the rainy season many areas where the refugees
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -118,10 +111,8 @@
     - 576.2605590820312
     double_fontsize_int: 20
   - index: 842
-    text: 'were based are mostly accessible by motorbike or pirogue. In addition,
-      the annual heavy rainy '
-    text_base: were based are mostly accessible by motorbike or pirogue in addition
-      the annual heavy rainy
+    text: 'were based are mostly accessible by motorbike or pirogue. In addition, the annual heavy rainy '
+    text_base: were based are mostly accessible by motorbike or pirogue in addition the annual heavy rainy
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -137,10 +128,8 @@
     - 587.780517578125
     double_fontsize_int: 20
   - index: 843
-    text: 'season also made roads impassable and heightened travel delays, with the
-      possibility of '
-    text_base: season also made roads impassable and heightened travel delays with
-      the possibility of
+    text: 'season also made roads impassable and heightened travel delays, with the possibility of '
+    text_base: season also made roads impassable and heightened travel delays with the possibility of
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -156,10 +145,8 @@
     - 599.300537109375
     double_fontsize_int: 20
   - index: 844
-    text: 'experiencing a breakage in the commodity supply chain. This, therefore,
-      led to huge cost of '
-    text_base: experiencing a breakage in the commodity supply chain this therefore
-      led to huge cost of
+    text: 'experiencing a breakage in the commodity supply chain. This, therefore, led to huge cost of '
+    text_base: experiencing a breakage in the commodity supply chain this therefore led to huge cost of
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -175,10 +162,8 @@
     - 610.8204956054688
     double_fontsize_int: 20
   - index: 845
-    text: 'financial service charges, especially as money had to be remitted due to
-      lack of banking services in '
-    text_base: financial service charges especially as money had to be remitted due
-      to lack of banking services in
+    text: 'financial service charges, especially as money had to be remitted due to lack of banking services in '
+    text_base: financial service charges especially as money had to be remitted due to lack of banking services in
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -194,10 +179,8 @@
     - 622.2205200195312
     double_fontsize_int: 20
   - index: 846
-    text: 'the operation zone and fluctuations in exchange rates between the US dollar
-      and Congolese franc. '
-    text_base: the operation zone and fluctuations in exchange rates between the us
-      dollar and congolese franc
+    text: 'the operation zone and fluctuations in exchange rates between the US dollar and Congolese franc. '
+    text_base: the operation zone and fluctuations in exchange rates between the us dollar and congolese franc
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -213,15 +196,7 @@
     - 633.7405395507812
     double_fontsize_int: 20
   items:
-  - Just like in the past, logistics remained a challenge in this region due to limited
-    paved roads, making access very difficult, particularly during the rainy season.
-    Many areas where the refugees were based are mostly accessible by motorbike or
-    pirogue. In addition, the annual heavy rainy season also made roads impassable
-    and heightened travel delays, with the possibility of experiencing a breakage
-    in the commodity supply chain. This, therefore, led to huge cost of financial
-    service charges, especially as money had to be remitted due to lack of banking
-    services in the operation zone and fluctuations in exchange rates between the
-    US dollar and Congolese franc.
+  - Just like in the past, logistics remained a challenge in this region due to limited paved roads, making access very difficult, particularly during the rainy season. Many areas where the refugees were based are mostly accessible by motorbike or pirogue. In addition, the annual heavy rainy season also made roads impassable and heightened travel delays, with the possibility of experiencing a breakage in the commodity supply chain. This, therefore, led to huge cost of financial service charges, especially as money had to be remitted due to lack of banking services in the operation zone and fluctuations in exchange rates between the US dollar and Congolese franc.
 - title:
     text: 'Challenges  '
     text_base: challenges
@@ -244,10 +219,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 938
-    text: '        On a macro level, communications was difficult as there was poor
-      internet connectivity and difficulty   '
-    text_base: on a macro level communications was difficult as there was poor internet
-      connectivity and difficulty
+    text: '        On a macro level, communications was difficult as there was poor internet connectivity and difficulty   '
+    text_base: on a macro level communications was difficult as there was poor internet connectivity and difficulty
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -263,10 +236,8 @@
     - 649.25048828125
     double_fontsize_int: 20
   - index: 939
-    text: 'using even the mobile phone out of Gbadolite. Even the satellite phone
-      could not be used often as it was '
-    text_base: using even the mobile phone out of gbadolite even the satellite phone
-      could not be used often as it was
+    text: 'using even the mobile phone out of Gbadolite. Even the satellite phone could not be used often as it was '
+    text_base: using even the mobile phone out of gbadolite even the satellite phone could not be used often as it was
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -299,6 +270,4 @@
     - 672.2904663085938
     double_fontsize_int: 20
   items:
-  - On a macro level, communications was difficult as there was poor internet connectivity
-    and difficulty using even the mobile phone out of Gbadolite. Even the satellite
-    phone could not be used often as it was very costly to operate.
+  - On a macro level, communications was difficult as there was poor internet connectivity and difficulty using even the mobile phone out of Gbadolite. Even the satellite phone could not be used often as it was very costly to operate.

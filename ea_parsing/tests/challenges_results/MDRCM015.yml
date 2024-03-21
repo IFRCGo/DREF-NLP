@@ -20,10 +20,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 409
-    text: 'The plan to build shelters at the Guiwa site was delayed due to insecurity,
-      harsh climatic conditions that did not '
-    text_base: the plan to build shelters at the guiwa site was delayed due to insecurity
-      harsh climatic conditions that did not
+    text: 'The plan to build shelters at the Guiwa site was delayed due to insecurity, harsh climatic conditions that did not '
+    text_base: the plan to build shelters at the guiwa site was delayed due to insecurity harsh climatic conditions that did not
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 6
@@ -39,10 +37,8 @@
     - 326.880615234375
     double_fontsize_int: 20
   - index: 410
-    text: 'allow mud bricks to dry on time, the unavailability of building materials
-      in the localities, and the brick fabrication '
-    text_base: allow mud bricks to dry on time the unavailability of building materials
-      in the localities and the brick fabrication
+    text: 'allow mud bricks to dry on time, the unavailability of building materials in the localities, and the brick fabrication '
+    text_base: allow mud bricks to dry on time the unavailability of building materials in the localities and the brick fabrication
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 6
@@ -58,10 +54,8 @@
     - 338.400634765625
     double_fontsize_int: 20
   - index: 411
-    text: 'site allotted by the local authority that was far from the construction
-      site. However, mud brick fabrication sites were '
-    text_base: site allotted by the local authority that was far from the construction
-      site however mud brick fabrication sites were
+    text: 'site allotted by the local authority that was far from the construction site. However, mud brick fabrication sites were '
+    text_base: site allotted by the local authority that was far from the construction site however mud brick fabrication sites were
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 6
@@ -77,10 +71,8 @@
     - 349.920654296875
     double_fontsize_int: 20
   - index: 412
-    text: 'increased in order to accelerate shelter construction. The unfortunate
-      insecurity situation at the Guiwa site '
-    text_base: increased in order to accelerate shelter construction the unfortunate
-      insecurity situation at the guiwa site
+    text: 'increased in order to accelerate shelter construction. The unfortunate insecurity situation at the Guiwa site '
+    text_base: increased in order to accelerate shelter construction the unfortunate insecurity situation at the guiwa site
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 6
@@ -96,10 +88,8 @@
     - 361.3206481933594
     double_fontsize_int: 20
   - index: 413
-    text: 'delayed construction works during the most appropriate period for shelter
-      construction. '
-    text_base: delayed construction works during the most appropriate period for shelter
-      construction
+    text: 'delayed construction works during the most appropriate period for shelter construction. '
+    text_base: delayed construction works during the most appropriate period for shelter construction
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 6
@@ -115,10 +105,8 @@
     - 372.84063720703125
     double_fontsize_int: 20
   - index: 414
-    text: 'The solar lamp provision was scaled down because the solar lamps were of
-      poor quality and transporting them '
-    text_base: the solar lamp provision was scaled down because the solar lamps were
-      of poor quality and transporting them
+    text: 'The solar lamp provision was scaled down because the solar lamps were of poor quality and transporting them '
+    text_base: the solar lamp provision was scaled down because the solar lamps were of poor quality and transporting them
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 6
@@ -134,10 +122,8 @@
     - 390.3606262207031
     double_fontsize_int: 20
   - index: 415
-    text: 'from Nandoungue to Guiwa proved to be difficult. As such, only 100 out
-      of the planned 1000 lamps were '
-    text_base: from nandoungue to guiwa proved to be difficult as such only 100 out
-      of the planned 1000 lamps were
+    text: 'from Nandoungue to Guiwa proved to be difficult. As such, only 100 out of the planned 1000 lamps were '
+    text_base: from nandoungue to guiwa proved to be difficult as such only 100 out of the planned 1000 lamps were
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 6
@@ -170,17 +156,8 @@
     - 413.400634765625
     double_fontsize_int: 20
   items:
-  - The plan to build shelters at the Guiwa site was delayed due to insecurity, harsh
-    climatic conditions that did not allow mud bricks to dry on time, the unavailability
-    of building materials in the localities, and the brick fabrication site allotted
-    by the local authority that was far from the construction site. However, mud brick
-    fabrication sites were increased in order to accelerate shelter construction.
-    The unfortunate insecurity situation at the Guiwa site delayed construction works
-    during the most appropriate period for shelter construction.
-  - The solar lamp provision was scaled down because the solar lamps were of poor
-    quality and transporting them from Nandoungue to Guiwa proved to be difficult.
-    As such, only 100 out of the planned 1000 lamps were distributed in the Guiwa
-    refugee sites.
+  - The plan to build shelters at the Guiwa site was delayed due to insecurity, harsh climatic conditions that did not allow mud bricks to dry on time, the unavailability of building materials in the localities, and the brick fabrication site allotted by the local authority that was far from the construction site. However, mud brick fabrication sites were increased in order to accelerate shelter construction. The unfortunate insecurity situation at the Guiwa site delayed construction works during the most appropriate period for shelter construction.
+  - The solar lamp provision was scaled down because the solar lamps were of poor quality and transporting them from Nandoungue to Guiwa proved to be difficult. As such, only 100 out of the planned 1000 lamps were distributed in the Guiwa refugee sites.
 - title:
     text: 'Challenges: '
     text_base: challenges
@@ -203,10 +180,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 528
-    text: 'Construction of latrines was delayed due to instability, but considering
-      the challenges, a 67% implementation rate of '
-    text_base: construction of latrines was delayed due to instability but considering
-      the challenges a 67 implementation rate of
+    text: 'Construction of latrines was delayed due to instability, but considering the challenges, a 67% implementation rate of '
+    text_base: construction of latrines was delayed due to instability but considering the challenges a 67 implementation rate of
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 7
@@ -239,10 +214,8 @@
     - 719.4506225585938
     double_fontsize_int: 20
   - index: 530
-    text: 'Sanitation facility coverage remains a challenge as up to 50 community
-      latrines are needed in Ndokayo.  A borehole '
-    text_base: sanitation facility coverage remains a challenge as up to 50 community
-      latrines are needed in ndokayo a borehole
+    text: 'Sanitation facility coverage remains a challenge as up to 50 community latrines are needed in Ndokayo.  A borehole '
+    text_base: sanitation facility coverage remains a challenge as up to 50 community latrines are needed in ndokayo a borehole
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 7
@@ -258,10 +231,8 @@
     - 736.9706420898438
     double_fontsize_int: 20
   - index: 531
-    text: at the Ndokayo Integrated Health Centre and an additional 2 in the community
-      are also still required.
-    text_base: at the ndokayo integrated health centre and an additional 2 in the
-      community are also still required
+    text: at the Ndokayo Integrated Health Centre and an additional 2 in the community are also still required.
+    text_base: at the ndokayo integrated health centre and an additional 2 in the community are also still required
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 7
@@ -277,12 +248,8 @@
     - 748.4866333007812
     double_fontsize_int: 20
   items:
-  - Construction of latrines was delayed due to instability, but considering the challenges,
-    a 67% implementation rate of intended construction is considered a significant
-    achievement.
-  - Sanitation facility coverage remains a challenge as up to 50 community latrines
-    are needed in Ndokayo.  A borehole at the Ndokayo Integrated Health Centre and
-    an additional 2 in the community are also still required.
+  - Construction of latrines was delayed due to instability, but considering the challenges, a 67% implementation rate of intended construction is considered a significant achievement.
+  - Sanitation facility coverage remains a challenge as up to 50 community latrines are needed in Ndokayo. A borehole at the Ndokayo Integrated Health Centre and an additional 2 in the community are also still required.
 - title:
     text: 'Challenges: '
     text_base: challenges
@@ -305,10 +272,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 596
-    text: 'Limited capacity by the health department in the management of patients
-      at the Mandjou, Guiwa and Ndokayo '
-    text_base: limited capacity by the health department in the management of patients
-      at the mandjou guiwa and ndokayo
+    text: 'Limited capacity by the health department in the management of patients at the Mandjou, Guiwa and Ndokayo '
+    text_base: limited capacity by the health department in the management of patients at the mandjou guiwa and ndokayo
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -324,10 +289,8 @@
     - 608.1806030273438
     double_fontsize_int: 20
   - index: 597
-    text: 'integrated health centres (IHC) due to lack of drugs and laboratory consumables
-      as well as in monitoring of flow '
-    text_base: integrated health centres ihc due to lack of drugs and laboratory consumables
-      as well as in monitoring of flow
+    text: 'integrated health centres (IHC) due to lack of drugs and laboratory consumables as well as in monitoring of flow '
+    text_base: integrated health centres ihc due to lack of drugs and laboratory consumables as well as in monitoring of flow
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -360,10 +323,8 @@
     - 631.1006469726562
     double_fontsize_int: 20
   - index: 599
-    text: 'Low capacity and poor state of the technical platform and equipment of
-      the health centre, and limited capacity by '
-    text_base: low capacity and poor state of the technical platform and equipment
-      of the health centre and limited capacity by
+    text: 'Low capacity and poor state of the technical platform and equipment of the health centre, and limited capacity by '
+    text_base: low capacity and poor state of the technical platform and equipment of the health centre and limited capacity by
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -379,10 +340,8 @@
     - 648.650634765625
     double_fontsize_int: 20
   - index: 600
-    text: "auxiliary staff to support community monitoring of patients continued to\
-      \ be challenges. Ndokayo (B\xE9tar\xE9-Oya district) "
-    text_base: auxiliary staff to support community monitoring of patients continued
-      to be challenges ndokayo b tar oya district
+    text: "auxiliary staff to support community monitoring of patients continued to be challenges. Ndokayo (B\xE9tar\xE9-Oya district) "
+    text_base: auxiliary staff to support community monitoring of patients continued to be challenges ndokayo b tar oya district
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -399,8 +358,7 @@
     double_fontsize_int: 20
   - index: 601
     text: and Ndokayo IHC are still in need of a health unit and two nursing aides.
-    text_base: and ndokayo ihc are still in need of a health unit and two nursing
-      aides
+    text_base: and ndokayo ihc are still in need of a health unit and two nursing aides
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -416,13 +374,8 @@
     - 671.6906127929688
     double_fontsize_int: 20
   items:
-  - Limited capacity by the health department in the management of patients at the
-    Mandjou, Guiwa and Ndokayo integrated health centres (IHC) due to lack of drugs
-    and laboratory consumables as well as in monitoring of flow charts.
-  - "Low capacity and poor state of the technical platform and equipment of the health\
-    \ centre, and limited capacity by auxiliary staff to support community monitoring\
-    \ of patients continued to be challenges. Ndokayo (B\xE9tar\xE9-Oya district)\
-    \ and Ndokayo IHC are still in need of a health unit and two nursing aides."
+  - Limited capacity by the health department in the management of patients at the Mandjou, Guiwa and Ndokayo integrated health centres (IHC) due to lack of drugs and laboratory consumables as well as in monitoring of flow charts.
+  - "Low capacity and poor state of the technical platform and equipment of the health centre, and limited capacity by auxiliary staff to support community monitoring of patients continued to be challenges. Ndokayo (B\xE9tar\xE9-Oya district) and Ndokayo IHC are still in need of a health unit and two nursing aides."
 - title:
     text: 'Challenges: '
     text_base: challenges
@@ -445,10 +398,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 655
-    text: 'Due to security concerns, this activity was suspended the week of 3-9 December
-      2013, and again stopped in '
-    text_base: due to security concerns this activity was suspended the week of 3
-      9 december 2013 and again stopped in
+    text: 'Due to security concerns, this activity was suspended the week of 3-9 December 2013, and again stopped in '
+    text_base: due to security concerns this activity was suspended the week of 3 9 december 2013 and again stopped in
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -464,10 +415,8 @@
     - 528.140625
     double_fontsize_int: 20
   - index: 656
-    text: 'December 2014 because of serious security concerns and threats against
-      volunteers. However, everything returned '
-    text_base: december 2014 because of serious security concerns and threats against
-      volunteers however everything returned
+    text: 'December 2014 because of serious security concerns and threats against volunteers. However, everything returned '
+    text_base: december 2014 because of serious security concerns and threats against volunteers however everything returned
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -483,10 +432,8 @@
     - 539.66064453125
     double_fontsize_int: 20
   - index: 657
-    text: to normal and despite the constant mobility of the refugees, RFL activities
-      are carrying on to date in all the sites.
-    text_base: to normal and despite the constant mobility of the refugees rfl activities
-      are carrying on to date in all the sites
+    text: to normal and despite the constant mobility of the refugees, RFL activities are carrying on to date in all the sites.
+    text_base: to normal and despite the constant mobility of the refugees rfl activities are carrying on to date in all the sites
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -502,11 +449,7 @@
     - 551.1806030273438
     double_fontsize_int: 20
   items:
-  - Due to security concerns, this activity was suspended the week of 3-9 December
-    2013, and again stopped in December 2014 because of serious security concerns
-    and threats against volunteers. However, everything returned to normal and despite
-    the constant mobility of the refugees, RFL activities are carrying on to date
-    in all the sites.
+  - Due to security concerns, this activity was suspended the week of 3-9 December 2013, and again stopped in December 2014 because of serious security concerns and threats against volunteers. However, everything returned to normal and despite the constant mobility of the refugees, RFL activities are carrying on to date in all the sites.
 - title:
     text: 'Challenges: '
     text_base: challenges
@@ -529,10 +472,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 701
-    text: 'The situation in east Cameroon remains unstable with incursions of armed
-      groups from the CAR. Thus, the '
-    text_base: the situation in east cameroon remains unstable with incursions of
-      armed groups from the car thus the
+    text: 'The situation in east Cameroon remains unstable with incursions of armed groups from the CAR. Thus, the '
+    text_base: the situation in east cameroon remains unstable with incursions of armed groups from the car thus the
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -548,10 +489,8 @@
     - 263.85064697265625
     double_fontsize_int: 20
   - index: 702
-    text: 'strengthening of the capacity of the national society remains a constant
-      concern.  '
-    text_base: strengthening of the capacity of the national society remains a constant
-      concern
+    text: 'strengthening of the capacity of the national society remains a constant concern.  '
+    text_base: strengthening of the capacity of the national society remains a constant concern
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -567,10 +506,8 @@
     - 275.37066650390625
     double_fontsize_int: 20
   - index: 703
-    text: 'There are capacity gaps that need strengthening for  volunteers in all
-      sectors (health, nutrition, social and community '
-    text_base: there are capacity gaps that need strengthening for volunteers in all
-      sectors health nutrition social and community
+    text: 'There are capacity gaps that need strengthening for  volunteers in all sectors (health, nutrition, social and community '
+    text_base: there are capacity gaps that need strengthening for volunteers in all sectors health nutrition social and community
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -586,10 +523,8 @@
     - 292.920654296875
     double_fontsize_int: 20
   - index: 704
-    text: 'interventions and relief distribution) as well as developing their knowledge
-      in Safer Access and Security Management '
-    text_base: interventions and relief distribution as well as developing their knowledge
-      in safer access and security management
+    text: 'interventions and relief distribution) as well as developing their knowledge in Safer Access and Security Management '
+    text_base: interventions and relief distribution as well as developing their knowledge in safer access and security management
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -605,10 +540,8 @@
     - 304.44061279296875
     double_fontsize_int: 20
   - index: 705
-    text: 'covered by the operation in order to make them multi-skilled.  CRC staff
-      turnover affecting the operation as '
-    text_base: covered by the operation in order to make them multi skilled crc staff
-      turnover affecting the operation as
+    text: 'covered by the operation in order to make them multi-skilled.  CRC staff turnover affecting the operation as '
+    text_base: covered by the operation in order to make them multi skilled crc staff turnover affecting the operation as
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -641,11 +574,5 @@
     - 327.36065673828125
     double_fontsize_int: 20
   items:
-  - The situation in east Cameroon remains unstable with incursions of armed groups
-    from the CAR. Thus, the strengthening of the capacity of the national society
-    remains a constant concern.
-  - There are capacity gaps that need strengthening for  volunteers in all sectors
-    (health, nutrition, social and community interventions and relief distribution)
-    as well as developing their knowledge in Safer Access and Security Management
-    covered by the operation in order to make them multi-skilled.  CRC staff turnover
-    affecting the operation as employees move to other organisations.
+  - The situation in east Cameroon remains unstable with incursions of armed groups from the CAR. Thus, the strengthening of the capacity of the national society remains a constant concern.
+  - There are capacity gaps that need strengthening for volunteers in all sectors (health, nutrition, social and community interventions and relief distribution) as well as developing their knowledge in Safer Access and Security Management covered by the operation in order to make them multi-skilled. CRC staff turnover affecting the operation as employees move to other organisations.

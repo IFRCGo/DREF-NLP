@@ -18,10 +18,8 @@
   sector_similarity_score: null
   content:
   - index: 358
-    text: "The objectives of the emergency response operation were largely met, although\
-      \ the sheer scale of the disaster \u2013 "
-    text_base: the objectives of the emergency response operation were largely met
-      although the sheer scale of the disaster
+    text: "The objectives of the emergency response operation were largely met, although the sheer scale of the disaster \u2013 "
+    text_base: the objectives of the emergency response operation were largely met although the sheer scale of the disaster
     style: 'timesnewromanpsmt, 22, #000000, None'
     size: 10.979999542236328
     page_number: 5
@@ -35,10 +33,8 @@
     bbox_x2: 560.7415161132812
     double_fontsize_int: 22
   - index: 359
-    text: "which affected 70 per cent of the country\u2019s land mass \u2013 stretched\
-      \ the capacity of the KRCS to the limit. Concerted "
-    text_base: which affected 70 per cent of the country s land mass stretched the
-      capacity of the krcs to the limit concerted
+    text: "which affected 70 per cent of the country\u2019s land mass \u2013 stretched the capacity of the KRCS to the limit. Concerted "
+    text_base: which affected 70 per cent of the country s land mass stretched the capacity of the krcs to the limit concerted
     style: 'timesnewromanpsmt, 22, #000000, None'
     size: 10.979999542236328
     page_number: 5
@@ -52,10 +48,8 @@
     bbox_x2: 560.7459716796875
     double_fontsize_int: 22
   - index: 360
-    text: "efforts were made to support the National Society through the Federation\u2019\
-      s technical staff as well as dedicated "
-    text_base: efforts were made to support the national society through the federation
-      s technical staff as well as dedicated
+    text: "efforts were made to support the National Society through the Federation\u2019s technical staff as well as dedicated "
+    text_base: efforts were made to support the national society through the federation s technical staff as well as dedicated
     style: 'timesnewromanpsmt, 22, #000000, None'
     size: 10.979999542236328
     page_number: 5
@@ -84,10 +78,8 @@
     bbox_x2: 142.79666137695312
     double_fontsize_int: 22
   - index: 364
-    text: "The poor road infrastructure \u2013 80 percent of the drought-affected\
-      \ areas were in northern Kenya where there are no "
-    text_base: the poor road infrastructure 80 percent of the drought affected areas
-      were in northern kenya where there are no
+    text: "The poor road infrastructure \u2013 80 percent of the drought-affected areas were in northern Kenya where there are no "
+    text_base: the poor road infrastructure 80 percent of the drought affected areas were in northern kenya where there are no
     style: 'timesnewromanpsmt, 22, #000000, None'
     size: 10.979999542236328
     page_number: 6
@@ -101,10 +93,8 @@
     bbox_x2: 560.7280883789062
     double_fontsize_int: 22
   - index: 365
-    text: "tarmac roads \u2013 meant that Red Cross vehicles deployed for the operation\
-      \ required frequent maintenance, translating "
-    text_base: tarmac roads meant that red cross vehicles deployed for the operation
-      required frequent maintenance translating
+    text: "tarmac roads \u2013 meant that Red Cross vehicles deployed for the operation required frequent maintenance, translating "
+    text_base: tarmac roads meant that red cross vehicles deployed for the operation required frequent maintenance translating
     style: 'timesnewromanpsmt, 22, #000000, None'
     size: 10.979999542236328
     page_number: 6
@@ -118,10 +108,8 @@
     bbox_x2: 560.723876953125
     double_fontsize_int: 22
   - index: 366
-    text: 'into high maintenance costs. This experience will be used to inform future
-      project planning and budgeting.  '
-    text_base: into high maintenance costs this experience will be used to inform
-      future project planning and budgeting
+    text: 'into high maintenance costs. This experience will be used to inform future project planning and budgeting.  '
+    text_base: into high maintenance costs this experience will be used to inform future project planning and budgeting
     style: 'timesnewromanpsmt, 22, #000000, None'
     size: 10.979999542236328
     page_number: 6
@@ -135,10 +123,8 @@
     bbox_x2: 520.1616821289062
     double_fontsize_int: 22
   - index: 367
-    text: 'The succession of droughts in the past decade has significantly weakened
-      community coping capacities. Without '
-    text_base: the succession of droughts in the past decade has significantly weakened
-      community coping capacities without
+    text: 'The succession of droughts in the past decade has significantly weakened community coping capacities. Without '
+    text_base: the succession of droughts in the past decade has significantly weakened community coping capacities without
     style: 'timesnewromanpsmt, 22, #000000, None'
     size: 10.979999542236328
     page_number: 6
@@ -152,10 +138,8 @@
     bbox_x2: 560.8150634765625
     double_fontsize_int: 22
   - index: 368
-    text: 'meaningful recovery efforts, future prospects of the people living in arid
-      and semi-arid lands of the country will '
-    text_base: meaningful recovery efforts future prospects of the people living in
-      arid and semi arid lands of the country will
+    text: 'meaningful recovery efforts, future prospects of the people living in arid and semi-arid lands of the country will '
+    text_base: meaningful recovery efforts future prospects of the people living in arid and semi arid lands of the country will
     style: 'timesnewromanpsmt, 22, #000000, None'
     size: 10.979999542236328
     page_number: 6
@@ -169,10 +153,8 @@
     bbox_x2: 560.6851196289062
     double_fontsize_int: 22
   - index: 369
-    text: 'remain bleak. A long-term development strategy is needed to help communities
-      living in disaster prone areas to '
-    text_base: remain bleak a long term development strategy is needed to help communities
-      living in disaster prone areas to
+    text: 'remain bleak. A long-term development strategy is needed to help communities living in disaster prone areas to '
+    text_base: remain bleak a long term development strategy is needed to help communities living in disaster prone areas to
     style: 'timesnewromanpsmt, 22, #000000, None'
     size: 10.979999542236328
     page_number: 6
@@ -187,8 +169,7 @@
     double_fontsize_int: 22
   - index: 370
     text: 'strengthen their resilience by investing in diversification of their livelihoods.  '
-    text_base: strengthen their resilience by investing in diversification of their
-      livelihoods
+    text_base: strengthen their resilience by investing in diversification of their livelihoods
     style: 'timesnewromanpsmt, 22, #000000, None'
     size: 10.979999542236328
     page_number: 6
@@ -202,10 +183,8 @@
     bbox_x2: 387.836181640625
     double_fontsize_int: 22
   - index: 371
-    text: "Special note:  A final report \u2013 which will provide more details on\
-      \ achievements, impact and constraints/challenges met in "
-    text_base: special note a final report which will provide more details on achievements
-      impact and constraints challenges met in
+    text: "Special note:  A final report \u2013 which will provide more details on achievements, impact and constraints/challenges met in "
+    text_base: special note a final report which will provide more details on achievements impact and constraints challenges met in
     style: 'bold, 21, #000000, None'
     size: 10.5
     page_number: 6
@@ -219,8 +198,7 @@
     bbox_x2: 560.8189697265625
     double_fontsize_int: 21
   - index: 373
-    text: "the course of implementing the drought operation \u2013 will be issued\
-      \ shortly. "
+    text: "the course of implementing the drought operation \u2013 will be issued shortly. "
     text_base: the course of implementing the drought operation will be issued shortly
     style: 'timesnewromanpsmt, 21, #000000, None'
     size: 10.5
@@ -235,22 +213,7 @@
     bbox_x2: 358.70654296875
     double_fontsize_int: 21
   items:
-  - "The objectives of the emergency response operation were largely met, although\
-    \ the sheer scale of the disaster \u2013 which affected 70 per cent of the country\u2019\
-    s land mass \u2013 stretched the capacity of the KRCS to the limit. Concerted\
-    \ efforts were made to support the National Society through the Federation\u2019\
-    s technical staff as well as dedicated short-term delegates."
-  - "The poor road infrastructure \u2013 80 percent of the drought-affected areas\
-    \ were in northern Kenya where there are no tarmac roads \u2013 meant that Red\
-    \ Cross vehicles deployed for the operation required frequent maintenance, translating\
-    \ into high maintenance costs. This experience will be used to inform future project\
-    \ planning and budgeting."
-  - The succession of droughts in the past decade has significantly weakened community
-    coping capacities. Without meaningful recovery efforts, future prospects of the
-    people living in arid and semi-arid lands of the country will remain bleak. A
-    long-term development strategy is needed to help communities living in disaster
-    prone areas to strengthen their resilience by investing in diversification of
-    their livelihoods.
-  - "Special note:  A final report \u2013 which will provide more details on achievements,\
-    \ impact and constraints/challenges met in the course of implementing the drought\
-    \ operation \u2013 will be issued shortly."
+  - "The objectives of the emergency response operation were largely met, although the sheer scale of the disaster \u2013 which affected 70 per cent of the country\u2019s land mass \u2013 stretched the capacity of the KRCS to the limit. Concerted efforts were made to support the National Society through the Federation\u2019s technical staff as well as dedicated short-term delegates."
+  - "The poor road infrastructure \u2013 80 percent of the drought-affected areas were in northern Kenya where there are no tarmac roads \u2013 meant that Red Cross vehicles deployed for the operation required frequent maintenance, translating into high maintenance costs. This experience will be used to inform future project planning and budgeting."
+  - The succession of droughts in the past decade has significantly weakened community coping capacities. Without meaningful recovery efforts, future prospects of the people living in arid and semi-arid lands of the country will remain bleak. A long-term development strategy is needed to help communities living in disaster prone areas to strengthen their resilience by investing in diversification of their livelihoods.
+  - "Special note: A final report \u2013 which will provide more details on achievements, impact and constraints/challenges met in the course of implementing the drought operation \u2013 will be issued shortly."

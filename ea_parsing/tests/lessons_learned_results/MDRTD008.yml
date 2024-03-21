@@ -17,8 +17,7 @@
   content:
   - index: 80
     text: 'The response to the cholera epidemic showed that volunteers can be an important '
-    text_base: the response to the cholera epidemic showed that volunteers can be
-      an important
+    text_base: the response to the cholera epidemic showed that volunteers can be an important
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -30,10 +29,8 @@
     bbox: (144.29806518554688, 359.0828552246094, 539.3485717773438, 372.850341796875)
     double_fontsize_int: 20
   - index: 81
-    text: 'component of cholera eradication if adequate training and material are
-      provided to them. The prepositioning '
-    text_base: component of cholera eradication if adequate training and material
-      are provided to them the prepositioning
+    text: 'component of cholera eradication if adequate training and material are provided to them. The prepositioning '
+    text_base: component of cholera eradication if adequate training and material are provided to them the prepositioning
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -45,10 +42,8 @@
     bbox: (54.541900634765625, 370.6058654785156, 539.352783203125, 384.37335205078125)
     double_fontsize_int: 20
   - index: 82
-    text: 'of cholera NFIs in key cholera-prone areas is also a major issue to be
-      tackled to provide for a rapid '
-    text_base: of cholera nfis in key cholera prone areas is also a major issue to
-      be tackled to provide for a rapid
+    text: 'of cholera NFIs in key cholera-prone areas is also a major issue to be tackled to provide for a rapid '
+    text_base: of cholera nfis in key cholera prone areas is also a major issue to be tackled to provide for a rapid
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -60,10 +55,8 @@
     bbox: (54.541900634765625, 382.1288757324219, 539.3903198242188, 395.8963623046875)
     double_fontsize_int: 20
   - index: 83
-    text: 'assistance to beneficiaries (Chad is a landlocked country and importation
-      from neighboring countries causes '
-    text_base: assistance to beneficiaries chad is a landlocked country and importation
-      from neighboring countries causes
+    text: 'assistance to beneficiaries (Chad is a landlocked country and importation from neighboring countries causes '
+    text_base: assistance to beneficiaries chad is a landlocked country and importation from neighboring countries causes
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -75,10 +68,8 @@
     bbox: (54.54191589355469, 393.5917663574219, 539.2918090820312, 407.3592529296875)
     double_fontsize_int: 20
   - index: 84
-    text: 'unacceptable delays). Advocacy at NS level should also focus on contingency
-      funding in support of running '
-    text_base: unacceptable delays advocacy at ns level should also focus on contingency
-      funding in support of running
+    text: 'unacceptable delays). Advocacy at NS level should also focus on contingency funding in support of running '
+    text_base: unacceptable delays advocacy at ns level should also focus on contingency funding in support of running
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -103,11 +94,4 @@
     bbox: (54.541900634765625, 416.6377868652344, 353.6889343261719, 430.4052734375)
     double_fontsize_int: 20
   items:
-  - The response to the cholera epidemic showed that volunteers can be an important
-    component of cholera eradication if adequate training and material are provided
-    to them. The prepositioning of cholera NFIs in key cholera-prone areas is also
-    a major issue to be tackled to provide for a rapid assistance to beneficiaries
-    (Chad is a landlocked country and importation from neighboring countries causes
-    unacceptable delays). Advocacy at NS level should also focus on contingency funding
-    in support of running costs, such as the payment of volunteers and transportation
-    costs.
+  - The response to the cholera epidemic showed that volunteers can be an important component of cholera eradication if adequate training and material are provided to them. The prepositioning of cholera NFIs in key cholera-prone areas is also a major issue to be tackled to provide for a rapid assistance to beneficiaries (Chad is a landlocked country and importation from neighboring countries causes unacceptable delays). Advocacy at NS level should also focus on contingency funding in support of running costs, such as the payment of volunteers and transportation costs.

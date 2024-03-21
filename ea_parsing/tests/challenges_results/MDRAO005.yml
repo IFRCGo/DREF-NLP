@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 387
-    text: 'The greatest challenge experienced was that of a limited supply of maize
-      and mealy meal.   '
-    text_base: the greatest challenge experienced was that of a limited supply of
-      maize and mealy meal
+    text: 'The greatest challenge experienced was that of a limited supply of maize and mealy meal.   '
+    text_base: the greatest challenge experienced was that of a limited supply of maize and mealy meal
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -31,5 +29,4 @@
     bbox: (44.87999725341797, 652.992919921875, 451.8856201171875, 666.677978515625)
     double_fontsize_int: 20
   items:
-  - 'The greatest challenge experienced was that of a limited supply of maize and
-    mealy meal.   '
+  - The greatest challenge experienced was that of a limited supply of maize and mealy meal.

@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 581
-    text: 'Logistics and Supply Chain: custom clearance of the basic NFIs remains
-      a challenge. Additional immediate need '
-    text_base: logistics and supply chain custom clearance of the basic nfis remains
-      a challenge additional immediate need
+    text: 'Logistics and Supply Chain: custom clearance of the basic NFIs remains a challenge. Additional immediate need '
+    text_base: logistics and supply chain custom clearance of the basic nfis remains a challenge additional immediate need
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
@@ -31,10 +29,8 @@
     bbox: (59.63999938964844, 685.29296875, 554.6309814453125, 698.97802734375)
     double_fontsize_int: 20
   - index: 582
-    text: 'of emergency shelter requirement following the current flash floods in
-      the operation area caused shortage in '
-    text_base: of emergency shelter requirement following the current flash floods
-      in the operation area caused shortage in
+    text: 'of emergency shelter requirement following the current flash floods in the operation area caused shortage in '
+    text_base: of emergency shelter requirement following the current flash floods in the operation area caused shortage in
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
@@ -59,9 +55,7 @@
     bbox: (59.63999938964844, 708.3330078125, 94.08888244628906, 722.0180053710938)
     double_fontsize_int: 20
   items:
-  - 'Logistics and Supply Chain: custom clearance of the basic NFIs remains a challenge.
-    Additional immediate need of emergency shelter requirement following the current
-    flash floods in the operation area caused shortage in supply.'
+  - 'Logistics and Supply Chain: custom clearance of the basic NFIs remains a challenge. Additional immediate need of emergency shelter requirement following the current flash floods in the operation area caused shortage in supply.'
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -80,10 +74,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 651
-    text: 'High expectation of the community from the NS to tackle the AWD incidents
-      in the states which are not affected '
-    text_base: high expectation of the community from the ns to tackle the awd incidents
-      in the states which are not affected
+    text: 'High expectation of the community from the NS to tackle the AWD incidents in the states which are not affected '
+    text_base: high expectation of the community from the ns to tackle the awd incidents in the states which are not affected
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -108,8 +100,7 @@
     bbox: (59.63999938964844, 644.85302734375, 154.68887329101562, 658.5380249023438)
     double_fontsize_int: 20
   items:
-  - High expectation of the community from the NS to tackle the AWD incidents in the
-    states which are not affected by the flood disaster.
+  - High expectation of the community from the NS to tackle the AWD incidents in the states which are not affected by the flood disaster.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -128,10 +119,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 775
-    text: 'High expectation of communities in other flood and non-flood affected area
-      is high. The cost for water system '
-    text_base: high expectation of communities in other flood and non flood affected
-      area is high the cost for water system
+    text: 'High expectation of communities in other flood and non-flood affected area is high. The cost for water system '
+    text_base: high expectation of communities in other flood and non flood affected area is high the cost for water system
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -144,8 +133,7 @@
     double_fontsize_int: 20
   - index: 776
     text: 'establishment is high due to less completion of the contractors and availability. '
-    text_base: establishment is high due to less completion of the contractors and
-      availability
+    text_base: establishment is high due to less completion of the contractors and availability
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -157,9 +145,7 @@
     bbox: (59.63999938964844, 396.4529724121094, 409.3256530761719, 410.13800048828125)
     double_fontsize_int: 20
   items:
-  - High expectation of communities in other flood and non-flood affected area is
-    high. The cost for water system establishment is high due to less completion of
-    the contractors and availability.
+  - High expectation of communities in other flood and non-flood affected area is high. The cost for water system establishment is high due to less completion of the contractors and availability.
 - title:
     text: 'Challenges  '
     text_base: challenges
@@ -191,10 +177,8 @@
     bbox: (77.63999938964844, 84.06645965576172, 82.22120666503906, 96.2684326171875)
     double_fontsize_int: 20
   - index: 817
-    text: 'Activities under this outcome needs additional time. And these could not
-      be prioritized over direct '
-    text_base: activities under this outcome needs additional time and these could
-      not be prioritized over direct
+    text: 'Activities under this outcome needs additional time. And these could not be prioritized over direct '
+    text_base: activities under this outcome needs additional time and these could not be prioritized over direct
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -232,10 +216,8 @@
     bbox: (77.63999938964844, 107.70647430419922, 82.22120666503906, 119.908447265625)
     double_fontsize_int: 20
   - index: 820
-    text: 'Tax exemption procedures in the country for vehicles is took more than
-      a year to finalize. '
-    text_base: tax exemption procedures in the country for vehicles is took more than
-      a year to finalize
+    text: 'Tax exemption procedures in the country for vehicles is took more than a year to finalize. '
+    text_base: tax exemption procedures in the country for vehicles is took more than a year to finalize
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -247,10 +229,8 @@
     bbox: (95.63999938964844, 107.01296997070312, 490.80889892578125, 120.69801330566406)
     double_fontsize_int: 20
   items:
-  - Activities under this outcome needs additional time. And these could not be prioritized
-    over direct assistance to affected people.
-  - Tax exemption procedures in the country for vehicles is took more than a year
-    to finalize.
+  - Activities under this outcome needs additional time. And these could not be prioritized over direct assistance to affected people.
+  - Tax exemption procedures in the country for vehicles is took more than a year to finalize.
 - title:
     text: 'Challenges  '
     text_base: challenges
@@ -282,10 +262,8 @@
     bbox: (59.63999938964844, 597.906494140625, 64.22120666503906, 610.1084594726562)
     double_fontsize_int: 20
   - index: 864
-    text: 'Continuous nature of flood in the area is a challenge for communities in
-      five states. Request for support form '
-    text_base: continuous nature of flood in the area is a challenge for communities
-      in five states request for support form
+    text: 'Continuous nature of flood in the area is a challenge for communities in five states. Request for support form '
+    text_base: continuous nature of flood in the area is a challenge for communities in five states request for support form
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -297,10 +275,8 @@
     bbox: (77.63999938964844, 597.2130126953125, 563.045654296875, 610.8980102539062)
     double_fontsize_int: 20
   - index: 865
-    text: 'localities challenged the branch offices capacity and resources. The resettlement
-      request of the community in '
-    text_base: localities challenged the branch offices capacity and resources the
-      resettlement request of the community in
+    text: 'localities challenged the branch offices capacity and resources. The resettlement request of the community in '
+    text_base: localities challenged the branch offices capacity and resources the resettlement request of the community in
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -312,10 +288,8 @@
     bbox: (77.63999938964844, 608.6129150390625, 563.0626831054688, 622.2979736328125)
     double_fontsize_int: 20
   - index: 866
-    text: 'Acla area of Kassala state was addressed through bilateral support Emeritus
-      Red Crescent for 1200 HHs. '
-    text_base: acla area of kassala state was addressed through bilateral support
-      emeritus red crescent for 1200 hhs
+    text: 'Acla area of Kassala state was addressed through bilateral support Emeritus Red Crescent for 1200 HHs. '
+    text_base: acla area of kassala state was addressed through bilateral support emeritus red crescent for 1200 hhs
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -327,10 +301,8 @@
     bbox: (77.63999938964844, 620.13671875, 563.0945434570312, 633.8217163085938)
     double_fontsize_int: 20
   - index: 867
-    text: 'More requests of resettlement from disaster prone area is coming to the
-      branch offices. '
-    text_base: more requests of resettlement from disaster prone area is coming to
-      the branch offices
+    text: 'More requests of resettlement from disaster prone area is coming to the branch offices. '
+    text_base: more requests of resettlement from disaster prone area is coming to the branch offices
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -355,10 +327,8 @@
     bbox: (59.63999938964844, 644.5864868164062, 64.22120666503906, 656.7884521484375)
     double_fontsize_int: 20
   - index: 869
-    text: 'Less coordination among partners responding the disaster is also another
-      observed challenge.   '
-    text_base: less coordination among partners responding the disaster is also another
-      observed challenge
+    text: 'Less coordination among partners responding the disaster is also another observed challenge.   '
+    text_base: less coordination among partners responding the disaster is also another observed challenge
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -396,12 +366,6 @@
     bbox: (77.63999938964844, 656.012939453125, 409.266357421875, 669.697998046875)
     double_fontsize_int: 20
   items:
-  - Continuous nature of flood in the area is a challenge for communities in five
-    states. Request for support form localities challenged the branch offices capacity
-    and resources. The resettlement request of the community in Acla area of Kassala
-    state was addressed through bilateral support Emeritus Red Crescent for 1200 HHs.
-    More requests of resettlement from disaster prone area is coming to the branch
-    offices.
-  - Less coordination among partners responding the disaster is also another observed
-    challenge.
+  - Continuous nature of flood in the area is a challenge for communities in five states. Request for support form localities challenged the branch offices capacity and resources. The resettlement request of the community in Acla area of Kassala state was addressed through bilateral support Emeritus Red Crescent for 1200 HHs. More requests of resettlement from disaster prone area is coming to the branch offices.
+  - Less coordination among partners responding the disaster is also another observed challenge.
   - PMER capacities both at National and branch levels needs to be improved.

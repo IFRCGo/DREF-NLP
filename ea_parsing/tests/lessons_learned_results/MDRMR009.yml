@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 339
-    text: "At the end of the Emergency Appeal operation a lesson learnt workshop held,\
-      \ including all operation\u2019s key actors "
-    text_base: at the end of the emergency appeal operation a lesson learnt workshop
-      held including all operation s key actors
+    text: "At the end of the Emergency Appeal operation a lesson learnt workshop held, including all operation\u2019s key actors "
+    text_base: at the end of the emergency appeal operation a lesson learnt workshop held including all operation s key actors
     style: 'arialmt, 20, #000000, nan'
     size: 10.079999923706056
     page_number: 5
@@ -31,10 +29,8 @@
     bbox: (41.784000396728516, 136.333984375, 559.5372924804688, 150.18389892578125)
     double_fontsize_int: 20
   - index: 340
-    text: "(MRC headquarters and field staff, MRC volunteers, IFRC field team, IFRC\
-      \ Dakar CCST staff, households\u2019 "
-    text_base: mrc headquarters and field staff mrc volunteers ifrc field team ifrc
-      dakar ccst staff households
+    text: "(MRC headquarters and field staff, MRC volunteers, IFRC field team, IFRC Dakar CCST staff, households\u2019 "
+    text_base: mrc headquarters and field staff mrc volunteers ifrc field team ifrc dakar ccst staff households
     style: 'arialmt, 20, #000000, nan'
     size: 10.079999923706056
     page_number: 5
@@ -46,10 +42,8 @@
     bbox: (41.784000396728516, 147.85400390625, 559.600341796875, 161.70391845703125)
     double_fontsize_int: 20
   - index: 341
-    text: 'representatives and humanitarian partners). The workshop enabled to identify
-      key successes and challenges and '
-    text_base: representatives and humanitarian partners the workshop enabled to identify
-      key successes and challenges and
+    text: 'representatives and humanitarian partners). The workshop enabled to identify key successes and challenges and '
+    text_base: representatives and humanitarian partners the workshop enabled to identify key successes and challenges and
     style: 'arialmt, 20, #000000, nan'
     size: 10.079999923706056
     page_number: 5
@@ -165,10 +159,8 @@
     bbox: (65.54399871826172, 220.33583068847656, 70.18040466308594, 232.684814453125)
     double_fontsize_int: 20
   - index: 350
-    text: 'Anticipate the issue of cash amounts to be distributed in doing a market
-      analysis '
-    text_base: anticipate the issue of cash amounts to be distributed in doing a market
-      analysis
+    text: 'Anticipate the issue of cash amounts to be distributed in doing a market analysis '
+    text_base: anticipate the issue of cash amounts to be distributed in doing a market analysis
     style: 'arialmt, 20, #000000, nan'
     size: 10.079999923706056
     page_number: 5
@@ -206,11 +198,7 @@
     bbox: (83.54399871826172, 231.63397216796875, 316.62225341796875, 245.48388671875)
     double_fontsize_int: 20
   items:
-  - "At the end of the Emergency Appeal operation a lesson learnt workshop held, including\
-    \ all operation\u2019s key actors (MRC headquarters and field staff, MRC volunteers,\
-    \ IFRC field team, IFRC Dakar CCST staff, households\u2019 representatives and\
-    \ humanitarian partners). The workshop enabled to identify key successes and challenges\
-    \ and listed recommendations for the MRC and the IFRC:"
+  - "At the end of the Emergency Appeal operation a lesson learnt workshop held, including all operation\u2019s key actors (MRC headquarters and field staff, MRC volunteers, IFRC field team, IFRC Dakar CCST staff, households\u2019 representatives and humanitarian partners). The workshop enabled to identify key successes and challenges and listed recommendations for the MRC and the IFRC:"
   - Practicing more targeting to limit errors
   - Include Arabic in the questionnaire
   - Prioritize market analysis for a future operation
@@ -338,10 +326,8 @@
     bbox: (65.54399871826172, 361.7458190917969, 70.18040466308594, 374.0948181152344)
     double_fontsize_int: 20
   - index: 434
-    text: 'Involve the nutritionist in the entire process of the procurement of the
-      enriched flour  '
-    text_base: involve the nutritionist in the entire process of the procurement of
-      the enriched flour
+    text: 'Involve the nutritionist in the entire process of the procurement of the enriched flour  '
+    text_base: involve the nutritionist in the entire process of the procurement of the enriched flour
     style: 'arialmt, 20, #000000, nan'
     size: 10.079999923706056
     page_number: 6
@@ -383,8 +369,7 @@
   - Increase the awareness sessions
   - Ensure an optimal communication with households
   - Simplify the procurement procedures
-  - Involve the nutritionist in the entire process of the procurement of the enriched
-    flour
+  - Involve the nutritionist in the entire process of the procurement of the enriched flour
   - Dedicate more time and resources to distribution activities
 - title:
     text: Lessons Learned
@@ -534,10 +519,8 @@
     bbox: (59.784000396728516, 561.475830078125, 64.42041015625, 573.8248291015625)
     double_fontsize_int: 20
   - index: 512
-    text: 'Carry out an in-depth evaluation through which axes of a possible medium-term
-      resilience project should be '
-    text_base: carry out an in depth evaluation through which axes of a possible medium
-      term resilience project should be
+    text: 'Carry out an in-depth evaluation through which axes of a possible medium-term resilience project should be '
+    text_base: carry out an in depth evaluation through which axes of a possible medium term resilience project should be
     style: 'arialmt, 20, #000000, nan'
     size: 10.079999923706056
     page_number: 7
@@ -645,8 +628,7 @@
   - Anticipate operational challenges
   - Clarify communication lines for a future operation
   - Improve IFRC validation process within
-  - Carry out an in-depth evaluation through which axes of a possible medium-term
-    resilience project should be identified
+  - Carry out an in-depth evaluation through which axes of a possible medium-term resilience project should be identified
   - Recruitment of several technicians
   - Simplification of the monitoring system
   - Train community relays for animal monitoring
@@ -668,10 +650,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 575
-    text: 'The activities carried out in the reporting period were successful, as
-      the targeted beneficiaries during the emergency '
-    text_base: the activities carried out in the reporting period were successful
-      as the targeted beneficiaries during the emergency
+    text: 'The activities carried out in the reporting period were successful, as the targeted beneficiaries during the emergency '
+    text_base: the activities carried out in the reporting period were successful as the targeted beneficiaries during the emergency
     style: 'arialmt, 20, #000000, nan'
     size: 10.079999923706056
     page_number: 8
@@ -683,10 +663,8 @@
     bbox: (41.784000396728516, 492.1039733886719, 563.4852294921875, 505.9538879394531)
     double_fontsize_int: 20
   - index: 576
-    text: "phase were reached and the National Society\u2019s capacity was strengthened.\
-      \ Looking ahead, the MRC with support from "
-    text_base: phase were reached and the national society s capacity was strengthened
-      looking ahead the mrc with support from
+    text: "phase were reached and the National Society\u2019s capacity was strengthened. Looking ahead, the MRC with support from "
+    text_base: phase were reached and the national society s capacity was strengthened looking ahead the mrc with support from
     style: 'arialmt, 20, #000000, nan'
     size: 10.079999923706056
     page_number: 8
@@ -698,10 +676,8 @@
     bbox: (41.784000396728516, 503.62396240234375, 563.8220825195312, 517.473876953125)
     double_fontsize_int: 20
   - index: 577
-    text: 'IFRC needs to elaborate a long-term resilience plan to support affected
-      communities in Mauritania. Indeed, while this '
-    text_base: ifrc needs to elaborate a long term resilience plan to support affected
-      communities in mauritania indeed while this
+    text: 'IFRC needs to elaborate a long-term resilience plan to support affected communities in Mauritania. Indeed, while this '
+    text_base: ifrc needs to elaborate a long term resilience plan to support affected communities in mauritania indeed while this
     style: 'arialmt, 20, #000000, nan'
     size: 10.079999923706056
     page_number: 8
@@ -713,10 +689,8 @@
     bbox: (41.784000396728516, 515.1439819335938, 563.594482421875, 528.993896484375)
     double_fontsize_int: 20
   - index: 578
-    text: 'Emergency Appeal included resilience components (such as support to cooperatives)
-      it mostly provided life-saving '
-    text_base: emergency appeal included resilience components such as support to
-      cooperatives it mostly provided life saving
+    text: 'Emergency Appeal included resilience components (such as support to cooperatives) it mostly provided life-saving '
+    text_base: emergency appeal included resilience components such as support to cooperatives it mostly provided life saving
     style: 'arialmt, 20, #000000, nan'
     size: 10.079999923706056
     page_number: 8
@@ -728,10 +702,8 @@
     bbox: (41.784000396728516, 526.6939697265625, 563.892578125, 540.5438842773438)
     double_fontsize_int: 20
   - index: 579
-    text: 'support for the 2018-2019 crisis. This operation has closed, while Mauritania
-      will undoubtedly continue to face regular '
-    text_base: support for the 2018 2019 crisis this operation has closed while mauritania
-      will undoubtedly continue to face regular
+    text: 'support for the 2018-2019 crisis. This operation has closed, while Mauritania will undoubtedly continue to face regular '
+    text_base: support for the 2018 2019 crisis this operation has closed while mauritania will undoubtedly continue to face regular
     style: 'arialmt, 20, #000000, nan'
     size: 10.079999923706056
     page_number: 8
@@ -756,11 +728,4 @@
     bbox: (41.784000396728516, 549.7339477539062, 209.06224060058594, 563.5838623046875)
     double_fontsize_int: 20
   items:
-  - "The activities carried out in the reporting period were successful, as the targeted\
-    \ beneficiaries during the emergency phase were reached and the National Society\u2019\
-    s capacity was strengthened. Looking ahead, the MRC with support from IFRC needs\
-    \ to elaborate a long-term resilience plan to support affected communities in\
-    \ Mauritania. Indeed, while this Emergency Appeal included resilience components\
-    \ (such as support to cooperatives) it mostly provided life-saving support for\
-    \ the 2018-2019 crisis. This operation has closed, while Mauritania will undoubtedly\
-    \ continue to face regular difficult lean seasons in future years."
+  - "The activities carried out in the reporting period were successful, as the targeted beneficiaries during the emergency phase were reached and the National Society\u2019s capacity was strengthened. Looking ahead, the MRC with support from IFRC needs to elaborate a long-term resilience plan to support affected communities in Mauritania. Indeed, while this Emergency Appeal included resilience components (such as support to cooperatives) it mostly provided life-saving support for the 2018-2019 crisis. This operation has closed, while Mauritania will undoubtedly continue to face regular difficult lean seasons in future years."

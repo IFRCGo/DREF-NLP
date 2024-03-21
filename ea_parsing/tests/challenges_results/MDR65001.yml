@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 944
-    text: 'In general, there has been excellent and active communications cooperation,
-      and exchange of information and '
-    text_base: in general there has been excellent and active communications cooperation
-      and exchange of information and
+    text: 'In general, there has been excellent and active communications cooperation, and exchange of information and '
+    text_base: in general there has been excellent and active communications cooperation and exchange of information and
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 14
@@ -31,10 +29,8 @@
     bbox: (41.400001525878906, 251.87295532226562, 555.9417724609375, 265.5579833984375)
     double_fontsize_int: 20
   - index: 945
-    text: 'communications materials with National Societies throughout the response.
-      Challenges faced were primarily caused '
-    text_base: communications materials with national societies throughout the response
-      challenges faced were primarily caused
+    text: 'communications materials with National Societies throughout the response. Challenges faced were primarily caused '
+    text_base: communications materials with national societies throughout the response challenges faced were primarily caused
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 14
@@ -46,10 +42,8 @@
     bbox: (41.400001525878906, 263.3929748535156, 555.9833984375, 277.0780029296875)
     double_fontsize_int: 20
   - index: 946
-    text: 'by external factors such as sudden, unpredictable developments during the
-      emergency phase requiring changes to '
-    text_base: by external factors such as sudden unpredictable developments during
-      the emergency phase requiring changes to
+    text: 'by external factors such as sudden, unpredictable developments during the emergency phase requiring changes to '
+    text_base: by external factors such as sudden unpredictable developments during the emergency phase requiring changes to
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 14
@@ -61,10 +55,8 @@
     bbox: (41.400001525878906, 274.9429626464844, 556.1000366210938, 288.62799072265625)
     double_fontsize_int: 20
   - index: 947
-    text: 'priorities and resourcing. A particular challenge, in terms of joint communications
-      and advocacy messages, has been '
-    text_base: priorities and resourcing a particular challenge in terms of joint
-      communications and advocacy messages has been
+    text: 'priorities and resourcing. A particular challenge, in terms of joint communications and advocacy messages, has been '
+    text_base: priorities and resourcing a particular challenge in terms of joint communications and advocacy messages has been
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 14
@@ -76,10 +68,8 @@
     bbox: (41.400001525878906, 286.4629821777344, 556.5139770507812, 300.14801025390625)
     double_fontsize_int: 20
   - index: 948
-    text: 'the politicized nature of the migration crisis. Every effort was made to
-      jointly overcome these challenges and produce '
-    text_base: the politicized nature of the migration crisis every effort was made
-      to jointly overcome these challenges and produce
+    text: 'the politicized nature of the migration crisis. Every effort was made to jointly overcome these challenges and produce '
+    text_base: the politicized nature of the migration crisis every effort was made to jointly overcome these challenges and produce
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 14
@@ -104,14 +94,7 @@
     bbox: (41.400001525878906, 309.3829650878906, 368.35888671875, 323.0679931640625)
     double_fontsize_int: 20
   items:
-  - In general, there has been excellent and active communications cooperation, and
-    exchange of information and communications materials with National Societies throughout
-    the response. Challenges faced were primarily caused by external factors such
-    as sudden, unpredictable developments during the emergency phase requiring changes
-    to priorities and resourcing. A particular challenge, in terms of joint communications
-    and advocacy messages, has been the politicized nature of the migration crisis.
-    Every effort was made to jointly overcome these challenges and produce high-quality
-    and timely communications content to be used by all parties.
+  - In general, there has been excellent and active communications cooperation, and exchange of information and communications materials with National Societies throughout the response. Challenges faced were primarily caused by external factors such as sudden, unpredictable developments during the emergency phase requiring changes to priorities and resourcing. A particular challenge, in terms of joint communications and advocacy messages, has been the politicized nature of the migration crisis. Every effort was made to jointly overcome these challenges and produce high-quality and timely communications content to be used by all parties.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -130,10 +113,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1125
-    text: 'It was challenging to collect National Society fundraising data in a consistent
-      way, as some National Societies were '
-    text_base: it was challenging to collect national society fundraising data in
-      a consistent way as some national societies were
+    text: 'It was challenging to collect National Society fundraising data in a consistent way, as some National Societies were '
+    text_base: it was challenging to collect national society fundraising data in a consistent way as some national societies were
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 17
@@ -145,10 +126,8 @@
     bbox: (41.400001525878906, 260.8729553222656, 557.9821166992188, 274.5579833984375)
     double_fontsize_int: 20
   - index: 1126
-    text: 'fundraising for their domestic migration response, while others had expanded
-      existing Syria appeals or had generic '
-    text_base: fundraising for their domestic migration response while others had
-      expanded existing syria appeals or had generic
+    text: 'fundraising for their domestic migration response, while others had expanded existing Syria appeals or had generic '
+    text_base: fundraising for their domestic migration response while others had expanded existing syria appeals or had generic
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 17
@@ -160,10 +139,8 @@
     bbox: (41.400001525878906, 272.4230041503906, 557.8379516601562, 286.1080322265625)
     double_fontsize_int: 20
   - index: 1127
-    text: 'refugee crisis appeals not earmarked to Europe. In addition, not all National
-      Societies reported, and therefore the '
-    text_base: refugee crisis appeals not earmarked to europe in addition not all
-      national societies reported and therefore the
+    text: 'refugee crisis appeals not earmarked to Europe. In addition, not all National Societies reported, and therefore the '
+    text_base: refugee crisis appeals not earmarked to europe in addition not all national societies reported and therefore the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 17
@@ -188,11 +165,7 @@
     bbox: (41.400001525878906, 295.4629821777344, 205.37887573242188, 309.14801025390625)
     double_fontsize_int: 20
   items:
-  - It was challenging to collect National Society fundraising data in a consistent
-    way, as some National Societies were fundraising for their domestic migration
-    response, while others had expanded existing Syria appeals or had generic refugee
-    crisis appeals not earmarked to Europe. In addition, not all National Societies
-    reported, and therefore the overall funding total was incomplete.
+  - It was challenging to collect National Society fundraising data in a consistent way, as some National Societies were fundraising for their domestic migration response, while others had expanded existing Syria appeals or had generic refugee crisis appeals not earmarked to Europe. In addition, not all National Societies reported, and therefore the overall funding total was incomplete.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -211,10 +184,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1182
-    text: 'The fact that in most National Societies there are no PMER staff, and operations
-      managers have been doing the '
-    text_base: the fact that in most national societies there are no pmer staff and
-      operations managers have been doing the
+    text: 'The fact that in most National Societies there are no PMER staff, and operations managers have been doing the '
+    text_base: the fact that in most national societies there are no pmer staff and operations managers have been doing the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 18
@@ -226,10 +197,8 @@
     bbox: (41.400001525878906, 323.6629943847656, 557.2784423828125, 337.3480224609375)
     double_fontsize_int: 20
   - index: 1183
-    text: 'reports, has meant that it has been difficult to get information for IFRC
-      reports (except for Greece where there has '
-    text_base: reports has meant that it has been difficult to get information for
-      ifrc reports except for greece where there has
+    text: 'reports, has meant that it has been difficult to get information for IFRC reports (except for Greece where there has '
+    text_base: reports has meant that it has been difficult to get information for ifrc reports except for greece where there has
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 18
@@ -254,10 +223,7 @@
     bbox: (41.400001525878906, 346.7029724121094, 185.19256591796875, 360.38800048828125)
     double_fontsize_int: 20
   items:
-  - The fact that in most National Societies there are no PMER staff, and operations
-    managers have been doing the reports, has meant that it has been difficult to
-    get information for IFRC reports (except for Greece where there has been an IFRC
-    PMER delegate).
+  - The fact that in most National Societies there are no PMER staff, and operations managers have been doing the reports, has meant that it has been difficult to get information for IFRC reports (except for Greece where there has been an IFRC PMER delegate).
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -289,10 +255,8 @@
     bbox: (43.20000076293945, 505.9421081542969, 46.51668167114258, 519.228759765625)
     double_fontsize_int: 20
   - index: 1321
-    text: 'Constantly adapting to changing situation and border policies that affected
-      the population on the move with '
-    text_base: constantly adapting to changing situation and border policies that
-      affected the population on the move with
+    text: 'Constantly adapting to changing situation and border policies that affected the population on the move with '
+    text_base: constantly adapting to changing situation and border policies that affected the population on the move with
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 20
@@ -304,10 +268,8 @@
     bbox: (64.55999755859375, 505.7229919433594, 557.768798828125, 519.4080200195312)
     double_fontsize_int: 20
   - index: 1322
-    text: 'access restrictions, stranded situations and lack of predictability of
-      humanitarian aid to be organized. Even the '
-    text_base: access restrictions stranded situations and lack of predictability
-      of humanitarian aid to be organized even the
+    text: 'access restrictions, stranded situations and lack of predictability of humanitarian aid to be organized. Even the '
+    text_base: access restrictions stranded situations and lack of predictability of humanitarian aid to be organized even the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 20
@@ -319,10 +281,8 @@
     bbox: (64.55999755859375, 517.242919921875, 557.2911987304688, 530.927978515625)
     double_fontsize_int: 20
   - index: 1323
-    text: 'forecast system would not help as unforeseen situation (ferry strike, sudden
-      closure of borders, etc.) would affect '
-    text_base: forecast system would not help as unforeseen situation ferry strike
-      sudden closure of borders etc would affect
+    text: 'forecast system would not help as unforeseen situation (ferry strike, sudden closure of borders, etc.) would affect '
+    text_base: forecast system would not help as unforeseen situation ferry strike sudden closure of borders etc would affect
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 20
@@ -360,10 +320,8 @@
     bbox: (43.20000076293945, 551.9021606445312, 46.51668167114258, 565.1887817382812)
     double_fontsize_int: 20
   - index: 1326
-    text: "Standard specification of the humanitarian supplies. People on the move\
-      \ has needs on \u201Clight supplies\u201D as they "
-    text_base: standard specification of the humanitarian supplies people on the move
-      has needs on light supplies as they
+    text: "Standard specification of the humanitarian supplies. People on the move has needs on \u201Clight supplies\u201D as they "
+    text_base: standard specification of the humanitarian supplies people on the move has needs on light supplies as they
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 20
@@ -375,10 +333,8 @@
     bbox: (64.55999755859375, 553.3734741210938, 557.1499633789062, 564.5006713867188)
     double_fontsize_int: 20
   - index: 1327
-    text: 'are on the move fast so the kit needs to be adjusted. People stranded or
-      in camps require different set up or '
-    text_base: are on the move fast so the kit needs to be adjusted people stranded
-      or in camps require different set up or
+    text: 'are on the move fast so the kit needs to be adjusted. People stranded or in camps require different set up or '
+    text_base: are on the move fast so the kit needs to be adjusted people stranded or in camps require different set up or
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 20
@@ -416,10 +372,8 @@
     bbox: (43.20000076293945, 586.4620971679688, 46.51668167114258, 599.7487182617188)
     double_fontsize_int: 20
   - index: 1330
-    text: 'Mobility of items among countries was not always possible given the earmarking
-      for different contexts.  '
-    text_base: mobility of items among countries was not always possible given the
-      earmarking for different contexts
+    text: 'Mobility of items among countries was not always possible given the earmarking for different contexts.  '
+    text_base: mobility of items among countries was not always possible given the earmarking for different contexts
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 20
@@ -444,10 +398,8 @@
     bbox: (43.20000076293945, 597.9821166992188, 46.51668167114258, 611.2687377929688)
     double_fontsize_int: 20
   - index: 1332
-    text: 'The humanitarian crisis had severe impact and caught authorities, but also
-      humanitarian stakeholders, with '
-    text_base: the humanitarian crisis had severe impact and caught authorities but
-      also humanitarian stakeholders with
+    text: 'The humanitarian crisis had severe impact and caught authorities, but also humanitarian stakeholders, with '
+    text_base: the humanitarian crisis had severe impact and caught authorities but also humanitarian stakeholders with
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 20
@@ -459,10 +411,8 @@
     bbox: (64.55999755859375, 597.762939453125, 557.4204711914062, 611.447998046875)
     double_fontsize_int: 20
   - index: 1333
-    text: 'limited capacity to address changing needs. Volunteer management was a
-      clear example since many NS did '
-    text_base: limited capacity to address changing needs volunteer management was
-      a clear example since many ns did
+    text: 'limited capacity to address changing needs. Volunteer management was a clear example since many NS did '
+    text_base: limited capacity to address changing needs volunteer management was a clear example since many ns did
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 20
@@ -474,10 +424,8 @@
     bbox: (64.55999755859375, 609.282958984375, 557.55419921875, 622.968017578125)
     double_fontsize_int: 20
   - index: 1334
-    text: 'not have enough volunteers or systems in place to enable adequate support
-      in an operation that required '
-    text_base: not have enough volunteers or systems in place to enable adequate support
-      in an operation that required
+    text: 'not have enough volunteers or systems in place to enable adequate support in an operation that required '
+    text_base: not have enough volunteers or systems in place to enable adequate support in an operation that required
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 20
@@ -502,21 +450,10 @@
     bbox: (64.55999755859375, 632.2030029296875, 324.7789001464844, 645.8880004882812)
     double_fontsize_int: 20
   items:
-  - Constantly adapting to changing situation and border policies that affected the
-    population on the move with access restrictions, stranded situations and lack
-    of predictability of humanitarian aid to be organized. Even the forecast system
-    would not help as unforeseen situation (ferry strike, sudden closure of borders,
-    etc.) would affect the whole trail.
-  - "Standard specification of the humanitarian supplies. People on the move has needs\
-    \ on \u201Clight supplies\u201D as they are on the move fast so the kit needs\
-    \ to be adjusted. People stranded or in camps require different set up or specifications."
-  - Mobility of items among countries was not always possible given the earmarking
-    for different contexts.
-  - The humanitarian crisis had severe impact and caught authorities, but also humanitarian
-    stakeholders, with limited capacity to address changing needs. Volunteer management
-    was a clear example since many NS did not have enough volunteers or systems in
-    place to enable adequate support in an operation that required constant presence
-    and sudden scale up in times of peaks.
+  - Constantly adapting to changing situation and border policies that affected the population on the move with access restrictions, stranded situations and lack of predictability of humanitarian aid to be organized. Even the forecast system would not help as unforeseen situation (ferry strike, sudden closure of borders, etc.) would affect the whole trail.
+  - "Standard specification of the humanitarian supplies. People on the move has needs on \u201Clight supplies\u201D as they are on the move fast so the kit needs to be adjusted. People stranded or in camps require different set up or specifications."
+  - Mobility of items among countries was not always possible given the earmarking for different contexts.
+  - The humanitarian crisis had severe impact and caught authorities, but also humanitarian stakeholders, with limited capacity to address changing needs. Volunteer management was a clear example since many NS did not have enough volunteers or systems in place to enable adequate support in an operation that required constant presence and sudden scale up in times of peaks.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -548,10 +485,8 @@
     bbox: (39.47999954223633, 67.86650848388672, 44.06121063232422, 80.0684814453125)
     double_fontsize_int: 20
   - index: 1475
-    text: 'Capacity within the partnerships and resource development team to support
-      National Society fundraising, '
-    text_base: capacity within the partnerships and resource development team to support
-      national society fundraising
+    text: 'Capacity within the partnerships and resource development team to support National Society fundraising, '
+    text_base: capacity within the partnerships and resource development team to support national society fundraising
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 23
@@ -563,10 +498,8 @@
     bbox: (57.47999954223633, 67.17300415039062, 557.745361328125, 80.85804748535156)
     double_fontsize_int: 20
   - index: 1476
-    text: 'particularly for building longer-term strategic relations, was limited
-      due to the high amount of funding mobilized for '
-    text_base: particularly for building longer term strategic relations was limited
-      due to the high amount of funding mobilized for
+    text: 'particularly for building longer-term strategic relations, was limited due to the high amount of funding mobilized for '
+    text_base: particularly for building longer term strategic relations was limited due to the high amount of funding mobilized for
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 23
@@ -604,10 +537,8 @@
     bbox: (39.47999954223633, 106.04650115966797, 44.06121063232422, 118.24847412109375)
     double_fontsize_int: 20
   - index: 1479
-    text: 'In some countries, National Societies have faced challenges in recruitment
-      and retention of volunteers for the '
-    text_base: in some countries national societies have faced challenges in recruitment
-      and retention of volunteers for the
+    text: 'In some countries, National Societies have faced challenges in recruitment and retention of volunteers for the '
+    text_base: in some countries national societies have faced challenges in recruitment and retention of volunteers for the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 23
@@ -632,9 +563,5 @@
     bbox: (57.47999954223633, 116.75296020507812, 372.1988830566406, 130.43800354003906)
     double_fontsize_int: 20
   items:
-  - Capacity within the partnerships and resource development team to support National
-    Society fundraising, particularly for building longer-term strategic relations,
-    was limited due to the high amount of funding mobilized for the response.
-  - In some countries, National Societies have faced challenges in recruitment and
-    retention of volunteers for the migration response, in part due to negative attitudes
-    towards migrants.
+  - Capacity within the partnerships and resource development team to support National Society fundraising, particularly for building longer-term strategic relations, was limited due to the high amount of funding mobilized for the response.
+  - In some countries, National Societies have faced challenges in recruitment and retention of volunteers for the migration response, in part due to negative attitudes towards migrants.

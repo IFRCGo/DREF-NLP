@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 332
-    text: 'Due to the coverage of the Emergency Appeal, the National Society prioritized
-      the area of Cobija '
-    text_base: due to the coverage of the emergency appeal the national society prioritized
-      the area of cobija
+    text: 'Due to the coverage of the Emergency Appeal, the National Society prioritized the area of Cobija '
+    text_base: due to the coverage of the emergency appeal the national society prioritized the area of cobija
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 3
@@ -31,10 +29,8 @@
     bbox: (105.37999725341797, 520.0029296875, 551.7252807617188, 533.68798828125)
     double_fontsize_int: 20
   - index: 333
-    text: '(Pando department) and Puerto Villarroel (Cochabamba department). Cobija
-      is one of the most impoverished and '
-    text_base: pando department and puerto villarroel cochabamba department cobija
-      is one of the most impoverished and
+    text: '(Pando department) and Puerto Villarroel (Cochabamba department). Cobija is one of the most impoverished and '
+    text_base: pando department and puerto villarroel cochabamba department cobija is one of the most impoverished and
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 3
@@ -46,10 +42,8 @@
     bbox: (44.880001068115234, 531.52294921875, 551.6920166015625, 545.2080078125)
     double_fontsize_int: 20
   - index: 334
-    text: 'vulnerable areas in the country and is very prone to tropical diseases
-      typical of the Amazonian regions. Puerto '
-    text_base: vulnerable areas in the country and is very prone to tropical diseases
-      typical of the amazonian regions puerto
+    text: 'vulnerable areas in the country and is very prone to tropical diseases typical of the Amazonian regions. Puerto '
+    text_base: vulnerable areas in the country and is very prone to tropical diseases typical of the amazonian regions puerto
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 3
@@ -74,8 +68,4 @@
     bbox: (44.880001068115234, 554.56298828125, 275.098876953125, 568.248046875)
     double_fontsize_int: 20
   items:
-  - Due to the coverage of the Emergency Appeal, the National Society prioritized
-    the area of Cobija (Pando department) and Puerto Villarroel (Cochabamba department).
-    Cobija is one of the most impoverished and vulnerable areas in the country and
-    is very prone to tropical diseases typical of the Amazonian regions. Puerto Villarroel
-    is another area with a high risk of dengue.
+  - Due to the coverage of the Emergency Appeal, the National Society prioritized the area of Cobija (Pando department) and Puerto Villarroel (Cochabamba department). Cobija is one of the most impoverished and vulnerable areas in the country and is very prone to tropical diseases typical of the Amazonian regions. Puerto Villarroel is another area with a high risk of dengue.

@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 523
-    text: 'Delay in the procurement of NFIs attributed to the unintended effects of
-      using cash programming. Because KRCS '
-    text_base: delay in the procurement of nfis attributed to the unintended effects
-      of using cash programming because krcs
+    text: 'Delay in the procurement of NFIs attributed to the unintended effects of using cash programming. Because KRCS '
+    text_base: delay in the procurement of nfis attributed to the unintended effects of using cash programming because krcs
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -31,10 +29,8 @@
     bbox: (47.279998779296875, 266.9834899902344, 557.85693359375, 278.11065673828125)
     double_fontsize_int: 20
   - index: 524
-    text: 'had been responding to disasters through cash, none of the local providers
-      had readily available stocks for delivery '
-    text_base: had been responding to disasters through cash none of the local providers
-      had readily available stocks for delivery
+    text: 'had been responding to disasters through cash, none of the local providers had readily available stocks for delivery '
+    text_base: had been responding to disasters through cash none of the local providers had readily available stocks for delivery
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -46,10 +42,8 @@
     bbox: (47.279998779296875, 278.5034484863281, 557.7742919921875, 289.630615234375)
     double_fontsize_int: 20
   - index: 525
-    text: 'to KRCS. Most of the items were sourced internationally. This resulted
-      in delays during the procurement process '
-    text_base: to krcs most of the items were sourced internationally this resulted
-      in delays during the procurement process
+    text: 'to KRCS. Most of the items were sourced internationally. This resulted in delays during the procurement process '
+    text_base: to krcs most of the items were sourced internationally this resulted in delays during the procurement process
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -61,10 +55,8 @@
     bbox: (47.279998779296875, 290.0271911621094, 557.8400268554688, 301.15435791015625)
     double_fontsize_int: 20
   - index: 526
-    text: 'that delayed delivery of NFIs in some cases. This was however addressed
-      through support from UNICEF who had '
-    text_base: that delayed delivery of nfis in some cases this was however addressed
-      through support from unicef who had
+    text: 'that delayed delivery of NFIs in some cases. This was however addressed through support from UNICEF who had '
+    text_base: that delayed delivery of nfis in some cases this was however addressed through support from unicef who had
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -77,8 +69,7 @@
     double_fontsize_int: 20
   - index: 527
     text: 'prepositioned family kits in parts of the country in readiness for floods. '
-    text_base: prepositioned family kits in parts of the country in readiness for
-      floods
+    text_base: prepositioned family kits in parts of the country in readiness for floods
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -90,13 +81,7 @@
     bbox: (47.279998779296875, 312.9434509277344, 359.1672058105469, 324.07061767578125)
     double_fontsize_int: 20
   items:
-  - Delay in the procurement of NFIs attributed to the unintended effects of using
-    cash programming. Because KRCS had been responding to disasters through cash,
-    none of the local providers had readily available stocks for delivery to KRCS.
-    Most of the items were sourced internationally. This resulted in delays during
-    the procurement process that delayed delivery of NFIs in some cases. This was
-    however addressed through support from UNICEF who had prepositioned family kits
-    in parts of the country in readiness for floods.
+  - Delay in the procurement of NFIs attributed to the unintended effects of using cash programming. Because KRCS had been responding to disasters through cash, none of the local providers had readily available stocks for delivery to KRCS. Most of the items were sourced internationally. This resulted in delays during the procurement process that delayed delivery of NFIs in some cases. This was however addressed through support from UNICEF who had prepositioned family kits in parts of the country in readiness for floods.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -115,10 +100,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 626
-    text: 'Continued rains during to the interventions slowed the progress of the
-      intervention. '
-    text_base: continued rains during to the interventions slowed the progress of
-      the intervention
+    text: 'Continued rains during to the interventions slowed the progress of the intervention. '
+    text_base: continued rains during to the interventions slowed the progress of the intervention
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -130,7 +113,7 @@
     bbox: (47.279998779296875, 520.1834106445312, 415.44720458984375, 531.3106079101562)
     double_fontsize_int: 20
   items:
-  - 'Continued rains during to the interventions slowed the progress of the intervention. '
+  - Continued rains during to the interventions slowed the progress of the intervention.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -162,10 +145,8 @@
     bbox: (59.63999938964844, 325.7464904785156, 64.22120666503906, 337.9484558105469)
     double_fontsize_int: 20
   - index: 902
-    text: 'Continued rainfall during the initial stages of the intervention led to
-      inaccessibility of some of the areas of '
-    text_base: continued rainfall during the initial stages of the intervention led
-      to inaccessibility of some of the areas of
+    text: 'Continued rainfall during the initial stages of the intervention led to inaccessibility of some of the areas of '
+    text_base: continued rainfall during the initial stages of the intervention led to inaccessibility of some of the areas of
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -216,8 +197,7 @@
     bbox: (77.63999938964844, 350.50347900390625, 427.73443603515625, 361.6306457519531)
     double_fontsize_int: 20
   items:
-  - Continued rainfall during the initial stages of the intervention led to inaccessibility
-    of some of the areas of health interventions.
+  - Continued rainfall during the initial stages of the intervention led to inaccessibility of some of the areas of health interventions.
   - Disease outbreaks increased as opposed to the projections of the intervention.
 - title:
     text: 'Challenges '
@@ -250,10 +230,8 @@
     bbox: (59.63999938964844, 656.8264770507812, 64.22120666503906, 669.0284423828125)
     double_fontsize_int: 20
   - index: 1011
-    text: 'Inaccessibility of the affected areas due to continued rains in the initial
-      stages of the intervention. '
-    text_base: inaccessibility of the affected areas due to continued rains in the
-      initial stages of the intervention
+    text: 'Inaccessibility of the affected areas due to continued rains in the initial stages of the intervention. '
+    text_base: inaccessibility of the affected areas due to continued rains in the initial stages of the intervention
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -291,8 +269,7 @@
     bbox: (77.63999938964844, 669.9434204101562, 270.4872131347656, 681.0706176757812)
     double_fontsize_int: 20
   items:
-  - Inaccessibility of the affected areas due to continued rains in the initial stages
-    of the intervention.
+  - Inaccessibility of the affected areas due to continued rains in the initial stages of the intervention.
   - Delays in procurement of the WASH items.
 - title:
     text: 'Challenges '
@@ -351,10 +328,8 @@
     bbox: (59.63999938964844, 713.8264770507812, 64.22120666503906, 726.0284423828125)
     double_fontsize_int: 20
   - index: 1168
-    text: 'High turnover, affects the retainability of the CEA knowledge thus need
-      for more trainings across the KRCS '
-    text_base: high turnover affects the retainability of the cea knowledge thus need
-      for more trainings across the krcs
+    text: 'High turnover, affects the retainability of the CEA knowledge thus need for more trainings across the KRCS '
+    text_base: high turnover affects the retainability of the cea knowledge thus need for more trainings across the krcs
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 15
@@ -380,5 +355,4 @@
     double_fontsize_int: 20
   items:
   - There is slow response by other departments in KRCS to embrace CEA.
-  - High turnover, affects the retainability of the CEA knowledge thus need for more
-    trainings across the KRCS branches.
+  - High turnover, affects the retainability of the CEA knowledge thus need for more trainings across the KRCS branches.

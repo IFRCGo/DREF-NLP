@@ -18,10 +18,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 573
-    text: 'PRC engaged in multiple suppliers which led to competition as a mitigation
-      measure for the delay in the delivery of '
-    text_base: prc engaged in multiple suppliers which led to competition as a mitigation
-      measure for the delay in the delivery of
+    text: 'PRC engaged in multiple suppliers which led to competition as a mitigation measure for the delay in the delivery of '
+    text_base: prc engaged in multiple suppliers which led to competition as a mitigation measure for the delay in the delivery of
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 8
@@ -35,10 +33,8 @@
     bbox_x2: 573.1112670898438
     double_fontsize_int: 20
   - index: 574
-    text: 'suppliers. An agreement was made between the community and supplier to
-      have the capacity required like the '
-    text_base: suppliers an agreement was made between the community and supplier
-      to have the capacity required like the
+    text: 'suppliers. An agreement was made between the community and supplier to have the capacity required like the '
+    text_base: suppliers an agreement was made between the community and supplier to have the capacity required like the
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 8
@@ -67,10 +63,7 @@
     bbox_x2: 179.98284912109375
     double_fontsize_int: 20
   items:
-  - PRC engaged in multiple suppliers which led to competition as a mitigation measure
-    for the delay in the delivery of suppliers. An agreement was made between the
-    community and supplier to have the capacity required like the number of materials
-    needed.
+  - PRC engaged in multiple suppliers which led to competition as a mitigation measure for the delay in the delivery of suppliers. An agreement was made between the community and supplier to have the capacity required like the number of materials needed.
 - title:
     text: 'Lessons Learned: '
     text_base: lessons learned
@@ -106,10 +99,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1004
-    text: 'Capacity-building programme should be in place, to enable staff and volunteers
-      to again knowledge on '
-    text_base: capacity building programme should be in place to enable staff and
-      volunteers to again knowledge on
+    text: 'Capacity-building programme should be in place, to enable staff and volunteers to again knowledge on '
+    text_base: capacity building programme should be in place to enable staff and volunteers to again knowledge on
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 14
@@ -168,8 +159,7 @@
     bbox_x2: 388.3228454589844
     double_fontsize_int: 20
   items:
-  - Capacity-building programme should be in place, to enable staff and volunteers
-    to again knowledge on conducting livelihood activities on the ground.
+  - Capacity-building programme should be in place, to enable staff and volunteers to again knowledge on conducting livelihood activities on the ground.
   - There is a need for improved CSG and CMLP implementing guidelines.
 - title:
     text: 'Lessons Learned: '
@@ -206,10 +196,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1184
-    text: 'Proper coordination and understanding among the stakeholders for a smooth
-      implementation of the '
-    text_base: proper coordination and understanding among the stakeholders for a
-      smooth implementation of the
+    text: 'Proper coordination and understanding among the stakeholders for a smooth implementation of the '
+    text_base: proper coordination and understanding among the stakeholders for a smooth implementation of the
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 17
@@ -253,10 +241,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1187
-    text: 'Capacity building specially on different health response and to allocate
-      adequate budgets for '
-    text_base: capacity building specially on different health response and to allocate
-      adequate budgets for
+    text: 'Capacity building specially on different health response and to allocate adequate budgets for '
+    text_base: capacity building specially on different health response and to allocate adequate budgets for
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 17
@@ -285,10 +271,8 @@
     bbox_x2: 320.9428405761719
     double_fontsize_int: 20
   items:
-  - Proper coordination and understanding among the stakeholders for a smooth implementation
-    of the operation.
-  - Capacity building specially on different health response and to allocate adequate
-    budgets for trainings/capacity building under regular programming.
+  - Proper coordination and understanding among the stakeholders for a smooth implementation of the operation.
+  - Capacity building specially on different health response and to allocate adequate budgets for trainings/capacity building under regular programming.
 - title:
     text: 'Lessons Learned: '
     text_base: lessons learned
@@ -324,10 +308,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1296
-    text: 'Encourage the chapters to build the capacity of the volunteers by providing
-      specific WASH-related trainings. '
-    text_base: encourage the chapters to build the capacity of the volunteers by providing
-      specific wash related trainings
+    text: 'Encourage the chapters to build the capacity of the volunteers by providing specific WASH-related trainings. '
+    text_base: encourage the chapters to build the capacity of the volunteers by providing specific wash related trainings
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 19
@@ -356,10 +338,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1298
-    text: 'Regular monitoring of assets and quarterly inventory checks to ensure assets
-      are maintained in good condition '
-    text_base: regular monitoring of assets and quarterly inventory checks to ensure
-      assets are maintained in good condition
+    text: 'Regular monitoring of assets and quarterly inventory checks to ensure assets are maintained in good condition '
+    text_base: regular monitoring of assets and quarterly inventory checks to ensure assets are maintained in good condition
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 19
@@ -388,10 +368,8 @@
     bbox_x2: 158.02284240722656
     double_fontsize_int: 20
   items:
-  - Encourage the chapters to build the capacity of the volunteers by providing specific
-    WASH-related trainings.
-  - Regular monitoring of assets and quarterly inventory checks to ensure assets are
-    maintained in good condition and ready to deploy.
+  - Encourage the chapters to build the capacity of the volunteers by providing specific WASH-related trainings.
+  - Regular monitoring of assets and quarterly inventory checks to ensure assets are maintained in good condition and ready to deploy.
 - title:
     text: 'Lessons Learned: '
     text_base: lessons learned
@@ -427,10 +405,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1414
-    text: 'Annually conduct capacity-building trainings to chapter staff/volunteers
-      to increase the number of trained '
-    text_base: annually conduct capacity building trainings to chapter staff volunteers
-      to increase the number of trained
+    text: 'Annually conduct capacity-building trainings to chapter staff/volunteers to increase the number of trained '
+    text_base: annually conduct capacity building trainings to chapter staff volunteers to increase the number of trained
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 21
@@ -444,10 +420,8 @@
     bbox_x2: 569.7025146484375
     double_fontsize_int: 20
   - index: 1415
-    text: 'volunteers who are available to deploy. Furthermore, ensure debriefing
-      sessions are conducted for staff and '
-    text_base: volunteers who are available to deploy furthermore ensure debriefing
-      sessions are conducted for staff and
+    text: 'volunteers who are available to deploy. Furthermore, ensure debriefing sessions are conducted for staff and '
+    text_base: volunteers who are available to deploy furthermore ensure debriefing sessions are conducted for staff and
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 21
@@ -476,9 +450,7 @@
     bbox_x2: 233.38284301757807
     double_fontsize_int: 20
   items:
-  - Annually conduct capacity-building trainings to chapter staff/volunteers to increase
-    the number of trained volunteers who are available to deploy. Furthermore, ensure
-    debriefing sessions are conducted for staff and volunteers involved in the operation.
+  - Annually conduct capacity-building trainings to chapter staff/volunteers to increase the number of trained volunteers who are available to deploy. Furthermore, ensure debriefing sessions are conducted for staff and volunteers involved in the operation.
 - title:
     text: 'Lessons Learned: '
     text_base: lessons learned
@@ -514,10 +486,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1708
-    text: 'Learned the importance of having trained and experienced Chapter Service
-      Representatives (CSR) or focal '
-    text_base: learned the importance of having trained and experienced chapter service
-      representatives csr or focal
+    text: 'Learned the importance of having trained and experienced Chapter Service Representatives (CSR) or focal '
+    text_base: learned the importance of having trained and experienced chapter service representatives csr or focal
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 26
@@ -531,10 +501,8 @@
     bbox_x2: 569.635498046875
     double_fontsize_int: 20
   - index: 1709
-    text: 'persons in each chapter. Provision of NHQ training capacity-building activities
-      in the chapters as well as '
-    text_base: persons in each chapter provision of nhq training capacity building
-      activities in the chapters as well as
+    text: 'persons in each chapter. Provision of NHQ training capacity-building activities in the chapters as well as '
+    text_base: persons in each chapter provision of nhq training capacity building activities in the chapters as well as
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 26
@@ -578,10 +546,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1712
-    text: 'Focus on volunteer recruitment, retention, and appreciation programmes.
-      Good coordination and '
-    text_base: focus on volunteer recruitment retention and appreciation programmes
-      good coordination and
+    text: 'Focus on volunteer recruitment, retention, and appreciation programmes. Good coordination and '
+    text_base: focus on volunteer recruitment retention and appreciation programmes good coordination and
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 26
@@ -595,10 +561,8 @@
     bbox_x2: 569.8497924804688
     double_fontsize_int: 20
   - index: 1713
-    text: 'communication among NHQ / chapter / LGUs play a vital role in the success
-      of the operation. '
-    text_base: communication among nhq chapter lgus play a vital role in the success
-      of the operation
+    text: 'communication among NHQ / chapter / LGUs play a vital role in the success of the operation. '
+    text_base: communication among nhq chapter lgus play a vital role in the success of the operation
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 26
@@ -612,12 +576,8 @@
     bbox_x2: 494.3028564453125
     double_fontsize_int: 20
   items:
-  - Learned the importance of having trained and experienced Chapter Service Representatives
-    (CSR) or focal persons in each chapter. Provision of NHQ training capacity-building
-    activities in the chapters as well as simulations exercise.
-  - Focus on volunteer recruitment, retention, and appreciation programmes. Good coordination
-    and communication among NHQ / chapter / LGUs play a vital role in the success
-    of the operation.
+  - Learned the importance of having trained and experienced Chapter Service Representatives (CSR) or focal persons in each chapter. Provision of NHQ training capacity-building activities in the chapters as well as simulations exercise.
+  - Focus on volunteer recruitment, retention, and appreciation programmes. Good coordination and communication among NHQ / chapter / LGUs play a vital role in the success of the operation.
 - title:
     text: 'Lessons Learned: '
     text_base: lessons learned
@@ -638,10 +598,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 2138
-    text: "\u2022 Adopt and adapt new approaches in delivering services including\
-      \ safety protocols. "
-    text_base: adopt and adapt new approaches in delivering services including safety
-      protocols
+    text: "\u2022 Adopt and adapt new approaches in delivering services including safety protocols. "
+    text_base: adopt and adapt new approaches in delivering services including safety protocols
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 34
@@ -655,10 +613,8 @@
     bbox_x2: 439.8628540039063
     double_fontsize_int: 20
   - index: 2140
-    text: "\u2022 Due to the COVID-19 lockdown and restrictions, NHQ and chapters\
-      \ to continue implementing innovations on "
-    text_base: due to the covid 19 lockdown and restrictions nhq and chapters to continue
-      implementing innovations on
+    text: "\u2022 Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue implementing innovations on "
+    text_base: due to the covid 19 lockdown and restrictions nhq and chapters to continue implementing innovations on
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 34
@@ -672,10 +628,8 @@
     bbox_x2: 572.976318359375
     double_fontsize_int: 20
   - index: 2142
-    text: 'project implementation such as using online messaging applications for
-      monitoring and submission of reports. '
-    text_base: project implementation such as using online messaging applications
-      for monitoring and submission of reports
+    text: 'project implementation such as using online messaging applications for monitoring and submission of reports. '
+    text_base: project implementation such as using online messaging applications for monitoring and submission of reports
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 34
@@ -689,11 +643,8 @@
     bbox_x2: 573.142822265625
     double_fontsize_int: 20
   items:
-  - "\u2022 Adopt and adapt new approaches in delivering services including safety\
-    \ protocols."
-  - "\u2022 Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue\
-    \ implementing innovations on project implementation such as using online messaging\
-    \ applications for monitoring and submission of reports."
+  - "\u2022 Adopt and adapt new approaches in delivering services including safety protocols."
+  - "\u2022 Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue implementing innovations on project implementation such as using online messaging applications for monitoring and submission of reports."
 - title:
     text: 'Lessons Learned: '
     text_base: lessons learned
@@ -714,10 +665,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 2405
-    text: "\u2022 Adopt and adapt new approaches in delivering services including\
-      \ safety protocols. "
-    text_base: adopt and adapt new approaches in delivering services including safety
-      protocols
+    text: "\u2022 Adopt and adapt new approaches in delivering services including safety protocols. "
+    text_base: adopt and adapt new approaches in delivering services including safety protocols
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 38
@@ -731,10 +680,8 @@
     bbox_x2: 440.1028442382813
     double_fontsize_int: 20
   - index: 2407
-    text: "\u2022 Due to the COVID-19 lockdown and restrictions, NHQ and chapters\
-      \ to continue implementing innovations on "
-    text_base: due to the covid 19 lockdown and restrictions nhq and chapters to continue
-      implementing innovations on
+    text: "\u2022 Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue implementing innovations on "
+    text_base: due to the covid 19 lockdown and restrictions nhq and chapters to continue implementing innovations on
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 38
@@ -748,10 +695,8 @@
     bbox_x2: 569.90283203125
     double_fontsize_int: 20
   - index: 2409
-    text: 'project implementation such as using online messaging applications for
-      monitoring and submission of reports. '
-    text_base: project implementation such as using online messaging applications
-      for monitoring and submission of reports
+    text: 'project implementation such as using online messaging applications for monitoring and submission of reports. '
+    text_base: project implementation such as using online messaging applications for monitoring and submission of reports
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 38
@@ -765,11 +710,8 @@
     bbox_x2: 569.90283203125
     double_fontsize_int: 20
   items:
-  - "\u2022 Adopt and adapt new approaches in delivering services including safety\
-    \ protocols."
-  - "\u2022 Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue\
-    \ implementing innovations on project implementation such as using online messaging\
-    \ applications for monitoring and submission of reports."
+  - "\u2022 Adopt and adapt new approaches in delivering services including safety protocols."
+  - "\u2022 Due to the COVID-19 lockdown and restrictions, NHQ and chapters to continue implementing innovations on project implementation such as using online messaging applications for monitoring and submission of reports."
 - title:
     text: 'Lessons Learned: '
     text_base: lessons learned
@@ -790,10 +732,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 2583
-    text: "\u2022 Proper coordination and understanding among the stakeholders led\
-      \ to a smooth implementation of the "
-    text_base: proper coordination and understanding among the stakeholders led to
-      a smooth implementation of the
+    text: "\u2022 Proper coordination and understanding among the stakeholders led to a smooth implementation of the "
+    text_base: proper coordination and understanding among the stakeholders led to a smooth implementation of the
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 41
@@ -822,10 +762,8 @@
     bbox_x2: 152.6228485107422
     double_fontsize_int: 20
   - index: 2586
-    text: "\u2022 Capacity building, especially on different health responses and\
-      \ to allocate adequate budgets for "
-    text_base: capacity building especially on different health responses and to allocate
-      adequate budgets for
+    text: "\u2022 Capacity building, especially on different health responses and to allocate adequate budgets for "
+    text_base: capacity building especially on different health responses and to allocate adequate budgets for
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 41
@@ -854,7 +792,5 @@
     bbox_x2: 317.22283935546875
     double_fontsize_int: 20
   items:
-  - "\u2022 Proper coordination and understanding among the stakeholders led to a\
-    \ smooth implementation of the response operation."
-  - "\u2022 Capacity building, especially on different health responses and to allocate\
-    \ adequate budgets for trainings/capacity building under regular programming."
+  - "\u2022 Proper coordination and understanding among the stakeholders led to a smooth implementation of the response operation."
+  - "\u2022 Capacity building, especially on different health responses and to allocate adequate budgets for trainings/capacity building under regular programming."

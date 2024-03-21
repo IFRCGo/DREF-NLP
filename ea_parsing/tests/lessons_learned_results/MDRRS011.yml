@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 794
-    text: 'RCS will need to further strengthen its capacity by training more volunteers
-      in areas relevant to emergency response '
-    text_base: rcs will need to further strengthen its capacity by training more volunteers
-      in areas relevant to emergency response
+    text: 'RCS will need to further strengthen its capacity by training more volunteers in areas relevant to emergency response '
+    text_base: rcs will need to further strengthen its capacity by training more volunteers in areas relevant to emergency response
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 11
@@ -31,10 +29,8 @@
     bbox: (41.040000915527344, 597.282958984375, 551.2152099609375, 610.968017578125)
     double_fontsize_int: 20
   - index: 795
-    text: 'and by prepositioning contingency stocks that can be immediately mobilised
-      when the need emerges. In addition, '
-    text_base: and by prepositioning contingency stocks that can be immediately mobilised
-      when the need emerges in addition
+    text: 'and by prepositioning contingency stocks that can be immediately mobilised when the need emerges. In addition, '
+    text_base: and by prepositioning contingency stocks that can be immediately mobilised when the need emerges in addition
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -46,10 +42,8 @@
     bbox: (41.040000915527344, 608.802978515625, 551.6766357421875, 622.488037109375)
     double_fontsize_int: 20
   - index: 796
-    text: 'the development of a contingency plan together with the relevant government
-      authorities and main actors in '
-    text_base: the development of a contingency plan together with the relevant government
-      authorities and main actors in
+    text: 'the development of a contingency plan together with the relevant government authorities and main actors in '
+    text_base: the development of a contingency plan together with the relevant government authorities and main actors in
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -74,11 +68,7 @@
     bbox: (41.040000915527344, 631.7230224609375, 255.05886840820312, 645.4080200195312)
     double_fontsize_int: 20
   items:
-  - RCS will need to further strengthen its capacity by training more volunteers in
-    areas relevant to emergency response and by prepositioning contingency stocks
-    that can be immediately mobilised when the need emerges. In addition, the development
-    of a contingency plan together with the relevant government authorities and main
-    actors in emergencies in Serbia would also be beneficial.
+  - RCS will need to further strengthen its capacity by training more volunteers in areas relevant to emergency response and by prepositioning contingency stocks that can be immediately mobilised when the need emerges. In addition, the development of a contingency plan together with the relevant government authorities and main actors in emergencies in Serbia would also be beneficial.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -97,10 +87,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 988
-    text: 'Throughout the course of implementation, it was recognised how important
-      it is to be able to measure the impact of '
-    text_base: throughout the course of implementation it was recognised how important
-      it is to be able to measure the impact of
+    text: 'Throughout the course of implementation, it was recognised how important it is to be able to measure the impact of '
+    text_base: throughout the course of implementation it was recognised how important it is to be able to measure the impact of
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 14
@@ -112,10 +100,8 @@
     bbox: (41.040000915527344, 289.4629821777344, 551.4241943359375, 303.14801025390625)
     double_fontsize_int: 20
   - index: 989
-    text: 'the efforts. Through local-level discussions with staff and volunteers
-      implementing activities, it was agreed that a '
-    text_base: the efforts through local level discussions with staff and volunteers
-      implementing activities it was agreed that a
+    text: 'the efforts. Through local-level discussions with staff and volunteers implementing activities, it was agreed that a '
+    text_base: the efforts through local level discussions with staff and volunteers implementing activities it was agreed that a
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -127,10 +113,8 @@
     bbox: (41.040000915527344, 300.9830017089844, 551.6159057617188, 314.66802978515625)
     double_fontsize_int: 20
   - index: 990
-    text: "standardised system of measurement should be established \u2013 to be further\
-      \ refined in future psychosocial support "
-    text_base: standardised system of measurement should be established to be further
-      refined in future psychosocial support
+    text: "standardised system of measurement should be established \u2013 to be further refined in future psychosocial support "
+    text_base: standardised system of measurement should be established to be further refined in future psychosocial support
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -155,10 +139,8 @@
     bbox: (41.040000915527344, 324.0229797363281, 146.6688690185547, 337.7080078125)
     double_fontsize_int: 20
   - index: 992
-    text: 'As migrants now tend to stay longer in Serbia, it becomes clear that establishing
-      networks and clear, sustainable '
-    text_base: as migrants now tend to stay longer in serbia it becomes clear that
-      establishing networks and clear sustainable
+    text: 'As migrants now tend to stay longer in Serbia, it becomes clear that establishing networks and clear, sustainable '
+    text_base: as migrants now tend to stay longer in serbia it becomes clear that establishing networks and clear sustainable
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -170,10 +152,8 @@
     bbox: (41.040000915527344, 347.06298828125, 551.6754150390625, 360.7480163574219)
     double_fontsize_int: 20
   - index: 993
-    text: 'communication channels between service providers from all sectors is essential
-      in order to avoid duplicating the '
-    text_base: communication channels between service providers from all sectors is
-      essential in order to avoid duplicating the
+    text: 'communication channels between service providers from all sectors is essential in order to avoid duplicating the '
+    text_base: communication channels between service providers from all sectors is essential in order to avoid duplicating the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -185,10 +165,8 @@
     bbox: (41.040000915527344, 358.4629821777344, 551.2319946289062, 372.14801025390625)
     double_fontsize_int: 20
   - index: 994
-    text: 'work and to ensure complementary services that will cumulatively impact
-      the wellbeing of migrants. '
-    text_base: work and to ensure complementary services that will cumulatively impact
-      the wellbeing of migrants
+    text: 'work and to ensure complementary services that will cumulatively impact the wellbeing of migrants. '
+    text_base: work and to ensure complementary services that will cumulatively impact the wellbeing of migrants
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -200,15 +178,8 @@
     bbox: (41.040000915527344, 369.98297119140625, 481.9089050292969, 383.6679992675781)
     double_fontsize_int: 20
   items:
-  - "Throughout the course of implementation, it was recognised how important it is\
-    \ to be able to measure the impact of the efforts. Through local-level discussions\
-    \ with staff and volunteers implementing activities, it was agreed that a standardised\
-    \ system of measurement should be established \u2013 to be further refined in\
-    \ future psychosocial support activities with migrants."
-  - As migrants now tend to stay longer in Serbia, it becomes clear that establishing
-    networks and clear, sustainable communication channels between service providers
-    from all sectors is essential in order to avoid duplicating the work and to ensure
-    complementary services that will cumulatively impact the wellbeing of migrants.
+  - "Throughout the course of implementation, it was recognised how important it is to be able to measure the impact of the efforts. Through local-level discussions with staff and volunteers implementing activities, it was agreed that a standardised system of measurement should be established \u2013 to be further refined in future psychosocial support activities with migrants."
+  - As migrants now tend to stay longer in Serbia, it becomes clear that establishing networks and clear, sustainable communication channels between service providers from all sectors is essential in order to avoid duplicating the work and to ensure complementary services that will cumulatively impact the wellbeing of migrants.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -227,10 +198,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1100
-    text: 'Thanks to good cooperation between countries along the route and the announcements
-      related to the number of '
-    text_base: thanks to good cooperation between countries along the route and the
-      announcements related to the number of
+    text: 'Thanks to good cooperation between countries along the route and the announcements related to the number of '
+    text_base: thanks to good cooperation between countries along the route and the announcements related to the number of
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 15
@@ -242,10 +211,8 @@
     bbox: (41.040000915527344, 355.2229919433594, 551.436279296875, 368.90802001953125)
     double_fontsize_int: 20
   - index: 1101
-    text: 'refugees heading towards Serbia, the staff and volunteers of RCS received
-      information on the estimated numbers '
-    text_base: refugees heading towards serbia the staff and volunteers of rcs received
-      information on the estimated numbers
+    text: 'refugees heading towards Serbia, the staff and volunteers of RCS received information on the estimated numbers '
+    text_base: refugees heading towards serbia the staff and volunteers of rcs received information on the estimated numbers
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 15
@@ -257,10 +224,8 @@
     bbox: (41.040000915527344, 366.74298095703125, 551.529296875, 380.4280090332031)
     double_fontsize_int: 20
   - index: 1102
-    text: 'and nationalities of the arriving migrants from the colleagues in neighbouring
-      countries within the region, which made '
-    text_base: and nationalities of the arriving migrants from the colleagues in neighbouring
-      countries within the region which made
+    text: 'and nationalities of the arriving migrants from the colleagues in neighbouring countries within the region, which made '
+    text_base: and nationalities of the arriving migrants from the colleagues in neighbouring countries within the region which made
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 15
@@ -272,10 +237,8 @@
     bbox: (41.040000915527344, 378.2629699707031, 551.7364501953125, 391.947998046875)
     double_fontsize_int: 20
   - index: 1103
-    text: 'it easier to prepare adequate assistance in advance to address the needs
-      of each specific group that was coming to '
-    text_base: it easier to prepare adequate assistance in advance to address the
-      needs of each specific group that was coming to
+    text: 'it easier to prepare adequate assistance in advance to address the needs of each specific group that was coming to '
+    text_base: it easier to prepare adequate assistance in advance to address the needs of each specific group that was coming to
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 15
@@ -300,12 +263,7 @@
     bbox: (41.040000915527344, 401.1829833984375, 139.94886779785156, 414.8680114746094)
     double_fontsize_int: 20
   items:
-  - Thanks to good cooperation between countries along the route and the announcements
-    related to the number of refugees heading towards Serbia, the staff and volunteers
-    of RCS received information on the estimated numbers and nationalities of the
-    arriving migrants from the colleagues in neighbouring countries within the region,
-    which made it easier to prepare adequate assistance in advance to address the
-    needs of each specific group that was coming to the reception centres.
+  - Thanks to good cooperation between countries along the route and the announcements related to the number of refugees heading towards Serbia, the staff and volunteers of RCS received information on the estimated numbers and nationalities of the arriving migrants from the colleagues in neighbouring countries within the region, which made it easier to prepare adequate assistance in advance to address the needs of each specific group that was coming to the reception centres.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -324,10 +282,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1151
-    text: 'To enable RCS to respond in a timely and effective manner, even in a rapidly
-      changing emergency situation, it needs '
-    text_base: to enable rcs to respond in a timely and effective manner even in a
-      rapidly changing emergency situation it needs
+    text: 'To enable RCS to respond in a timely and effective manner, even in a rapidly changing emergency situation, it needs '
+    text_base: to enable rcs to respond in a timely and effective manner even in a rapidly changing emergency situation it needs
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 16
@@ -339,10 +295,8 @@
     bbox: (41.040000915527344, 201.95297241210938, 551.5313720703125, 215.6380157470703)
     double_fontsize_int: 20
   - index: 1152
-    text: 'to maintain a contingency stock of food. Additional training for already
-      active volunteers and introductory trainings '
-    text_base: to maintain a contingency stock of food additional training for already
-      active volunteers and introductory trainings
+    text: 'to maintain a contingency stock of food. Additional training for already active volunteers and introductory trainings '
+    text_base: to maintain a contingency stock of food additional training for already active volunteers and introductory trainings
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -367,10 +321,7 @@
     bbox: (41.040000915527344, 224.99301147460938, 310.618896484375, 238.6780548095703)
     double_fontsize_int: 20
   items:
-  - To enable RCS to respond in a timely and effective manner, even in a rapidly changing
-    emergency situation, it needs to maintain a contingency stock of food. Additional
-    training for already active volunteers and introductory trainings for new volunteers
-    would also make the NS better-prepared.
+  - To enable RCS to respond in a timely and effective manner, even in a rapidly changing emergency situation, it needs to maintain a contingency stock of food. Additional training for already active volunteers and introductory trainings for new volunteers would also make the NS better-prepared.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -389,10 +340,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1248
-    text: 'Based on the above, it can be concluded that PSS and counselling was very
-      much needed as an ongoing activity in '
-    text_base: based on the above it can be concluded that pss and counselling was
-      very much needed as an ongoing activity in
+    text: 'Based on the above, it can be concluded that PSS and counselling was very much needed as an ongoing activity in '
+    text_base: based on the above it can be concluded that pss and counselling was very much needed as an ongoing activity in
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 17
@@ -404,10 +353,8 @@
     bbox: (41.040000915527344, 467.9229736328125, 556.8051147460938, 481.6080017089844)
     double_fontsize_int: 20
   - index: 1249
-    text: 'all governmental centres for persons who are without news about their family
-      members. '
-    text_base: all governmental centres for persons who are without news about their
-      family members
+    text: 'all governmental centres for persons who are without news about their family members. '
+    text_base: all governmental centres for persons who are without news about their family members
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 17
@@ -419,9 +366,7 @@
     bbox: (41.040000915527344, 479.4429931640625, 430.7588806152344, 493.1280212402344)
     double_fontsize_int: 20
   items:
-  - Based on the above, it can be concluded that PSS and counselling was very much
-    needed as an ongoing activity in all governmental centres for persons who are
-    without news about their family members.
+  - Based on the above, it can be concluded that PSS and counselling was very much needed as an ongoing activity in all governmental centres for persons who are without news about their family members.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -440,10 +385,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1304
-    text: '1. Closed borders cause migrants to find easier ways of getting out of
-      Serbia, which makes them an easier target '
-    text_base: 1 closed borders cause migrants to find easier ways of getting out
-      of serbia which makes them an easier target
+    text: '1. Closed borders cause migrants to find easier ways of getting out of Serbia, which makes them an easier target '
+    text_base: 1 closed borders cause migrants to find easier ways of getting out of serbia which makes them an easier target
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 18
@@ -468,10 +411,8 @@
     bbox: (63.959999084472656, 253.55300903320312, 310.2588806152344, 267.238037109375)
     double_fontsize_int: 20
   - index: 1306
-    text: '2. Unaccompanied and separated children are exposed to exploitation, abuse
-      and trafficking. They are trying to '
-    text_base: 2 unaccompanied and separated children are exposed to exploitation
-      abuse and trafficking they are trying to
+    text: '2. Unaccompanied and separated children are exposed to exploitation, abuse and trafficking. They are trying to '
+    text_base: 2 unaccompanied and separated children are exposed to exploitation abuse and trafficking they are trying to
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -483,10 +424,8 @@
     bbox: (45.959999084472656, 265.0729675292969, 551.12353515625, 278.75799560546875)
     double_fontsize_int: 20
   - index: 1307
-    text: 'earn money for the continuation of their journey or to pay for their travels
-      to date. Very often, they are exploited '
-    text_base: earn money for the continuation of their journey or to pay for their
-      travels to date very often they are exploited
+    text: 'earn money for the continuation of their journey or to pay for their travels to date. Very often, they are exploited '
+    text_base: earn money for the continuation of their journey or to pay for their travels to date very often they are exploited
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -511,10 +450,8 @@
     bbox: (63.959999084472656, 288.1429748535156, 304.1388854980469, 301.8280029296875)
     double_fontsize_int: 20
   - index: 1309
-    text: '3. In their desire to carry on their journey, and without information on
-      the impossibility of leaving the human '
-    text_base: 3 in their desire to carry on their journey and without information
-      on the impossibility of leaving the human
+    text: '3. In their desire to carry on their journey, and without information on the impossibility of leaving the human '
+    text_base: 3 in their desire to carry on their journey and without information on the impossibility of leaving the human
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -526,10 +463,8 @@
     bbox: (45.959999084472656, 299.6629943847656, 551.7278442382812, 313.3480224609375)
     double_fontsize_int: 20
   - index: 1310
-    text: "trafficking chain, migrants are more willing to accept exploitation as\
-      \ an inevitable \u201Cchallenge\u201D. "
-    text_base: trafficking chain migrants are more willing to accept exploitation
-      as an inevitable challenge
+    text: "trafficking chain, migrants are more willing to accept exploitation as an inevitable \u201Cchallenge\u201D. "
+    text_base: trafficking chain migrants are more willing to accept exploitation as an inevitable challenge
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -567,10 +502,8 @@
     bbox: (45.959999084472656, 345.62298583984375, 52.20887756347656, 359.3080139160156)
     double_fontsize_int: 20
   - index: 1313
-    text: 'increase the efforts to protect children and youth among migrants from
-      human trafficking; '
-    text_base: increase the efforts to protect children and youth among migrants from
-      human trafficking
+    text: 'increase the efforts to protect children and youth among migrants from human trafficking; '
+    text_base: increase the efforts to protect children and youth among migrants from human trafficking
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -595,10 +528,8 @@
     bbox: (45.959999084472656, 357.1429748535156, 52.20887756347656, 370.8280029296875)
     double_fontsize_int: 20
   - index: 1315
-    text: 'contribute to better identification of victims among migrants by educating
-      RCS staff that is working with them '
-    text_base: contribute to better identification of victims among migrants by educating
-      rcs staff that is working with them
+    text: 'contribute to better identification of victims among migrants by educating RCS staff that is working with them '
+    text_base: contribute to better identification of victims among migrants by educating rcs staff that is working with them
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -636,10 +567,8 @@
     bbox: (45.959999084472656, 380.1829833984375, 52.20887756347656, 393.8680114746094)
     double_fontsize_int: 20
   - index: 1318
-    text: 'target professionals who can encounter vulnerable individuals and potential
-      victims of human trafficking '
-    text_base: target professionals who can encounter vulnerable individuals and potential
-      victims of human trafficking
+    text: 'target professionals who can encounter vulnerable individuals and potential victims of human trafficking '
+    text_base: target professionals who can encounter vulnerable individuals and potential victims of human trafficking
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -651,10 +580,8 @@
     bbox: (63.959999084472656, 380.1829833984375, 551.1334228515625, 393.8680114746094)
     double_fontsize_int: 20
   - index: 1319
-    text: 'including health care providers, social workers, and other professionals,
-      in order to protect children and youth '
-    text_base: including health care providers social workers and other professionals
-      in order to protect children and youth
+    text: 'including health care providers, social workers, and other professionals, in order to protect children and youth '
+    text_base: including health care providers social workers and other professionals in order to protect children and youth
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -692,10 +619,8 @@
     bbox: (45.959999084472656, 414.62298583984375, 52.20887756347656, 428.3080139160156)
     double_fontsize_int: 20
   - index: 1322
-    text: 'increase its efforts in prevention of labour exploitation by emphasising
-      regular procedures of employment. '
-    text_base: increase its efforts in prevention of labour exploitation by emphasising
-      regular procedures of employment
+    text: 'increase its efforts in prevention of labour exploitation by emphasising regular procedures of employment. '
+    text_base: increase its efforts in prevention of labour exploitation by emphasising regular procedures of employment
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -707,10 +632,8 @@
     bbox: (63.959999084472656, 414.62298583984375, 551.7488403320312, 428.3080139160156)
     double_fontsize_int: 20
   - index: 1323
-    text: 'Youths in general (including migrants), are not informed about licensed
-      employment agencies, so it is '
-    text_base: youths in general including migrants are not informed about licensed
-      employment agencies so it is
+    text: 'Youths in general (including migrants), are not informed about licensed employment agencies, so it is '
+    text_base: youths in general including migrants are not informed about licensed employment agencies so it is
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -722,10 +645,8 @@
     bbox: (63.959999084472656, 426.1429748535156, 551.7030639648438, 439.8280029296875)
     double_fontsize_int: 20
   - index: 1324
-    text: 'necessary to approach them with adequate information and prevent labour
-      exploitation '
-    text_base: necessary to approach them with adequate information and prevent labour
-      exploitation
+    text: 'necessary to approach them with adequate information and prevent labour exploitation '
+    text_base: necessary to approach them with adequate information and prevent labour exploitation
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -737,27 +658,10 @@
     bbox: (63.959999084472656, 437.6629943847656, 449.8388977050781, 451.3480224609375)
     double_fontsize_int: 20
   items:
-  - 1. Closed borders cause migrants to find easier ways of getting out of Serbia,
-    which makes them an easier target for traffickers as the migrants are seeking
-    employment.
-  - 2. Unaccompanied and separated children are exposed to exploitation, abuse and
-    trafficking. They are trying to earn money for the continuation of their journey
-    or to pay for their travels to date. Very often, they are exploited by smugglers
-    and manipulated into working for them.
-  - "3. In their desire to carry on their journey, and without information on the\
-    \ impossibility of leaving the human trafficking chain, migrants are more willing\
-    \ to accept exploitation as an inevitable \u201Cchallenge\u201D."
-  - 'Based on recommendation contained in the U.S. TIP report, RCS could: increase
-    the efforts to protect children and youth among migrants from human trafficking;
-    contribute to better identification of victims among migrants by educating RCS
-    staff that is working with them daily. target professionals who can encounter
-    vulnerable individuals and potential victims of human trafficking including health
-    care providers, social workers, and other professionals, in order to protect children
-    and youth including unaccompanied minors. increase its efforts in prevention of
-    labour exploitation by emphasising regular procedures of employment. Youths in
-    general (including migrants), are not informed about licensed employment agencies,
-    so it is necessary to approach them with adequate information and prevent labour
-    exploitation'
+  - 1. Closed borders cause migrants to find easier ways of getting out of Serbia, which makes them an easier target for traffickers as the migrants are seeking employment.
+  - 2. Unaccompanied and separated children are exposed to exploitation, abuse and trafficking. They are trying to earn money for the continuation of their journey or to pay for their travels to date. Very often, they are exploited by smugglers and manipulated into working for them.
+  - "3. In their desire to carry on their journey, and without information on the impossibility of leaving the human trafficking chain, migrants are more willing to accept exploitation as an inevitable \u201Cchallenge\u201D."
+  - 'Based on recommendation contained in the U.S. TIP report, RCS could: increase the efforts to protect children and youth among migrants from human trafficking; contribute to better identification of victims among migrants by educating RCS staff that is working with them daily. target professionals who can encounter vulnerable individuals and potential victims of human trafficking including health care providers, social workers, and other professionals, in order to protect children and youth including unaccompanied minors. increase its efforts in prevention of labour exploitation by emphasising regular procedures of employment. Youths in general (including migrants), are not informed about licensed employment agencies, so it is necessary to approach them with adequate information and prevent labour exploitation'
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -776,10 +680,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1373
-    text: 'To ensure timely and effective response to emergencies in the whole territory
-      of the country, all local branches need '
-    text_base: to ensure timely and effective response to emergencies in the whole
-      territory of the country all local branches need
+    text: 'To ensure timely and effective response to emergencies in the whole territory of the country, all local branches need '
+    text_base: to ensure timely and effective response to emergencies in the whole territory of the country all local branches need
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 19
@@ -804,10 +706,8 @@
     bbox: (41.040000915527344, 152.87295532226562, 231.2988739013672, 166.55799865722656)
     double_fontsize_int: 20
   - index: 1375
-    text: 'To effectively address long-term needs resulting from the population movement,
-      RCS capacity-building efforts (in '
-    text_base: to effectively address long term needs resulting from the population
-      movement rcs capacity building efforts in
+    text: 'To effectively address long-term needs resulting from the population movement, RCS capacity-building efforts (in '
+    text_base: to effectively address long term needs resulting from the population movement rcs capacity building efforts in
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -819,10 +719,8 @@
     bbox: (41.040000915527344, 175.91299438476562, 551.7488403320312, 189.59803771972656)
     double_fontsize_int: 20
   - index: 1376
-    text: 'areas such as DM, Health, Community Engagement, anti-trafficking, etc.)
-      should be mainstreamed through the '
-    text_base: areas such as dm health community engagement anti trafficking etc should
-      be mainstreamed through the
+    text: 'areas such as DM, Health, Community Engagement, anti-trafficking, etc.) should be mainstreamed through the '
+    text_base: areas such as dm health community engagement anti trafficking etc should be mainstreamed through the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -834,10 +732,8 @@
     bbox: (41.040000915527344, 187.43295288085938, 551.7666015625, 201.1179962158203)
     double_fontsize_int: 20
   - index: 1377
-    text: 'migration focal point, with a view to including migrants as a target group
-      of thematic programmes. '
-    text_base: migration focal point with a view to including migrants as a target
-      group of thematic programmes
+    text: 'migration focal point, with a view to including migrants as a target group of thematic programmes. '
+    text_base: migration focal point with a view to including migrants as a target group of thematic programmes
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -849,9 +745,5 @@
     bbox: (41.040000915527344, 198.83297729492188, 474.2288818359375, 212.5180206298828)
     double_fontsize_int: 20
   items:
-  - To ensure timely and effective response to emergencies in the whole territory
-    of the country, all local branches need to be involved in capacity building training.
-  - To effectively address long-term needs resulting from the population movement,
-    RCS capacity-building efforts (in areas such as DM, Health, Community Engagement,
-    anti-trafficking, etc.) should be mainstreamed through the migration focal point,
-    with a view to including migrants as a target group of thematic programmes.
+  - To ensure timely and effective response to emergencies in the whole territory of the country, all local branches need to be involved in capacity building training.
+  - To effectively address long-term needs resulting from the population movement, RCS capacity-building efforts (in areas such as DM, Health, Community Engagement, anti-trafficking, etc.) should be mainstreamed through the migration focal point, with a view to including migrants as a target group of thematic programmes.

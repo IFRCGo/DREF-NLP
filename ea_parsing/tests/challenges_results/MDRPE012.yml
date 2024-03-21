@@ -29,10 +29,8 @@
     bbox: (59.63999938964844, 183.82998657226562, 62.68927764892578, 193.7899932861328)
     double_fontsize_int: 20
   - index: 790
-    text: 'During the emergency, the demand for psychosocial actions focused on violence
-      prevention and addressing '
-    text_base: during the emergency the demand for psychosocial actions focused on
-      violence prevention and addressing
+    text: 'During the emergency, the demand for psychosocial actions focused on violence prevention and addressing '
+    text_base: during the emergency the demand for psychosocial actions focused on violence prevention and addressing
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 11
@@ -44,10 +42,8 @@
     bbox: (77.66400146484375, 180.59298706054688, 557.51171875, 194.2780303955078)
     double_fontsize_int: 20
   - index: 791
-    text: 'cases of intimate partner violence and violence against children was larger
-      than the identified needs. '
-    text_base: cases of intimate partner violence and violence against children was
-      larger than the identified needs
+    text: 'cases of intimate partner violence and violence against children was larger than the identified needs. '
+    text_base: cases of intimate partner violence and violence against children was larger than the identified needs
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -72,10 +68,8 @@
     bbox: (59.63999938964844, 208.93997192382812, 63.019920349121094, 219.97996520996094)
     double_fontsize_int: 22
   - index: 793
-    text: 'The psychosocial support programme in the PRC requires support to continue
-      active at the community level '
-    text_base: the psychosocial support programme in the prc requires support to continue
-      active at the community level
+    text: 'The psychosocial support programme in the PRC requires support to continue active at the community level '
+    text_base: the psychosocial support programme in the prc requires support to continue active at the community level
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -100,11 +94,8 @@
     bbox: (77.66400146484375, 218.87295532226562, 219.90921020507812, 232.55799865722656)
     double_fontsize_int: 20
   items:
-  - During the emergency, the demand for psychosocial actions focused on violence
-    prevention and addressing cases of intimate partner violence and violence against
-    children was larger than the identified needs.
-  - The psychosocial support programme in the PRC requires support to continue active
-    at the community level and in non-emergency contexts.
+  - During the emergency, the demand for psychosocial actions focused on violence prevention and addressing cases of intimate partner violence and violence against children was larger than the identified needs.
+  - The psychosocial support programme in the PRC requires support to continue active at the community level and in non-emergency contexts.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -136,10 +127,8 @@
     bbox: (55.91999816894531, 517.1199951171875, 58.969276428222656, 527.0799560546875)
     double_fontsize_int: 20
   - index: 998
-    text: 'During the first phase of the emergency, there were challenges to distribute
-      water in all of the targeted '
-    text_base: during the first phase of the emergency there were challenges to distribute
-      water in all of the targeted
+    text: 'During the first phase of the emergency, there were challenges to distribute water in all of the targeted '
+    text_base: during the first phase of the emergency there were challenges to distribute water in all of the targeted
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 14
@@ -177,10 +166,8 @@
     bbox: (55.91999816894531, 542.0800170898438, 58.969276428222656, 552.0399780273438)
     double_fontsize_int: 20
   - index: 1001
-    text: 'Following the implementation, no monitoring was conducted to measure the
-      perceived changes in water '
-    text_base: following the implementation no monitoring was conducted to measure
-      the perceived changes in water
+    text: 'Following the implementation, no monitoring was conducted to measure the perceived changes in water '
+    text_base: following the implementation no monitoring was conducted to measure the perceived changes in water
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -218,10 +205,8 @@
     bbox: (55.91999816894531, 567.0400390625, 58.969276428222656, 577.0)
     double_fontsize_int: 20
   - index: 1004
-    text: 'The small-scale water projects took more time than expected and extended
-      beyond the time frame of this '
-    text_base: the small scale water projects took more time than expected and extended
-      beyond the time frame of this
+    text: 'The small-scale water projects took more time than expected and extended beyond the time frame of this '
+    text_base: the small scale water projects took more time than expected and extended beyond the time frame of this
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -259,10 +244,8 @@
     bbox: (55.91999816894531, 592.0, 58.969276428222656, 601.9599609375)
     double_fontsize_int: 20
   - index: 1007
-    text: 'Further actions were required to ensure the sustainability and maintenance
-      of acquired goods (latrines) '
-    text_base: further actions were required to ensure the sustainability and maintenance
-      of acquired goods latrines
+    text: 'Further actions were required to ensure the sustainability and maintenance of acquired goods (latrines) '
+    text_base: further actions were required to ensure the sustainability and maintenance of acquired goods latrines
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -274,15 +257,10 @@
     bbox: (73.94400024414062, 588.762939453125, 532.06884765625, 602.447998046875)
     double_fontsize_int: 20
   items:
-  - During the first phase of the emergency, there were challenges to distribute water
-    in all of the targeted communities due to the supply of bladders, coordination
-    and needed logistics.
-  - Following the implementation, no monitoring was conducted to measure the perceived
-    changes in water management, sanitation and hygiene practices.
-  - The small-scale water projects took more time than expected and extended beyond
-    the time frame of this operation.
-  - Further actions were required to ensure the sustainability and maintenance of
-    acquired goods (latrines)
+  - During the first phase of the emergency, there were challenges to distribute water in all of the targeted communities due to the supply of bladders, coordination and needed logistics.
+  - Following the implementation, no monitoring was conducted to measure the perceived changes in water management, sanitation and hygiene practices.
+  - The small-scale water projects took more time than expected and extended beyond the time frame of this operation.
+  - Further actions were required to ensure the sustainability and maintenance of acquired goods (latrines)
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -314,10 +292,8 @@
     bbox: (59.63999938964844, 461.53997802734375, 62.68927764892578, 471.4999694824219)
     double_fontsize_int: 20
   - index: 1153
-    text: 'The lack of information, including a database of suppliers, regarding these
-      areas prior to the disaster caused '
-    text_base: the lack of information including a database of suppliers regarding
-      these areas prior to the disaster caused
+    text: 'The lack of information, including a database of suppliers, regarding these areas prior to the disaster caused '
+    text_base: the lack of information including a database of suppliers regarding these areas prior to the disaster caused
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 16
@@ -355,10 +331,8 @@
     bbox: (59.63999938964844, 484.719970703125, 62.68927764892578, 494.6799621582031)
     double_fontsize_int: 20
   - index: 1156
-    text: 'The State changed its plans for rebuilding homes, which had an impact on
-      how the Red Cross would rebuild. '
-    text_base: the state changed its plans for rebuilding homes which had an impact
-      on how the red cross would rebuild
+    text: 'The State changed its plans for rebuilding homes, which had an impact on how the Red Cross would rebuild. '
+    text_base: the state changed its plans for rebuilding homes which had an impact on how the red cross would rebuild
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -383,10 +357,8 @@
     bbox: (59.63999938964844, 496.3599853515625, 62.68927764892578, 506.3199768066406)
     double_fontsize_int: 20
   - index: 1158
-    text: 'In some locations, the municipal authorities were not as active as required
-      for the construction of homes. '
-    text_base: in some locations the municipal authorities were not as active as required
-      for the construction of homes
+    text: 'In some locations, the municipal authorities were not as active as required for the construction of homes. '
+    text_base: in some locations the municipal authorities were not as active as required for the construction of homes
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -398,12 +370,9 @@
     bbox: (77.66400146484375, 493.12298583984375, 542.2688598632812, 506.8080139160156)
     double_fontsize_int: 20
   items:
-  - The lack of information, including a database of suppliers, regarding these areas
-    prior to the disaster caused delays.
-  - The State changed its plans for rebuilding homes, which had an impact on how the
-    Red Cross would rebuild.
-  - In some locations, the municipal authorities were not as active as required for
-    the construction of homes.
+  - The lack of information, including a database of suppliers, regarding these areas prior to the disaster caused delays.
+  - The State changed its plans for rebuilding homes, which had an impact on how the Red Cross would rebuild.
+  - In some locations, the municipal authorities were not as active as required for the construction of homes.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -435,10 +404,8 @@
     bbox: (59.63999938964844, 636.280029296875, 62.68927764892578, 646.239990234375)
     double_fontsize_int: 20
   - index: 1231
-    text: "The shelter cluster delegate\u2019s time in country was dependent on available\
-      \ funds, although the need continued "
-    text_base: the shelter cluster delegate s time in country was dependent on available
-      funds although the need continued
+    text: "The shelter cluster delegate\u2019s time in country was dependent on available funds, although the need continued "
+    text_base: the shelter cluster delegate s time in country was dependent on available funds although the need continued
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 17
@@ -463,8 +430,7 @@
     bbox: (77.66400146484375, 644.56298828125, 165.98887634277344, 658.248046875)
     double_fontsize_int: 20
   items:
-  - "The shelter cluster delegate\u2019s time in country was dependent on available\
-    \ funds, although the need continued after her departure."
+  - "The shelter cluster delegate\u2019s time in country was dependent on available funds, although the need continued after her departure."
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -496,10 +462,8 @@
     bbox: (59.63999938964844, 281.8999938964844, 62.68927764892578, 291.8599853515625)
     double_fontsize_int: 20
   - index: 1263
-    text: 'The food security needs of the affected population received less attention
-      following the emergency phase. '
-    text_base: the food security needs of the affected population received less attention
-      following the emergency phase
+    text: 'The food security needs of the affected population received less attention following the emergency phase. '
+    text_base: the food security needs of the affected population received less attention following the emergency phase
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 18
@@ -511,8 +475,7 @@
     bbox: (77.66400146484375, 278.6629943847656, 540.2288818359375, 292.3480224609375)
     double_fontsize_int: 20
   items:
-  - The food security needs of the affected population received less attention following
-    the emergency phase.
+  - The food security needs of the affected population received less attention following the emergency phase.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -544,10 +507,8 @@
     bbox: (59.63999938964844, 344.77996826171875, 62.68927764892578, 354.7399597167969)
     double_fontsize_int: 20
   - index: 1322
-    text: 'The internal process to select and coordinate with the commercial bank
-      was time-consuming. '
-    text_base: the internal process to select and coordinate with the commercial bank
-      was time consuming
+    text: 'The internal process to select and coordinate with the commercial bank was time-consuming. '
+    text_base: the internal process to select and coordinate with the commercial bank was time consuming
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 19
@@ -598,10 +559,8 @@
     bbox: (59.63999938964844, 368.0599670410156, 62.68927764892578, 378.01995849609375)
     double_fontsize_int: 20
   - index: 1326
-    text: 'The National Society required technical strengthening in the area of cash
-      transfer. '
-    text_base: the national society required technical strengthening in the area of
-      cash transfer
+    text: 'The National Society required technical strengthening in the area of cash transfer. '
+    text_base: the national society required technical strengthening in the area of cash transfer
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -647,10 +606,8 @@
     bbox: (59.63999938964844, 137.86996459960938, 62.68927764892578, 147.82997131347656)
     double_fontsize_int: 20
   - index: 1373
-    text: 'The PRC coordinator for RFL noted that due to the demand for multiple humanitarian
-      response actions, '
-    text_base: the prc coordinator for rfl noted that due to the demand for multiple
-      humanitarian response actions
+    text: 'The PRC coordinator for RFL noted that due to the demand for multiple humanitarian response actions, '
+    text_base: the prc coordinator for rfl noted that due to the demand for multiple humanitarian response actions
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 20
@@ -675,8 +632,7 @@
     bbox: (77.66400146484375, 146.03298950195312, 340.03887939453125, 159.71803283691406)
     double_fontsize_int: 20
   items:
-  - The PRC coordinator for RFL noted that due to the demand for multiple humanitarian
-    response actions, volunteers often were unable to assist with these activities.
+  - The PRC coordinator for RFL noted that due to the demand for multiple humanitarian response actions, volunteers often were unable to assist with these activities.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -708,10 +664,8 @@
     bbox: (59.63999938964844, 51.089996337890625, 62.68927764892578, 61.04999923706055)
     double_fontsize_int: 20
   - index: 1476
-    text: 'DRR is often considered a recovery phase action, which makes its implementation
-      in the emergency response '
-    text_base: drr is often considered a recovery phase action which makes its implementation
-      in the emergency response
+    text: 'DRR is often considered a recovery phase action, which makes its implementation in the emergency response '
+    text_base: drr is often considered a recovery phase action which makes its implementation in the emergency response
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 21
@@ -736,8 +690,7 @@
     bbox: (77.66400146484375, 59.372955322265625, 164.4288787841797, 73.05799865722656)
     double_fontsize_int: 20
   items:
-  - DRR is often considered a recovery phase action, which makes its implementation
-    in the emergency response phase a challenge.
+  - DRR is often considered a recovery phase action, which makes its implementation in the emergency response phase a challenge.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -769,10 +722,8 @@
     bbox: (59.63999938964844, 528.8800048828125, 62.68927764892578, 538.8399658203125)
     double_fontsize_int: 20
   - index: 1523
-    text: "At the start of the operation, the PRC\u2019s areas of logistics, administration\
-      \ and finance needed to be reinforced. "
-    text_base: at the start of the operation the prc s areas of logistics administration
-      and finance needed to be reinforced
+    text: "At the start of the operation, the PRC\u2019s areas of logistics, administration and finance needed to be reinforced. "
+    text_base: at the start of the operation the prc s areas of logistics administration and finance needed to be reinforced
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 22
@@ -797,10 +748,8 @@
     bbox: (59.63999938964844, 540.52001953125, 62.68927764892578, 550.47998046875)
     double_fontsize_int: 20
   - index: 1525
-    text: 'At the departmental level, during the emergency, the PRC did not have the
-      capacities to fully develop '
-    text_base: at the departmental level during the emergency the prc did not have
-      the capacities to fully develop
+    text: 'At the departmental level, during the emergency, the PRC did not have the capacities to fully develop '
+    text_base: at the departmental level during the emergency the prc did not have the capacities to fully develop
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -838,10 +787,8 @@
     bbox: (59.63999938964844, 563.6800537109375, 62.68927764892578, 573.6400146484375)
     double_fontsize_int: 20
   - index: 1528
-    text: 'There was a lack of clarity of the reporting lines and presentation of
-      reports when the deployed regional '
-    text_base: there was a lack of clarity of the reporting lines and presentation
-      of reports when the deployed regional
+    text: 'There was a lack of clarity of the reporting lines and presentation of reports when the deployed regional '
+    text_base: there was a lack of clarity of the reporting lines and presentation of reports when the deployed regional
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -866,12 +813,9 @@
     bbox: (77.66400146484375, 571.843017578125, 293.3388977050781, 585.5280151367188)
     double_fontsize_int: 20
   items:
-  - "At the start of the operation, the PRC\u2019s areas of logistics, administration\
-    \ and finance needed to be reinforced."
-  - At the departmental level, during the emergency, the PRC did not have the capacities
-    to fully develop coordination with other organizations and state institutions.
-  - There was a lack of clarity of the reporting lines and presentation of reports
-    when the deployed regional intervention team members departed from Peru.
+  - "At the start of the operation, the PRC\u2019s areas of logistics, administration and finance needed to be reinforced."
+  - At the departmental level, during the emergency, the PRC did not have the capacities to fully develop coordination with other organizations and state institutions.
+  - There was a lack of clarity of the reporting lines and presentation of reports when the deployed regional intervention team members departed from Peru.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -903,10 +847,8 @@
     bbox: (59.63999938964844, 701.3499755859375, 62.68927764892578, 711.3099365234375)
     double_fontsize_int: 20
   - index: 1743
-    text: 'There were delays in the CTP due to the tender procedures to select a commercial
-      bank. The cash transfer '
-    text_base: there were delays in the ctp due to the tender procedures to select
-      a commercial bank the cash transfer
+    text: 'There were delays in the CTP due to the tender procedures to select a commercial bank. The cash transfer '
+    text_base: there were delays in the ctp due to the tender procedures to select a commercial bank the cash transfer
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 25
@@ -931,6 +873,4 @@
     bbox: (77.66400146484375, 709.6329345703125, 339.0788879394531, 723.3179931640625)
     double_fontsize_int: 20
   items:
-  - "There were delays in the CTP due to the tender procedures to select a commercial\
-    \ bank. The cash transfer delegate\u2019s contract had ended prior to the actual\
-    \ transfers."
+  - "There were delays in the CTP due to the tender procedures to select a commercial bank. The cash transfer delegate\u2019s contract had ended prior to the actual transfers."

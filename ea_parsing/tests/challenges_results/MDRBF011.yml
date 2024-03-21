@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 400
-    text: ' On one hand, delayed funding and late arrival of the operations manager
-      set back some '
-    text_base: on one hand delayed funding and late arrival of the operations manager
-      set back some
+    text: ' On one hand, delayed funding and late arrival of the operations manager set back some '
+    text_base: on one hand delayed funding and late arrival of the operations manager set back some
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -31,10 +29,8 @@
     bbox: (111.13999938964844, 90.48347473144531, 541.5100708007812, 101.61066436767578)
     double_fontsize_int: 20
   - index: 401
-    text: 'planned activities and limited meeting all the objectives of the appeal.
-      On the other hand, the assistance to '
-    text_base: planned activities and limited meeting all the objectives of the appeal
-      on the other hand the assistance to
+    text: 'planned activities and limited meeting all the objectives of the appeal. On the other hand, the assistance to '
+    text_base: planned activities and limited meeting all the objectives of the appeal on the other hand the assistance to
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -46,10 +42,8 @@
     bbox: (54.47999954223633, 102.24348449707031, 541.3431396484375, 113.37067413330078)
     double_fontsize_int: 20
   - index: 402
-    text: 'the refugees from Mali somewhat diverted the attention to the needs of
-      the host population. In addition, due '
-    text_base: the refugees from mali somewhat diverted the attention to the needs
-      of the host population in addition due
+    text: 'the refugees from Mali somewhat diverted the attention to the needs of the host population. In addition, due '
+    text_base: the refugees from mali somewhat diverted the attention to the needs of the host population in addition due
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -61,10 +55,8 @@
     bbox: (54.47999954223633, 113.76350402832031, 541.4526977539062, 124.89069366455078)
     double_fontsize_int: 20
   - index: 403
-    text: 'to the delays it was no longer possible to provide support to the community
-      gardens beyond the distribution of '
-    text_base: to the delays it was no longer possible to provide support to the community
-      gardens beyond the distribution of
+    text: 'to the delays it was no longer possible to provide support to the community gardens beyond the distribution of '
+    text_base: to the delays it was no longer possible to provide support to the community gardens beyond the distribution of
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -89,12 +81,7 @@
     bbox: (54.480010986328125, 136.8035430908203, 215.8172149658203, 147.93072509765625)
     double_fontsize_int: 20
   items:
-  - On one hand, delayed funding and late arrival of the operations manager set back
-    some planned activities and limited meeting all the objectives of the appeal.
-    On the other hand, the assistance to the refugees from Mali somewhat diverted
-    the attention to the needs of the host population. In addition, due to the delays
-    it was no longer possible to provide support to the community gardens beyond the
-    distribution of the requested ploughing machines.
+  - On one hand, delayed funding and late arrival of the operations manager set back some planned activities and limited meeting all the objectives of the appeal. On the other hand, the assistance to the refugees from Mali somewhat diverted the attention to the needs of the host population. In addition, due to the delays it was no longer possible to provide support to the community gardens beyond the distribution of the requested ploughing machines.
 - title:
     text: 'Challenges:'
     text_base: challenges
@@ -113,10 +100,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 475
-    text: ' Due to the lack of funding no other of the planned DRR activities were
-      able to take place. The '
-    text_base: due to the lack of funding no other of the planned drr activities were
-      able to take place the
+    text: ' Due to the lack of funding no other of the planned DRR activities were able to take place. The '
+    text_base: due to the lack of funding no other of the planned drr activities were able to take place the
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -128,10 +113,8 @@
     bbox: (111.14004516601562, 639.0833740234375, 541.5399780273438, 650.2105712890625)
     double_fontsize_int: 20
   - index: 476
-    text: 'planned joint BRCS/OCH/IFRC workshop that is to include partners on the
-      food crisis management, lessons '
-    text_base: planned joint brcs och ifrc workshop that is to include partners on
-      the food crisis management lessons
+    text: 'planned joint BRCS/OCH/IFRC workshop that is to include partners on the food crisis management, lessons '
+    text_base: planned joint brcs och ifrc workshop that is to include partners on the food crisis management lessons
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -143,10 +126,8 @@
     bbox: (54.480045318603516, 650.723388671875, 541.2237548828125, 661.8505859375)
     double_fontsize_int: 20
   - index: 477
-    text: 'learned during the 2011/2012 operations, sharing their experiences and
-      longer-term programming has not '
-    text_base: learned during the 2011 2012 operations sharing their experiences and
-      longer term programming has not
+    text: 'learned during the 2011/2012 operations, sharing their experiences and longer-term programming has not '
+    text_base: learned during the 2011 2012 operations sharing their experiences and longer term programming has not
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -171,10 +152,7 @@
     bbox: (54.480045318603516, 673.6433715820312, 114.02920532226562, 684.7705688476562)
     double_fontsize_int: 20
   items:
-  - Due to the lack of funding no other of the planned DRR activities were able to
-    take place. The planned joint BRCS/OCH/IFRC workshop that is to include partners
-    on the food crisis management, lessons learned during the 2011/2012 operations,
-    sharing their experiences and longer-term programming has not taken place.
+  - Due to the lack of funding no other of the planned DRR activities were able to take place. The planned joint BRCS/OCH/IFRC workshop that is to include partners on the food crisis management, lessons learned during the 2011/2012 operations, sharing their experiences and longer-term programming has not taken place.
 - title:
     text: 'Impacts/Challenges:'
     text_base: impacts challenges
@@ -193,10 +171,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 508
-    text: ' Since no additional funding came to support this outcome that was included
-      in the '
-    text_base: since no additional funding came to support this outcome that was included
-      in the
+    text: ' Since no additional funding came to support this outcome that was included in the '
+    text_base: since no additional funding came to support this outcome that was included in the
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
@@ -221,8 +197,7 @@
     bbox: (53.8800048828125, 214.56349182128906, 310.36834716796875, 225.690673828125)
     double_fontsize_int: 20
   items:
-  - Since no additional funding came to support this outcome that was included in
-    the appeal revision, none of the planned activities took place.
+  - Since no additional funding came to support this outcome that was included in the appeal revision, none of the planned activities took place.
 - title:
     text: 'Impacts/Challenges:'
     text_base: impacts challenges
@@ -241,10 +216,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 562
-    text: ' Since no additional funding came to support this outcome that was included
-      in the '
-    text_base: since no additional funding came to support this outcome that was included
-      in the
+    text: ' Since no additional funding came to support this outcome that was included in the '
+    text_base: since no additional funding came to support this outcome that was included in the
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
@@ -269,8 +242,7 @@
     bbox: (53.8800048828125, 590.3334350585938, 310.3782653808594, 601.4606323242188)
     double_fontsize_int: 20
   items:
-  - Since no additional funding came to support this outcome that was included in
-    the appeal revision, none of the planned activities took place.
+  - Since no additional funding came to support this outcome that was included in the appeal revision, none of the planned activities took place.
 - title:
     text: 'Impacts/Challenges:'
     text_base: impacts challenges
@@ -289,10 +261,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 643
-    text: ' Since no additional funding came to support this outcome that was included
-      in the '
-    text_base: since no additional funding came to support this outcome that was included
-      in the
+    text: ' Since no additional funding came to support this outcome that was included in the '
+    text_base: since no additional funding came to support this outcome that was included in the
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -317,5 +287,4 @@
     bbox: (53.8800048828125, 393.0334777832031, 340.27813720703125, 404.16064453125)
     double_fontsize_int: 20
   items:
-  - Since no additional funding came to support this outcome that was included in
-    the appeal revision, none of the planned activities have taken place.
+  - Since no additional funding came to support this outcome that was included in the appeal revision, none of the planned activities have taken place.

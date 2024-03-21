@@ -18,10 +18,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 398
-    text: 'The movement of people and materials between Antigua and Barbuda was a
-      reoccurring issue for the operation. '
-    text_base: the movement of people and materials between antigua and barbuda was
-      a reoccurring issue for the operation
+    text: 'The movement of people and materials between Antigua and Barbuda was a reoccurring issue for the operation. '
+    text_base: the movement of people and materials between antigua and barbuda was a reoccurring issue for the operation
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 7
@@ -35,10 +33,8 @@
     bbox_x2: 550.2575073242188
     double_fontsize_int: 20
   - index: 399
-    text: 'Planned activities and interventions were delayed due to lack of space
-      or logistical options for moving people and '
-    text_base: planned activities and interventions were delayed due to lack of space
-      or logistical options for moving people and
+    text: 'Planned activities and interventions were delayed due to lack of space or logistical options for moving people and '
+    text_base: planned activities and interventions were delayed due to lack of space or logistical options for moving people and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
@@ -67,10 +63,8 @@
     bbox_x2: 145.58888244628906
     double_fontsize_int: 20
   - index: 401
-    text: 'Another challenge was the extremely slow rate of Barbudans returning to
-      Barbuda. It was difficult to support the '
-    text_base: another challenge was the extremely slow rate of barbudans returning
-      to barbuda it was difficult to support the
+    text: 'Another challenge was the extremely slow rate of Barbudans returning to Barbuda. It was difficult to support the '
+    text_base: another challenge was the extremely slow rate of barbudans returning to barbuda it was difficult to support the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
@@ -99,12 +93,8 @@
     bbox_x2: 316.85888671875
     double_fontsize_int: 20
   items:
-  - The movement of people and materials between Antigua and Barbuda was a reoccurring
-    issue for the operation. Planned activities and interventions were delayed due
-    to lack of space or logistical options for moving people and items to/from Barbuda.
-  - Another challenge was the extremely slow rate of Barbudans returning to Barbuda.
-    It was difficult to support the recovery efforts without the community present
-    on the island.
+  - The movement of people and materials between Antigua and Barbuda was a reoccurring issue for the operation. Planned activities and interventions were delayed due to lack of space or logistical options for moving people and items to/from Barbuda.
+  - Another challenge was the extremely slow rate of Barbudans returning to Barbuda. It was difficult to support the recovery efforts without the community present on the island.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -125,10 +115,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 589
-    text: 'There were no banking facilities on Barbuda at the beginning of the response.
-      The absence of a bank or ATM also '
-    text_base: there were no banking facilities on barbuda at the beginning of the
-      response the absence of a bank or atm also
+    text: 'There were no banking facilities on Barbuda at the beginning of the response. The absence of a bank or ATM also '
+    text_base: there were no banking facilities on barbuda at the beginning of the response the absence of a bank or atm also
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 10
@@ -142,10 +130,8 @@
     bbox_x2: 550.6881103515625
     double_fontsize_int: 20
   - index: 590
-    text: 'prevented planned cash transfer programme with debit cards. Only in February
-      of 2018 was an ATM placed on the '
-    text_base: prevented planned cash transfer programme with debit cards only in
-      february of 2018 was an atm placed on the
+    text: 'prevented planned cash transfer programme with debit cards. Only in February of 2018 was an ATM placed on the '
+    text_base: prevented planned cash transfer programme with debit cards only in february of 2018 was an atm placed on the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -159,10 +145,8 @@
     bbox_x2: 550.877197265625
     double_fontsize_int: 20
   - index: 591
-    text: 'island for a planned CTP activity for returning households. Therefore,
-      ABRC ensured coordination with the sole '
-    text_base: island for a planned ctp activity for returning households therefore
-      abrc ensured coordination with the sole
+    text: 'island for a planned CTP activity for returning households. Therefore, ABRC ensured coordination with the sole '
+    text_base: island for a planned ctp activity for returning households therefore abrc ensured coordination with the sole
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -176,10 +160,8 @@
     bbox_x2: 550.7536010742188
     double_fontsize_int: 20
   - index: 592
-    text: 'bank on Barbuda was critical. Given the size of the operation, ensuring
-      the ATM always had necessary funds was '
-    text_base: bank on barbuda was critical given the size of the operation ensuring
-      the atm always had necessary funds was
+    text: 'bank on Barbuda was critical. Given the size of the operation, ensuring the ATM always had necessary funds was '
+    text_base: bank on barbuda was critical given the size of the operation ensuring the atm always had necessary funds was
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -208,13 +190,7 @@
     bbox_x2: 273.53887939453125
     double_fontsize_int: 20
   items:
-  - There were no banking facilities on Barbuda at the beginning of the response.
-    The absence of a bank or ATM also prevented planned cash transfer programme with
-    debit cards. Only in February of 2018 was an ATM placed on the island for a planned
-    CTP activity for returning households. Therefore, ABRC ensured coordination with
-    the sole bank on Barbuda was critical. Given the size of the operation, ensuring
-    the ATM always had necessary funds was critical to the smooth implementation of
-    the support.
+  - There were no banking facilities on Barbuda at the beginning of the response. The absence of a bank or ATM also prevented planned cash transfer programme with debit cards. Only in February of 2018 was an ATM placed on the island for a planned CTP activity for returning households. Therefore, ABRC ensured coordination with the sole bank on Barbuda was critical. Given the size of the operation, ensuring the ATM always had necessary funds was critical to the smooth implementation of the support.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -235,10 +211,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 718
-    text: 'While the PSS activities were effective, the burnt-out levels of Red Cross
-      staff and volunteers were high, due to the '
-    text_base: while the pss activities were effective the burnt out levels of red
-      cross staff and volunteers were high due to the
+    text: 'While the PSS activities were effective, the burnt-out levels of Red Cross staff and volunteers were high, due to the '
+    text_base: while the pss activities were effective the burnt out levels of red cross staff and volunteers were high due to the
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 12
@@ -252,10 +226,8 @@
     bbox_x2: 550.8986206054688
     double_fontsize_int: 20
   - index: 719
-    text: 'tensions and amount of duties of the response phase. The National Society
-      tried to put practices of staff appreciation '
-    text_base: tensions and amount of duties of the response phase the national society
-      tried to put practices of staff appreciation
+    text: 'tensions and amount of duties of the response phase. The National Society tried to put practices of staff appreciation '
+    text_base: tensions and amount of duties of the response phase the national society tried to put practices of staff appreciation
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -269,10 +241,8 @@
     bbox_x2: 550.4567260742188
     double_fontsize_int: 20
   - index: 720
-    text: 'at different phases of the operation to enhance the wellness of its staff
-      and volunteers.  '
-    text_base: at different phases of the operation to enhance the wellness of its
-      staff and volunteers
+    text: 'at different phases of the operation to enhance the wellness of its staff and volunteers.  '
+    text_base: at different phases of the operation to enhance the wellness of its staff and volunteers
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -286,10 +256,7 @@
     bbox_x2: 428.598876953125
     double_fontsize_int: 20
   items:
-  - While the PSS activities were effective, the burnt-out levels of Red Cross staff
-    and volunteers were high, due to the tensions and amount of duties of the response
-    phase. The National Society tried to put practices of staff appreciation at different
-    phases of the operation to enhance the wellness of its staff and volunteers.
+  - While the PSS activities were effective, the burnt-out levels of Red Cross staff and volunteers were high, due to the tensions and amount of duties of the response phase. The National Society tried to put practices of staff appreciation at different phases of the operation to enhance the wellness of its staff and volunteers.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -310,10 +277,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 809
-    text: 'Coordination among different agencies (government, Red Cross and other
-      agencies) to provide water remained a '
-    text_base: coordination among different agencies government red cross and other
-      agencies to provide water remained a
+    text: 'Coordination among different agencies (government, Red Cross and other agencies) to provide water remained a '
+    text_base: coordination among different agencies government red cross and other agencies to provide water remained a
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 13
@@ -327,10 +292,8 @@
     bbox_x2: 550.2276611328125
     double_fontsize_int: 20
   - index: 810
-    text: 'challenge. In addition, the logistics to transport water from Red Cross
-      was another issue, as it was expensive.  '
-    text_base: challenge in addition the logistics to transport water from red cross
-      was another issue as it was expensive
+    text: 'challenge. In addition, the logistics to transport water from Red Cross was another issue, as it was expensive.  '
+    text_base: challenge in addition the logistics to transport water from red cross was another issue as it was expensive
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -344,10 +307,8 @@
     bbox_x2: 553.5332641601562
     double_fontsize_int: 20
   - index: 811
-    text: 'Nevertheless, the National Society remained a key partner with the government
-      and other partners in the sector.    '
-    text_base: nevertheless the national society remained a key partner with the government
-      and other partners in the sector
+    text: 'Nevertheless, the National Society remained a key partner with the government and other partners in the sector.    '
+    text_base: nevertheless the national society remained a key partner with the government and other partners in the sector
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -361,11 +322,7 @@
     bbox_x2: 548.8688354492188
     double_fontsize_int: 20
   items:
-  - Coordination among different agencies (government, Red Cross and other agencies)
-    to provide water remained a challenge. In addition, the logistics to transport
-    water from Red Cross was another issue, as it was expensive. Nevertheless, the
-    National Society remained a key partner with the government and other partners
-    in the sector.
+  - Coordination among different agencies (government, Red Cross and other agencies) to provide water remained a challenge. In addition, the logistics to transport water from Red Cross was another issue, as it was expensive. Nevertheless, the National Society remained a key partner with the government and other partners in the sector.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -386,10 +343,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 823
-    text: 'Due to hiring delays for the staff responsible for implementing this sector
-      of activities, disaster risk reduction activities '
-    text_base: due to hiring delays for the staff responsible for implementing this
-      sector of activities disaster risk reduction activities
+    text: 'Due to hiring delays for the staff responsible for implementing this sector of activities, disaster risk reduction activities '
+    text_base: due to hiring delays for the staff responsible for implementing this sector of activities disaster risk reduction activities
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 14
@@ -403,10 +358,8 @@
     bbox_x2: 552.7380981445312
     double_fontsize_int: 20
   - index: 824
-    text: 'were the last to be implemented.  The activities started in June 2018,
-      while ABRC tried their best to meet the targets. '
-    text_base: were the last to be implemented the activities started in june 2018
-      while abrc tried their best to meet the targets
+    text: 'were the last to be implemented.  The activities started in June 2018, while ABRC tried their best to meet the targets. '
+    text_base: were the last to be implemented the activities started in june 2018 while abrc tried their best to meet the targets
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -420,10 +373,8 @@
     bbox_x2: 553.1888427734375
     double_fontsize_int: 20
   - index: 825
-    text: 'The construction of the branch office in Barbuda (which also serves as
-      an emergency shelter) also saw multiple '
-    text_base: the construction of the branch office in barbuda which also serves
-      as an emergency shelter also saw multiple
+    text: 'The construction of the branch office in Barbuda (which also serves as an emergency shelter) also saw multiple '
+    text_base: the construction of the branch office in barbuda which also serves as an emergency shelter also saw multiple
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -437,10 +388,8 @@
     bbox_x2: 553.140380859375
     double_fontsize_int: 20
   - index: 826
-    text: 'delays due to the unexpected amount of resources needed to prepare the
-      construction plans. While the technical '
-    text_base: delays due to the unexpected amount of resources needed to prepare
-      the construction plans while the technical
+    text: 'delays due to the unexpected amount of resources needed to prepare the construction plans. While the technical '
+    text_base: delays due to the unexpected amount of resources needed to prepare the construction plans while the technical
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -454,10 +403,8 @@
     bbox_x2: 552.86279296875
     double_fontsize_int: 20
   - index: 827
-    text: 'plans were now ready, the construction on site has not started.  The completion
-      of the branch office will be completed '
-    text_base: plans were now ready the construction on site has not started the completion
-      of the branch office will be completed
+    text: 'plans were now ready, the construction on site has not started.  The completion of the branch office will be completed '
+    text_base: plans were now ready the construction on site has not started the completion of the branch office will be completed
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -486,14 +433,8 @@
     bbox_x2: 180.02886962890625
     double_fontsize_int: 20
   items:
-  - Due to hiring delays for the staff responsible for implementing this sector of
-    activities, disaster risk reduction activities were the last to be implemented.  The
-    activities started in June 2018, while ABRC tried their best to meet the targets.
-  - The construction of the branch office in Barbuda (which also serves as an emergency
-    shelter) also saw multiple delays due to the unexpected amount of resources needed
-    to prepare the construction plans. While the technical plans were now ready, the
-    construction on site has not started.  The completion of the branch office will
-    be completed after the end of this operation.
+  - Due to hiring delays for the staff responsible for implementing this sector of activities, disaster risk reduction activities were the last to be implemented. The activities started in June 2018, while ABRC tried their best to meet the targets.
+  - The construction of the branch office in Barbuda (which also serves as an emergency shelter) also saw multiple delays due to the unexpected amount of resources needed to prepare the construction plans. While the technical plans were now ready, the construction on site has not started. The completion of the branch office will be completed after the end of this operation.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -514,10 +455,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1007
-    text: 'At the start, national society staff support was a significant challenge
-      to the operations. The SKNRC had no paid '
-    text_base: at the start national society staff support was a significant challenge
-      to the operations the sknrc had no paid
+    text: 'At the start, national society staff support was a significant challenge to the operations. The SKNRC had no paid '
+    text_base: at the start national society staff support was a significant challenge to the operations the sknrc had no paid
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 16
@@ -531,10 +470,8 @@
     bbox_x2: 549.1917724609375
     double_fontsize_int: 20
   - index: 1008
-    text: 'staff and relied solely on volunteers. Having no dedicated counterparts
-      at the NS made the implementation of '
-    text_base: staff and relied solely on volunteers having no dedicated counterparts
-      at the ns made the implementation of
+    text: 'staff and relied solely on volunteers. Having no dedicated counterparts at the NS made the implementation of '
+    text_base: staff and relied solely on volunteers having no dedicated counterparts at the ns made the implementation of
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -548,10 +485,8 @@
     bbox_x2: 549.2813720703125
     double_fontsize_int: 20
   - index: 1009
-    text: 'planned activities very difficult. As for ABRC, they increased the number
-      of paid staff through the appeal, but '
-    text_base: planned activities very difficult as for abrc they increased the number
-      of paid staff through the appeal but
+    text: 'planned activities very difficult. As for ABRC, they increased the number of paid staff through the appeal, but '
+    text_base: planned activities very difficult as for abrc they increased the number of paid staff through the appeal but
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -580,8 +515,4 @@
     bbox_x2: 374.598876953125
     double_fontsize_int: 20
   items:
-  - At the start, national society staff support was a significant challenge to the
-    operations. The SKNRC had no paid staff and relied solely on volunteers. Having
-    no dedicated counterparts at the NS made the implementation of planned activities
-    very difficult. As for ABRC, they increased the number of paid staff through the
-    appeal, but turnover and accountability were constant issues for the NS and operation.
+  - At the start, national society staff support was a significant challenge to the operations. The SKNRC had no paid staff and relied solely on volunteers. Having no dedicated counterparts at the NS made the implementation of planned activities very difficult. As for ABRC, they increased the number of paid staff through the appeal, but turnover and accountability were constant issues for the NS and operation.

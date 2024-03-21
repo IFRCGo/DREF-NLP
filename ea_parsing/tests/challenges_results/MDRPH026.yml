@@ -224,10 +224,8 @@
     bbox: (41.63999938964844, 254.15298461914062, 300.1383361816406, 267.8380126953125)
     double_fontsize_int: 20
   - index: 839
-    text: 'making access difficult. Beneficiaries hauled their shelter materials through
-      a raft made of banana stems. Hauling '
-    text_base: making access difficult beneficiaries hauled their shelter materials
-      through a raft made of banana stems hauling
+    text: 'making access difficult. Beneficiaries hauled their shelter materials through a raft made of banana stems. Hauling '
+    text_base: making access difficult beneficiaries hauled their shelter materials through a raft made of banana stems hauling
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -239,10 +237,8 @@
     bbox: (41.63999938964844, 265.6730041503906, 560.0170288085938, 279.3580322265625)
     double_fontsize_int: 20
   - index: 840
-    text: 'materials often around 4-6 hours from the main drop off int by road to
-      the resettlement area - depending on the water '
-    text_base: materials often around 4 6 hours from the main drop off int by road
-      to the resettlement area depending on the water
+    text: 'materials often around 4-6 hours from the main drop off int by road to the resettlement area - depending on the water '
+    text_base: materials often around 4 6 hours from the main drop off int by road to the resettlement area depending on the water
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -267,10 +263,8 @@
     bbox: (41.63999938964844, 288.7430114746094, 129.50888061523438, 302.42803955078125)
     double_fontsize_int: 20
   - index: 842
-    text: 'Approval for the beneficiaries to source lumber took some time but with
-      the support of the Local Government and '
-    text_base: approval for the beneficiaries to source lumber took some time but
-      with the support of the local government and
+    text: 'Approval for the beneficiaries to source lumber took some time but with the support of the Local Government and '
+    text_base: approval for the beneficiaries to source lumber took some time but with the support of the local government and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -295,22 +289,11 @@
     bbox: (41.63999938964844, 323.1829833984375, 242.8030242919922, 336.8680114746094)
     double_fontsize_int: 20
   items:
-  - For relief one of the main challenges was the wide geographical spread of the
-    response and in some cases the areas were very difficult to access.
-  - For shelter in Zamboanga Del Norte during design stage of the recovery project
-    the local government allocated their shelter assistance, hence PRC had to change
-    their response from providing cash support to instead providing software support
-    to complement the governments activities.
-  - In shelter recovery in Bukidnon in the first few weeks of the shelter project,
-    progress of shelter construction was slow due to the limited number of carpenters.
-    The solution was found during coordination, when the local government unit offered
-    to outsource carpenters from neighbouring barangays.
-  - The resettlement sites were very far from the main market making access difficult.
-    Beneficiaries hauled their shelter materials through a raft made of banana stems.
-    Hauling materials often around 4-6 hours from the main drop off int by road to
-    the resettlement area - depending on the water level from the river.
-  - Approval for the beneficiaries to source lumber took some time but with the support
-    of the Local Government and BaReCom approval was given by the DENR.
+  - For relief one of the main challenges was the wide geographical spread of the response and in some cases the areas were very difficult to access.
+  - For shelter in Zamboanga Del Norte during design stage of the recovery project the local government allocated their shelter assistance, hence PRC had to change their response from providing cash support to instead providing software support to complement the governments activities.
+  - In shelter recovery in Bukidnon in the first few weeks of the shelter project, progress of shelter construction was slow due to the limited number of carpenters. The solution was found during coordination, when the local government unit offered to outsource carpenters from neighbouring barangays.
+  - The resettlement sites were very far from the main market making access difficult. Beneficiaries hauled their shelter materials through a raft made of banana stems. Hauling materials often around 4-6 hours from the main drop off int by road to the resettlement area - depending on the water level from the river.
+  - Approval for the beneficiaries to source lumber took some time but with the support of the Local Government and BaReCom approval was given by the DENR.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -329,10 +312,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1276
-    text: "At first, it was not easy to establish an association as many of the association\u2019\
-      s officers did not have identification "
-    text_base: at first it was not easy to establish an association as many of the
-      association s officers did not have identification
+    text: "At first, it was not easy to establish an association as many of the association\u2019s officers did not have identification "
+    text_base: at first it was not easy to establish an association as many of the association s officers did not have identification
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 13
@@ -344,10 +325,8 @@
     bbox: (41.63999938964844, 270.9529724121094, 552.2066650390625, 284.63800048828125)
     double_fontsize_int: 20
   - index: 1277
-    text: 'and documents needed to have the accreditation in DOLE and requirements
-      to open a bank account.  To fill this '
-    text_base: and documents needed to have the accreditation in dole and requirements
-      to open a bank account to fill this
+    text: 'and documents needed to have the accreditation in DOLE and requirements to open a bank account.  To fill this '
+    text_base: and documents needed to have the accreditation in dole and requirements to open a bank account to fill this
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -359,10 +338,8 @@
     bbox: (41.63999938964844, 282.5029602050781, 552.3040771484375, 296.18798828125)
     double_fontsize_int: 20
   - index: 1278
-    text: "gap, PRC collaborated with the relevant government offices, such as Municipal\
-      \ Agriculture\u2019s Office, DOLE and DTI "
-    text_base: gap prc collaborated with the relevant government offices such as municipal
-      agriculture s office dole and dti
+    text: "gap, PRC collaborated with the relevant government offices, such as Municipal Agriculture\u2019s Office, DOLE and DTI "
+    text_base: gap prc collaborated with the relevant government offices such as municipal agriculture s office dole and dti
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -374,10 +351,8 @@
     bbox: (41.63999938964844, 295.5934753417969, 551.7000122070312, 306.72064208984375)
     double_fontsize_int: 20
   - index: 1279
-    text: 'to support documentation and processing to establish the association. Further,
-      members of the association were '
-    text_base: to support documentation and processing to establish the association
-      further members of the association were
+    text: 'to support documentation and processing to establish the association. Further, members of the association were '
+    text_base: to support documentation and processing to establish the association further members of the association were
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -389,10 +364,8 @@
     bbox: (41.63999938964844, 305.4230041503906, 551.7825927734375, 319.1080322265625)
     double_fontsize_int: 20
   - index: 1280
-    text: 'provided with technical trainings on financial literacy, and leadership
-      and management training to ensure '
-    text_base: provided with technical trainings on financial literacy and leadership
-      and management training to ensure
+    text: 'provided with technical trainings on financial literacy, and leadership and management training to ensure '
+    text_base: provided with technical trainings on financial literacy and leadership and management training to ensure
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -417,14 +390,7 @@
     bbox: (41.63999938964844, 328.4629821777344, 193.94886779785156, 342.14801025390625)
     double_fontsize_int: 20
   items:
-  - "At first, it was not easy to establish an association as many of the association\u2019\
-    s officers did not have identification and documents needed to have the accreditation\
-    \ in DOLE and requirements to open a bank account.  To fill this gap, PRC collaborated\
-    \ with the relevant government offices, such as Municipal Agriculture\u2019s Office,\
-    \ DOLE and DTI to support documentation and processing to establish the association.\
-    \ Further, members of the association were provided with technical trainings on\
-    \ financial literacy, and leadership and management training to ensure sustainability\
-    \ of the programmes."
+  - "At first, it was not easy to establish an association as many of the association\u2019s officers did not have identification and documents needed to have the accreditation in DOLE and requirements to open a bank account. To fill this gap, PRC collaborated with the relevant government offices, such as Municipal Agriculture\u2019s Office, DOLE and DTI to support documentation and processing to establish the association. Further, members of the association were provided with technical trainings on financial literacy, and leadership and management training to ensure sustainability of the programmes."
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -443,10 +409,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1547
-    text: 'For relief one of the main challenges was the wide geographical spread
-      of the response and in some cases the '
-    text_base: for relief one of the main challenges was the wide geographical spread
-      of the response and in some cases the
+    text: 'For relief one of the main challenges was the wide geographical spread of the response and in some cases the '
+    text_base: for relief one of the main challenges was the wide geographical spread of the response and in some cases the
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 15
@@ -471,8 +435,7 @@
     bbox: (41.63999938964844, 325.2229919433594, 205.61888122558594, 338.90802001953125)
     double_fontsize_int: 20
   items:
-  - For relief one of the main challenges was the wide geographical spread of the
-    response and in some cases the areas were very difficult to access.
+  - For relief one of the main challenges was the wide geographical spread of the response and in some cases the areas were very difficult to access.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -491,10 +454,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1851
-    text: 'One of the main challenges was the wide geographical spread of the response
-      and in some cases the areas were '
-    text_base: one of the main challenges was the wide geographical spread of the
-      response and in some cases the areas were
+    text: 'One of the main challenges was the wide geographical spread of the response and in some cases the areas were '
+    text_base: one of the main challenges was the wide geographical spread of the response and in some cases the areas were
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 18
@@ -506,10 +467,8 @@
     bbox: (41.63999938964844, 190.43295288085938, 557.8139038085938, 204.1179962158203)
     double_fontsize_int: 20
   - index: 1852
-    text: 'very difficult to access. This was particularly the case for recovery WASH
-      hardware and getting the construction '
-    text_base: very difficult to access this was particularly the case for recovery
-      wash hardware and getting the construction
+    text: 'very difficult to access. This was particularly the case for recovery WASH hardware and getting the construction '
+    text_base: very difficult to access this was particularly the case for recovery wash hardware and getting the construction
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -521,10 +480,8 @@
     bbox: (41.63999938964844, 201.95297241210938, 557.3787841796875, 215.6380157470703)
     double_fontsize_int: 20
   - index: 1853
-    text: 'materials to the communities. As such where possible standard designs were
-      amended to reduce the need to move '
-    text_base: materials to the communities as such where possible standard designs
-      were amended to reduce the need to move
+    text: 'materials to the communities. As such where possible standard designs were amended to reduce the need to move '
+    text_base: materials to the communities as such where possible standard designs were amended to reduce the need to move
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -549,10 +506,8 @@
     bbox: (41.63999938964844, 224.99301147460938, 184.94886779785156, 238.6780548095703)
     double_fontsize_int: 20
   - index: 1855
-    text: 'In Dingongan, the identified location for the construction of water system
-      was privately-owned. Since the owner was '
-    text_base: in dingongan the identified location for the construction of water
-      system was privately owned since the owner was
+    text: 'In Dingongan, the identified location for the construction of water system was privately-owned. Since the owner was '
+    text_base: in dingongan the identified location for the construction of water system was privately owned since the owner was
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -564,10 +519,8 @@
     bbox: (41.63999938964844, 247.91299438476562, 552.208984375, 261.5980224609375)
     double_fontsize_int: 20
   - index: 1856
-    text: 'not always around, dialogue to ask the permission of the owner took longer.
-      This has caused a little delay on the '
-    text_base: not always around dialogue to ask the permission of the owner took
-      longer this has caused a little delay on the
+    text: 'not always around, dialogue to ask the permission of the owner took longer. This has caused a little delay on the '
+    text_base: not always around dialogue to ask the permission of the owner took longer this has caused a little delay on the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -579,10 +532,8 @@
     bbox: (42.720001220703125, 259.4329528808594, 551.5864868164062, 273.11798095703125)
     double_fontsize_int: 20
   - index: 1857
-    text: 'construction. Following negotiation with the owner, the beneficiaries through
-      the chieftain and BaReCom, was able '
-    text_base: construction following negotiation with the owner the beneficiaries
-      through the chieftain and barecom was able
+    text: 'construction. Following negotiation with the owner, the beneficiaries through the chieftain and BaReCom, was able '
+    text_base: construction following negotiation with the owner the beneficiaries through the chieftain and barecom was able
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -607,17 +558,8 @@
     bbox: (42.720001220703125, 282.5029602050781, 352.5188903808594, 296.18798828125)
     double_fontsize_int: 20
   items:
-  - One of the main challenges was the wide geographical spread of the response and
-    in some cases the areas were very difficult to access. This was particularly the
-    case for recovery WASH hardware and getting the construction materials to the
-    communities. As such where possible standard designs were amended to reduce the
-    need to move heavy construction materials.
-  - In Dingongan, the identified location for the construction of water system was
-    privately-owned. Since the owner was not always around, dialogue to ask the permission
-    of the owner took longer. This has caused a little delay on the construction.
-    Following negotiation with the owner, the beneficiaries through the chieftain
-    and BaReCom, was able to secure a certificate, that they were allowed to do the
-    construction.
+  - One of the main challenges was the wide geographical spread of the response and in some cases the areas were very difficult to access. This was particularly the case for recovery WASH hardware and getting the construction materials to the communities. As such where possible standard designs were amended to reduce the need to move heavy construction materials.
+  - In Dingongan, the identified location for the construction of water system was privately-owned. Since the owner was not always around, dialogue to ask the permission of the owner took longer. This has caused a little delay on the construction. Following negotiation with the owner, the beneficiaries through the chieftain and BaReCom, was able to secure a certificate, that they were allowed to do the construction.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -636,10 +578,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1991
-    text: 'One of the main challenges was the wide geographical spread of the response
-      and in some cases the areas were '
-    text_base: one of the main challenges was the wide geographical spread of the
-      response and in some cases the areas were
+    text: 'One of the main challenges was the wide geographical spread of the response and in some cases the areas were '
+    text_base: one of the main challenges was the wide geographical spread of the response and in some cases the areas were
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 20
@@ -664,8 +604,7 @@
     bbox: (41.63999938964844, 133.67300415039062, 150.62887573242188, 147.35804748535156)
     double_fontsize_int: 20
   items:
-  - One of the main challenges was the wide geographical spread of the response and
-    in some cases the areas were very difficult to access.
+  - One of the main challenges was the wide geographical spread of the response and in some cases the areas were very difficult to access.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -684,10 +623,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 2184
-    text: ' One of the main challenges was the wide geographical spread of the response
-      and in some cases the areas were '
-    text_base: one of the main challenges was the wide geographical spread of the
-      response and in some cases the areas were
+    text: ' One of the main challenges was the wide geographical spread of the response and in some cases the areas were '
+    text_base: one of the main challenges was the wide geographical spread of the response and in some cases the areas were
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 21
@@ -725,8 +662,7 @@
     bbox: (139.4600067138672, 321.79278564453125, 147.74887084960938, 335.27862548828125)
     double_fontsize_int: 20
   items:
-  - One of the main challenges was the wide geographical spread of the response and
-    in some cases the areas were very difficult to access .
+  - One of the main challenges was the wide geographical spread of the response and in some cases the areas were very difficult to access.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -745,10 +681,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 2304
-    text: 'One of the main challenges was the wide geographical spread of the response
-      and in some cases the areas were '
-    text_base: one of the main challenges was the wide geographical spread of the
-      response and in some cases the areas were
+    text: 'One of the main challenges was the wide geographical spread of the response and in some cases the areas were '
+    text_base: one of the main challenges was the wide geographical spread of the response and in some cases the areas were
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 23
@@ -773,8 +707,7 @@
     bbox: (41.63999938964844, 623.9229736328125, 150.62887573242188, 637.6080322265625)
     double_fontsize_int: 20
   items:
-  - One of the main challenges was the wide geographical spread of the response and
-    in some cases the areas were very difficult to access.
+  - One of the main challenges was the wide geographical spread of the response and in some cases the areas were very difficult to access.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -793,10 +726,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 2484
-    text: 'Funding was a challenge and the appeal had to be revised to reflect the
-      low support to the original Emergency '
-    text_base: funding was a challenge and the appeal had to be revised to reflect
-      the low support to the original emergency
+    text: 'Funding was a challenge and the appeal had to be revised to reflect the low support to the original Emergency '
+    text_base: funding was a challenge and the appeal had to be revised to reflect the low support to the original emergency
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 24
@@ -821,9 +752,7 @@
     bbox: (41.63999938964844, 670.1529541015625, 372.55889892578125, 683.8380126953125)
     double_fontsize_int: 20
   items:
-  - Funding was a challenge and the appeal had to be revised to reflect the low support
-    to the original Emergency Appeal. The uncertainly of funding puts an added complexity
-    to planning.
+  - Funding was a challenge and the appeal had to be revised to reflect the low support to the original Emergency Appeal. The uncertainly of funding puts an added complexity to planning.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -842,10 +771,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 2565
-    text: 'The team worked in GIDA. They need to travel several hours on foot, cross
-      rivers and mountains to do regular '
-    text_base: the team worked in gida they need to travel several hours on foot cross
-      rivers and mountains to do regular
+    text: 'The team worked in GIDA. They need to travel several hours on foot, cross rivers and mountains to do regular '
+    text_base: the team worked in gida they need to travel several hours on foot cross rivers and mountains to do regular
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 25
@@ -857,10 +784,8 @@
     bbox: (41.63999938964844, 716.9530029296875, 551.818359375, 730.6380004882812)
     double_fontsize_int: 20
   - index: 2566
-    text: 'monitoring. Due to the fatigue and risks of travelling every day, PRC staff
-      and volunteers opted to stay for a week in '
-    text_base: monitoring due to the fatigue and risks of travelling every day prc
-      staff and volunteers opted to stay for a week in
+    text: 'monitoring. Due to the fatigue and risks of travelling every day, PRC staff and volunteers opted to stay for a week in '
+    text_base: monitoring due to the fatigue and risks of travelling every day prc staff and volunteers opted to stay for a week in
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 25
@@ -872,10 +797,8 @@
     bbox: (41.63999938964844, 728.4730224609375, 552.1455078125, 742.1580200195312)
     double_fontsize_int: 20
   - index: 2567
-    text: 'the areas. The cohesion built by constant visit of the team created a safer
-      environment among staff and volunteers, '
-    text_base: the areas the cohesion built by constant visit of the team created
-      a safer environment among staff and volunteers
+    text: 'the areas. The cohesion built by constant visit of the team created a safer environment among staff and volunteers, '
+    text_base: the areas the cohesion built by constant visit of the team created a safer environment among staff and volunteers
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 25
@@ -900,9 +823,4 @@
     bbox: (41.63999938964844, 751.509033203125, 388.03887939453125, 765.1940307617188)
     double_fontsize_int: 20
   items:
-  - The team worked in GIDA. They need to travel several hours on foot, cross rivers
-    and mountains to do regular monitoring. Due to the fatigue and risks of travelling
-    every day, PRC staff and volunteers opted to stay for a week in the areas. The
-    cohesion built by constant visit of the team created a safer environment among
-    staff and volunteers, where community people welcomed the team as member of their
-    community.
+  - The team worked in GIDA. They need to travel several hours on foot, cross rivers and mountains to do regular monitoring. Due to the fatigue and risks of travelling every day, PRC staff and volunteers opted to stay for a week in the areas. The cohesion built by constant visit of the team created a safer environment among staff and volunteers, where community people welcomed the team as member of their community.

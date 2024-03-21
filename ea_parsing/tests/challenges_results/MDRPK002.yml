@@ -37,10 +37,8 @@
     - 476.9212341308594
     double_fontsize_int: 20
   - index: 445
-    text: 'Extreme cold weather was an ongoing challenge for the PRCS/International
-      Federation relief teams. '
-    text_base: extreme cold weather was an ongoing challenge for the prcs international
-      federation relief teams
+    text: 'Extreme cold weather was an ongoing challenge for the PRCS/International Federation relief teams. '
+    text_base: extreme cold weather was an ongoing challenge for the prcs international federation relief teams
     style: 'arialmt, 20, #000000, None'
     size: 10.020000457763672
     page_number: 6
@@ -56,10 +54,8 @@
     - 477.7155456542969
     double_fontsize_int: 20
   - index: 446
-    text: 'This also allowed PRCS/International Federation personnel to lead a number
-      of families in their '
-    text_base: this also allowed prcs international federation personnel to lead a
-      number of families in their
+    text: 'This also allowed PRCS/International Federation personnel to lead a number of families in their '
+    text_base: this also allowed prcs international federation personnel to lead a number of families in their
     style: 'arialmt, 20, #000000, None'
     size: 10.020000457763672
     page_number: 6
@@ -109,10 +105,8 @@
     - 512.0814208984375
     double_fontsize_int: 20
   - index: 449
-    text: 'Another challenge was timely delivery of the procured items in Quetta and
-      Ziarat. Apart from delays of '
-    text_base: another challenge was timely delivery of the procured items in quetta
-      and ziarat apart from delays of
+    text: 'Another challenge was timely delivery of the procured items in Quetta and Ziarat. Apart from delays of '
+    text_base: another challenge was timely delivery of the procured items in quetta and ziarat apart from delays of
     style: 'arialmt, 20, #000000, None'
     size: 10.020000457763672
     page_number: 6
@@ -162,10 +156,8 @@
     - 535.7816772460938
     double_fontsize_int: 20
   - index: 452
-    text: "The earthquake affected people were not satisfied with the government\u2019\
-      s compensation package and "
-    text_base: the earthquake affected people were not satisfied with the government
-      s compensation package and
+    text: "The earthquake affected people were not satisfied with the government\u2019s compensation package and "
+    text_base: the earthquake affected people were not satisfied with the government s compensation package and
     style: 'arialmt, 20, #000000, None'
     size: 10.020000457763672
     page_number: 6
@@ -181,10 +173,8 @@
     - 536.5759887695312
     double_fontsize_int: 20
   - index: 453
-    text: 'there were some strikes and road blocks. It posed some difficulty for the
-      PRCS/International '
-    text_base: there were some strikes and road blocks it posed some difficulty for
-      the prcs international
+    text: 'there were some strikes and road blocks. It posed some difficulty for the PRCS/International '
+    text_base: there were some strikes and road blocks it posed some difficulty for the prcs international
     style: 'arialmt, 20, #000000, None'
     size: 10.020000457763672
     page_number: 6
@@ -200,10 +190,8 @@
     - 548.095947265625
     double_fontsize_int: 20
   - index: 454
-    text: 'Federation while carrying out the distribution. However, the PRCS/International
-      Federation '
-    text_base: federation while carrying out the distribution however the prcs international
-      federation
+    text: 'Federation while carrying out the distribution. However, the PRCS/International Federation '
+    text_base: federation while carrying out the distribution however the prcs international federation
     style: 'arialmt, 20, #000000, None'
     size: 10.020000457763672
     page_number: 6
@@ -253,10 +241,8 @@
     - 582.4618530273438
     double_fontsize_int: 20
   - index: 457
-    text: 'There was some dissonance between the NDMA/PDMA and the PRCS/International
-      Federation. This '
-    text_base: there was some dissonance between the ndma pdma and the prcs international
-      federation this
+    text: 'There was some dissonance between the NDMA/PDMA and the PRCS/International Federation. This '
+    text_base: there was some dissonance between the ndma pdma and the prcs international federation this
     style: 'arialmt, 20, #000000, None'
     size: 10.020000457763672
     page_number: 6
@@ -272,10 +258,8 @@
     - 583.2561645507812
     double_fontsize_int: 20
   - index: 458
-    text: 'was because there was a confusion between the construction of an emergency
-      shelter as opposed to '
-    text_base: was because there was a confusion between the construction of an emergency
-      shelter as opposed to
+    text: 'was because there was a confusion between the construction of an emergency shelter as opposed to '
+    text_base: was because there was a confusion between the construction of an emergency shelter as opposed to
     style: 'arialmt, 20, #000000, None'
     size: 10.020000457763672
     page_number: 6
@@ -291,10 +275,8 @@
     - 594.776123046875
     double_fontsize_int: 20
   - index: 459
-    text: 'simple construction or the construction of basic housing. Persistent advocacy
-      at coordination meetings '
-    text_base: simple construction or the construction of basic housing persistent
-      advocacy at coordination meetings
+    text: 'simple construction or the construction of basic housing. Persistent advocacy at coordination meetings '
+    text_base: simple construction or the construction of basic housing persistent advocacy at coordination meetings
     style: 'arialmt, 20, #000000, None'
     size: 10.020000457763672
     page_number: 6
@@ -310,10 +292,8 @@
     - 606.2360229492188
     double_fontsize_int: 20
   - index: 460
-    text: 'in Islamabad and Quetta brought the frequency of the government authorities
-      in accordance with the '
-    text_base: in islamabad and quetta brought the frequency of the government authorities
-      in accordance with the
+    text: 'in Islamabad and Quetta brought the frequency of the government authorities in accordance with the '
+    text_base: in islamabad and quetta brought the frequency of the government authorities in accordance with the
     style: 'arialmt, 20, #000000, None'
     size: 10.020000457763672
     page_number: 6
@@ -346,20 +326,7 @@
     - 629.2158813476562
     double_fontsize_int: 20
   items:
-  - Extreme cold weather was an ongoing challenge for the PRCS/International Federation
-    relief teams. This also allowed PRCS/International Federation personnel to lead
-    a number of families in their migration to lower grounds.
-  - Another challenge was timely delivery of the procured items in Quetta and Ziarat.
-    Apart from delays of a couple of days for some items, suppliers were very much
-    on schedule.
-  - "The earthquake affected people were not satisfied with the government\u2019s\
-    \ compensation package and there were some strikes and road blocks. It posed some\
-    \ difficulty for the PRCS/International Federation while carrying out the distribution.\
-    \ However, the PRCS/International Federation dissemination teams helped in neutralizing\
-    \ this situation."
-  - There was some dissonance between the NDMA/PDMA and the PRCS/International Federation.
-    This was because there was a confusion between the construction of an emergency
-    shelter as opposed to simple construction or the construction of basic housing.
-    Persistent advocacy at coordination meetings in Islamabad and Quetta brought the
-    frequency of the government authorities in accordance with the PRCS/International
-    Federation to some extent.
+  - Extreme cold weather was an ongoing challenge for the PRCS/International Federation relief teams. This also allowed PRCS/International Federation personnel to lead a number of families in their migration to lower grounds.
+  - Another challenge was timely delivery of the procured items in Quetta and Ziarat. Apart from delays of a couple of days for some items, suppliers were very much on schedule.
+  - "The earthquake affected people were not satisfied with the government\u2019s compensation package and there were some strikes and road blocks. It posed some difficulty for the PRCS/International Federation while carrying out the distribution. However, the PRCS/International Federation dissemination teams helped in neutralizing this situation."
+  - There was some dissonance between the NDMA/PDMA and the PRCS/International Federation. This was because there was a confusion between the construction of an emergency shelter as opposed to simple construction or the construction of basic housing. Persistent advocacy at coordination meetings in Islamabad and Quetta brought the frequency of the government authorities in accordance with the PRCS/International Federation to some extent.

@@ -20,10 +20,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 333
-    text: ' Processing travel permits for expatriate staff to the affected states
-      took some time. This has to be '
-    text_base: processing travel permits for expatriate staff to the affected states
-      took some time this has to be
+    text: ' Processing travel permits for expatriate staff to the affected states took some time. This has to be '
+    text_base: processing travel permits for expatriate staff to the affected states took some time this has to be
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 4
@@ -56,8 +54,7 @@
     - 585.9180297851562
     double_fontsize_int: 20
   items:
-  - Processing travel permits for expatriate staff to the affected states took some
-    time. This has to be considered in advance planning of monitoring/assessment visits.
+  - Processing travel permits for expatriate staff to the affected states took some time. This has to be considered in advance planning of monitoring/assessment visits.
 - title:
     text: 'Challenges:'
     text_base: challenges
@@ -80,10 +77,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 415
-    text: ' Due to the delays in the customs clearance processes in Sudan, it was
-      not possible to complete the '
-    text_base: due to the delays in the customs clearance processes in sudan it was
-      not possible to complete the
+    text: ' Due to the delays in the customs clearance processes in Sudan, it was not possible to complete the '
+    text_base: due to the delays in the customs clearance processes in sudan it was not possible to complete the
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 5
@@ -99,10 +94,8 @@
     - 730.5140380859375
     double_fontsize_int: 20
   - index: 416
-    text: 'distribution of kitchen sets. This was communicated to respective donors
-      and solutions were sought. '
-    text_base: distribution of kitchen sets this was communicated to respective donors
-      and solutions were sought
+    text: 'distribution of kitchen sets. This was communicated to respective donors and solutions were sought. '
+    text_base: distribution of kitchen sets this was communicated to respective donors and solutions were sought
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 5
@@ -118,9 +111,7 @@
     - 742.1780395507812
     double_fontsize_int: 20
   items:
-  - Due to the delays in the customs clearance processes in Sudan, it was not possible
-    to complete the distribution of kitchen sets. This was communicated to respective
-    donors and solutions were sought.
+  - Due to the delays in the customs clearance processes in Sudan, it was not possible to complete the distribution of kitchen sets. This was communicated to respective donors and solutions were sought.
 - title:
     text: 'Challenges:'
     text_base: challenges
@@ -143,10 +134,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 822
-    text: ' Resource mobilization for disaster preparedness/risk reduction continues
-      to be challenging and needs '
-    text_base: resource mobilization for disaster preparedness risk reduction continues
-      to be challenging and needs
+    text: ' Resource mobilization for disaster preparedness/risk reduction continues to be challenging and needs '
+    text_base: resource mobilization for disaster preparedness risk reduction continues to be challenging and needs
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -162,10 +151,8 @@
     - 104.75807189941406
     double_fontsize_int: 20
   - index: 823
-    text: 'more support/commitment from various partners. More advocacy for investing
-      in DRR programming is needed with '
-    text_base: more support commitment from various partners more advocacy for investing
-      in drr programming is needed with
+    text: 'more support/commitment from various partners. More advocacy for investing in DRR programming is needed with '
+    text_base: more support commitment from various partners more advocacy for investing in drr programming is needed with
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -181,10 +168,8 @@
     - 116.39802551269531
     double_fontsize_int: 20
   - index: 824
-    text: 'partner organizations to ensure that high-risk communities receive adequate
-      support in preparedness and establishing '
-    text_base: partner organizations to ensure that high risk communities receive
-      adequate support in preparedness and establishing
+    text: 'partner organizations to ensure that high-risk communities receive adequate support in preparedness and establishing '
+    text_base: partner organizations to ensure that high risk communities receive adequate support in preparedness and establishing
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -217,11 +202,7 @@
     - 139.4380645751953
     double_fontsize_int: 20
   items:
-  - Resource mobilization for disaster preparedness/risk reduction continues to be
-    challenging and needs more support/commitment from various partners. More advocacy
-    for investing in DRR programming is needed with partner organizations to ensure
-    that high-risk communities receive adequate support in preparedness and establishing
-    risk reduction measures.
+  - Resource mobilization for disaster preparedness/risk reduction continues to be challenging and needs more support/commitment from various partners. More advocacy for investing in DRR programming is needed with partner organizations to ensure that high-risk communities receive adequate support in preparedness and establishing risk reduction measures.
 - title:
     text: 'Challenges:'
     text_base: challenges
@@ -244,10 +225,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 835
-    text: ' Due to the delays in the customs clearance processes in Sudan, it was
-      not possible to complete the '
-    text_base: due to the delays in the customs clearance processes in sudan it was
-      not possible to complete the
+    text: ' Due to the delays in the customs clearance processes in Sudan, it was not possible to complete the '
+    text_base: due to the delays in the customs clearance processes in sudan it was not possible to complete the
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -263,10 +242,8 @@
     - 474.8880310058594
     double_fontsize_int: 20
   - index: 836
-    text: 'distribution of kitchen sets. The issue was communicated to respective
-      donors and efforts made at different levels to '
-    text_base: distribution of kitchen sets the issue was communicated to respective
-      donors and efforts made at different levels to
+    text: 'distribution of kitchen sets. The issue was communicated to respective donors and efforts made at different levels to '
+    text_base: distribution of kitchen sets the issue was communicated to respective donors and efforts made at different levels to
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -282,10 +259,8 @@
     - 486.52801513671875
     double_fontsize_int: 20
   - index: 837
-    text: 'resolve the hitch. Exemption of kitchen sets provided by the Finnish Red
-      Cross got delayed and agreement on '
-    text_base: resolve the hitch exemption of kitchen sets provided by the finnish
-      red cross got delayed and agreement on
+    text: 'resolve the hitch. Exemption of kitchen sets provided by the Finnish Red Cross got delayed and agreement on '
+    text_base: resolve the hitch exemption of kitchen sets provided by the finnish red cross got delayed and agreement on
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -301,10 +276,8 @@
     - 498.04803466796875
     double_fontsize_int: 20
   - index: 838
-    text: 'transferring relevant activities to Revised Complex Emergency Appeal was
-      sought from the Finnish Red Cross and '
-    text_base: transferring relevant activities to revised complex emergency appeal
-      was sought from the finnish red cross and
+    text: 'transferring relevant activities to Revised Complex Emergency Appeal was sought from the Finnish Red Cross and '
+    text_base: transferring relevant activities to revised complex emergency appeal was sought from the finnish red cross and
     style: 'arial, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -337,9 +310,4 @@
     - 520.968017578125
     double_fontsize_int: 20
   items:
-  - Due to the delays in the customs clearance processes in Sudan, it was not possible
-    to complete the distribution of kitchen sets. The issue was communicated to respective
-    donors and efforts made at different levels to resolve the hitch. Exemption of
-    kitchen sets provided by the Finnish Red Cross got delayed and agreement on transferring
-    relevant activities to Revised Complex Emergency Appeal was sought from the Finnish
-    Red Cross and obtained.
+  - Due to the delays in the customs clearance processes in Sudan, it was not possible to complete the distribution of kitchen sets. The issue was communicated to respective donors and efforts made at different levels to resolve the hitch. Exemption of kitchen sets provided by the Finnish Red Cross got delayed and agreement on transferring relevant activities to Revised Complex Emergency Appeal was sought from the Finnish Red Cross and obtained.

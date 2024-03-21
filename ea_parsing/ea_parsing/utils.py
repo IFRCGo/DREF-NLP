@@ -91,3 +91,17 @@ def strip_filler_words(text):
     filler_words = ['and', 'the', 'to', 'for', 'in', 'a', 'in']
     text_without_fillers = replace_phrases_in_sentence(filler_words, '', text).strip()
     return text_without_fillers
+
+
+def tidy_sentence(text):
+    """
+    Tidy a sentence, including:
+    - Strip whitespace
+    - Convert multiple spaces to single space
+    - Remove space before full-stop at end
+    """
+    text = text.strip()
+    text = re.sub(r' +', ' ', text)
+    text = re.sub(r' \.$', '.', text)
+
+    return text

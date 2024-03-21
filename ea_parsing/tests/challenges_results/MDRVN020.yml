@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 692
-    text: 'Beginning in May 2021, the number of COVID-19 positive cases and deaths
-      began to rise dramatically. The overall '
-    text_base: beginning in may 2021 the number of covid 19 positive cases and deaths
-      began to rise dramatically the overall
+    text: 'Beginning in May 2021, the number of COVID-19 positive cases and deaths began to rise dramatically. The overall '
+    text_base: beginning in may 2021 the number of covid 19 positive cases and deaths began to rise dramatically the overall
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -31,10 +29,8 @@
     bbox: (53.040000915527344, 321.7034606933594, 562.1583251953125, 332.83062744140625)
     double_fontsize_int: 20
   - index: 693
-    text: 'consultation and assessment process in the communities was delayed due
-      to strict transportation restrictions across '
-    text_base: consultation and assessment process in the communities was delayed
-      due to strict transportation restrictions across
+    text: 'consultation and assessment process in the communities was delayed due to strict transportation restrictions across '
+    text_base: consultation and assessment process in the communities was delayed due to strict transportation restrictions across
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -46,10 +42,8 @@
     bbox: (53.040000915527344, 333.2234802246094, 562.1359252929688, 344.35064697265625)
     double_fontsize_int: 20
   - index: 694
-    text: 'the country and considerations for the safety of staff and volunteers,
-      and it took longer than expected to implement '
-    text_base: the country and considerations for the safety of staff and volunteers
-      and it took longer than expected to implement
+    text: 'the country and considerations for the safety of staff and volunteers, and it took longer than expected to implement '
+    text_base: the country and considerations for the safety of staff and volunteers and it took longer than expected to implement
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -74,10 +68,8 @@
     bbox: (53.0400390625, 356.1513977050781, 154.69012451171875, 367.278564453125)
     double_fontsize_int: 20
   - index: 696
-    text: 'VNRC HQ received several calls from the people assisted in the localities
-      regarding the kitchen set support with the '
-    text_base: vnrc hq received several calls from the people assisted in the localities
-      regarding the kitchen set support with the
+    text: 'VNRC HQ received several calls from the people assisted in the localities regarding the kitchen set support with the '
+    text_base: vnrc hq received several calls from the people assisted in the localities regarding the kitchen set support with the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -89,10 +81,8 @@
     bbox: (53.040000915527344, 379.18719482421875, 562.1382446289062, 390.3143615722656)
     double_fontsize_int: 20
   - index: 697
-    text: 'message that people preferred cash. The HQ and the Red Cross Chapter have
-      worked closely to reallocate the '
-    text_base: message that people preferred cash the hq and the red cross chapter
-      have worked closely to reallocate the
+    text: 'message that people preferred cash. The HQ and the Red Cross Chapter have worked closely to reallocate the '
+    text_base: message that people preferred cash the hq and the red cross chapter have worked closely to reallocate the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -104,10 +94,8 @@
     bbox: (53.040000915527344, 390.7109069824219, 562.1580810546875, 401.83807373046875)
     double_fontsize_int: 20
   - index: 698
-    text: 'NFIs support to the households in needs. Besides, according to the communication
-      among people assisted and the '
-    text_base: nfis support to the households in needs besides according to the communication
-      among people assisted and the
+    text: 'NFIs support to the households in needs. Besides, according to the communication among people assisted and the '
+    text_base: nfis support to the households in needs besides according to the communication among people assisted and the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -119,10 +107,8 @@
     bbox: (53.040000915527344, 402.1151123046875, 562.1061401367188, 413.2422790527344)
     double_fontsize_int: 20
   - index: 699
-    text: 'local Red Cross Chapter, VND 10 million provided for the repairs work was
-      considered inadequate. '
-    text_base: local red cross chapter vnd 10 million provided for the repairs work
-      was considered inadequate
+    text: 'local Red Cross Chapter, VND 10 million provided for the repairs work was considered inadequate. '
+    text_base: local red cross chapter vnd 10 million provided for the repairs work was considered inadequate
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -134,10 +120,8 @@
     bbox: (53.040000915527344, 413.6388244628906, 493.18292236328125, 424.7659912109375)
     double_fontsize_int: 20
   - index: 700
-    text: 'Three tropical storms named DIANMU, LIONROCK and KOMPASU happened in the
-      last quarter of 2021 which '
-    text_base: three tropical storms named dianmu lionrock and kompasu happened in
-      the last quarter of 2021 which
+    text: 'Three tropical storms named DIANMU, LIONROCK and KOMPASU happened in the last quarter of 2021 which '
+    text_base: three tropical storms named dianmu lionrock and kompasu happened in the last quarter of 2021 which
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -149,10 +133,8 @@
     bbox: (53.040000915527344, 436.6634826660156, 562.2113647460938, 447.7906494140625)
     double_fontsize_int: 20
   - index: 701
-    text: 'delayed the construction and repair process, particularly in material transportation
-      and monitoring.  '
-    text_base: delayed the construction and repair process particularly in material
-      transportation and monitoring
+    text: 'delayed the construction and repair process, particularly in material transportation and monitoring.  '
+    text_base: delayed the construction and repair process particularly in material transportation and monitoring
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -164,20 +146,9 @@
     bbox: (53.040000915527344, 448.1834716796875, 491.0472106933594, 459.3106384277344)
     double_fontsize_int: 20
   items:
-  - Beginning in May 2021, the number of COVID-19 positive cases and deaths began
-    to rise dramatically. The overall consultation and assessment process in the communities
-    was delayed due to strict transportation restrictions across the country and considerations
-    for the safety of staff and volunteers, and it took longer than expected to implement
-    the recovery activities.
-  - VNRC HQ received several calls from the people assisted in the localities regarding
-    the kitchen set support with the message that people preferred cash. The HQ and
-    the Red Cross Chapter have worked closely to reallocate the NFIs support to the
-    households in needs. Besides, according to the communication among people assisted
-    and the local Red Cross Chapter, VND 10 million provided for the repairs work
-    was considered inadequate.
-  - Three tropical storms named DIANMU, LIONROCK and KOMPASU happened in the last
-    quarter of 2021 which delayed the construction and repair process, particularly
-    in material transportation and monitoring.
+  - Beginning in May 2021, the number of COVID-19 positive cases and deaths began to rise dramatically. The overall consultation and assessment process in the communities was delayed due to strict transportation restrictions across the country and considerations for the safety of staff and volunteers, and it took longer than expected to implement the recovery activities.
+  - VNRC HQ received several calls from the people assisted in the localities regarding the kitchen set support with the message that people preferred cash. The HQ and the Red Cross Chapter have worked closely to reallocate the NFIs support to the households in needs. Besides, according to the communication among people assisted and the local Red Cross Chapter, VND 10 million provided for the repairs work was considered inadequate.
+  - Three tropical storms named DIANMU, LIONROCK and KOMPASU happened in the last quarter of 2021 which delayed the construction and repair process, particularly in material transportation and monitoring.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -196,10 +167,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1013
-    text: 'Viet Nam government regulations formulated in 2020, around management and
-      use of non-refundable aid not '
-    text_base: viet nam government regulations formulated in 2020 around management
-      and use of non refundable aid not
+    text: 'Viet Nam government regulations formulated in 2020, around management and use of non-refundable aid not '
+    text_base: viet nam government regulations formulated in 2020 around management and use of non refundable aid not
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 17
@@ -211,10 +180,8 @@
     bbox: (53.040000915527344, 90.22346496582031, 562.1944580078125, 101.35065460205078)
     double_fontsize_int: 20
   - index: 1014
-    text: 'belonging to official development assistance of foreign agencies, organizations,
-      and individuals for Vietnam; and '
-    text_base: belonging to official development assistance of foreign agencies organizations
-      and individuals for vietnam and
+    text: 'belonging to official development assistance of foreign agencies, organizations, and individuals for Vietnam; and '
+    text_base: belonging to official development assistance of foreign agencies organizations and individuals for vietnam and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 17
@@ -226,10 +193,8 @@
     bbox: (53.03997802734375, 101.74720764160156, 562.1638793945312, 112.87439727783203)
     double_fontsize_int: 20
   - index: 1015
-    text: 'around the organization and management of international conferences and
-      seminars in Vietnam created an obstacle '
-    text_base: around the organization and management of international conferences
-      and seminars in vietnam created an obstacle
+    text: 'around the organization and management of international conferences and seminars in Vietnam created an obstacle '
+    text_base: around the organization and management of international conferences and seminars in vietnam created an obstacle
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 17
@@ -241,10 +206,8 @@
     bbox: (53.03997802734375, 113.27095031738281, 562.1279296875, 124.39813995361328)
     double_fontsize_int: 20
   - index: 1016
-    text: 'for the receipt of the pledge from the American Red Cross for livelihood
-      interventions, thus delaying its '
-    text_base: for the receipt of the pledge from the american red cross for livelihood
-      interventions thus delaying its
+    text: 'for the receipt of the pledge from the American Red Cross for livelihood interventions, thus delaying its '
+    text_base: for the receipt of the pledge from the american red cross for livelihood interventions thus delaying its
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 17
@@ -269,10 +232,8 @@
     bbox: (53.040000915527344, 136.18348693847656, 126.36384582519531, 147.3106689453125)
     double_fontsize_int: 20
   - index: 1018
-    text: 'It took four months to launch livelihood assistance in the provinces since
-      the receipt of the pledge in July 2020. Due '
-    text_base: it took four months to launch livelihood assistance in the provinces
-      since the receipt of the pledge in july 2020 due
+    text: 'It took four months to launch livelihood assistance in the provinces since the receipt of the pledge in July 2020. Due '
+    text_base: it took four months to launch livelihood assistance in the provinces since the receipt of the pledge in july 2020 due
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 17
@@ -284,10 +245,8 @@
     bbox: (53.040000915527344, 159.22718811035156, 562.2053833007812, 170.3543701171875)
     double_fontsize_int: 20
   - index: 1019
-    text: 'to the delay in pledge receipt process, the project was extended until
-      the end of 2021 two months later than the '
-    text_base: to the delay in pledge receipt process the project was extended until
-      the end of 2021 two months later than the
+    text: 'to the delay in pledge receipt process, the project was extended until the end of 2021 two months later than the '
+    text_base: to the delay in pledge receipt process the project was extended until the end of 2021 two months later than the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 17
@@ -312,10 +271,8 @@
     bbox: (53.030029296875, 182.27467346191406, 157.55856323242188, 193.40185546875)
     double_fontsize_int: 20
   - index: 1021
-    text: 'The change in the leadership of the Vietnam Red Cross since Quarter three
-      of 2021 led to delays in financial '
-    text_base: the change in the leadership of the vietnam red cross since quarter
-      three of 2021 led to delays in financial
+    text: 'The change in the leadership of the Vietnam Red Cross since Quarter three of 2021 led to delays in financial '
+    text_base: the change in the leadership of the vietnam red cross since quarter three of 2021 led to delays in financial
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 17
@@ -327,10 +284,8 @@
     bbox: (53.030029296875, 205.2025909423828, 562.1986083984375, 216.32977294921875)
     double_fontsize_int: 20
   - index: 1022
-    text: 'clearance affected the operation of the project directly, especially in
-      terms of delaying the transfer of working '
-    text_base: clearance affected the operation of the project directly especially
-      in terms of delaying the transfer of working
+    text: 'clearance affected the operation of the project directly, especially in terms of delaying the transfer of working '
+    text_base: clearance affected the operation of the project directly especially in terms of delaying the transfer of working
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 17
@@ -355,20 +310,9 @@
     bbox: (53.029998779296875, 228.2500762939453, 215.24188232421875, 239.37725830078125)
     double_fontsize_int: 20
   items:
-  - Viet Nam government regulations formulated in 2020, around management and use
-    of non-refundable aid not belonging to official development assistance of foreign
-    agencies, organizations, and individuals for Vietnam; and around the organization
-    and management of international conferences and seminars in Vietnam created an
-    obstacle for the receipt of the pledge from the American Red Cross for livelihood
-    interventions, thus delaying its implementation.
-  - It took four months to launch livelihood assistance in the provinces since the
-    receipt of the pledge in July 2020. Due to the delay in pledge receipt process,
-    the project was extended until the end of 2021 two months later than the initial
-    completion date.
-  - The change in the leadership of the Vietnam Red Cross since Quarter three of 2021
-    led to delays in financial clearance affected the operation of the project directly,
-    especially in terms of delaying the transfer of working advance from HQ to local
-    chapters.
+  - Viet Nam government regulations formulated in 2020, around management and use of non-refundable aid not belonging to official development assistance of foreign agencies, organizations, and individuals for Vietnam; and around the organization and management of international conferences and seminars in Vietnam created an obstacle for the receipt of the pledge from the American Red Cross for livelihood interventions, thus delaying its implementation.
+  - It took four months to launch livelihood assistance in the provinces since the receipt of the pledge in July 2020. Due to the delay in pledge receipt process, the project was extended until the end of 2021 two months later than the initial completion date.
+  - The change in the leadership of the Vietnam Red Cross since Quarter three of 2021 led to delays in financial clearance affected the operation of the project directly, especially in terms of delaying the transfer of working advance from HQ to local chapters.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -387,10 +331,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1106
-    text: 'Government policies related to the prevention of COVID-19 had a considerable
-      impact on the implementation of '
-    text_base: government policies related to the prevention of covid 19 had a considerable
-      impact on the implementation of
+    text: 'Government policies related to the prevention of COVID-19 had a considerable impact on the implementation of '
+    text_base: government policies related to the prevention of covid 19 had a considerable impact on the implementation of
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -402,10 +344,8 @@
     bbox: (53.040000915527344, 373.4234619140625, 562.1865234375, 384.5506286621094)
     double_fontsize_int: 20
   - index: 1107
-    text: 'health promotion activities, which restricted the number of people participating
-      in each event to avoid the spread of '
-    text_base: health promotion activities which restricted the number of people participating
-      in each event to avoid the spread of
+    text: 'health promotion activities, which restricted the number of people participating in each event to avoid the spread of '
+    text_base: health promotion activities which restricted the number of people participating in each event to avoid the spread of
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -417,10 +357,8 @@
     bbox: (53.040000915527344, 384.9434814453125, 562.1616821289062, 396.0706481933594)
     double_fontsize_int: 20
   - index: 1108
-    text: 'COVID-19 due to the close contact among participants. Besides, the budget
-      used for the communication activities '
-    text_base: covid 19 due to the close contact among participants besides the budget
-      used for the communication activities
+    text: 'COVID-19 due to the close contact among participants. Besides, the budget used for the communication activities '
+    text_base: covid 19 due to the close contact among participants besides the budget used for the communication activities
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -432,10 +370,8 @@
     bbox: (53.029998779296875, 396.4671936035156, 562.2034301757812, 407.5943603515625)
     double_fontsize_int: 20
   - index: 1109
-    text: 'is limited, total number of people reached through the dissemination was
-      far less than the initial target.   Monitoring '
-    text_base: is limited total number of people reached through the dissemination
-      was far less than the initial target monitoring
+    text: 'is limited, total number of people reached through the dissemination was far less than the initial target.   Monitoring '
+    text_base: is limited total number of people reached through the dissemination was far less than the initial target monitoring
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -447,10 +383,8 @@
     bbox: (53.039947509765625, 407.87139892578125, 562.201416015625, 418.9985656738281)
     double_fontsize_int: 20
   - index: 1110
-    text: 'of activities encountered a wide range of difficulties due to limited travel
-      between provinces. However, VNRC '
-    text_base: of activities encountered a wide range of difficulties due to limited
-      travel between provinces however vnrc
+    text: 'of activities encountered a wide range of difficulties due to limited travel between provinces. However, VNRC '
+    text_base: of activities encountered a wide range of difficulties due to limited travel between provinces however vnrc
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -462,10 +396,8 @@
     bbox: (53.040008544921875, 419.38348388671875, 562.2135009765625, 430.52227783203125)
     double_fontsize_int: 20
   - index: 1111
-    text: 'managed to complete health activities before the peak of the COVID wave
-      in 2021.  '
-    text_base: managed to complete health activities before the peak of the covid
-      wave in 2021
+    text: 'managed to complete health activities before the peak of the COVID wave in 2021.  '
+    text_base: managed to complete health activities before the peak of the covid wave in 2021
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -477,10 +409,8 @@
     bbox: (53.040000915527344, 430.9034729003906, 424.9248352050781, 442.0306396484375)
     double_fontsize_int: 20
   - index: 1112
-    text: 'Disaster happened in the surge of covid-19 pandemic created more difficulties
-      for the people who lost their family '
-    text_base: disaster happened in the surge of covid 19 pandemic created more difficulties
-      for the people who lost their family
+    text: 'Disaster happened in the surge of covid-19 pandemic created more difficulties for the people who lost their family '
+    text_base: disaster happened in the surge of covid 19 pandemic created more difficulties for the people who lost their family
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -492,10 +422,8 @@
     bbox: (53.040000915527344, 453.9471740722656, 562.1380615234375, 465.0743408203125)
     double_fontsize_int: 20
   - index: 1113
-    text: 'members and livelihoods. Stresses put on their shoulder have made many
-      mental health related problems arose, '
-    text_base: members and livelihoods stresses put on their shoulder have made many
-      mental health related problems arose
+    text: 'members and livelihoods. Stresses put on their shoulder have made many mental health related problems arose, '
+    text_base: members and livelihoods stresses put on their shoulder have made many mental health related problems arose
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -520,18 +448,8 @@
     bbox: (53.03999328613281, 476.8750915527344, 299.28936767578125, 488.00225830078125)
     double_fontsize_int: 20
   items:
-  - Government policies related to the prevention of COVID-19 had a considerable impact
-    on the implementation of health promotion activities, which restricted the number
-    of people participating in each event to avoid the spread of COVID-19 due to the
-    close contact among participants. Besides, the budget used for the communication
-    activities is limited, total number of people reached through the dissemination
-    was far less than the initial target.   Monitoring of activities encountered a
-    wide range of difficulties due to limited travel between provinces. However, VNRC
-    managed to complete health activities before the peak of the COVID wave in 2021.
-  - Disaster happened in the surge of covid-19 pandemic created more difficulties
-    for the people who lost their family members and livelihoods. Stresses put on
-    their shoulder have made many mental health related problems arose, while the
-    psychological support was not yet prioritized.
+  - Government policies related to the prevention of COVID-19 had a considerable impact on the implementation of health promotion activities, which restricted the number of people participating in each event to avoid the spread of COVID-19 due to the close contact among participants. Besides, the budget used for the communication activities is limited, total number of people reached through the dissemination was far less than the initial target. Monitoring of activities encountered a wide range of difficulties due to limited travel between provinces. However, VNRC managed to complete health activities before the peak of the COVID wave in 2021.
+  - Disaster happened in the surge of covid-19 pandemic created more difficulties for the people who lost their family members and livelihoods. Stresses put on their shoulder have made many mental health related problems arose, while the psychological support was not yet prioritized.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -550,10 +468,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1191
-    text: 'Due to restrictions imposed to contain the spread of COVID-19, and the
-      changes in the staff of the procurement '
-    text_base: due to restrictions imposed to contain the spread of covid 19 and the
-      changes in the staff of the procurement
+    text: 'Due to restrictions imposed to contain the spread of COVID-19, and the changes in the staff of the procurement '
+    text_base: due to restrictions imposed to contain the spread of covid 19 and the changes in the staff of the procurement
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 21
@@ -565,10 +481,8 @@
     bbox: (53.040000915527344, 738.1034545898438, 562.1723022460938, 749.2306518554688)
     double_fontsize_int: 20
   - index: 1192
-    text: 'team at VNRC, the distribution of water tanks encountered a wide range
-      of difficulties, especially during the approval '
-    text_base: team at vnrc the distribution of water tanks encountered a wide range
-      of difficulties especially during the approval
+    text: 'team at VNRC, the distribution of water tanks encountered a wide range of difficulties, especially during the approval '
+    text_base: team at vnrc the distribution of water tanks encountered a wide range of difficulties especially during the approval
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 21
@@ -580,10 +494,8 @@
     bbox: (53.040000915527344, 749.6234741210938, 562.136962890625, 760.7506713867188)
     double_fontsize_int: 20
   - index: 1193
-    text: 'and bidding process, which delayed the finalization of the procurement.
-      However, by the end of October 2021, all '
-    text_base: and bidding process which delayed the finalization of the procurement
-      however by the end of october 2021 all
+    text: 'and bidding process, which delayed the finalization of the procurement. However, by the end of October 2021, all '
+    text_base: and bidding process which delayed the finalization of the procurement however by the end of october 2021 all
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 21
@@ -608,10 +520,8 @@
     bbox: (53.040000915527344, 772.54345703125, 355.44720458984375, 783.670654296875)
     double_fontsize_int: 20
   - index: 1205
-    text: 'COVID-19 prevention measures affected the implementation of activities,
-      which restricted the number of people '
-    text_base: covid 19 prevention measures affected the implementation of activities
-      which restricted the number of people
+    text: 'COVID-19 prevention measures affected the implementation of activities, which restricted the number of people '
+    text_base: covid 19 prevention measures affected the implementation of activities which restricted the number of people
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -623,10 +533,8 @@
     bbox: (53.040000915527344, 74.50343322753906, 562.1409301757812, 85.63062286376953)
     double_fontsize_int: 20
   - index: 1206
-    text: 'participating in each event. As a result, the total number of people reached
-      through the dissemination was less than '
-    text_base: participating in each event as a result the total number of people
-      reached through the dissemination was less than
+    text: 'participating in each event. As a result, the total number of people reached through the dissemination was less than '
+    text_base: participating in each event as a result the total number of people reached through the dissemination was less than
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -638,10 +546,8 @@
     bbox: (53.040000915527344, 86.02717590332031, 562.1190795898438, 97.15436553955078)
     double_fontsize_int: 20
   - index: 1207
-    text: 'the initial target. Health and hygiene promotion activities were integrated
-      in the same communication/dissemination '
-    text_base: the initial target health and hygiene promotion activities were integrated
-      in the same communication dissemination
+    text: 'the initial target. Health and hygiene promotion activities were integrated in the same communication/dissemination '
+    text_base: the initial target health and hygiene promotion activities were integrated in the same communication dissemination
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -666,10 +572,8 @@
     bbox: (53.040008544921875, 109.07466125488281, 82.92032623291016, 120.20185089111328)
     double_fontsize_int: 20
   - index: 1209
-    text: 'Government policies related to the prevention of COVID-19 had a considerable
-      impact on the implementation of '
-    text_base: government policies related to the prevention of covid 19 had a considerable
-      impact on the implementation of
+    text: 'Government policies related to the prevention of COVID-19 had a considerable impact on the implementation of '
+    text_base: government policies related to the prevention of covid 19 had a considerable impact on the implementation of
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -681,10 +585,8 @@
     bbox: (53.040000915527344, 120.46345520019531, 562.1519165039062, 131.59063720703125)
     double_fontsize_int: 20
   - index: 1210
-    text: 'health promotion activities, which restricted the number of people participating
-      in each event to avoid the spread of '
-    text_base: health promotion activities which restricted the number of people participating
-      in each event to avoid the spread of
+    text: 'health promotion activities, which restricted the number of people participating in each event to avoid the spread of '
+    text_base: health promotion activities which restricted the number of people participating in each event to avoid the spread of
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -696,10 +598,8 @@
     bbox: (53.03997802734375, 131.98719787597656, 562.1080322265625, 143.1143798828125)
     double_fontsize_int: 20
   - index: 1211
-    text: 'COVID-19 due to the close contact among participants. Besides, the budget
-      used for the communication activities '
-    text_base: covid 19 due to the close contact among participants besides the budget
-      used for the communication activities
+    text: 'COVID-19 due to the close contact among participants. Besides, the budget used for the communication activities '
+    text_base: covid 19 due to the close contact among participants besides the budget used for the communication activities
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -711,10 +611,8 @@
     bbox: (53.03997802734375, 143.5109405517578, 562.1060180664062, 154.63812255859375)
     double_fontsize_int: 20
   - index: 1212
-    text: 'is limited, total number of people reached through the dissemination was
-      far less than the initial target.  '
-    text_base: is limited total number of people reached through the dissemination
-      was far less than the initial target
+    text: 'is limited, total number of people reached through the dissemination was far less than the initial target.  '
+    text_base: is limited total number of people reached through the dissemination was far less than the initial target
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -726,23 +624,9 @@
     bbox: (53.040000915527344, 155.02345275878906, 509.88720703125, 166.150634765625)
     double_fontsize_int: 20
   items:
-  - Due to restrictions imposed to contain the spread of COVID-19, and the changes
-    in the staff of the procurement team at VNRC, the distribution of water tanks
-    encountered a wide range of difficulties, especially during the approval and bidding
-    process, which delayed the finalization of the procurement. However, by the end
-    of October 2021, all the people to be assisted had received their designated water
-    tank.
-  - COVID-19 prevention measures affected the implementation of activities, which
-    restricted the number of people participating in each event. As a result, the
-    total number of people reached through the dissemination was less than the initial
-    target. Health and hygiene promotion activities were integrated in the same communication/dissemination
-    event.
-  - Government policies related to the prevention of COVID-19 had a considerable impact
-    on the implementation of health promotion activities, which restricted the number
-    of people participating in each event to avoid the spread of COVID-19 due to the
-    close contact among participants. Besides, the budget used for the communication
-    activities is limited, total number of people reached through the dissemination
-    was far less than the initial target.
+  - Due to restrictions imposed to contain the spread of COVID-19, and the changes in the staff of the procurement team at VNRC, the distribution of water tanks encountered a wide range of difficulties, especially during the approval and bidding process, which delayed the finalization of the procurement. However, by the end of October 2021, all the people to be assisted had received their designated water tank.
+  - COVID-19 prevention measures affected the implementation of activities, which restricted the number of people participating in each event. As a result, the total number of people reached through the dissemination was less than the initial target. Health and hygiene promotion activities were integrated in the same communication/dissemination event.
+  - Government policies related to the prevention of COVID-19 had a considerable impact on the implementation of health promotion activities, which restricted the number of people participating in each event to avoid the spread of COVID-19 due to the close contact among participants. Besides, the budget used for the communication activities is limited, total number of people reached through the dissemination was far less than the initial target.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -761,10 +645,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1260
-    text: 'PGI training could not be undertaken face-to-face due to the restrictions
-      on social gatherings. Instead, the trainings '
-    text_base: pgi training could not be undertaken face to face due to the restrictions
-      on social gatherings instead the trainings
+    text: 'PGI training could not be undertaken face-to-face due to the restrictions on social gatherings. Instead, the trainings '
+    text_base: pgi training could not be undertaken face to face due to the restrictions on social gatherings instead the trainings
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 23
@@ -776,10 +658,8 @@
     bbox: (55.79999923706055, 508.1834411621094, 562.2008056640625, 519.3106079101562)
     double_fontsize_int: 20
   - index: 1261
-    text: 'were held in individual provinces limiting the scope of learning through
-      sharing of experiences from people from '
-    text_base: were held in individual provinces limiting the scope of learning through
-      sharing of experiences from people from
+    text: 'were held in individual provinces limiting the scope of learning through sharing of experiences from people from '
+    text_base: were held in individual provinces limiting the scope of learning through sharing of experiences from people from
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 23
@@ -804,10 +684,8 @@
     bbox: (53.040000915527344, 531.2271118164062, 129.73033142089844, 542.3543090820312)
     double_fontsize_int: 20
   - index: 1263
-    text: 'Online trainings have encountered a wide range of difficulties such as
-      language barriers and unstable internet '
-    text_base: online trainings have encountered a wide range of difficulties such
-      as language barriers and unstable internet
+    text: 'Online trainings have encountered a wide range of difficulties such as language barriers and unstable internet '
+    text_base: online trainings have encountered a wide range of difficulties such as language barriers and unstable internet
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 23
@@ -819,10 +697,8 @@
     bbox: (53.040000915527344, 554.263427734375, 562.198486328125, 565.390625)
     double_fontsize_int: 20
   - index: 1264
-    text: 'connections leading to poor understanding of concepts Hence participants
-      have requested more such trainings in '
-    text_base: connections leading to poor understanding of concepts hence participants
-      have requested more such trainings in
+    text: 'connections leading to poor understanding of concepts Hence participants have requested more such trainings in '
+    text_base: connections leading to poor understanding of concepts hence participants have requested more such trainings in
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 23
@@ -847,12 +723,8 @@
     bbox: (53.040000915527344, 577.1834106445312, 98.04720306396484, 588.3106079101562)
     double_fontsize_int: 20
   items:
-  - PGI training could not be undertaken face-to-face due to the restrictions on social
-    gatherings. Instead, the trainings were held in individual provinces limiting
-    the scope of learning through sharing of experiences from people from other provinces.
-  - Online trainings have encountered a wide range of difficulties such as language
-    barriers and unstable internet connections leading to poor understanding of concepts
-    Hence participants have requested more such trainings in future.
+  - PGI training could not be undertaken face-to-face due to the restrictions on social gatherings. Instead, the trainings were held in individual provinces limiting the scope of learning through sharing of experiences from people from other provinces.
+  - Online trainings have encountered a wide range of difficulties such as language barriers and unstable internet connections leading to poor understanding of concepts Hence participants have requested more such trainings in future.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -871,10 +743,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1411
-    text: 'The restrictions and disease prevention methods related to the COVID-19
-      pandemic in 2021 limited the '
-    text_base: the restrictions and disease prevention methods related to the covid
-      19 pandemic in 2021 limited the
+    text: 'The restrictions and disease prevention methods related to the COVID-19 pandemic in 2021 limited the '
+    text_base: the restrictions and disease prevention methods related to the covid 19 pandemic in 2021 limited the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 27
@@ -886,10 +756,8 @@
     bbox: (53.040000915527344, 272.0234680175781, 557.7430419921875, 283.150634765625)
     double_fontsize_int: 20
   - index: 1412
-    text: 'transportation among the provinces, thus, creating obstacles for project
-      management teams from VNRC officers '
-    text_base: transportation among the provinces thus creating obstacles for project
-      management teams from vnrc officers
+    text: 'transportation among the provinces, thus, creating obstacles for project management teams from VNRC officers '
+    text_base: transportation among the provinces thus creating obstacles for project management teams from vnrc officers
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 27
@@ -901,10 +769,8 @@
     bbox: (53.040000915527344, 283.5434875488281, 557.7713012695312, 294.670654296875)
     double_fontsize_int: 20
   - index: 1413
-    text: 'and IFRC team in Vietnam from participating in the activities. However,
-      with close communication and utilization of '
-    text_base: and ifrc team in vietnam from participating in the activities however
-      with close communication and utilization of
+    text: 'and IFRC team in Vietnam from participating in the activities. However, with close communication and utilization of '
+    text_base: and ifrc team in vietnam from participating in the activities however with close communication and utilization of
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 27
@@ -917,8 +783,7 @@
     double_fontsize_int: 20
   - index: 1414
     text: technology, most events undertaken in the communities were supervised online.
-    text_base: technology most events undertaken in the communities were supervised
-      online
+    text_base: technology most events undertaken in the communities were supervised online
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 27
@@ -930,10 +795,8 @@
     bbox: (53.049957275390625, 306.4714050292969, 407.5985107421875, 317.59857177734375)
     double_fontsize_int: 20
   - index: 1415
-    text: 'Lack of continuous progress update and sudden changes in the implementation
-      plan in the context of strict '
-    text_base: lack of continuous progress update and sudden changes in the implementation
-      plan in the context of strict
+    text: 'Lack of continuous progress update and sudden changes in the implementation plan in the context of strict '
+    text_base: lack of continuous progress update and sudden changes in the implementation plan in the context of strict
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 27
@@ -945,10 +808,8 @@
     bbox: (53.040000915527344, 329.5072021484375, 557.6961669921875, 340.6343688964844)
     double_fontsize_int: 20
   - index: 1416
-    text: 'restriction related to transportation and gathering brought difficulties
-      for the activity monitoring especially for the '
-    text_base: restriction related to transportation and gathering brought difficulties
-      for the activity monitoring especially for the
+    text: 'restriction related to transportation and gathering brought difficulties for the activity monitoring especially for the '
+    text_base: restriction related to transportation and gathering brought difficulties for the activity monitoring especially for the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 27
@@ -973,15 +834,8 @@
     bbox: (53.020111083984375, 352.55462646484375, 224.74778747558594, 363.6817932128906)
     double_fontsize_int: 20
   items:
-  - The restrictions and disease prevention methods related to the COVID-19 pandemic
-    in 2021 limited the transportation among the provinces, thus, creating obstacles
-    for project management teams from VNRC officers and IFRC team in Vietnam from
-    participating in the activities. However, with close communication and utilization
-    of technology, most events undertaken in the communities were supervised online.
-  - Lack of continuous progress update and sudden changes in the implementation plan
-    in the context of strict restriction related to transportation and gathering brought
-    difficulties for the activity monitoring especially for the participation of IFRC
-    team in Vietnam.
+  - The restrictions and disease prevention methods related to the COVID-19 pandemic in 2021 limited the transportation among the provinces, thus, creating obstacles for project management teams from VNRC officers and IFRC team in Vietnam from participating in the activities. However, with close communication and utilization of technology, most events undertaken in the communities were supervised online.
+  - Lack of continuous progress update and sudden changes in the implementation plan in the context of strict restriction related to transportation and gathering brought difficulties for the activity monitoring especially for the participation of IFRC team in Vietnam.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -1000,10 +854,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1447
-    text: 'Due to the COVID 19 epidemic, which limited movement between provinces,
-      the IFRC had to hire three '
-    text_base: due to the covid 19 epidemic which limited movement between provinces
-      the ifrc had to hire three
+    text: 'Due to the COVID 19 epidemic, which limited movement between provinces, the IFRC had to hire three '
+    text_base: due to the covid 19 epidemic which limited movement between provinces the ifrc had to hire three
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 28
@@ -1015,10 +867,8 @@
     bbox: (53.040000915527344, 219.3434600830078, 557.680908203125, 230.47064208984375)
     double_fontsize_int: 20
   - index: 1448
-    text: 'photographers in three of the four project provinces and a field producer
-      to capture the achievements of the '
-    text_base: photographers in three of the four project provinces and a field producer
-      to capture the achievements of the
+    text: 'photographers in three of the four project provinces and a field producer to capture the achievements of the '
+    text_base: photographers in three of the four project provinces and a field producer to capture the achievements of the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 28
@@ -1030,10 +880,8 @@
     bbox: (53.040000915527344, 230.8634796142578, 557.7009887695312, 241.99066162109375)
     double_fontsize_int: 20
   - index: 1449
-    text: 'operation. The photography assignment had to be monitored remotely by IFRC
-      staff in Viet Nam as well as from '
-    text_base: operation the photography assignment had to be monitored remotely by
-      ifrc staff in viet nam as well as from
+    text: 'operation. The photography assignment had to be monitored remotely by IFRC staff in Viet Nam as well as from '
+    text_base: operation the photography assignment had to be monitored remotely by ifrc staff in viet nam as well as from
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 28
@@ -1045,10 +893,8 @@
     bbox: (53.040000915527344, 242.2676544189453, 557.6598510742188, 253.39483642578125)
     double_fontsize_int: 20
   - index: 1450
-    text: 'Bangkok CCD due to the prevailing travel restrictions thus limiting the
-      guidance to the three field photographers in '
-    text_base: bangkok ccd due to the prevailing travel restrictions thus limiting
-      the guidance to the three field photographers in
+    text: 'Bangkok CCD due to the prevailing travel restrictions thus limiting the guidance to the three field photographers in '
+    text_base: bangkok ccd due to the prevailing travel restrictions thus limiting the guidance to the three field photographers in
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 28
@@ -1060,10 +906,8 @@
     bbox: (53.040000915527344, 253.79139709472656, 557.659912109375, 264.9185791015625)
     double_fontsize_int: 20
   - index: 1451
-    text: 'the provinces. This was mitigated to some extent by hiring a photographer
-      who had previously covered the disaster '
-    text_base: the provinces this was mitigated to some extent by hiring a photographer
-      who had previously covered the disaster
+    text: 'the provinces. This was mitigated to some extent by hiring a photographer who had previously covered the disaster '
+    text_base: the provinces this was mitigated to some extent by hiring a photographer who had previously covered the disaster
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 28
@@ -1075,10 +919,8 @@
     bbox: (53.040000915527344, 265.3151550292969, 557.7308349609375, 276.44232177734375)
     double_fontsize_int: 20
   - index: 1452
-    text: 'during 2020 and was familiar with the local context and Red Cross operations,
-      to operate as a field producer and '
-    text_base: during 2020 and was familiar with the local context and red cross operations
-      to operate as a field producer and
+    text: 'during 2020 and was familiar with the local context and Red Cross operations, to operate as a field producer and '
+    text_base: during 2020 and was familiar with the local context and red cross operations to operate as a field producer and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 28
@@ -1103,10 +945,8 @@
     bbox: (53.040008544921875, 288.3626403808594, 190.89466857910156, 299.48980712890625)
     double_fontsize_int: 20
   - index: 1454
-    text: 'Lack of disaggregated data has created a wide range of difficulties for
-      the information exchange between VNRC '
-    text_base: lack of disaggregated data has created a wide range of difficulties
-      for the information exchange between vnrc
+    text: 'Lack of disaggregated data has created a wide range of difficulties for the information exchange between VNRC '
+    text_base: lack of disaggregated data has created a wide range of difficulties for the information exchange between vnrc
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 28
@@ -1118,10 +958,8 @@
     bbox: (53.040000915527344, 311.2672424316406, 557.741455078125, 322.3944091796875)
     double_fontsize_int: 20
   - index: 1455
-    text: 'and IFRC. In addition to that, photo of the activities undertaken in the
-      provinces, which were captured using '
-    text_base: and ifrc in addition to that photo of the activities undertaken in
-      the provinces which were captured using
+    text: 'and IFRC. In addition to that, photo of the activities undertaken in the provinces, which were captured using '
+    text_base: and ifrc in addition to that photo of the activities undertaken in the provinces which were captured using
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 28
@@ -1133,10 +971,8 @@
     bbox: (53.040008544921875, 322.79095458984375, 557.720703125, 333.9181213378906)
     double_fontsize_int: 20
   - index: 1456
-    text: 'personal phone of the provincial Chapters, did not meet the requirements
-      of the reporting standard.  '
-    text_base: personal phone of the provincial chapters did not meet the requirements
-      of the reporting standard
+    text: 'personal phone of the provincial Chapters, did not meet the requirements of the reporting standard.  '
+    text_base: personal phone of the provincial chapters did not meet the requirements of the reporting standard
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 28
@@ -1148,19 +984,8 @@
     bbox: (53.040008544921875, 334.3146667480469, 496.81610107421875, 345.44183349609375)
     double_fontsize_int: 20
   items:
-  - Due to the COVID 19 epidemic, which limited movement between provinces, the IFRC
-    had to hire three photographers in three of the four project provinces and a field
-    producer to capture the achievements of the operation. The photography assignment
-    had to be monitored remotely by IFRC staff in Viet Nam as well as from Bangkok
-    CCD due to the prevailing travel restrictions thus limiting the guidance to the
-    three field photographers in the provinces. This was mitigated to some extent
-    by hiring a photographer who had previously covered the disaster during 2020 and
-    was familiar with the local context and Red Cross operations, to operate as a
-    field producer and guide the field photographers.
-  - Lack of disaggregated data has created a wide range of difficulties for the information
-    exchange between VNRC and IFRC. In addition to that, photo of the activities undertaken
-    in the provinces, which were captured using personal phone of the provincial Chapters,
-    did not meet the requirements of the reporting standard.
+  - Due to the COVID 19 epidemic, which limited movement between provinces, the IFRC had to hire three photographers in three of the four project provinces and a field producer to capture the achievements of the operation. The photography assignment had to be monitored remotely by IFRC staff in Viet Nam as well as from Bangkok CCD due to the prevailing travel restrictions thus limiting the guidance to the three field photographers in the provinces. This was mitigated to some extent by hiring a photographer who had previously covered the disaster during 2020 and was familiar with the local context and Red Cross operations, to operate as a field producer and guide the field photographers.
+  - Lack of disaggregated data has created a wide range of difficulties for the information exchange between VNRC and IFRC. In addition to that, photo of the activities undertaken in the provinces, which were captured using personal phone of the provincial Chapters, did not meet the requirements of the reporting standard.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -1179,10 +1004,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1519
-    text: 'VNRC''s lack of a database management system made it difficult to track
-      and respond to beneficiary enquiries and '
-    text_base: vnrc s lack of a database management system made it difficult to track
-      and respond to beneficiary enquiries and
+    text: 'VNRC''s lack of a database management system made it difficult to track and respond to beneficiary enquiries and '
+    text_base: vnrc s lack of a database management system made it difficult to track and respond to beneficiary enquiries and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 29
@@ -1194,10 +1017,8 @@
     bbox: (53.040000915527344, 228.4634552001953, 557.682861328125, 239.59063720703125)
     double_fontsize_int: 20
   - index: 1520
-    text: 'feedback. Though the solutions were deemed efficient based on data derived
-      from the PDM system, effective '
-    text_base: feedback though the solutions were deemed efficient based on data derived
-      from the pdm system effective
+    text: 'feedback. Though the solutions were deemed efficient based on data derived from the PDM system, effective '
+    text_base: feedback though the solutions were deemed efficient based on data derived from the pdm system effective
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 29
@@ -1222,10 +1043,7 @@
     bbox: (53.040000915527344, 251.39137268066406, 332.6454162597656, 262.5185546875)
     double_fontsize_int: 20
   items:
-  - VNRC's lack of a database management system made it difficult to track and respond
-    to beneficiary enquiries and feedback. Though the solutions were deemed efficient
-    based on data derived from the PDM system, effective handling of the task necessitated
-    a significant amount of effort.
+  - VNRC's lack of a database management system made it difficult to track and respond to beneficiary enquiries and feedback. Though the solutions were deemed efficient based on data derived from the PDM system, effective handling of the task necessitated a significant amount of effort.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -1244,10 +1062,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1549
-    text: 'Staff were trained in using KOBO, however, due to lack of practice, there
-      were some errors that took time for '
-    text_base: staff were trained in using kobo however due to lack of practice there
-      were some errors that took time for
+    text: 'Staff were trained in using KOBO, however, due to lack of practice, there were some errors that took time for '
+    text_base: staff were trained in using kobo however due to lack of practice there were some errors that took time for
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 29
@@ -1259,10 +1075,8 @@
     bbox: (53.040000915527344, 638.6234741210938, 557.762939453125, 649.7506713867188)
     double_fontsize_int: 20
   - index: 1550
-    text: 'clarification. VNRC staff at the HQ level and IFRC staff in Vietnam have
-      closely checked and cleaned the data '
-    text_base: clarification vnrc staff at the hq level and ifrc staff in vietnam
-      have closely checked and cleaned the data
+    text: 'clarification. VNRC staff at the HQ level and IFRC staff in Vietnam have closely checked and cleaned the data '
+    text_base: clarification vnrc staff at the hq level and ifrc staff in vietnam have closely checked and cleaned the data
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 29
@@ -1287,10 +1101,7 @@
     bbox: (53.040000915527344, 661.6634521484375, 208.08721923828125, 672.7906494140625)
     double_fontsize_int: 20
   items:
-  - Staff were trained in using KOBO, however, due to lack of practice, there were
-    some errors that took time for clarification. VNRC staff at the HQ level and IFRC
-    staff in Vietnam have closely checked and cleaned the data before its analysis
-    and finalization.
+  - Staff were trained in using KOBO, however, due to lack of practice, there were some errors that took time for clarification. VNRC staff at the HQ level and IFRC staff in Vietnam have closely checked and cleaned the data before its analysis and finalization.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -1309,10 +1120,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1583
-    text: 'Because of the covid-19 outbreak and the country''s stringent lockdown,
-      IFRC staff were unable to travel to the field '
-    text_base: because of the covid 19 outbreak and the country s stringent lockdown
-      ifrc staff were unable to travel to the field
+    text: 'Because of the covid-19 outbreak and the country''s stringent lockdown, IFRC staff were unable to travel to the field '
+    text_base: because of the covid 19 outbreak and the country s stringent lockdown ifrc staff were unable to travel to the field
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 30
@@ -1324,10 +1133,8 @@
     bbox: (53.040000915527344, 299.2634582519531, 557.7373657226562, 310.390625)
     double_fontsize_int: 20
   - index: 1584
-    text: 'on a regular basis. IFRC project team, on the other hand, offered technical
-      support as needed, both remotely and '
-    text_base: on a regular basis ifrc project team on the other hand offered technical
-      support as needed both remotely and
+    text: 'on a regular basis. IFRC project team, on the other hand, offered technical support as needed, both remotely and '
+    text_base: on a regular basis ifrc project team on the other hand offered technical support as needed both remotely and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 30
@@ -1352,7 +1159,4 @@
     bbox: (53.040000915527344, 322.303466796875, 174.24720764160156, 333.4306335449219)
     double_fontsize_int: 20
   items:
-  - Because of the covid-19 outbreak and the country's stringent lockdown, IFRC staff
-    were unable to travel to the field on a regular basis. IFRC project team, on the
-    other hand, offered technical support as needed, both remotely and physically
-    where available.
+  - Because of the covid-19 outbreak and the country's stringent lockdown, IFRC staff were unable to travel to the field on a regular basis. IFRC project team, on the other hand, offered technical support as needed, both remotely and physically where available.

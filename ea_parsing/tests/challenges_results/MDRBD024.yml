@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 505
-    text: 'After completion of the emergency activities, BDRCS started implementing
-      the recovery operation. However, since '
-    text_base: after completion of the emergency activities bdrcs started implementing
-      the recovery operation however since
+    text: 'After completion of the emergency activities, BDRCS started implementing the recovery operation. However, since '
+    text_base: after completion of the emergency activities bdrcs started implementing the recovery operation however since
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 9
@@ -31,10 +29,8 @@
     bbox: (41.63999938964844, 112.55300903320312, 555.7452392578125, 126.23805236816406)
     double_fontsize_int: 20
   - index: 506
-    text: 'the beginning of March 2021, the number of COVID-19 positive cases and
-      death started increasing again sharply. '
-    text_base: the beginning of march 2021 the number of covid 19 positive cases and
-      death started increasing again sharply
+    text: 'the beginning of March 2021, the number of COVID-19 positive cases and death started increasing again sharply. '
+    text_base: the beginning of march 2021 the number of covid 19 positive cases and death started increasing again sharply
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -46,10 +42,8 @@
     bbox: (41.63999938964844, 124.07296752929688, 556.1303100585938, 137.7580108642578)
     double_fontsize_int: 20
   - index: 507
-    text: 'Due to the strict movement restriction across the country and considering
-      the safety of staff and volunteers, the overall '
-    text_base: due to the strict movement restriction across the country and considering
-      the safety of staff and volunteers the overall
+    text: 'Due to the strict movement restriction across the country and considering the safety of staff and volunteers, the overall '
+    text_base: due to the strict movement restriction across the country and considering the safety of staff and volunteers the overall
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -61,10 +55,8 @@
     bbox: (41.63999938964844, 135.59298706054688, 556.205078125, 149.2780303955078)
     double_fontsize_int: 20
   - index: 508
-    text: 'consultation and assessment process in the communities were delayed and
-      it took longer time than expected to '
-    text_base: consultation and assessment process in the communities were delayed
-      and it took longer time than expected to
+    text: 'consultation and assessment process in the communities were delayed and it took longer time than expected to '
+    text_base: consultation and assessment process in the communities were delayed and it took longer time than expected to
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -77,8 +69,7 @@
     double_fontsize_int: 20
   - index: 509
     text: identify the targeted communities and targeted households for recovery assistance.
-    text_base: identify the targeted communities and targeted households for recovery
-      assistance
+    text_base: identify the targeted communities and targeted households for recovery assistance
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -90,10 +81,8 @@
     bbox: (41.63999938964844, 158.63296508789062, 409.23382568359375, 172.31800842285156)
     double_fontsize_int: 20
   - index: 510
-    text: 'Based on the operational plan and request from BDRCS, IFRC CD initiated
-      the procurement process and issued the '
-    text_base: based on the operational plan and request from bdrcs ifrc cd initiated
-      the procurement process and issued the
+    text: 'Based on the operational plan and request from BDRCS, IFRC CD initiated the procurement process and issued the '
+    text_base: based on the operational plan and request from bdrcs ifrc cd initiated the procurement process and issued the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -105,10 +94,8 @@
     bbox: (41.63999938964844, 181.55300903320312, 556.095947265625, 195.23805236816406)
     double_fontsize_int: 20
   - index: 511
-    text: 'work order to deliver roofing materials. However, there was a shortage
-      of imported raw materials due to restrictions '
-    text_base: work order to deliver roofing materials however there was a shortage
-      of imported raw materials due to restrictions
+    text: 'work order to deliver roofing materials. However, there was a shortage of imported raw materials due to restrictions '
+    text_base: work order to deliver roofing materials however there was a shortage of imported raw materials due to restrictions
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -120,10 +107,8 @@
     bbox: (41.63999938964844, 193.07296752929688, 556.234375, 206.7580108642578)
     double_fontsize_int: 20
   - index: 512
-    text: 'during the COVID-19 pandemic and the supplier was unable to supply on time.
-      As a result, in consultation with '
-    text_base: during the covid 19 pandemic and the supplier was unable to supply
-      on time as a result in consultation with
+    text: 'during the COVID-19 pandemic and the supplier was unable to supply on time. As a result, in consultation with '
+    text_base: during the covid 19 pandemic and the supplier was unable to supply on time as a result in consultation with
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -135,10 +120,8 @@
     bbox: (41.63999938964844, 204.59298706054688, 556.179443359375, 218.2780303955078)
     double_fontsize_int: 20
   - index: 513
-    text: 'communities and assessing local markets, BDRCS provided additional cash
-      assistance to buy roofing materials for '
-    text_base: communities and assessing local markets bdrcs provided additional cash
-      assistance to buy roofing materials for
+    text: 'communities and assessing local markets, BDRCS provided additional cash assistance to buy roofing materials for '
+    text_base: communities and assessing local markets bdrcs provided additional cash assistance to buy roofing materials for
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -163,10 +146,8 @@
     bbox: (41.63999938964844, 227.63296508789062, 82.23287963867188, 241.31800842285156)
     double_fontsize_int: 20
   - index: 515
-    text: 'On the other hand, opening individual bank accounts was slower than expected
-      as the bank authority allowed only '
-    text_base: on the other hand opening individual bank accounts was slower than
-      expected as the bank authority allowed only
+    text: 'On the other hand, opening individual bank accounts was slower than expected as the bank authority allowed only '
+    text_base: on the other hand opening individual bank accounts was slower than expected as the bank authority allowed only
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -178,10 +159,8 @@
     bbox: (41.63999938964844, 250.55300903320312, 556.2847290039062, 264.238037109375)
     double_fontsize_int: 20
   - index: 516
-    text: 'limited beneficiaries at the bank due to the COVID-19 safety measures.
-      BDRCS continued promoting and ensuring '
-    text_base: limited beneficiaries at the bank due to the covid 19 safety measures
-      bdrcs continued promoting and ensuring
+    text: 'limited beneficiaries at the bank due to the COVID-19 safety measures. BDRCS continued promoting and ensuring '
+    text_base: limited beneficiaries at the bank due to the covid 19 safety measures bdrcs continued promoting and ensuring
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -193,10 +172,8 @@
     bbox: (41.63999938964844, 262.0729675292969, 556.1643676757812, 275.75799560546875)
     double_fontsize_int: 20
   - index: 517
-    text: 'the COVID-19 safety measures throughout the implementation of shelter recovery,
-      including training, focus group '
-    text_base: the covid 19 safety measures throughout the implementation of shelter
-      recovery including training focus group
+    text: 'the COVID-19 safety measures throughout the implementation of shelter recovery, including training, focus group '
+    text_base: the covid 19 safety measures throughout the implementation of shelter recovery including training focus group
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -221,10 +198,8 @@
     bbox: (41.63999938964844, 285.1429748535156, 175.10887145996094, 298.8280029296875)
     double_fontsize_int: 20
   - index: 519
-    text: 'However, BDRCS and IFRC operational team provided inclusive monitoring
-      and technical support virtually and '
-    text_base: however bdrcs and ifrc operational team provided inclusive monitoring
-      and technical support virtually and
+    text: 'However, BDRCS and IFRC operational team provided inclusive monitoring and technical support virtually and '
+    text_base: however bdrcs and ifrc operational team provided inclusive monitoring and technical support virtually and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -236,10 +211,8 @@
     bbox: (41.63999938964844, 308.0629577636719, 555.7752075195312, 321.74798583984375)
     double_fontsize_int: 20
   - index: 520
-    text: 'physically as required and possible. BDRCS field team paid an extra effort
-      to complete the scheduled task through '
-    text_base: physically as required and possible bdrcs field team paid an extra
-      effort to complete the scheduled task through
+    text: 'physically as required and possible. BDRCS field team paid an extra effort to complete the scheduled task through '
+    text_base: physically as required and possible bdrcs field team paid an extra effort to complete the scheduled task through
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -251,10 +224,8 @@
     bbox: (41.63999938964844, 319.5829772949219, 556.2822265625, 333.26800537109375)
     double_fontsize_int: 20
   - index: 521
-    text: 'engaging the community development committee, community organizers and
-      local Red Crescent branch.  '
-    text_base: engaging the community development committee community organizers and
-      local red crescent branch
+    text: 'engaging the community development committee, community organizers and local Red Crescent branch.  '
+    text_base: engaging the community development committee community organizers and local red crescent branch
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -266,28 +237,10 @@
     bbox: (41.63999938964844, 331.1029968261719, 511.54888916015625, 344.78802490234375)
     double_fontsize_int: 20
   items:
-  - After completion of the emergency activities, BDRCS started implementing the recovery
-    operation. However, since the beginning of March 2021, the number of COVID-19
-    positive cases and death started increasing again sharply. Due to the strict movement
-    restriction across the country and considering the safety of staff and volunteers,
-    the overall consultation and assessment process in the communities were delayed
-    and it took longer time than expected to identify the targeted communities and
-    targeted households for recovery assistance.
-  - Based on the operational plan and request from BDRCS, IFRC CD initiated the procurement
-    process and issued the work order to deliver roofing materials. However, there
-    was a shortage of imported raw materials due to restrictions during the COVID-19
-    pandemic and the supplier was unable to supply on time. As a result, in consultation
-    with communities and assessing local markets, BDRCS provided additional cash assistance
-    to buy roofing materials for houses.
-  - On the other hand, opening individual bank accounts was slower than expected as
-    the bank authority allowed only limited beneficiaries at the bank due to the COVID-19
-    safety measures. BDRCS continued promoting and ensuring the COVID-19 safety measures
-    throughout the implementation of shelter recovery, including training, focus group
-    discussion, construction, etc.
-  - However, BDRCS and IFRC operational team provided inclusive monitoring and technical
-    support virtually and physically as required and possible. BDRCS field team paid
-    an extra effort to complete the scheduled task through engaging the community
-    development committee, community organizers and local Red Crescent branch.
+  - After completion of the emergency activities, BDRCS started implementing the recovery operation. However, since the beginning of March 2021, the number of COVID-19 positive cases and death started increasing again sharply. Due to the strict movement restriction across the country and considering the safety of staff and volunteers, the overall consultation and assessment process in the communities were delayed and it took longer time than expected to identify the targeted communities and targeted households for recovery assistance.
+  - Based on the operational plan and request from BDRCS, IFRC CD initiated the procurement process and issued the work order to deliver roofing materials. However, there was a shortage of imported raw materials due to restrictions during the COVID-19 pandemic and the supplier was unable to supply on time. As a result, in consultation with communities and assessing local markets, BDRCS provided additional cash assistance to buy roofing materials for houses.
+  - On the other hand, opening individual bank accounts was slower than expected as the bank authority allowed only limited beneficiaries at the bank due to the COVID-19 safety measures. BDRCS continued promoting and ensuring the COVID-19 safety measures throughout the implementation of shelter recovery, including training, focus group discussion, construction, etc.
+  - However, BDRCS and IFRC operational team provided inclusive monitoring and technical support virtually and physically as required and possible. BDRCS field team paid an extra effort to complete the scheduled task through engaging the community development committee, community organizers and local Red Crescent branch.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -306,10 +259,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 710
-    text: 'COVID-19 caused delays because there were BDRCS volunteers and staff who
-      were infected, and due to strict '
-    text_base: covid 19 caused delays because there were bdrcs volunteers and staff
-      who were infected and due to strict
+    text: 'COVID-19 caused delays because there were BDRCS volunteers and staff who were infected, and due to strict '
+    text_base: covid 19 caused delays because there were bdrcs volunteers and staff who were infected and due to strict
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -321,10 +272,8 @@
     bbox: (41.63999938964844, 735.0689697265625, 556.230712890625, 748.7540283203125)
     double_fontsize_int: 20
   - index: 711
-    text: 'lockdown in the targeted districts, the team could not move freely. As
-      a result, the overall consultation and assessment '
-    text_base: lockdown in the targeted districts the team could not move freely as
-      a result the overall consultation and assessment
+    text: 'lockdown in the targeted districts, the team could not move freely. As a result, the overall consultation and assessment '
+    text_base: lockdown in the targeted districts the team could not move freely as a result the overall consultation and assessment
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -336,10 +285,8 @@
     bbox: (41.63999938964844, 746.468994140625, 556.308837890625, 760.1539916992188)
     double_fontsize_int: 20
   - index: 712
-    text: 'process in the communities were delayed somewhat and it took a longer time
-      than expected to identify the targeted '
-    text_base: process in the communities were delayed somewhat and it took a longer
-      time than expected to identify the targeted
+    text: 'process in the communities were delayed somewhat and it took a longer time than expected to identify the targeted '
+    text_base: process in the communities were delayed somewhat and it took a longer time than expected to identify the targeted
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -351,10 +298,8 @@
     bbox: (41.63999938964844, 757.989013671875, 555.9939575195312, 771.6740112304688)
     double_fontsize_int: 20
   - index: 713
-    text: 'communities and targeted households for recovery assistance. Opening bank
-      account and cash withdrawal from the '
-    text_base: communities and targeted households for recovery assistance opening
-      bank account and cash withdrawal from the
+    text: 'communities and targeted households for recovery assistance. Opening bank account and cash withdrawal from the '
+    text_base: communities and targeted households for recovery assistance opening bank account and cash withdrawal from the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -366,10 +311,8 @@
     bbox: (41.63999938964844, 769.509033203125, 556.2825927734375, 783.1940307617188)
     double_fontsize_int: 20
   - index: 720
-    text: bank were slower than expected as the bank authority allowed only limited
-      beneficiaries at the bank due to COVID-
-    text_base: bank were slower than expected as the bank authority allowed only limited
-      beneficiaries at the bank due to covid
+    text: bank were slower than expected as the bank authority allowed only limited beneficiaries at the bank due to COVID-
+    text_base: bank were slower than expected as the bank authority allowed only limited beneficiaries at the bank due to covid
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -394,14 +337,7 @@
     bbox: (41.63999938964844, 59.132965087890625, 134.36302185058594, 72.81800842285156)
     double_fontsize_int: 20
   items:
-  - COVID-19 caused delays because there were BDRCS volunteers and staff who were
-    infected, and due to strict lockdown in the targeted districts, the team could
-    not move freely. As a result, the overall consultation and assessment process
-    in the communities were delayed somewhat and it took a longer time than expected
-    to identify the targeted communities and targeted households for recovery assistance.
-    Opening bank account and cash withdrawal from the bank were slower than expected
-    as the bank authority allowed only limited beneficiaries at the bank due to COVID-
-    19 safety measures.
+  - COVID-19 caused delays because there were BDRCS volunteers and staff who were infected, and due to strict lockdown in the targeted districts, the team could not move freely. As a result, the overall consultation and assessment process in the communities were delayed somewhat and it took a longer time than expected to identify the targeted communities and targeted households for recovery assistance. Opening bank account and cash withdrawal from the bank were slower than expected as the bank authority allowed only limited beneficiaries at the bank due to COVID- 19 safety measures.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -420,10 +356,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 807
-    text: 'Working amidst the COVID-19 pandemic was the major challenge that slowed
-      down the implementation of planned '
-    text_base: working amidst the covid 19 pandemic was the major challenge that slowed
-      down the implementation of planned
+    text: 'Working amidst the COVID-19 pandemic was the major challenge that slowed down the implementation of planned '
+    text_base: working amidst the covid 19 pandemic was the major challenge that slowed down the implementation of planned
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 14
@@ -435,10 +369,8 @@
     bbox: (41.63999938964844, 433.4629821777344, 556.1304321289062, 447.14801025390625)
     double_fontsize_int: 20
   - index: 808
-    text: 'activities. The country''s maiden cases of COVID-19 were reported on 8
-      March 2020 and the first death was reported '
-    text_base: activities the country s maiden cases of covid 19 were reported on
-      8 march 2020 and the first death was reported
+    text: 'activities. The country''s maiden cases of COVID-19 were reported on 8 March 2020 and the first death was reported '
+    text_base: activities the country s maiden cases of covid 19 were reported on 8 march 2020 and the first death was reported
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -450,10 +382,8 @@
     bbox: (41.63999938964844, 444.98297119140625, 555.992919921875, 458.6679992675781)
     double_fontsize_int: 20
   - index: 809
-    text: 'on 18 March 2020 by the Institute of Epidemiology, Disease Control and
-      Research (IEDCR) of the GoB. The '
-    text_base: on 18 march 2020 by the institute of epidemiology disease control and
-      research iedcr of the gob the
+    text: 'on 18 March 2020 by the Institute of Epidemiology, Disease Control and Research (IEDCR) of the GoB. The '
+    text_base: on 18 march 2020 by the institute of epidemiology disease control and research iedcr of the gob the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -465,10 +395,8 @@
     bbox: (41.63999938964844, 456.50299072265625, 556.2900390625, 470.1880187988281)
     double_fontsize_int: 20
   - index: 810
-    text: 'confirmed number of cases, as of 31 August 2021 reported by the DGHS was
-      1,500,618 countrywide. Within the '
-    text_base: confirmed number of cases as of 31 august 2021 reported by the dghs
-      was 1 500 618 countrywide within the
+    text: 'confirmed number of cases, as of 31 August 2021 reported by the DGHS was 1,500,618 countrywide. Within the '
+    text_base: confirmed number of cases as of 31 august 2021 reported by the dghs was 1 500 618 countrywide within the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -480,10 +408,8 @@
     bbox: (41.63999938964844, 467.9229736328125, 556.266845703125, 481.6080017089844)
     double_fontsize_int: 20
   - index: 811
-    text: 'same period, 26,195 people had died. Highest COVID-19 cases were recorded
-      at the beginning of August 2021. Due '
-    text_base: same period 26 195 people had died highest covid 19 cases were recorded
-      at the beginning of august 2021 due
+    text: 'same period, 26,195 people had died. Highest COVID-19 cases were recorded at the beginning of August 2021. Due '
+    text_base: same period 26 195 people had died highest covid 19 cases were recorded at the beginning of august 2021 due
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -495,10 +421,8 @@
     bbox: (41.63999938964844, 479.4429931640625, 556.295166015625, 493.1280212402344)
     double_fontsize_int: 20
   - index: 812
-    text: 'to the COVID-19 pandemic situation, BDRCS could not organize physical training
-      like ECV/CBHFA.  '
-    text_base: to the covid 19 pandemic situation bdrcs could not organize physical
-      training like ecv cbhfa
+    text: 'to the COVID-19 pandemic situation, BDRCS could not organize physical training like ECV/CBHFA.  '
+    text_base: to the covid 19 pandemic situation bdrcs could not organize physical training like ecv cbhfa
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -510,14 +434,7 @@
     bbox: (41.63999938964844, 490.9629821777344, 487.54888916015625, 504.64801025390625)
     double_fontsize_int: 20
   items:
-  - Working amidst the COVID-19 pandemic was the major challenge that slowed down
-    the implementation of planned activities. The country's maiden cases of COVID-19
-    were reported on 8 March 2020 and the first death was reported on 18 March 2020
-    by the Institute of Epidemiology, Disease Control and Research (IEDCR) of the
-    GoB. The confirmed number of cases, as of 31 August 2021 reported by the DGHS
-    was 1,500,618 countrywide. Within the same period, 26,195 people had died. Highest
-    COVID-19 cases were recorded at the beginning of August 2021. Due to the COVID-19
-    pandemic situation, BDRCS could not organize physical training like ECV/CBHFA.
+  - Working amidst the COVID-19 pandemic was the major challenge that slowed down the implementation of planned activities. The country's maiden cases of COVID-19 were reported on 8 March 2020 and the first death was reported on 18 March 2020 by the Institute of Epidemiology, Disease Control and Research (IEDCR) of the GoB. The confirmed number of cases, as of 31 August 2021 reported by the DGHS was 1,500,618 countrywide. Within the same period, 26,195 people had died. Highest COVID-19 cases were recorded at the beginning of August 2021. Due to the COVID-19 pandemic situation, BDRCS could not organize physical training like ECV/CBHFA.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -536,10 +453,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 908
-    text: 'Due to the embankment breakdown and damages of water points, access to
-      safe drinking water is one of the major '
-    text_base: due to the embankment breakdown and damages of water points access
-      to safe drinking water is one of the major
+    text: 'Due to the embankment breakdown and damages of water points, access to safe drinking water is one of the major '
+    text_base: due to the embankment breakdown and damages of water points access to safe drinking water is one of the major
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 16
@@ -551,10 +466,8 @@
     bbox: (41.63999938964844, 450.1429748535156, 556.0067138671875, 463.8280029296875)
     double_fontsize_int: 20
   - index: 909
-    text: 'challenges in the cyclone-affected areas. For these reasons, BDRCS conducted
-      a technical assessment and installed '
-    text_base: challenges in the cyclone affected areas for these reasons bdrcs conducted
-      a technical assessment and installed
+    text: 'challenges in the cyclone-affected areas. For these reasons, BDRCS conducted a technical assessment and installed '
+    text_base: challenges in the cyclone affected areas for these reasons bdrcs conducted a technical assessment and installed
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -566,10 +479,8 @@
     bbox: (41.63999938964844, 461.6829833984375, 556.1151733398438, 475.3680114746094)
     double_fontsize_int: 20
   - index: 910
-    text: '25 rainwater harvesting units during the emergency phase. During the recovery
-      phase, BDRCS installed another 250 '
-    text_base: 25 rainwater harvesting units during the emergency phase during the
-      recovery phase bdrcs installed another 250
+    text: '25 rainwater harvesting units during the emergency phase. During the recovery phase, BDRCS installed another 250 '
+    text_base: 25 rainwater harvesting units during the emergency phase during the recovery phase bdrcs installed another 250
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -594,10 +505,8 @@
     bbox: (41.63999938964844, 484.6029968261719, 161.18887329101562, 498.28802490234375)
     double_fontsize_int: 20
   - index: 912
-    text: 'Due to the COVID-19 pandemic and difficult access to the remote affected
-      communities, the overall planned activities '
-    text_base: due to the covid 19 pandemic and difficult access to the remote affected
-      communities the overall planned activities
+    text: 'Due to the COVID-19 pandemic and difficult access to the remote affected communities, the overall planned activities '
+    text_base: due to the covid 19 pandemic and difficult access to the remote affected communities the overall planned activities
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -609,10 +518,8 @@
     bbox: (41.63999938964844, 507.6429748535156, 555.8168334960938, 521.3280029296875)
     double_fontsize_int: 20
   - index: 913
-    text: 'like technical assessment and focus group discussions were not completed
-      in a timely manner. As a result, overall '
-    text_base: like technical assessment and focus group discussions were not completed
-      in a timely manner as a result overall
+    text: 'like technical assessment and focus group discussions were not completed in a timely manner. As a result, overall '
+    text_base: like technical assessment and focus group discussions were not completed in a timely manner as a result overall
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -637,10 +544,8 @@
     bbox: (41.63999938964844, 530.6829833984375, 239.93887329101562, 544.3680419921875)
     double_fontsize_int: 20
   - index: 915
-    text: 'BDRCS also could not recruit a WASH technical officer who was supposed
-      to be based at the field. BDRCS instead '
-    text_base: bdrcs also could not recruit a wash technical officer who was supposed
-      to be based at the field bdrcs instead
+    text: 'BDRCS also could not recruit a WASH technical officer who was supposed to be based at the field. BDRCS instead '
+    text_base: bdrcs also could not recruit a wash technical officer who was supposed to be based at the field bdrcs instead
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -652,10 +557,8 @@
     bbox: (41.63999938964844, 553.60302734375, 556.2794189453125, 567.2880249023438)
     double_fontsize_int: 20
   - index: 916
-    text: 'deployed the WASH Officer from the Disaster Response Department, based
-      at the NHQ level, where he provided '
-    text_base: deployed the wash officer from the disaster response department based
-      at the nhq level where he provided
+    text: 'deployed the WASH Officer from the Disaster Response Department, based at the NHQ level, where he provided '
+    text_base: deployed the wash officer from the disaster response department based at the nhq level where he provided
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -680,19 +583,9 @@
     bbox: (41.63999938964844, 576.6429443359375, 374.7189025878906, 590.3280029296875)
     double_fontsize_int: 20
   items:
-  - Due to the embankment breakdown and damages of water points, access to safe drinking
-    water is one of the major challenges in the cyclone-affected areas. For these
-    reasons, BDRCS conducted a technical assessment and installed 25 rainwater harvesting
-    units during the emergency phase. During the recovery phase, BDRCS installed another
-    250 rainwater harvesting units.
-  - Due to the COVID-19 pandemic and difficult access to the remote affected communities,
-    the overall planned activities like technical assessment and focus group discussions
-    were not completed in a timely manner. As a result, overall WASH recovery interventions
-    were delayed.
-  - BDRCS also could not recruit a WASH technical officer who was supposed to be based
-    at the field. BDRCS instead deployed the WASH Officer from the Disaster Response
-    Department, based at the NHQ level, where he provided technical and monitoring
-    support, both virtually and physically as required.
+  - Due to the embankment breakdown and damages of water points, access to safe drinking water is one of the major challenges in the cyclone-affected areas. For these reasons, BDRCS conducted a technical assessment and installed 25 rainwater harvesting units during the emergency phase. During the recovery phase, BDRCS installed another 250 rainwater harvesting units.
+  - Due to the COVID-19 pandemic and difficult access to the remote affected communities, the overall planned activities like technical assessment and focus group discussions were not completed in a timely manner. As a result, overall WASH recovery interventions were delayed.
+  - BDRCS also could not recruit a WASH technical officer who was supposed to be based at the field. BDRCS instead deployed the WASH Officer from the Disaster Response Department, based at the NHQ level, where he provided technical and monitoring support, both virtually and physically as required.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -711,10 +604,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 993
-    text: 'The Distribution of dignity kits was slightly delayed and training on PGI
-      was not organized physically due to the '
-    text_base: the distribution of dignity kits was slightly delayed and training
-      on pgi was not organized physically due to the
+    text: 'The Distribution of dignity kits was slightly delayed and training on PGI was not organized physically due to the '
+    text_base: the distribution of dignity kits was slightly delayed and training on pgi was not organized physically due to the
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 18
@@ -726,10 +617,8 @@
     bbox: (41.63999938964844, 632.56298828125, 556.302978515625, 646.248046875)
     double_fontsize_int: 20
   - index: 994
-    text: 'COVID-19 pandemic situation. However, BDRCS with the support of IFRC organized
-      online orientations on PGI for '
-    text_base: covid 19 pandemic situation however bdrcs with the support of ifrc
-      organized online orientations on pgi for
+    text: 'COVID-19 pandemic situation. However, BDRCS with the support of IFRC organized online orientations on PGI for '
+    text_base: covid 19 pandemic situation however bdrcs with the support of ifrc organized online orientations on pgi for
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -754,9 +643,7 @@
     bbox: (41.63999938964844, 655.6329345703125, 90.43404388427734, 669.3179931640625)
     double_fontsize_int: 20
   items:
-  - The Distribution of dignity kits was slightly delayed and training on PGI was
-    not organized physically due to the COVID-19 pandemic situation. However, BDRCS
-    with the support of IFRC organized online orientations on PGI for volunteers.
+  - The Distribution of dignity kits was slightly delayed and training on PGI was not organized physically due to the COVID-19 pandemic situation. However, BDRCS with the support of IFRC organized online orientations on PGI for volunteers.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -775,10 +662,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1089
-    text: 'It was challenging to evacuate the vast number of vulnerable people safely
-      amidst the COVID-19 pandemic. To '
-    text_base: it was challenging to evacuate the vast number of vulnerable people
-      safely amidst the covid 19 pandemic to
+    text: 'It was challenging to evacuate the vast number of vulnerable people safely amidst the COVID-19 pandemic. To '
+    text_base: it was challenging to evacuate the vast number of vulnerable people safely amidst the covid 19 pandemic to
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 20
@@ -790,10 +675,8 @@
     bbox: (41.63999938964844, 316.2229919433594, 556.2838134765625, 329.90802001953125)
     double_fontsize_int: 20
   - index: 1090
-    text: 'ensure safe physical distancing, the government increased the number of
-      evacuation centres by arranging other '
-    text_base: ensure safe physical distancing the government increased the number
-      of evacuation centres by arranging other
+    text: 'ensure safe physical distancing, the government increased the number of evacuation centres by arranging other '
+    text_base: ensure safe physical distancing the government increased the number of evacuation centres by arranging other
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 20
@@ -805,10 +688,8 @@
     bbox: (41.63999938964844, 327.74298095703125, 556.1873168945312, 341.4280090332031)
     double_fontsize_int: 20
   - index: 1091
-    text: 'offices, commercial, educational buildings etc. in addition to formal community
-      cyclone shelters.  '
-    text_base: offices commercial educational buildings etc in addition to formal
-      community cyclone shelters
+    text: 'offices, commercial, educational buildings etc. in addition to formal community cyclone shelters.  '
+    text_base: offices commercial educational buildings etc in addition to formal community cyclone shelters
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 20
@@ -820,10 +701,8 @@
     bbox: (41.63999938964844, 339.2629699707031, 469.1589050292969, 352.947998046875)
     double_fontsize_int: 20
   - index: 1092
-    text: 'The implementation of the planned DRR activities in the targeted recovery
-      intervention areas was delayed and the '
-    text_base: the implementation of the planned drr activities in the targeted recovery
-      intervention areas was delayed and the
+    text: 'The implementation of the planned DRR activities in the targeted recovery intervention areas was delayed and the '
+    text_base: the implementation of the planned drr activities in the targeted recovery intervention areas was delayed and the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 20
@@ -835,10 +714,8 @@
     bbox: (41.63999938964844, 362.1829833984375, 556.2825927734375, 375.8680114746094)
     double_fontsize_int: 20
   - index: 1093
-    text: 'selection of targeted areas took a longer time due to ongoing COVID-19
-      pandemic restrictions.  '
-    text_base: selection of targeted areas took a longer time due to ongoing covid
-      19 pandemic restrictions
+    text: 'selection of targeted areas took a longer time due to ongoing COVID-19 pandemic restrictions.  '
+    text_base: selection of targeted areas took a longer time due to ongoing covid 19 pandemic restrictions
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 20
@@ -850,13 +727,8 @@
     bbox: (41.63999938964844, 373.7029724121094, 465.3188781738281, 387.38800048828125)
     double_fontsize_int: 20
   items:
-  - It was challenging to evacuate the vast number of vulnerable people safely amidst
-    the COVID-19 pandemic. To ensure safe physical distancing, the government increased
-    the number of evacuation centres by arranging other offices, commercial, educational
-    buildings etc. in addition to formal community cyclone shelters.
-  - The implementation of the planned DRR activities in the targeted recovery intervention
-    areas was delayed and the selection of targeted areas took a longer time due to
-    ongoing COVID-19 pandemic restrictions.
+  - It was challenging to evacuate the vast number of vulnerable people safely amidst the COVID-19 pandemic. To ensure safe physical distancing, the government increased the number of evacuation centres by arranging other offices, commercial, educational buildings etc. in addition to formal community cyclone shelters.
+  - The implementation of the planned DRR activities in the targeted recovery intervention areas was delayed and the selection of targeted areas took a longer time due to ongoing COVID-19 pandemic restrictions.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -875,10 +747,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1114
-    text: 'Due to the COVID-19 pandemic situation and countrywide strict shutdown,
-      BDRCS endured delays in deploying staff, '
-    text_base: due to the covid 19 pandemic situation and countrywide strict shutdown
-      bdrcs endured delays in deploying staff
+    text: 'Due to the COVID-19 pandemic situation and countrywide strict shutdown, BDRCS endured delays in deploying staff, '
+    text_base: due to the covid 19 pandemic situation and countrywide strict shutdown bdrcs endured delays in deploying staff
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 21
@@ -890,10 +760,8 @@
     bbox: (41.63999938964844, 434.1829833984375, 556.3087158203125, 447.8680114746094)
     double_fontsize_int: 20
   - index: 1115
-    text: 'volunteers, NDRT/NDWRT members on the ground. As a result, the implementation
-      of some planned activities was '
-    text_base: volunteers ndrt ndwrt members on the ground as a result the implementation
-      of some planned activities was
+    text: 'volunteers, NDRT/NDWRT members on the ground. As a result, the implementation of some planned activities was '
+    text_base: volunteers ndrt ndwrt members on the ground as a result the implementation of some planned activities was
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 21
@@ -905,10 +773,8 @@
     bbox: (41.63999938964844, 445.7029724121094, 556.308837890625, 459.38800048828125)
     double_fontsize_int: 20
   - index: 1116
-    text: 'delayed. Some volunteers and staff were also infected by the covid-19 disease.
-      This also created fear in some '
-    text_base: delayed some volunteers and staff were also infected by the covid 19
-      disease this also created fear in some
+    text: 'delayed. Some volunteers and staff were also infected by the covid-19 disease. This also created fear in some '
+    text_base: delayed some volunteers and staff were also infected by the covid 19 disease this also created fear in some
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 21
@@ -933,10 +799,8 @@
     bbox: (41.63999938964844, 468.7629699707031, 314.5788879394531, 482.447998046875)
     double_fontsize_int: 20
   - index: 1118
-    text: 'However, the dedication of BDRCS staff and volunteers and technical support
-      from NHQ virtually and physically '
-    text_base: however the dedication of bdrcs staff and volunteers and technical
-      support from nhq virtually and physically
+    text: 'However, the dedication of BDRCS staff and volunteers and technical support from NHQ virtually and physically '
+    text_base: however the dedication of bdrcs staff and volunteers and technical support from nhq virtually and physically
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 21
@@ -948,10 +812,8 @@
     bbox: (41.63999938964844, 491.6829833984375, 556.254638671875, 505.3680114746094)
     double_fontsize_int: 20
   - index: 1119
-    text: 'allowed the successful implementation of operational activities and helped
-      to achieve the operational goals. '
-    text_base: allowed the successful implementation of operational activities and
-      helped to achieve the operational goals
+    text: 'allowed the successful implementation of operational activities and helped to achieve the operational goals. '
+    text_base: allowed the successful implementation of operational activities and helped to achieve the operational goals
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 21
@@ -963,14 +825,8 @@
     bbox: (41.63999938964844, 503.2029724121094, 518.7488403320312, 516.8880004882812)
     double_fontsize_int: 20
   items:
-  - Due to the COVID-19 pandemic situation and countrywide strict shutdown, BDRCS
-    endured delays in deploying staff, volunteers, NDRT/NDWRT members on the ground.
-    As a result, the implementation of some planned activities was delayed. Some volunteers
-    and staff were also infected by the covid-19 disease. This also created fear in
-    some volunteers/ NDRT members/staff to engage in the field level.
-  - However, the dedication of BDRCS staff and volunteers and technical support from
-    NHQ virtually and physically allowed the successful implementation of operational
-    activities and helped to achieve the operational goals.
+  - Due to the COVID-19 pandemic situation and countrywide strict shutdown, BDRCS endured delays in deploying staff, volunteers, NDRT/NDWRT members on the ground. As a result, the implementation of some planned activities was delayed. Some volunteers and staff were also infected by the covid-19 disease. This also created fear in some volunteers/ NDRT members/staff to engage in the field level.
+  - However, the dedication of BDRCS staff and volunteers and technical support from NHQ virtually and physically allowed the successful implementation of operational activities and helped to achieve the operational goals.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -989,10 +845,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1170
-    text: 'Considering the COVID-19 pandemic and limited trained staff on CEA, BDRCS
-      experienced difficulties to deploy '
-    text_base: considering the covid 19 pandemic and limited trained staff on cea
-      bdrcs experienced difficulties to deploy
+    text: 'Considering the COVID-19 pandemic and limited trained staff on CEA, BDRCS experienced difficulties to deploy '
+    text_base: considering the covid 19 pandemic and limited trained staff on cea bdrcs experienced difficulties to deploy
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 22
@@ -1004,10 +858,8 @@
     bbox: (44.400001525878906, 531.8829345703125, 552.1317749023438, 545.5679931640625)
     double_fontsize_int: 20
   - index: 1171
-    text: 'trained and experienced staff to address the CEA issues at the field level
-      simultaneously in multiple districts during '
-    text_base: trained and experienced staff to address the cea issues at the field
-      level simultaneously in multiple districts during
+    text: 'trained and experienced staff to address the CEA issues at the field level simultaneously in multiple districts during '
+    text_base: trained and experienced staff to address the cea issues at the field level simultaneously in multiple districts during
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -1019,10 +871,8 @@
     bbox: (41.63999938964844, 543.4029541015625, 552.079833984375, 557.0880126953125)
     double_fontsize_int: 20
   - index: 1172
-    text: 'the emergency phase. However, later following the safety measures, BDRCS
-      organized virtual and physical '
-    text_base: the emergency phase however later following the safety measures bdrcs
-      organized virtual and physical
+    text: 'the emergency phase. However, later following the safety measures, BDRCS organized virtual and physical '
+    text_base: the emergency phase however later following the safety measures bdrcs organized virtual and physical
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -1034,10 +884,8 @@
     bbox: (41.63999938964844, 554.9229736328125, 552.348876953125, 568.6080322265625)
     double_fontsize_int: 20
   - index: 1173
-    text: 'orientation sessions with the targeted groups/RC unit and the CEA team
-      in NHQ provided extended support to the '
-    text_base: orientation sessions with the targeted groups rc unit and the cea team
-      in nhq provided extended support to the
+    text: 'orientation sessions with the targeted groups/RC unit and the CEA team in NHQ provided extended support to the '
+    text_base: orientation sessions with the targeted groups rc unit and the cea team in nhq provided extended support to the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -1062,12 +910,7 @@
     bbox: (41.63999938964844, 577.9630126953125, 186.1488800048828, 591.6480102539062)
     double_fontsize_int: 20
   items:
-  - Considering the COVID-19 pandemic and limited trained staff on CEA, BDRCS experienced
-    difficulties to deploy trained and experienced staff to address the CEA issues
-    at the field level simultaneously in multiple districts during the emergency phase.
-    However, later following the safety measures, BDRCS organized virtual and physical
-    orientation sessions with the targeted groups/RC unit and the CEA team in NHQ
-    provided extended support to the operational team on the ground.
+  - Considering the COVID-19 pandemic and limited trained staff on CEA, BDRCS experienced difficulties to deploy trained and experienced staff to address the CEA issues at the field level simultaneously in multiple districts during the emergency phase. However, later following the safety measures, BDRCS organized virtual and physical orientation sessions with the targeted groups/RC unit and the CEA team in NHQ provided extended support to the operational team on the ground.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -1086,10 +929,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1221
-    text: ' Diversified challenges were captured in the lesson learned workshop, such
-      as delay of implementation during '
-    text_base: diversified challenges were captured in the lesson learned workshop
-      such as delay of implementation during
+    text: ' Diversified challenges were captured in the lesson learned workshop, such as delay of implementation during '
+    text_base: diversified challenges were captured in the lesson learned workshop such as delay of implementation during
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 23
@@ -1101,10 +942,8 @@
     bbox: (41.63999938964844, 560.6829833984375, 556.06591796875, 574.3680419921875)
     double_fontsize_int: 20
   - index: 1222
-    text: 'recovery and emergency phase, the opening of bank accounts and transferring
-      funds in a timely manner, remote '
-    text_base: recovery and emergency phase the opening of bank accounts and transferring
-      funds in a timely manner remote
+    text: 'recovery and emergency phase, the opening of bank accounts and transferring funds in a timely manner, remote '
+    text_base: recovery and emergency phase the opening of bank accounts and transferring funds in a timely manner remote
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 23
@@ -1116,10 +955,8 @@
     bbox: (41.63999938964844, 572.2030029296875, 556.308837890625, 585.8880004882812)
     double_fontsize_int: 20
   - index: 1223
-    text: 'geographical location with limited transport facilities, extreme weather
-      patterns, etc. It was also highlighted that the '
-    text_base: geographical location with limited transport facilities extreme weather
-      patterns etc it was also highlighted that the
+    text: 'geographical location with limited transport facilities, extreme weather patterns, etc. It was also highlighted that the '
+    text_base: geographical location with limited transport facilities extreme weather patterns etc it was also highlighted that the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 23
@@ -1131,10 +968,8 @@
     bbox: (41.63999938964844, 583.7230224609375, 556.1119995117188, 597.4080200195312)
     double_fontsize_int: 20
   - index: 1224
-    text: 'targeted people had to travel long distances to get the banking service
-      and experienced irregular banking hours, '
-    text_base: targeted people had to travel long distances to get the banking service
-      and experienced irregular banking hours
+    text: 'targeted people had to travel long distances to get the banking service and experienced irregular banking hours, '
+    text_base: targeted people had to travel long distances to get the banking service and experienced irregular banking hours
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 23
@@ -1159,10 +994,8 @@
     bbox: (41.63999938964844, 606.6429443359375, 271.85888671875, 620.3280029296875)
     double_fontsize_int: 20
   - index: 1226
-    text: 'During the implementation of recovery interventions, BDRCS had to manage
-      multiple emergency operations, as a '
-    text_base: during the implementation of recovery interventions bdrcs had to manage
-      multiple emergency operations as a
+    text: 'During the implementation of recovery interventions, BDRCS had to manage multiple emergency operations, as a '
+    text_base: during the implementation of recovery interventions bdrcs had to manage multiple emergency operations as a
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 23
@@ -1174,10 +1007,8 @@
     bbox: (41.63999938964844, 629.6829833984375, 556.308837890625, 643.3680419921875)
     double_fontsize_int: 20
   - index: 1227
-    text: 'result, human resources of the BDRCS disaster response department were
-      stretched and experienced difficulties to '
-    text_base: result human resources of the bdrcs disaster response department were
-      stretched and experienced difficulties to
+    text: 'result, human resources of the BDRCS disaster response department were stretched and experienced difficulties to '
+    text_base: result human resources of the bdrcs disaster response department were stretched and experienced difficulties to
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 23
@@ -1202,17 +1033,8 @@
     bbox: (41.63999938964844, 652.7529296875, 281.8188781738281, 666.43798828125)
     double_fontsize_int: 20
   items:
-  - Diversified challenges were captured in the lesson learned workshop, such as delay
-    of implementation during recovery and emergency phase, the opening of bank accounts
-    and transferring funds in a timely manner, remote geographical location with limited
-    transport facilities, extreme weather patterns, etc. It was also highlighted that
-    the targeted people had to travel long distances to get the banking service and
-    experienced irregular banking hours, shortage in the local market due to strict
-    lockdown.
-  - During the implementation of recovery interventions, BDRCS had to manage multiple
-    emergency operations, as a result, human resources of the BDRCS disaster response
-    department were stretched and experienced difficulties to complete the operation
-    within the original time frame.
+  - Diversified challenges were captured in the lesson learned workshop, such as delay of implementation during recovery and emergency phase, the opening of bank accounts and transferring funds in a timely manner, remote geographical location with limited transport facilities, extreme weather patterns, etc. It was also highlighted that the targeted people had to travel long distances to get the banking service and experienced irregular banking hours, shortage in the local market due to strict lockdown.
+  - During the implementation of recovery interventions, BDRCS had to manage multiple emergency operations, as a result, human resources of the BDRCS disaster response department were stretched and experienced difficulties to complete the operation within the original time frame.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -1231,10 +1053,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1253
-    text: 'Due to the covid-19 pandemic situation and strict country wide lockdown,
-      IFRC staff could not move to the field '
-    text_base: due to the covid 19 pandemic situation and strict country wide lockdown
-      ifrc staff could not move to the field
+    text: 'Due to the covid-19 pandemic situation and strict country wide lockdown, IFRC staff could not move to the field '
+    text_base: due to the covid 19 pandemic situation and strict country wide lockdown ifrc staff could not move to the field
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 24
@@ -1246,10 +1066,8 @@
     bbox: (44.400001525878906, 228.71298217773438, 563.571533203125, 242.3980255126953)
     double_fontsize_int: 20
   - index: 1254
-    text: 'frequently. However, IFRC staff provided technical support as required
-      remotely and where possible physically.  '
-    text_base: frequently however ifrc staff provided technical support as required
-      remotely and where possible physically
+    text: 'frequently. However, IFRC staff provided technical support as required remotely and where possible physically.  '
+    text_base: frequently however ifrc staff provided technical support as required remotely and where possible physically
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 24
@@ -1261,6 +1079,4 @@
     bbox: (41.63999938964844, 240.23300170898438, 538.1888427734375, 253.9180450439453)
     double_fontsize_int: 20
   items:
-  - Due to the covid-19 pandemic situation and strict country wide lockdown, IFRC
-    staff could not move to the field frequently. However, IFRC staff provided technical
-    support as required remotely and where possible physically.
+  - Due to the covid-19 pandemic situation and strict country wide lockdown, IFRC staff could not move to the field frequently. However, IFRC staff provided technical support as required remotely and where possible physically.

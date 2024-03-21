@@ -22,10 +22,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 634
-    text: 'The main challenge concerned sustaining the operation. Some branches were
-      affected economically by not being able '
-    text_base: the main challenge concerned sustaining the operation some branches
-      were affected economically by not being able
+    text: 'The main challenge concerned sustaining the operation. Some branches were affected economically by not being able '
+    text_base: the main challenge concerned sustaining the operation some branches were affected economically by not being able
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 10
@@ -43,10 +41,8 @@
     bbox_x2: 563.4354858398438
     double_fontsize_int: 20
   - index: 635
-    text: 'to achieve the sale of services to support themselves, as they were focused
-      on assisting the migrants. The most serious '
-    text_base: to achieve the sale of services to support themselves as they were
-      focused on assisting the migrants the most serious
+    text: 'to achieve the sale of services to support themselves, as they were focused on assisting the migrants. The most serious '
+    text_base: to achieve the sale of services to support themselves as they were focused on assisting the migrants the most serious
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 10
@@ -64,10 +60,8 @@
     bbox_x2: 563.3382568359375
     double_fontsize_int: 20
   - index: 636
-    text: 'case was the La Cruz de Guanacaste branch in Costa Rica, which had almost
-      all its staff focused on assisting the '
-    text_base: case was the la cruz de guanacaste branch in costa rica which had almost
-      all its staff focused on assisting the
+    text: 'case was the La Cruz de Guanacaste branch in Costa Rica, which had almost all its staff focused on assisting the '
+    text_base: case was the la cruz de guanacaste branch in costa rica which had almost all its staff focused on assisting the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 10
@@ -85,10 +79,8 @@
     bbox_x2: 563.373779296875
     double_fontsize_int: 20
   - index: 637
-    text: 'migrants, and during the fourth month of the emergency, the branch suffered
-      a financial crisis, from which is it is still '
-    text_base: migrants and during the fourth month of the emergency the branch suffered
-      a financial crisis from which is it is still
+    text: 'migrants, and during the fourth month of the emergency, the branch suffered a financial crisis, from which is it is still '
+    text_base: migrants and during the fourth month of the emergency the branch suffered a financial crisis from which is it is still
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 10
@@ -125,10 +117,8 @@
     bbox_x2: 93.87287902832031
     double_fontsize_int: 20
   - index: 639
-    text: 'The second challenge was the reduction in the number of CRRC volunteer
-      staff, which affected the operations, as '
-    text_base: the second challenge was the reduction in the number of crrc volunteer
-      staff which affected the operations as
+    text: 'The second challenge was the reduction in the number of CRRC volunteer staff, which affected the operations, as '
+    text_base: the second challenge was the reduction in the number of crrc volunteer staff which affected the operations as
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 10
@@ -146,10 +136,8 @@
     bbox_x2: 563.6099853515625
     double_fontsize_int: 20
   - index: 640
-    text: 'there was a need to transfer staff from different regions to facilitate
-      the continued implementation of the operation, '
-    text_base: there was a need to transfer staff from different regions to facilitate
-      the continued implementation of the operation
+    text: 'there was a need to transfer staff from different regions to facilitate the continued implementation of the operation, '
+    text_base: there was a need to transfer staff from different regions to facilitate the continued implementation of the operation
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 10
@@ -186,10 +174,8 @@
     bbox_x2: 212.81887817382812
     double_fontsize_int: 20
   - index: 642
-    text: "RCSP personnel need to strengthen their knowledge and training in the IFRC\u2019\
-      s psychosocial support tools. In health "
-    text_base: rcsp personnel need to strengthen their knowledge and training in the
-      ifrc s psychosocial support tools in health
+    text: "RCSP personnel need to strengthen their knowledge and training in the IFRC\u2019s psychosocial support tools. In health "
+    text_base: rcsp personnel need to strengthen their knowledge and training in the ifrc s psychosocial support tools in health
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 10
@@ -207,10 +193,8 @@
     bbox_x2: 562.8352661132812
     double_fontsize_int: 20
   - index: 643
-    text: 'promotion and prevention, the challenge has been logistical difficulties
-      and access issues, and the health interventions '
-    text_base: promotion and prevention the challenge has been logistical difficulties
-      and access issues and the health interventions
+    text: 'promotion and prevention, the challenge has been logistical difficulties and access issues, and the health interventions '
+    text_base: promotion and prevention the challenge has been logistical difficulties and access issues and the health interventions
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 10
@@ -228,10 +212,8 @@
     bbox_x2: 563.3899536132812
     double_fontsize_int: 20
   - index: 644
-    text: 'have been limited to the visits in which Ministry of Health personnel were
-      present. The same challenge has befallen '
-    text_base: have been limited to the visits in which ministry of health personnel
-      were present the same challenge has befallen
+    text: 'have been limited to the visits in which Ministry of Health personnel were present. The same challenge has befallen '
+    text_base: have been limited to the visits in which ministry of health personnel were present the same challenge has befallen
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 10
@@ -268,22 +250,9 @@
     bbox_x2: 292.3788757324219
     double_fontsize_int: 20
   items:
-  - The main challenge concerned sustaining the operation. Some branches were affected
-    economically by not being able to achieve the sale of services to support themselves,
-    as they were focused on assisting the migrants. The most serious case was the
-    La Cruz de Guanacaste branch in Costa Rica, which had almost all its staff focused
-    on assisting the migrants, and during the fourth month of the emergency, the branch
-    suffered a financial crisis, from which is it is still recovering.
-  - The second challenge was the reduction in the number of CRRC volunteer staff,
-    which affected the operations, as there was a need to transfer staff from different
-    regions to facilitate the continued implementation of the operation, thereby increasing
-    operational costs.
-  - "RCSP personnel need to strengthen their knowledge and training in the IFRC\u2019\
-    s psychosocial support tools. In health promotion and prevention, the challenge\
-    \ has been logistical difficulties and access issues, and the health interventions\
-    \ have been limited to the visits in which Ministry of Health personnel were present.\
-    \ The same challenge has befallen pre-hospital care, as the migrants were in remote\
-    \ areas."
+  - The main challenge concerned sustaining the operation. Some branches were affected economically by not being able to achieve the sale of services to support themselves, as they were focused on assisting the migrants. The most serious case was the La Cruz de Guanacaste branch in Costa Rica, which had almost all its staff focused on assisting the migrants, and during the fourth month of the emergency, the branch suffered a financial crisis, from which is it is still recovering.
+  - The second challenge was the reduction in the number of CRRC volunteer staff, which affected the operations, as there was a need to transfer staff from different regions to facilitate the continued implementation of the operation, thereby increasing operational costs.
+  - "RCSP personnel need to strengthen their knowledge and training in the IFRC\u2019s psychosocial support tools. In health promotion and prevention, the challenge has been logistical difficulties and access issues, and the health interventions have been limited to the visits in which Ministry of Health personnel were present. The same challenge has befallen pre-hospital care, as the migrants were in remote areas."
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -327,10 +296,8 @@
     bbox_x2: 364.1589050292969
     double_fontsize_int: 20
   - index: 737
-    text: '1. When the operation was about to renovate the collective centres, the
-      Cuban migrants started to leave the '
-    text_base: 1 when the operation was about to renovate the collective centres the
-      cuban migrants started to leave the
+    text: '1. When the operation was about to renovate the collective centres, the Cuban migrants started to leave the '
+    text_base: 1 when the operation was about to renovate the collective centres the cuban migrants started to leave the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 12
@@ -348,10 +315,8 @@
     bbox_x2: 566.6639404296875
     double_fontsize_int: 20
   - index: 738
-    text: 'country; thus, only two of the collective centres were successfully renovated:
-      the sanitary facilities, drains and '
-    text_base: country thus only two of the collective centres were successfully renovated
-      the sanitary facilities drains and
+    text: 'country; thus, only two of the collective centres were successfully renovated: the sanitary facilities, drains and '
+    text_base: country thus only two of the collective centres were successfully renovated the sanitary facilities drains and
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 12
@@ -369,10 +334,8 @@
     bbox_x2: 566.5552368164062
     double_fontsize_int: 20
   - index: 739
-    text: 'laundry facilities were repaired in Parrita, Puntarenas, and the drainage,
-      laundry facilities and showers were '
-    text_base: laundry facilities were repaired in parrita puntarenas and the drainage
-      laundry facilities and showers were
+    text: 'laundry facilities were repaired in Parrita, Puntarenas, and the drainage, laundry facilities and showers were '
+    text_base: laundry facilities were repaired in parrita puntarenas and the drainage laundry facilities and showers were
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 12
@@ -409,10 +372,8 @@
     bbox_x2: 301.7388916015625
     double_fontsize_int: 20
   - index: 741
-    text: '2. Going from several collective centres at the beginning to managing 4
-      collective centres shelters and later 2 '
-    text_base: 2 going from several collective centres at the beginning to managing
-      4 collective centres shelters and later 2
+    text: '2. Going from several collective centres at the beginning to managing 4 collective centres shelters and later 2 '
+    text_base: 2 going from several collective centres at the beginning to managing 4 collective centres shelters and later 2
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 12
@@ -430,10 +391,8 @@
     bbox_x2: 566.7008666992188
     double_fontsize_int: 20
   - index: 742
-    text: 'CATEMs made it difficult to determine where to invest funds due to the
-      short amount of time available for '
-    text_base: catems made it difficult to determine where to invest funds due to
-      the short amount of time available for
+    text: 'CATEMs made it difficult to determine where to invest funds due to the short amount of time available for '
+    text_base: catems made it difficult to determine where to invest funds due to the short amount of time available for
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 12
@@ -470,10 +429,8 @@
     bbox_x2: 114.86888122558594
     double_fontsize_int: 20
   - index: 744
-    text: "3. Engaging in advocacy actions to improve the migrants\u2019 conditions.\
-      \ Although local authorities were aware of the "
-    text_base: 3 engaging in advocacy actions to improve the migrants conditions although
-      local authorities were aware of the
+    text: "3. Engaging in advocacy actions to improve the migrants\u2019 conditions. Although local authorities were aware of the "
+    text_base: 3 engaging in advocacy actions to improve the migrants conditions although local authorities were aware of the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 12
@@ -491,10 +448,8 @@
     bbox_x2: 566.69921875
     double_fontsize_int: 20
   - index: 745
-    text: 'Sphere Project standards, the conditions in Costa Rica did not necessarily
-      adapt to the Humanitarian Charter, '
-    text_base: sphere project standards the conditions in costa rica did not necessarily
-      adapt to the humanitarian charter
+    text: 'Sphere Project standards, the conditions in Costa Rica did not necessarily adapt to the Humanitarian Charter, '
+    text_base: sphere project standards the conditions in costa rica did not necessarily adapt to the humanitarian charter
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 12
@@ -512,10 +467,8 @@
     bbox_x2: 566.6607666015625
     double_fontsize_int: 20
   - index: 746
-    text: 'and this was the main challenge; this mostly concerned water and sanitation
-      issues, which always involved '
-    text_base: and this was the main challenge this mostly concerned water and sanitation
-      issues which always involved
+    text: 'and this was the main challenge; this mostly concerned water and sanitation issues, which always involved '
+    text_base: and this was the main challenge this mostly concerned water and sanitation issues which always involved
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 12
@@ -533,10 +486,8 @@
     bbox_x2: 566.3278198242188
     double_fontsize_int: 20
   - index: 747
-    text: 'many discussions; however, having fewer collective centres made it easier
-      to engage in advocacy actions to '
-    text_base: many discussions however having fewer collective centres made it easier
-      to engage in advocacy actions to
+    text: 'many discussions; however, having fewer collective centres made it easier to engage in advocacy actions to '
+    text_base: many discussions however having fewer collective centres made it easier to engage in advocacy actions to
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 12
@@ -592,10 +543,8 @@
     bbox_x2: 84.51288604736328
     double_fontsize_int: 20
   - index: 750
-    text: "In Bar\xFA, due to logistical challenges, the hygiene talks had to be conducted\
-      \ on the same day as the delivery of the "
-    text_base: in bar due to logistical challenges the hygiene talks had to be conducted
-      on the same day as the delivery of the
+    text: "In Bar\xFA, due to logistical challenges, the hygiene talks had to be conducted on the same day as the delivery of the "
+    text_base: in bar due to logistical challenges the hygiene talks had to be conducted on the same day as the delivery of the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 12
@@ -632,10 +581,8 @@
     bbox_x2: 105.6288833618164
     double_fontsize_int: 20
   - index: 752
-    text: 'The number of people initially targeted for the receipt of hygiene kits
-      was 1,401 people; however, 1,241 people received '
-    text_base: the number of people initially targeted for the receipt of hygiene
-      kits was 1 401 people however 1 241 people received
+    text: 'The number of people initially targeted for the receipt of hygiene kits was 1,401 people; however, 1,241 people received '
+    text_base: the number of people initially targeted for the receipt of hygiene kits was 1 401 people however 1 241 people received
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 12
@@ -653,10 +600,8 @@
     bbox_x2: 566.5941772460938
     double_fontsize_int: 20
   - index: 753
-    text: "hygiene kits in the end due to fluctuations in the collective centres\u2019\
-      \ population. "
-    text_base: hygiene kits in the end due to fluctuations in the collective centres
-      population
+    text: "hygiene kits in the end due to fluctuations in the collective centres\u2019 population. "
+    text_base: hygiene kits in the end due to fluctuations in the collective centres population
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 12
@@ -675,25 +620,11 @@
     double_fontsize_int: 20
   items:
   - 'There were few achievements in this section due to the following issues:'
-  - '1. When the operation was about to renovate the collective centres, the Cuban
-    migrants started to leave the country; thus, only two of the collective centres
-    were successfully renovated: the sanitary facilities, drains and laundry facilities
-    were repaired in Parrita, Puntarenas, and the drainage, laundry facilities and
-    showers were repaired in the shelter in El Roble de Puntarenas.'
-  - 2. Going from several collective centres at the beginning to managing 4 collective
-    centres shelters and later 2 CATEMs made it difficult to determine where to invest
-    funds due to the short amount of time available for actions.
-  - "3. Engaging in advocacy actions to improve the migrants\u2019 conditions. Although\
-    \ local authorities were aware of the Sphere Project standards, the conditions\
-    \ in Costa Rica did not necessarily adapt to the Humanitarian Charter, and this\
-    \ was the main challenge; this mostly concerned water and sanitation issues, which\
-    \ always involved many discussions; however, having fewer collective centres made\
-    \ it easier to engage in advocacy actions to help achieve these improvements."
-  - "Panama In Bar\xFA, due to logistical challenges, the hygiene talks had to be\
-    \ conducted on the same day as the delivery of the hygiene kits."
-  - "The number of people initially targeted for the receipt of hygiene kits was 1,401\
-    \ people; however, 1,241 people received hygiene kits in the end due to fluctuations\
-    \ in the collective centres\u2019 population."
+  - '1. When the operation was about to renovate the collective centres, the Cuban migrants started to leave the country; thus, only two of the collective centres were successfully renovated: the sanitary facilities, drains and laundry facilities were repaired in Parrita, Puntarenas, and the drainage, laundry facilities and showers were repaired in the shelter in El Roble de Puntarenas.'
+  - 2. Going from several collective centres at the beginning to managing 4 collective centres shelters and later 2 CATEMs made it difficult to determine where to invest funds due to the short amount of time available for actions.
+  - "3. Engaging in advocacy actions to improve the migrants\u2019 conditions. Although local authorities were aware of the Sphere Project standards, the conditions in Costa Rica did not necessarily adapt to the Humanitarian Charter, and this was the main challenge; this mostly concerned water and sanitation issues, which always involved many discussions; however, having fewer collective centres made it easier to engage in advocacy actions to help achieve these improvements."
+  - "Panama In Bar\xFA, due to logistical challenges, the hygiene talks had to be conducted on the same day as the delivery of the hygiene kits."
+  - "The number of people initially targeted for the receipt of hygiene kits was 1,401 people; however, 1,241 people received hygiene kits in the end due to fluctuations in the collective centres\u2019 population."
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -718,10 +649,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 828
-    text: 'The lack of training in shelter management was a major challenge, as the
-      paucity of staff with shelter management '
-    text_base: the lack of training in shelter management was a major challenge as
-      the paucity of staff with shelter management
+    text: 'The lack of training in shelter management was a major challenge, as the paucity of staff with shelter management '
+    text_base: the lack of training in shelter management was a major challenge as the paucity of staff with shelter management
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 13
@@ -739,10 +668,8 @@
     bbox_x2: 574.4677734375
     double_fontsize_int: 20
   - index: 829
-    text: 'knowledge meant that they were overwhelmed by the demand for services in
-      the centres. '
-    text_base: knowledge meant that they were overwhelmed by the demand for services
-      in the centres
+    text: 'knowledge meant that they were overwhelmed by the demand for services in the centres. '
+    text_base: knowledge meant that they were overwhelmed by the demand for services in the centres
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 13
@@ -760,10 +687,8 @@
     bbox_x2: 439.18890380859375
     double_fontsize_int: 20
   - index: 830
-    text: 'The lack of economic resources was another of the challenges faced in the
-      provision of the assistance required by the '
-    text_base: the lack of economic resources was another of the challenges faced
-      in the provision of the assistance required by the
+    text: 'The lack of economic resources was another of the challenges faced in the provision of the assistance required by the '
+    text_base: the lack of economic resources was another of the challenges faced in the provision of the assistance required by the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 13
@@ -781,10 +706,8 @@
     bbox_x2: 574.4406127929688
     double_fontsize_int: 20
   - index: 831
-    text: 'migrants; however, strengthening the efforts of everyone involved helped
-      generate contributions that improved the '
-    text_base: migrants however strengthening the efforts of everyone involved helped
-      generate contributions that improved the
+    text: 'migrants; however, strengthening the efforts of everyone involved helped generate contributions that improved the '
+    text_base: migrants however strengthening the efforts of everyone involved helped generate contributions that improved the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 13
@@ -821,13 +744,8 @@
     bbox_x2: 254.57887268066406
     double_fontsize_int: 20
   items:
-  - The lack of training in shelter management was a major challenge, as the paucity
-    of staff with shelter management knowledge meant that they were overwhelmed by
-    the demand for services in the centres.
-  - "The lack of economic resources was another of the challenges faced in the provision\
-    \ of the assistance required by the migrants; however, strengthening the efforts\
-    \ of everyone involved helped generate contributions that improved the migrants\u2019\
-    \ conditions in Costa Rica and Panama."
+  - The lack of training in shelter management was a major challenge, as the paucity of staff with shelter management knowledge meant that they were overwhelmed by the demand for services in the centres.
+  - "The lack of economic resources was another of the challenges faced in the provision of the assistance required by the migrants; however, strengthening the efforts of everyone involved helped generate contributions that improved the migrants\u2019 conditions in Costa Rica and Panama."
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -852,10 +770,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 890
-    text: 'Maintaining the established standards for the provision of the minimum
-      quantity of daily calories to the migrants and '
-    text_base: maintaining the established standards for the provision of the minimum
-      quantity of daily calories to the migrants and
+    text: 'Maintaining the established standards for the provision of the minimum quantity of daily calories to the migrants and '
+    text_base: maintaining the established standards for the provision of the minimum quantity of daily calories to the migrants and
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 14
@@ -873,10 +789,8 @@
     bbox_x2: 565.9015502929688
     double_fontsize_int: 20
   - index: 891
-    text: 'receiving support from the government in the form of donated food items
-      were challenges.  '
-    text_base: receiving support from the government in the form of donated food items
-      were challenges
+    text: 'receiving support from the government in the form of donated food items were challenges.  '
+    text_base: receiving support from the government in the form of donated food items were challenges
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 14
@@ -913,10 +827,8 @@
     bbox_x2: 96.15288543701172
     double_fontsize_int: 20
   - index: 893
-    text: 'Registering people has proven to be a challenge due to the constant rotation
-      of people in the collective centres; '
-    text_base: registering people has proven to be a challenge due to the constant
-      rotation of people in the collective centres
+    text: 'Registering people has proven to be a challenge due to the constant rotation of people in the collective centres; '
+    text_base: registering people has proven to be a challenge due to the constant rotation of people in the collective centres
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 14
@@ -934,10 +846,8 @@
     bbox_x2: 565.2671508789062
     double_fontsize_int: 20
   - index: 894
-    text: 'however, coordination has been maintained with Costa Rican immigration
-      authorities to keep track of the list of people '
-    text_base: however coordination has been maintained with costa rican immigration
-      authorities to keep track of the list of people
+    text: 'however, coordination has been maintained with Costa Rican immigration authorities to keep track of the list of people '
+    text_base: however coordination has been maintained with costa rican immigration authorities to keep track of the list of people
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 14
@@ -974,13 +884,8 @@
     bbox_x2: 235.73887634277344
     double_fontsize_int: 20
   items:
-  - Maintaining the established standards for the provision of the minimum quantity
-    of daily calories to the migrants and receiving support from the government in
-    the form of donated food items were challenges.
-  - Costa Rica Registering people has proven to be a challenge due to the constant
-    rotation of people in the collective centres; however, coordination has been maintained
-    with Costa Rican immigration authorities to keep track of the list of people who
-    have been housed and received food.
+  - Maintaining the established standards for the provision of the minimum quantity of daily calories to the migrants and receiving support from the government in the form of donated food items were challenges.
+  - Costa Rica Registering people has proven to be a challenge due to the constant rotation of people in the collective centres; however, coordination has been maintained with Costa Rican immigration authorities to keep track of the list of people who have been housed and received food.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -1005,10 +910,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1063
-    text: 'The lack of experience in working with migrants and managing migration
-      flows was the main challenge the National '
-    text_base: the lack of experience in working with migrants and managing migration
-      flows was the main challenge the national
+    text: 'The lack of experience in working with migrants and managing migration flows was the main challenge the National '
+    text_base: the lack of experience in working with migrants and managing migration flows was the main challenge the national
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 16
@@ -1026,10 +929,8 @@
     bbox_x2: 571.2503051757812
     double_fontsize_int: 20
   - index: 1064
-    text: "Societies faced. Since Costa Rica and Panama were often not the migrants\u2019\
-      \ final destination, the migration patterns were "
-    text_base: societies faced since costa rica and panama were often not the migrants
-      final destination the migration patterns were
+    text: "Societies faced. Since Costa Rica and Panama were often not the migrants\u2019 final destination, the migration patterns were "
+    text_base: societies faced since costa rica and panama were often not the migrants final destination the migration patterns were
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 16
@@ -1047,10 +948,8 @@
     bbox_x2: 571.2374267578125
     double_fontsize_int: 20
   - index: 1065
-    text: 'unusual, as unique the number of migrants in the countries could considerably
-      diminish in less than a week, or there '
-    text_base: unusual as unique the number of migrants in the countries could considerably
-      diminish in less than a week or there
+    text: 'unusual, as unique the number of migrants in the countries could considerably diminish in less than a week, or there '
+    text_base: unusual as unique the number of migrants in the countries could considerably diminish in less than a week or there
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 16
@@ -1068,10 +967,8 @@
     bbox_x2: 571.1893310546875
     double_fontsize_int: 20
   - index: 1066
-    text: 'could be a surge in the population in a single location if there was a
-      sudden influx of migrants; these rapid changes in '
-    text_base: could be a surge in the population in a single location if there was
-      a sudden influx of migrants these rapid changes in
+    text: 'could be a surge in the population in a single location if there was a sudden influx of migrants; these rapid changes in '
+    text_base: could be a surge in the population in a single location if there was a sudden influx of migrants these rapid changes in
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 16
@@ -1089,10 +986,8 @@
     bbox_x2: 571.1362915039062
     double_fontsize_int: 20
   - index: 1067
-    text: 'the population required swift deployments of personnel and provided little
-      time for planning, which proved to be logistically '
-    text_base: the population required swift deployments of personnel and provided
-      little time for planning which proved to be logistically
+    text: 'the population required swift deployments of personnel and provided little time for planning, which proved to be logistically '
+    text_base: the population required swift deployments of personnel and provided little time for planning which proved to be logistically
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 16
@@ -1129,10 +1024,8 @@
     bbox_x2: 100.59288024902344
     double_fontsize_int: 20
   - index: 1069
-    text: 'The language barrier was a very significant challenge; originally it was
-      not a problem because the migrants were mainly '
-    text_base: the language barrier was a very significant challenge originally it
-      was not a problem because the migrants were mainly
+    text: 'The language barrier was a very significant challenge; originally it was not a problem because the migrants were mainly '
+    text_base: the language barrier was a very significant challenge originally it was not a problem because the migrants were mainly
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 16
@@ -1150,10 +1043,8 @@
     bbox_x2: 571.2493896484375
     double_fontsize_int: 20
   - index: 1070
-    text: 'native Spanish speakers; nonetheless, when the trans-continental migrants
-      began arriving, it caused serious issues, as '
-    text_base: native spanish speakers nonetheless when the trans continental migrants
-      began arriving it caused serious issues as
+    text: 'native Spanish speakers; nonetheless, when the trans-continental migrants began arriving, it caused serious issues, as '
+    text_base: native spanish speakers nonetheless when the trans continental migrants began arriving it caused serious issues as
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 16
@@ -1171,10 +1062,8 @@
     bbox_x2: 571.3160400390625
     double_fontsize_int: 20
   - index: 1071
-    text: 'number of different languages spoken by the migrants swelled to five (Spanish;
-      English; French; Portuguese; and '
-    text_base: number of different languages spoken by the migrants swelled to five
-      spanish english french portuguese and
+    text: 'number of different languages spoken by the migrants swelled to five (Spanish; English; French; Portuguese; and '
+    text_base: number of different languages spoken by the migrants swelled to five spanish english french portuguese and
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 16
@@ -1211,16 +1100,5 @@
     bbox_x2: 79.952880859375
     double_fontsize_int: 20
   items:
-  - "The lack of experience in working with migrants and managing migration flows\
-    \ was the main challenge the National Societies faced. Since Costa Rica and Panama\
-    \ were often not the migrants\u2019 final destination, the migration patterns\
-    \ were unusual, as unique the number of migrants in the countries could considerably\
-    \ diminish in less than a week, or there could be a surge in the population in\
-    \ a single location if there was a sudden influx of migrants; these rapid changes\
-    \ in the population required swift deployments of personnel and provided little\
-    \ time for planning, which proved to be logistically challenging."
-  - The language barrier was a very significant challenge; originally it was not a
-    problem because the migrants were mainly native Spanish speakers; nonetheless,
-    when the trans-continental migrants began arriving, it caused serious issues,
-    as number of different languages spoken by the migrants swelled to five (Spanish;
-    English; French; Portuguese; and Creole) .
+  - "The lack of experience in working with migrants and managing migration flows was the main challenge the National Societies faced. Since Costa Rica and Panama were often not the migrants\u2019 final destination, the migration patterns were unusual, as unique the number of migrants in the countries could considerably diminish in less than a week, or there could be a surge in the population in a single location if there was a sudden influx of migrants; these rapid changes in the population required swift deployments of personnel and provided little time for planning, which proved to be logistically challenging."
+  - The language barrier was a very significant challenge; originally it was not a problem because the migrants were mainly native Spanish speakers; nonetheless, when the trans-continental migrants began arriving, it caused serious issues, as number of different languages spoken by the migrants swelled to five (Spanish; English; French; Portuguese; and Creole).

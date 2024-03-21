@@ -29,10 +29,8 @@
     bbox: (59.63999938964844, 401.896484375, 64.22120666503906, 414.09844970703125)
     double_fontsize_int: 20
   - index: 266
-    text: 'Some areas are best accessed during the dry season, this means it is necessary
-      to preposition items in the '
-    text_base: some areas are best accessed during the dry season this means it is
-      necessary to preposition items in the
+    text: 'Some areas are best accessed during the dry season, this means it is necessary to preposition items in the '
+    text_base: some areas are best accessed during the dry season this means it is necessary to preposition items in the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -70,10 +68,8 @@
     bbox: (59.63999938964844, 425.5364990234375, 64.22120666503906, 437.73846435546875)
     double_fontsize_int: 20
   - index: 269
-    text: Orientation of Branches on Appeals and DREFs on what is approved and what
-      is in the response documents
-    text_base: orientation of branches on appeals and drefs on what is approved and
-      what is in the response documents
+    text: Orientation of Branches on Appeals and DREFs on what is approved and what is in the response documents
+    text_base: orientation of branches on appeals and drefs on what is approved and what is in the response documents
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -98,10 +94,8 @@
     bbox: (59.63999938964844, 437.656494140625, 64.22120666503906, 449.85845947265625)
     double_fontsize_int: 20
   - index: 271
-    text: "Need for continued coordination with other local actors \u2013 partnering\
-      \ to share resources and avoiding "
-    text_base: need for continued coordination with other local actors partnering
-      to share resources and avoiding
+    text: "Need for continued coordination with other local actors \u2013 partnering to share resources and avoiding "
+    text_base: need for continued coordination with other local actors partnering to share resources and avoiding
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -165,10 +159,8 @@
     bbox: (59.63999938964844, 473.5364990234375, 64.22120666503906, 485.73846435546875)
     double_fontsize_int: 20
   - index: 276
-    text: 'Support from partners in capacity building, e.g., CVA training during normal
-      times, so that skills can be applied '
-    text_base: support from partners in capacity building e g cva training during
-      normal times so that skills can be applied
+    text: 'Support from partners in capacity building, e.g., CVA training during normal times, so that skills can be applied '
+    text_base: support from partners in capacity building e g cva training during normal times so that skills can be applied
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -206,10 +198,8 @@
     bbox: (59.63999938964844, 497.1764831542969, 64.22120666503906, 509.3784484863281)
     double_fontsize_int: 20
   - index: 279
-    text: 'Strong support of in-country partners to respond quickly; early and proper
-      planning will help to enhance the '
-    text_base: strong support of in country partners to respond quickly early and
-      proper planning will help to enhance the
+    text: 'Strong support of in-country partners to respond quickly; early and proper planning will help to enhance the '
+    text_base: strong support of in country partners to respond quickly early and proper planning will help to enhance the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -273,10 +263,8 @@
     bbox: (59.63999938964844, 533.0564575195312, 64.22120666503906, 545.2584228515625)
     double_fontsize_int: 20
   - index: 284
-    text: 'SSRC to consider the development of an early action protocol (EAP) on floods
-      with defined triggers to '
-    text_base: ssrc to consider the development of an early action protocol eap on
-      floods with defined triggers to
+    text: 'SSRC to consider the development of an early action protocol (EAP) on floods with defined triggers to '
+    text_base: ssrc to consider the development of an early action protocol eap on floods with defined triggers to
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -301,20 +289,14 @@
     bbox: (77.66400146484375, 543.762939453125, 284.7323913574219, 557.447998046875)
     double_fontsize_int: 20
   items:
-  - Some areas are best accessed during the dry season, this means it is necessary
-    to preposition items in the field
-  - Orientation of Branches on Appeals and DREFs on what is approved and what is in
-    the response documents
-  - "Need for continued coordination with other local actors \u2013 partnering to\
-    \ share resources and avoiding duplication"
+  - Some areas are best accessed during the dry season, this means it is necessary to preposition items in the field
+  - Orientation of Branches on Appeals and DREFs on what is approved and what is in the response documents
+  - "Need for continued coordination with other local actors \u2013 partnering to share resources and avoiding duplication"
   - Improvement in the SSRC EOC and sharing of information between partners
-  - Support from partners in capacity building, e.g., CVA training during normal times,
-    so that skills can be applied during emergencies
-  - Strong support of in-country partners to respond quickly; early and proper planning
-    will help to enhance the coordination and partnership
+  - Support from partners in capacity building, e.g., CVA training during normal times, so that skills can be applied during emergencies
+  - Strong support of in-country partners to respond quickly; early and proper planning will help to enhance the coordination and partnership
   - Need for more pre agreements with partners and suppliers
-  - SSRC to consider the development of an early action protocol (EAP) on floods with
-    defined triggers to minimise the impacts of the seasonal flooding.
+  - SSRC to consider the development of an early action protocol (EAP) on floods with defined triggers to minimise the impacts of the seasonal flooding.
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -346,10 +328,8 @@
     bbox: (59.63999938964844, 297.59649658203125, 64.22120666503906, 309.7984619140625)
     double_fontsize_int: 20
   - index: 336
-    text: At the concept stage, it is important to have all departments working on
-      their sections and getting their buy-
-    text_base: at the concept stage it is important to have all departments working
-      on their sections and getting their buy
+    text: At the concept stage, it is important to have all departments working on their sections and getting their buy-
+    text_base: at the concept stage it is important to have all departments working on their sections and getting their buy
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 5
@@ -387,10 +367,8 @@
     bbox: (59.63999938964844, 321.2364807128906, 64.22120666503906, 333.4384460449219)
     double_fontsize_int: 20
   - index: 339
-    text: 'Selection of activities (relevance) that are realistic and achievable (within
-      the capacity of the SSRC). '
-    text_base: selection of activities relevance that are realistic and achievable
-      within the capacity of the ssrc
+    text: 'Selection of activities (relevance) that are realistic and achievable (within the capacity of the SSRC). '
+    text_base: selection of activities relevance that are realistic and achievable within the capacity of the ssrc
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 5
@@ -402,10 +380,8 @@
     bbox: (77.66400146484375, 320.54296875, 522.348876953125, 334.2279968261719)
     double_fontsize_int: 20
   items:
-  - At the concept stage, it is important to have all departments working on their
-    sections and getting their buy- in.
-  - Selection of activities (relevance) that are realistic and achievable (within
-    the capacity of the SSRC).
+  - At the concept stage, it is important to have all departments working on their sections and getting their buy- in.
+  - Selection of activities (relevance) that are realistic and achievable (within the capacity of the SSRC).
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -424,10 +400,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 416
-    text: 'Water points need to be secured for future flooding and this should be
-      advocated by the government for local spatial '
-    text_base: water points need to be secured for future flooding and this should
-      be advocated by the government for local spatial
+    text: 'Water points need to be secured for future flooding and this should be advocated by the government for local spatial '
+    text_base: water points need to be secured for future flooding and this should be advocated by the government for local spatial
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 6
@@ -452,8 +426,7 @@
     bbox: (41.63999938964844, 266.5429992675781, 82.23287963867188, 280.22802734375)
     double_fontsize_int: 20
   items:
-  - Water points need to be secured for future flooding and this should be advocated
-    by the government for local spatial planning
+  - Water points need to be secured for future flooding and this should be advocated by the government for local spatial planning
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -537,10 +510,8 @@
     bbox: (77.66400146484375, 753.426513671875, 82.24520874023438, 765.6284790039062)
     double_fontsize_int: 20
   - index: 464
-    text: 'Good of female participants during the training leading great turn up of
-      female participants in the '
-    text_base: good of female participants during the training leading great turn
-      up of female participants in the
+    text: 'Good of female participants during the training leading great turn up of female participants in the '
+    text_base: good of female participants during the training leading great turn up of female participants in the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -578,10 +549,8 @@
     bbox: (77.66400146484375, 777.0664672851562, 82.24520874023438, 789.2684326171875)
     double_fontsize_int: 20
   - index: 467
-    text: The provision of sports and recreational materials led to the registration
-      of more volunteers to join SSRC.
-    text_base: the provision of sports and recreational materials led to the registration
-      of more volunteers to join ssrc
+    text: The provision of sports and recreational materials led to the registration of more volunteers to join SSRC.
+    text_base: the provision of sports and recreational materials led to the registration of more volunteers to join ssrc
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -595,10 +564,8 @@
   items:
   - Good Collaboration with community leaders
   - Networking with partners on the ground
-  - Good of female participants during the training leading great turn up of female
-    participants in the communities.
-  - The provision of sports and recreational materials led to the registration of
-    more volunteers to join SSRC.
+  - Good of female participants during the training leading great turn up of female participants in the communities.
+  - The provision of sports and recreational materials led to the registration of more volunteers to join SSRC.
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -656,10 +623,8 @@
     bbox: (59.63999938964844, 422.2965087890625, 64.22120666503906, 434.49847412109375)
     double_fontsize_int: 20
   - index: 545
-    text: Tap in indigenous knowledge as part of early warning for effective early
-      actions
-    text_base: tap in indigenous knowledge as part of early warning for effective
-      early actions
+    text: Tap in indigenous knowledge as part of early warning for effective early actions
+    text_base: tap in indigenous knowledge as part of early warning for effective early actions
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7

@@ -4,7 +4,7 @@ import re
 from functools import cached_property
 import pandas as pd
 import ea_parsing.definitions
-from ea_parsing.utils import is_text_title, strip_non_alphanumeric
+from ea_parsing.utils import is_text_title, strip_non_alphanumeric, tidy_sentence
 
 
 class Line(pd.Series):
@@ -379,102 +379,104 @@ class Lines(pd.DataFrame):
         Convert the Lines object to a list or dict of text.
         """
         lines = self.copy()
-        if len(lines) <= 1:
-            return lines['text'].tolist()
+        if len(lines) > 1:
 
-        # Get which lines start with a bullet
-        lines['bullet'] = False
-        lines.loc[
-            (lines['text'].str.strip().isin(ea_parsing.definitions.BULLETS)) &
-            (lines['span_number'] == 0),
-            'bullet'
-        ] = True
-        lines['bullet_start'] = False
-        lines.loc[
-            (lines['total_y'] == lines['total_y'].shift(1).fillna(-1)) &
-            lines['bullet'].shift(1).fillna(False),
-            'bullet_start'
-        ] = True
-        lines.loc[
-            (
-                (lines['text'].str.strip().str[0].isin(ea_parsing.definitions.BULLETS)) |
-                lines['text'].str.strip().apply(
-                    lambda txt: bool(re.match(r'^[a-zA-Z](\)|\.)\s', txt))
-                )
-            ) &
-            (lines['span_number'] == 0),
-            'bullet_start'
-        ] = True
-
-        # Get the approximate size of the first word
-        lines['end_gap'] = lines['bbox_x2'].max() - lines['bbox_x2']
-        lines['first_word_size'] = lines.apply(
-            lambda row:
-                (row['bbox_x2'] - row['bbox_x1']) *
-                len(row['text'].split(' ')[0]) / len(row['text']),
-            axis=1
-        )
-
-        # Get sentence end and sentence start
-        lines = lines.loc[~lines['bullet']]
-        lines['sentence_end'] = lines.apply(
-            lambda row:
-                row.is_sentence_end(),
-            axis=1
-        )
-        lines['sentence_start'] = lines.apply(
-            lambda row:
-                row.is_sentence_start(),
-            axis=1
-        )
-
-        # Item start: line starts with a bullet point
-        lines['starts_with_bullet'] = False
-        lines.loc[
-            lines['sentence_start'].fillna(True) & lines['bullet_start'],
-            'starts_with_bullet'
-        ] = True
-
-        # Item start: previous line is short
-        line_enders = [':']
-        lines['previous_line_ends_short'] = False
-        lines.loc[
-            lines['sentence_start'].fillna(True) & (
+            # Get which lines start with a bullet
+            lines['bullet'] = False
+            lines.loc[
+                (lines['text'].str.strip().isin(ea_parsing.definitions.BULLETS)) &
+                (lines['span_number'] == 0),
+                'bullet'
+            ] = True
+            lines['bullet_start'] = False
+            lines.loc[
+                (lines['total_y'] == lines['total_y'].shift(1).fillna(-1)) &
+                lines['bullet'].shift(1).fillna(False),
+                'bullet_start'
+            ] = True
+            lines.loc[
                 (
-                    lines['sentence_end'].shift(1).fillna(True) |
-                    lines['text'].shift(1).str.strip().str[-1].isin(line_enders)
+                    (lines['text'].str.strip().str[0].isin(ea_parsing.definitions.BULLETS)) |
+                    lines['text'].str.strip().apply(
+                        lambda txt: bool(re.match(r'^[a-zA-Z](\)|\.)\s', txt))
+                    )
                 ) &
-                ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) >= lines['size']*0.1) &
-                (lines['end_gap'].shift(1).fillna(-1) >= lines['first_word_size']*1.2)
-            ),
-            'previous_line_ends_short'
-        ] = True
+                (lines['span_number'] == 0),
+                'bullet_start'
+            ] = True
 
-        # Item start: significant vertical gap
-        line_spacing_min = (lines['total_y'] - lines['total_y'].shift(1)).min()
-        lines['vertical_gap'] = False
-        lines.loc[
-            lines['sentence_start'].fillna(True) & (
-                (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
-                ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) > lines['size'].apply(
-                    lambda size: max(size*1.5, line_spacing_min*1.5)
-                ))
-            ),
-            'vertical_gap'
-        ] = True
+            # Get the approximate size of the first word
+            lines['end_gap'] = lines['bbox_x2'].max() - lines['bbox_x2']
+            lines['first_word_size'] = lines.apply(
+                lambda row:
+                    (row['bbox_x2'] - row['bbox_x1']) *
+                    len(row['text'].split(' ')[0]) / len(row['text']),
+                axis=1
+            )
 
-        # New group is when the item starts and the previous item ends
-        lines['item_start'] = lines[[
-            'starts_with_bullet', 'previous_line_ends_short', 'vertical_gap'
-        ]].any(axis=1)
-        lines['item_no'] = lines['item_start'].cumsum()
+            # Get sentence end and sentence start
+            lines = lines.loc[~lines['bullet']]
+            lines['sentence_end'] = lines.apply(
+                lambda row:
+                    row.is_sentence_end(),
+                axis=1
+            )
+            lines['sentence_start'] = lines.apply(
+                lambda row:
+                    row.is_sentence_start(),
+                axis=1
+            )
 
-        # Group into items and combine the text
-        items = lines.groupby(['item_no'])['text'].apply(lambda x: ' '.join(x.str.strip())).str.strip().tolist()
+            # Item start: line starts with a bullet point
+            lines['starts_with_bullet'] = False
+            lines.loc[
+                lines['sentence_start'].fillna(True) & lines['bullet_start'],
+                'starts_with_bullet'
+            ] = True
 
-        # Remove items with no characters
+            # Item start: previous line is short
+            line_enders = [':']
+            lines['previous_line_ends_short'] = False
+            lines.loc[
+                lines['sentence_start'].fillna(True) & (
+                    (
+                        lines['sentence_end'].shift(1).fillna(True) |
+                        lines['text'].shift(1).str.strip().str[-1].isin(line_enders)
+                    ) &
+                    ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) >= lines['size']*0.1) &
+                    (lines['end_gap'].shift(1).fillna(-1) >= lines['first_word_size']*1.2)
+                ),
+                'previous_line_ends_short'
+            ] = True
+
+            # Item start: significant vertical gap
+            line_spacing_min = (lines['total_y'] - lines['total_y'].shift(1)).min()
+            lines['vertical_gap'] = False
+            lines.loc[
+                lines['sentence_start'].fillna(True) & (
+                    (lines['page_number'] == lines['page_number'].shift(1).fillna(0)) &
+                    ((lines['total_y'] - lines['total_y'].shift(1).fillna(-1)) > lines['size'].apply(
+                        lambda size: max(size*1.5, line_spacing_min*1.5)
+                    ))
+                ),
+                'vertical_gap'
+            ] = True
+
+            # New group is when the item starts and the previous item ends
+            lines['item_start'] = lines[[
+                'starts_with_bullet', 'previous_line_ends_short', 'vertical_gap'
+            ]].any(axis=1)
+            lines['item_no'] = lines['item_start'].cumsum()
+
+            # Group into items and combine the text
+            lines = lines.groupby(['item_no'])['text'].apply(lambda x: ' '.join(x.str.strip())).to_frame()
+
+        # Convert to list
+        items = lines['text'].dropna().astype(str).str.strip().tolist()
+
+        # Tidy sentences, and remove items with no characters
         items = [
-            txt
+            tidy_sentence(txt)
             for txt in items
             if re.search('[a-zA-Z]', txt)
         ]

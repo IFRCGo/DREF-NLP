@@ -29,10 +29,8 @@
     bbox: (59.63999938964844, 204.926513671875, 64.22120666503906, 217.12847900390625)
     double_fontsize_int: 20
   - index: 240
-    text: 'The flooding was continuous throughout the response period, making it difficult
-      to access the affected '
-    text_base: the flooding was continuous throughout the response period making it
-      difficult to access the affected
+    text: 'The flooding was continuous throughout the response period, making it difficult to access the affected '
+    text_base: the flooding was continuous throughout the response period making it difficult to access the affected
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -45,8 +43,7 @@
     double_fontsize_int: 20
   - index: 241
     text: 'location; this resulted in logistical challenges to move items to the field '
-    text_base: location this resulted in logistical challenges to move items to the
-      field
+    text_base: location this resulted in logistical challenges to move items to the field
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -72,8 +69,7 @@
     double_fontsize_int: 20
   - index: 243
     text: 'As a result of the COVID-19 outbreak, activities were significantly delayed '
-    text_base: as a result of the covid 19 outbreak activities were significantly
-      delayed
+    text_base: as a result of the covid 19 outbreak activities were significantly delayed
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -98,10 +94,8 @@
     bbox: (59.63999938964844, 240.71649169921875, 64.22120666503906, 252.91845703125)
     double_fontsize_int: 20
   - index: 245
-    text: 'Insecurity in Twic East, Chukudum, Laffon, Mayom, Tonj due to inter-communal
-      fighting  '
-    text_base: insecurity in twic east chukudum laffon mayom tonj due to inter communal
-      fighting
+    text: 'Insecurity in Twic East, Chukudum, Laffon, Mayom, Tonj due to inter-communal fighting  '
+    text_base: insecurity in twic east chukudum laffon mayom tonj due to inter communal fighting
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -178,10 +172,8 @@
     bbox: (59.63999938964844, 277.31646728515625, 64.22120666503906, 289.5184326171875)
     double_fontsize_int: 20
   - index: 251
-    text: 'Significant delays in the launching of the process with the FSP (procurement,
-      contract, etc.); mainly due to '
-    text_base: significant delays in the launching of the process with the fsp procurement
-      contract etc mainly due to
+    text: 'Significant delays in the launching of the process with the FSP (procurement, contract, etc.); mainly due to '
+    text_base: significant delays in the launching of the process with the fsp procurement contract etc mainly due to
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -219,10 +211,8 @@
     bbox: (59.63999938964844, 300.95648193359375, 64.22120666503906, 313.158447265625)
     double_fontsize_int: 20
   - index: 254
-    text: 'The introduction of a new exchange rate created challenges with the FSP
-      on agreeing on payment '
-    text_base: the introduction of a new exchange rate created challenges with the
-      fsp on agreeing on payment
+    text: 'The introduction of a new exchange rate created challenges with the FSP on agreeing on payment '
+    text_base: the introduction of a new exchange rate created challenges with the fsp on agreeing on payment
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -247,10 +237,8 @@
     bbox: (59.63999938964844, 313.07647705078125, 64.22120666503906, 325.2784423828125)
     double_fontsize_int: 20
   - index: 256
-    text: 'Response (distribution) took place significantly later than when assessments
-      were done '
-    text_base: response distribution took place significantly later than when assessments
-      were done
+    text: 'Response (distribution) took place significantly later than when assessments were done '
+    text_base: response distribution took place significantly later than when assessments were done
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -275,10 +263,8 @@
     bbox: (59.63999938964844, 325.3164978027344, 64.22120666503906, 337.5184631347656)
     double_fontsize_int: 20
   - index: 258
-    text: 'Agreeing with the community on the targeting criteria; different partners
-      in the country apply different '
-    text_base: agreeing with the community on the targeting criteria different partners
-      in the country apply different
+    text: 'Agreeing with the community on the targeting criteria; different partners in the country apply different '
+    text_base: agreeing with the community on the targeting criteria different partners in the country apply different
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -316,10 +302,8 @@
     bbox: (59.63999938964844, 348.95648193359375, 64.22120666503906, 361.158447265625)
     double_fontsize_int: 20
   - index: 261
-    text: 'There is limited time to consult with Branches, technical departments and
-      supporting partners '
-    text_base: there is limited time to consult with branches technical departments
-      and supporting partners
+    text: 'There is limited time to consult with Branches, technical departments and supporting partners '
+    text_base: there is limited time to consult with branches technical departments and supporting partners
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -344,10 +328,8 @@
     bbox: (59.63999938964844, 361.0765075683594, 64.22120666503906, 373.2784729003906)
     double_fontsize_int: 20
   - index: 263
-    text: 'Systems are too rigid that we become an inefficient emergency response
-      organization  '
-    text_base: systems are too rigid that we become an inefficient emergency response
-      organization
+    text: 'Systems are too rigid that we become an inefficient emergency response organization  '
+    text_base: systems are too rigid that we become an inefficient emergency response organization
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -359,23 +341,16 @@
     bbox: (77.66400146484375, 360.38299560546875, 463.0688781738281, 374.0680236816406)
     double_fontsize_int: 20
   items:
-  - The flooding was continuous throughout the response period, making it difficult
-    to access the affected location; this resulted in logistical challenges to move
-    items to the field
+  - The flooding was continuous throughout the response period, making it difficult to access the affected location; this resulted in logistical challenges to move items to the field
   - As a result of the COVID-19 outbreak, activities were significantly delayed
   - Insecurity in Twic East, Chukudum, Laffon, Mayom, Tonj due to inter-communal fighting
   - "Funds transfer delays \u2013 IFRC to SSRC, HQ to Branch"
   - Weak coordination between HQ and Branch, Branch and local clusters
-  - Significant delays in the launching of the process with the FSP (procurement,
-    contract, etc.); mainly due to contract issues with the existing FSP
-  - The introduction of a new exchange rate created challenges with the FSP on agreeing
-    on payment
-  - Response (distribution) took place significantly later than when assessments were
-    done
-  - Agreeing with the community on the targeting criteria; different partners in the
-    country apply different approaches
-  - There is limited time to consult with Branches, technical departments and supporting
-    partners
+  - Significant delays in the launching of the process with the FSP (procurement, contract, etc.); mainly due to contract issues with the existing FSP
+  - The introduction of a new exchange rate created challenges with the FSP on agreeing on payment
+  - Response (distribution) took place significantly later than when assessments were done
+  - Agreeing with the community on the targeting criteria; different partners in the country apply different approaches
+  - There is limited time to consult with Branches, technical departments and supporting partners
   - Systems are too rigid that we become an inefficient emergency response organization
 - title:
     text: 'Challenges '
@@ -467,10 +442,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 413
-    text: 'The continued flooding affected the speed of implementation especially
-      on water point repairs that were flooded and '
-    text_base: the continued flooding affected the speed of implementation especially
-      on water point repairs that were flooded and
+    text: 'The continued flooding affected the speed of implementation especially on water point repairs that were flooded and '
+    text_base: the continued flooding affected the speed of implementation especially on water point repairs that were flooded and
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 6
@@ -495,8 +468,7 @@
     bbox: (41.63999938964844, 226.43295288085938, 127.8288803100586, 240.1179962158203)
     double_fontsize_int: 20
   items:
-  - The continued flooding affected the speed of implementation especially on water
-    point repairs that were flooded and rendered unusable
+  - The continued flooding affected the speed of implementation especially on water point repairs that were flooded and rendered unusable
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -587,10 +559,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 540
-    text: 'The continuous flooding made it difficult to implement the DRR activities
-      timely '
-    text_base: the continuous flooding made it difficult to implement the drr activities
-      timely
+    text: 'The continuous flooding made it difficult to implement the DRR activities timely '
+    text_base: the continuous flooding made it difficult to implement the drr activities timely
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 7
@@ -602,7 +572,7 @@
     bbox: (41.63999938964844, 376.5829772949219, 391.3988952636719, 390.26800537109375)
     double_fontsize_int: 20
   items:
-  - 'The continuous flooding made it difficult to implement the DRR activities timely '
+  - The continuous flooding made it difficult to implement the DRR activities timely
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -660,10 +630,8 @@
     bbox: (62.63999938964844, 728.4664916992188, 67.22120666503906, 740.66845703125)
     double_fontsize_int: 20
   - index: 506
-    text: 'Significant delays in the launching of the process with the FSP (procurement,
-      contract, etc.) impacted '
-    text_base: significant delays in the launching of the process with the fsp procurement
-      contract etc impacted
+    text: 'Significant delays in the launching of the process with the FSP (procurement, contract, etc.) impacted '
+    text_base: significant delays in the launching of the process with the fsp procurement contract etc impacted
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
@@ -675,10 +643,8 @@
     bbox: (80.66400146484375, 727.77294921875, 557.399658203125, 741.4580078125)
     double_fontsize_int: 20
   - index: 507
-    text: negatively on the timely execution of other activities like post-distribution
-      monitoring.
-    text_base: negatively on the timely execution of other activities like post distribution
-      monitoring
+    text: negatively on the timely execution of other activities like post-distribution monitoring.
+    text_base: negatively on the timely execution of other activities like post distribution monitoring
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
@@ -691,6 +657,4 @@
     double_fontsize_int: 20
   items:
   - Weak coordination between HQ and Branch
-  - Significant delays in the launching of the process with the FSP (procurement,
-    contract, etc.) impacted negatively on the timely execution of other activities
-    like post-distribution monitoring.
+  - Significant delays in the launching of the process with the FSP (procurement, contract, etc.) impacted negatively on the timely execution of other activities like post-distribution monitoring.

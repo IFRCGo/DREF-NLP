@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 337
-    text: 'Activities implemented are with available funding coverage. Due to low
-      financial coverage, rehabilitation '
-    text_base: activities implemented are with available funding coverage due to low
-      financial coverage rehabilitation
+    text: 'Activities implemented are with available funding coverage. Due to low financial coverage, rehabilitation '
+    text_base: activities implemented are with available funding coverage due to low financial coverage rehabilitation
     style: 'arialmt, 20, #000000, #f2f2f2'
     size: 9.960000038146973
     page_number: 5
@@ -31,10 +29,8 @@
     bbox: (50.400001525878906, 433.052978515625, 537.0878295898438, 446.7380065917969)
     double_fontsize_int: 20
   - index: 338
-    text: 'activities, procurements including of First-Aid kits and Health Kits and
-      assistance to health clinics were not '
-    text_base: activities procurements including of first aid kits and health kits
-      and assistance to health clinics were not
+    text: 'activities, procurements including of First-Aid kits and Health Kits and assistance to health clinics were not '
+    text_base: activities procurements including of first aid kits and health kits and assistance to health clinics were not
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 5
@@ -59,9 +55,7 @@
     bbox: (50.400001525878906, 455.9729919433594, 163.80886840820312, 469.65802001953125)
     double_fontsize_int: 20
   items:
-  - Activities implemented are with available funding coverage. Due to low financial
-    coverage, rehabilitation activities, procurements including of First-Aid kits
-    and Health Kits and assistance to health clinics were not covered fully as planned.
+  - Activities implemented are with available funding coverage. Due to low financial coverage, rehabilitation activities, procurements including of First-Aid kits and Health Kits and assistance to health clinics were not covered fully as planned.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -80,10 +74,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 391
-    text: 'Low financial coverage has restricted the scope of SRCS intervention in
-      this sector. Due to this number of SRCS '
-    text_base: low financial coverage has restricted the scope of srcs intervention
-      in this sector due to this number of srcs
+    text: 'Low financial coverage has restricted the scope of SRCS intervention in this sector. Due to this number of SRCS '
+    text_base: low financial coverage has restricted the scope of srcs intervention in this sector due to this number of srcs
     style: 'arialmt, 20, #000000, #f2f2f2'
     size: 9.960000038146973
     page_number: 6
@@ -95,10 +87,8 @@
     bbox: (50.63999938964844, 361.6529846191406, 541.6214599609375, 375.3380126953125)
     double_fontsize_int: 20
   - index: 392
-    text: 'planned actions for rehabilitation of water yards, boreholes and hand pumps
-      was reviewed. '
-    text_base: planned actions for rehabilitation of water yards boreholes and hand
-      pumps was reviewed
+    text: 'planned actions for rehabilitation of water yards, boreholes and hand pumps was reviewed. '
+    text_base: planned actions for rehabilitation of water yards boreholes and hand pumps was reviewed
     style: 'arialmt, 20, #000000, #f2f2f2'
     size: 9.960000038146973
     page_number: 6
@@ -110,9 +100,7 @@
     bbox: (50.63999938964844, 373.1729736328125, 455.8888854980469, 386.8580017089844)
     double_fontsize_int: 20
   items:
-  - Low financial coverage has restricted the scope of SRCS intervention in this sector.
-    Due to this number of SRCS planned actions for rehabilitation of water yards,
-    boreholes and hand pumps was reviewed.
+  - Low financial coverage has restricted the scope of SRCS intervention in this sector. Due to this number of SRCS planned actions for rehabilitation of water yards, boreholes and hand pumps was reviewed.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -131,10 +119,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 439
-    text: 'Continuous nature of displacement is a challenge for beneficiary targeting.
-      Less coordination among partners '
-    text_base: continuous nature of displacement is a challenge for beneficiary targeting
-      less coordination among partners
+    text: 'Continuous nature of displacement is a challenge for beneficiary targeting. Less coordination among partners '
+    text_base: continuous nature of displacement is a challenge for beneficiary targeting less coordination among partners
     style: 'arialmt, 20, #000000, #f2f2f2'
     size: 9.960000038146973
     page_number: 7
@@ -159,8 +145,7 @@
     bbox: (56.040000915527344, 133.65298461914062, 328.4488830566406, 147.33802795410156)
     double_fontsize_int: 20
   items:
-  - Continuous nature of displacement is a challenge for beneficiary targeting. Less
-    coordination among partners responding the disaster is also another observed challenge.
+  - Continuous nature of displacement is a challenge for beneficiary targeting. Less coordination among partners responding the disaster is also another observed challenge.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -179,10 +164,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 488
-    text: 'Hence SRCS is the only local humanitarian agency in the country, expectation
-      of government and local '
-    text_base: hence srcs is the only local humanitarian agency in the country expectation
-      of government and local
+    text: 'Hence SRCS is the only local humanitarian agency in the country, expectation of government and local '
+    text_base: hence srcs is the only local humanitarian agency in the country expectation of government and local
     style: 'arialmt, 20, #000000, #f2f2f2'
     size: 9.960000038146973
     page_number: 7
@@ -194,10 +177,8 @@
     bbox: (50.63999938964844, 684.81298828125, 541.6204223632812, 698.498046875)
     double_fontsize_int: 20
   - index: 489
-    text: 'community is high. However, SRCS branch capacities do not match with these
-      expectations. There is also need '
-    text_base: community is high however srcs branch capacities do not match with
-      these expectations there is also need
+    text: 'community is high. However, SRCS branch capacities do not match with these expectations. There is also need '
+    text_base: community is high however srcs branch capacities do not match with these expectations there is also need
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
@@ -209,10 +190,8 @@
     bbox: (50.63999938964844, 696.3330078125, 541.6283569335938, 710.0180053710938)
     double_fontsize_int: 20
   - index: 490
-    text: 'to strengthen advocacy to promote and strengthen the auxiliary role of
-      SRCS.  '
-    text_base: to strengthen advocacy to promote and strengthen the auxiliary role
-      of srcs
+    text: 'to strengthen advocacy to promote and strengthen the auxiliary role of SRCS.  '
+    text_base: to strengthen advocacy to promote and strengthen the auxiliary role of srcs
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
@@ -224,10 +203,8 @@
     bbox: (50.63999938964844, 707.856689453125, 399.8475646972656, 721.541748046875)
     double_fontsize_int: 20
   - index: 491
-    text: 'Low financial coverage has restricted the scope of SRCS intervention in
-      this sector. Several intervention '
-    text_base: low financial coverage has restricted the scope of srcs intervention
-      in this sector several intervention
+    text: 'Low financial coverage has restricted the scope of SRCS intervention in this sector. Several intervention '
+    text_base: low financial coverage has restricted the scope of srcs intervention in this sector several intervention
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 7
@@ -239,10 +216,8 @@
     bbox: (50.63999938964844, 719.3729248046875, 541.63623046875, 733.0579833984375)
     double_fontsize_int: 20
   - index: 492
-    text: 'activities are covered very low and most of them are not carried out due
-      to the financial constraint. '
-    text_base: activities are covered very low and most of them are not carried out
-      due to the financial constraint
+    text: 'activities are covered very low and most of them are not carried out due to the financial constraint. '
+    text_base: activities are covered very low and most of them are not carried out due to the financial constraint
     style: 'arialmt, 20, #000000, #f2f2f2'
     size: 9.960000038146973
     page_number: 7
@@ -254,13 +229,8 @@
     bbox: (50.63999938964844, 730.77294921875, 486.368896484375, 744.4580078125)
     double_fontsize_int: 20
   items:
-  - Hence SRCS is the only local humanitarian agency in the country, expectation of
-    government and local community is high. However, SRCS branch capacities do not
-    match with these expectations. There is also need to strengthen advocacy to promote
-    and strengthen the auxiliary role of SRCS.
-  - Low financial coverage has restricted the scope of SRCS intervention in this sector.
-    Several intervention activities are covered very low and most of them are not
-    carried out due to the financial constraint.
+  - Hence SRCS is the only local humanitarian agency in the country, expectation of government and local community is high. However, SRCS branch capacities do not match with these expectations. There is also need to strengthen advocacy to promote and strengthen the auxiliary role of SRCS.
+  - Low financial coverage has restricted the scope of SRCS intervention in this sector. Several intervention activities are covered very low and most of them are not carried out due to the financial constraint.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -279,10 +249,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 540
-    text: 'Main challenge has been to secure reports from the field. PMER capacities
-      both at National and branch levels '
-    text_base: main challenge has been to secure reports from the field pmer capacities
-      both at national and branch levels
+    text: 'Main challenge has been to secure reports from the field. PMER capacities both at National and branch levels '
+    text_base: main challenge has been to secure reports from the field pmer capacities both at national and branch levels
     style: 'arialmt, 20, #000000, #f2f2f2'
     size: 9.960000038146973
     page_number: 8
@@ -307,5 +275,4 @@
     bbox: (50.63999938964844, 472.7729797363281, 155.17019653320312, 486.4580078125)
     double_fontsize_int: 20
   items:
-  - Main challenge has been to secure reports from the field. PMER capacities both
-    at National and branch levels needs to be improved.
+  - Main challenge has been to secure reports from the field. PMER capacities both at National and branch levels needs to be improved.

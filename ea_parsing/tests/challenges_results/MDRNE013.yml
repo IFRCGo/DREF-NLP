@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 495
-    text: "Due to insecurity, it wasn\u2019t easy to meet the beneficiaries in the\
-      \ same area. Once they are targeted, it is important to carry "
-    text_base: due to insecurity it wasn t easy to meet the beneficiaries in the same
-      area once they are targeted it is important to carry
+    text: "Due to insecurity, it wasn\u2019t easy to meet the beneficiaries in the same area. Once they are targeted, it is important to carry "
+    text_base: due to insecurity it wasn t easy to meet the beneficiaries in the same area once they are targeted it is important to carry
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -31,10 +29,8 @@
     bbox: (41.63999938964844, 633.9434814453125, 586.1919555664062, 645.0706787109375)
     double_fontsize_int: 20
   - index: 496
-    text: 'out the humanitarian services. If not you, it is difficult to track as
-      they move to another area to save their lives. '
-    text_base: out the humanitarian services if not you it is difficult to track as
-      they move to another area to save their lives
+    text: 'out the humanitarian services. If not you, it is difficult to track as they move to another area to save their lives. '
+    text_base: out the humanitarian services if not you it is difficult to track as they move to another area to save their lives
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -46,10 +42,7 @@
     bbox: (41.63999938964844, 645.4634399414062, 527.4072265625, 656.5906372070312)
     double_fontsize_int: 20
   items:
-  - "Due to insecurity, it wasn\u2019t easy to meet the beneficiaries in the same\
-    \ area. Once they are targeted, it is important to carry out the humanitarian\
-    \ services. If not you, it is difficult to track as they move to another area\
-    \ to save their lives."
+  - "Due to insecurity, it wasn\u2019t easy to meet the beneficiaries in the same area. Once they are targeted, it is important to carry out the humanitarian services. If not you, it is difficult to track as they move to another area to save their lives."
 - title:
     text: Challenges
     text_base: challenges
@@ -68,10 +61,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 561
-    text: 'The persistent insecurity in the affected areas have not made it easy to
-      implement activities as planned. Several times, the '
-    text_base: the persistent insecurity in the affected areas have not made it easy
-      to implement activities as planned several times the
+    text: 'The persistent insecurity in the affected areas have not made it easy to implement activities as planned. Several times, the '
+    text_base: the persistent insecurity in the affected areas have not made it easy to implement activities as planned several times the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -84,8 +75,7 @@
     double_fontsize_int: 20
   - index: 562
     text: 'volunteers have to postpone their rendez-vous because of terrorist attacks. '
-    text_base: volunteers have to postpone their rendez vous because of terrorist
-      attacks
+    text_base: volunteers have to postpone their rendez vous because of terrorist attacks
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -97,9 +87,7 @@
     bbox: (41.63999938964844, 62.86347961425781, 375.7272033691406, 73.99066925048828)
     double_fontsize_int: 20
   items:
-  - The persistent insecurity in the affected areas have not made it easy to implement
-    activities as planned. Several times, the volunteers have to postpone their rendez-vous
-    because of terrorist attacks.
+  - The persistent insecurity in the affected areas have not made it easy to implement activities as planned. Several times, the volunteers have to postpone their rendez-vous because of terrorist attacks.
 - title:
     text: Challenges
     text_base: challenges
@@ -118,10 +106,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 661
-    text: 'The strategy used by the terrorists in this area is to utilise young idle
-      people (boys and girls) with bombs to blow themselves '
-    text_base: the strategy used by the terrorists in this area is to utilise young
-      idle people boys and girls with bombs to blow themselves
+    text: 'The strategy used by the terrorists in this area is to utilise young idle people (boys and girls) with bombs to blow themselves '
+    text_base: the strategy used by the terrorists in this area is to utilise young idle people boys and girls with bombs to blow themselves
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -133,10 +119,8 @@
     bbox: (41.63999938964844, 601.9034423828125, 586.205322265625, 613.0306396484375)
     double_fontsize_int: 20
   - index: 662
-    text: 'up in public and kill several people at once. Thus, the operation focused
-      on providing job to idle young people to reduce risk '
-    text_base: up in public and kill several people at once thus the operation focused
-      on providing job to idle young people to reduce risk
+    text: 'up in public and kill several people at once. Thus, the operation focused on providing job to idle young people to reduce risk '
+    text_base: up in public and kill several people at once thus the operation focused on providing job to idle young people to reduce risk
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -161,10 +145,7 @@
     bbox: (41.63999938964844, 624.8234252929688, 148.92721557617188, 635.9506225585938)
     double_fontsize_int: 20
   items:
-  - The strategy used by the terrorists in this area is to utilise young idle people
-    (boys and girls) with bombs to blow themselves up in public and kill several people
-    at once. Thus, the operation focused on providing job to idle young people to
-    reduce risk of being user of bombs.
+  - The strategy used by the terrorists in this area is to utilise young idle people (boys and girls) with bombs to blow themselves up in public and kill several people at once. Thus, the operation focused on providing job to idle young people to reduce risk of being user of bombs.
 - title:
     text: Challenges
     text_base: challenges
@@ -183,10 +164,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 695
-    text: "Most of the refugees and internally displaced people doesn\u2019t have\
-      \ adequate shelter. The majority people are still sheltering "
-    text_base: most of the refugees and internally displaced people doesn t have adequate
-      shelter the majority people are still sheltering
+    text: "Most of the refugees and internally displaced people doesn\u2019t have adequate shelter. The majority people are still sheltering "
+    text_base: most of the refugees and internally displaced people doesn t have adequate shelter the majority people are still sheltering
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -198,10 +177,8 @@
     bbox: (41.63999938964844, 416.9834899902344, 586.2123413085938, 428.11065673828125)
     double_fontsize_int: 20
   - index: 696
-    text: 'in the open air. They are exposed to mosquitos and to bad weather condition
-      and therefore to diseases such as malaria, '
-    text_base: in the open air they are exposed to mosquitos and to bad weather condition
-      and therefore to diseases such as malaria
+    text: 'in the open air. They are exposed to mosquitos and to bad weather condition and therefore to diseases such as malaria, '
+    text_base: in the open air they are exposed to mosquitos and to bad weather condition and therefore to diseases such as malaria
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -213,10 +190,8 @@
     bbox: (41.63999938964844, 428.50347900390625, 586.1259765625, 439.6306457519531)
     double_fontsize_int: 20
   - index: 697
-    text: 'respiratory infectious diseases. Thanks to the Luxembourg Red Cross Society
-      which complement the effort of the IFRC to '
-    text_base: respiratory infectious diseases thanks to the luxembourg red cross
-      society which complement the effort of the ifrc to
+    text: 'respiratory infectious diseases. Thanks to the Luxembourg Red Cross Society which complement the effort of the IFRC to '
+    text_base: respiratory infectious diseases thanks to the luxembourg red cross society which complement the effort of the ifrc to
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -241,12 +216,7 @@
     bbox: (41.63999938964844, 451.5434875488281, 228.36721801757812, 462.670654296875)
     double_fontsize_int: 20
   items:
-  - "Most of the refugees and internally displaced people doesn\u2019t have adequate\
-    \ shelter. The majority people are still sheltering in the open air. They are\
-    \ exposed to mosquitos and to bad weather condition and therefore to diseases\
-    \ such as malaria, respiratory infectious diseases. Thanks to the Luxembourg Red\
-    \ Cross Society which complement the effort of the IFRC to support the NRCS in\
-    \ shelter construction."
+  - "Most of the refugees and internally displaced people doesn\u2019t have adequate shelter. The majority people are still sheltering in the open air. They are exposed to mosquitos and to bad weather condition and therefore to diseases such as malaria, respiratory infectious diseases. Thanks to the Luxembourg Red Cross Society which complement the effort of the IFRC to support the NRCS in shelter construction."
 - title:
     text: Challenges
     text_base: challenges
@@ -265,10 +235,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 746
-    text: 'The project has ended, but the needs are still enormous since the displaced
-      population and the refugees are still sheltering '
-    text_base: the project has ended but the needs are still enormous since the displaced
-      population and the refugees are still sheltering
+    text: 'The project has ended, but the needs are still enormous since the displaced population and the refugees are still sheltering '
+    text_base: the project has ended but the needs are still enormous since the displaced population and the refugees are still sheltering
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -280,10 +248,8 @@
     bbox: (41.63999938964844, 381.4635009765625, 586.1160888671875, 392.5906677246094)
     double_fontsize_int: 20
   - index: 747
-    text: 'in the camps. Further, the Diffa region of Niger is currently facing Hepatitis
-      E epidemic outbreak. Therefore, the national '
-    text_base: in the camps further the diffa region of niger is currently facing
-      hepatitis e epidemic outbreak therefore the national
+    text: 'in the camps. Further, the Diffa region of Niger is currently facing Hepatitis E epidemic outbreak. Therefore, the national '
+    text_base: in the camps further the diffa region of niger is currently facing hepatitis e epidemic outbreak therefore the national
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -295,10 +261,8 @@
     bbox: (41.63999938964844, 392.9834899902344, 586.2023315429688, 404.11065673828125)
     double_fontsize_int: 20
   - index: 748
-    text: 'society is still requesting the support of the IFRC to continue its support
-      to the displaced people and the refugees. '
-    text_base: society is still requesting the support of the ifrc to continue its
-      support to the displaced people and the refugees
+    text: 'society is still requesting the support of the IFRC to continue its support to the displaced people and the refugees. '
+    text_base: society is still requesting the support of the ifrc to continue its support to the displaced people and the refugees
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -310,8 +274,4 @@
     bbox: (41.63999938964844, 404.50347900390625, 545.88720703125, 415.6306457519531)
     double_fontsize_int: 20
   items:
-  - The project has ended, but the needs are still enormous since the displaced population
-    and the refugees are still sheltering in the camps. Further, the Diffa region
-    of Niger is currently facing Hepatitis E epidemic outbreak. Therefore, the national
-    society is still requesting the support of the IFRC to continue its support to
-    the displaced people and the refugees.
+  - The project has ended, but the needs are still enormous since the displaced population and the refugees are still sheltering in the camps. Further, the Diffa region of Niger is currently facing Hepatitis E epidemic outbreak. Therefore, the national society is still requesting the support of the IFRC to continue its support to the displaced people and the refugees.

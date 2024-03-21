@@ -22,10 +22,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 703
-    text: 'Staff of the Vietnam Red Cross at all levels have been flexible in operating
-      between online and face-to-face events '
-    text_base: staff of the vietnam red cross at all levels have been flexible in
-      operating between online and face to face events
+    text: 'Staff of the Vietnam Red Cross at all levels have been flexible in operating between online and face-to-face events '
+    text_base: staff of the vietnam red cross at all levels have been flexible in operating between online and face to face events
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 12
@@ -43,10 +41,8 @@
     bbox_x2: 562.1925048828125
     double_fontsize_int: 20
   - index: 704
-    text: 'to ensure the operation was completed as per schedule. In the implementation
-      process, the local Red Cross staff, '
-    text_base: to ensure the operation was completed as per schedule in the implementation
-      process the local red cross staff
+    text: 'to ensure the operation was completed as per schedule. In the implementation process, the local Red Cross staff, '
+    text_base: to ensure the operation was completed as per schedule in the implementation process the local red cross staff
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 12
@@ -64,10 +60,8 @@
     bbox_x2: 562.18359375
     double_fontsize_int: 20
   - index: 705
-    text: 'HQ staff, technical engineers, and representatives of the local authorities
-      operated through a mix of remote and '
-    text_base: hq staff technical engineers and representatives of the local authorities
-      operated through a mix of remote and
+    text: 'HQ staff, technical engineers, and representatives of the local authorities operated through a mix of remote and '
+    text_base: hq staff technical engineers and representatives of the local authorities operated through a mix of remote and
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 12
@@ -104,10 +98,8 @@
     bbox_x2: 146.97808837890625
     double_fontsize_int: 20
   - index: 707
-    text: 'More consultation with the local people and Red Cross Chapters is needed
-      before project implementation to ensure '
-    text_base: more consultation with the local people and red cross chapters is needed
-      before project implementation to ensure
+    text: 'More consultation with the local people and Red Cross Chapters is needed before project implementation to ensure '
+    text_base: more consultation with the local people and red cross chapters is needed before project implementation to ensure
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 12
@@ -125,10 +117,8 @@
     bbox_x2: 562.1638793945312
     double_fontsize_int: 20
   - index: 708
-    text: "people\u2019s needs are met properly. Some recipients of cooking kits mentioned\
-      \ that some of the items in the kit were "
-    text_base: people s needs are met properly some recipients of cooking kits mentioned
-      that some of the items in the kit were
+    text: "people\u2019s needs are met properly. Some recipients of cooking kits mentioned that some of the items in the kit were "
+    text_base: people s needs are met properly some recipients of cooking kits mentioned that some of the items in the kit were
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 12
@@ -165,10 +155,8 @@
     bbox_x2: 248.15475463867188
     double_fontsize_int: 20
   - index: 710
-    text: 'The construction and repair work should be planned in a way that it avoids
-      the storm and cyclone season considering '
-    text_base: the construction and repair work should be planned in a way that it
-      avoids the storm and cyclone season considering
+    text: 'The construction and repair work should be planned in a way that it avoids the storm and cyclone season considering '
+    text_base: the construction and repair work should be planned in a way that it avoids the storm and cyclone season considering
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 12
@@ -186,10 +174,8 @@
     bbox_x2: 562.185546875
     double_fontsize_int: 20
   - index: 711
-    text: 'the safety of the people and staff performing the monitoring work. Dry
-      seasons is ideal for repair and new '
-    text_base: the safety of the people and staff performing the monitoring work dry
-      seasons is ideal for repair and new
+    text: 'the safety of the people and staff performing the monitoring work. Dry seasons is ideal for repair and new '
+    text_base: the safety of the people and staff performing the monitoring work dry seasons is ideal for repair and new
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 12
@@ -207,10 +193,8 @@
     bbox_x2: 562.1089477539062
     double_fontsize_int: 20
   - index: 712
-    text: 'construction works. The implementation timeframe needs to be adapted to
-      the geographic location, seasonality and '
-    text_base: construction works the implementation timeframe needs to be adapted
-      to the geographic location seasonality and
+    text: 'construction works. The implementation timeframe needs to be adapted to the geographic location, seasonality and '
+    text_base: construction works the implementation timeframe needs to be adapted to the geographic location seasonality and
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 12
@@ -247,20 +231,9 @@
     bbox_x2: 238.6827850341797
     double_fontsize_int: 20
   items:
-  - Staff of the Vietnam Red Cross at all levels have been flexible in operating between
-    online and face-to-face events to ensure the operation was completed as per schedule.
-    In the implementation process, the local Red Cross staff, HQ staff, technical
-    engineers, and representatives of the local authorities operated through a mix
-    of remote and physical monitoring.
-  - "More consultation with the local people and Red Cross Chapters is needed before\
-    \ project implementation to ensure people\u2019s needs are met properly. Some\
-    \ recipients of cooking kits mentioned that some of the items in the kit were\
-    \ not appropriate for their culture and routine."
-  - The construction and repair work should be planned in a way that it avoids the
-    storm and cyclone season considering the safety of the people and staff performing
-    the monitoring work. Dry seasons is ideal for repair and new construction works.
-    The implementation timeframe needs to be adapted to the geographic location, seasonality
-    and cultural practices of the local community.
+  - Staff of the Vietnam Red Cross at all levels have been flexible in operating between online and face-to-face events to ensure the operation was completed as per schedule. In the implementation process, the local Red Cross staff, HQ staff, technical engineers, and representatives of the local authorities operated through a mix of remote and physical monitoring.
+  - "More consultation with the local people and Red Cross Chapters is needed before project implementation to ensure people\u2019s needs are met properly. Some recipients of cooking kits mentioned that some of the items in the kit were not appropriate for their culture and routine."
+  - The construction and repair work should be planned in a way that it avoids the storm and cyclone season considering the safety of the people and staff performing the monitoring work. Dry seasons is ideal for repair and new construction works. The implementation timeframe needs to be adapted to the geographic location, seasonality and cultural practices of the local community.
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -305,8 +278,7 @@
     double_fontsize_int: 20
   - index: 1026
     text: 'Coordination among VNRC, partners and Vietnamese government should be enhanced. '
-    text_base: coordination among vnrc partners and vietnamese government should be
-      enhanced
+    text_base: coordination among vnrc partners and vietnamese government should be enhanced
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 17
@@ -343,10 +315,8 @@
     bbox_x2: 57.59690475463867
     double_fontsize_int: 20
   - index: 1028
-    text: 'As the government regulations around receipt of foreign aid and organisation
-      of international conferences etc. '
-    text_base: as the government regulations around receipt of foreign aid and organisation
-      of international conferences etc
+    text: 'As the government regulations around receipt of foreign aid and organisation of international conferences etc. '
+    text_base: as the government regulations around receipt of foreign aid and organisation of international conferences etc
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 17
@@ -364,10 +334,8 @@
     bbox_x2: 562.0842895507812
     double_fontsize_int: 20
   - index: 1029
-    text: 'as mentioned above were newly introduced forcing organisations to take
-      additional time to adapt, an alternative '
-    text_base: as mentioned above were newly introduced forcing organisations to take
-      additional time to adapt an alternative
+    text: 'as mentioned above were newly introduced forcing organisations to take additional time to adapt, an alternative '
+    text_base: as mentioned above were newly introduced forcing organisations to take additional time to adapt an alternative
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 17
@@ -385,10 +353,8 @@
     bbox_x2: 562.155029296875
     double_fontsize_int: 20
   - index: 1030
-    text: 'solution to speed up the receipt of funds and its delivery to affected
-      communities should have been planned as '
-    text_base: solution to speed up the receipt of funds and its delivery to affected
-      communities should have been planned as
+    text: 'solution to speed up the receipt of funds and its delivery to affected communities should have been planned as '
+    text_base: solution to speed up the receipt of funds and its delivery to affected communities should have been planned as
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 17
@@ -406,10 +372,8 @@
     bbox_x2: 562.0970458984375
     double_fontsize_int: 20
   - index: 1031
-    text: 'quickly as possible.  VNRC should also develop a plan to ensure business
-      continuity in the transition period '
-    text_base: quickly as possible vnrc should also develop a plan to ensure business
-      continuity in the transition period
+    text: 'quickly as possible.  VNRC should also develop a plan to ensure business continuity in the transition period '
+    text_base: quickly as possible vnrc should also develop a plan to ensure business continuity in the transition period
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 17
@@ -427,10 +391,8 @@
     bbox_x2: 562.1480102539062
     double_fontsize_int: 20
   - index: 1032
-    text: 'during the process of leadership change to prevent delays in financial
-      processes and project implementation. '
-    text_base: during the process of leadership change to prevent delays in financial
-      processes and project implementation
+    text: 'during the process of leadership change to prevent delays in financial processes and project implementation. '
+    text_base: during the process of leadership change to prevent delays in financial processes and project implementation
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 17
@@ -467,10 +429,8 @@
     bbox_x2: 57.59689712524414
     double_fontsize_int: 20
   - index: 1034
-    text: "From the start of the project, age and sex desegregated data should be\
-      \ collected. In future, VNRC\u2019s M&E system "
-    text_base: from the start of the project age and sex desegregated data should
-      be collected in future vnrc s m e system
+    text: "From the start of the project, age and sex desegregated data should be collected. In future, VNRC\u2019s M&E system "
+    text_base: from the start of the project age and sex desegregated data should be collected in future vnrc s m e system
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 17
@@ -488,10 +448,8 @@
     bbox_x2: 562.1914672851562
     double_fontsize_int: 20
   - index: 1035
-    text: 'and database need to be improved for better documentation of the operations
-      achievements. '
-    text_base: and database need to be improved for better documentation of the operations
-      achievements
+    text: 'and database need to be improved for better documentation of the operations achievements. '
+    text_base: and database need to be improved for better documentation of the operations achievements
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 17
@@ -510,16 +468,8 @@
     double_fontsize_int: 20
   items:
   - Coordination among VNRC, partners and Vietnamese government should be enhanced.
-  - As the government regulations around receipt of foreign aid and organisation of
-    international conferences etc. as mentioned above were newly introduced forcing
-    organisations to take additional time to adapt, an alternative solution to speed
-    up the receipt of funds and its delivery to affected communities should have been
-    planned as quickly as possible.  VNRC should also develop a plan to ensure business
-    continuity in the transition period during the process of leadership change to
-    prevent delays in financial processes and project implementation.
-  - "From the start of the project, age and sex desegregated data should be collected.\
-    \ In future, VNRC\u2019s M&E system and database need to be improved for better\
-    \ documentation of the operations achievements."
+  - As the government regulations around receipt of foreign aid and organisation of international conferences etc. as mentioned above were newly introduced forcing organisations to take additional time to adapt, an alternative solution to speed up the receipt of funds and its delivery to affected communities should have been planned as quickly as possible. VNRC should also develop a plan to ensure business continuity in the transition period during the process of leadership change to prevent delays in financial processes and project implementation.
+  - "From the start of the project, age and sex desegregated data should be collected. In future, VNRC\u2019s M&E system and database need to be improved for better documentation of the operations achievements."
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -544,10 +494,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1116
-    text: 'The health promotion materials should be revised integrating knowledge
-      related to COVID 19 prevention techniques '
-    text_base: the health promotion materials should be revised integrating knowledge
-      related to covid 19 prevention techniques
+    text: 'The health promotion materials should be revised integrating knowledge related to COVID 19 prevention techniques '
+    text_base: the health promotion materials should be revised integrating knowledge related to covid 19 prevention techniques
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 19
@@ -565,10 +513,8 @@
     bbox_x2: 562.189453125
     double_fontsize_int: 20
   - index: 1117
-    text: 'such as wearing masks, washing hand and keeping distance to avoid the COVID
-      19 infection in the context of people '
-    text_base: such as wearing masks washing hand and keeping distance to avoid the
-      covid 19 infection in the context of people
+    text: 'such as wearing masks, washing hand and keeping distance to avoid the COVID 19 infection in the context of people '
+    text_base: such as wearing masks washing hand and keeping distance to avoid the covid 19 infection in the context of people
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 19
@@ -586,10 +532,8 @@
     bbox_x2: 562.1918334960938
     double_fontsize_int: 20
   - index: 1118
-    text: 'gathering at evacuation sites after disasters. It is also suggested to
-      have a training on psychological first aid for Red '
-    text_base: gathering at evacuation sites after disasters it is also suggested
-      to have a training on psychological first aid for red
+    text: 'gathering at evacuation sites after disasters. It is also suggested to have a training on psychological first aid for Red '
+    text_base: gathering at evacuation sites after disasters it is also suggested to have a training on psychological first aid for red
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 19
@@ -607,10 +551,8 @@
     bbox_x2: 562.193603515625
     double_fontsize_int: 20
   - index: 1119
-    text: 'Cross staff and volunteers to provide immediate support in terms of mental
-      health for the people affected.        '
-    text_base: cross staff and volunteers to provide immediate support in terms of
-      mental health for the people affected
+    text: 'Cross staff and volunteers to provide immediate support in terms of mental health for the people affected.        '
+    text_base: cross staff and volunteers to provide immediate support in terms of mental health for the people affected
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 19
@@ -628,12 +570,7 @@
     bbox_x2: 540.6002807617188
     double_fontsize_int: 20
   items:
-  - The health promotion materials should be revised integrating knowledge related
-    to COVID 19 prevention techniques such as wearing masks, washing hand and keeping
-    distance to avoid the COVID 19 infection in the context of people gathering at
-    evacuation sites after disasters. It is also suggested to have a training on psychological
-    first aid for Red Cross staff and volunteers to provide immediate support in terms
-    of mental health for the people affected.
+  - The health promotion materials should be revised integrating knowledge related to COVID 19 prevention techniques such as wearing masks, washing hand and keeping distance to avoid the COVID 19 infection in the context of people gathering at evacuation sites after disasters. It is also suggested to have a training on psychological first aid for Red Cross staff and volunteers to provide immediate support in terms of mental health for the people affected.
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -658,10 +595,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1214
-    text: 'To ensure business continuity, VNRC should have a contingency plan in place
-      to address potential issues as a '
-    text_base: to ensure business continuity vnrc should have a contingency plan in
-      place to address potential issues as a
+    text: 'To ensure business continuity, VNRC should have a contingency plan in place to address potential issues as a '
+    text_base: to ensure business continuity vnrc should have a contingency plan in place to address potential issues as a
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 22
@@ -679,10 +614,8 @@
     bbox_x2: 562.2051391601562
     double_fontsize_int: 20
   - index: 1215
-    text: 'result of staff turnover. VNRC also needs to develop a contingency plan
-      to continue operations in the face of '
-    text_base: result of staff turnover vnrc also needs to develop a contingency plan
-      to continue operations in the face of
+    text: 'result of staff turnover. VNRC also needs to develop a contingency plan to continue operations in the face of '
+    text_base: result of staff turnover vnrc also needs to develop a contingency plan to continue operations in the face of
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 22
@@ -700,10 +633,8 @@
     bbox_x2: 562.1848754882812
     double_fontsize_int: 20
   - index: 1216
-    text: 'unexpected events such as the restrictions imposed during the COVID-19
-      pandemic. '
-    text_base: unexpected events such as the restrictions imposed during the covid
-      19 pandemic
+    text: 'unexpected events such as the restrictions imposed during the COVID-19 pandemic. '
+    text_base: unexpected events such as the restrictions imposed during the covid 19 pandemic
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 22
@@ -721,10 +652,7 @@
     bbox_x2: 430.44720458984375
     double_fontsize_int: 20
   items:
-  - To ensure business continuity, VNRC should have a contingency plan in place to
-    address potential issues as a result of staff turnover. VNRC also needs to develop
-    a contingency plan to continue operations in the face of unexpected events such
-    as the restrictions imposed during the COVID-19 pandemic.
+  - To ensure business continuity, VNRC should have a contingency plan in place to address potential issues as a result of staff turnover. VNRC also needs to develop a contingency plan to continue operations in the face of unexpected events such as the restrictions imposed during the COVID-19 pandemic.
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -749,10 +677,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1267
-    text: 'It is critical to have a PGI focal point in VNRC and adequate business
-      continuity plans so that trainings can be '
-    text_base: it is critical to have a pgi focal point in vnrc and adequate business
-      continuity plans so that trainings can be
+    text: 'It is critical to have a PGI focal point in VNRC and adequate business continuity plans so that trainings can be '
+    text_base: it is critical to have a pgi focal point in vnrc and adequate business continuity plans so that trainings can be
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 23
@@ -789,10 +715,8 @@
     bbox_x2: 388.3317565917969
     double_fontsize_int: 20
   - index: 1269
-    text: 'Context of the country and capacity of the National Society should be researched
-      carefully before undertaking the '
-    text_base: context of the country and capacity of the national society should
-      be researched carefully before undertaking the
+    text: 'Context of the country and capacity of the National Society should be researched carefully before undertaking the '
+    text_base: context of the country and capacity of the national society should be researched carefully before undertaking the
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 23
@@ -810,10 +734,8 @@
     bbox_x2: 562.079345703125
     double_fontsize_int: 20
   - index: 1270
-    text: 'technical training to ensure engaging and fresh content suited to the needs
-      of participants is delivered.  '
-    text_base: technical training to ensure engaging and fresh content suited to the
-      needs of participants is delivered
+    text: 'technical training to ensure engaging and fresh content suited to the needs of participants is delivered.  '
+    text_base: technical training to ensure engaging and fresh content suited to the needs of participants is delivered
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 23
@@ -831,10 +753,8 @@
     bbox_x2: 510.4911804199219
     double_fontsize_int: 20
   - index: 1271
-    text: 'Traditional virtual applications such as Zoom and Teams seem old fashioned
-      and require further innovations. New '
-    text_base: traditional virtual applications such as zoom and teams seem old fashioned
-      and require further innovations new
+    text: 'Traditional virtual applications such as Zoom and Teams seem old fashioned and require further innovations. New '
+    text_base: traditional virtual applications such as zoom and teams seem old fashioned and require further innovations new
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 23
@@ -852,10 +772,8 @@
     bbox_x2: 562.20654296875
     double_fontsize_int: 20
   - index: 1272
-    text: "applications such as \u201CGather Town\u201D which allows participants\
-      \ to do role play with a feeling as if other people are "
-    text_base: applications such as gather town which allows participants to do role
-      play with a feeling as if other people are
+    text: "applications such as \u201CGather Town\u201D which allows participants to do role play with a feeling as if other people are "
+    text_base: applications such as gather town which allows participants to do role play with a feeling as if other people are
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 23
@@ -873,10 +791,8 @@
     bbox_x2: 562.1666259765625
     double_fontsize_int: 20
   - index: 1273
-    text: 'present in the same virtual areas will make trainings more exciting and
-      focused.  '
-    text_base: present in the same virtual areas will make trainings more exciting
-      and focused
+    text: 'present in the same virtual areas will make trainings more exciting and focused.  '
+    text_base: present in the same virtual areas will make trainings more exciting and focused
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 23
@@ -894,17 +810,9 @@
     bbox_x2: 410.52264404296875
     double_fontsize_int: 20
   items:
-  - It is critical to have a PGI focal point in VNRC and adequate business continuity
-    plans so that trainings can be conducted effectively without being dependent on
-    one staff member alone.
-  - Context of the country and capacity of the National Society should be researched
-    carefully before undertaking the technical training to ensure engaging and fresh
-    content suited to the needs of participants is delivered.
-  - "Traditional virtual applications such as Zoom and Teams seem old fashioned and\
-    \ require further innovations. New applications such as \u201CGather Town\u201D\
-    \ which allows participants to do role play with a feeling as if other people\
-    \ are present in the same virtual areas will make trainings more exciting and\
-    \ focused."
+  - It is critical to have a PGI focal point in VNRC and adequate business continuity plans so that trainings can be conducted effectively without being dependent on one staff member alone.
+  - Context of the country and capacity of the National Society should be researched carefully before undertaking the technical training to ensure engaging and fresh content suited to the needs of participants is delivered.
+  - "Traditional virtual applications such as Zoom and Teams seem old fashioned and require further innovations. New applications such as \u201CGather Town\u201D which allows participants to do role play with a feeling as if other people are present in the same virtual areas will make trainings more exciting and focused."
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -929,10 +837,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1419
-    text: 'Improved data recording system from the grass-root level will allow the
-      project to count both direct and indirect '
-    text_base: improved data recording system from the grass root level will allow
-      the project to count both direct and indirect
+    text: 'Improved data recording system from the grass-root level will allow the project to count both direct and indirect '
+    text_base: improved data recording system from the grass root level will allow the project to count both direct and indirect
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 27
@@ -951,8 +857,7 @@
     double_fontsize_int: 20
   - index: 1420
     text: people assisted which make the people assisted tracking database more accurate.
-    text_base: people assisted which make the people assisted tracking database more
-      accurate
+    text_base: people assisted which make the people assisted tracking database more accurate
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 27
@@ -970,10 +875,8 @@
     bbox_x2: 418.2856750488281
     double_fontsize_int: 20
   - index: 1421
-    text: 'Continuous progress update will provide an overall picture which helped
-      the project management board at the '
-    text_base: continuous progress update will provide an overall picture which helped
-      the project management board at the
+    text: 'Continuous progress update will provide an overall picture which helped the project management board at the '
+    text_base: continuous progress update will provide an overall picture which helped the project management board at the
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 27
@@ -991,10 +894,8 @@
     bbox_x2: 557.73779296875
     double_fontsize_int: 20
   - index: 1422
-    text: 'central level and the IFRC staff to stay aware of the situation.  Despite
-      the fact that communication between VNRC '
-    text_base: central level and the ifrc staff to stay aware of the situation despite
-      the fact that communication between vnrc
+    text: 'central level and the IFRC staff to stay aware of the situation.  Despite the fact that communication between VNRC '
+    text_base: central level and the ifrc staff to stay aware of the situation despite the fact that communication between vnrc
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 27
@@ -1012,10 +913,8 @@
     bbox_x2: 557.7286987304688
     double_fontsize_int: 20
   - index: 1424
-    text: 'and the Chapters is often positive, it should be more consistent and frequent.
-      Operational plan should be discussed '
-    text_base: and the chapters is often positive it should be more consistent and
-      frequent operational plan should be discussed
+    text: 'and the Chapters is often positive, it should be more consistent and frequent. Operational plan should be discussed '
+    text_base: and the chapters is often positive it should be more consistent and frequent operational plan should be discussed
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 27
@@ -1033,10 +932,8 @@
     bbox_x2: 557.75048828125
     double_fontsize_int: 20
   - index: 1425
-    text: 'at least two months ahead of the activities for the management team to
-      arrange their travels and finance. There '
-    text_base: at least two months ahead of the activities for the management team
-      to arrange their travels and finance there
+    text: 'at least two months ahead of the activities for the management team to arrange their travels and finance. There '
+    text_base: at least two months ahead of the activities for the management team to arrange their travels and finance there
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 27
@@ -1054,10 +951,8 @@
     bbox_x2: 557.680908203125
     double_fontsize_int: 20
   - index: 1426
-    text: should always be a backup plan in place so that the operation is not suspended
-      for a long time
-    text_base: should always be a backup plan in place so that the operation is not
-      suspended for a long time
+    text: should always be a backup plan in place so that the operation is not suspended for a long time
+    text_base: should always be a backup plan in place so that the operation is not suspended for a long time
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 27
@@ -1094,16 +989,8 @@
     bbox_x2: 481.6872253417969
     double_fontsize_int: 20
   items:
-  - Improved data recording system from the grass-root level will allow the project
-    to count both direct and indirect people assisted which make the people assisted
-    tracking database more accurate.
-  - Continuous progress update will provide an overall picture which helped the project
-    management board at the central level and the IFRC staff to stay aware of the
-    situation.  Despite the fact that communication between VNRC and the Chapters
-    is often positive, it should be more consistent and frequent. Operational plan
-    should be discussed at least two months ahead of the activities for the management
-    team to arrange their travels and finance. There should always be a backup plan
-    in place so that the operation is not suspended for a long time .
+  - Improved data recording system from the grass-root level will allow the project to count both direct and indirect people assisted which make the people assisted tracking database more accurate.
+  - Continuous progress update will provide an overall picture which helped the project management board at the central level and the IFRC staff to stay aware of the situation. Despite the fact that communication between VNRC and the Chapters is often positive, it should be more consistent and frequent. Operational plan should be discussed at least two months ahead of the activities for the management team to arrange their travels and finance. There should always be a backup plan in place so that the operation is not suspended for a long time.
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -1128,10 +1015,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1458
-    text: 'An M&E plan should be created from the beginning of the operation and kept
-      followed throughout the project '
-    text_base: an m e plan should be created from the beginning of the operation and
-      kept followed throughout the project
+    text: 'An M&E plan should be created from the beginning of the operation and kept followed throughout the project '
+    text_base: an m e plan should be created from the beginning of the operation and kept followed throughout the project
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 28
@@ -1168,10 +1053,8 @@
     bbox_x2: 126.36384582519531
     double_fontsize_int: 20
   - index: 1460
-    text: 'Photo and video documentation should focus on capturing the actions and
-      emotions of the people assisted, as well '
-    text_base: photo and video documentation should focus on capturing the actions
-      and emotions of the people assisted as well
+    text: 'Photo and video documentation should focus on capturing the actions and emotions of the people assisted, as well '
+    text_base: photo and video documentation should focus on capturing the actions and emotions of the people assisted as well
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 28
@@ -1189,10 +1072,8 @@
     bbox_x2: 557.7553100585938
     double_fontsize_int: 20
   - index: 1461
-    text: 'as of the RCRC staff involved in the operations rather than focusing on
-      ceremonial activities. '
-    text_base: as of the rcrc staff involved in the operations rather than focusing
-      on ceremonial activities
+    text: 'as of the RCRC staff involved in the operations rather than focusing on ceremonial activities. '
+    text_base: as of the rcrc staff involved in the operations rather than focusing on ceremonial activities
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 28
@@ -1210,11 +1091,8 @@
     bbox_x2: 464.27679443359375
     double_fontsize_int: 20
   items:
-  - An M&E plan should be created from the beginning of the operation and kept followed
-    throughout the project implementation.
-  - Photo and video documentation should focus on capturing the actions and emotions
-    of the people assisted, as well as of the RCRC staff involved in the operations
-    rather than focusing on ceremonial activities.
+  - An M&E plan should be created from the beginning of the operation and kept followed throughout the project implementation.
+  - Photo and video documentation should focus on capturing the actions and emotions of the people assisted, as well as of the RCRC staff involved in the operations rather than focusing on ceremonial activities.
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -1239,10 +1117,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1523
-    text: 'Close consultation with the local Red Cross staff helps select the most
-      appropriate personnel who are not in the '
-    text_base: close consultation with the local red cross staff helps select the
-      most appropriate personnel who are not in the
+    text: 'Close consultation with the local Red Cross staff helps select the most appropriate personnel who are not in the '
+    text_base: close consultation with the local red cross staff helps select the most appropriate personnel who are not in the
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 29
@@ -1260,10 +1136,8 @@
     bbox_x2: 557.7633056640625
     double_fontsize_int: 20
   - index: 1524
-    text: 'system but able to complete the tasks. Enhancing the involvement of the
-      local project management board into the '
-    text_base: system but able to complete the tasks enhancing the involvement of
-      the local project management board into the
+    text: 'system but able to complete the tasks. Enhancing the involvement of the local project management board into the '
+    text_base: system but able to complete the tasks enhancing the involvement of the local project management board into the
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 29
@@ -1281,10 +1155,8 @@
     bbox_x2: 557.6668701171875
     double_fontsize_int: 20
   - index: 1525
-    text: 'photoshoot will contribute to the success of the mission due to the knowledge
-      about the natural context, social '
-    text_base: photoshoot will contribute to the success of the mission due to the
-      knowledge about the natural context social
+    text: 'photoshoot will contribute to the success of the mission due to the knowledge about the natural context, social '
+    text_base: photoshoot will contribute to the success of the mission due to the knowledge about the natural context social
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 29
@@ -1321,10 +1193,8 @@
     bbox_x2: 270.36553955078125
     double_fontsize_int: 20
   - index: 1527
-    text: 'A good M&E system, which includes a logbook and communication records,
-      can enable Vietnam Red Cross '
-    text_base: a good m e system which includes a logbook and communication records
-      can enable vietnam red cross
+    text: 'A good M&E system, which includes a logbook and communication records, can enable Vietnam Red Cross '
+    text_base: a good m e system which includes a logbook and communication records can enable vietnam red cross
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 29
@@ -1343,8 +1213,7 @@
     double_fontsize_int: 20
   - index: 1528
     text: respond more quickly to community needs and make the reporting process easier.
-    text_base: respond more quickly to community needs and make the reporting process
-      easier
+    text_base: respond more quickly to community needs and make the reporting process easier
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 29
@@ -1362,14 +1231,8 @@
     bbox_x2: 416.5636291503906
     double_fontsize_int: 20
   items:
-  - Close consultation with the local Red Cross staff helps select the most appropriate
-    personnel who are not in the system but able to complete the tasks. Enhancing
-    the involvement of the local project management board into the photoshoot will
-    contribute to the success of the mission due to the knowledge about the natural
-    context, social economic and their community interaction skills.
-  - A good M&E system, which includes a logbook and communication records, can enable
-    Vietnam Red Cross respond more quickly to community needs and make the reporting
-    process easier.
+  - Close consultation with the local Red Cross staff helps select the most appropriate personnel who are not in the system but able to complete the tasks. Enhancing the involvement of the local project management board into the photoshoot will contribute to the success of the mission due to the knowledge about the natural context, social economic and their community interaction skills.
+  - A good M&E system, which includes a logbook and communication records, can enable Vietnam Red Cross respond more quickly to community needs and make the reporting process easier.
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -1394,10 +1257,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1553
-    text: 'To improve the quality of operational design, implementation, and monitoring,
-      it is recommended to have dedicated, '
-    text_base: to improve the quality of operational design implementation and monitoring
-      it is recommended to have dedicated
+    text: 'To improve the quality of operational design, implementation, and monitoring, it is recommended to have dedicated, '
+    text_base: to improve the quality of operational design implementation and monitoring it is recommended to have dedicated
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 29
@@ -1415,10 +1276,8 @@
     bbox_x2: 557.7312622070312
     double_fontsize_int: 20
   - index: 1554
-    text: 'skilled, and experienced human resources carry out CEA-related operations
-      in the field. Close consultation and '
-    text_base: skilled and experienced human resources carry out cea related operations
-      in the field close consultation and
+    text: 'skilled, and experienced human resources carry out CEA-related operations in the field. Close consultation and '
+    text_base: skilled and experienced human resources carry out cea related operations in the field close consultation and
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 29
@@ -1436,10 +1295,8 @@
     bbox_x2: 557.7236328125
     double_fontsize_int: 20
   - index: 1555
-    text: 'communication will aid a lot in the clarification of PDM questions in KOBO.
-      In addition, the KOBO collect '
-    text_base: communication will aid a lot in the clarification of pdm questions
-      in kobo in addition the kobo collect
+    text: 'communication will aid a lot in the clarification of PDM questions in KOBO. In addition, the KOBO collect '
+    text_base: communication will aid a lot in the clarification of pdm questions in kobo in addition the kobo collect
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 29
@@ -1457,10 +1314,8 @@
     bbox_x2: 557.7614135742188
     double_fontsize_int: 20
   - index: 1556
-    text: 'questionnaire should be consistent and specific. Minimising text and increasing
-      multiple choice questions will '
-    text_base: questionnaire should be consistent and specific minimising text and
-      increasing multiple choice questions will
+    text: 'questionnaire should be consistent and specific. Minimising text and increasing multiple choice questions will '
+    text_base: questionnaire should be consistent and specific minimising text and increasing multiple choice questions will
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 29
@@ -1497,13 +1352,7 @@
     bbox_x2: 373.015380859375
     double_fontsize_int: 20
   items:
-  - To improve the quality of operational design, implementation, and monitoring,
-    it is recommended to have dedicated, skilled, and experienced human resources
-    carry out CEA-related operations in the field. Close consultation and communication
-    will aid a lot in the clarification of PDM questions in KOBO. In addition, the
-    KOBO collect questionnaire should be consistent and specific. Minimising text
-    and increasing multiple choice questions will reduce the amount of time it takes
-    to clean and clear the data submitted.
+  - To improve the quality of operational design, implementation, and monitoring, it is recommended to have dedicated, skilled, and experienced human resources carry out CEA-related operations in the field. Close consultation and communication will aid a lot in the clarification of PDM questions in KOBO. In addition, the KOBO collect questionnaire should be consistent and specific. Minimising text and increasing multiple choice questions will reduce the amount of time it takes to clean and clear the data submitted.
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -1528,10 +1377,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1587
-    text: 'Regular technical support from the IFRC team members despite movement restrictions
-      through online means and '
-    text_base: regular technical support from the ifrc team members despite movement
-      restrictions through online means and
+    text: 'Regular technical support from the IFRC team members despite movement restrictions through online means and '
+    text_base: regular technical support from the ifrc team members despite movement restrictions through online means and
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 30
@@ -1549,10 +1396,8 @@
     bbox_x2: 557.717529296875
     double_fontsize_int: 20
   - index: 1588
-    text: physical presence where possible is essential for the successful implementation
-      of operations.
-    text_base: physical presence where possible is essential for the successful implementation
-      of operations
+    text: physical presence where possible is essential for the successful implementation of operations.
+    text_base: physical presence where possible is essential for the successful implementation of operations
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 30
@@ -1570,6 +1415,4 @@
     bbox_x2: 469.2479553222656
     double_fontsize_int: 20
   items:
-  - Regular technical support from the IFRC team members despite movement restrictions
-    through online means and physical presence where possible is essential for the
-    successful implementation of operations.
+  - Regular technical support from the IFRC team members despite movement restrictions through online means and physical presence where possible is essential for the successful implementation of operations.

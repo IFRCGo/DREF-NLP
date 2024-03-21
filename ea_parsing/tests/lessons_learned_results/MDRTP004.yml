@@ -18,10 +18,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 293
-    text: 'Nutrition awareness was conducted in 16 of the 20 affected villages reaching
-      1,356 pregnant and/or nursing women. '
-    text_base: nutrition awareness was conducted in 16 of the 20 affected villages
-      reaching 1 356 pregnant and or nursing women
+    text: 'Nutrition awareness was conducted in 16 of the 20 affected villages reaching 1,356 pregnant and/or nursing women. '
+    text_base: nutrition awareness was conducted in 16 of the 20 affected villages reaching 1 356 pregnant and or nursing women
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 4
@@ -35,10 +33,8 @@
     bbox_x2: 563.833740234375
     double_fontsize_int: 20
   - index: 294
-    text: 'Posters were developed and distributed in affected the communities. IEC
-      materials were reinforced with awareness '
-    text_base: posters were developed and distributed in affected the communities
-      iec materials were reinforced with awareness
+    text: 'Posters were developed and distributed in affected the communities. IEC materials were reinforced with awareness '
+    text_base: posters were developed and distributed in affected the communities iec materials were reinforced with awareness
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 4
@@ -52,10 +48,8 @@
     bbox_x2: 563.8049926757812
     double_fontsize_int: 20
   - index: 295
-    text: "and training sessions conducted for groups of 10 \u2013 15 women, and these\
-      \ sessions have been well received. Cooking "
-    text_base: and training sessions conducted for groups of 10 15 women and these
-      sessions have been well received cooking
+    text: "and training sessions conducted for groups of 10 \u2013 15 women, and these sessions have been well received. Cooking "
+    text_base: and training sessions conducted for groups of 10 15 women and these sessions have been well received cooking
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 4
@@ -69,10 +63,8 @@
     bbox_x2: 563.7411499023438
     double_fontsize_int: 20
   - index: 296
-    text: 'and food demonstrations were undertaken by health staff and volunteers
-      with food options and combinations, '
-    text_base: and food demonstrations were undertaken by health staff and volunteers
-      with food options and combinations
+    text: 'and food demonstrations were undertaken by health staff and volunteers with food options and combinations, '
+    text_base: and food demonstrations were undertaken by health staff and volunteers with food options and combinations
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 4
@@ -101,10 +93,8 @@
     bbox_x2: 221.33888244628903
     double_fontsize_int: 20
   - index: 298
-    text: "Post-distribution monitoring was conducted in March and April in all three\
-      \ municipalities, collecting data on women\u2019s "
-    text_base: post distribution monitoring was conducted in march and april in all
-      three municipalities collecting data on women s
+    text: "Post-distribution monitoring was conducted in March and April in all three municipalities, collecting data on women\u2019s "
+    text_base: post distribution monitoring was conducted in march and april in all three municipalities collecting data on women s
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 4
@@ -118,10 +108,8 @@
     bbox_x2: 563.6196899414062
     double_fontsize_int: 20
   - index: 299
-    text: 'knowledge of nutrition. The final evaluation identified difficulties within
-      the target group to put the nutrition advice '
-    text_base: knowledge of nutrition the final evaluation identified difficulties
-      within the target group to put the nutrition advice
+    text: 'knowledge of nutrition. The final evaluation identified difficulties within the target group to put the nutrition advice '
+    text_base: knowledge of nutrition the final evaluation identified difficulties within the target group to put the nutrition advice
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 4
@@ -135,10 +123,8 @@
     bbox_x2: 563.4039306640625
     double_fontsize_int: 20
   - index: 304
-    text: 'received into practice due to lack of availability of nutritious food (for
-      example, communities could not grow vegetables '
-    text_base: received into practice due to lack of availability of nutritious food
-      for example communities could not grow vegetables
+    text: 'received into practice due to lack of availability of nutritious food (for example, communities could not grow vegetables '
+    text_base: received into practice due to lack of availability of nutritious food for example communities could not grow vegetables
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -152,10 +138,8 @@
     bbox_x2: 563.7781372070312
     double_fontsize_int: 20
   - index: 305
-    text: 'due to lack of availability of water caused by the drought and could not
-      afford to buy vegetables when they were '
-    text_base: due to lack of availability of water caused by the drought and could
-      not afford to buy vegetables when they were
+    text: 'due to lack of availability of water caused by the drought and could not afford to buy vegetables when they were '
+    text_base: due to lack of availability of water caused by the drought and could not afford to buy vegetables when they were
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -169,10 +153,8 @@
     bbox_x2: 563.8307495117188
     double_fontsize_int: 20
   - index: 306
-    text: 'available due to insufficient funds). The chronic nature of malnutrition
-      in Timor-Leste indicates the importance of '
-    text_base: available due to insufficient funds the chronic nature of malnutrition
-      in timor leste indicates the importance of
+    text: 'available due to insufficient funds). The chronic nature of malnutrition in Timor-Leste indicates the importance of '
+    text_base: available due to insufficient funds the chronic nature of malnutrition in timor leste indicates the importance of
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -186,10 +168,8 @@
     bbox_x2: 563.854736328125
     double_fontsize_int: 20
   - index: 307
-    text: 'continuous investment in improving nutrition. Half of the villages targeted
-      under this drought operation are also part '
-    text_base: continuous investment in improving nutrition half of the villages targeted
-      under this drought operation are also part
+    text: 'continuous investment in improving nutrition. Half of the villages targeted under this drought operation are also part '
+    text_base: continuous investment in improving nutrition half of the villages targeted under this drought operation are also part
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -203,10 +183,8 @@
     bbox_x2: 563.6439208984375
     double_fontsize_int: 20
   - index: 308
-    text: 'of a longer-term nutrition programme, where CVTL is an implementing partner.
-      This allows the nutrition awareness '
-    text_base: of a longer term nutrition programme where cvtl is an implementing
-      partner this allows the nutrition awareness
+    text: 'of a longer-term nutrition programme, where CVTL is an implementing partner. This allows the nutrition awareness '
+    text_base: of a longer term nutrition programme where cvtl is an implementing partner this allows the nutrition awareness
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -221,8 +199,7 @@
     double_fontsize_int: 20
   - index: 309
     text: 'raising to be continued, based on demand and positive feedback from communities.  '
-    text_base: raising to be continued based on demand and positive feedback from
-      communities
+    text_base: raising to be continued based on demand and positive feedback from communities
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -266,25 +243,8 @@
     bbox_x2: 553.8820190429688
     double_fontsize_int: 18
   items:
-  - "Nutrition awareness was conducted in 16 of the 20 affected villages reaching\
-    \ 1,356 pregnant and/or nursing women. Posters were developed and distributed\
-    \ in affected the communities. IEC materials were reinforced with awareness and\
-    \ training sessions conducted for groups of 10 \u2013 15 women, and these sessions\
-    \ have been well received. Cooking and food demonstrations were undertaken by\
-    \ health staff and volunteers with food options and combinations, promoting positive\
-    \ nutrition outcomes."
-  - "Post-distribution monitoring was conducted in March and April in all three municipalities,\
-    \ collecting data on women\u2019s knowledge of nutrition. The final evaluation\
-    \ identified difficulties within the target group to put the nutrition advice\
-    \ received into practice due to lack of availability of nutritious food (for example,\
-    \ communities could not grow vegetables due to lack of availability of water caused\
-    \ by the drought and could not afford to buy vegetables when they were available\
-    \ due to insufficient funds). The chronic nature of malnutrition in Timor-Leste\
-    \ indicates the importance of continuous investment in improving nutrition. Half\
-    \ of the villages targeted under this drought operation are also part of a longer-term\
-    \ nutrition programme, where CVTL is an implementing partner. This allows the\
-    \ nutrition awareness raising to be continued, based on demand and positive feedback\
-    \ from communities."
+  - "Nutrition awareness was conducted in 16 of the 20 affected villages reaching 1,356 pregnant and/or nursing women. Posters were developed and distributed in affected the communities. IEC materials were reinforced with awareness and training sessions conducted for groups of 10 \u2013 15 women, and these sessions have been well received. Cooking and food demonstrations were undertaken by health staff and volunteers with food options and combinations, promoting positive nutrition outcomes."
+  - "Post-distribution monitoring was conducted in March and April in all three municipalities, collecting data on women\u2019s knowledge of nutrition. The final evaluation identified difficulties within the target group to put the nutrition advice received into practice due to lack of availability of nutritious food (for example, communities could not grow vegetables due to lack of availability of water caused by the drought and could not afford to buy vegetables when they were available due to insufficient funds). The chronic nature of malnutrition in Timor-Leste indicates the importance of continuous investment in improving nutrition. Half of the villages targeted under this drought operation are also part of a longer-term nutrition programme, where CVTL is an implementing partner. This allows the nutrition awareness raising to be continued, based on demand and positive feedback from communities."
   - Outputs % of achievement
 - title:
     text: Achievements, challenges and lessons learned
@@ -306,10 +266,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 339
-    text: 'Following the assessment, the drought plan of action was revised on 15
-      September 2016 to increase the number of '
-    text_base: following the assessment the drought plan of action was revised on
-      15 september 2016 to increase the number of
+    text: 'Following the assessment, the drought plan of action was revised on 15 September 2016 to increase the number of '
+    text_base: following the assessment the drought plan of action was revised on 15 september 2016 to increase the number of
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -323,10 +281,8 @@
     bbox_x2: 563.7600708007812
     double_fontsize_int: 20
   - index: 340
-    text: 'target households from 4,000 to 5,500. Of this, 2,700 households were identified
-      as requiring support to enhance their '
-    text_base: target households from 4 000 to 5 500 of this 2 700 households were
-      identified as requiring support to enhance their
+    text: 'target households from 4,000 to 5,500. Of this, 2,700 households were identified as requiring support to enhance their '
+    text_base: target households from 4 000 to 5 500 of this 2 700 households were identified as requiring support to enhance their
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -340,10 +296,8 @@
     bbox_x2: 563.2279052734375
     double_fontsize_int: 20
   - index: 341
-    text: 'food security and strengthen their livelihoods. The revision also combined
-      the existing health and nutrition activities '
-    text_base: food security and strengthen their livelihoods the revision also combined
-      the existing health and nutrition activities
+    text: 'food security and strengthen their livelihoods. The revision also combined the existing health and nutrition activities '
+    text_base: food security and strengthen their livelihoods the revision also combined the existing health and nutrition activities
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -357,10 +311,8 @@
     bbox_x2: 563.8274536132812
     double_fontsize_int: 20
   - index: 342
-    text: 'to be under a single outcome. This revised strategy was designed specifically
-      to support and prepare communities '
-    text_base: to be under a single outcome this revised strategy was designed specifically
-      to support and prepare communities
+    text: 'to be under a single outcome. This revised strategy was designed specifically to support and prepare communities '
+    text_base: to be under a single outcome this revised strategy was designed specifically to support and prepare communities
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -389,10 +341,8 @@
     bbox_x2: 343.03887939453125
     double_fontsize_int: 20
   - index: 344
-    text: 'In order to support affected communities under this revision, a tender
-      for food purchase was issued, however, the '
-    text_base: in order to support affected communities under this revision a tender
-      for food purchase was issued however the
+    text: 'In order to support affected communities under this revision, a tender for food purchase was issued, however, the '
+    text_base: in order to support affected communities under this revision a tender for food purchase was issued however the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -406,10 +356,8 @@
     bbox_x2: 563.8284301757812
     double_fontsize_int: 20
   - index: 345
-    text: 'tender did not receive an adequate response and as a result, CVTL elected
-      to broaden its planned cash transfer '
-    text_base: tender did not receive an adequate response and as a result cvtl elected
-      to broaden its planned cash transfer
+    text: 'tender did not receive an adequate response and as a result, CVTL elected to broaden its planned cash transfer '
+    text_base: tender did not receive an adequate response and as a result cvtl elected to broaden its planned cash transfer
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -423,10 +371,8 @@
     bbox_x2: 563.27783203125
     double_fontsize_int: 20
   - index: 346
-    text: 'programme (CTP) to include money for local food procurement. This decision
-      was backed by findings from data '
-    text_base: programme ctp to include money for local food procurement this decision
-      was backed by findings from data
+    text: 'programme (CTP) to include money for local food procurement. This decision was backed by findings from data '
+    text_base: programme ctp to include money for local food procurement this decision was backed by findings from data
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -440,10 +386,8 @@
     bbox_x2: 563.6441650390625
     double_fontsize_int: 20
   - index: 347
-    text: 'collected during a seasonal mapping, livelihoods assessment and community
-      consultation. An updated Plan of Action '
-    text_base: collected during a seasonal mapping livelihoods assessment and community
-      consultation an updated plan of action
+    text: 'collected during a seasonal mapping, livelihoods assessment and community consultation. An updated Plan of Action '
+    text_base: collected during a seasonal mapping livelihoods assessment and community consultation an updated plan of action
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -457,10 +401,8 @@
     bbox_x2: 563.833740234375
     double_fontsize_int: 20
   - index: 348
-    text: 'was developed initially for food, seed and conditional cash transfer activities,
-      and was later replaced by a broader '
-    text_base: was developed initially for food seed and conditional cash transfer
-      activities and was later replaced by a broader
+    text: 'was developed initially for food, seed and conditional cash transfer activities, and was later replaced by a broader '
+    text_base: was developed initially for food seed and conditional cash transfer activities and was later replaced by a broader
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -474,10 +416,8 @@
     bbox_x2: 563.8430786132812
     double_fontsize_int: 20
   - index: 349
-    text: 'unconditional cash transfer programme. After a revalidation of household
-      data, 2,543 heads of households (1,678 '
-    text_base: unconditional cash transfer programme after a revalidation of household
-      data 2 543 heads of households 1 678
+    text: 'unconditional cash transfer programme. After a revalidation of household data, 2,543 heads of households (1,678 '
+    text_base: unconditional cash transfer programme after a revalidation of household data 2 543 heads of households 1 678
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -491,10 +431,8 @@
     bbox_x2: 563.8718872070312
     double_fontsize_int: 20
   - index: 350
-    text: 'males and 865 females) received unconditional cash of USD 50 between November
-      and December 2016. The '
-    text_base: males and 865 females received unconditional cash of usd 50 between
-      november and december 2016 the
+    text: 'males and 865 females) received unconditional cash of USD 50 between November and December 2016. The '
+    text_base: males and 865 females received unconditional cash of usd 50 between november and december 2016 the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -508,10 +446,8 @@
     bbox_x2: 563.8600463867188
     double_fontsize_int: 20
   - index: 351
-    text: 'development of CTP procedures, training and proposed sensitization of community
-      committees has also been '
-    text_base: development of ctp procedures training and proposed sensitization of
-      community committees has also been
+    text: 'development of CTP procedures, training and proposed sensitization of community committees has also been '
+    text_base: development of ctp procedures training and proposed sensitization of community committees has also been
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -525,10 +461,8 @@
     bbox_x2: 563.208251953125
     double_fontsize_int: 20
   - index: 352
-    text: 'undertaken with the support of a peer advisor from the Philippines Red
-      Cross. '
-    text_base: undertaken with the support of a peer advisor from the philippines
-      red cross
+    text: 'undertaken with the support of a peer advisor from the Philippines Red Cross. '
+    text_base: undertaken with the support of a peer advisor from the philippines red cross
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -872,10 +806,8 @@
     bbox_x2: 563.590087890625
     double_fontsize_int: 20
   - index: 374
-    text: 'consuming beneficiary selection process, calculation of the amount of assistance
-      and handling and recording the '
-    text_base: consuming beneficiary selection process calculation of the amount of
-      assistance and handling and recording the
+    text: 'consuming beneficiary selection process, calculation of the amount of assistance and handling and recording the '
+    text_base: consuming beneficiary selection process calculation of the amount of assistance and handling and recording the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -889,10 +821,8 @@
     bbox_x2: 563.8541259765625
     double_fontsize_int: 20
   - index: 375
-    text: 'complaints. As per the final evaluation, the CVTL staff interviewed had
-      a positive impression of cash programming '
-    text_base: complaints as per the final evaluation the cvtl staff interviewed had
-      a positive impression of cash programming
+    text: 'complaints. As per the final evaluation, the CVTL staff interviewed had a positive impression of cash programming '
+    text_base: complaints as per the final evaluation the cvtl staff interviewed had a positive impression of cash programming
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -906,10 +836,8 @@
     bbox_x2: 563.46044921875
     double_fontsize_int: 20
   - index: 376
-    text: "originating from \u201Clearning by doing\u201D which dispelled misconceptions.\
-      \ Staff also benefited from IFRC technical support "
-    text_base: originating from learning by doing which dispelled misconceptions staff
-      also benefited from ifrc technical support
+    text: "originating from \u201Clearning by doing\u201D which dispelled misconceptions. Staff also benefited from IFRC technical support "
+    text_base: originating from learning by doing which dispelled misconceptions staff also benefited from ifrc technical support
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -923,10 +851,8 @@
     bbox_x2: 563.6343383789062
     double_fontsize_int: 20
   - index: 377
-    text: 'not only in being trained in CTP prior to implementation but through assistance
-      in drafting CTP SOPs after the '
-    text_base: not only in being trained in ctp prior to implementation but through
-      assistance in drafting ctp sops after the
+    text: 'not only in being trained in CTP prior to implementation but through assistance in drafting CTP SOPs after the '
+    text_base: not only in being trained in ctp prior to implementation but through assistance in drafting ctp sops after the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 5
@@ -955,43 +881,10 @@
     bbox_x2: 104.54888153076172
     double_fontsize_int: 20
   items:
-  - Following the assessment, the drought plan of action was revised on 15 September
-    2016 to increase the number of target households from 4,000 to 5,500. Of this,
-    2,700 households were identified as requiring support to enhance their food security
-    and strengthen their livelihoods. The revision also combined the existing health
-    and nutrition activities to be under a single outcome. This revised strategy was
-    designed specifically to support and prepare communities for the lean season due
-    in Timor-Leste, from November to March.
-  - In order to support affected communities under this revision, a tender for food
-    purchase was issued, however, the tender did not receive an adequate response
-    and as a result, CVTL elected to broaden its planned cash transfer programme (CTP)
-    to include money for local food procurement. This decision was backed by findings
-    from data collected during a seasonal mapping, livelihoods assessment and community
-    consultation. An updated Plan of Action was developed initially for food, seed
-    and conditional cash transfer activities, and was later replaced by a broader
-    unconditional cash transfer programme. After a revalidation of household data,
-    2,543 heads of households (1,678 males and 865 females) received unconditional
-    cash of USD 50 between November and December 2016. The development of CTP procedures,
-    training and proposed sensitization of community committees has also been undertaken
-    with the support of a peer advisor from the Philippines Red Cross.
-  - Post-distribution monitoring (PDM) survey was designed to measure the beneficiary
-    satisfaction of non-food items and cash grants distributed during the operation
-    and the current recovery status of assisted households were conducted between
-    March and May in one affected community in each of the three municipalities.
-  - "The unconditional cash grant was very well received, with 76% of the PDM respondents\
-    \ and all focus group participants targeted in the final evaluation said they\
-    \ spent the cash on food, which was the intended result. Cash beneficiaries also\
-    \ reported a high level of satisfaction with cash transfer as a modality of assistance\
-    \ (82% of men and 71% of women) compared with the distribution of non-food Items.\
-    \ As this was the first time CVTL implemented a Cash Transfer Programme, they\
-    \ also CVTL staff registers a community member for experienced challenges related\
-    \ to the complex and time consuming beneficiary selection process, calculation\
-    \ of the amount of assistance and handling and recording the complaints. As per\
-    \ the final evaluation, the CVTL staff interviewed had a positive impression of\
-    \ cash programming originating from \u201Clearning by doing\u201D which dispelled\
-    \ misconceptions. Staff also benefited from IFRC technical support not only in\
-    \ being trained in CTP prior to implementation but through assistance in drafting\
-    \ CTP SOPs after the intervention."
+  - Following the assessment, the drought plan of action was revised on 15 September 2016 to increase the number of target households from 4,000 to 5,500. Of this, 2,700 households were identified as requiring support to enhance their food security and strengthen their livelihoods. The revision also combined the existing health and nutrition activities to be under a single outcome. This revised strategy was designed specifically to support and prepare communities for the lean season due in Timor-Leste, from November to March.
+  - In order to support affected communities under this revision, a tender for food purchase was issued, however, the tender did not receive an adequate response and as a result, CVTL elected to broaden its planned cash transfer programme (CTP) to include money for local food procurement. This decision was backed by findings from data collected during a seasonal mapping, livelihoods assessment and community consultation. An updated Plan of Action was developed initially for food, seed and conditional cash transfer activities, and was later replaced by a broader unconditional cash transfer programme. After a revalidation of household data, 2,543 heads of households (1,678 males and 865 females) received unconditional cash of USD 50 between November and December 2016. The development of CTP procedures, training and proposed sensitization of community committees has also been undertaken with the support of a peer advisor from the Philippines Red Cross.
+  - Post-distribution monitoring (PDM) survey was designed to measure the beneficiary satisfaction of non-food items and cash grants distributed during the operation and the current recovery status of assisted households were conducted between March and May in one affected community in each of the three municipalities.
+  - "The unconditional cash grant was very well received, with 76% of the PDM respondents and all focus group participants targeted in the final evaluation said they spent the cash on food, which was the intended result. Cash beneficiaries also reported a high level of satisfaction with cash transfer as a modality of assistance (82% of men and 71% of women) compared with the distribution of non-food Items. As this was the first time CVTL implemented a Cash Transfer Programme, they also CVTL staff registers a community member for experienced challenges related to the complex and time consuming beneficiary selection process, calculation of the amount of assistance and handling and recording the complaints. As per the final evaluation, the CVTL staff interviewed had a positive impression of cash programming originating from \u201Clearning by doing\u201D which dispelled misconceptions. Staff also benefited from IFRC technical support not only in being trained in CTP prior to implementation but through assistance in drafting CTP SOPs after the intervention."
 - title:
     text: Achievements, challenges and lessons learned
     text_base: achievements challenges and lessons learned
@@ -1372,19 +1265,8 @@
     bbox_x2: 553.5220336914062
     double_fontsize_int: 18
   items:
-  - 'As reported in  Operations Update #3 , 155,000 litres of drinking water was provided
-    to five target communities in Viqueque and Bacau Districts. The water was distributed
-    by tanker to bladders positioned in each community where community members managed
-    the distribution accompanied by safe water and hygiene messaging provided by trained
-    branch volunteers. Water distribution began in June and ceased in September. In
-    addition, CVTL distributed 4,000 units of 10 litre water containers supplied by
-    IFRC and 1,776 water containers from CVTL stocks in eight communities in Viqueque,
-    Bacau and Lautem districts in June, with each family receiving 2 jerry cans each.'
-  - "Eight rainwater harvesting systems and tanks were installed in schools in Makadiki,\
-    \ Samalari, Tequinomata, Parlimento and Illilai Village. Two additional water\
-    \ catchment systems were installed in October-November in a community center and\
-    \ women\u2019s collective building. Water catchment and tank installed in school\
-    \ in Parlimento"
+  - 'As reported in Operations Update #3 , 155,000 litres of drinking water was provided to five target communities in Viqueque and Bacau Districts. The water was distributed by tanker to bladders positioned in each community where community members managed the distribution accompanied by safe water and hygiene messaging provided by trained branch volunteers. Water distribution began in June and ceased in September. In addition, CVTL distributed 4,000 units of 10 litre water containers supplied by IFRC and 1,776 water containers from CVTL stocks in eight communities in Viqueque, Bacau and Lautem districts in June, with each family receiving 2 jerry cans each.'
+  - "Eight rainwater harvesting systems and tanks were installed in schools in Makadiki, Samalari, Tequinomata, Parlimento and Illilai Village. Two additional water catchment systems were installed in October-November in a community center and women\u2019s collective building. Water catchment and tank installed in school in Parlimento"
   - Outputs % of achievement
 - title:
     text: Achievements, challenges and lessons learned
@@ -1661,10 +1543,8 @@
     bbox_x2: 250.96392822265625
     double_fontsize_int: 18
   - index: 539
-    text: 'Monitoring of hygiene practices in target communities was planned to be
-      carried out via post-distribution monitoring '
-    text_base: monitoring of hygiene practices in target communities was planned to
-      be carried out via post distribution monitoring
+    text: 'Monitoring of hygiene practices in target communities was planned to be carried out via post-distribution monitoring '
+    text_base: monitoring of hygiene practices in target communities was planned to be carried out via post distribution monitoring
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 7
@@ -1678,10 +1558,8 @@
     bbox_x2: 563.591552734375
     double_fontsize_int: 20
   - index: 540
-    text: 'visits. While the monitoring visits were undertaken, the visits were not
-      recorded sufficiently to verify how well the '
-    text_base: visits while the monitoring visits were undertaken the visits were
-      not recorded sufficiently to verify how well the
+    text: 'visits. While the monitoring visits were undertaken, the visits were not recorded sufficiently to verify how well the '
+    text_base: visits while the monitoring visits were undertaken the visits were not recorded sufficiently to verify how well the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 7
@@ -1695,10 +1573,8 @@
     bbox_x2: 563.5578002929688
     double_fontsize_int: 20
   - index: 541
-    text: 'practices have been adopted to all targeted communities. CVTL are determined
-      to improve monitoring tools and '
-    text_base: practices have been adopted to all targeted communities cvtl are determined
-      to improve monitoring tools and
+    text: 'practices have been adopted to all targeted communities. CVTL are determined to improve monitoring tools and '
+    text_base: practices have been adopted to all targeted communities cvtl are determined to improve monitoring tools and
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 7
@@ -1727,23 +1603,9 @@
     bbox_x2: 182.6688690185547
     double_fontsize_int: 20
   items:
-  - Although some delays were caused by accessibility, such as in certain parts of
-    Viqueque district where communities are geographically dispersed and are only
-    accessible by foot, most of the activities was successfully completed. The distribution
-    of hygiene kits reached in total 4,546 households.
-  - Some 2,612 people affected by drought in eight communities in Viqueque, 1,777
-    people in four communities in Bacau and 2,645 people in one community in Lautem
-    (7,034 people in total) have received hygiene promotion and awareness messaging
-    via door to door visits and distribution of posters. This messaging includes safe
-    water management and handwashing as well as prevention of malaria and dengue.
-    It was originally planned that this education would be accompanied by the distribution
-    of hygiene kits to families. However, this was delayed due to procurement and
-    finally took place in November. CVTL volunteers conduct hygiene promotion
-  - Monitoring of hygiene practices in target communities was planned to be carried
-    out via post-distribution monitoring visits. While the monitoring visits were
-    undertaken, the visits were not recorded sufficiently to verify how well the practices
-    have been adopted to all targeted communities. CVTL are determined to improve
-    monitoring tools and process for future operations.
+  - Although some delays were caused by accessibility, such as in certain parts of Viqueque district where communities are geographically dispersed and are only accessible by foot, most of the activities was successfully completed. The distribution of hygiene kits reached in total 4,546 households.
+  - Some 2,612 people affected by drought in eight communities in Viqueque, 1,777 people in four communities in Bacau and 2,645 people in one community in Lautem (7,034 people in total) have received hygiene promotion and awareness messaging via door to door visits and distribution of posters. This messaging includes safe water management and handwashing as well as prevention of malaria and dengue. It was originally planned that this education would be accompanied by the distribution of hygiene kits to families. However, this was delayed due to procurement and finally took place in November. CVTL volunteers conduct hygiene promotion
+  - Monitoring of hygiene practices in target communities was planned to be carried out via post-distribution monitoring visits. While the monitoring visits were undertaken, the visits were not recorded sufficiently to verify how well the practices have been adopted to all targeted communities. CVTL are determined to improve monitoring tools and process for future operations.
 - title:
     text: 'Achievements, challenges and lessons learned '
     text_base: achievements challenges and lessons learned
@@ -1764,10 +1626,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 620
-    text: 'The extension of operation timeframe was largely sought due to delays in
-      implementing some activities under this '
-    text_base: the extension of operation timeframe was largely sought due to delays
-      in implementing some activities under this
+    text: 'The extension of operation timeframe was largely sought due to delays in implementing some activities under this '
+    text_base: the extension of operation timeframe was largely sought due to delays in implementing some activities under this
     style: 'arialmt, 20, #000000, #e0e0e0'
     size: 9.960000038146973
     page_number: 8
@@ -1796,10 +1656,8 @@
     bbox_x2: 360.5588989257813
     double_fontsize_int: 20
   - index: 622
-    text: 'During the operation, eight full time staff were recruited by CVTL to support
-      the branch and headquarters staff to '
-    text_base: during the operation eight full time staff were recruited by cvtl to
-      support the branch and headquarters staff to
+    text: 'During the operation, eight full time staff were recruited by CVTL to support the branch and headquarters staff to '
+    text_base: during the operation eight full time staff were recruited by cvtl to support the branch and headquarters staff to
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -1813,10 +1671,8 @@
     bbox_x2: 563.6288452148438
     double_fontsize_int: 20
   - index: 623
-    text: 'implement the drought plan of action. Five staff members were recruited
-      at the national level and three at branch level '
-    text_base: implement the drought plan of action five staff members were recruited
-      at the national level and three at branch level
+    text: 'implement the drought plan of action. Five staff members were recruited at the national level and three at branch level '
+    text_base: implement the drought plan of action five staff members were recruited at the national level and three at branch level
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -1845,10 +1701,8 @@
     bbox_x2: 292.2588806152344
     double_fontsize_int: 20
   - index: 625
-    text: 'CVTL convened regular drought task force meetings, where a representative
-      from each of CVTL departments came '
-    text_base: cvtl convened regular drought task force meetings where a representative
-      from each of cvtl departments came
+    text: 'CVTL convened regular drought task force meetings, where a representative from each of CVTL departments came '
+    text_base: cvtl convened regular drought task force meetings where a representative from each of cvtl departments came
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -1862,10 +1716,8 @@
     bbox_x2: 563.5889282226562
     double_fontsize_int: 20
   - index: 626
-    text: 'together to strategize and plan this drought response. The final evaluation
-      highlighted the establishment of the task '
-    text_base: together to strategize and plan this drought response the final evaluation
-      highlighted the establishment of the task
+    text: 'together to strategize and plan this drought response. The final evaluation highlighted the establishment of the task '
+    text_base: together to strategize and plan this drought response the final evaluation highlighted the establishment of the task
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -1879,10 +1731,8 @@
     bbox_x2: 563.5606079101562
     double_fontsize_int: 20
   - index: 627
-    text: 'force as an important initiative enabling senior management to take a more
-      direct role in ensuring tasks and functions '
-    text_base: force as an important initiative enabling senior management to take
-      a more direct role in ensuring tasks and functions
+    text: 'force as an important initiative enabling senior management to take a more direct role in ensuring tasks and functions '
+    text_base: force as an important initiative enabling senior management to take a more direct role in ensuring tasks and functions
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -1896,10 +1746,8 @@
     bbox_x2: 563.2268676757812
     double_fontsize_int: 20
   - index: 628
-    text: 'were resourced adequately to ease the workload of the Disaster Management
-      Unit. This task force structure is now '
-    text_base: were resourced adequately to ease the workload of the disaster management
-      unit this task force structure is now
+    text: 'were resourced adequately to ease the workload of the Disaster Management Unit. This task force structure is now '
+    text_base: were resourced adequately to ease the workload of the disaster management unit this task force structure is now
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -1913,10 +1761,8 @@
     bbox_x2: 563.6288452148438
     double_fontsize_int: 20
   - index: 629
-    text: 'formalized into CVTL Standard Operating Procedures for emergency response,
-      that were revised and finalized after '
-    text_base: formalized into cvtl standard operating procedures for emergency response
-      that were revised and finalized after
+    text: 'formalized into CVTL Standard Operating Procedures for emergency response, that were revised and finalized after '
+    text_base: formalized into cvtl standard operating procedures for emergency response that were revised and finalized after
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -1930,10 +1776,8 @@
     bbox_x2: 563.5875244140625
     double_fontsize_int: 20
   - index: 630
-    text: 'the final evaluation and based on the drought response, with the support
-      of the DRM Delegate from CCST Jakarta.  '
-    text_base: the final evaluation and based on the drought response with the support
-      of the drm delegate from ccst jakarta
+    text: 'the final evaluation and based on the drought response, with the support of the DRM Delegate from CCST Jakarta.  '
+    text_base: the final evaluation and based on the drought response with the support of the drm delegate from ccst jakarta
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -1947,10 +1791,8 @@
     bbox_x2: 560.2688598632812
     double_fontsize_int: 20
   - index: 631
-    text: 'Non-food relief items including kitchen sets, blankets, water containers,
-      hygiene kits and tarpaulins for 400 families in '
-    text_base: non food relief items including kitchen sets blankets water containers
-      hygiene kits and tarpaulins for 400 families in
+    text: 'Non-food relief items including kitchen sets, blankets, water containers, hygiene kits and tarpaulins for 400 families in '
+    text_base: non food relief items including kitchen sets blankets water containers hygiene kits and tarpaulins for 400 families in
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -1964,10 +1806,8 @@
     bbox_x2: 563.4749145507812
     double_fontsize_int: 20
   - index: 632
-    text: 'each of the three districts were requisitioned from the Asia Pacific Regional
-      Logistics Unit and arrived in Dili in early '
-    text_base: each of the three districts were requisitioned from the asia pacific
-      regional logistics unit and arrived in dili in early
+    text: 'each of the three districts were requisitioned from the Asia Pacific Regional Logistics Unit and arrived in Dili in early '
+    text_base: each of the three districts were requisitioned from the asia pacific regional logistics unit and arrived in dili in early
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -1981,10 +1821,8 @@
     bbox_x2: 562.9842529296875
     double_fontsize_int: 20
   - index: 633
-    text: '2017. This stock will be managed by the respective branches and prepositioned
-      for future shocks including the '
-    text_base: 2017 this stock will be managed by the respective branches and prepositioned
-      for future shocks including the
+    text: '2017. This stock will be managed by the respective branches and prepositioned for future shocks including the '
+    text_base: 2017 this stock will be managed by the respective branches and prepositioned for future shocks including the
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2013,10 +1851,8 @@
     bbox_x2: 190.58888244628903
     double_fontsize_int: 20
   - index: 635
-    text: 'National Disaster Response Team went through Emergency WatSan refresher
-      training in March 2017 in Dili and '
-    text_base: national disaster response team went through emergency watsan refresher
-      training in march 2017 in dili and
+    text: 'National Disaster Response Team went through Emergency WatSan refresher training in March 2017 in Dili and '
+    text_base: national disaster response team went through emergency watsan refresher training in march 2017 in dili and
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2030,10 +1866,8 @@
     bbox_x2: 563.0576171875
     double_fontsize_int: 20
   - index: 636
-    text: 'Branch Disaster Response Team refresher trainings were carried out in all
-      three affected branches. '
-    text_base: branch disaster response team refresher trainings were carried out
-      in all three affected branches
+    text: 'Branch Disaster Response Team refresher trainings were carried out in all three affected branches. '
+    text_base: branch disaster response team refresher trainings were carried out in all three affected branches
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2047,10 +1881,8 @@
     bbox_x2: 488.9888916015625
     double_fontsize_int: 20
   - index: 637
-    text: 'British Red Cross are currently supporting CVTL in logistics capacity development.
-      The pre-positioned initiative with '
-    text_base: british red cross are currently supporting cvtl in logistics capacity
-      development the pre positioned initiative with
+    text: 'British Red Cross are currently supporting CVTL in logistics capacity development. The pre-positioned initiative with '
+    text_base: british red cross are currently supporting cvtl in logistics capacity development the pre positioned initiative with
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2064,10 +1896,8 @@
     bbox_x2: 563.5458984375
     double_fontsize_int: 20
   - index: 638
-    text: 'training and development support and logistics SOP development has been
-      linked and harmonised with the logistics '
-    text_base: training and development support and logistics sop development has
-      been linked and harmonised with the logistics
+    text: 'training and development support and logistics SOP development has been linked and harmonised with the logistics '
+    text_base: training and development support and logistics sop development has been linked and harmonised with the logistics
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2081,10 +1911,8 @@
     bbox_x2: 562.9779663085938
     double_fontsize_int: 20
   - index: 639
-    text: 'development plan of action. Warehousing assessments, inventory and branch
-      capacity have been undertaken in the '
-    text_base: development plan of action warehousing assessments inventory and branch
-      capacity have been undertaken in the
+    text: 'development plan of action. Warehousing assessments, inventory and branch capacity have been undertaken in the '
+    text_base: development plan of action warehousing assessments inventory and branch capacity have been undertaken in the
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2098,10 +1926,8 @@
     bbox_x2: 563.1491088867188
     double_fontsize_int: 20
   - index: 640
-    text: 'branches in Viqueque, Bacau and Lautem with the support of British Red
-      Cross. Since the assessments found issues '
-    text_base: branches in viqueque bacau and lautem with the support of british red
-      cross since the assessments found issues
+    text: 'branches in Viqueque, Bacau and Lautem with the support of British Red Cross. Since the assessments found issues '
+    text_base: branches in viqueque bacau and lautem with the support of british red cross since the assessments found issues
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2115,10 +1941,8 @@
     bbox_x2: 563.1275024414062
     double_fontsize_int: 20
   - index: 641
-    text: 'related to branch storage actually go beyond the operation scope, part
-      of the preparedness stock is prepositioned in '
-    text_base: related to branch storage actually go beyond the operation scope part
-      of the preparedness stock is prepositioned in
+    text: 'related to branch storage actually go beyond the operation scope, part of the preparedness stock is prepositioned in '
+    text_base: related to branch storage actually go beyond the operation scope part of the preparedness stock is prepositioned in
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2147,10 +1971,8 @@
     bbox_x2: 123.74888610839844
     double_fontsize_int: 20
   - index: 643
-    text: The National Society was also considering to undertake the revised Well
-      Prepared National Society (WPNS+) self-
-    text_base: the national society was also considering to undertake the revised
-      well prepared national society wpns self
+    text: The National Society was also considering to undertake the revised Well Prepared National Society (WPNS+) self-
+    text_base: the national society was also considering to undertake the revised well prepared national society wpns self
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2164,10 +1986,8 @@
     bbox_x2: 560.6966552734375
     double_fontsize_int: 20
   - index: 644
-    text: 'assessment as a step towards an evidence-based approach to enhancing its
-      disaster response capacity. As technical '
-    text_base: assessment as a step towards an evidence based approach to enhancing
-      its disaster response capacity as technical
+    text: 'assessment as a step towards an evidence-based approach to enhancing its disaster response capacity. As technical '
+    text_base: assessment as a step towards an evidence based approach to enhancing its disaster response capacity as technical
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2181,10 +2001,8 @@
     bbox_x2: 563.4119873046875
     double_fontsize_int: 20
   - index: 645
-    text: 'guidance for this process were not available during the operation timeframe,
-      CVTL will carry this exercise out with '
-    text_base: guidance for this process were not available during the operation timeframe
-      cvtl will carry this exercise out with
+    text: 'guidance for this process were not available during the operation timeframe, CVTL will carry this exercise out with '
+    text_base: guidance for this process were not available during the operation timeframe cvtl will carry this exercise out with
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2198,10 +2016,8 @@
     bbox_x2: 563.18701171875
     double_fontsize_int: 20
   - index: 646
-    text: 'peer support later on in 2017. CVTL has contingency plans for flood, drought
-      and election preparedness. The '
-    text_base: peer support later on in 2017 cvtl has contingency plans for flood
-      drought and election preparedness the
+    text: 'peer support later on in 2017. CVTL has contingency plans for flood, drought and election preparedness. The '
+    text_base: peer support later on in 2017 cvtl has contingency plans for flood drought and election preparedness the
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2215,10 +2031,8 @@
     bbox_x2: 563.5467529296875
     double_fontsize_int: 20
   - index: 647
-    text: 'experience gained from implementing this operation provides a good opportunity
-      to review the drought contingency '
-    text_base: experience gained from implementing this operation provides a good
-      opportunity to review the drought contingency
+    text: 'experience gained from implementing this operation provides a good opportunity to review the drought contingency '
+    text_base: experience gained from implementing this operation provides a good opportunity to review the drought contingency
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2247,10 +2061,8 @@
     bbox_x2: 291.29888916015625
     double_fontsize_int: 20
   - index: 649
-    text: "The final evaluation notes that CVTL\u2019s capacity to respond to disasters\
-      \ has been enhanced, most noticeably in regard "
-    text_base: the final evaluation notes that cvtl s capacity to respond to disasters
-      has been enhanced most noticeably in regard
+    text: "The final evaluation notes that CVTL\u2019s capacity to respond to disasters has been enhanced, most noticeably in regard "
+    text_base: the final evaluation notes that cvtl s capacity to respond to disasters has been enhanced most noticeably in regard
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2264,10 +2076,8 @@
     bbox_x2: 563.5919189453125
     double_fontsize_int: 20
   - index: 650
-    text: 'to cash programming. Prior to the operation, there was a reluctance to
-      consider cash programming, particularly '
-    text_base: to cash programming prior to the operation there was a reluctance to
-      consider cash programming particularly
+    text: 'to cash programming. Prior to the operation, there was a reluctance to consider cash programming, particularly '
+    text_base: to cash programming prior to the operation there was a reluctance to consider cash programming particularly
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2281,10 +2091,8 @@
     bbox_x2: 563.0283813476562
     double_fontsize_int: 20
   - index: 651
-    text: 'amongst senior management. All CVTL staff interviewed now had a positive
-      impression of cash programming. There '
-    text_base: amongst senior management all cvtl staff interviewed now had a positive
-      impression of cash programming there
+    text: 'amongst senior management. All CVTL staff interviewed now had a positive impression of cash programming. There '
+    text_base: amongst senior management all cvtl staff interviewed now had a positive impression of cash programming there
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2298,10 +2106,8 @@
     bbox_x2: 563.6288452148438
     double_fontsize_int: 20
   - index: 652
-    text: "was no doubt from \u201Clearning by doing\u201D which dispelled misconceptions,\
-      \ but staff also benefited from IFRC technical "
-    text_base: was no doubt from learning by doing which dispelled misconceptions
-      but staff also benefited from ifrc technical
+    text: "was no doubt from \u201Clearning by doing\u201D which dispelled misconceptions, but staff also benefited from IFRC technical "
+    text_base: was no doubt from learning by doing which dispelled misconceptions but staff also benefited from ifrc technical
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2315,10 +2121,8 @@
     bbox_x2: 562.787353515625
     double_fontsize_int: 20
   - index: 653
-    text: 'support not only in being trained in CTP prior to implementation but through
-      assistance in drafting CTP SOPs after '
-    text_base: support not only in being trained in ctp prior to implementation but
-      through assistance in drafting ctp sops after
+    text: 'support not only in being trained in CTP prior to implementation but through assistance in drafting CTP SOPs after '
+    text_base: support not only in being trained in ctp prior to implementation but through assistance in drafting ctp sops after
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2347,10 +2151,8 @@
     bbox_x2: 120.98888397216795
     double_fontsize_int: 20
   - index: 655
-    text: 'A number of technical trainings and capacity building activities were undertaken
-      and delivered during this operation, '
-    text_base: a number of technical trainings and capacity building activities were
-      undertaken and delivered during this operation
+    text: 'A number of technical trainings and capacity building activities were undertaken and delivered during this operation, '
+    text_base: a number of technical trainings and capacity building activities were undertaken and delivered during this operation
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2364,10 +2166,8 @@
     bbox_x2: 563.6287231445312
     double_fontsize_int: 20
   - index: 656
-    text: "however what is most noticeable is the \u2018accompaniment\u2019 approach\
-      \ of the IFRC operations managers. The evaluation "
-    text_base: however what is most noticeable is the accompaniment approach of the
-      ifrc operations managers the evaluation
+    text: "however what is most noticeable is the \u2018accompaniment\u2019 approach of the IFRC operations managers. The evaluation "
+    text_base: however what is most noticeable is the accompaniment approach of the ifrc operations managers the evaluation
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2381,10 +2181,8 @@
     bbox_x2: 563.3544921875
     double_fontsize_int: 20
   - index: 657
-    text: 'noted considerable capacity improvement in the staff and CVTL; indicating
-      the positive impact of staff and '
-    text_base: noted considerable capacity improvement in the staff and cvtl indicating
-      the positive impact of staff and
+    text: 'noted considerable capacity improvement in the staff and CVTL; indicating the positive impact of staff and '
+    text_base: noted considerable capacity improvement in the staff and cvtl indicating the positive impact of staff and
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2398,10 +2196,8 @@
     bbox_x2: 563.3810424804688
     double_fontsize_int: 20
   - index: 658
-    text: 'organizational capacity development prior to and part of this emergency
-      response.   '
-    text_base: organizational capacity development prior to and part of this emergency
-      response
+    text: 'organizational capacity development prior to and part of this emergency response.   '
+    text_base: organizational capacity development prior to and part of this emergency response
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 8
@@ -2415,60 +2211,15 @@
     bbox_x2: 418.8788757324219
     double_fontsize_int: 20
   items:
-  - The extension of operation timeframe was largely sought due to delays in implementing
-    some activities under this sector due to gaps in technical support available from
-    IFRC for CVTL.
-  - 'During the operation, eight full time staff were recruited by CVTL to support
-    the branch and headquarters staff to implement the drought plan of action. Five
-    staff members were recruited at the national level and three at branch level (one
-    for each district: Lautem, Viqueque and Baucau).'
-  - CVTL convened regular drought task force meetings, where a representative from
-    each of CVTL departments came together to strategize and plan this drought response.
-    The final evaluation highlighted the establishment of the task force as an important
-    initiative enabling senior management to take a more direct role in ensuring tasks
-    and functions were resourced adequately to ease the workload of the Disaster Management
-    Unit. This task force structure is now formalized into CVTL Standard Operating
-    Procedures for emergency response, that were revised and finalized after the final
-    evaluation and based on the drought response, with the support of the DRM Delegate
-    from CCST Jakarta.
-  - Non-food relief items including kitchen sets, blankets, water containers, hygiene
-    kits and tarpaulins for 400 families in each of the three districts were requisitioned
-    from the Asia Pacific Regional Logistics Unit and arrived in Dili in early 2017.
-    This stock will be managed by the respective branches and prepositioned for future
-    shocks including the pending lean and wet seasons.
-  - National Disaster Response Team went through Emergency WatSan refresher training
-    in March 2017 in Dili and Branch Disaster Response Team refresher trainings were
-    carried out in all three affected branches.
-  - British Red Cross are currently supporting CVTL in logistics capacity development.
-    The pre-positioned initiative with training and development support and logistics
-    SOP development has been linked and harmonised with the logistics development
-    plan of action. Warehousing assessments, inventory and branch capacity have been
-    undertaken in the branches in Viqueque, Bacau and Lautem with the support of British
-    Red Cross. Since the assessments found issues related to branch storage actually
-    go beyond the operation scope, part of the preparedness stock is prepositioned
-    in Dili warehouse.
-  - The National Society was also considering to undertake the revised Well Prepared
-    National Society (WPNS+) self- assessment as a step towards an evidence-based
-    approach to enhancing its disaster response capacity. As technical guidance for
-    this process were not available during the operation timeframe, CVTL will carry
-    this exercise out with peer support later on in 2017. CVTL has contingency plans
-    for flood, drought and election preparedness. The experience gained from implementing
-    this operation provides a good opportunity to review the drought contingency plan,
-    this will be carried out after the WPNS+ exercise.
-  - "The final evaluation notes that CVTL\u2019s capacity to respond to disasters\
-    \ has been enhanced, most noticeably in regard to cash programming. Prior to the\
-    \ operation, there was a reluctance to consider cash programming, particularly\
-    \ amongst senior management. All CVTL staff interviewed now had a positive impression\
-    \ of cash programming. There was no doubt from \u201Clearning by doing\u201D which\
-    \ dispelled misconceptions, but staff also benefited from IFRC technical support\
-    \ not only in being trained in CTP prior to implementation but through assistance\
-    \ in drafting CTP SOPs after the intervention."
-  - "A number of technical trainings and capacity building activities were undertaken\
-    \ and delivered during this operation, however what is most noticeable is the\
-    \ \u2018accompaniment\u2019 approach of the IFRC operations managers. The evaluation\
-    \ noted considerable capacity improvement in the staff and CVTL; indicating the\
-    \ positive impact of staff and organizational capacity development prior to and\
-    \ part of this emergency response."
+  - The extension of operation timeframe was largely sought due to delays in implementing some activities under this sector due to gaps in technical support available from IFRC for CVTL.
+  - 'During the operation, eight full time staff were recruited by CVTL to support the branch and headquarters staff to implement the drought plan of action. Five staff members were recruited at the national level and three at branch level (one for each district: Lautem, Viqueque and Baucau).'
+  - CVTL convened regular drought task force meetings, where a representative from each of CVTL departments came together to strategize and plan this drought response. The final evaluation highlighted the establishment of the task force as an important initiative enabling senior management to take a more direct role in ensuring tasks and functions were resourced adequately to ease the workload of the Disaster Management Unit. This task force structure is now formalized into CVTL Standard Operating Procedures for emergency response, that were revised and finalized after the final evaluation and based on the drought response, with the support of the DRM Delegate from CCST Jakarta.
+  - Non-food relief items including kitchen sets, blankets, water containers, hygiene kits and tarpaulins for 400 families in each of the three districts were requisitioned from the Asia Pacific Regional Logistics Unit and arrived in Dili in early 2017. This stock will be managed by the respective branches and prepositioned for future shocks including the pending lean and wet seasons.
+  - National Disaster Response Team went through Emergency WatSan refresher training in March 2017 in Dili and Branch Disaster Response Team refresher trainings were carried out in all three affected branches.
+  - British Red Cross are currently supporting CVTL in logistics capacity development. The pre-positioned initiative with training and development support and logistics SOP development has been linked and harmonised with the logistics development plan of action. Warehousing assessments, inventory and branch capacity have been undertaken in the branches in Viqueque, Bacau and Lautem with the support of British Red Cross. Since the assessments found issues related to branch storage actually go beyond the operation scope, part of the preparedness stock is prepositioned in Dili warehouse.
+  - The National Society was also considering to undertake the revised Well Prepared National Society (WPNS+) self- assessment as a step towards an evidence-based approach to enhancing its disaster response capacity. As technical guidance for this process were not available during the operation timeframe, CVTL will carry this exercise out with peer support later on in 2017. CVTL has contingency plans for flood, drought and election preparedness. The experience gained from implementing this operation provides a good opportunity to review the drought contingency plan, this will be carried out after the WPNS+ exercise.
+  - "The final evaluation notes that CVTL\u2019s capacity to respond to disasters has been enhanced, most noticeably in regard to cash programming. Prior to the operation, there was a reluctance to consider cash programming, particularly amongst senior management. All CVTL staff interviewed now had a positive impression of cash programming. There was no doubt from \u201Clearning by doing\u201D which dispelled misconceptions, but staff also benefited from IFRC technical support not only in being trained in CTP prior to implementation but through assistance in drafting CTP SOPs after the intervention."
+  - "A number of technical trainings and capacity building activities were undertaken and delivered during this operation, however what is most noticeable is the \u2018accompaniment\u2019 approach of the IFRC operations managers. The evaluation noted considerable capacity improvement in the staff and CVTL; indicating the positive impact of staff and organizational capacity development prior to and part of this emergency response."
 - title:
     text: 'Achievements, challenges and lessons learned '
     text_base: achievements challenges and lessons learned
@@ -2489,10 +2240,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 698
-    text: 'CVTL regularly respond to meteorological hazards including floods and landslips
-      during the annual rainy season. '
-    text_base: cvtl regularly respond to meteorological hazards including floods and
-      landslips during the annual rainy season
+    text: 'CVTL regularly respond to meteorological hazards including floods and landslips during the annual rainy season. '
+    text_base: cvtl regularly respond to meteorological hazards including floods and landslips during the annual rainy season
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2506,10 +2255,8 @@
     bbox_x2: 562.9680786132812
     double_fontsize_int: 20
   - index: 699
-    text: "Forecasters predict a 50% chance of a developing La Ni\xF1a conditions\
-      \ in 2017, which potentially can result in increased "
-    text_base: forecasters predict a 50 chance of a developing la ni a conditions
-      in 2017 which potentially can result in increased
+    text: "Forecasters predict a 50% chance of a developing La Ni\xF1a conditions in 2017, which potentially can result in increased "
+    text_base: forecasters predict a 50 chance of a developing la ni a conditions in 2017 which potentially can result in increased
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2523,10 +2270,8 @@
     bbox_x2: 563.5546875
     double_fontsize_int: 20
   - index: 700
-    text: 'rainfall and floods. Therefore, CVTL kept a database on rainfall until
-      the rainy season started in January/February and '
-    text_base: rainfall and floods therefore cvtl kept a database on rainfall until
-      the rainy season started in january february and
+    text: 'rainfall and floods. Therefore, CVTL kept a database on rainfall until the rainy season started in January/February and '
+    text_base: rainfall and floods therefore cvtl kept a database on rainfall until the rainy season started in january february and
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2540,10 +2285,8 @@
     bbox_x2: 563.5615844726562
     double_fontsize_int: 20
   - index: 701
-    text: 'ends in May. The rainfall patterns in January-March were very erratic,
-      returning to normality in some drought-affected '
-    text_base: ends in may the rainfall patterns in january march were very erratic
-      returning to normality in some drought affected
+    text: 'ends in May. The rainfall patterns in January-March were very erratic, returning to normality in some drought-affected '
+    text_base: ends in may the rainfall patterns in january march were very erratic returning to normality in some drought affected
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2572,10 +2315,8 @@
     bbox_x2: 137.06887817382812
     double_fontsize_int: 20
   - index: 703
-    text: 'CVTL have a draft contingency plan for flood response, a contingency plan
-      for drought and a contingency plan for '
-    text_base: cvtl have a draft contingency plan for flood response a contingency
-      plan for drought and a contingency plan for
+    text: 'CVTL have a draft contingency plan for flood response, a contingency plan for drought and a contingency plan for '
+    text_base: cvtl have a draft contingency plan for flood response a contingency plan for drought and a contingency plan for
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2589,10 +2330,8 @@
     bbox_x2: 563.1691284179688
     double_fontsize_int: 20
   - index: 704
-    text: 'election preparedness. The DRM Delegate has undertaken a desk based review
-      of all of the contingency plans and '
-    text_base: election preparedness the drm delegate has undertaken a desk based
-      review of all of the contingency plans and
+    text: 'election preparedness. The DRM Delegate has undertaken a desk based review of all of the contingency plans and '
+    text_base: election preparedness the drm delegate has undertaken a desk based review of all of the contingency plans and
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2606,10 +2345,8 @@
     bbox_x2: 563.0272827148438
     double_fontsize_int: 20
   - index: 705
-    text: 'has worked with CVTL to do a country specific risk and hazard mapping.
-      Due to resource constraints, there was  '
-    text_base: has worked with cvtl to do a country specific risk and hazard mapping
-      due to resource constraints there was
+    text: 'has worked with CVTL to do a country specific risk and hazard mapping. Due to resource constraints, there was  '
+    text_base: has worked with cvtl to do a country specific risk and hazard mapping due to resource constraints there was
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2623,10 +2360,8 @@
     bbox_x2: 566.3888549804688
     double_fontsize_int: 20
   - index: 706
-    text: "insufficient time within the operation to revise all of CVTL\u2019s contingency\
-      \ plans. Based on discussions with CVTL, it "
-    text_base: insufficient time within the operation to revise all of cvtl s contingency
-      plans based on discussions with cvtl it
+    text: "insufficient time within the operation to revise all of CVTL\u2019s contingency plans. Based on discussions with CVTL, it "
+    text_base: insufficient time within the operation to revise all of cvtl s contingency plans based on discussions with cvtl it
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2640,10 +2375,8 @@
     bbox_x2: 563.4463500976562
     double_fontsize_int: 20
   - index: 707
-    text: 'was agreed that a review of the current Standard Operation Procedures was
-      the main priority, which was done in a '
-    text_base: was agreed that a review of the current standard operation procedures
-      was the main priority which was done in a
+    text: 'was agreed that a review of the current Standard Operation Procedures was the main priority, which was done in a '
+    text_base: was agreed that a review of the current standard operation procedures was the main priority which was done in a
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2657,10 +2390,8 @@
     bbox_x2: 563.3765258789062
     double_fontsize_int: 20
   - index: 708
-    text: 'workshop in June 2017. The review of contingency plans would be done once
-      the WPNS+ review was undertaken, in '
-    text_base: workshop in june 2017 the review of contingency plans would be done
-      once the wpns review was undertaken in
+    text: 'workshop in June 2017. The review of contingency plans would be done once the WPNS+ review was undertaken, in '
+    text_base: workshop in june 2017 the review of contingency plans would be done once the wpns review was undertaken in
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2689,10 +2420,8 @@
     bbox_x2: 156.62887573242188
     double_fontsize_int: 20
   - index: 710
-    text: 'Communities receiving assistance under the cash distribution plan also
-      received awareness information and guidance '
-    text_base: communities receiving assistance under the cash distribution plan also
-      received awareness information and guidance
+    text: 'Communities receiving assistance under the cash distribution plan also received awareness information and guidance '
+    text_base: communities receiving assistance under the cash distribution plan also received awareness information and guidance
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2706,10 +2435,8 @@
     bbox_x2: 562.9580688476562
     double_fontsize_int: 20
   - index: 711
-    text: 'on seasonal risk reduction via the community recovery committees and broadcasts
-      on local radio. Radio messaging '
-    text_base: on seasonal risk reduction via the community recovery committees and
-      broadcasts on local radio radio messaging
+    text: 'on seasonal risk reduction via the community recovery committees and broadcasts on local radio. Radio messaging '
+    text_base: on seasonal risk reduction via the community recovery committees and broadcasts on local radio radio messaging
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2723,10 +2450,8 @@
     bbox_x2: 563.5479736328125
     double_fontsize_int: 20
   - index: 712
-    text: 'targeted 20 communities in Baucau (8), Lautem (5) and Viqueque (7) reaching
-      the total population of 28,650 people.  '
-    text_base: targeted 20 communities in baucau 8 lautem 5 and viqueque 7 reaching
-      the total population of 28 650 people
+    text: 'targeted 20 communities in Baucau (8), Lautem (5) and Viqueque (7) reaching the total population of 28,650 people.  '
+    text_base: targeted 20 communities in baucau 8 lautem 5 and viqueque 7 reaching the total population of 28 650 people
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2740,10 +2465,8 @@
     bbox_x2: 566.35791015625
     double_fontsize_int: 20
   - index: 713
-    text: 'Participatory risk mapping was done with community members and local authorities
-      in three communities, after which '
-    text_base: participatory risk mapping was done with community members and local
-      authorities in three communities after which
+    text: 'Participatory risk mapping was done with community members and local authorities in three communities, after which '
+    text_base: participatory risk mapping was done with community members and local authorities in three communities after which
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2757,10 +2480,8 @@
     bbox_x2: 563.5387573242188
     double_fontsize_int: 20
   - index: 714
-    text: 'the risk maps with prevention messaging (posters) were put in government
-      building for public display. CVTL also '
-    text_base: the risk maps with prevention messaging posters were put in government
-      building for public display cvtl also
+    text: 'the risk maps with prevention messaging (posters) were put in government building for public display. CVTL also '
+    text_base: the risk maps with prevention messaging posters were put in government building for public display cvtl also
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2774,10 +2495,8 @@
     bbox_x2: 563.587158203125
     double_fontsize_int: 20
   - index: 715
-    text: 'increased Disaster Risk Reduction messaging using social media identified
-      as a gap in CVTL drought task force '
-    text_base: increased disaster risk reduction messaging using social media identified
-      as a gap in cvtl drought task force
+    text: 'increased Disaster Risk Reduction messaging using social media identified as a gap in CVTL drought task force '
+    text_base: increased disaster risk reduction messaging using social media identified as a gap in cvtl drought task force
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2791,10 +2510,8 @@
     bbox_x2: 563.047607421875
     double_fontsize_int: 20
   - index: 716
-    text: 'meetings. Besides the disaster risk messaging, no additional seasonal forecasts
-      were transmitted to the communities '
-    text_base: meetings besides the disaster risk messaging no additional seasonal
-      forecasts were transmitted to the communities
+    text: 'meetings. Besides the disaster risk messaging, no additional seasonal forecasts were transmitted to the communities '
+    text_base: meetings besides the disaster risk messaging no additional seasonal forecasts were transmitted to the communities
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2823,10 +2540,8 @@
     bbox_x2: 141.62887573242188
     double_fontsize_int: 20
   - index: 718
-    text: 'The Joint Rapid Assessment process has however kicked-off the discussion
-      on the need for national Early Warning '
-    text_base: the joint rapid assessment process has however kicked off the discussion
-      on the need for national early warning
+    text: 'The Joint Rapid Assessment process has however kicked-off the discussion on the need for national Early Warning '
+    text_base: the joint rapid assessment process has however kicked off the discussion on the need for national early warning
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2840,10 +2555,8 @@
     bbox_x2: 563.5225830078125
     double_fontsize_int: 20
   - index: 719
-    text: 'Early Action system not targeting only high winds, rains and floods recurrent
-      in the country but also drought. Within '
-    text_base: early action system not targeting only high winds rains and floods
-      recurrent in the country but also drought within
+    text: 'Early Action system not targeting only high winds, rains and floods recurrent in the country but also drought. Within '
+    text_base: early action system not targeting only high winds rains and floods recurrent in the country but also drought within
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2857,10 +2570,8 @@
     bbox_x2: 563.1098022460938
     double_fontsize_int: 20
   - index: 720
-    text: 'this framework, FAO is supporting the Timor-Leste Ministry of Agriculture
-      to create a seasonal forecast system for '
-    text_base: this framework fao is supporting the timor leste ministry of agriculture
-      to create a seasonal forecast system for
+    text: 'this framework, FAO is supporting the Timor-Leste Ministry of Agriculture to create a seasonal forecast system for '
+    text_base: this framework fao is supporting the timor leste ministry of agriculture to create a seasonal forecast system for
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2874,10 +2585,8 @@
     bbox_x2: 563.25341796875
     double_fontsize_int: 20
   - index: 721
-    text: 'agricultural and drought monitoring purposes. CVTL has offered assistance
-      in supporting the dissemination of weather '
-    text_base: agricultural and drought monitoring purposes cvtl has offered assistance
-      in supporting the dissemination of weather
+    text: 'agricultural and drought monitoring purposes. CVTL has offered assistance in supporting the dissemination of weather '
+    text_base: agricultural and drought monitoring purposes cvtl has offered assistance in supporting the dissemination of weather
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2891,10 +2600,8 @@
     bbox_x2: 563.4217529296875
     double_fontsize_int: 20
   - index: 722
-    text: 'forecast messaging through its volunteers once the system is in place.
-      At the moment, CVTL plans to assist its Ministry '
-    text_base: forecast messaging through its volunteers once the system is in place
-      at the moment cvtl plans to assist its ministry
+    text: 'forecast messaging through its volunteers once the system is in place. At the moment, CVTL plans to assist its Ministry '
+    text_base: forecast messaging through its volunteers once the system is in place at the moment cvtl plans to assist its ministry
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2908,10 +2615,8 @@
     bbox_x2: 563.137451171875
     double_fontsize_int: 20
   - index: 723
-    text: 'of Interior with disseminating weather warnings through its branch volunteer
-      network.  '
-    text_base: of interior with disseminating weather warnings through its branch
-      volunteer network
+    text: 'of Interior with disseminating weather warnings through its branch volunteer network.  '
+    text_base: of interior with disseminating weather warnings through its branch volunteer network
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2925,10 +2630,8 @@
     bbox_x2: 427.8788757324219
     double_fontsize_int: 20
   - index: 724
-    text: "Integrated Community-Based Risk Reduction (ICBRR) programme is CVTL\u2019\
-      s biggest long-term resilience programme "
-    text_base: integrated community based risk reduction icbrr programme is cvtl s
-      biggest long term resilience programme
+    text: "Integrated Community-Based Risk Reduction (ICBRR) programme is CVTL\u2019s biggest long-term resilience programme "
+    text_base: integrated community based risk reduction icbrr programme is cvtl s biggest long term resilience programme
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2942,10 +2645,8 @@
     bbox_x2: 563.4951171875
     double_fontsize_int: 20
   - index: 725
-    text: 'supported by a Consortium of Red Cross partners formed by Australian, British,
-      Korean and New Zealand Red Cross '
-    text_base: supported by a consortium of red cross partners formed by australian
-      british korean and new zealand red cross
+    text: 'supported by a Consortium of Red Cross partners formed by Australian, British, Korean and New Zealand Red Cross '
+    text_base: supported by a consortium of red cross partners formed by australian british korean and new zealand red cross
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2959,10 +2660,8 @@
     bbox_x2: 563.07763671875
     double_fontsize_int: 20
   - index: 726
-    text: 'societies together with KOICA and IFRC. ICBRR works on community resilience
-      in improving access to water and '
-    text_base: societies together with koica and ifrc icbrr works on community resilience
-      in improving access to water and
+    text: 'societies together with KOICA and IFRC. ICBRR works on community resilience in improving access to water and '
+    text_base: societies together with koica and ifrc icbrr works on community resilience in improving access to water and
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2976,10 +2675,8 @@
     bbox_x2: 563.1028442382812
     double_fontsize_int: 20
   - index: 727
-    text: 'promoting livelihoods. The first and foremost recommendation in the Joint
-      Rapid Assessment on the Delayed Impact '
-    text_base: promoting livelihoods the first and foremost recommendation in the
-      joint rapid assessment on the delayed impact
+    text: 'promoting livelihoods. The first and foremost recommendation in the Joint Rapid Assessment on the Delayed Impact '
+    text_base: promoting livelihoods the first and foremost recommendation in the joint rapid assessment on the delayed impact
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -2993,10 +2690,8 @@
     bbox_x2: 563.5623168945312
     double_fontsize_int: 20
   - index: 728
-    text: "of El Ni\xF1o Southern Oscillation in Timor-Leste was to support most affected\
-      \ communities through resilience building "
-    text_base: of el ni o southern oscillation in timor leste was to support most
-      affected communities through resilience building
+    text: "of El Ni\xF1o Southern Oscillation in Timor-Leste was to support most affected communities through resilience building "
+    text_base: of el ni o southern oscillation in timor leste was to support most affected communities through resilience building
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -3010,10 +2705,8 @@
     bbox_x2: 563.3102416992188
     double_fontsize_int: 20
   - index: 729
-    text: 'programmes so as to effectively help affected households to recover. The
-      community vulnerability to drought will be '
-    text_base: programmes so as to effectively help affected households to recover
-      the community vulnerability to drought will be
+    text: 'programmes so as to effectively help affected households to recover. The community vulnerability to drought will be '
+    text_base: programmes so as to effectively help affected households to recover the community vulnerability to drought will be
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -3027,10 +2720,8 @@
     bbox_x2: 563.1694946289062
     double_fontsize_int: 20
   - index: 730
-    text: 'taken into account by CVTL as an important criterion in the next ICBRR
-      community selection round. '
-    text_base: taken into account by cvtl as an important criterion in the next icbrr
-      community selection round
+    text: 'taken into account by CVTL as an important criterion in the next ICBRR community selection round. '
+    text_base: taken into account by cvtl as an important criterion in the next icbrr community selection round
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 9
@@ -3044,52 +2735,11 @@
     bbox_x2: 490.0688781738281
     double_fontsize_int: 20
   items:
-  - "CVTL regularly respond to meteorological hazards including floods and landslips\
-    \ during the annual rainy season. Forecasters predict a 50% chance of a developing\
-    \ La Ni\xF1a conditions in 2017, which potentially can result in increased rainfall\
-    \ and floods. Therefore, CVTL kept a database on rainfall until the rainy season\
-    \ started in January/February and ends in May. The rainfall patterns in January-March\
-    \ were very erratic, returning to normality in some drought-affected areas but\
-    \ not in all."
-  - "CVTL have a draft contingency plan for flood response, a contingency plan for\
-    \ drought and a contingency plan for election preparedness. The DRM Delegate has\
-    \ undertaken a desk based review of all of the contingency plans and has worked\
-    \ with CVTL to do a country specific risk and hazard mapping. Due to resource\
-    \ constraints, there was insufficient time within the operation to revise all\
-    \ of CVTL\u2019s contingency plans. Based on discussions with CVTL, it was agreed\
-    \ that a review of the current Standard Operation Procedures was the main priority,\
-    \ which was done in a workshop in June 2017. The review of contingency plans would\
-    \ be done once the WPNS+ review was undertaken, in the second half of 2017."
-  - Communities receiving assistance under the cash distribution plan also received
-    awareness information and guidance on seasonal risk reduction via the community
-    recovery committees and broadcasts on local radio. Radio messaging targeted 20
-    communities in Baucau (8), Lautem (5) and Viqueque (7) reaching the total population
-    of 28,650 people. Participatory risk mapping was done with community members and
-    local authorities in three communities, after which the risk maps with prevention
-    messaging (posters) were put in government building for public display. CVTL also
-    increased Disaster Risk Reduction messaging using social media identified as a
-    gap in CVTL drought task force meetings. Besides the disaster risk messaging,
-    no additional seasonal forecasts were transmitted to the communities during the
-    operation.
-  - The Joint Rapid Assessment process has however kicked-off the discussion on the
-    need for national Early Warning Early Action system not targeting only high winds,
-    rains and floods recurrent in the country but also drought. Within this framework,
-    FAO is supporting the Timor-Leste Ministry of Agriculture to create a seasonal
-    forecast system for agricultural and drought monitoring purposes. CVTL has offered
-    assistance in supporting the dissemination of weather forecast messaging through
-    its volunteers once the system is in place. At the moment, CVTL plans to assist
-    its Ministry of Interior with disseminating weather warnings through its branch
-    volunteer network.
-  - "Integrated Community-Based Risk Reduction (ICBRR) programme is CVTL\u2019s biggest\
-    \ long-term resilience programme supported by a Consortium of Red Cross partners\
-    \ formed by Australian, British, Korean and New Zealand Red Cross societies together\
-    \ with KOICA and IFRC. ICBRR works on community resilience in improving access\
-    \ to water and promoting livelihoods. The first and foremost recommendation in\
-    \ the Joint Rapid Assessment on the Delayed Impact of El Ni\xF1o Southern Oscillation\
-    \ in Timor-Leste was to support most affected communities through resilience building\
-    \ programmes so as to effectively help affected households to recover. The community\
-    \ vulnerability to drought will be taken into account by CVTL as an important\
-    \ criterion in the next ICBRR community selection round."
+  - "CVTL regularly respond to meteorological hazards including floods and landslips during the annual rainy season. Forecasters predict a 50% chance of a developing La Ni\xF1a conditions in 2017, which potentially can result in increased rainfall and floods. Therefore, CVTL kept a database on rainfall until the rainy season started in January/February and ends in May. The rainfall patterns in January-March were very erratic, returning to normality in some drought-affected areas but not in all."
+  - "CVTL have a draft contingency plan for flood response, a contingency plan for drought and a contingency plan for election preparedness. The DRM Delegate has undertaken a desk based review of all of the contingency plans and has worked with CVTL to do a country specific risk and hazard mapping. Due to resource constraints, there was insufficient time within the operation to revise all of CVTL\u2019s contingency plans. Based on discussions with CVTL, it was agreed that a review of the current Standard Operation Procedures was the main priority, which was done in a workshop in June 2017. The review of contingency plans would be done once the WPNS+ review was undertaken, in the second half of 2017."
+  - Communities receiving assistance under the cash distribution plan also received awareness information and guidance on seasonal risk reduction via the community recovery committees and broadcasts on local radio. Radio messaging targeted 20 communities in Baucau (8), Lautem (5) and Viqueque (7) reaching the total population of 28,650 people. Participatory risk mapping was done with community members and local authorities in three communities, after which the risk maps with prevention messaging (posters) were put in government building for public display. CVTL also increased Disaster Risk Reduction messaging using social media identified as a gap in CVTL drought task force meetings. Besides the disaster risk messaging, no additional seasonal forecasts were transmitted to the communities during the operation.
+  - The Joint Rapid Assessment process has however kicked-off the discussion on the need for national Early Warning Early Action system not targeting only high winds, rains and floods recurrent in the country but also drought. Within this framework, FAO is supporting the Timor-Leste Ministry of Agriculture to create a seasonal forecast system for agricultural and drought monitoring purposes. CVTL has offered assistance in supporting the dissemination of weather forecast messaging through its volunteers once the system is in place. At the moment, CVTL plans to assist its Ministry of Interior with disseminating weather warnings through its branch volunteer network.
+  - "Integrated Community-Based Risk Reduction (ICBRR) programme is CVTL\u2019s biggest long-term resilience programme supported by a Consortium of Red Cross partners formed by Australian, British, Korean and New Zealand Red Cross societies together with KOICA and IFRC. ICBRR works on community resilience in improving access to water and promoting livelihoods. The first and foremost recommendation in the Joint Rapid Assessment on the Delayed Impact of El Ni\xF1o Southern Oscillation in Timor-Leste was to support most affected communities through resilience building programmes so as to effectively help affected households to recover. The community vulnerability to drought will be taken into account by CVTL as an important criterion in the next ICBRR community selection round."
 - title:
     text: 'Achievements, challenges and lessons learned '
     text_base: achievements challenges and lessons learned
@@ -3125,10 +2775,8 @@
     bbox_x2: 117.1488800048828
     double_fontsize_int: 20
   - index: 838
-    text: '23 National Disaster Response Team (NDRT) and 90 Branch Response Team (BDRT)
-      members received training '
-    text_base: 23 national disaster response team ndrt and 90 branch response team
-      bdrt members received training
+    text: '23 National Disaster Response Team (NDRT) and 90 Branch Response Team (BDRT) members received training '
+    text_base: 23 national disaster response team ndrt and 90 branch response team bdrt members received training
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3142,10 +2790,8 @@
     bbox_x2: 562.8984375
     double_fontsize_int: 20
   - index: 839
-    text: 'and refreshers on assessment methods prior to conducting door to door household
-      assessments in the twenty '
-    text_base: and refreshers on assessment methods prior to conducting door to door
-      household assessments in the twenty
+    text: 'and refreshers on assessment methods prior to conducting door to door household assessments in the twenty '
+    text_base: and refreshers on assessment methods prior to conducting door to door household assessments in the twenty
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3159,10 +2805,8 @@
     bbox_x2: 562.92822265625
     double_fontsize_int: 20
   - index: 840
-    text: 'targeted communities in May. The resulting data collected identified the
-      5,500 households that will benefit from this '
-    text_base: targeted communities in may the resulting data collected identified
-      the 5 500 households that will benefit from this
+    text: 'targeted communities in May. The resulting data collected identified the 5,500 households that will benefit from this '
+    text_base: targeted communities in may the resulting data collected identified the 5 500 households that will benefit from this
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3176,10 +2820,8 @@
     bbox_x2: 563.2568969726562
     double_fontsize_int: 20
   - index: 841
-    text: 'operation as well as the 2,700 households identified as being candidates
-      for the CTP. Prior to the commencement of '
-    text_base: operation as well as the 2 700 households identified as being candidates
-      for the ctp prior to the commencement of
+    text: 'operation as well as the 2,700 households identified as being candidates for the CTP. Prior to the commencement of '
+    text_base: operation as well as the 2 700 households identified as being candidates for the ctp prior to the commencement of
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3193,10 +2835,8 @@
     bbox_x2: 563.1773071289062
     double_fontsize_int: 20
   - index: 842
-    text: 'the CTP in October, each community had its data revalidated by a fresh
-      assessment and analysis. A pilot livelihoods '
-    text_base: the ctp in october each community had its data revalidated by a fresh
-      assessment and analysis a pilot livelihoods
+    text: 'the CTP in October, each community had its data revalidated by a fresh assessment and analysis. A pilot livelihoods '
+    text_base: the ctp in october each community had its data revalidated by a fresh assessment and analysis a pilot livelihoods
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3210,10 +2850,8 @@
     bbox_x2: 563.548828125
     double_fontsize_int: 20
   - index: 843
-    text: 'assessment and seasonal mapping took place in two villages in Lautem in
-      September 2016. Its purpose was to '
-    text_base: assessment and seasonal mapping took place in two villages in lautem
-      in september 2016 its purpose was to
+    text: 'assessment and seasonal mapping took place in two villages in Lautem in September 2016. Its purpose was to '
+    text_base: assessment and seasonal mapping took place in two villages in lautem in september 2016 its purpose was to
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3227,10 +2865,8 @@
     bbox_x2: 562.9778442382812
     double_fontsize_int: 20
   - index: 844
-    text: 'establish a more recent baseline and seasonal calendar to inform livelihood
-      options. This initiative resulted in the '
-    text_base: establish a more recent baseline and seasonal calendar to inform livelihood
-      options this initiative resulted in the
+    text: 'establish a more recent baseline and seasonal calendar to inform livelihood options. This initiative resulted in the '
+    text_base: establish a more recent baseline and seasonal calendar to inform livelihood options this initiative resulted in the
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3244,10 +2880,8 @@
     bbox_x2: 563.5120849609375
     double_fontsize_int: 20
   - index: 845
-    text: 'confirmation and establishment of cash transfer programme as the primary
-      livelihood and nutrition activity. '
-    text_base: confirmation and establishment of cash transfer programme as the primary
-      livelihood and nutrition activity
+    text: 'confirmation and establishment of cash transfer programme as the primary livelihood and nutrition activity. '
+    text_base: confirmation and establishment of cash transfer programme as the primary livelihood and nutrition activity
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3276,10 +2910,8 @@
     bbox_x2: 259.9788818359375
     double_fontsize_int: 20
   - index: 847
-    text: 'Community engagement has been refocused with the establishment of community
-      recovery committees to support '
-    text_base: community engagement has been refocused with the establishment of community
-      recovery committees to support
+    text: 'Community engagement has been refocused with the establishment of community recovery committees to support '
+    text_base: community engagement has been refocused with the establishment of community recovery committees to support
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3293,10 +2925,8 @@
     bbox_x2: 563.5291137695312
     double_fontsize_int: 20
   - index: 848
-    text: 'the implementation of CTP and to disseminate information to affected communities.
-      These groups are representative '
-    text_base: the implementation of ctp and to disseminate information to affected
-      communities these groups are representative
+    text: 'the implementation of CTP and to disseminate information to affected communities. These groups are representative '
+    text_base: the implementation of ctp and to disseminate information to affected communities these groups are representative
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3310,10 +2940,8 @@
     bbox_x2: 563.1873168945312
     double_fontsize_int: 20
   - index: 849
-    text: 'of communities and include the vulnerable, women and established leadership.
-      Each committee is also responsible '
-    text_base: of communities and include the vulnerable women and established leadership
-      each committee is also responsible
+    text: 'of communities and include the vulnerable, women and established leadership. Each committee is also responsible '
+    text_base: of communities and include the vulnerable women and established leadership each committee is also responsible
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3327,10 +2955,8 @@
     bbox_x2: 562.958251953125
     double_fontsize_int: 20
   - index: 850
-    text: 'for the revalidation of beneficiary data and engagement with branch volunteers
-      and staff for the distribution of cash. '
-    text_base: for the revalidation of beneficiary data and engagement with branch
-      volunteers and staff for the distribution of cash
+    text: 'for the revalidation of beneficiary data and engagement with branch volunteers and staff for the distribution of cash. '
+    text_base: for the revalidation of beneficiary data and engagement with branch volunteers and staff for the distribution of cash
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3344,10 +2970,8 @@
     bbox_x2: 562.9326782226562
     double_fontsize_int: 20
   - index: 851
-    text: 'A complaint hotline has been activated at the CVTL headquarters data on
-      the outcomes of any calls was not available '
-    text_base: a complaint hotline has been activated at the cvtl headquarters data
-      on the outcomes of any calls was not available
+    text: 'A complaint hotline has been activated at the CVTL headquarters data on the outcomes of any calls was not available '
+    text_base: a complaint hotline has been activated at the cvtl headquarters data on the outcomes of any calls was not available
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3391,10 +3015,8 @@
     bbox_x2: 104.3088836669922
     double_fontsize_int: 20
   - index: 854
-    text: 'Informal recording of activities by CVTL staff and volunteers is ongoing.
-      This will require continued strengthening to '
-    text_base: informal recording of activities by cvtl staff and volunteers is ongoing
-      this will require continued strengthening to
+    text: 'Informal recording of activities by CVTL staff and volunteers is ongoing. This will require continued strengthening to '
+    text_base: informal recording of activities by cvtl staff and volunteers is ongoing this will require continued strengthening to
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3408,10 +3030,8 @@
     bbox_x2: 562.8983154296875
     double_fontsize_int: 20
   - index: 855
-    text: 'meet more formal reporting requirements but also to establish evidence
-      based indicators of change and impact over '
-    text_base: meet more formal reporting requirements but also to establish evidence
-      based indicators of change and impact over
+    text: 'meet more formal reporting requirements but also to establish evidence based indicators of change and impact over '
+    text_base: meet more formal reporting requirements but also to establish evidence based indicators of change and impact over
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3425,10 +3045,8 @@
     bbox_x2: 562.9581298828125
     double_fontsize_int: 20
   - index: 856
-    text: 'the longer term. This is viewed as important by CVTL especially in relation
-      to hygiene promotion and cash transfer '
-    text_base: the longer term this is viewed as important by cvtl especially in relation
-      to hygiene promotion and cash transfer
+    text: 'the longer term. This is viewed as important by CVTL especially in relation to hygiene promotion and cash transfer '
+    text_base: the longer term this is viewed as important by cvtl especially in relation to hygiene promotion and cash transfer
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3442,10 +3060,8 @@
     bbox_x2: 563.014404296875
     double_fontsize_int: 20
   - index: 857
-    text: 'activities. A monitoring template has been established to accompany the
-      revised plan of action. A peer from '
-    text_base: activities a monitoring template has been established to accompany
-      the revised plan of action a peer from
+    text: 'activities. A monitoring template has been established to accompany the revised plan of action. A peer from '
+    text_base: activities a monitoring template has been established to accompany the revised plan of action a peer from
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3459,10 +3075,8 @@
     bbox_x2: 562.9282836914062
     double_fontsize_int: 20
   - index: 858
-    text: 'Indonesian Red Cross (PMI) has recently conducted a PMER capacity assessment
-      with support from the British Red '
-    text_base: indonesian red cross pmi has recently conducted a pmer capacity assessment
-      with support from the british red
+    text: 'Indonesian Red Cross (PMI) has recently conducted a PMER capacity assessment with support from the British Red '
+    text_base: indonesian red cross pmi has recently conducted a pmer capacity assessment with support from the british red
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3476,10 +3090,8 @@
     bbox_x2: 563.3655395507812
     double_fontsize_int: 20
   - index: 859
-    text: 'Cross and will be used to guide future development. The final evaluation
-      also noted the same need to strengthen '
-    text_base: cross and will be used to guide future development the final evaluation
-      also noted the same need to strengthen
+    text: 'Cross and will be used to guide future development. The final evaluation also noted the same need to strengthen '
+    text_base: cross and will be used to guide future development the final evaluation also noted the same need to strengthen
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3493,10 +3105,8 @@
     bbox_x2: 562.97802734375
     double_fontsize_int: 20
   - index: 860
-    text: "CVTL\u2019s capacities in data collection and analysis, evident in the\
-      \ slow Post-Distribution Monitoring survey process. "
-    text_base: cvtl s capacities in data collection and analysis evident in the slow
-      post distribution monitoring survey process
+    text: "CVTL\u2019s capacities in data collection and analysis, evident in the slow Post-Distribution Monitoring survey process. "
+    text_base: cvtl s capacities in data collection and analysis evident in the slow post distribution monitoring survey process
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3510,10 +3120,8 @@
     bbox_x2: 563.47314453125
     double_fontsize_int: 20
   - index: 861
-    text: 'The Post Distribution Monitoring fell short of the planned 10% of the recipients
-      receiving cash in envelope, reaching '
-    text_base: the post distribution monitoring fell short of the planned 10 of the
-      recipients receiving cash in envelope reaching
+    text: 'The Post Distribution Monitoring fell short of the planned 10% of the recipients receiving cash in envelope, reaching '
+    text_base: the post distribution monitoring fell short of the planned 10 of the recipients receiving cash in envelope reaching
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3527,10 +3135,8 @@
     bbox_x2: 563.3281860351562
     double_fontsize_int: 20
   - index: 862
-    text: 'only 5.9% recipients (150 households out of 2,543 households was involved
-      in the survey). '
-    text_base: only 5 9 recipients 150 households out of 2 543 households was involved
-      in the survey
+    text: 'only 5.9% recipients (150 households out of 2,543 households was involved in the survey). '
+    text_base: only 5 9 recipients 150 households out of 2 543 households was involved in the survey
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3559,10 +3165,8 @@
     bbox_x2: 149.30886840820312
     double_fontsize_int: 20
   - index: 864
-    text: 'Gendered impacts of drought were built into the in different phases of
-      the operation. Female-headed households, '
-    text_base: gendered impacts of drought were built into the in different phases
-      of the operation female headed households
+    text: 'Gendered impacts of drought were built into the in different phases of the operation. Female-headed households, '
+    text_base: gendered impacts of drought were built into the in different phases of the operation female headed households
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3576,10 +3180,8 @@
     bbox_x2: 563.5870971679688
     double_fontsize_int: 20
   - index: 865
-    text: 'pregnant and nursing mothers and families with small children were targeted
-      with different strategies under the '
-    text_base: pregnant and nursing mothers and families with small children were
-      targeted with different strategies under the
+    text: 'pregnant and nursing mothers and families with small children were targeted with different strategies under the '
+    text_base: pregnant and nursing mothers and families with small children were targeted with different strategies under the
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3593,10 +3195,8 @@
     bbox_x2: 563.22119140625
     double_fontsize_int: 20
   - index: 866
-    text: 'operation. Disability inclusion was considered during the beneficiary selection
-      and the accessibility of cash distribution '
-    text_base: operation disability inclusion was considered during the beneficiary
-      selection and the accessibility of cash distribution
+    text: 'operation. Disability inclusion was considered during the beneficiary selection and the accessibility of cash distribution '
+    text_base: operation disability inclusion was considered during the beneficiary selection and the accessibility of cash distribution
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3610,10 +3210,8 @@
     bbox_x2: 563.1412963867188
     double_fontsize_int: 20
   - index: 867
-    text: 'points to disabled beneficiaries was properly ensured.  All beneficiary
-      monitoring data recorded by the CVTL Disaster '
-    text_base: points to disabled beneficiaries was properly ensured all beneficiary
-      monitoring data recorded by the cvtl disaster
+    text: 'points to disabled beneficiaries was properly ensured.  All beneficiary monitoring data recorded by the CVTL Disaster '
+    text_base: points to disabled beneficiaries was properly ensured all beneficiary monitoring data recorded by the cvtl disaster
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 10
@@ -3627,10 +3225,8 @@
     bbox_x2: 563.3866577148438
     double_fontsize_int: 20
   - index: 869
-    text: 'Management Unit was disaggregated by sex but not by age groups. The operation
-      did not however meet the IFRC '
-    text_base: management unit was disaggregated by sex but not by age groups the
-      operation did not however meet the ifrc
+    text: 'Management Unit was disaggregated by sex but not by age groups. The operation did not however meet the IFRC '
+    text_base: management unit was disaggregated by sex but not by age groups the operation did not however meet the ifrc
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 11
@@ -3644,10 +3240,8 @@
     bbox_x2: 563.0437622070312
     double_fontsize_int: 20
   - index: 870
-    text: 'commitment of demonstrate evidence of addressing sexual and gender-based
-      violence or child protection. The final '
-    text_base: commitment of demonstrate evidence of addressing sexual and gender
-      based violence or child protection the final
+    text: 'commitment of demonstrate evidence of addressing sexual and gender-based violence or child protection. The final '
+    text_base: commitment of demonstrate evidence of addressing sexual and gender based violence or child protection the final
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 11
@@ -3661,10 +3255,8 @@
     bbox_x2: 563.38134765625
     double_fontsize_int: 20
   - index: 871
-    text: 'evaluation noted that only 20% of men reported problems with the cash received
-      as part the operation compared to '
-    text_base: evaluation noted that only 20 of men reported problems with the cash
-      received as part the operation compared to
+    text: 'evaluation noted that only 20% of men reported problems with the cash received as part the operation compared to '
+    text_base: evaluation noted that only 20 of men reported problems with the cash received as part the operation compared to
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 11
@@ -3678,10 +3270,8 @@
     bbox_x2: 563.5540771484375
     double_fontsize_int: 20
   - index: 872
-    text: '33% of women but as the type of problem faced was not recorded, the evaluation
-      suggests further investigation to be '
-    text_base: 33 of women but as the type of problem faced was not recorded the evaluation
-      suggests further investigation to be
+    text: '33% of women but as the type of problem faced was not recorded, the evaluation suggests further investigation to be '
+    text_base: 33 of women but as the type of problem faced was not recorded the evaluation suggests further investigation to be
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 11
@@ -3725,10 +3315,8 @@
     bbox_x2: 162.62887573242188
     double_fontsize_int: 20
   - index: 875
-    text: 'Participatory workshops on sharing experiences and identifying strengths
-      and weaknesses in the operation were held '
-    text_base: participatory workshops on sharing experiences and identifying strengths
-      and weaknesses in the operation were held
+    text: 'Participatory workshops on sharing experiences and identifying strengths and weaknesses in the operation were held '
+    text_base: participatory workshops on sharing experiences and identifying strengths and weaknesses in the operation were held
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 11
@@ -3742,10 +3330,8 @@
     bbox_x2: 563.57666015625
     double_fontsize_int: 20
   - index: 876
-    text: 'in three affected branches in April 2017. Lessons learned were translated
-      and used as material in the final evaluation '
-    text_base: in three affected branches in april 2017 lessons learned were translated
-      and used as material in the final evaluation
+    text: 'in three affected branches in April 2017. Lessons learned were translated and used as material in the final evaluation '
+    text_base: in three affected branches in april 2017 lessons learned were translated and used as material in the final evaluation
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 11
@@ -3759,10 +3345,8 @@
     bbox_x2: 563.565673828125
     double_fontsize_int: 20
   - index: 877
-    text: 'carried out in May 2017. The key recommendations of the evaluations were
-      dealt with CVTL through management '
-    text_base: carried out in may 2017 the key recommendations of the evaluations
-      were dealt with cvtl through management
+    text: 'carried out in May 2017. The key recommendations of the evaluations were dealt with CVTL through management '
+    text_base: carried out in may 2017 the key recommendations of the evaluations were dealt with cvtl through management
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 11
@@ -3776,10 +3360,8 @@
     bbox_x2: 563.1505126953125
     double_fontsize_int: 20
   - index: 878
-    text: 'response mechanism. One of the main recommendations is, to review the current
-      emergency Standard Operation '
-    text_base: response mechanism one of the main recommendations is to review the
-      current emergency standard operation
+    text: 'response mechanism. One of the main recommendations is, to review the current emergency Standard Operation '
+    text_base: response mechanism one of the main recommendations is to review the current emergency standard operation
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 11
@@ -3793,10 +3375,8 @@
     bbox_x2: 563.5451049804688
     double_fontsize_int: 20
   - index: 879
-    text: 'Procedures based on the lessons learned from the operation and new good
-      practices were created. '
-    text_base: procedures based on the lessons learned from the operation and new
-      good practices were created
+    text: 'Procedures based on the lessons learned from the operation and new good practices were created. '
+    text_base: procedures based on the lessons learned from the operation and new good practices were created
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 11
@@ -3810,56 +3390,8 @@
     bbox_x2: 490.18890380859375
     double_fontsize_int: 20
   items:
-  - Assessments 23 National Disaster Response Team (NDRT) and 90 Branch Response Team
-    (BDRT) members received training and refreshers on assessment methods prior to
-    conducting door to door household assessments in the twenty targeted communities
-    in May. The resulting data collected identified the 5,500 households that will
-    benefit from this operation as well as the 2,700 households identified as being
-    candidates for the CTP. Prior to the commencement of the CTP in October, each
-    community had its data revalidated by a fresh assessment and analysis. A pilot
-    livelihoods assessment and seasonal mapping took place in two villages in Lautem
-    in September 2016. Its purpose was to establish a more recent baseline and seasonal
-    calendar to inform livelihood options. This initiative resulted in the confirmation
-    and establishment of cash transfer programme as the primary livelihood and nutrition
-    activity.
-  - Community engagement and accountability Community engagement has been refocused
-    with the establishment of community recovery committees to support the implementation
-    of CTP and to disseminate information to affected communities. These groups are
-    representative of communities and include the vulnerable, women and established
-    leadership. Each committee is also responsible for the revalidation of beneficiary
-    data and engagement with branch volunteers and staff for the distribution of cash.
-    A complaint hotline has been activated at the CVTL headquarters data on the outcomes
-    of any calls was not available but will be analysed to inform programming in real
-    time.
-  - "Monitoring Informal recording of activities by CVTL staff and volunteers is ongoing.\
-    \ This will require continued strengthening to meet more formal reporting requirements\
-    \ but also to establish evidence based indicators of change and impact over the\
-    \ longer term. This is viewed as important by CVTL especially in relation to hygiene\
-    \ promotion and cash transfer activities. A monitoring template has been established\
-    \ to accompany the revised plan of action. A peer from Indonesian Red Cross (PMI)\
-    \ has recently conducted a PMER capacity assessment with support from the British\
-    \ Red Cross and will be used to guide future development. The final evaluation\
-    \ also noted the same need to strengthen CVTL\u2019s capacities in data collection\
-    \ and analysis, evident in the slow Post-Distribution Monitoring survey process.\
-    \ The Post Distribution Monitoring fell short of the planned 10% of the recipients\
-    \ receiving cash in envelope, reaching only 5.9% recipients (150 households out\
-    \ of 2,543 households was involved in the survey)."
-  - Gender and diversity Gendered impacts of drought were built into the in different
-    phases of the operation. Female-headed households, pregnant and nursing mothers
-    and families with small children were targeted with different strategies under
-    the operation. Disability inclusion was considered during the beneficiary selection
-    and the accessibility of cash distribution points to disabled beneficiaries was
-    properly ensured.  All beneficiary monitoring data recorded by the CVTL Disaster
-    Management Unit was disaggregated by sex but not by age groups. The operation
-    did not however meet the IFRC commitment of demonstrate evidence of addressing
-    sexual and gender-based violence or child protection. The final evaluation noted
-    that only 20% of men reported problems with the cash received as part the operation
-    compared to 33% of women but as the type of problem faced was not recorded, the
-    evaluation suggests further investigation to be made prior to future CTPs.
-  - Evaluation and learning Participatory workshops on sharing experiences and identifying
-    strengths and weaknesses in the operation were held in three affected branches
-    in April 2017. Lessons learned were translated and used as material in the final
-    evaluation carried out in May 2017. The key recommendations of the evaluations
-    were dealt with CVTL through management response mechanism. One of the main recommendations
-    is, to review the current emergency Standard Operation Procedures based on the
-    lessons learned from the operation and new good practices were created.
+  - Assessments 23 National Disaster Response Team (NDRT) and 90 Branch Response Team (BDRT) members received training and refreshers on assessment methods prior to conducting door to door household assessments in the twenty targeted communities in May. The resulting data collected identified the 5,500 households that will benefit from this operation as well as the 2,700 households identified as being candidates for the CTP. Prior to the commencement of the CTP in October, each community had its data revalidated by a fresh assessment and analysis. A pilot livelihoods assessment and seasonal mapping took place in two villages in Lautem in September 2016. Its purpose was to establish a more recent baseline and seasonal calendar to inform livelihood options. This initiative resulted in the confirmation and establishment of cash transfer programme as the primary livelihood and nutrition activity.
+  - Community engagement and accountability Community engagement has been refocused with the establishment of community recovery committees to support the implementation of CTP and to disseminate information to affected communities. These groups are representative of communities and include the vulnerable, women and established leadership. Each committee is also responsible for the revalidation of beneficiary data and engagement with branch volunteers and staff for the distribution of cash. A complaint hotline has been activated at the CVTL headquarters data on the outcomes of any calls was not available but will be analysed to inform programming in real time.
+  - "Monitoring Informal recording of activities by CVTL staff and volunteers is ongoing. This will require continued strengthening to meet more formal reporting requirements but also to establish evidence based indicators of change and impact over the longer term. This is viewed as important by CVTL especially in relation to hygiene promotion and cash transfer activities. A monitoring template has been established to accompany the revised plan of action. A peer from Indonesian Red Cross (PMI) has recently conducted a PMER capacity assessment with support from the British Red Cross and will be used to guide future development. The final evaluation also noted the same need to strengthen CVTL\u2019s capacities in data collection and analysis, evident in the slow Post-Distribution Monitoring survey process. The Post Distribution Monitoring fell short of the planned 10% of the recipients receiving cash in envelope, reaching only 5.9% recipients (150 households out of 2,543 households was involved in the survey)."
+  - Gender and diversity Gendered impacts of drought were built into the in different phases of the operation. Female-headed households, pregnant and nursing mothers and families with small children were targeted with different strategies under the operation. Disability inclusion was considered during the beneficiary selection and the accessibility of cash distribution points to disabled beneficiaries was properly ensured. All beneficiary monitoring data recorded by the CVTL Disaster Management Unit was disaggregated by sex but not by age groups. The operation did not however meet the IFRC commitment of demonstrate evidence of addressing sexual and gender-based violence or child protection. The final evaluation noted that only 20% of men reported problems with the cash received as part the operation compared to 33% of women but as the type of problem faced was not recorded, the evaluation suggests further investigation to be made prior to future CTPs.
+  - Evaluation and learning Participatory workshops on sharing experiences and identifying strengths and weaknesses in the operation were held in three affected branches in April 2017. Lessons learned were translated and used as material in the final evaluation carried out in May 2017. The key recommendations of the evaluations were dealt with CVTL through management response mechanism. One of the main recommendations is, to review the current emergency Standard Operation Procedures based on the lessons learned from the operation and new good practices were created.

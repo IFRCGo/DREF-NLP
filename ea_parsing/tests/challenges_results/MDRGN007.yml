@@ -29,10 +29,8 @@
     bbox: (59.51963806152344, 635.8104248046875, 64.07653045654297, 646.8646850585938)
     double_fontsize_int: 20
   - index: 444
-    text: "Integration of Red Cross volunteers and government Community Agents \u201C\
-      AC\u201D on the same operational "
-    text_base: integration of red cross volunteers and government community agents
-      ac on the same operational
+    text: "Integration of Red Cross volunteers and government Community Agents \u201CAC\u201D on the same operational "
+    text_base: integration of red cross volunteers and government community agents ac on the same operational
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -70,10 +68,8 @@
     bbox: (59.519630432128906, 658.7383422851562, 64.07652282714844, 669.7926025390625)
     double_fontsize_int: 20
   - index: 447
-    text: 'Harmonization of data with WHO agents working on the epidemiologic surveillance
-      in the community was '
-    text_base: harmonization of data with who agents working on the epidemiologic
-      surveillance in the community was
+    text: 'Harmonization of data with WHO agents working on the epidemiologic surveillance in the community was '
+    text_base: harmonization of data with who agents working on the epidemiologic surveillance in the community was
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -85,10 +81,8 @@
     bbox: (77.51734924316406, 656.984619140625, 558.0076293945312, 670.669677734375)
     double_fontsize_int: 20
   - index: 448
-    text: 'initially a challenge which was addressed through weekly coordination at
-      prefecture and national levels.  '
-    text_base: initially a challenge which was addressed through weekly coordination
-      at prefecture and national levels
+    text: 'initially a challenge which was addressed through weekly coordination at prefecture and national levels.  '
+    text_base: initially a challenge which was addressed through weekly coordination at prefecture and national levels
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 9
@@ -100,11 +94,8 @@
     bbox: (77.51736450195312, 668.50830078125, 540.0099487304688, 682.193359375)
     double_fontsize_int: 20
   items:
-  - "Integration of Red Cross volunteers and government Community Agents \u201CAC\u201D\
-    \ on the same operational strategy"
-  - Harmonization of data with WHO agents working on the epidemiologic surveillance
-    in the community was initially a challenge which was addressed through weekly
-    coordination at prefecture and national levels.
+  - "Integration of Red Cross volunteers and government Community Agents \u201CAC\u201D on the same operational strategy"
+  - Harmonization of data with WHO agents working on the epidemiologic surveillance in the community was initially a challenge which was addressed through weekly coordination at prefecture and national levels.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -123,10 +114,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 481
-    text: 'Due to lack of funding, WASH activities in schools could not be implemented.
-      However, like other public '
-    text_base: due to lack of funding wash activities in schools could not be implemented
-      however like other public
+    text: 'Due to lack of funding, WASH activities in schools could not be implemented. However, like other public '
+    text_base: due to lack of funding wash activities in schools could not be implemented however like other public
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -138,10 +127,8 @@
     bbox: (51.962039947509766, 290.0167236328125, 512.6829833984375, 303.7017517089844)
     double_fontsize_int: 20
   - index: 482
-    text: 'infrastructures, schools were benefiting hand sanitizers and disinfection
-      activities '
-    text_base: infrastructures schools were benefiting hand sanitizers and disinfection
-      activities
+    text: 'infrastructures, schools were benefiting hand sanitizers and disinfection activities '
+    text_base: infrastructures schools were benefiting hand sanitizers and disinfection activities
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -153,9 +140,7 @@
     bbox: (51.962039947509766, 301.4209289550781, 411.6076965332031, 315.10595703125)
     double_fontsize_int: 20
   items:
-  - Due to lack of funding, WASH activities in schools could not be implemented. However,
-    like other public infrastructures, schools were benefiting hand sanitizers and
-    disinfection activities
+  - Due to lack of funding, WASH activities in schools could not be implemented. However, like other public infrastructures, schools were benefiting hand sanitizers and disinfection activities
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -174,10 +159,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 542
-    text: 'Livelihood and economic support to EVD survivors could not be implemented
-      due to lack of funding. Thanks to the '
-    text_base: livelihood and economic support to evd survivors could not be implemented
-      due to lack of funding thanks to the
+    text: 'Livelihood and economic support to EVD survivors could not be implemented due to lack of funding. Thanks to the '
+    text_base: livelihood and economic support to evd survivors could not be implemented due to lack of funding thanks to the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -189,10 +172,8 @@
     bbox: (41.52000045776367, 336.3330078125, 557.9561767578125, 350.0180358886719)
     double_fontsize_int: 20
   - index: 543
-    text: 'coordination with other stakeholders in the country, the UNDP office in
-      Guinea in collaboration with local NGOs are '
-    text_base: coordination with other stakeholders in the country the undp office
-      in guinea in collaboration with local ngos are
+    text: 'coordination with other stakeholders in the country, the UNDP office in Guinea in collaboration with local NGOs are '
+    text_base: coordination with other stakeholders in the country the undp office in guinea in collaboration with local ngos are
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -204,10 +185,8 @@
     bbox: (41.52000427246094, 347.8567199707031, 557.9052734375, 361.541748046875)
     double_fontsize_int: 20
   - index: 544
-    text: 'providing economic support in terms of IGAs and rebuilding of infrastructures
-      to some selected affected communities. '
-    text_base: providing economic support in terms of igas and rebuilding of infrastructures
-      to some selected affected communities
+    text: 'providing economic support in terms of IGAs and rebuilding of infrastructures to some selected affected communities. '
+    text_base: providing economic support in terms of igas and rebuilding of infrastructures to some selected affected communities
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -219,11 +198,7 @@
     bbox: (41.52000045776367, 359.37298583984375, 558.0088500976562, 373.0580139160156)
     double_fontsize_int: 20
   items:
-  - Livelihood and economic support to EVD survivors could not be implemented due
-    to lack of funding. Thanks to the coordination with other stakeholders in the
-    country, the UNDP office in Guinea in collaboration with local NGOs are providing
-    economic support in terms of IGAs and rebuilding of infrastructures to some selected
-    affected communities.
+  - Livelihood and economic support to EVD survivors could not be implemented due to lack of funding. Thanks to the coordination with other stakeholders in the country, the UNDP office in Guinea in collaboration with local NGOs are providing economic support in terms of IGAs and rebuilding of infrastructures to some selected affected communities.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -242,10 +217,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 616
-    text: 'Due to lack of sufficient non-earmarked funding, the National logistics
-      base project could not be implemented. '
-    text_base: due to lack of sufficient non earmarked funding the national logistics
-      base project could not be implemented
+    text: 'Due to lack of sufficient non-earmarked funding, the National logistics base project could not be implemented. '
+    text_base: due to lack of sufficient non earmarked funding the national logistics base project could not be implemented
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -257,8 +230,7 @@
     bbox: (41.52000045776367, 311.376708984375, 528.4842529296875, 325.0617370605469)
     double_fontsize_int: 20
   items:
-  - 'Due to lack of sufficient non-earmarked funding, the National logistics base
-    project could not be implemented. '
+  - Due to lack of sufficient non-earmarked funding, the National logistics base project could not be implemented.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -277,10 +249,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 647
-    text: 'The sustainability of this project is within the government hands and therefore
-      the RC will have limited possibilities '
-    text_base: the sustainability of this project is within the government hands and
-      therefore the rc will have limited possibilities
+    text: 'The sustainability of this project is within the government hands and therefore the RC will have limited possibilities '
+    text_base: the sustainability of this project is within the government hands and therefore the rc will have limited possibilities
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -292,10 +262,8 @@
     bbox: (41.52000045776367, 634.532958984375, 547.3286743164062, 648.218017578125)
     double_fontsize_int: 20
   - index: 648
-    text: 'to ensure proper follow up and further simulation exercises or refresher
-      trainings '
-    text_base: to ensure proper follow up and further simulation exercises or refresher
-      trainings
+    text: 'to ensure proper follow up and further simulation exercises or refresher trainings '
+    text_base: to ensure proper follow up and further simulation exercises or refresher trainings
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -307,9 +275,7 @@
     bbox: (41.520050048828125, 646.0567626953125, 398.9943542480469, 659.7417602539062)
     double_fontsize_int: 20
   items:
-  - The sustainability of this project is within the government hands and therefore
-    the RC will have limited possibilities to ensure proper follow up and further
-    simulation exercises or refresher trainings
+  - The sustainability of this project is within the government hands and therefore the RC will have limited possibilities to ensure proper follow up and further simulation exercises or refresher trainings
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -341,10 +307,8 @@
     bbox: (59.51963806152344, 389.3304138183594, 64.07653045654297, 400.3846740722656)
     double_fontsize_int: 20
   - index: 693
-    text: 'The premature of the OD delegate from Guinea hampered the proper planning
-      of institutional needs and '
-    text_base: the premature of the od delegate from guinea hampered the proper planning
-      of institutional needs and
+    text: 'The premature of the OD delegate from Guinea hampered the proper planning of institutional needs and '
+    text_base: the premature of the od delegate from guinea hampered the proper planning of institutional needs and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -382,10 +346,8 @@
     bbox: (59.49969482421875, 412.3778381347656, 64.05658721923828, 423.4320983886719)
     double_fontsize_int: 20
   - index: 696
-    text: 'EVD was such a terrifying disease that the priority was solely put on health
-      issues, forgetting sometimes '
-    text_base: evd was such a terrifying disease that the priority was solely put
-      on health issues forgetting sometimes
+    text: 'EVD was such a terrifying disease that the priority was solely put on health issues, forgetting sometimes '
+    text_base: evd was such a terrifying disease that the priority was solely put on health issues forgetting sometimes
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -410,10 +372,8 @@
     bbox: (77.47744750976562, 422.0283508300781, 379.2854309082031, 435.71337890625)
     double_fontsize_int: 20
   items:
-  - The premature of the OD delegate from Guinea hampered the proper planning of institutional
-    needs and support to the NS. Some planned activities were not implanted,
-  - EVD was such a terrifying disease that the priority was solely put on health issues,
-    forgetting sometimes other important aspects of the RC including Capacity development,
+  - The premature of the OD delegate from Guinea hampered the proper planning of institutional needs and support to the NS. Some planned activities were not implanted,
+  - EVD was such a terrifying disease that the priority was solely put on health issues, forgetting sometimes other important aspects of the RC including Capacity development,
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -432,10 +392,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 714
-    text: 'The absence of an OD delegate in the country did not allow further trainings
-      for governance members in '
-    text_base: the absence of an od delegate in the country did not allow further
-      trainings for governance members in
+    text: 'The absence of an OD delegate in the country did not allow further trainings for governance members in '
+    text_base: the absence of an od delegate in the country did not allow further trainings for governance members in
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -460,8 +418,7 @@
     bbox: (51.959999084472656, 687.8204345703125, 155.89259338378906, 701.5054931640625)
     double_fontsize_int: 20
   items:
-  - The absence of an OD delegate in the country did not allow further trainings for
-    governance members in prefectural committees
+  - The absence of an OD delegate in the country did not allow further trainings for governance members in prefectural committees
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -480,10 +437,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 740
-    text: 'The NS still rely heavily on external funding including covering her core
-      costs, which hampers its full development '
-    text_base: the ns still rely heavily on external funding including covering her
-      core costs which hampers its full development
+    text: 'The NS still rely heavily on external funding including covering her core costs, which hampers its full development '
+    text_base: the ns still rely heavily on external funding including covering her core costs which hampers its full development
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -508,5 +463,4 @@
     bbox: (51.959999084472656, 288.81298828125, 176.52886962890625, 302.4980163574219)
     double_fontsize_int: 20
   items:
-  - The NS still rely heavily on external funding including covering her core costs,
-    which hampers its full development and financial independence
+  - The NS still rely heavily on external funding including covering her core costs, which hampers its full development and financial independence

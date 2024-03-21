@@ -22,10 +22,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 691
-    text: "\uF0D8  Protection, gender, and inclusion issues are important aspects\
-      \ to consider in selecting beneficiaries and "
-    text_base: protection gender and inclusion issues are important aspects to consider
-      in selecting beneficiaries and
+    text: "\uF0D8  Protection, gender, and inclusion issues are important aspects to consider in selecting beneficiaries and "
+    text_base: protection gender and inclusion issues are important aspects to consider in selecting beneficiaries and
     style: 'regular, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
@@ -43,10 +41,8 @@
     bbox_x2: 566.6450805664062
     double_fontsize_int: 20
   - index: 693
-    text: 'volunteers signing of code of conduct at the beginning of the operation.
-      In addition, this operation brought forth '
-    text_base: volunteers signing of code of conduct at the beginning of the operation
-      in addition this operation brought forth
+    text: 'volunteers signing of code of conduct at the beginning of the operation. In addition, this operation brought forth '
+    text_base: volunteers signing of code of conduct at the beginning of the operation in addition this operation brought forth
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
@@ -64,10 +60,8 @@
     bbox_x2: 566.6192016601562
     double_fontsize_int: 20
   - index: 694
-    text: 'a lesson that public selection and validation of beneficiaries minimizes
-      bias and increases chances that the '
-    text_base: a lesson that public selection and validation of beneficiaries minimizes
-      bias and increases chances that the
+    text: 'a lesson that public selection and validation of beneficiaries minimizes bias and increases chances that the '
+    text_base: a lesson that public selection and validation of beneficiaries minimizes bias and increases chances that the
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
@@ -85,10 +79,8 @@
     bbox_x2: 566.6361694335938
     double_fontsize_int: 20
   - index: 695
-    text: 'marginalised populations in communities will be identified and selected
-      to benefit from humanitarian assistance.  '
-    text_base: marginalised populations in communities will be identified and selected
-      to benefit from humanitarian assistance
+    text: 'marginalised populations in communities will be identified and selected to benefit from humanitarian assistance.  '
+    text_base: marginalised populations in communities will be identified and selected to benefit from humanitarian assistance
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
@@ -106,10 +98,8 @@
     bbox_x2: 569.39111328125
     double_fontsize_int: 20
   - index: 696
-    text: "\uF0D8  Feedback collection mechanisms and ensuring a process of listening\
-      \ to and incorporating insights from all "
-    text_base: feedback collection mechanisms and ensuring a process of listening
-      to and incorporating insights from all
+    text: "\uF0D8  Feedback collection mechanisms and ensuring a process of listening to and incorporating insights from all "
+    text_base: feedback collection mechanisms and ensuring a process of listening to and incorporating insights from all
     style: 'regular, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
@@ -127,10 +117,8 @@
     bbox_x2: 566.5647583007812
     double_fontsize_int: 20
   - index: 698
-    text: 'types, of feedback, including complaints and compliment, are important
-      tools in cash transfer projects.  '
-    text_base: types of feedback including complaints and compliment are important
-      tools in cash transfer projects
+    text: 'types, of feedback, including complaints and compliment, are important tools in cash transfer projects.  '
+    text_base: types of feedback including complaints and compliment are important tools in cash transfer projects
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
@@ -148,10 +136,8 @@
     bbox_x2: 533.3757934570312
     double_fontsize_int: 20
   - index: 699
-    text: "\uF0D8  Multiple modes of feedback are important as they provide opportunities\
-      \ to beneficiaries and non-beneficiaries "
-    text_base: multiple modes of feedback are important as they provide opportunities
-      to beneficiaries and non beneficiaries
+    text: "\uF0D8  Multiple modes of feedback are important as they provide opportunities to beneficiaries and non-beneficiaries "
+    text_base: multiple modes of feedback are important as they provide opportunities to beneficiaries and non beneficiaries
     style: 'regular, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
@@ -169,10 +155,8 @@
     bbox_x2: 566.5972900390625
     double_fontsize_int: 20
   - index: 701
-    text: 'to take part in improving the project strategies for improved implementation.
-      Red Cross actors can also use '
-    text_base: to take part in improving the project strategies for improved implementation
-      red cross actors can also use
+    text: 'to take part in improving the project strategies for improved implementation. Red Cross actors can also use '
+    text_base: to take part in improving the project strategies for improved implementation red cross actors can also use
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
@@ -190,10 +174,8 @@
     bbox_x2: 566.5693969726562
     double_fontsize_int: 20
   - index: 702
-    text: 'these different streams of information to triangulate feedback and identify
-      the most critical to apply to improving '
-    text_base: these different streams of information to triangulate feedback and
-      identify the most critical to apply to improving
+    text: 'these different streams of information to triangulate feedback and identify the most critical to apply to improving '
+    text_base: these different streams of information to triangulate feedback and identify the most critical to apply to improving
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 18
@@ -230,20 +212,9 @@
     bbox_x2: 146.46961975097656
     double_fontsize_int: 20
   items:
-  - "\uF0D8  Protection, gender, and inclusion issues are important aspects to consider\
-    \ in selecting beneficiaries and volunteers signing of code of conduct at the\
-    \ beginning of the operation. In addition, this operation brought forth a lesson\
-    \ that public selection and validation of beneficiaries minimizes bias and increases\
-    \ chances that the marginalised populations in communities will be identified\
-    \ and selected to benefit from humanitarian assistance."
-  - "\uF0D8  Feedback collection mechanisms and ensuring a process of listening to\
-    \ and incorporating insights from all types, of feedback, including complaints\
-    \ and compliment, are important tools in cash transfer projects."
-  - "\uF0D8  Multiple modes of feedback are important as they provide opportunities\
-    \ to beneficiaries and non-beneficiaries to take part in improving the project\
-    \ strategies for improved implementation. Red Cross actors can also use these\
-    \ different streams of information to triangulate feedback and identify the most\
-    \ critical to apply to improving the response."
+  - "\uF0D8 Protection, gender, and inclusion issues are important aspects to consider in selecting beneficiaries and volunteers signing of code of conduct at the beginning of the operation. In addition, this operation brought forth a lesson that public selection and validation of beneficiaries minimizes bias and increases chances that the marginalised populations in communities will be identified and selected to benefit from humanitarian assistance."
+  - "\uF0D8 Feedback collection mechanisms and ensuring a process of listening to and incorporating insights from all types, of feedback, including complaints and compliment, are important tools in cash transfer projects."
+  - "\uF0D8 Multiple modes of feedback are important as they provide opportunities to beneficiaries and non-beneficiaries to take part in improving the project strategies for improved implementation. Red Cross actors can also use these different streams of information to triangulate feedback and identify the most critical to apply to improving the response."
 - title:
     text: 'Lessons Learned '
     text_base: lessons learned
@@ -268,10 +239,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 763
-    text: 'Through implementation of the Emergency Appeal operation, it was learnt
-      that coordinated collaboration with all key '
-    text_base: through implementation of the emergency appeal operation it was learnt
-      that coordinated collaboration with all key
+    text: 'Through implementation of the Emergency Appeal operation, it was learnt that coordinated collaboration with all key '
+    text_base: through implementation of the emergency appeal operation it was learnt that coordinated collaboration with all key
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 20
@@ -289,10 +258,8 @@
     bbox_x2: 557.7787475585938
     double_fontsize_int: 20
   - index: 764
-    text: 'stakeholders is fundamental to effective project implementation to avert
-      duplication and misapplication of support. '
-    text_base: stakeholders is fundamental to effective project implementation to
-      avert duplication and misapplication of support
+    text: 'stakeholders is fundamental to effective project implementation to avert duplication and misapplication of support. '
+    text_base: stakeholders is fundamental to effective project implementation to avert duplication and misapplication of support
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 20
@@ -310,10 +277,8 @@
     bbox_x2: 557.78564453125
     double_fontsize_int: 20
   - index: 765
-    text: 'Additionally, it was learnt that engagement of key stakeholders in the
-      project cycle from start to finish is an important '
-    text_base: additionally it was learnt that engagement of key stakeholders in the
-      project cycle from start to finish is an important
+    text: 'Additionally, it was learnt that engagement of key stakeholders in the project cycle from start to finish is an important '
+    text_base: additionally it was learnt that engagement of key stakeholders in the project cycle from start to finish is an important
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 20
@@ -350,11 +315,7 @@
     bbox_x2: 257.88983154296875
     double_fontsize_int: 20
   items:
-  - Through implementation of the Emergency Appeal operation, it was learnt that coordinated
-    collaboration with all key stakeholders is fundamental to effective project implementation
-    to avert duplication and misapplication of support. Additionally, it was learnt
-    that engagement of key stakeholders in the project cycle from start to finish
-    is an important ingredient to successful project implementation.
+  - Through implementation of the Emergency Appeal operation, it was learnt that coordinated collaboration with all key stakeholders is fundamental to effective project implementation to avert duplication and misapplication of support. Additionally, it was learnt that engagement of key stakeholders in the project cycle from start to finish is an important ingredient to successful project implementation.
 - title:
     text: 'Lessons Learned '
     text_base: lessons learned
@@ -379,10 +340,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 836
-    text: 'Stakeholder collaboration is key to project success, in this operation,
-      ZRCS worked hand in hand with the Government '
-    text_base: stakeholder collaboration is key to project success in this operation
-      zrcs worked hand in hand with the government
+    text: 'Stakeholder collaboration is key to project success, in this operation, ZRCS worked hand in hand with the Government '
+    text_base: stakeholder collaboration is key to project success in this operation zrcs worked hand in hand with the government
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 21
@@ -400,10 +359,8 @@
     bbox_x2: 556.5189208984375
     double_fontsize_int: 20
   - index: 837
-    text: including structures at community level, this helps in sustainability of
-      the interventions .
-    text_base: including structures at community level this helps in sustainability
-      of the interventions
+    text: including structures at community level, this helps in sustainability of the interventions .
+    text_base: including structures at community level this helps in sustainability of the interventions
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 21
@@ -421,6 +378,4 @@
     bbox_x2: 421.92205810546875
     double_fontsize_int: 20
   items:
-  - Stakeholder collaboration is key to project success, in this operation, ZRCS worked
-    hand in hand with the Government including structures at community level, this
-    helps in sustainability of the interventions .
+  - Stakeholder collaboration is key to project success, in this operation, ZRCS worked hand in hand with the Government including structures at community level, this helps in sustainability of the interventions.

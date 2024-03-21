@@ -29,10 +29,8 @@
     bbox: (53.15999984741211, 221.12646484375, 57.7412109375, 233.32843017578125)
     double_fontsize_int: 20
   - index: 860
-    text: 'Limited staff in RCSBiH HQ due to delayed internal process of adoption
-      of Rulebook to enable employment '
-    text_base: limited staff in rcsbih hq due to delayed internal process of adoption
-      of rulebook to enable employment
+    text: 'Limited staff in RCSBiH HQ due to delayed internal process of adoption of Rulebook to enable employment '
+    text_base: limited staff in rcsbih hq due to delayed internal process of adoption of rulebook to enable employment
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 15
@@ -44,10 +42,8 @@
     bbox: (71.18399810791016, 220.49423217773438, 562.79443359375, 234.05792236328125)
     double_fontsize_int: 20
   - index: 861
-    text: 'of the personnel needed for well-functioning of the RCSBiH HQs and strengthening
-      its technical and '
-    text_base: of the personnel needed for well functioning of the rcsbih hqs and
-      strengthening its technical and
+    text: 'of the personnel needed for well-functioning of the RCSBiH HQs and strengthening its technical and '
+    text_base: of the personnel needed for well functioning of the rcsbih hqs and strengthening its technical and
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 15
@@ -111,10 +107,8 @@
     bbox: (53.15999984741211, 279.95648193359375, 57.7412109375, 292.158447265625)
     double_fontsize_int: 20
   - index: 866
-    text: ' Frequent changes in political context which required Red Cross organization
-      to be flexible and prepared '
-    text_base: frequent changes in political context which required red cross organization
-      to be flexible and prepared
+    text: ' Frequent changes in political context which required Red Cross organization to be flexible and prepared '
+    text_base: frequent changes in political context which required red cross organization to be flexible and prepared
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 15
@@ -152,13 +146,9 @@
     bbox: (71.18399810791016, 308.7242736816406, 333.84490966796875, 322.2879638671875)
     double_fontsize_int: 20
   items:
-  - Limited staff in RCSBiH HQ due to delayed internal process of adoption of Rulebook
-    to enable employment of the personnel needed for well-functioning of the RCSBiH
-    HQs and strengthening its technical and coordination role in implementation of
-    the field activities
+  - Limited staff in RCSBiH HQ due to delayed internal process of adoption of Rulebook to enable employment of the personnel needed for well-functioning of the RCSBiH HQs and strengthening its technical and coordination role in implementation of the field activities
   - The delay in the procurement processes
-  - Frequent changes in political context which required Red Cross organization to
-    be flexible and prepared to respond at any location in the country.
+  - Frequent changes in political context which required Red Cross organization to be flexible and prepared to respond at any location in the country.
   - For more details, please refer to Operations Updates 1-9
 - title:
     text: 'Challenges '
@@ -191,10 +181,8 @@
     bbox: (52.91999816894531, 547.4564819335938, 57.5012092590332, 559.658447265625)
     double_fontsize_int: 20
   - index: 944
-    text: 'Lack of staff in National Society due to delayed internal process of adoption
-      of Rulebook to enable '
-    text_base: lack of staff in national society due to delayed internal process of
-      adoption of rulebook to enable
+    text: 'Lack of staff in National Society due to delayed internal process of adoption of Rulebook to enable '
+    text_base: lack of staff in national society due to delayed internal process of adoption of rulebook to enable
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -206,10 +194,8 @@
     bbox: (70.8239974975586, 546.82421875, 565.1106567382812, 560.387939453125)
     double_fontsize_int: 20
   - index: 945
-    text: 'employment of the personnel needed for well-functioning of the RCSBiH HQs
-      and strengthening its '
-    text_base: employment of the personnel needed for well functioning of the rcsbih
-      hqs and strengthening its
+    text: 'employment of the personnel needed for well-functioning of the RCSBiH HQs and strengthening its '
+    text_base: employment of the personnel needed for well functioning of the rcsbih hqs and strengthening its
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -247,10 +233,8 @@
     bbox: (52.91999816894531, 588.2564697265625, 57.5012092590332, 600.4584350585938)
     double_fontsize_int: 20
   - index: 948
-    text: 'Changing situation on the ground, leading to increased number of people
-      staying outside TRCs in need of '
-    text_base: changing situation on the ground leading to increased number of people
-      staying outside trcs in need of
+    text: 'Changing situation on the ground, leading to increased number of people staying outside TRCs in need of '
+    text_base: changing situation on the ground leading to increased number of people staying outside trcs in need of
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -288,10 +272,8 @@
     bbox: (52.91999816894531, 615.5264892578125, 57.5012092590332, 627.7284545898438)
     double_fontsize_int: 20
   - index: 951
-    text: 'Insufficient number of volunteers and staff to be allocated from emergency
-      migrant assistance to work on '
-    text_base: insufficient number of volunteers and staff to be allocated from emergency
-      migrant assistance to work on
+    text: 'Insufficient number of volunteers and staff to be allocated from emergency migrant assistance to work on '
+    text_base: insufficient number of volunteers and staff to be allocated from emergency migrant assistance to work on
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -303,10 +285,8 @@
     bbox: (70.8239974975586, 614.8942260742188, 564.7080078125, 628.4579467773438)
     double_fontsize_int: 20
   - index: 952
-    text: 'cash program as during the reporting period situation continued to be very
-      critical in terms of migrant '
-    text_base: cash program as during the reporting period situation continued to
-      be very critical in terms of migrant
+    text: 'cash program as during the reporting period situation continued to be very critical in terms of migrant '
+    text_base: cash program as during the reporting period situation continued to be very critical in terms of migrant
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 16
@@ -331,16 +311,9 @@
     bbox: (70.8239974975586, 642.1342163085938, 359.53729248046875, 655.6979370117188)
     double_fontsize_int: 20
   items:
-  - Lack of staff in National Society due to delayed internal process of adoption
-    of Rulebook to enable employment of the personnel needed for well-functioning
-    of the RCSBiH HQs and strengthening its coordination Public role in implementation
-    of the field activities
-  - Changing situation on the ground, leading to increased number of people staying
-    outside TRCs in need of emergency assistance.
-  - "Insufficient number of volunteers and staff to be allocated from emergency migrant\
-    \ assistance to work on cash program as during the reporting period situation\
-    \ continued to be very critical in terms of migrant crisis in various parts of\
-    \ BiH and particularly in USC and Biha\u0107"
+  - Lack of staff in National Society due to delayed internal process of adoption of Rulebook to enable employment of the personnel needed for well-functioning of the RCSBiH HQs and strengthening its coordination Public role in implementation of the field activities
+  - Changing situation on the ground, leading to increased number of people staying outside TRCs in need of emergency assistance.
+  - "Insufficient number of volunteers and staff to be allocated from emergency migrant assistance to work on cash program as during the reporting period situation continued to be very critical in terms of migrant crisis in various parts of BiH and particularly in USC and Biha\u0107"
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -372,10 +345,8 @@
     bbox: (53.15999984741211, 310.5565185546875, 57.7412109375, 322.75848388671875)
     double_fontsize_int: 20
   - index: 1028
-    text: 'Insufficient financial or in-kind support at the beginning of the response
-      to cover growing needs, which '
-    text_base: insufficient financial or in kind support at the beginning of the response
-      to cover growing needs which
+    text: 'Insufficient financial or in-kind support at the beginning of the response to cover growing needs, which '
+    text_base: insufficient financial or in kind support at the beginning of the response to cover growing needs which
     style: 'regular, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 18
@@ -387,10 +358,8 @@
     bbox: (71.18399810791016, 309.9242858886719, 551.6575317382812, 323.48797607421875)
     double_fontsize_int: 20
   - index: 1029
-    text: 'have increased during the course of the operation especially due to the
-      situation on Lipa location. '
-    text_base: have increased during the course of the operation especially due to
-      the situation on lipa location
+    text: 'have increased during the course of the operation especially due to the situation on Lipa location. '
+    text_base: have increased during the course of the operation especially due to the situation on lipa location
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -467,10 +436,8 @@
     bbox: (53.15999984741211, 360.59649658203125, 57.7412109375, 372.7984619140625)
     double_fontsize_int: 20
   - index: 1035
-    text: 'Limited number of trained NS staff, lack of transportation means to be
-      used for MT activities  '
-    text_base: limited number of trained ns staff lack of transportation means to
-      be used for mt activities
+    text: 'Limited number of trained NS staff, lack of transportation means to be used for MT activities  '
+    text_base: limited number of trained ns staff lack of transportation means to be used for mt activities
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -495,10 +462,8 @@
     bbox: (53.15999984741211, 373.07647705078125, 57.7412109375, 385.2784423828125)
     double_fontsize_int: 20
   - index: 1037
-    text: 'Limited quantities of relief/FA materials available for use/distribution
-      by MTs on the ground  '
-    text_base: limited quantities of relief fa materials available for use distribution
-      by mts on the ground
+    text: 'Limited quantities of relief/FA materials available for use/distribution by MTs on the ground  '
+    text_base: limited quantities of relief fa materials available for use distribution by mts on the ground
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -523,10 +488,8 @@
     bbox: (53.15999984741211, 385.5564880371094, 57.7412109375, 397.7584533691406)
     double_fontsize_int: 20
   - index: 1039
-    text: 'Insufficient experienced medical staff to relieve current staff and ensure
-      rotation in shifts  '
-    text_base: insufficient experienced medical staff to relieve current staff and
-      ensure rotation in shifts
+    text: 'Insufficient experienced medical staff to relieve current staff and ensure rotation in shifts  '
+    text_base: insufficient experienced medical staff to relieve current staff and ensure rotation in shifts
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -551,10 +514,8 @@
     bbox: (53.15999984741211, 398.0364990234375, 57.7412109375, 410.23846435546875)
     double_fontsize_int: 20
   - index: 1041
-    text: 'Insufficient supply of water for hygiene purposes and extremely poor sanitation
-      conditions posing huge '
-    text_base: insufficient supply of water for hygiene purposes and extremely poor
-      sanitation conditions posing huge
+    text: 'Insufficient supply of water for hygiene purposes and extremely poor sanitation conditions posing huge '
+    text_base: insufficient supply of water for hygiene purposes and extremely poor sanitation conditions posing huge
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -619,8 +580,7 @@
     double_fontsize_int: 20
   - index: 1046
     text: 'Restrictive measures by the Governments at all levels due to COVID-19 '
-    text_base: restrictive measures by the governments at all levels due to covid
-      19
+    text_base: restrictive measures by the governments at all levels due to covid 19
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 18
@@ -658,19 +618,13 @@
     bbox: (71.18399810791016, 447.4642639160156, 260.8772888183594, 461.0279541015625)
     double_fontsize_int: 20
   items:
-  - Insufficient financial or in-kind support at the beginning of the response to
-    cover growing needs, which have increased during the course of the operation especially
-    due to the situation on Lipa location.
+  - Insufficient financial or in-kind support at the beginning of the response to cover growing needs, which have increased during the course of the operation especially due to the situation on Lipa location.
   - Lack of FA materials/replenishments.
   - Lack of access/opportunities to engage with migrants.
-  - Limited number of trained NS staff, lack of transportation means to be used for
-    MT activities
-  - Limited quantities of relief/FA materials available for use/distribution by MTs
-    on the ground
-  - Insufficient experienced medical staff to relieve current staff and ensure rotation
-    in shifts
-  - Insufficient supply of water for hygiene purposes and extremely poor sanitation
-    conditions posing huge health risks
+  - Limited number of trained NS staff, lack of transportation means to be used for MT activities
+  - Limited quantities of relief/FA materials available for use/distribution by MTs on the ground
+  - Insufficient experienced medical staff to relieve current staff and ensure rotation in shifts
+  - Insufficient supply of water for hygiene purposes and extremely poor sanitation conditions posing huge health risks
   - Many cases of scabies
   - Restrictive measures by the Governments at all levels due to COVID-19
   - The delay in the procurement processes
@@ -731,10 +685,8 @@
     bbox: (53.15999984741211, 319.43646240234375, 57.7412109375, 331.638427734375)
     double_fontsize_int: 20
   - index: 1138
-    text: "Poor sanitation conditions on Vu\u010Djak location, checkpoint Vele\u010D\
-      evo (Klju\u010D) and on Lipa location.  "
-    text_base: poor sanitation conditions on vu jak location checkpoint vele evo klju
-      and on lipa location
+    text: "Poor sanitation conditions on Vu\u010Djak location, checkpoint Vele\u010Devo (Klju\u010D) and on Lipa location.  "
+    text_base: poor sanitation conditions on vu jak location checkpoint vele evo klju and on lipa location
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -747,8 +699,7 @@
     double_fontsize_int: 20
   items:
   - Limited number of trained volunteers.
-  - "Poor sanitation conditions on Vu\u010Djak location, checkpoint Vele\u010Devo\
-    \ (Klju\u010D) and on Lipa location."
+  - "Poor sanitation conditions on Vu\u010Djak location, checkpoint Vele\u010Devo (Klju\u010D) and on Lipa location."
 - title:
     text: Challenges
     text_base: challenges
@@ -807,8 +758,7 @@
     double_fontsize_int: 20
   - index: 1180
     text: 'Restrictive measures by the Governments at all levels due to COVID-19 '
-    text_base: restrictive measures by the governments at all levels due to covid
-      19
+    text_base: restrictive measures by the governments at all levels due to covid 19
     style: 'regular, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 20
@@ -879,10 +829,8 @@
     bbox: (85.10399627685547, 717.31298828125, 91.3528823852539, 730.9979858398438)
     double_fontsize_int: 20
   - index: 1237
-    text: 'COVID-19 restrictions caused cancellation of trainings and some physical
-      group meetings which '
-    text_base: covid 19 restrictions caused cancellation of trainings and some physical
-      group meetings which
+    text: 'COVID-19 restrictions caused cancellation of trainings and some physical group meetings which '
+    text_base: covid 19 restrictions caused cancellation of trainings and some physical group meetings which
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 21
@@ -908,8 +856,7 @@
     double_fontsize_int: 20
   items:
   - Number of trained volunteers.
-  - COVID-19 restrictions caused cancellation of trainings and some physical group
-    meetings which were not carried out.
+  - COVID-19 restrictions caused cancellation of trainings and some physical group meetings which were not carried out.
 - title:
     text: Challenges
     text_base: challenges
@@ -967,10 +914,8 @@
     bbox: (84.86399841308594, 720.9129638671875, 91.11288452148438, 734.5980224609375)
     double_fontsize_int: 20
   - index: 1328
-    text: 'COVID-19 restrictions have caused cancellation of trainings and some physical
-      group meetings '
-    text_base: covid 19 restrictions have caused cancellation of trainings and some
-      physical group meetings
+    text: 'COVID-19 restrictions have caused cancellation of trainings and some physical group meetings '
+    text_base: covid 19 restrictions have caused cancellation of trainings and some physical group meetings
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 22
@@ -996,8 +941,7 @@
     double_fontsize_int: 20
   items:
   - Number of trained volunteers.
-  - COVID-19 restrictions have caused cancellation of trainings and some physical
-    group meetings which were not carried out.
+  - COVID-19 restrictions have caused cancellation of trainings and some physical group meetings which were not carried out.
 - title:
     text: Challenges
     text_base: challenges
@@ -1029,10 +973,8 @@
     bbox: (84.86399841308594, 141.23300170898438, 91.11288452148438, 154.9180450439453)
     double_fontsize_int: 20
   - index: 1432
-    text: 'Insufficient capacities of the NS to conduct surveys among staff and volunteers
-      as well as target '
-    text_base: insufficient capacities of the ns to conduct surveys among staff and
-      volunteers as well as target
+    text: 'Insufficient capacities of the NS to conduct surveys among staff and volunteers as well as target '
+    text_base: insufficient capacities of the ns to conduct surveys among staff and volunteers as well as target
     style: 'regular, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 24
@@ -1070,10 +1012,8 @@
     bbox: (84.86399841308594, 162.47299194335938, 91.11288452148438, 176.1580352783203)
     double_fontsize_int: 20
   - index: 1435
-    text: 'COVID-19 restrictions caused cancellation of trainings and some physical
-      group meetings which '
-    text_base: covid 19 restrictions caused cancellation of trainings and some physical
-      group meetings which
+    text: 'COVID-19 restrictions caused cancellation of trainings and some physical group meetings which '
+    text_base: covid 19 restrictions caused cancellation of trainings and some physical group meetings which
     style: 'regular, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 24
@@ -1098,10 +1038,8 @@
     bbox: (102.86000061035156, 173.09426879882812, 203.1572723388672, 186.657958984375)
     double_fontsize_int: 20
   items:
-  - Insufficient capacities of the NS to conduct surveys among staff and volunteers
-    as well as target population.
-  - COVID-19 restrictions caused cancellation of trainings and some physical group
-    meetings which were not carried out.
+  - Insufficient capacities of the NS to conduct surveys among staff and volunteers as well as target population.
+  - COVID-19 restrictions caused cancellation of trainings and some physical group meetings which were not carried out.
 - title:
     text: Challenges
     text_base: challenges
@@ -1133,10 +1071,8 @@
     bbox: (84.86399841308594, 232.07296752929688, 91.11288452148438, 245.7580108642578)
     double_fontsize_int: 20
   - index: 1509
-    text: 'COVID-19 restrictions have caused cancellation of trainings and some physical
-      group meetings which '
-    text_base: covid 19 restrictions have caused cancellation of trainings and some
-      physical group meetings which
+    text: 'COVID-19 restrictions have caused cancellation of trainings and some physical group meetings which '
+    text_base: covid 19 restrictions have caused cancellation of trainings and some physical group meetings which
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 25
@@ -1161,5 +1097,4 @@
     bbox: (102.86000061035156, 242.63296508789062, 221.81887817382812, 256.3179931640625)
     double_fontsize_int: 20
   items:
-  - COVID-19 restrictions have caused cancellation of trainings and some physical
-    group meetings which have not been carried out.
+  - COVID-19 restrictions have caused cancellation of trainings and some physical group meetings which have not been carried out.

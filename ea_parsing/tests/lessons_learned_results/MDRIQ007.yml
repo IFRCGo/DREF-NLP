@@ -16,10 +16,8 @@
   sector_similarity_score: null
   content:
   - index: 539
-    text: 'Having received hands-on-training, volunteers and staff gained knowledge
-      and skills that will go a long way into  improving  '
-    text_base: having received hands on training volunteers and staff gained knowledge
-      and skills that will go a long way into improving
+    text: 'Having received hands-on-training, volunteers and staff gained knowledge and skills that will go a long way into  improving  '
+    text_base: having received hands on training volunteers and staff gained knowledge and skills that will go a long way into improving
     style: 'arial, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 10
@@ -31,10 +29,8 @@
     bbox: (36.0, 159.23300170898438, 583.4488525390625, 172.9180450439453)
     double_fontsize_int: 20
   - index: 540
-    text: 'delivery of humanitarian assistance in an effective  manner. The knowledge,
-      techniques and skills obtained from training '
-    text_base: delivery of humanitarian assistance in an effective manner the knowledge
-      techniques and skills obtained from training
+    text: 'delivery of humanitarian assistance in an effective  manner. The knowledge, techniques and skills obtained from training '
+    text_base: delivery of humanitarian assistance in an effective manner the knowledge techniques and skills obtained from training
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -46,10 +42,8 @@
     bbox: (36.0, 170.75302124023438, 580.5153198242188, 184.4380645751953)
     double_fontsize_int: 20
   - index: 541
-    text: 'will be cascaded down to a wide  volunteer base through peer learning:
-      untrained volunteers will be placed with trained '
-    text_base: will be cascaded down to a wide volunteer base through peer learning
-      untrained volunteers will be placed with trained
+    text: 'will be cascaded down to a wide  volunteer base through peer learning: untrained volunteers will be placed with trained '
+    text_base: will be cascaded down to a wide volunteer base through peer learning untrained volunteers will be placed with trained
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -61,10 +55,8 @@
     bbox: (36.0, 182.15298461914062, 580.361328125, 195.83802795410156)
     double_fontsize_int: 20
   - index: 542
-    text: 'volunteers in deployments with  the hope of knowledge transfer.  As an
-      only enabling factor to conduct capacity building in '
-    text_base: volunteers in deployments with the hope of knowledge transfer as an
-      only enabling factor to conduct capacity building in
+    text: 'volunteers in deployments with  the hope of knowledge transfer.  As an only enabling factor to conduct capacity building in '
+    text_base: volunteers in deployments with the hope of knowledge transfer as an only enabling factor to conduct capacity building in
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -76,10 +68,8 @@
     bbox: (36.0, 193.67300415039062, 580.3063354492188, 207.35804748535156)
     double_fontsize_int: 20
   - index: 543
-    text: 'any field and/or with particular attention to the operations management
-      and associated support services delivering '
-    text_base: any field and or with particular attention to the operations management
-      and associated support services delivering
+    text: 'any field and/or with particular attention to the operations management and associated support services delivering '
+    text_base: any field and or with particular attention to the operations management and associated support services delivering
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -91,10 +81,8 @@
     bbox: (36.0, 205.19302368164062, 580.1622314453125, 218.87806701660156)
     double_fontsize_int: 20
   - index: 544
-    text: 'humanitarian services at HQ and Branch level can be effectively targeted
-      if either IFRC receives earmarked funding for '
-    text_base: humanitarian services at hq and branch level can be effectively targeted
-      if either ifrc receives earmarked funding for
+    text: 'humanitarian services at HQ and Branch level can be effectively targeted if either IFRC receives earmarked funding for '
+    text_base: humanitarian services at hq and branch level can be effectively targeted if either ifrc receives earmarked funding for
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -106,10 +94,8 @@
     bbox: (36.0, 216.74301147460938, 580.3606567382812, 230.4280548095703)
     double_fontsize_int: 20
   - index: 545
-    text: 'capacity building or receives more of un-earmarked funding providing better
-      management flexibility to utilize funds as per '
-    text_base: capacity building or receives more of un earmarked funding providing
-      better management flexibility to utilize funds as per
+    text: 'capacity building or receives more of un-earmarked funding providing better management flexibility to utilize funds as per '
+    text_base: capacity building or receives more of un earmarked funding providing better management flexibility to utilize funds as per
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -134,10 +120,8 @@
     bbox: (36.0, 239.78298950195312, 85.47288513183594, 253.46803283691406)
     double_fontsize_int: 20
   - index: 547
-    text: 'Higher visibility is required when  conducting major Red Cross Red Crescent
-      events.  '
-    text_base: higher visibility is required when conducting major red cross red crescent
-      events
+    text: 'Higher visibility is required when  conducting major Red Cross Red Crescent events.  '
+    text_base: higher visibility is required when conducting major red cross red crescent events
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -149,10 +133,8 @@
     bbox: (36.0, 264.6230163574219, 415.0688781738281, 278.30804443359375)
     double_fontsize_int: 20
   - index: 548
-    text: 'Better focus on the selected staff and volunteers necessary to maintain
-      the longevity in office and experience and  hence '
-    text_base: better focus on the selected staff and volunteers necessary to maintain
-      the longevity in office and experience and hence
+    text: 'Better focus on the selected staff and volunteers necessary to maintain the longevity in office and experience and  hence '
+    text_base: better focus on the selected staff and volunteers necessary to maintain the longevity in office and experience and hence
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -177,20 +159,9 @@
     bbox: (36.0, 287.6629943847656, 167.81887817382812, 301.3480224609375)
     double_fontsize_int: 20
   items:
-  - 'Having received hands-on-training, volunteers and staff gained knowledge and
-    skills that will go a long way into  improving delivery of humanitarian assistance
-    in an effective  manner. The knowledge, techniques and skills obtained from training
-    will be cascaded down to a wide  volunteer base through peer learning: untrained
-    volunteers will be placed with trained volunteers in deployments with  the hope
-    of knowledge transfer.  As an only enabling factor to conduct capacity building
-    in any field and/or with particular attention to the operations management and
-    associated support services delivering humanitarian services at HQ and Branch
-    level can be effectively targeted if either IFRC receives earmarked funding for
-    capacity building or receives more of un-earmarked funding providing better management
-    flexibility to utilize funds as per the needs.'
-  - Higher visibility is required when  conducting major Red Cross Red Crescent events.
-  - Better focus on the selected staff and volunteers necessary to maintain the longevity
-    in office and experience and  hence knowledge transfer to others.
+  - 'Having received hands-on-training, volunteers and staff gained knowledge and skills that will go a long way into improving delivery of humanitarian assistance in an effective manner. The knowledge, techniques and skills obtained from training will be cascaded down to a wide volunteer base through peer learning: untrained volunteers will be placed with trained volunteers in deployments with the hope of knowledge transfer. As an only enabling factor to conduct capacity building in any field and/or with particular attention to the operations management and associated support services delivering humanitarian services at HQ and Branch level can be effectively targeted if either IFRC receives earmarked funding for capacity building or receives more of un-earmarked funding providing better management flexibility to utilize funds as per the needs.'
+  - Higher visibility is required when conducting major Red Cross Red Crescent events.
+  - Better focus on the selected staff and volunteers necessary to maintain the longevity in office and experience and hence knowledge transfer to others.
 - title:
     text: 'Lessons Learned '
     text_base: lessons learned
@@ -209,10 +180,8 @@
   sector_similarity_score: null
   content:
   - index: 613
-    text: 'Joint information and publicity  efforts of  IRCS and IFRC to bring more
-      attention to the crisis and ongoing displacement. '
-    text_base: joint information and publicity efforts of ircs and ifrc to bring more
-      attention to the crisis and ongoing displacement
+    text: 'Joint information and publicity  efforts of  IRCS and IFRC to bring more attention to the crisis and ongoing displacement. '
+    text_base: joint information and publicity efforts of ircs and ifrc to bring more attention to the crisis and ongoing displacement
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -224,10 +193,8 @@
     bbox: (36.0, 440.2030029296875, 580.3609619140625, 453.8880310058594)
     double_fontsize_int: 20
   - index: 614
-    text: 'Resource Mobilization  gaps can only be narrowed through wider publicity
-      and donor relations at regional and country '
-    text_base: resource mobilization gaps can only be narrowed through wider publicity
-      and donor relations at regional and country
+    text: 'Resource Mobilization  gaps can only be narrowed through wider publicity and donor relations at regional and country '
+    text_base: resource mobilization gaps can only be narrowed through wider publicity and donor relations at regional and country
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -252,10 +219,8 @@
     bbox: (36.0, 463.2430114746094, 67.11288452148438, 476.92803955078125)
     double_fontsize_int: 20
   - index: 616
-    text: "Despite shortage of funding, IRCS\u2019s support to  branches and volunteers\
-      \  with other agencies, including government "
-    text_base: despite shortage of funding ircs s support to branches and volunteers
-      with other agencies including government
+    text: "Despite shortage of funding, IRCS\u2019s support to  branches and volunteers  with other agencies, including government "
+    text_base: despite shortage of funding ircs s support to branches and volunteers with other agencies including government
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -280,12 +245,8 @@
     bbox: (36.0, 497.6830139160156, 360.1988830566406, 511.3680419921875)
     double_fontsize_int: 20
   items:
-  - Joint information and publicity  efforts of  IRCS and IFRC to bring more attention
-    to the crisis and ongoing displacement. Resource Mobilization  gaps can only be
-    narrowed through wider publicity and donor relations at regional and country levels.
-  - "Despite shortage of funding, IRCS\u2019s support to  branches and volunteers\
-    \  with other agencies, including government helped timely distribution of aid\
-    \  to displaced people in remote locations."
+  - Joint information and publicity efforts of IRCS and IFRC to bring more attention to the crisis and ongoing displacement. Resource Mobilization gaps can only be narrowed through wider publicity and donor relations at regional and country levels.
+  - "Despite shortage of funding, IRCS\u2019s support to branches and volunteers with other agencies, including government helped timely distribution of aid to displaced people in remote locations."
 - title:
     text: 'Lessons Learned '
     text_base: lessons learned
@@ -304,10 +265,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 652
-    text: 'The situation of displaced people rapidly increased with needs of basic
-      assistance.  Thus, the prepositioned relief supplies '
-    text_base: the situation of displaced people rapidly increased with needs of basic
-      assistance thus the prepositioned relief supplies
+    text: 'The situation of displaced people rapidly increased with needs of basic assistance.  Thus, the prepositioned relief supplies '
+    text_base: the situation of displaced people rapidly increased with needs of basic assistance thus the prepositioned relief supplies
     style: 'arial, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 12
@@ -332,8 +291,7 @@
     bbox: (36.0, 361.8429870605469, 238.37887573242188, 375.52801513671875)
     double_fontsize_int: 20
   items:
-  - The situation of displaced people rapidly increased with needs of basic assistance.  Thus,
-    the prepositioned relief supplies were insufficient in meeting growing needs.
+  - The situation of displaced people rapidly increased with needs of basic assistance. Thus, the prepositioned relief supplies were insufficient in meeting growing needs.
 - title:
     text: 'Lessons Learned '
     text_base: lessons learned
@@ -352,10 +310,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 680
-    text: 'IFRC is to consider wider publicity and targeted RM action with traditional
-      and non-traditional donor partners. '
-    text_base: ifrc is to consider wider publicity and targeted rm action with traditional
-      and non traditional donor partners
+    text: 'IFRC is to consider wider publicity and targeted RM action with traditional and non-traditional donor partners. '
+    text_base: ifrc is to consider wider publicity and targeted rm action with traditional and non traditional donor partners
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -367,8 +323,7 @@
     bbox: (36.0, 86.39297485351562, 519.1288452148438, 100.07801818847656)
     double_fontsize_int: 20
   items:
-  - 'IFRC is to consider wider publicity and targeted RM action with traditional and
-    non-traditional donor partners. '
+  - IFRC is to consider wider publicity and targeted RM action with traditional and non-traditional donor partners.
 - title:
     text: 'Lessons Learned '
     text_base: lessons learned
@@ -387,10 +342,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 730
-    text: 'Operating in evolving situation, IRCS is investing in the area of RO units
-      to increase its coverage of beneficiaries. In '
-    text_base: operating in evolving situation ircs is investing in the area of ro
-      units to increase its coverage of beneficiaries in
+    text: 'Operating in evolving situation, IRCS is investing in the area of RO units to increase its coverage of beneficiaries. In '
+    text_base: operating in evolving situation ircs is investing in the area of ro units to increase its coverage of beneficiaries in
     style: 'arial, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 14
@@ -402,10 +355,8 @@
     bbox: (36.0, 199.79299926757812, 575.5521850585938, 213.47804260253906)
     double_fontsize_int: 20
   - index: 731
-    text: 'addition, it focuses on training of volunteers and staff across branches
-      on hygiene education to be immediately mobilized '
-    text_base: addition it focuses on training of volunteers and staff across branches
-      on hygiene education to be immediately mobilized
+    text: 'addition, it focuses on training of volunteers and staff across branches on hygiene education to be immediately mobilized '
+    text_base: addition it focuses on training of volunteers and staff across branches on hygiene education to be immediately mobilized
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -430,10 +381,7 @@
     bbox: (36.0, 222.74301147460938, 257.8188781738281, 236.4280548095703)
     double_fontsize_int: 20
   items:
-  - Operating in evolving situation, IRCS is investing in the area of RO units to
-    increase its coverage of beneficiaries. In addition, it focuses on training of
-    volunteers and staff across branches on hygiene education to be immediately mobilized
-    for prevention  of potential water borne diseases.
+  - Operating in evolving situation, IRCS is investing in the area of RO units to increase its coverage of beneficiaries. In addition, it focuses on training of volunteers and staff across branches on hygiene education to be immediately mobilized for prevention of potential water borne diseases.
 - title:
     text: Lessons Learned
     text_base: lessons learned
@@ -452,10 +400,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 752
-    text: 'More emphasize on publicity and information management needs to be done
-      in the interest of Iraq case and IRCS as '
-    text_base: more emphasize on publicity and information management needs to be
-      done in the interest of iraq case and ircs as
+    text: 'More emphasize on publicity and information management needs to be done in the interest of Iraq case and IRCS as '
+    text_base: more emphasize on publicity and information management needs to be done in the interest of iraq case and ircs as
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -467,10 +413,8 @@
     bbox: (45.959999084472656, 556.6329345703125, 583.4488525390625, 570.3179931640625)
     double_fontsize_int: 20
   - index: 753
-    text: 'the main humanitarian actor in the country. IRCS needs and requires more
-      pragmatic and funded capacity building '
-    text_base: the main humanitarian actor in the country ircs needs and requires
-      more pragmatic and funded capacity building
+    text: 'the main humanitarian actor in the country. IRCS needs and requires more pragmatic and funded capacity building '
+    text_base: the main humanitarian actor in the country ircs needs and requires more pragmatic and funded capacity building
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -482,10 +426,8 @@
     bbox: (42.959999084472656, 568.1529541015625, 583.4341430664062, 581.8380126953125)
     double_fontsize_int: 20
   - index: 754
-    text: 'programming. Though the capacity building plan is a good and valid one,
-      due to funding shortage only one major '
-    text_base: programming though the capacity building plan is a good and valid one
-      due to funding shortage only one major
+    text: 'programming. Though the capacity building plan is a good and valid one, due to funding shortage only one major '
+    text_base: programming though the capacity building plan is a good and valid one due to funding shortage only one major
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -510,10 +452,8 @@
     bbox: (42.959999084472656, 591.072998046875, 155.90887451171875, 604.758056640625)
     double_fontsize_int: 20
   - index: 756
-    text: 'IRCS needs more capacity building in information management and report
-      writing at programme and HQ '
-    text_base: ircs needs more capacity building in information management and report
-      writing at programme and hq
+    text: 'IRCS needs more capacity building in information management and report writing at programme and HQ '
+    text_base: ircs needs more capacity building in information management and report writing at programme and hq
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -525,10 +465,8 @@
     bbox: (42.959999084472656, 602.4730224609375, 583.6888427734375, 616.1580200195312)
     double_fontsize_int: 20
   - index: 757
-    text: 'department levels. With an enhanced level of report writing ability IRCS
-      would be better placed to go public and '
-    text_base: department levels with an enhanced level of report writing ability
-      ircs would be better placed to go public and
+    text: 'department levels. With an enhanced level of report writing ability IRCS would be better placed to go public and '
+    text_base: department levels with an enhanced level of report writing ability ircs would be better placed to go public and
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -553,10 +491,8 @@
     bbox: (42.959999084472656, 625.512939453125, 147.86888122558594, 639.197998046875)
     double_fontsize_int: 20
   - index: 759
-    text: 'IRCS will need urgently more disaster management, logistics, and operational
-      capacity building at HQ and Branch '
-    text_base: ircs will need urgently more disaster management logistics and operational
-      capacity building at hq and branch
+    text: 'IRCS will need urgently more disaster management, logistics, and operational capacity building at HQ and Branch '
+    text_base: ircs will need urgently more disaster management logistics and operational capacity building at hq and branch
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -568,10 +504,8 @@
     bbox: (42.959999084472656, 637.032958984375, 583.6888427734375, 650.718017578125)
     double_fontsize_int: 20
   - index: 760
-    text: 'levels with emphasize on relief and internal tracking systems including
-      warehouse management and data '
-    text_base: levels with emphasize on relief and internal tracking systems including
-      warehouse management and data
+    text: 'levels with emphasize on relief and internal tracking systems including warehouse management and data '
+    text_base: levels with emphasize on relief and internal tracking systems including warehouse management and data
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -583,10 +517,8 @@
     bbox: (42.959999084472656, 648.4329833984375, 583.6888427734375, 662.1180419921875)
     double_fontsize_int: 20
   - index: 761
-    text: 'processing. The priority is on the active IRCS Branch level implementation
-      of capacity building action plan with the HQ '
-    text_base: processing the priority is on the active ircs branch level implementation
-      of capacity building action plan with the hq
+    text: 'processing. The priority is on the active IRCS Branch level implementation of capacity building action plan with the HQ '
+    text_base: processing the priority is on the active ircs branch level implementation of capacity building action plan with the hq
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -611,10 +543,8 @@
     bbox: (42.959999084472656, 671.373046875, 141.86888122558594, 685.0580444335938)
     double_fontsize_int: 20
   - index: 763
-    text: 'Establishing information management unit at the IRCS national headquarters
-      and standardized formats to be used '
-    text_base: establishing information management unit at the ircs national headquarters
-      and standardized formats to be used
+    text: 'Establishing information management unit at the IRCS national headquarters and standardized formats to be used '
+    text_base: establishing information management unit at the ircs national headquarters and standardized formats to be used
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -639,19 +569,7 @@
     bbox: (42.959999084472656, 694.29296875, 298.6388854980469, 707.97802734375)
     double_fontsize_int: 20
   items:
-  - More emphasize on publicity and information management needs to be done in the
-    interest of Iraq case and IRCS as the main humanitarian actor in the country.
-    IRCS needs and requires more pragmatic and funded capacity building programming.
-    Though the capacity building plan is a good and valid one, due to funding shortage
-    only one major training could take place.
-  - IRCS needs more capacity building in information management and report writing
-    at programme and HQ department levels. With an enhanced level of report writing
-    ability IRCS would be better placed to go public and demonstrate its action.
-  - IRCS will need urgently more disaster management, logistics, and operational capacity
-    building at HQ and Branch levels with emphasize on relief and internal tracking
-    systems including warehouse management and data processing. The priority is on
-    the active IRCS Branch level implementation of capacity building action plan with
-    the HQ DM and logistics unit.
-  - Establishing information management unit at the IRCS national headquarters and
-    standardized formats to be used to capture, store and use in a systematic way
-    is a priority.
+  - More emphasize on publicity and information management needs to be done in the interest of Iraq case and IRCS as the main humanitarian actor in the country. IRCS needs and requires more pragmatic and funded capacity building programming. Though the capacity building plan is a good and valid one, due to funding shortage only one major training could take place.
+  - IRCS needs more capacity building in information management and report writing at programme and HQ department levels. With an enhanced level of report writing ability IRCS would be better placed to go public and demonstrate its action.
+  - IRCS will need urgently more disaster management, logistics, and operational capacity building at HQ and Branch levels with emphasize on relief and internal tracking systems including warehouse management and data processing. The priority is on the active IRCS Branch level implementation of capacity building action plan with the HQ DM and logistics unit.
+  - Establishing information management unit at the IRCS national headquarters and standardized formats to be used to capture, store and use in a systematic way is a priority.

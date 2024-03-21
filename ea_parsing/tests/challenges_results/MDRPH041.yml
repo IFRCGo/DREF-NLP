@@ -41,10 +41,8 @@
     bbox_x2: 46.008811950683594
     double_fontsize_int: 20
   - index: 565
-    text: 'Geographical Location: SRA was provided on site, where the houses were
-      scattered across the municipalities. '
-    text_base: geographical location sra was provided on site where the houses were
-      scattered across the municipalities
+    text: 'Geographical Location: SRA was provided on site, where the houses were scattered across the municipalities. '
+    text_base: geographical location sra was provided on site where the houses were scattered across the municipalities
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 8
@@ -62,10 +60,8 @@
     bbox_x2: 568.3933715820312
     double_fontsize_int: 20
   - index: 566
-    text: 'Furthermore, the relocation site provided for FSA was far from the initial
-      area of the families and from the '
-    text_base: furthermore the relocation site provided for fsa was far from the initial
-      area of the families and from the
+    text: 'Furthermore, the relocation site provided for FSA was far from the initial area of the families and from the '
+    text_base: furthermore the relocation site provided for fsa was far from the initial area of the families and from the
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 8
@@ -121,10 +117,8 @@
     bbox_x2: 46.008811950683594
     double_fontsize_int: 20
   - index: 569
-    text: 'There were some delays in the delivery of construction materials, mainly
-      due to COVID-19 related constrains, '
-    text_base: there were some delays in the delivery of construction materials mainly
-      due to covid 19 related constrains
+    text: 'There were some delays in the delivery of construction materials, mainly due to COVID-19 related constrains, '
+    text_base: there were some delays in the delivery of construction materials mainly due to covid 19 related constrains
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 8
@@ -142,10 +136,8 @@
     bbox_x2: 573.084716796875
     double_fontsize_int: 20
   - index: 570
-    text: 'such as travel/transportation restrictions, challenges in sourcing, not
-      availability of items etc. which caused the '
-    text_base: such as travel transportation restrictions challenges in sourcing not
-      availability of items etc which caused the
+    text: 'such as travel/transportation restrictions, challenges in sourcing, not availability of items etc. which caused the '
+    text_base: such as travel transportation restrictions challenges in sourcing not availability of items etc which caused the
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 8
@@ -182,14 +174,8 @@
     bbox_x2: 260.9228515625
     double_fontsize_int: 20
   items:
-  - 'Geographical Location: SRA was provided on site, where the houses were scattered
-    across the municipalities. Furthermore, the relocation site provided for FSA was
-    far from the initial area of the families and from the chapter, where travelling
-    made it a challenge.'
-  - There were some delays in the delivery of construction materials, mainly due to
-    COVID-19 related constrains, such as travel/transportation restrictions, challenges
-    in sourcing, not availability of items etc. which caused the delay in the implementation
-    of the project.
+  - 'Geographical Location: SRA was provided on site, where the houses were scattered across the municipalities. Furthermore, the relocation site provided for FSA was far from the initial area of the families and from the chapter, where travelling made it a challenge.'
+  - There were some delays in the delivery of construction materials, mainly due to COVID-19 related constrains, such as travel/transportation restrictions, challenges in sourcing, not availability of items etc. which caused the delay in the implementation of the project.
 - title:
     text: 'Challenges: '
     text_base: challenges
@@ -233,10 +219,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 991
-    text: 'Lack of trained volunteers to implement the project under the operations.
-      Another challenge was the '
-    text_base: lack of trained volunteers to implement the project under the operations
-      another challenge was the
+    text: 'Lack of trained volunteers to implement the project under the operations. Another challenge was the '
+    text_base: lack of trained volunteers to implement the project under the operations another challenge was the
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 14
@@ -254,10 +238,8 @@
     bbox_x2: 569.6256103515625
     double_fontsize_int: 20
   - index: 992
-    text: 'sustainability of skilled and capable volunteers. Volunteer turnover is
-      a common problem in most of the areas, '
-    text_base: sustainability of skilled and capable volunteers volunteer turnover
-      is a common problem in most of the areas
+    text: 'sustainability of skilled and capable volunteers. Volunteer turnover is a common problem in most of the areas, '
+    text_base: sustainability of skilled and capable volunteers volunteer turnover is a common problem in most of the areas
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 14
@@ -275,10 +257,8 @@
     bbox_x2: 569.9028930664062
     double_fontsize_int: 20
   - index: 993
-    text: 'where volunteers leave for work or migrate. In addition, some of the volunteers
-      were not aware of all existing '
-    text_base: where volunteers leave for work or migrate in addition some of the
-      volunteers were not aware of all existing
+    text: 'where volunteers leave for work or migrate. In addition, some of the volunteers were not aware of all existing '
+    text_base: where volunteers leave for work or migrate in addition some of the volunteers were not aware of all existing
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 14
@@ -335,8 +315,7 @@
     double_fontsize_int: 20
   - index: 996
     text: 'Overlapping of activities (conflict of schedule between community and chapters). '
-    text_base: overlapping of activities conflict of schedule between community and
-      chapters
+    text_base: overlapping of activities conflict of schedule between community and chapters
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 14
@@ -373,10 +352,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 998
-    text: 'The CSG and CMLP are in their exploration stage, thus issues are anticipated
-      to arise. Implementing chapters '
-    text_base: the csg and cmlp are in their exploration stage thus issues are anticipated
-      to arise implementing chapters
+    text: 'The CSG and CMLP are in their exploration stage, thus issues are anticipated to arise. Implementing chapters '
+    text_base: the csg and cmlp are in their exploration stage thus issues are anticipated to arise implementing chapters
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 14
@@ -394,10 +371,8 @@
     bbox_x2: 569.6751708984375
     double_fontsize_int: 20
   - index: 999
-    text: 'and groups mentioned the need for improved project guidelines, monitoring
-      tools, and progress assessment '
-    text_base: and groups mentioned the need for improved project guidelines monitoring
-      tools and progress assessment
+    text: 'and groups mentioned the need for improved project guidelines, monitoring tools, and progress assessment '
+    text_base: and groups mentioned the need for improved project guidelines monitoring tools and progress assessment
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 14
@@ -415,10 +390,8 @@
     bbox_x2: 569.849609375
     double_fontsize_int: 20
   - index: 1000
-    text: 'among others. At present PRC is revising/upgrading the guidelines with
-      technical support from IFRC Livelihood '
-    text_base: among others at present prc is revising upgrading the guidelines with
-      technical support from ifrc livelihood
+    text: 'among others. At present PRC is revising/upgrading the guidelines with technical support from IFRC Livelihood '
+    text_base: among others at present prc is revising upgrading the guidelines with technical support from ifrc livelihood
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 14
@@ -455,17 +428,9 @@
     bbox_x2: 96.20285034179688
     double_fontsize_int: 20
   items:
-  - Lack of trained volunteers to implement the project under the operations. Another
-    challenge was the sustainability of skilled and capable volunteers. Volunteer
-    turnover is a common problem in most of the areas, where volunteers leave for
-    work or migrate. In addition, some of the volunteers were not aware of all existing
-    policies for emergency operations (SOP and policies).
+  - Lack of trained volunteers to implement the project under the operations. Another challenge was the sustainability of skilled and capable volunteers. Volunteer turnover is a common problem in most of the areas, where volunteers leave for work or migrate. In addition, some of the volunteers were not aware of all existing policies for emergency operations (SOP and policies).
   - Overlapping of activities (conflict of schedule between community and chapters).
-  - The CSG and CMLP are in their exploration stage, thus issues are anticipated to
-    arise. Implementing chapters and groups mentioned the need for improved project
-    guidelines, monitoring tools, and progress assessment among others. At present
-    PRC is revising/upgrading the guidelines with technical support from IFRC Livelihood
-    Centre.
+  - The CSG and CMLP are in their exploration stage, thus issues are anticipated to arise. Implementing chapters and groups mentioned the need for improved project guidelines, monitoring tools, and progress assessment among others. At present PRC is revising/upgrading the guidelines with technical support from IFRC Livelihood Centre.
 - title:
     text: 'Challenges: '
     text_base: challenges
@@ -509,10 +474,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1176
-    text: 'Most of the staff and volunteers were trained only on emergency response
-      but were not trained to provide '
-    text_base: most of the staff and volunteers were trained only on emergency response
-      but were not trained to provide
+    text: 'Most of the staff and volunteers were trained only on emergency response but were not trained to provide '
+    text_base: most of the staff and volunteers were trained only on emergency response but were not trained to provide
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 17
@@ -530,10 +493,8 @@
     bbox_x2: 559.0465087890625
     double_fontsize_int: 20
   - index: 1177
-    text: 'other services (i.e., PFA, CFS, health service,). Hence, number of equipped
-      volunteers with knowledge to '
-    text_base: other services i e pfa cfs health service hence number of equipped
-      volunteers with knowledge to
+    text: 'other services (i.e., PFA, CFS, health service,). Hence, number of equipped volunteers with knowledge to '
+    text_base: other services i e pfa cfs health service hence number of equipped volunteers with knowledge to
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 17
@@ -551,10 +512,8 @@
     bbox_x2: 542.0306396484375
     double_fontsize_int: 20
   - index: 1178
-    text: 'provide initial response to individuals experiencing psychological distress
-      were limited. '
-    text_base: provide initial response to individuals experiencing psychological
-      distress were limited
+    text: 'provide initial response to individuals experiencing psychological distress were limited. '
+    text_base: provide initial response to individuals experiencing psychological distress were limited
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 17
@@ -591,10 +550,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1180
-    text: 'Limitation on the movement due to pandemic. Staff and volunteers have encountered
-      risk contracting '
-    text_base: limitation on the movement due to pandemic staff and volunteers have
-      encountered risk contracting
+    text: 'Limitation on the movement due to pandemic. Staff and volunteers have encountered risk contracting '
+    text_base: limitation on the movement due to pandemic staff and volunteers have encountered risk contracting
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 17
@@ -612,10 +569,8 @@
     bbox_x2: 537.030517578125
     double_fontsize_int: 20
   - index: 1181
-    text: 'COVID-19 during operation. Necessary protocols were put in place to lessen
-      the risk. '
-    text_base: covid 19 during operation necessary protocols were put in place to
-      lessen the risk
+    text: 'COVID-19 during operation. Necessary protocols were put in place to lessen the risk. '
+    text_base: covid 19 during operation necessary protocols were put in place to lessen the risk
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 17
@@ -633,13 +588,8 @@
     bbox_x2: 454.4428405761719
     double_fontsize_int: 20
   items:
-  - Most of the staff and volunteers were trained only on emergency response but were
-    not trained to provide other services (i.e., PFA, CFS, health service,). Hence,
-    number of equipped volunteers with knowledge to provide initial response to individuals
-    experiencing psychological distress were limited.
-  - Limitation on the movement due to pandemic. Staff and volunteers have encountered
-    risk contracting COVID-19 during operation. Necessary protocols were put in place
-    to lessen the risk.
+  - Most of the staff and volunteers were trained only on emergency response but were not trained to provide other services (i.e., PFA, CFS, health service,). Hence, number of equipped volunteers with knowledge to provide initial response to individuals experiencing psychological distress were limited.
+  - Limitation on the movement due to pandemic. Staff and volunteers have encountered risk contracting COVID-19 during operation. Necessary protocols were put in place to lessen the risk.
 - title:
     text: 'Challenges: '
     text_base: challenges
@@ -684,8 +634,7 @@
     double_fontsize_int: 20
   - index: 1291
     text: 'Water supply is dependent on electricity and water from deep well is turbid.  '
-    text_base: water supply is dependent on electricity and water from deep well is
-      turbid
+    text_base: water supply is dependent on electricity and water from deep well is turbid
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 19
@@ -786,10 +735,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1411
-    text: 'Unavailability of a significant informant or community recipients during
-      the PDM activity. '
-    text_base: unavailability of a significant informant or community recipients during
-      the pdm activity
+    text: 'Unavailability of a significant informant or community recipients during the PDM activity. '
+    text_base: unavailability of a significant informant or community recipients during the pdm activity
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 21
@@ -807,8 +754,7 @@
     bbox_x2: 474.24285888671875
     double_fontsize_int: 20
   items:
-  - Unavailability of a significant informant or community recipients during the PDM
-    activity.
+  - Unavailability of a significant informant or community recipients during the PDM activity.
 - title:
     text: 'Challenges: '
     text_base: challenges
@@ -852,10 +798,8 @@
     bbox_x2: 46.248809814453125
     double_fontsize_int: 20
   - index: 1704
-    text: 'Communication between chapter to NHQ; some chapters experienced a lack
-      of communication between NHQ '
-    text_base: communication between chapter to nhq some chapters experienced a lack
-      of communication between nhq
+    text: 'Communication between chapter to NHQ; some chapters experienced a lack of communication between NHQ '
+    text_base: communication between chapter to nhq some chapters experienced a lack of communication between nhq
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 26
@@ -892,8 +836,7 @@
     bbox_x2: 122.68285369873047
     double_fontsize_int: 20
   items:
-  - Communication between chapter to NHQ; some chapters experienced a lack of communication
-    between NHQ and Chapter.
+  - Communication between chapter to NHQ; some chapters experienced a lack of communication between NHQ and Chapter.
 - title:
     text: 'Challenges: '
     text_base: challenges
@@ -918,10 +861,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 2132
-    text: "\u2022 COVID-19 infected some volunteers which caused delays in the delivery\
-      \ of the activities. It reduced the mobility "
-    text_base: covid 19 infected some volunteers which caused delays in the delivery
-      of the activities it reduced the mobility
+    text: "\u2022 COVID-19 infected some volunteers which caused delays in the delivery of the activities. It reduced the mobility "
+    text_base: covid 19 infected some volunteers which caused delays in the delivery of the activities it reduced the mobility
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 34
@@ -939,10 +880,8 @@
     bbox_x2: 573.0849609375
     double_fontsize_int: 20
   - index: 2134
-    text: 'and availability of staff and volunteers from the National Headquarters
-      Office and Chapters. '
-    text_base: and availability of staff and volunteers from the national headquarters
-      office and chapters
+    text: 'and availability of staff and volunteers from the National Headquarters Office and Chapters. '
+    text_base: and availability of staff and volunteers from the national headquarters office and chapters
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 34
@@ -979,9 +918,7 @@
     bbox_x2: 324.4228515625
     double_fontsize_int: 20
   items:
-  - "\u2022 COVID-19 infected some volunteers which caused delays in the delivery\
-    \ of the activities. It reduced the mobility and availability of staff and volunteers\
-    \ from the National Headquarters Office and Chapters."
+  - "\u2022 COVID-19 infected some volunteers which caused delays in the delivery of the activities. It reduced the mobility and availability of staff and volunteers from the National Headquarters Office and Chapters."
   - "\u2022 There was a poor mobile signal and internet connectivity."
 - title:
     text: 'Challenges: '
@@ -1007,10 +944,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 2575
-    text: "\u2022 Most of the staff and volunteers were trained only on emergency,but\
-      \ were not trained to provide other services "
-    text_base: most of the staff and volunteers were trained only on emergency but
-      were not trained to provide other services
+    text: "\u2022 Most of the staff and volunteers were trained only on emergency,but were not trained to provide other services "
+    text_base: most of the staff and volunteers were trained only on emergency but were not trained to provide other services
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 41
@@ -1028,10 +963,8 @@
     bbox_x2: 569.8839111328125
     double_fontsize_int: 20
   - index: 2577
-    text: '(i.e., PFA, CFS, health service,). Hence, the number of equipped volunteers
-      with the knowledge to provide initial '
-    text_base: i e pfa cfs health service hence the number of equipped volunteers
-      with the knowledge to provide initial
+    text: '(i.e., PFA, CFS, health service,). Hence, the number of equipped volunteers with the knowledge to provide initial '
+    text_base: i e pfa cfs health service hence the number of equipped volunteers with the knowledge to provide initial
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 41
@@ -1068,10 +1001,8 @@
     bbox_x2: 395.7028503417969
     double_fontsize_int: 20
   - index: 2579
-    text: "\u2022 There was a limitation on the movement due to the pandemic. Staff\
-      \ and volunteers have encountered the risk "
-    text_base: there was a limitation on the movement due to the pandemic staff and
-      volunteers have encountered the risk
+    text: "\u2022 There was a limitation on the movement due to the pandemic. Staff and volunteers have encountered the risk "
+    text_base: there was a limitation on the movement due to the pandemic staff and volunteers have encountered the risk
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.969775199890137
     page_number: 41
@@ -1089,10 +1020,8 @@
     bbox_x2: 569.8961791992188
     double_fontsize_int: 20
   - index: 2581
-    text: 'contracting COVID-19 during operation. Necessary protocols were put in
-      place to lessen the risk. '
-    text_base: contracting covid 19 during operation necessary protocols were put
-      in place to lessen the risk
+    text: 'contracting COVID-19 during operation. Necessary protocols were put in place to lessen the risk. '
+    text_base: contracting covid 19 during operation necessary protocols were put in place to lessen the risk
     style: 'regular, 20, #000000, #f4f4f4'
     size: 10.020000457763672
     page_number: 41
@@ -1110,10 +1039,5 @@
     bbox_x2: 505.8828430175781
     double_fontsize_int: 20
   items:
-  - "\u2022 Most of the staff and volunteers were trained only on emergency,but were\
-    \ not trained to provide other services (i.e., PFA, CFS, health service,). Hence,\
-    \ the number of equipped volunteers with the knowledge to provide initial response\
-    \ to individuals experiencing psychological distress were limited."
-  - "\u2022 There was a limitation on the movement due to the pandemic. Staff and\
-    \ volunteers have encountered the risk contracting COVID-19 during operation.\
-    \ Necessary protocols were put in place to lessen the risk."
+  - "\u2022 Most of the staff and volunteers were trained only on emergency,but were not trained to provide other services (i.e., PFA, CFS, health service,). Hence, the number of equipped volunteers with the knowledge to provide initial response to individuals experiencing psychological distress were limited."
+  - "\u2022 There was a limitation on the movement due to the pandemic. Staff and volunteers have encountered the risk contracting COVID-19 during operation. Necessary protocols were put in place to lessen the risk."

@@ -212,8 +212,7 @@
     double_fontsize_int: 20
   - index: 770
     text: 'Coordination of the overall health care efforts with other involved stakeholders '
-    text_base: coordination of the overall health care efforts with other involved
-      stakeholders
+    text_base: coordination of the overall health care efforts with other involved stakeholders
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 11
@@ -316,10 +315,8 @@
     bbox: (41.63999938964844, 571.5764770507812, 46.22121047973633, 583.7784423828125)
     double_fontsize_int: 20
   - index: 825
-    text: 'During the transit phase the hygiene parcels were not 100% appropriate
-      (size-wise) for people on the move '
-    text_base: during the transit phase the hygiene parcels were not 100 appropriate
-      size wise for people on the move
+    text: 'During the transit phase the hygiene parcels were not 100% appropriate (size-wise) for people on the move '
+    text_base: during the transit phase the hygiene parcels were not 100 appropriate size wise for people on the move
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -344,10 +341,8 @@
     bbox: (41.63999938964844, 584.656494140625, 46.22121047973633, 596.8584594726562)
     double_fontsize_int: 20
   - index: 827
-    text: 'In the initial phase when the figures of transiting migrants were big,
-      the maintenance of hygiene with the existing '
-    text_base: in the initial phase when the figures of transiting migrants were big
-      the maintenance of hygiene with the existing
+    text: 'In the initial phase when the figures of transiting migrants were big, the maintenance of hygiene with the existing '
+    text_base: in the initial phase when the figures of transiting migrants were big the maintenance of hygiene with the existing
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -374,11 +369,8 @@
   items:
   - Maintaining high level of hygiene for persons on the move
   - Proper assessment of hygiene needs of the target population
-  - During the transit phase the hygiene parcels were not 100% appropriate (size-wise)
-    for people on the move
-  - In the initial phase when the figures of transiting migrants were big, the maintenance
-    of hygiene with the existing toilets and the available infrastructure was a big
-    challenge
+  - During the transit phase the hygiene parcels were not 100% appropriate (size-wise) for people on the move
+  - In the initial phase when the figures of transiting migrants were big, the maintenance of hygiene with the existing toilets and the available infrastructure was a big challenge
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -410,10 +402,8 @@
     bbox: (41.63999938964844, 342.8365173339844, 46.22121047973633, 355.0384826660156)
     double_fontsize_int: 20
   - index: 869
-    text: 'During the transit phase the food parcels were not 100% appropriate (size-wise)
-      for people on the move. '
-    text_base: during the transit phase the food parcels were not 100 appropriate
-      size wise for people on the move
+    text: 'During the transit phase the food parcels were not 100% appropriate (size-wise) for people on the move. '
+    text_base: during the transit phase the food parcels were not 100 appropriate size wise for people on the move
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 13
@@ -464,10 +454,8 @@
     bbox: (41.63999938964844, 368.99652099609375, 46.22121047973633, 381.198486328125)
     double_fontsize_int: 20
   - index: 873
-    text: 'Due to the significant drop in the number of migrants in the country during
-      the year as well as due to expiry dates, '
-    text_base: due to the significant drop in the number of migrants in the country
-      during the year as well as due to expiry dates
+    text: 'Due to the significant drop in the number of migrants in the country during the year as well as due to expiry dates, '
+    text_base: due to the significant drop in the number of migrants in the country during the year as well as due to expiry dates
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -479,10 +467,8 @@
     bbox: (64.08000183105469, 368.3030090332031, 579.228759765625, 381.988037109375)
     double_fontsize_int: 20
   - index: 874
-    text: 'some parts of the procured food items had to be distributed to vulnerable
-      groups other than the targeted migrants '
-    text_base: some parts of the procured food items had to be distributed to vulnerable
-      groups other than the targeted migrants
+    text: 'some parts of the procured food items had to be distributed to vulnerable groups other than the targeted migrants '
+    text_base: some parts of the procured food items had to be distributed to vulnerable groups other than the targeted migrants
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -494,10 +480,8 @@
     bbox: (64.08000183105469, 380.6629943847656, 579.1270751953125, 394.3480224609375)
     double_fontsize_int: 20
   - index: 875
-    text: '(persons with special needs, refugees from Kosovo, juvenile prisoners and
-      irregular migrants), as follows:  '
-    text_base: persons with special needs refugees from kosovo juvenile prisoners
-      and irregular migrants as follows
+    text: '(persons with special needs, refugees from Kosovo, juvenile prisoners and irregular migrants), as follows:  '
+    text_base: persons with special needs refugees from kosovo juvenile prisoners and irregular migrants as follows
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -522,10 +506,8 @@
     bbox: (64.08000183105469, 407.2566833496094, 72.95549011230469, 418.3109436035156)
     double_fontsize_int: 20
   - index: 877
-    text: 'Demir Kapija (institution for persons with special needs) 5,000 biscuits,
-      cookies, dry bread, dates and juice '
-    text_base: demir kapija institution for persons with special needs 5 000 biscuits
-      cookies dry bread dates and juice
+    text: 'Demir Kapija (institution for persons with special needs) 5,000 biscuits, cookies, dry bread, dates and juice '
+    text_base: demir kapija institution for persons with special needs 5 000 biscuits cookies dry bread dates and juice
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -550,10 +532,8 @@
     bbox: (64.08000183105469, 418.65667724609375, 72.95549011230469, 429.7109375)
     double_fontsize_int: 20
   - index: 879
-    text: 'Demir Hisar (institution for persons with special needs) 10,000 cookies
-      and raisins, and 5,000 biscuits, dry '
-    text_base: demir hisar institution for persons with special needs 10 000 cookies
-      and raisins and 5 000 biscuits dry
+    text: 'Demir Hisar (institution for persons with special needs) 10,000 cookies and raisins, and 5,000 biscuits, dry '
+    text_base: demir hisar institution for persons with special needs 10 000 cookies and raisins and 5 000 biscuits dry
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -591,10 +571,8 @@
     bbox: (64.08000183105469, 441.7167053222656, 72.95549011230469, 452.7709655761719)
     double_fontsize_int: 20
   - index: 882
-    text: 'Banja Bansko (institution for persons with special needs) 5,000 biscuits,
-      cookies, dry bread, dates and juice '
-    text_base: banja bansko institution for persons with special needs 5 000 biscuits
-      cookies dry bread dates and juice
+    text: 'Banja Bansko (institution for persons with special needs) 5,000 biscuits, cookies, dry bread, dates and juice '
+    text_base: banja bansko institution for persons with special needs 5 000 biscuits cookies dry bread dates and juice
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -645,10 +623,8 @@
     bbox: (64.08000183105469, 464.7566833496094, 72.95549011230469, 475.8109436035156)
     double_fontsize_int: 20
   - index: 886
-    text: '6,469 packs of raisins donated to Kosovo refugees sheltered in Skopje who
-      are in process of integration '
-    text_base: 6 469 packs of raisins donated to kosovo refugees sheltered in skopje
-      who are in process of integration
+    text: '6,469 packs of raisins donated to Kosovo refugees sheltered in Skopje who are in process of integration '
+    text_base: 6 469 packs of raisins donated to kosovo refugees sheltered in skopje who are in process of integration
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -699,10 +675,8 @@
     bbox: (41.63999938964844, 487.4565124511719, 46.22121047973633, 499.6584777832031)
     double_fontsize_int: 20
   - index: 890
-    text: 'The food distribution system had to be adapted according to the needs of
-      the migrants. '
-    text_base: the food distribution system had to be adapted according to the needs
-      of the migrants
+    text: 'The food distribution system had to be adapted according to the needs of the migrants. '
+    text_base: the food distribution system had to be adapted according to the needs of the migrants
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -727,10 +701,8 @@
     bbox: (41.63999938964844, 500.5364990234375, 46.22121047973633, 512.7384643554688)
     double_fontsize_int: 20
   - index: 892
-    text: 'At some points the procurement process was a challenge due to emergency
-      procurements immediately being '
-    text_base: at some points the procurement process was a challenge due to emergency
-      procurements immediately being
+    text: 'At some points the procurement process was a challenge due to emergency procurements immediately being '
+    text_base: at some points the procurement process was a challenge due to emergency procurements immediately being
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -755,27 +727,17 @@
     bbox: (64.08000183105469, 512.2030029296875, 307.0188903808594, 525.8880615234375)
     double_fontsize_int: 20
   items:
-  - During the transit phase the food parcels were not 100% appropriate (size-wise)
-    for people on the move.
+  - During the transit phase the food parcels were not 100% appropriate (size-wise) for people on the move.
   - Appropriate assessment of the needs of people on the move.
-  - 'Due to the significant drop in the number of migrants in the country during the
-    year as well as due to expiry dates, some parts of the procured food items had
-    to be distributed to vulnerable groups other than the targeted migrants (persons
-    with special needs, refugees from Kosovo, juvenile prisoners and irregular migrants),
-    as follows:'
-  - Demir Kapija (institution for persons with special needs) 5,000 biscuits, cookies,
-    dry bread, dates and juice
-  - Demir Hisar (institution for persons with special needs) 10,000 cookies and raisins,
-    and 5,000 biscuits, dry bread, dates and juice
-  - Banja Bansko (institution for persons with special needs) 5,000 biscuits, cookies,
-    dry bread, dates and juice
+  - 'Due to the significant drop in the number of migrants in the country during the year as well as due to expiry dates, some parts of the procured food items had to be distributed to vulnerable groups other than the targeted migrants (persons with special needs, refugees from Kosovo, juvenile prisoners and irregular migrants), as follows:'
+  - Demir Kapija (institution for persons with special needs) 5,000 biscuits, cookies, dry bread, dates and juice
+  - Demir Hisar (institution for persons with special needs) 10,000 cookies and raisins, and 5,000 biscuits, dry bread, dates and juice
+  - Banja Bansko (institution for persons with special needs) 5,000 biscuits, cookies, dry bread, dates and juice
   - 6,469 pieces of dry bread donated to juvenile prisoners
-  - 6,469 packs of raisins donated to Kosovo refugees sheltered in Skopje who are
-    in process of integration
+  - 6,469 packs of raisins donated to Kosovo refugees sheltered in Skopje who are in process of integration
   - 1,500 food parcels donated to irregular migrants
   - The food distribution system had to be adapted according to the needs of the migrants.
-  - At some points the procurement process was a challenge due to emergency procurements
-    immediately being required and the procurement process taking too long.
+  - At some points the procurement process was a challenge due to emergency procurements immediately being required and the procurement process taking too long.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -794,10 +756,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 955
-    text: 'Due to unforeseen difficulties that arose in the initial phase of the works,
-      related to weather conditions and the requirement '
-    text_base: due to unforeseen difficulties that arose in the initial phase of the
-      works related to weather conditions and the requirement
+    text: 'Due to unforeseen difficulties that arose in the initial phase of the works, related to weather conditions and the requirement '
+    text_base: due to unforeseen difficulties that arose in the initial phase of the works related to weather conditions and the requirement
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 14
@@ -809,10 +769,8 @@
     bbox: (42.84000015258789, 613.3929443359375, 579.0203857421875, 627.0780029296875)
     double_fontsize_int: 20
   - index: 956
-    text: 'for adherence to additional conditions of the construction permit and consequent
-      need for provision of additional '
-    text_base: for adherence to additional conditions of the construction permit and
-      consequent need for provision of additional
+    text: 'for adherence to additional conditions of the construction permit and consequent need for provision of additional '
+    text_base: for adherence to additional conditions of the construction permit and consequent need for provision of additional
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -837,10 +795,7 @@
     bbox: (42.84000015258789, 636.6729736328125, 352.5188903808594, 650.3580322265625)
     double_fontsize_int: 20
   items:
-  - Due to unforeseen difficulties that arose in the initial phase of the works, related
-    to weather conditions and the requirement for adherence to additional conditions
-    of the construction permit and consequent need for provision of additional documentation,
-    the construction phase was unexpectedly prolonged.
+  - Due to unforeseen difficulties that arose in the initial phase of the works, related to weather conditions and the requirement for adherence to additional conditions of the construction permit and consequent need for provision of additional documentation, the construction phase was unexpectedly prolonged.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -950,10 +905,8 @@
     bbox: (42.84000015258789, 480.73651123046875, 47.42121124267578, 492.9384765625)
     double_fontsize_int: 20
   - index: 1011
-    text: 'Establishing safer access for Red Cross personnel in working with irregular
-      migrants and people involved in human '
-    text_base: establishing safer access for red cross personnel in working with irregular
-      migrants and people involved in human
+    text: 'Establishing safer access for Red Cross personnel in working with irregular migrants and people involved in human '
+    text_base: establishing safer access for red cross personnel in working with irregular migrants and people involved in human
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 15
@@ -991,10 +944,8 @@
     bbox: (42.84000015258789, 504.49652099609375, 47.42121124267578, 516.698486328125)
     double_fontsize_int: 20
   - index: 1014
-    text: Proper assessment of the needs and provision of appropriate support and
-      assistance to unaccompanied minors
-    text_base: proper assessment of the needs and provision of appropriate support
-      and assistance to unaccompanied minors
+    text: Proper assessment of the needs and provision of appropriate support and assistance to unaccompanied minors
+    text_base: proper assessment of the needs and provision of appropriate support and assistance to unaccompanied minors
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 15
@@ -1035,11 +986,8 @@
   - Tools and methods for dissemination of restoring family links services
   - Language and cultural barriers
   - Improvement of the coordination with other National Societies
-  - Establishing safer access for Red Cross personnel in working with irregular migrants
-    and people involved in human trafficking for the purposes of ensuring the safety
-    of the migrants
-  - Proper assessment of the needs and provision of appropriate support and assistance
-    to unaccompanied minors
+  - Establishing safer access for Red Cross personnel in working with irregular migrants and people involved in human trafficking for the purposes of ensuring the safety of the migrants
+  - Proper assessment of the needs and provision of appropriate support and assistance to unaccompanied minors
   - Timely response to large numbers of requests
 - title:
     text: 'Challenges '
@@ -1072,10 +1020,8 @@
     bbox: (41.63999938964844, 204.3265380859375, 46.22121047973633, 216.52850341796875)
     double_fontsize_int: 20
   - index: 1101
-    text: 'In the beginning of the operation the biggest challenge was to ensure acceptance
-      and support for migrants from the '
-    text_base: in the beginning of the operation the biggest challenge was to ensure
-      acceptance and support for migrants from the
+    text: 'In the beginning of the operation the biggest challenge was to ensure acceptance and support for migrants from the '
+    text_base: in the beginning of the operation the biggest challenge was to ensure acceptance and support for migrants from the
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 17
@@ -1126,8 +1072,7 @@
     bbox: (64.08000183105469, 227.27297973632812, 283.2588806152344, 240.95802307128906)
     double_fontsize_int: 20
   items:
-  - In the beginning of the operation the biggest challenge was to ensure acceptance
-    and support for migrants from the local population
+  - In the beginning of the operation the biggest challenge was to ensure acceptance and support for migrants from the local population
   - The language barrier was also a major challenge
 - title:
     text: 'Challenges '
@@ -1147,10 +1092,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1251
-    text: 'One of the challenges that occurred in this area was related to the reconstruction
-      of the warehouse and ensuring sufficient '
-    text_base: one of the challenges that occurred in this area was related to the
-      reconstruction of the warehouse and ensuring sufficient
+    text: 'One of the challenges that occurred in this area was related to the reconstruction of the warehouse and ensuring sufficient '
+    text_base: one of the challenges that occurred in this area was related to the reconstruction of the warehouse and ensuring sufficient
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 19
@@ -1162,10 +1105,8 @@
     bbox: (41.63999938964844, 273.38299560546875, 576.9984130859375, 287.0680236816406)
     double_fontsize_int: 20
   - index: 1252
-    text: 'funding from different donors; the process resulted in some postponements
-      which subsequently had impact on the '
-    text_base: funding from different donors the process resulted in some postponements
-      which subsequently had impact on the
+    text: 'funding from different donors; the process resulted in some postponements which subsequently had impact on the '
+    text_base: funding from different donors the process resulted in some postponements which subsequently had impact on the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 19
@@ -1190,9 +1131,7 @@
     bbox: (41.63999938964844, 296.4230041503906, 123.38888549804688, 310.1080322265625)
     double_fontsize_int: 20
   items:
-  - One of the challenges that occurred in this area was related to the reconstruction
-    of the warehouse and ensuring sufficient funding from different donors; the process
-    resulted in some postponements which subsequently had impact on the approval process.
+  - One of the challenges that occurred in this area was related to the reconstruction of the warehouse and ensuring sufficient funding from different donors; the process resulted in some postponements which subsequently had impact on the approval process.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -1224,10 +1163,8 @@
     bbox: (41.63999938964844, 251.84649658203125, 46.22121047973633, 264.0484619140625)
     double_fontsize_int: 20
   - index: 1316
-    text: 'Ensuring timely support to the migrant population despite all the challenges
-      on the ground '
-    text_base: ensuring timely support to the migrant population despite all the challenges
-      on the ground
+    text: 'Ensuring timely support to the migrant population despite all the challenges on the ground '
+    text_base: ensuring timely support to the migrant population despite all the challenges on the ground
     style: 'arialmt, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 20
@@ -1265,6 +1202,5 @@
     bbox: (64.08000183105469, 263.3030090332031, 346.6388854980469, 276.988037109375)
     double_fontsize_int: 20
   items:
-  - Ensuring timely support to the migrant population despite all the challenges on
-    the ground
+  - Ensuring timely support to the migrant population despite all the challenges on the ground
   - Raising financial support for the implementation of the activities

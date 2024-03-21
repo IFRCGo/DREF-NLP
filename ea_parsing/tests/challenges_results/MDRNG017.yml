@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 156
-    text: 'At the beginning of the operation, it was difficult to coordinate the assessments
-      and information from the '
-    text_base: at the beginning of the operation it was difficult to coordinate the
-      assessments and information from the
+    text: 'At the beginning of the operation, it was difficult to coordinate the assessments and information from the '
+    text_base: at the beginning of the operation it was difficult to coordinate the assessments and information from the
     style: 'arial, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 2
@@ -31,10 +29,8 @@
     bbox: (47.880001068115234, 642.4329833984375, 543.8383178710938, 656.1180419921875)
     double_fontsize_int: 20
   - index: 157
-    text: 'affected communities. The NRCS deployed the health coordinator and the
-      health delegate from the IFRC to '
-    text_base: affected communities the nrcs deployed the health coordinator and the
-      health delegate from the ifrc to
+    text: 'affected communities. The NRCS deployed the health coordinator and the health delegate from the IFRC to '
+    text_base: affected communities the nrcs deployed the health coordinator and the health delegate from the ifrc to
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 2
@@ -46,10 +42,8 @@
     bbox: (47.880001068115234, 653.9530029296875, 544.5577392578125, 667.6380004882812)
     double_fontsize_int: 20
   - index: 158
-    text: 'participate in coordination meetings. The command centres were very useful
-      in sharing information and '
-    text_base: participate in coordination meetings the command centres were very
-      useful in sharing information and
+    text: 'participate in coordination meetings. The command centres were very useful in sharing information and '
+    text_base: participate in coordination meetings the command centres were very useful in sharing information and
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 2
@@ -74,10 +68,7 @@
     bbox: (47.880001068115234, 676.8729248046875, 135.1488800048828, 690.5579833984375)
     double_fontsize_int: 20
   items:
-  - At the beginning of the operation, it was difficult to coordinate the assessments
-    and information from the affected communities. The NRCS deployed the health coordinator
-    and the health delegate from the IFRC to participate in coordination meetings.
-    The command centres were very useful in sharing information and planning activities.
+  - At the beginning of the operation, it was difficult to coordinate the assessments and information from the affected communities. The NRCS deployed the health coordinator and the health delegate from the IFRC to participate in coordination meetings. The command centres were very useful in sharing information and planning activities.
 - title:
     text: Challenges
     text_base: challenges
@@ -96,10 +87,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 255
-    text: 'The appeal was not fully funded due to the early containment of the outbreak
-      of Ebola. This affected the '
-    text_base: the appeal was not fully funded due to the early containment of the
-      outbreak of ebola this affected the
+    text: 'The appeal was not fully funded due to the early containment of the outbreak of Ebola. This affected the '
+    text_base: the appeal was not fully funded due to the early containment of the outbreak of ebola this affected the
     style: 'arial, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 4
@@ -111,10 +100,8 @@
     bbox: (47.880001068115234, 352.5829772949219, 544.1025390625, 366.26800537109375)
     double_fontsize_int: 20
   - index: 256
-    text: 'reaching of the planned target of 5 million people with prevention messages.
-      Instead a total of 900,000 people '
-    text_base: reaching of the planned target of 5 million people with prevention
-      messages instead a total of 900 000 people
+    text: 'reaching of the planned target of 5 million people with prevention messages. Instead a total of 900,000 people '
+    text_base: reaching of the planned target of 5 million people with prevention messages instead a total of 900 000 people
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 4
@@ -139,9 +126,7 @@
     bbox: (47.880001068115234, 375.62298583984375, 114.02888488769531, 389.3080139160156)
     double_fontsize_int: 20
   items:
-  - The appeal was not fully funded due to the early containment of the outbreak of
-    Ebola. This affected the reaching of the planned target of 5 million people with
-    prevention messages. Instead a total of 900,000 people were reached.
+  - The appeal was not fully funded due to the early containment of the outbreak of Ebola. This affected the reaching of the planned target of 5 million people with prevention messages. Instead a total of 900,000 people were reached.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -160,10 +145,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 326
-    text: 'The main challenge was to find other stakeholders to provide support on
-      PSS. There was no resource '
-    text_base: the main challenge was to find other stakeholders to provide support
-      on pss there was no resource
+    text: 'The main challenge was to find other stakeholders to provide support on PSS. There was no resource '
+    text_base: the main challenge was to find other stakeholders to provide support on pss there was no resource
     style: 'arial, 20, #000000, #edebe0'
     size: 9.960000038146973
     page_number: 5
@@ -175,10 +158,8 @@
     bbox: (47.880001068115234, 486.2829895019531, 543.9677124023438, 499.968017578125)
     double_fontsize_int: 20
   - index: 327
-    text: 'allocation for PSS activities by the Governments. The only support for
-      PSS activities were solely by the EVD '
-    text_base: allocation for pss activities by the governments the only support for
-      pss activities were solely by the evd
+    text: 'allocation for PSS activities by the Governments. The only support for PSS activities were solely by the EVD '
+    text_base: allocation for pss activities by the governments the only support for pss activities were solely by the evd
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 5
@@ -203,6 +184,4 @@
     bbox: (47.880001068115234, 509.3229675292969, 83.4328842163086, 523.0079956054688)
     double_fontsize_int: 20
   items:
-  - The main challenge was to find other stakeholders to provide support on PSS. There
-    was no resource allocation for PSS activities by the Governments. The only support
-    for PSS activities were solely by the EVD appeal.
+  - The main challenge was to find other stakeholders to provide support on PSS. There was no resource allocation for PSS activities by the Governments. The only support for PSS activities were solely by the EVD appeal.

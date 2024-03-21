@@ -28,8 +28,7 @@
     double_fontsize_int: 14
   - index: 1820
     text: 'The supplier used low-quality packaging, so bags were damaged during handling. '
-    text_base: the supplier used low quality packaging so bags were damaged during
-      handling
+    text_base: the supplier used low quality packaging so bags were damaged during handling
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 22
@@ -52,10 +51,8 @@
     origin_x: 48.47999954223633
     double_fontsize_int: 14
   - index: 1822
-    text: 'Travel to communities took longer because suppliers'' means of transport
-      were not suitable for use on dirt roads. '
-    text_base: travel to communities took longer because suppliers means of transport
-      were not suitable for use on dirt roads
+    text: 'Travel to communities took longer because suppliers'' means of transport were not suitable for use on dirt roads. '
+    text_base: travel to communities took longer because suppliers means of transport were not suitable for use on dirt roads
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 22
@@ -78,10 +75,8 @@
     origin_x: 48.47999954223633
     double_fontsize_int: 14
   - index: 1824
-    text: 'Procurement delays due to the lack of available funds, which forced deliveries
-      to beneficiaries to be rescheduled. '
-    text_base: procurement delays due to the lack of available funds which forced
-      deliveries to beneficiaries to be rescheduled
+    text: 'Procurement delays due to the lack of available funds, which forced deliveries to beneficiaries to be rescheduled. '
+    text_base: procurement delays due to the lack of available funds which forced deliveries to beneficiaries to be rescheduled
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 22
@@ -104,10 +99,8 @@
     origin_x: 48.47999954223633
     double_fontsize_int: 14
   - index: 1826
-    text: 'Complicated administrative processes to buy items significantly delayed
-      the delivery of rations to beneficiary '
-    text_base: complicated administrative processes to buy items significantly delayed
-      the delivery of rations to beneficiary
+    text: 'Complicated administrative processes to buy items significantly delayed the delivery of rations to beneficiary '
+    text_base: complicated administrative processes to buy items significantly delayed the delivery of rations to beneficiary
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 22
@@ -142,10 +135,8 @@
     origin_x: 48.47999954223633
     double_fontsize_int: 14
   - index: 1829
-    text: 'GRC''s lack of legal representation due to the National Council''s updating
-      process also delayed deliveries, as '
-    text_base: grc s lack of legal representation due to the national council s updating
-      process also delayed deliveries as
+    text: 'GRC''s lack of legal representation due to the National Council''s updating process also delayed deliveries, as '
+    text_base: grc s lack of legal representation due to the national council s updating process also delayed deliveries as
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 22
@@ -180,10 +171,8 @@
     origin_x: 48.47999954223633
     double_fontsize_int: 14
   - index: 1832
-    text: 'Contingency planning and security measures are essential for implementing
-      plans of action, as are activities '
-    text_base: contingency planning and security measures are essential for implementing
-      plans of action as are activities
+    text: 'Contingency planning and security measures are essential for implementing plans of action, as are activities '
+    text_base: contingency planning and security measures are essential for implementing plans of action as are activities
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 22
@@ -194,10 +183,8 @@
     origin_x: 66.50399780273438
     double_fontsize_int: 20
   - index: 1833
-    text: 'that allow volunteers and technical teams to participate and provide constant
-      feedback.  '
-    text_base: that allow volunteers and technical teams to participate and provide
-      constant feedback
+    text: 'that allow volunteers and technical teams to participate and provide constant feedback.  '
+    text_base: that allow volunteers and technical teams to participate and provide constant feedback
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 22
@@ -209,17 +196,11 @@
     double_fontsize_int: 20
   items:
   - The supplier used low-quality packaging, so bags were damaged during handling.
-  - Travel to communities took longer because suppliers' means of transport were not
-    suitable for use on dirt roads.
-  - Procurement delays due to the lack of available funds, which forced deliveries
-    to beneficiaries to be rescheduled.
-  - Complicated administrative processes to buy items significantly delayed the delivery
-    of rations to beneficiary communities.
-  - GRC's lack of legal representation due to the National Council's updating process
-    also delayed deliveries, as no contracts could be awarded.
-  - Contingency planning and security measures are essential for implementing plans
-    of action, as are activities that allow volunteers and technical teams to participate
-    and provide constant feedback.
+  - Travel to communities took longer because suppliers' means of transport were not suitable for use on dirt roads.
+  - Procurement delays due to the lack of available funds, which forced deliveries to beneficiaries to be rescheduled.
+  - Complicated administrative processes to buy items significantly delayed the delivery of rations to beneficiary communities.
+  - GRC's lack of legal representation due to the National Council's updating process also delayed deliveries, as no contracts could be awarded.
+  - Contingency planning and security measures are essential for implementing plans of action, as are activities that allow volunteers and technical teams to participate and provide constant feedback.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -249,10 +230,8 @@
     origin_x: 44.7599983215332
     double_fontsize_int: 14
   - index: 2142
-    text: 'Making psychosocial support visible as a line of action helped it to become
-      a fundamental aspect of many health '
-    text_base: making psychosocial support visible as a line of action helped it to
-      become a fundamental aspect of many health
+    text: 'Making psychosocial support visible as a line of action helped it to become a fundamental aspect of many health '
+    text_base: making psychosocial support visible as a line of action helped it to become a fundamental aspect of many health
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 25
@@ -287,10 +266,8 @@
     origin_x: 44.7599983215332
     double_fontsize_int: 14
   - index: 2145
-    text: 'Hiring professional staff for identification of psychosocial care and follow-up
-      is essential for focusing on that '
-    text_base: hiring professional staff for identification of psychosocial care and
-      follow up is essential for focusing on that
+    text: 'Hiring professional staff for identification of psychosocial care and follow-up is essential for focusing on that '
+    text_base: hiring professional staff for identification of psychosocial care and follow up is essential for focusing on that
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 25
@@ -313,10 +290,8 @@
     origin_x: 62.7599983215332
     double_fontsize_int: 20
   items:
-  - Making psychosocial support visible as a line of action helped it to become a
-    fundamental aspect of many health intervention actions
-  - Hiring professional staff for identification of psychosocial care and follow-up
-    is essential for focusing on that immediate emergency action.
+  - Making psychosocial support visible as a line of action helped it to become a fundamental aspect of many health intervention actions
+  - Hiring professional staff for identification of psychosocial care and follow-up is essential for focusing on that immediate emergency action.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -346,10 +321,8 @@
     origin_x: 41.63999938964844
     double_fontsize_int: 14
   - index: 2439
-    text: 'The community workshops were a success and well accepted by the population.
-      Using theatre to communicate '
-    text_base: the community workshops were a success and well accepted by the population
-      using theatre to communicate
+    text: 'The community workshops were a success and well accepted by the population. Using theatre to communicate '
+    text_base: the community workshops were a success and well accepted by the population using theatre to communicate
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 29
@@ -384,10 +357,8 @@
     origin_x: 41.63999938964844
     double_fontsize_int: 14
   - index: 2445
-    text: 'Strengthening the National Society''s capacity through workshops contributed
-      to the incorporation of PGI actions '
-    text_base: strengthening the national society s capacity through workshops contributed
-      to the incorporation of pgi actions
+    text: 'Strengthening the National Society''s capacity through workshops contributed to the incorporation of PGI actions '
+    text_base: strengthening the national society s capacity through workshops contributed to the incorporation of pgi actions
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 30
@@ -410,10 +381,8 @@
     origin_x: 59.63999938964844
     double_fontsize_int: 20
   items:
-  - The community workshops were a success and well accepted by the population. Using
-    theatre to communicate PGI messages was very successful
-  - Strengthening the National Society's capacity through workshops contributed to
-    the incorporation of PGI actions into the Plan of Action.
+  - The community workshops were a success and well accepted by the population. Using theatre to communicate PGI messages was very successful
+  - Strengthening the National Society's capacity through workshops contributed to the incorporation of PGI actions into the Plan of Action.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -443,10 +412,8 @@
     origin_x: 41.63999938964844
     double_fontsize_int: 14
   - index: 2775
-    text: 'It was difficult to conduct any type of process - whether for training,
-      recovery, or disaster preparedness - with only five '
-    text_base: it was difficult to conduct any type of process whether for training
-      recovery or disaster preparedness with only five
+    text: 'It was difficult to conduct any type of process - whether for training, recovery, or disaster preparedness - with only five '
+    text_base: it was difficult to conduct any type of process whether for training recovery or disaster preparedness with only five
     style: 'arialmt, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 35
@@ -457,10 +424,8 @@
     origin_x: 59.63999938964844
     double_fontsize_int: 20
   - index: 2776
-    text: 'hours available during the day to do so (6 am to noon). Nothing could be
-      carried out after noon because of the risk of '
-    text_base: hours available during the day to do so 6 am to noon nothing could
-      be carried out after noon because of the risk of
+    text: 'hours available during the day to do so (6 am to noon). Nothing could be carried out after noon because of the risk of '
+    text_base: hours available during the day to do so 6 am to noon nothing could be carried out after noon because of the risk of
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 35
@@ -471,10 +436,8 @@
     origin_x: 59.63999938964844
     double_fontsize_int: 20
   - index: 2777
-    text: 'flooded roads caused by rains, which meant having to spend the night in
-      communities.  '
-    text_base: flooded roads caused by rains which meant having to spend the night
-      in communities
+    text: 'flooded roads caused by rains, which meant having to spend the night in communities.  '
+    text_base: flooded roads caused by rains which meant having to spend the night in communities
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 35
@@ -497,10 +460,8 @@
     origin_x: 41.63999938964844
     double_fontsize_int: 14
   - index: 2779
-    text: 'We paid more attention to inclement weather, giving everything due consideration
-      to be able to conduct our actions in '
-    text_base: we paid more attention to inclement weather giving everything due consideration
-      to be able to conduct our actions in
+    text: 'We paid more attention to inclement weather, giving everything due consideration to be able to conduct our actions in '
+    text_base: we paid more attention to inclement weather giving everything due consideration to be able to conduct our actions in
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 35
@@ -535,10 +496,8 @@
     origin_x: 41.63999938964844
     double_fontsize_int: 14
   - index: 2782
-    text: 'Safety conditions should be considered during planning and local authorities
-      should be involved to ensure a '
-    text_base: safety conditions should be considered during planning and local authorities
-      should be involved to ensure a
+    text: 'Safety conditions should be considered during planning and local authorities should be involved to ensure a '
+    text_base: safety conditions should be considered during planning and local authorities should be involved to ensure a
     style: 'arialmt, 20, #000000, None'
     size: 9.960000038146973
     page_number: 35
@@ -561,11 +520,6 @@
     origin_x: 59.63999938964844
     double_fontsize_int: 20
   items:
-  - It was difficult to conduct any type of process - whether for training, recovery,
-    or disaster preparedness - with only five hours available during the day to do
-    so (6 am to noon). Nothing could be carried out after noon because of the risk
-    of flooded roads caused by rains, which meant having to spend the night in communities.
-  - We paid more attention to inclement weather, giving everything due consideration
-    to be able to conduct our actions in time.
-  - Safety conditions should be considered during planning and local authorities should
-    be involved to ensure a comprehensive approach.
+  - It was difficult to conduct any type of process - whether for training, recovery, or disaster preparedness - with only five hours available during the day to do so (6 am to noon). Nothing could be carried out after noon because of the risk of flooded roads caused by rains, which meant having to spend the night in communities.
+  - We paid more attention to inclement weather, giving everything due consideration to be able to conduct our actions in time.
+  - Safety conditions should be considered during planning and local authorities should be involved to ensure a comprehensive approach.

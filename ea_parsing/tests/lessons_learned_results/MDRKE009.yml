@@ -29,10 +29,8 @@
     bbox: (77.39591217041016, 244.85171508789062, 82.00472259521484, 257.127197265625)
     double_fontsize_int: 20
   - index: 73
-    text: 'Water supply is a critical component to the success of the greenhouse projects.
-      Schools with an '
-    text_base: water supply is a critical component to the success of the greenhouse
-      projects schools with an
+    text: 'Water supply is a critical component to the success of the greenhouse projects. Schools with an '
+    text_base: water supply is a critical component to the success of the greenhouse projects schools with an
     style: 'arial, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -44,10 +42,8 @@
     bbox: (95.39483642578125, 245.8546905517578, 543.84619140625, 257.0489196777344)
     double_fontsize_int: 20
   - index: 74
-    text: 'assured supply of water enjoyed impressive success in the project activities
-      since activities such as '
-    text_base: assured supply of water enjoyed impressive success in the project activities
-      since activities such as
+    text: 'assured supply of water enjoyed impressive success in the project activities since activities such as '
+    text_base: assured supply of water enjoyed impressive success in the project activities since activities such as
     style: 'arial, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -59,10 +55,8 @@
     bbox: (95.40184020996094, 257.3777160644531, 548.0914306640625, 268.5719299316406)
     double_fontsize_int: 20
   - index: 75
-    text: 'fertilizer flooding were carried out at the necessary time and crop yield
-      was not compromised. '
-    text_base: fertilizer flooding were carried out at the necessary time and crop
-      yield was not compromised
+    text: 'fertilizer flooding were carried out at the necessary time and crop yield was not compromised. '
+    text_base: fertilizer flooding were carried out at the necessary time and crop yield was not compromised
     style: 'arial, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -87,10 +81,8 @@
     bbox: (77.39591979980469, 280.0219421386719, 82.00473022460938, 292.29742431640625)
     double_fontsize_int: 20
   - index: 77
-    text: "The greenhouse supervisor\u2019s technical knowledge in agriculture and/or\
-      \ agricultural entomology "
-    text_base: the greenhouse supervisor s technical knowledge in agriculture and
-      or agricultural entomology
+    text: "The greenhouse supervisor\u2019s technical knowledge in agriculture and/or agricultural entomology "
+    text_base: the greenhouse supervisor s technical knowledge in agriculture and or agricultural entomology
     style: 'arial, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -102,10 +94,8 @@
     bbox: (95.39283752441406, 281.0249328613281, 542.431640625, 292.2191467285156)
     double_fontsize_int: 20
   - index: 78
-    text: 'greatly influenced the quality of harvest by effectively anticipating plant
-      needs such as addition of '
-    text_base: greatly influenced the quality of harvest by effectively anticipating
-      plant needs such as addition of
+    text: 'greatly influenced the quality of harvest by effectively anticipating plant needs such as addition of '
+    text_base: greatly influenced the quality of harvest by effectively anticipating plant needs such as addition of
     style: 'arial, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -143,10 +133,8 @@
     bbox: (77.40592193603516, 315.1921691894531, 82.01473236083984, 327.4676513671875)
     double_fontsize_int: 20
   - index: 81
-    text: 'Knowledge of local market trends greatly influences profits. Many schools
-      were selling their '
-    text_base: knowledge of local market trends greatly influences profits many schools
-      were selling their
+    text: 'Knowledge of local market trends greatly influences profits. Many schools were selling their '
+    text_base: knowledge of local market trends greatly influences profits many schools were selling their
     style: 'arial, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -158,10 +146,8 @@
     bbox: (95.40283966064453, 316.1949768066406, 529.021728515625, 327.3893737792969)
     double_fontsize_int: 20
   - index: 82
-    text: 'tomatoes during seasons when tomatoes were saturated in the market thereby
-      reducing their profits. '
-    text_base: tomatoes during seasons when tomatoes were saturated in the market
-      thereby reducing their profits
+    text: 'tomatoes during seasons when tomatoes were saturated in the market thereby reducing their profits. '
+    text_base: tomatoes during seasons when tomatoes were saturated in the market thereby reducing their profits
     style: 'arial, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -173,10 +159,8 @@
     bbox: (95.40190124511719, 327.71795654296875, 548.0847778320312, 338.9122314453125)
     double_fontsize_int: 20
   - index: 83
-    text: 'Schools that sold produce during times of scarcity made at least 35% higher
-      profits than the rest.  '
-    text_base: schools that sold produce during times of scarcity made at least 35
-      higher profits than the rest
+    text: 'Schools that sold produce during times of scarcity made at least 35% higher profits than the rest.  '
+    text_base: schools that sold produce during times of scarcity made at least 35 higher profits than the rest
     style: 'arial, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 1
@@ -188,15 +172,6 @@
     bbox: (95.40185546875, 339.24102783203125, 528.4395751953125, 350.43524169921875)
     double_fontsize_int: 20
   items:
-  - Water supply is a critical component to the success of the greenhouse projects.
-    Schools with an assured supply of water enjoyed impressive success in the project
-    activities since activities such as fertilizer flooding were carried out at the
-    necessary time and crop yield was not compromised.
-  - "The greenhouse supervisor\u2019s technical knowledge in agriculture and/or agricultural\
-    \ entomology greatly influenced the quality of harvest by effectively anticipating\
-    \ plant needs such as addition of specific nutrients, need for pesticides at the\
-    \ first sign of pests etc."
-  - Knowledge of local market trends greatly influences profits. Many schools were
-    selling their tomatoes during seasons when tomatoes were saturated in the market
-    thereby reducing their profits. Schools that sold produce during times of scarcity
-    made at least 35% higher profits than the rest.
+  - Water supply is a critical component to the success of the greenhouse projects. Schools with an assured supply of water enjoyed impressive success in the project activities since activities such as fertilizer flooding were carried out at the necessary time and crop yield was not compromised.
+  - "The greenhouse supervisor\u2019s technical knowledge in agriculture and/or agricultural entomology greatly influenced the quality of harvest by effectively anticipating plant needs such as addition of specific nutrients, need for pesticides at the first sign of pests etc."
+  - Knowledge of local market trends greatly influences profits. Many schools were selling their tomatoes during seasons when tomatoes were saturated in the market thereby reducing their profits. Schools that sold produce during times of scarcity made at least 35% higher profits than the rest.

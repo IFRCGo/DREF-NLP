@@ -18,10 +18,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 363
-    text: 'The DRC health department could work to prioritise PSS activities and link
-      them with other health interventions. '
-    text_base: the drc health department could work to prioritise pss activities and
-      link them with other health interventions
+    text: 'The DRC health department could work to prioritise PSS activities and link them with other health interventions. '
+    text_base: the drc health department could work to prioritise pss activities and link them with other health interventions
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 5
@@ -35,10 +33,8 @@
     bbox_x2: 550.8258666992188
     double_fontsize_int: 20
   - index: 364
-    text: 'Strategic pre-positioning of health supplies is required for a timely and
-      efficient intervention. Qualified human '
-    text_base: strategic pre positioning of health supplies is required for a timely
-      and efficient intervention qualified human
+    text: 'Strategic pre-positioning of health supplies is required for a timely and efficient intervention. Qualified human '
+    text_base: strategic pre positioning of health supplies is required for a timely and efficient intervention qualified human
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 5
@@ -52,10 +48,8 @@
     bbox_x2: 550.7291259765625
     double_fontsize_int: 20
   - index: 365
-    text: 'resources for health interventions are required at the branch level. The
-      updating/revision of the procedures and '
-    text_base: resources for health interventions are required at the branch level
-      the updating revision of the procedures and
+    text: 'resources for health interventions are required at the branch level. The updating/revision of the procedures and '
+    text_base: resources for health interventions are required at the branch level the updating revision of the procedures and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 5
@@ -69,10 +63,8 @@
     bbox_x2: 550.3272094726562
     double_fontsize_int: 20
   - index: 366
-    text: 'processes will enable branches to access available resources and report
-      on their use.  '
-    text_base: processes will enable branches to access available resources and report
-      on their use
+    text: 'processes will enable branches to access available resources and report on their use.  '
+    text_base: processes will enable branches to access available resources and report on their use
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 5
@@ -86,12 +78,7 @@
     bbox_x2: 426.43890380859375
     double_fontsize_int: 20
   items:
-  - The DRC health department could work to prioritise PSS activities and link them
-    with other health interventions. Strategic pre-positioning of health supplies
-    is required for a timely and efficient intervention. Qualified human resources
-    for health interventions are required at the branch level. The updating/revision
-    of the procedures and processes will enable branches to access available resources
-    and report on their use.
+  - The DRC health department could work to prioritise PSS activities and link them with other health interventions. Strategic pre-positioning of health supplies is required for a timely and efficient intervention. Qualified human resources for health interventions are required at the branch level. The updating/revision of the procedures and processes will enable branches to access available resources and report on their use.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -112,10 +99,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 518
-    text: 'Following the trainings and the maintenance of equipment, the DRC should
-      work to strengthen its rapid (24 hours) '
-    text_base: following the trainings and the maintenance of equipment the drc should
-      work to strengthen its rapid 24 hours
+    text: 'Following the trainings and the maintenance of equipment, the DRC should work to strengthen its rapid (24 hours) '
+    text_base: following the trainings and the maintenance of equipment the drc should work to strengthen its rapid 24 hours
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -144,8 +129,7 @@
     bbox_x2: 138.3888702392578
     double_fontsize_int: 20
   items:
-  - Following the trainings and the maintenance of equipment, the DRC should work
-    to strengthen its rapid (24 hours) deployment capacity.
+  - Following the trainings and the maintenance of equipment, the DRC should work to strengthen its rapid (24 hours) deployment capacity.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -181,10 +165,8 @@
     bbox_x2: 64.22120666503906
     double_fontsize_int: 20
   - index: 623
-    text: 'More accurate and timely information is required for the drafting of the
-      plan of action. '
-    text_base: more accurate and timely information is required for the drafting of
-      the plan of action
+    text: 'More accurate and timely information is required for the drafting of the plan of action. '
+    text_base: more accurate and timely information is required for the drafting of the plan of action
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 9
@@ -213,10 +195,8 @@
     bbox_x2: 64.22120666503906
     double_fontsize_int: 20
   - index: 625
-    text: 'Emergency response operations require a unified data collection mechanism
-      between all sectors and the '
-    text_base: emergency response operations require a unified data collection mechanism
-      between all sectors and the
+    text: 'Emergency response operations require a unified data collection mechanism between all sectors and the '
+    text_base: emergency response operations require a unified data collection mechanism between all sectors and the
     style: 'arialmt, 20, #000000, #ffffff'
     size: 9.960000038146973
     page_number: 9
@@ -245,10 +225,8 @@
     bbox_x2: 318.4389038085937
     double_fontsize_int: 20
   items:
-  - More accurate and timely information is required for the drafting of the plan
-    of action.
-  - Emergency response operations require a unified data collection mechanism between
-    all sectors and the necessary personnel to centralize the data collection.
+  - More accurate and timely information is required for the drafting of the plan of action.
+  - Emergency response operations require a unified data collection mechanism between all sectors and the necessary personnel to centralize the data collection.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -269,10 +247,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 671
-    text: 'In retrospect, the NS felt that the DRR component had too many activities
-      to be implemented in such a short time, '
-    text_base: in retrospect the ns felt that the drr component had too many activities
-      to be implemented in such a short time
+    text: 'In retrospect, the NS felt that the DRR component had too many activities to be implemented in such a short time, '
+    text_base: in retrospect the ns felt that the drr component had too many activities to be implemented in such a short time
     style: 'italicmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -286,10 +262,8 @@
     bbox_x2: 550.313232421875
     double_fontsize_int: 20
   - index: 672
-    text: 'even though a participatory process of prioritisation was done in January
-      2018. Further, the NS did not have enough '
-    text_base: even though a participatory process of prioritisation was done in january
-      2018 further the ns did not have enough
+    text: 'even though a participatory process of prioritisation was done in January 2018. Further, the NS did not have enough '
+    text_base: even though a participatory process of prioritisation was done in january 2018 further the ns did not have enough
     style: 'italicmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -318,10 +292,7 @@
     bbox_x2: 271.1722717285156
     double_fontsize_int: 20
   items:
-  - In retrospect, the NS felt that the DRR component had too many activities to be
-    implemented in such a short time, even though a participatory process of prioritisation
-    was done in January 2018. Further, the NS did not have enough personnel to carry
-    out the necessary field activities.
+  - In retrospect, the NS felt that the DRR component had too many activities to be implemented in such a short time, even though a participatory process of prioritisation was done in January 2018. Further, the NS did not have enough personnel to carry out the necessary field activities.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -342,10 +313,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 733
-    text: 'The DRC has identified the need to strengthen internal planning, especially
-      with regards to the administration and '
-    text_base: the drc has identified the need to strengthen internal planning especially
-      with regards to the administration and
+    text: 'The DRC has identified the need to strengthen internal planning, especially with regards to the administration and '
+    text_base: the drc has identified the need to strengthen internal planning especially with regards to the administration and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 11
@@ -374,8 +343,7 @@
     bbox_x2: 101.67288208007812
     double_fontsize_int: 20
   items:
-  - The DRC has identified the need to strengthen internal planning, especially with
-    regards to the administration and coordination.
+  - The DRC has identified the need to strengthen internal planning, especially with regards to the administration and coordination.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -396,10 +364,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 787
-    text: 'As mentioned, the DRC should hire an operations coordinator who also manages
-      the related budget. '
-    text_base: as mentioned the drc should hire an operations coordinator who also
-      manages the related budget
+    text: 'As mentioned, the DRC should hire an operations coordinator who also manages the related budget. '
+    text_base: as mentioned the drc should hire an operations coordinator who also manages the related budget
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -413,8 +379,7 @@
     bbox_x2: 489.8288879394531
     double_fontsize_int: 20
   items:
-  - 'As mentioned, the DRC should hire an operations coordinator who also manages
-    the related budget. '
+  - As mentioned, the DRC should hire an operations coordinator who also manages the related budget.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -435,10 +400,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 806
-    text: 'Communications should be integrated into the planning process for operations.
-      Additional communication personnel '
-    text_base: communications should be integrated into the planning process for operations
-      additional communication personnel
+    text: 'Communications should be integrated into the planning process for operations. Additional communication personnel '
+    text_base: communications should be integrated into the planning process for operations additional communication personnel
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -452,10 +415,8 @@
     bbox_x2: 550.5931396484375
     double_fontsize_int: 20
   - index: 807
-    text: 'as well as technical services (video production and edition), should be
-      included in the budget. '
-    text_base: as well as technical services video production and edition should be
-      included in the budget
+    text: 'as well as technical services (video production and edition), should be included in the budget. '
+    text_base: as well as technical services video production and edition should be included in the budget
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -469,6 +430,4 @@
     bbox_x2: 457.0688781738281
     double_fontsize_int: 20
   items:
-  - Communications should be integrated into the planning process for operations.
-    Additional communication personnel as well as technical services (video production
-    and edition), should be included in the budget.
+  - Communications should be integrated into the planning process for operations. Additional communication personnel as well as technical services (video production and edition), should be included in the budget.

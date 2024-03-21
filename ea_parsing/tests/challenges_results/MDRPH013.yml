@@ -16,10 +16,8 @@
   sector_similarity_score: null
   content:
   - index: 169
-    text: 'Donations received through this appeal were insufficient to meet all the
-      targets, specifically for shelter, i.e. only '
-    text_base: donations received through this appeal were insufficient to meet all
-      the targets specifically for shelter i e only
+    text: 'Donations received through this appeal were insufficient to meet all the targets, specifically for shelter, i.e. only '
+    text_base: donations received through this appeal were insufficient to meet all the targets specifically for shelter i e only
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 2
@@ -31,10 +29,8 @@
     bbox: (47.279998779296875, 381.0229797363281, 553.1932373046875, 394.7080078125)
     double_fontsize_int: 20
   - index: 170
-    text: '2,004 could be covered out of the 2,300 targeted. Specifically, 1,700 families
-      were reached with shelter repair '
-    text_base: 2 004 could be covered out of the 2 300 targeted specifically 1 700
-      families were reached with shelter repair
+    text: '2,004 could be covered out of the 2,300 targeted. Specifically, 1,700 families were reached with shelter repair '
+    text_base: 2 004 could be covered out of the 2 300 targeted specifically 1 700 families were reached with shelter repair
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 2
@@ -46,10 +42,8 @@
     bbox: (47.279998779296875, 392.54296875, 553.33203125, 406.2279968261719)
     double_fontsize_int: 20
   - index: 171
-    text: 'assistance while 304 households were provided with core shelters. The slow
-      inflow of donations was attributed to '
-    text_base: assistance while 304 households were provided with core shelters the
-      slow inflow of donations was attributed to
+    text: 'assistance while 304 households were provided with core shelters. The slow inflow of donations was attributed to '
+    text_base: assistance while 304 households were provided with core shelters the slow inflow of donations was attributed to
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 2
@@ -61,10 +55,8 @@
     bbox: (47.279998779296875, 404.06298828125, 553.4147338867188, 417.7480163574219)
     double_fontsize_int: 20
   - index: 172
-    text: 'the effect of Typhoon Haiyan, which struck hardly a month after the earthquake.
-      The typhoon demanded massive '
-    text_base: the effect of typhoon haiyan which struck hardly a month after the
-      earthquake the typhoon demanded massive
+    text: 'the effect of Typhoon Haiyan, which struck hardly a month after the earthquake. The typhoon demanded massive '
+    text_base: the effect of typhoon haiyan which struck hardly a month after the earthquake the typhoon demanded massive
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 2
@@ -76,10 +68,8 @@
     bbox: (47.279998779296875, 415.5829772949219, 553.2214965820312, 429.26800537109375)
     double_fontsize_int: 20
   - index: 173
-    text: 'effort and resources from the Philippine government, PRC and other actors.
-      While support shifted to the '
-    text_base: effort and resources from the philippine government prc and other actors
-      while support shifted to the
+    text: 'effort and resources from the Philippine government, PRC and other actors. While support shifted to the '
+    text_base: effort and resources from the philippine government prc and other actors while support shifted to the
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 2
@@ -91,10 +81,8 @@
     bbox: (47.279998779296875, 427.1029968261719, 553.2777099609375, 440.78802490234375)
     double_fontsize_int: 20
   - index: 174
-    text: 'immediate needs of typhoon-affected families, significant needs remained
-      in the earthquake-affected areas.  '
-    text_base: immediate needs of typhoon affected families significant needs remained
-      in the earthquake affected areas
+    text: 'immediate needs of typhoon-affected families, significant needs remained in the earthquake-affected areas.  '
+    text_base: immediate needs of typhoon affected families significant needs remained in the earthquake affected areas
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 2
@@ -106,15 +94,7 @@
     bbox: (47.279998779296875, 438.50299072265625, 528.2288818359375, 452.1880187988281)
     double_fontsize_int: 20
   items:
-  - Donations received through this appeal were insufficient to meet all the targets,
-    specifically for shelter, i.e. only 2,004 could be covered out of the 2,300 targeted.
-    Specifically, 1,700 families were reached with shelter repair assistance while
-    304 households were provided with core shelters. The slow inflow of donations
-    was attributed to the effect of Typhoon Haiyan, which struck hardly a month after
-    the earthquake. The typhoon demanded massive effort and resources from the Philippine
-    government, PRC and other actors. While support shifted to the immediate needs
-    of typhoon-affected families, significant needs remained in the earthquake-affected
-    areas.
+  - Donations received through this appeal were insufficient to meet all the targets, specifically for shelter, i.e. only 2,004 could be covered out of the 2,300 targeted. Specifically, 1,700 families were reached with shelter repair assistance while 304 households were provided with core shelters. The slow inflow of donations was attributed to the effect of Typhoon Haiyan, which struck hardly a month after the earthquake. The typhoon demanded massive effort and resources from the Philippine government, PRC and other actors. While support shifted to the immediate needs of typhoon-affected families, significant needs remained in the earthquake-affected areas.
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -133,10 +113,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1008
-    text: 'The core shelter intervention was adversely affected during the rainy and
-      typhoon seasons, delaying construction '
-    text_base: the core shelter intervention was adversely affected during the rainy
-      and typhoon seasons delaying construction
+    text: 'The core shelter intervention was adversely affected during the rainy and typhoon seasons, delaying construction '
+    text_base: the core shelter intervention was adversely affected during the rainy and typhoon seasons delaying construction
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -148,10 +126,8 @@
     bbox: (47.279998779296875, 737.948974609375, 553.2579345703125, 751.634033203125)
     double_fontsize_int: 20
   - index: 1009
-    text: 'completion. Delivery of construction materials was also a challenge, especially
-      for beneficiaries living in remote '
-    text_base: completion delivery of construction materials was also a challenge
-      especially for beneficiaries living in remote
+    text: 'completion. Delivery of construction materials was also a challenge, especially for beneficiaries living in remote '
+    text_base: completion delivery of construction materials was also a challenge especially for beneficiaries living in remote
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 12
@@ -163,10 +139,8 @@
     bbox: (47.279998779296875, 749.468994140625, 553.393310546875, 763.1539916992188)
     double_fontsize_int: 20
   - index: 1027
-    text: 'areas, due to accessibility constraints. Excavation for septic tanks, which
-      are integral to core shelters, was very '
-    text_base: areas due to accessibility constraints excavation for septic tanks
-      which are integral to core shelters was very
+    text: 'areas, due to accessibility constraints. Excavation for septic tanks, which are integral to core shelters, was very '
+    text_base: areas due to accessibility constraints excavation for septic tanks which are integral to core shelters was very
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -178,10 +152,8 @@
     bbox: (47.279998779296875, 70.53298950195312, 553.3915405273438, 84.21803283691406)
     double_fontsize_int: 20
   - index: 1028
-    text: 'difficult, especially in the municipality of Loon. This is due to the hard
-      rock and limestone geological composition '
-    text_base: difficult especially in the municipality of loon this is due to the
-      hard rock and limestone geological composition
+    text: 'difficult, especially in the municipality of Loon. This is due to the hard rock and limestone geological composition '
+    text_base: difficult especially in the municipality of loon this is due to the hard rock and limestone geological composition
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -193,10 +165,8 @@
     bbox: (47.279998779296875, 82.05300903320312, 553.0505981445312, 95.73805236816406)
     double_fontsize_int: 20
   - index: 1029
-    text: 'of these areas in Bohol. Despite these challenges, the programme was completed
-      within timeframe.   '
-    text_base: of these areas in bohol despite these challenges the programme was
-      completed within timeframe
+    text: 'of these areas in Bohol. Despite these challenges, the programme was completed within timeframe.   '
+    text_base: of these areas in bohol despite these challenges the programme was completed within timeframe
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -208,10 +178,8 @@
     bbox: (47.279998779296875, 93.59298706054688, 496.42889404296875, 107.27803039550781)
     double_fontsize_int: 20
   - index: 1030
-    text: 'The overall target for shelter interventions was to provide 2,300 families
-      with durable shelter. The coverage of this '
-    text_base: the overall target for shelter interventions was to provide 2 300 families
-      with durable shelter the coverage of this
+    text: 'The overall target for shelter interventions was to provide 2,300 families with durable shelter. The coverage of this '
+    text_base: the overall target for shelter interventions was to provide 2 300 families with durable shelter the coverage of this
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -223,10 +191,8 @@
     bbox: (47.279998779296875, 116.51296997070312, 553.2710571289062, 130.19801330566406)
     double_fontsize_int: 20
   - index: 1031
-    text: 'appeal reached 87 per cent, leaving a significant funding gap. As such,
-      only 2,004 families were provided with '
-    text_base: appeal reached 87 per cent leaving a significant funding gap as such
-      only 2 004 families were provided with
+    text: 'appeal reached 87 per cent, leaving a significant funding gap. As such, only 2,004 families were provided with '
+    text_base: appeal reached 87 per cent leaving a significant funding gap as such only 2 004 families were provided with
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -238,10 +204,8 @@
     bbox: (47.279998779296875, 128.03298950195312, 552.8098754882812, 141.71803283691406)
     double_fontsize_int: 20
   - index: 1032
-    text: 'shelter assistance; specifically, 1,700 with shelter repair and 304 with
-      core shelter. '
-    text_base: shelter assistance specifically 1 700 with shelter repair and 304 with
-      core shelter
+    text: 'shelter assistance; specifically, 1,700 with shelter repair and 304 with core shelter. '
+    text_base: shelter assistance specifically 1 700 with shelter repair and 304 with core shelter
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -253,10 +217,8 @@
     bbox: (47.279998779296875, 139.55300903320312, 413.7189025878906, 153.23805236816406)
     double_fontsize_int: 20
   - index: 1033
-    text: 'Rehabilitation of water and sanitation facilities in schools was initially
-      scheduled to be completed during the '
-    text_base: rehabilitation of water and sanitation facilities in schools was initially
-      scheduled to be completed during the
+    text: 'Rehabilitation of water and sanitation facilities in schools was initially scheduled to be completed during the '
+    text_base: rehabilitation of water and sanitation facilities in schools was initially scheduled to be completed during the
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -268,10 +230,8 @@
     bbox: (47.279998779296875, 162.59298706054688, 553.0684204101562, 176.2780303955078)
     double_fontsize_int: 20
   - index: 1034
-    text: 'second quarter of 2014. However, delays were faced in engaging a suitable
-      contractor; the bidding process took '
-    text_base: second quarter of 2014 however delays were faced in engaging a suitable
-      contractor the bidding process took
+    text: 'second quarter of 2014. However, delays were faced in engaging a suitable contractor; the bidding process took '
+    text_base: second quarter of 2014 however delays were faced in engaging a suitable contractor the bidding process took
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -283,10 +243,8 @@
     bbox: (47.279998779296875, 173.99301147460938, 552.9491577148438, 187.6780548095703)
     double_fontsize_int: 20
   - index: 1035
-    text: 'longer than expected with an unexpected change of contractors which disrupted
-      the project schedule. This '
-    text_base: longer than expected with an unexpected change of contractors which
-      disrupted the project schedule this
+    text: 'longer than expected with an unexpected change of contractors which disrupted the project schedule. This '
+    text_base: longer than expected with an unexpected change of contractors which disrupted the project schedule this
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -298,10 +256,8 @@
     bbox: (47.279998779296875, 185.51296997070312, 553.412841796875, 199.19801330566406)
     double_fontsize_int: 20
   - index: 1036
-    text: 'prompted a re-bidding exercise, which eventually saw the engagement of
-      a suitable contractor who undertook the '
-    text_base: prompted a re bidding exercise which eventually saw the engagement
-      of a suitable contractor who undertook the
+    text: 'prompted a re-bidding exercise, which eventually saw the engagement of a suitable contractor who undertook the '
+    text_base: prompted a re bidding exercise which eventually saw the engagement of a suitable contractor who undertook the
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -313,10 +269,8 @@
     bbox: (47.279998779296875, 197.03298950195312, 553.024658203125, 210.71803283691406)
     double_fontsize_int: 20
   - index: 1037
-    text: 'entire rehabilitation project. Other challenges to this project included
-      digging through a solid foundation of '
-    text_base: entire rehabilitation project other challenges to this project included
-      digging through a solid foundation of
+    text: 'entire rehabilitation project. Other challenges to this project included digging through a solid foundation of '
+    text_base: entire rehabilitation project other challenges to this project included digging through a solid foundation of
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -328,10 +282,8 @@
     bbox: (47.279998779296875, 208.55300903320312, 553.3915405273438, 222.23805236816406)
     double_fontsize_int: 20
   - index: 1038
-    text: 'limestone and the disruption of the construction schedule by the rainy
-      season. Nevertheless, work has since been '
-    text_base: limestone and the disruption of the construction schedule by the rainy
-      season nevertheless work has since been
+    text: 'limestone and the disruption of the construction schedule by the rainy season. Nevertheless, work has since been '
+    text_base: limestone and the disruption of the construction schedule by the rainy season nevertheless work has since been
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -343,10 +295,8 @@
     bbox: (47.279998779296875, 220.07296752929688, 553.3848876953125, 233.7580108642578)
     double_fontsize_int: 20
   - index: 1039
-    text: 'completed satisfactorily, with all the facilities handed over to the respective
-      school authorities in November 2014 '
-    text_base: completed satisfactorily with all the facilities handed over to the
-      respective school authorities in november 2014
+    text: 'completed satisfactorily, with all the facilities handed over to the respective school authorities in November 2014 '
+    text_base: completed satisfactorily with all the facilities handed over to the respective school authorities in november 2014
     style: 'arial, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -371,24 +321,6 @@
     bbox: (47.279998779296875, 242.99301147460938, 171.2688751220703, 256.67803955078125)
     double_fontsize_int: 20
   items:
-  - The core shelter intervention was adversely affected during the rainy and typhoon
-    seasons, delaying construction completion. Delivery of construction materials
-    was also a challenge, especially for beneficiaries living in remote areas, due
-    to accessibility constraints. Excavation for septic tanks, which are integral
-    to core shelters, was very difficult, especially in the municipality of Loon.
-    This is due to the hard rock and limestone geological composition of these areas
-    in Bohol. Despite these challenges, the programme was completed within timeframe.
-  - The overall target for shelter interventions was to provide 2,300 families with
-    durable shelter. The coverage of this appeal reached 87 per cent, leaving a significant
-    funding gap. As such, only 2,004 families were provided with shelter assistance;
-    specifically, 1,700 with shelter repair and 304 with core shelter.
-  - Rehabilitation of water and sanitation facilities in schools was initially scheduled
-    to be completed during the second quarter of 2014. However, delays were faced
-    in engaging a suitable contractor; the bidding process took longer than expected
-    with an unexpected change of contractors which disrupted the project schedule.
-    This prompted a re-bidding exercise, which eventually saw the engagement of a
-    suitable contractor who undertook the entire rehabilitation project. Other challenges
-    to this project included digging through a solid foundation of limestone and the
-    disruption of the construction schedule by the rainy season. Nevertheless, work
-    has since been completed satisfactorily, with all the facilities handed over to
-    the respective school authorities in November 2014 and currently being utilized.
+  - The core shelter intervention was adversely affected during the rainy and typhoon seasons, delaying construction completion. Delivery of construction materials was also a challenge, especially for beneficiaries living in remote areas, due to accessibility constraints. Excavation for septic tanks, which are integral to core shelters, was very difficult, especially in the municipality of Loon. This is due to the hard rock and limestone geological composition of these areas in Bohol. Despite these challenges, the programme was completed within timeframe.
+  - The overall target for shelter interventions was to provide 2,300 families with durable shelter. The coverage of this appeal reached 87 per cent, leaving a significant funding gap. As such, only 2,004 families were provided with shelter assistance; specifically, 1,700 with shelter repair and 304 with core shelter.
+  - Rehabilitation of water and sanitation facilities in schools was initially scheduled to be completed during the second quarter of 2014. However, delays were faced in engaging a suitable contractor; the bidding process took longer than expected with an unexpected change of contractors which disrupted the project schedule. This prompted a re-bidding exercise, which eventually saw the engagement of a suitable contractor who undertook the entire rehabilitation project. Other challenges to this project included digging through a solid foundation of limestone and the disruption of the construction schedule by the rainy season. Nevertheless, work has since been completed satisfactorily, with all the facilities handed over to the respective school authorities in November 2014 and currently being utilized.

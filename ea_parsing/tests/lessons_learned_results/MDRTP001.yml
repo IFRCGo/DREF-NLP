@@ -16,10 +16,8 @@
   sector_similarity_score: null
   content:
   - index: 239
-    text: 'A two-day review meeting of the storms and floods operation was organized
-      by CVTL in cooperation with '
-    text_base: a two day review meeting of the storms and floods operation was organized
-      by cvtl in cooperation with
+    text: 'A two-day review meeting of the storms and floods operation was organized by CVTL in cooperation with '
+    text_base: a two day review meeting of the storms and floods operation was organized by cvtl in cooperation with
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -31,10 +29,8 @@
     bbox: (42.540000915527344, 415.8177490234375, 551.9010620117188, 430.465087890625)
     double_fontsize_int: 22
   - index: 240
-    text: 'Federation on 29-30 January 2007. Participants from five districts, as
-      well as disaster management, health, logistic '
-    text_base: federation on 29 30 january 2007 participants from five districts as
-      well as disaster management health logistic
+    text: 'Federation on 29-30 January 2007. Participants from five districts, as well as disaster management, health, logistic '
+    text_base: federation on 29 30 january 2007 participants from five districts as well as disaster management health logistic
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -46,10 +42,8 @@
     bbox: (42.53997802734375, 428.4776916503906, 551.9304809570312, 443.1250305175781)
     double_fontsize_int: 22
   - index: 241
-    text: 'and finance departments at headquarters attend the meeting and discussed
-      mainly on the following aspects: '
-    text_base: and finance departments at headquarters attend the meeting and discussed
-      mainly on the following aspects
+    text: 'and finance departments at headquarters attend the meeting and discussed mainly on the following aspects: '
+    text_base: and finance departments at headquarters attend the meeting and discussed mainly on the following aspects
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -165,10 +159,8 @@
     bbox: (60.53622055053711, 494.8353576660156, 233.7611541748047, 509.4826965332031)
     double_fontsize_int: 22
   - index: 250
-    text: 'The meeting revisited the past and made some recommendations for improvements
-      for the future programmes as '
-    text_base: the meeting revisited the past and made some recommendations for improvements
-      for the future programmes as
+    text: 'The meeting revisited the past and made some recommendations for improvements for the future programmes as '
+    text_base: the meeting revisited the past and made some recommendations for improvements for the future programmes as
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -206,10 +198,8 @@
     bbox: (42.540000915527344, 546.777587890625, 47.590370178222656, 560.2291870117188)
     double_fontsize_int: 22
   - index: 253
-    text: 'Limited staff members and capacity of the available staff and volunteers
-      were the main bottleneck in '
-    text_base: limited staff members and capacity of the available staff and volunteers
-      were the main bottleneck in
+    text: 'Limited staff members and capacity of the available staff and volunteers were the main bottleneck in '
+    text_base: limited staff members and capacity of the available staff and volunteers were the main bottleneck in
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -221,10 +211,8 @@
     bbox: (60.53622055053711, 546.254638671875, 551.893310546875, 560.9019775390625)
     double_fontsize_int: 22
   - index: 254
-    text: 'delivering services. Poor road condition and bad weather made delivering
-      materials to the community very '
-    text_base: delivering services poor road condition and bad weather made delivering
-      materials to the community very
+    text: 'delivering services. Poor road condition and bad weather made delivering materials to the community very '
+    text_base: delivering services poor road condition and bad weather made delivering materials to the community very
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -236,10 +224,8 @@
     bbox: (60.536224365234375, 558.9146118164062, 551.84716796875, 573.5619506835938)
     double_fontsize_int: 22
   - index: 255
-    text: "difficult and also limited the CVTL\u2019s service to the community. Therefore,\
-      \ it is important to develop "
-    text_base: difficult and also limited the cvtl s service to the community therefore
-      it is important to develop
+    text: "difficult and also limited the CVTL\u2019s service to the community. Therefore, it is important to develop "
+    text_base: difficult and also limited the cvtl s service to the community therefore it is important to develop
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -251,10 +237,8 @@
     bbox: (60.536224365234375, 571.5086059570312, 551.9154052734375, 586.1559448242188)
     double_fontsize_int: 22
   - index: 256
-    text: 'contingency plans at the beginning so that the over all operation would
-      not be affected.  '
-    text_base: contingency plans at the beginning so that the over all operation would
-      not be affected
+    text: 'contingency plans at the beginning so that the over all operation would not be affected.  '
+    text_base: contingency plans at the beginning so that the over all operation would not be affected
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -279,10 +263,8 @@
     bbox: (42.540000915527344, 598.1365966796875, 47.590370178222656, 611.5881958007812)
     double_fontsize_int: 22
   - index: 258
-    text: 'Lack of transportation support and poor communication means with the communities
-      and the national '
-    text_base: lack of transportation support and poor communication means with the
-      communities and the national
+    text: 'Lack of transportation support and poor communication means with the communities and the national '
+    text_base: lack of transportation support and poor communication means with the communities and the national
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -320,10 +302,8 @@
     bbox: (42.540000915527344, 624.2360229492188, 47.590370178222656, 637.6876220703125)
     double_fontsize_int: 22
   - index: 261
-    text: 'Project was not implemented in line with the original plan because of security
-      problems and the continuous '
-    text_base: project was not implemented in line with the original plan because
-      of security problems and the continuous
+    text: 'Project was not implemented in line with the original plan because of security problems and the continuous '
+    text_base: project was not implemented in line with the original plan because of security problems and the continuous
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -361,10 +341,8 @@
     bbox: (42.540000915527344, 650.3355102539062, 47.590370178222656, 663.787109375)
     double_fontsize_int: 22
   - index: 264
-    text: "Community\u2019s involvement throughout the whole process \u2013 from operation\
-      \ planning through implementation "
-    text_base: community s involvement throughout the whole process from operation
-      planning through implementation
+    text: "Community\u2019s involvement throughout the whole process \u2013 from operation planning through implementation "
+    text_base: community s involvement throughout the whole process from operation planning through implementation
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -415,10 +393,8 @@
     bbox: (42.540000915527344, 701.6954956054688, 47.590370178222656, 715.1470947265625)
     double_fontsize_int: 22
   - index: 268
-    text: "Training and support needed to increase staff and volunteers\u2019 skill\
-      \ and knowledge about project management "
-    text_base: training and support needed to increase staff and volunteers skill
-      and knowledge about project management
+    text: "Training and support needed to increase staff and volunteers\u2019 skill and knowledge about project management "
+    text_base: training and support needed to increase staff and volunteers skill and knowledge about project management
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -430,10 +406,8 @@
     bbox: (60.53622055053711, 701.1725463867188, 551.9000244140625, 715.8198852539062)
     double_fontsize_int: 22
   - index: 269
-    text: 'and implementation. Moreover, it is important to increase overall organizational
-      capacity to manage '
-    text_base: and implementation moreover it is important to increase overall organizational
-      capacity to manage
+    text: 'and implementation. Moreover, it is important to increase overall organizational capacity to manage '
+    text_base: and implementation moreover it is important to increase overall organizational capacity to manage
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -471,10 +445,8 @@
     bbox: (42.540000915527344, 740.4548950195312, 47.590370178222656, 753.906494140625)
     double_fontsize_int: 22
   - index: 272
-    text: 'Improved communication with government, community and stakeholders is important.
-      This could be '
-    text_base: improved communication with government community and stakeholders is
-      important this could be
+    text: 'Improved communication with government, community and stakeholders is important. This could be '
+    text_base: improved communication with government community and stakeholders is important this could be
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 4
@@ -512,10 +484,8 @@
     bbox: (42.540000915527344, 73.56069946289062, 47.590370178222656, 87.01226806640625)
     double_fontsize_int: 22
   - index: 275
-    text: 'Improvements in the framework for working with communities required. There
-      is a need to work together with '
-    text_base: improvements in the framework for working with communities required
-      there is a need to work together with
+    text: 'Improvements in the framework for working with communities required. There is a need to work together with '
+    text_base: improvements in the framework for working with communities required there is a need to work together with
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 5
@@ -527,10 +497,8 @@
     bbox: (60.53622055053711, 73.03773498535156, 551.8594360351562, 87.68505096435547)
     double_fontsize_int: 22
   - index: 276
-    text: 'communities and develop community-based approaches to increase their participation
-      in emergency '
-    text_base: communities and develop community based approaches to increase their
-      participation in emergency
+    text: 'communities and develop community-based approaches to increase their participation in emergency '
+    text_base: communities and develop community based approaches to increase their participation in emergency
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 5
@@ -568,10 +536,8 @@
     bbox: (42.540000915527344, 112.32009887695312, 47.590370178222656, 125.77166748046875)
     double_fontsize_int: 22
   - index: 279
-    text: 'Improvements in transportation and communication to support the community
-      needed.  '
-    text_base: improvements in transportation and communication to support the community
-      needed
+    text: 'Improvements in transportation and communication to support the community needed.  '
+    text_base: improvements in transportation and communication to support the community needed
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 5
@@ -596,10 +562,8 @@
     bbox: (42.540000915527344, 125.75961303710938, 47.590370178222656, 139.211181640625)
     double_fontsize_int: 22
   - index: 281
-    text: 'Radio communication and the volunteer networks need to be strengthened
-      for this purpose.  '
-    text_base: radio communication and the volunteer networks need to be strengthened
-      for this purpose
+    text: 'Radio communication and the volunteer networks need to be strengthened for this purpose.  '
+    text_base: radio communication and the volunteer networks need to be strengthened for this purpose
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 5
@@ -651,8 +615,7 @@
     double_fontsize_int: 22
   - index: 285
     text: 'Operation schedule to be developed in consultation with districts as well. '
-    text_base: operation schedule to be developed in consultation with districts as
-      well
+    text_base: operation schedule to be developed in consultation with districts as well
     style: 'timesnewromanpsmt, 22, #000000, nan'
     size: 10.979999542236328
     page_number: 5
@@ -716,40 +679,22 @@
     bbox: (60.53622055053711, 178.99476623535156, 321.4023132324219, 193.64207458496094)
     double_fontsize_int: 22
   items:
-  - 'A two-day review meeting of the storms and floods operation was organized by
-    CVTL in cooperation with Federation on 29-30 January 2007. Participants from five
-    districts, as well as disaster management, health, logistic and finance departments
-    at headquarters attend the meeting and discussed mainly on the following aspects:'
-  - What achievements were  made,
+  - 'A two-day review meeting of the storms and floods operation was organized by CVTL in cooperation with Federation on 29-30 January 2007. Participants from five districts, as well as disaster management, health, logistic and finance departments at headquarters attend the meeting and discussed mainly on the following aspects:'
+  - What achievements were made,
   - What was done well,
-  - What problems and difficulties were  encountered and
+  - What problems and difficulties were encountered and
   - What can be done better for the future.
-  - 'The meeting revisited the past and made some recommendations for improvements
-    for the future programmes as follows:'
-  - "Limited staff members and capacity of the available staff and volunteers were\
-    \ the main bottleneck in delivering services. Poor road condition and bad weather\
-    \ made delivering materials to the community very difficult and also limited the\
-    \ CVTL\u2019s service to the community. Therefore, it is important to develop\
-    \ contingency plans at the beginning so that the over all operation would not\
-    \ be affected."
-  - Lack of transportation support and poor communication means with the communities
-    and the national headquarters affected the operation.
-  - Project was not implemented in line with the original plan because of security
-    problems and the continuous wet weather in the mountains.
-  - "Community\u2019s involvement throughout the whole process \u2013 from operation\
-    \ planning through implementation and monitoring \u2013 needs to improve."
+  - 'The meeting revisited the past and made some recommendations for improvements for the future programmes as follows:'
+  - "Limited staff members and capacity of the available staff and volunteers were the main bottleneck in delivering services. Poor road condition and bad weather made delivering materials to the community very difficult and also limited the CVTL\u2019s service to the community. Therefore, it is important to develop contingency plans at the beginning so that the over all operation would not be affected."
+  - Lack of transportation support and poor communication means with the communities and the national headquarters affected the operation.
+  - Project was not implemented in line with the original plan because of security problems and the continuous wet weather in the mountains.
+  - "Community\u2019s involvement throughout the whole process \u2013 from operation planning through implementation and monitoring \u2013 needs to improve."
   - 'Recommendations:'
-  - "Training and support needed to increase staff and volunteers\u2019 skill and\
-    \ knowledge about project management and implementation. Moreover, it is important\
-    \ to increase overall organizational capacity to manage emergency operations."
-  - Improved communication with government, community and stakeholders is important.
-    This could be facilitated through a better coordination mechanism.
-  - Improvements in the framework for working with communities required. There is
-    a need to work together with communities and develop community-based approaches
-    to increase their participation in emergency operations.
+  - "Training and support needed to increase staff and volunteers\u2019 skill and knowledge about project management and implementation. Moreover, it is important to increase overall organizational capacity to manage emergency operations."
+  - Improved communication with government, community and stakeholders is important. This could be facilitated through a better coordination mechanism.
+  - Improvements in the framework for working with communities required. There is a need to work together with communities and develop community-based approaches to increase their participation in emergency operations.
   - Improvements in transportation and communication to support the community needed.
-  - Radio communication and the volunteer networks need to be strengthened for this
-    purpose.
+  - Radio communication and the volunteer networks need to be strengthened for this purpose.
   - Activities need to be carried out according to the plan.
   - Operation schedule to be developed in consultation with districts as well.
   - Regular monitoring, reporting and evaluation should be in place.

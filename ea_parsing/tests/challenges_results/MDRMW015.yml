@@ -22,10 +22,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 356
-    text: "\u2022 The major challenge was on logistics as most of the roads had been\
-      \ destroyed. "
-    text_base: the major challenge was on logistics as most of the roads had been
-      destroyed
+    text: "\u2022 The major challenge was on logistics as most of the roads had been destroyed. "
+    text_base: the major challenge was on logistics as most of the roads had been destroyed
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.85989761352539
     page_number: 5
@@ -43,7 +41,7 @@
     bbox_x2: 428.0572814941406
     double_fontsize_int: 20
   items:
-  - "\u2022 The major challenge was on logistics as most of the roads had been destroyed. "
+  - "\u2022 The major challenge was on logistics as most of the roads had been destroyed."
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -68,10 +66,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 428
-    text: "\u2022 The major challenge was on logistics as most of the roads had been\
-      \ destroyed. "
-    text_base: the major challenge was on logistics as most of the roads had been
-      destroyed
+    text: "\u2022 The major challenge was on logistics as most of the roads had been destroyed. "
+    text_base: the major challenge was on logistics as most of the roads had been destroyed
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.85989761352539
     page_number: 6
@@ -89,10 +85,8 @@
     bbox_x2: 428.0572814941406
     double_fontsize_int: 20
   - index: 430
-    text: "\u2022 Destruction of communication infrastructure made it difficult to\
-      \ implement cash-based solutions. "
-    text_base: destruction of communication infrastructure made it difficult to implement
-      cash based solutions
+    text: "\u2022 Destruction of communication infrastructure made it difficult to implement cash-based solutions. "
+    text_base: destruction of communication infrastructure made it difficult to implement cash based solutions
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.85989761352539
     page_number: 6
@@ -111,8 +105,7 @@
     double_fontsize_int: 20
   items:
   - "\u2022 The major challenge was on logistics as most of the roads had been destroyed."
-  - "\u2022 Destruction of communication infrastructure made it difficult to implement\
-    \ cash-based solutions."
+  - "\u2022 Destruction of communication infrastructure made it difficult to implement cash-based solutions."
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -137,10 +130,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 529
-    text: "\u2022 There were connectivity challenges in some of the areas due to the\
-      \ destruction of communication "
-    text_base: there were connectivity challenges in some of the areas due to the
-      destruction of communication
+    text: "\u2022 There were connectivity challenges in some of the areas due to the destruction of communication "
+    text_base: there were connectivity challenges in some of the areas due to the destruction of communication
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.85989761352539
     page_number: 7
@@ -177,10 +168,8 @@
     bbox_x2: 197.63726806640625
     double_fontsize_int: 20
   - index: 532
-    text: "\u2022 Identification particulars still pose a challenge as some of the\
-      \ community members had no IDs because they "
-    text_base: identification particulars still pose a challenge as some of the community
-      members had no ids because they
+    text: "\u2022 Identification particulars still pose a challenge as some of the community members had no IDs because they "
+    text_base: identification particulars still pose a challenge as some of the community members had no ids because they
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.85989761352539
     page_number: 7
@@ -217,11 +206,8 @@
     bbox_x2: 396.7372741699219
     double_fontsize_int: 20
   items:
-  - "\u2022 There were connectivity challenges in some of the areas due to the destruction\
-    \ of communication infrastructure by the cyclone."
-  - "\u2022 Identification particulars still pose a challenge as some of the community\
-    \ members had no IDs because they had been destroyed in the floods, or they had\
-    \ not been issued with one."
+  - "\u2022 There were connectivity challenges in some of the areas due to the destruction of communication infrastructure by the cyclone."
+  - "\u2022 Identification particulars still pose a challenge as some of the community members had no IDs because they had been destroyed in the floods, or they had not been issued with one."
 - title:
     text: 'Challenges '
     text_base: challenges
@@ -246,10 +232,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 617
-    text: "\u2022 The health needs for the affected populations were very high leading\
-      \ to high demand against supply. The "
-    text_base: the health needs for the affected populations were very high leading
-      to high demand against supply the
+    text: "\u2022 The health needs for the affected populations were very high leading to high demand against supply. The "
+    text_base: the health needs for the affected populations were very high leading to high demand against supply the
     style: 'symbolmt, 20, #000000, #f4f4f4'
     size: 9.85989761352539
     page_number: 8
@@ -267,10 +251,8 @@
     bbox_x2: 564.7161254882812
     double_fontsize_int: 20
   - index: 619
-    text: 'deficit created made distribution processes very difficult as several deserving
-      households were left out. '
-    text_base: deficit created made distribution processes very difficult as several
-      deserving households were left out
+    text: 'deficit created made distribution processes very difficult as several deserving households were left out. '
+    text_base: deficit created made distribution processes very difficult as several deserving households were left out
     style: 'open sans, 20, #000000, #f4f4f4'
     size: 9.960000038146973
     page_number: 8
@@ -288,6 +270,4 @@
     bbox_x2: 540.6472778320312
     double_fontsize_int: 20
   items:
-  - "\u2022 The health needs for the affected populations were very high leading to\
-    \ high demand against supply. The deficit created made distribution processes\
-    \ very difficult as several deserving households were left out."
+  - "\u2022 The health needs for the affected populations were very high leading to high demand against supply. The deficit created made distribution processes very difficult as several deserving households were left out."

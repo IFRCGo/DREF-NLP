@@ -16,10 +16,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 504
-    text: 'Assessments were done at the onset of the flooding to determine the needs
-      of the affected communities. These '
-    text_base: assessments were done at the onset of the flooding to determine the
-      needs of the affected communities these
+    text: 'Assessments were done at the onset of the flooding to determine the needs of the affected communities. These '
+    text_base: assessments were done at the onset of the flooding to determine the needs of the affected communities these
     style: 'arialmt, 20, #000000, #f1f1f1'
     size: 9.960000038146973
     page_number: 6
@@ -31,10 +29,8 @@
     bbox: (36.2400016784668, 497.25299072265625, 537.9671020507812, 510.9380187988281)
     double_fontsize_int: 20
   - index: 505
-    text: 'were then fed into the plans and revision of the emergency operation done
-      according to these findings to include '
-    text_base: were then fed into the plans and revision of the emergency operation
-      done according to these findings to include
+    text: 'were then fed into the plans and revision of the emergency operation done according to these findings to include '
+    text_base: were then fed into the plans and revision of the emergency operation done according to these findings to include
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -59,10 +55,8 @@
     bbox: (36.2400016784668, 520.296630859375, 273.60675048828125, 533.981689453125)
     double_fontsize_int: 20
   - index: 507
-    text: 'It is suggested that to be able to act faster, CVM should have trained
-      and committed disaster response teams at '
-    text_base: it is suggested that to be able to act faster cvm should have trained
-      and committed disaster response teams at
+    text: 'It is suggested that to be able to act faster, CVM should have trained and committed disaster response teams at '
+    text_base: it is suggested that to be able to act faster cvm should have trained and committed disaster response teams at
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -74,10 +68,8 @@
     bbox: (36.2400016784668, 543.2130126953125, 537.9752197265625, 556.8980102539062)
     double_fontsize_int: 20
   - index: 508
-    text: 'each branch and disaster prone communities so that they could be eyes and
-      ears and information carriers during '
-    text_base: each branch and disaster prone communities so that they could be eyes
-      and ears and information carriers during
+    text: 'each branch and disaster prone communities so that they could be eyes and ears and information carriers during '
+    text_base: each branch and disaster prone communities so that they could be eyes and ears and information carriers during
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -102,10 +94,8 @@
     bbox: (36.2400016784668, 566.140869140625, 99.00792694091797, 579.825927734375)
     double_fontsize_int: 20
   - index: 510
-    text: 'Emergency fund should be in place at least at the national level to kick
-      start the responses immediately after the '
-    text_base: emergency fund should be in place at least at the national level to
-      kick start the responses immediately after the
+    text: 'Emergency fund should be in place at least at the national level to kick start the responses immediately after the '
+    text_base: emergency fund should be in place at least at the national level to kick start the responses immediately after the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -117,10 +107,8 @@
     bbox: (36.2400016784668, 589.052978515625, 538.4552612304688, 602.738037109375)
     double_fontsize_int: 20
   - index: 511
-    text: 'emergencies by releasing and transporting stocks from the warehouses to
-      affected areas; deploying disaster '
-    text_base: emergencies by releasing and transporting stocks from the warehouses
-      to affected areas deploying disaster
+    text: 'emergencies by releasing and transporting stocks from the warehouses to affected areas; deploying disaster '
+    text_base: emergencies by releasing and transporting stocks from the warehouses to affected areas deploying disaster
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -132,10 +120,8 @@
     bbox: (36.2400016784668, 600.572998046875, 538.5159301757812, 614.2579956054688)
     double_fontsize_int: 20
   - index: 512
-    text: 'response team members and/or volunteers to do the responses and assessments
-      and perhaps to replenish used '
-    text_base: response team members and or volunteers to do the responses and assessments
-      and perhaps to replenish used
+    text: 'response team members and/or volunteers to do the responses and assessments and perhaps to replenish used '
+    text_base: response team members and or volunteers to do the responses and assessments and perhaps to replenish used
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 6
@@ -160,18 +146,9 @@
     bbox: (36.2400016784668, 623.6129150390625, 172.9288787841797, 637.2979736328125)
     double_fontsize_int: 20
   items:
-  - Assessments were done at the onset of the flooding to determine the needs of the
-    affected communities. These were then fed into the plans and revision of the emergency
-    operation done according to these findings to include construction of shelter
-    for the vulnerable households.
-  - It is suggested that to be able to act faster, CVM should have trained and committed
-    disaster response teams at each branch and disaster prone communities so that
-    they could be eyes and ears and information carriers during emergencies.
-  - Emergency fund should be in place at least at the national level to kick start
-    the responses immediately after the emergencies by releasing and transporting
-    stocks from the warehouses to affected areas; deploying disaster response team
-    members and/or volunteers to do the responses and assessments and perhaps to replenish
-    used stocks for future emergencies.
+  - Assessments were done at the onset of the flooding to determine the needs of the affected communities. These were then fed into the plans and revision of the emergency operation done according to these findings to include construction of shelter for the vulnerable households.
+  - It is suggested that to be able to act faster, CVM should have trained and committed disaster response teams at each branch and disaster prone communities so that they could be eyes and ears and information carriers during emergencies.
+  - Emergency fund should be in place at least at the national level to kick start the responses immediately after the emergencies by releasing and transporting stocks from the warehouses to affected areas; deploying disaster response team members and/or volunteers to do the responses and assessments and perhaps to replenish used stocks for future emergencies.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -190,10 +167,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 675
-    text: 'In terms of timeliness in response, it is observed that CVM volunteers
-      are not regularly updated or refreshed '
-    text_base: in terms of timeliness in response it is observed that cvm volunteers
-      are not regularly updated or refreshed
+    text: 'In terms of timeliness in response, it is observed that CVM volunteers are not regularly updated or refreshed '
+    text_base: in terms of timeliness in response it is observed that cvm volunteers are not regularly updated or refreshed
     style: 'arialmt, 20, #000000, #ecebdf'
     size: 9.960000038146973
     page_number: 8
@@ -205,10 +180,8 @@
     bbox: (36.2400016784668, 538.77294921875, 532.7282104492188, 552.4580078125)
     double_fontsize_int: 20
   - index: 676
-    text: 'with skills and knowledge on cholera and health related skills. Therefore,
-      when emergencies occurred like this '
-    text_base: with skills and knowledge on cholera and health related skills therefore
-      when emergencies occurred like this
+    text: 'with skills and knowledge on cholera and health related skills. Therefore, when emergencies occurred like this '
+    text_base: with skills and knowledge on cholera and health related skills therefore when emergencies occurred like this
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -220,10 +193,8 @@
     bbox: (36.2400016784668, 550.29296875, 532.7252197265625, 563.97802734375)
     double_fontsize_int: 20
   - index: 677
-    text: 'scenario, it took few days and even weeks for CVM to recruit and train
-      new volunteers and refresh them before '
-    text_base: scenario it took few days and even weeks for cvm to recruit and train
-      new volunteers and refresh them before
+    text: 'scenario, it took few days and even weeks for CVM to recruit and train new volunteers and refresh them before '
+    text_base: scenario it took few days and even weeks for cvm to recruit and train new volunteers and refresh them before
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -235,10 +206,8 @@
     bbox: (36.24000549316406, 561.816650390625, 532.6914672851562, 575.501708984375)
     double_fontsize_int: 20
   - index: 678
-    text: 'they could perform their tasks. It is advised that CVM should develop and
-      manage a multiple task volunteer '
-    text_base: they could perform their tasks it is advised that cvm should develop
-      and manage a multiple task volunteer
+    text: 'they could perform their tasks. It is advised that CVM should develop and manage a multiple task volunteer '
+    text_base: they could perform their tasks it is advised that cvm should develop and manage a multiple task volunteer
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -250,10 +219,8 @@
     bbox: (36.24000549316406, 573.34033203125, 532.7960205078125, 587.025390625)
     double_fontsize_int: 20
   - index: 679
-    text: 'roster throughout the country with database and training packages to motivate
-      people to be able to be first '
-    text_base: roster throughout the country with database and training packages to
-      motivate people to be able to be first
+    text: 'roster throughout the country with database and training packages to motivate people to be able to be first '
+    text_base: roster throughout the country with database and training packages to motivate people to be able to be first
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -278,10 +245,8 @@
     bbox: (36.239990234375, 596.268310546875, 208.56790161132812, 609.953369140625)
     double_fontsize_int: 20
   - index: 681
-    text: 'In terms of visibility and relevance, hard copies of IEC materials for
-      cholera should be available in all branches '
-    text_base: in terms of visibility and relevance hard copies of iec materials for
-      cholera should be available in all branches
+    text: 'In terms of visibility and relevance, hard copies of IEC materials for cholera should be available in all branches '
+    text_base: in terms of visibility and relevance hard copies of iec materials for cholera should be available in all branches
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 8
@@ -306,17 +271,8 @@
     bbox: (36.239990234375, 630.6966552734375, 350.28875732421875, 644.3817138671875)
     double_fontsize_int: 20
   items:
-  - In terms of timeliness in response, it is observed that CVM volunteers are not
-    regularly updated or refreshed with skills and knowledge on cholera and health
-    related skills. Therefore, when emergencies occurred like this scenario, it took
-    few days and even weeks for CVM to recruit and train new volunteers and refresh
-    them before they could perform their tasks. It is advised that CVM should develop
-    and manage a multiple task volunteer roster throughout the country with database
-    and training packages to motivate people to be able to be first responder in emergencies
-    of any kind.
-  - In terms of visibility and relevance, hard copies of IEC materials for cholera
-    should be available in all branches and CVM Head Quarter so that all can access
-    and use as appropriate.
+  - In terms of timeliness in response, it is observed that CVM volunteers are not regularly updated or refreshed with skills and knowledge on cholera and health related skills. Therefore, when emergencies occurred like this scenario, it took few days and even weeks for CVM to recruit and train new volunteers and refresh them before they could perform their tasks. It is advised that CVM should develop and manage a multiple task volunteer roster throughout the country with database and training packages to motivate people to be able to be first responder in emergencies of any kind.
+  - In terms of visibility and relevance, hard copies of IEC materials for cholera should be available in all branches and CVM Head Quarter so that all can access and use as appropriate.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -335,10 +291,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 797
-    text: 'It is important to maximise indigenous knowledge from the local people
-      in terms of water source and location '
-    text_base: it is important to maximise indigenous knowledge from the local people
-      in terms of water source and location
+    text: 'It is important to maximise indigenous knowledge from the local people in terms of water source and location '
+    text_base: it is important to maximise indigenous knowledge from the local people in terms of water source and location
     style: 'arialmt, 20, #000000, #ecebdf'
     size: 9.960000038146973
     page_number: 10
@@ -350,10 +304,8 @@
     bbox: (36.2400016784668, 421.29296875, 533.0027465820312, 434.9779968261719)
     double_fontsize_int: 20
   - index: 798
-    text: 'for borehole construction as it has long term effect on the population
-      and they have to live with that for years. In '
-    text_base: for borehole construction as it has long term effect on the population
-      and they have to live with that for years in
+    text: 'for borehole construction as it has long term effect on the population and they have to live with that for years. In '
+    text_base: for borehole construction as it has long term effect on the population and they have to live with that for years in
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -365,10 +317,8 @@
     bbox: (36.2400016784668, 432.81298828125, 532.944580078125, 446.4980163574219)
     double_fontsize_int: 20
   - index: 799
-    text: 'addition, water management committees were set up and functional in two
-      communities in Mopeia is '
-    text_base: addition water management committees were set up and functional in
-      two communities in mopeia is
+    text: 'addition, water management committees were set up and functional in two communities in Mopeia is '
+    text_base: addition water management committees were set up and functional in two communities in mopeia is
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 10
@@ -393,11 +343,7 @@
     bbox: (36.239990234375, 455.74090576171875, 235.8085174560547, 469.4259338378906)
     double_fontsize_int: 20
   items:
-  - It is important to maximise indigenous knowledge from the local people in terms
-    of water source and location for borehole construction as it has long term effect
-    on the population and they have to live with that for years. In addition, water
-    management committees were set up and functional in two communities in Mopeia
-    is considered a great success of the operation.
+  - It is important to maximise indigenous knowledge from the local people in terms of water source and location for borehole construction as it has long term effect on the population and they have to live with that for years. In addition, water management committees were set up and functional in two communities in Mopeia is considered a great success of the operation.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -416,10 +362,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1077
-    text: 'The top-down approach in the design of the shelter should have been more
-      flexible to allow adaptation of design '
-    text_base: the top down approach in the design of the shelter should have been
-      more flexible to allow adaptation of design
+    text: 'The top-down approach in the design of the shelter should have been more flexible to allow adaptation of design '
+    text_base: the top down approach in the design of the shelter should have been more flexible to allow adaptation of design
     style: 'arialmt, 20, #000000, #ecebdf'
     size: 9.960000038146973
     page_number: 13
@@ -431,10 +375,8 @@
     bbox: (36.2400016784668, 646.8929443359375, 538.354736328125, 660.5780029296875)
     double_fontsize_int: 20
   - index: 1078
-    text: 'and materials to suit the local conditions and economic situation of the
-      beneficiaries. PASSA principles should '
-    text_base: and materials to suit the local conditions and economic situation of
-      the beneficiaries passa principles should
+    text: 'and materials to suit the local conditions and economic situation of the beneficiaries. PASSA principles should '
+    text_base: and materials to suit the local conditions and economic situation of the beneficiaries passa principles should
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -459,10 +401,8 @@
     bbox: (36.24000549316406, 669.9366455078125, 299.7716369628906, 683.6217041015625)
     double_fontsize_int: 20
   - index: 1080
-    text: 'Involvement of local authorities to have their participation, ownership
-      and support is crucial and should be done '
-    text_base: involvement of local authorities to have their participation ownership
-      and support is crucial and should be done
+    text: 'Involvement of local authorities to have their participation, ownership and support is crucial and should be done '
+    text_base: involvement of local authorities to have their participation ownership and support is crucial and should be done
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -487,10 +427,8 @@
     bbox: (36.2400016784668, 704.376708984375, 196.20755004882812, 718.0617065429688)
     double_fontsize_int: 20
   - index: 1082
-    text: 'Further analysis of beneficiaries should be done so as not to leave out
-      the most vulnerable. Further support '
-    text_base: further analysis of beneficiaries should be done so as not to leave
-      out the most vulnerable further support
+    text: 'Further analysis of beneficiaries should be done so as not to leave out the most vulnerable. Further support '
+    text_base: further analysis of beneficiaries should be done so as not to leave out the most vulnerable further support
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -502,10 +440,8 @@
     bbox: (36.2400016784668, 727.29296875, 538.5270385742188, 740.97802734375)
     double_fontsize_int: 20
   - index: 1083
-    text: 'should be given to 230 households to have their houses completed by the
-      operation so that the completion of the '
-    text_base: should be given to 230 households to have their houses completed by
-      the operation so that the completion of the
+    text: 'should be given to 230 households to have their houses completed by the operation so that the completion of the '
+    text_base: should be given to 230 households to have their houses completed by the operation so that the completion of the
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -530,10 +466,8 @@
     bbox: (36.2400016784668, 750.336669921875, 344.2928771972656, 764.021728515625)
     double_fontsize_int: 20
   - index: 1085
-    text: 'In future shelter construction operation, there should be a shelter expert
-      supporting implementation so as to '
-    text_base: in future shelter construction operation there should be a shelter
-      expert supporting implementation so as to
+    text: 'In future shelter construction operation, there should be a shelter expert supporting implementation so as to '
+    text_base: in future shelter construction operation there should be a shelter expert supporting implementation so as to
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 13
@@ -558,19 +492,10 @@
     bbox: (36.2400016784668, 784.77294921875, 358.68890380859375, 798.4580078125)
     double_fontsize_int: 20
   items:
-  - The top-down approach in the design of the shelter should have been more flexible
-    to allow adaptation of design and materials to suit the local conditions and economic
-    situation of the beneficiaries. PASSA principles should have been applied to ensure
-    a more sustainable approach.
-  - Involvement of local authorities to have their participation, ownership and support
-    is crucial and should be done in the initial stages of the operation.
-  - Further analysis of beneficiaries should be done so as not to leave out the most
-    vulnerable. Further support should be given to 230 households to have their houses
-    completed by the operation so that the completion of the structure should not
-    be a burden to an already vulnerable household.
-  - In future shelter construction operation, there should be a shelter expert supporting
-    implementation so as to ensure the construction of a sound structure and avoid
-    potential defects.
+  - The top-down approach in the design of the shelter should have been more flexible to allow adaptation of design and materials to suit the local conditions and economic situation of the beneficiaries. PASSA principles should have been applied to ensure a more sustainable approach.
+  - Involvement of local authorities to have their participation, ownership and support is crucial and should be done in the initial stages of the operation.
+  - Further analysis of beneficiaries should be done so as not to leave out the most vulnerable. Further support should be given to 230 households to have their houses completed by the operation so that the completion of the structure should not be a burden to an already vulnerable household.
+  - In future shelter construction operation, there should be a shelter expert supporting implementation so as to ensure the construction of a sound structure and avoid potential defects.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -589,10 +514,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 1117
-    text: 'It is suggested that to be able to act faster, CVM should develop and own
-      skilful and committed disaster '
-    text_base: it is suggested that to be able to act faster cvm should develop and
-      own skilful and committed disaster
+    text: 'It is suggested that to be able to act faster, CVM should develop and own skilful and committed disaster '
+    text_base: it is suggested that to be able to act faster cvm should develop and own skilful and committed disaster
     style: 'arialmt, 20, #000000, #ecebdf'
     size: 9.960000038146973
     page_number: 14
@@ -604,10 +527,8 @@
     bbox: (36.2400016784668, 379.1729736328125, 532.537109375, 392.8580017089844)
     double_fontsize_int: 20
   - index: 1118
-    text: 'response teams at each branch and disaster prone communities so that they
-      could be eyes and ears and '
-    text_base: response teams at each branch and disaster prone communities so that
-      they could be eyes and ears and
+    text: 'response teams at each branch and disaster prone communities so that they could be eyes and ears and '
+    text_base: response teams at each branch and disaster prone communities so that they could be eyes and ears and
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -619,10 +540,8 @@
     bbox: (36.2400016784668, 390.6929626464844, 532.51416015625, 404.37799072265625)
     double_fontsize_int: 20
   - index: 1119
-    text: 'information carriers during emergencies. Response equipment and visibility
-      should be in place at least at all '
-    text_base: information carriers during emergencies response equipment and visibility
-      should be in place at least at all
+    text: 'information carriers during emergencies. Response equipment and visibility should be in place at least at all '
+    text_base: information carriers during emergencies response equipment and visibility should be in place at least at all
     style: 'arialmt, 20, #000000, nan'
     size: 9.960000038146973
     page_number: 14
@@ -647,11 +566,7 @@
     bbox: (36.2400016784668, 413.6208801269531, 272.5310363769531, 427.305908203125)
     double_fontsize_int: 20
   items:
-  - It is suggested that to be able to act faster, CVM should develop and own skilful
-    and committed disaster response teams at each branch and disaster prone communities
-    so that they could be eyes and ears and information carriers during emergencies.
-    Response equipment and visibility should be in place at least at all provincial
-    branches and disaster prone communities.
+  - It is suggested that to be able to act faster, CVM should develop and own skilful and committed disaster response teams at each branch and disaster prone communities so that they could be eyes and ears and information carriers during emergencies. Response equipment and visibility should be in place at least at all provincial branches and disaster prone communities.
 - title:
     text: 'Lessons learned '
     text_base: lessons learned
@@ -683,4 +598,4 @@
     bbox: (36.2400016784668, 519.572998046875, 365.8888854980469, 533.2579956054688)
     double_fontsize_int: 20
   items:
-  - 'Same as mentioned under Outcome 5: National Society Capacity Building '
+  - 'Same as mentioned under Outcome 5: National Society Capacity Building'

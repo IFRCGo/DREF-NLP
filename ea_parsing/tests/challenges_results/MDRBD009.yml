@@ -29,10 +29,8 @@
     bbox: (72.53997802734375, 323.5859069824219, 77.14878845214844, 335.86138916015625)
     double_fontsize_int: 20
   - index: 400
-    text: "Beneficiary selection in the hilly areas of Cox\u2019s Bazar district was\
-      \ a challenge as many places "
-    text_base: beneficiary selection in the hilly areas of cox s bazar district was
-      a challenge as many places
+    text: "Beneficiary selection in the hilly areas of Cox\u2019s Bazar district was a challenge as many places "
+    text_base: beneficiary selection in the hilly areas of cox s bazar district was a challenge as many places
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -44,10 +42,8 @@
     bbox: (90.0018310546875, 322.8882141113281, 508.1311950683594, 336.65570068359375)
     double_fontsize_int: 20
   - index: 401
-    text: 'were difficult to access. Due to these difficulties Red Crescent volunteers
-      took more time for '
-    text_base: were difficult to access due to these difficulties red crescent volunteers
-      took more time for
+    text: 'were difficult to access. Due to these difficulties Red Crescent volunteers took more time for '
+    text_base: were difficult to access due to these difficulties red crescent volunteers took more time for
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -85,10 +81,8 @@
     bbox: (72.54100036621094, 358.8061828613281, 77.14981079101562, 371.0816650390625)
     double_fontsize_int: 20
   - index: 404
-    text: 'Due to  Ramadan, Eid and the associated price hikes, the availability of
-      food items was '
-    text_base: due to ramadan eid and the associated price hikes the availability
-      of food items was
+    text: 'Due to  Ramadan, Eid and the associated price hikes, the availability of food items was '
+    text_base: due to ramadan eid and the associated price hikes the availability of food items was
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -100,10 +94,8 @@
     bbox: (90.00285339355469, 358.1084899902344, 508.1673278808594, 371.8759765625)
     double_fontsize_int: 20
   - index: 405
-    text: 'limited in the local market; hence the local unit faced challenges to procure
-      materials in time. '
-    text_base: limited in the local market hence the local unit faced challenges to
-      procure materials in time
+    text: 'limited in the local market; hence the local unit faced challenges to procure materials in time. '
+    text_base: limited in the local market hence the local unit faced challenges to procure materials in time
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -154,10 +146,8 @@
     bbox: (72.5404052734375, 394.6264953613281, 77.14921569824219, 406.9019775390625)
     double_fontsize_int: 20
   - index: 409
-    text: 'Distribution points were distant and the road systems were in poor repair,
-      creating difficulty to '
-    text_base: distribution points were distant and the road systems were in poor
-      repair creating difficulty to
+    text: 'Distribution points were distant and the road systems were in poor repair, creating difficulty to '
+    text_base: distribution points were distant and the road systems were in poor repair creating difficulty to
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 5
@@ -182,15 +172,10 @@
     bbox: (90.54034423828125, 405.44879150390625, 235.040771484375, 419.2162780761719)
     double_fontsize_int: 20
   items:
-  - "Beneficiary selection in the hilly areas of Cox\u2019s Bazar district was a challenge\
-    \ as many places were difficult to access. Due to these difficulties Red Crescent\
-    \ volunteers took more time for beneficiary selection."
-  - Due to  Ramadan, Eid and the associated price hikes, the availability of food
-    items was limited in the local market; hence the local unit faced challenges to
-    procure materials in time.
+  - "Beneficiary selection in the hilly areas of Cox\u2019s Bazar district was a challenge as many places were difficult to access. Due to these difficulties Red Crescent volunteers took more time for beneficiary selection."
+  - Due to Ramadan, Eid and the associated price hikes, the availability of food items was limited in the local market; hence the local unit faced challenges to procure materials in time.
   - Continuous rain impeded the cooked food distribution programme.
-  - Distribution points were distant and the road systems were in poor repair, creating
-    difficulty to reach some of the beneficiaries.
+  - Distribution points were distant and the road systems were in poor repair, creating difficulty to reach some of the beneficiaries.
 - title:
     text: 'Challenges:  '
     text_base: challenges
@@ -209,10 +194,8 @@
   sector_similarity_score: 1.0
   content:
   - index: 519
-    text: "In the second phase of the emergency shelter (tarpaulin) distribution in\
-      \ Cox\u2019s Bazar district, "
-    text_base: in the second phase of the emergency shelter tarpaulin distribution
-      in cox s bazar district
+    text: "In the second phase of the emergency shelter (tarpaulin) distribution in Cox\u2019s Bazar district, "
+    text_base: in the second phase of the emergency shelter tarpaulin distribution in cox s bazar district
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 6
@@ -224,10 +207,8 @@
     bbox: (54.0, 441.68804931640625, 508.01214599609375, 455.4555358886719)
     double_fontsize_int: 20
   - index: 520
-    text: 'volunteers made several visits to the affected communities to avoid duplication/overlapping
-      in '
-    text_base: volunteers made several visits to the affected communities to avoid
-      duplication overlapping in
+    text: 'volunteers made several visits to the affected communities to avoid duplication/overlapping in '
+    text_base: volunteers made several visits to the affected communities to avoid duplication overlapping in
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 6
@@ -239,10 +220,8 @@
     bbox: (54.00001525878906, 453.2080383300781, 508.0827331542969, 466.97552490234375)
     double_fontsize_int: 20
   - index: 521
-    text: 'beneficiary selection. With the help of community people and leaders, volunteers
-      were able to trace '
-    text_base: beneficiary selection with the help of community people and leaders
-      volunteers were able to trace
+    text: 'beneficiary selection. With the help of community people and leaders, volunteers were able to trace '
+    text_base: beneficiary selection with the help of community people and leaders volunteers were able to trace
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 6
@@ -267,11 +246,7 @@
     bbox: (54.0, 476.1878967285156, 361.47149658203125, 489.95538330078125)
     double_fontsize_int: 20
   items:
-  - "In the second phase of the emergency shelter (tarpaulin) distribution in Cox\u2019\
-    s Bazar district, volunteers made several visits to the affected communities to\
-    \ avoid duplication/overlapping in beneficiary selection. With the help of community\
-    \ people and leaders, volunteers were able to trace the beneficiaries previously\
-    \ supported with food and non-food items."
+  - "In the second phase of the emergency shelter (tarpaulin) distribution in Cox\u2019s Bazar district, volunteers made several visits to the affected communities to avoid duplication/overlapping in beneficiary selection. With the help of community people and leaders, volunteers were able to trace the beneficiaries previously supported with food and non-food items."
 - title:
     text: 'Challenges:  '
     text_base: challenges
@@ -303,10 +278,8 @@
     bbox: (71.99992370605469, 256.0860900878906, 76.60873413085938, 268.361572265625)
     double_fontsize_int: 20
   - index: 782
-    text: 'Due to crowded settlements and waterlogged surroundings, proper hygiene
-      practice was '
-    text_base: due to crowded settlements and waterlogged surroundings proper hygiene
-      practice was
+    text: 'Due to crowded settlements and waterlogged surroundings, proper hygiene practice was '
+    text_base: due to crowded settlements and waterlogged surroundings proper hygiene practice was
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 9
@@ -344,10 +317,8 @@
     bbox: (71.99992370605469, 279.7262878417969, 76.60873413085938, 292.00177001953125)
     double_fontsize_int: 20
   - index: 785
-    text: 'Women encountered major challenges in using latrines on the side of roads
-      due to lack of '
-    text_base: women encountered major challenges in using latrines on the side of
-      roads due to lack of
+    text: 'Women encountered major challenges in using latrines on the side of roads due to lack of '
+    text_base: women encountered major challenges in using latrines on the side of roads due to lack of
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 9
@@ -385,10 +356,8 @@
     bbox: (71.99992370605469, 303.4266052246094, 76.60873413085938, 315.70208740234375)
     double_fontsize_int: 20
   - index: 788
-    text: 'Storage of water at household level was another challenge due to lack of
-      pots and utensils. '
-    text_base: storage of water at household level was another challenge due to lack
-      of pots and utensils
+    text: 'Storage of water at household level was another challenge due to lack of pots and utensils. '
+    text_base: storage of water at household level was another challenge due to lack of pots and utensils
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 9
@@ -400,12 +369,9 @@
     bbox: (90.00186157226562, 302.7289123535156, 495.30157470703125, 316.49639892578125)
     double_fontsize_int: 20
   items:
-  - Due to crowded settlements and waterlogged surroundings, proper hygiene practice
-    was difficult to maintain, particularly for women.
-  - Women encountered major challenges in using latrines on the side of roads due
-    to lack of access and privacy to sanitary conditions.
-  - Storage of water at household level was another challenge due to lack of pots
-    and utensils.
+  - Due to crowded settlements and waterlogged surroundings, proper hygiene practice was difficult to maintain, particularly for women.
+  - Women encountered major challenges in using latrines on the side of roads due to lack of access and privacy to sanitary conditions.
+  - Storage of water at household level was another challenge due to lack of pots and utensils.
 - title:
     text: 'Challenges:  '
     text_base: challenges
@@ -463,10 +429,8 @@
     bbox: (72.41969299316406, 198.96615600585938, 77.02850341796875, 211.24163818359375)
     double_fontsize_int: 20
   - index: 849
-    text: 'Due to waterlogged condition, the rate of waterborne and skin disease were
-      higher in the '
-    text_base: due to waterlogged condition the rate of waterborne and skin disease
-      were higher in the
+    text: 'Due to waterlogged condition, the rate of waterborne and skin disease were higher in the '
+    text_base: due to waterlogged condition the rate of waterborne and skin disease were higher in the
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 10
@@ -504,10 +468,8 @@
     bbox: (72.42070007324219, 222.66647338867188, 77.02951049804688, 234.94195556640625)
     double_fontsize_int: 20
   - index: 852
-    text: 'The MCH centre in Satkhira was almost non-functional due to flood situation.
-      On a letter '
-    text_base: the mch centre in satkhira was almost non functional due to flood situation
-      on a letter
+    text: 'The MCH centre in Satkhira was almost non-functional due to flood situation. On a letter '
+    text_base: the mch centre in satkhira was almost non functional due to flood situation on a letter
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 10
@@ -519,10 +481,8 @@
     bbox: (90.00279235839844, 221.9687957763672, 508.08673095703125, 235.7362823486328)
     double_fontsize_int: 20
   - index: 853
-    text: 'stage the MCH centre was shifted in a near by building owned by the MCH
-      centre committe '
-    text_base: stage the mch centre was shifted in a near by building owned by the
-      mch centre committe
+    text: 'stage the MCH centre was shifted in a near by building owned by the MCH centre committe '
+    text_base: stage the mch centre was shifted in a near by building owned by the mch centre committe
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 10
@@ -534,10 +494,8 @@
     bbox: (90.24127197265625, 233.4888153076172, 508.0897521972656, 247.2563018798828)
     double_fontsize_int: 20
   - index: 854
-    text: 'member and the mobile medicale team was deployed in this place to support
-      the community. '
-    text_base: member and the mobile medicale team was deployed in this place to support
-      the community
+    text: 'member and the mobile medicale team was deployed in this place to support the community. '
+    text_base: member and the mobile medicale team was deployed in this place to support the community
     style: 'arialmt, 20, #000000, nan'
     size: 10.020000457763672
     page_number: 10
@@ -550,9 +508,5 @@
     double_fontsize_int: 20
   items:
   - Reaching remote locations is difficult due to disrupted road communication.
-  - Due to waterlogged condition, the rate of waterborne and skin disease were higher
-    in the initial stage.
-  - The MCH centre in Satkhira was almost non-functional due to flood situation. On
-    a letter stage the MCH centre was shifted in a near by building owned by the MCH
-    centre committe member and the mobile medicale team was deployed in this place
-    to support the community.
+  - Due to waterlogged condition, the rate of waterborne and skin disease were higher in the initial stage.
+  - The MCH centre in Satkhira was almost non-functional due to flood situation. On a letter stage the MCH centre was shifted in a near by building owned by the MCH centre committe member and the mobile medicale team was deployed in this place to support the community.
