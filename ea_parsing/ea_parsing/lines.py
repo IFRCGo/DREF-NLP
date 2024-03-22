@@ -4,7 +4,7 @@ import re
 from functools import cached_property
 import pandas as pd
 import ea_parsing.definitions
-from ea_parsing.utils import is_text_title, strip_non_alphanumeric, tidy_sentence, is_bulleted, is_bullet, remove_bullet, remove_filler_words
+from ea_parsing import utils
 
 
 class Line(pd.Series):
@@ -78,7 +78,7 @@ class Line(pd.Series):
         Consider sentence start if the first letter is uppercase.
         Account for letters as bullet items, e.g. a), b., etc.
         """
-        text = remove_bullet(self.copy()['text'])
+        text = utils.remove_bullet(self.copy()['text'])
         alphanumeric = re.sub(r'[^A-Za-z0-9 ]+', ' ', text).strip()
         if alphanumeric:
             first_char = alphanumeric[0]
@@ -141,7 +141,7 @@ class Lines(pd.DataFrame):
         # Don't merge rows which have text in exclude_texts (ignoring case etc)
         lines['ignore'] = False
         if exclude_texts is not None:
-            exclude_texts = [remove_filler_words(strip_non_alphanumeric(item)) for item in exclude_texts]
+            exclude_texts = [utils.remove_filler_words(utils.strip_non_alphanumeric(item)) for item in exclude_texts]
             lines['text_base'] = lines['text']\
                 .str.replace(r'[^A-Za-z0-9 ]+', ' ', regex=True)\
                 .str.replace(' +', ' ', regex=True)\
@@ -151,7 +151,7 @@ class Lines(pd.DataFrame):
                 lines['text_base']
                 .str.replace(r'[^A-Za-z ]+', ' ', regex=True)
                 .str.strip()
-                .apply(remove_filler_words)
+                .apply(utils.remove_filler_words)
                 .isin(exclude_texts)
             ].index
             lines.loc[exclude_indexes, 'ignore'] = True
@@ -325,7 +325,7 @@ class Lines(pd.DataFrame):
         titles = self.dropna(subset=['text'])\
                      .loc[
                          (self['span_number'] == 0) &
-                         (self['text'].apply(is_text_title))
+                         (self['text'].apply(utils.is_text_title))
                      ]
 
         return titles
@@ -392,7 +392,7 @@ class Lines(pd.DataFrame):
 
             # Remove bullet points from the text
             lines = lines.loc[~(
-                lines['text'].str.strip().apply(is_bullet) &
+                lines['text'].str.strip().apply(utils.is_bullet) &
                 (lines['span_number'] == 0)
             )]
 
@@ -459,7 +459,7 @@ class Lines(pd.DataFrame):
             lines = lines.dropna(subset=['text'])
 
             # Remove bullets for cases where all items are bullets
-            lines['text'] = lines['text'].astype(str).apply(remove_bullet)
+            lines['text'] = lines['text'].astype(str).apply(utils.remove_bullet)
             if not lines['bullet_start'].all():
                 lines.loc[lines['bullet_start'], 'text'] = '• ' + lines['text']
 
@@ -468,7 +468,7 @@ class Lines(pd.DataFrame):
 
         # Tidy sentences, and remove items with no characters
         items = [
-            tidy_sentence(txt)
+            utils.tidy_sentence(txt)
             for txt in items
             if re.search('[a-zA-Z]', txt)
         ]
@@ -485,13 +485,13 @@ class Lines(pd.DataFrame):
 
         # The row is a bullet start if it meets a bullet format (i.e. bullet point character, "a)", "a.", etc.)
         lines.loc[
-            lines['text'].str.strip().apply(is_bulleted) &
+            lines['text'].str.strip().apply(utils.is_bulleted) &
             (lines['span_number'] == 0),
             'bullet_start'
         ] = True
 
         # The row is a bullet start if the previous row is a bullet, and is on the same level
-        lines['bullet'] = lines['text'].str.strip().apply(is_bullet)
+        lines['bullet'] = lines['text'].str.strip().apply(utils.is_bullet)
         lines.loc[
             (lines['total_y'] == lines['total_y'].shift(1).fillna(-1)) &
             lines['bullet'].shift(1).fillna(False),
