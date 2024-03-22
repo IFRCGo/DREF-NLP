@@ -426,7 +426,11 @@ class AppealDocument:
         # Don't remove lessons learned or challenges titles
         section_title_texts = ChallengesLessonsLearnedExtractor().title_texts()
         repeating_texts = repeating_texts.loc[~(
-            repeating_texts['text_base'].isin(section_title_texts)
+            repeating_texts['text_base']
+            .str.replace(r'[^A-Za-z ]+', ' ', regex=True)
+            .str.strip()
+            .apply(utils.remove_filler_words)
+            .isin(section_title_texts)
         )]
 
         return repeating_texts
@@ -452,7 +456,11 @@ class AppealDocument:
         # Don't remove lessons learned or challenges titles
         section_title_texts = ChallengesLessonsLearnedExtractor().title_texts()
         repeating_texts = repeating_texts.loc[~(
-            repeating_texts['text_base'].isin(section_title_texts)
+            repeating_texts['text_base']
+            .str.replace(r'[^A-Za-z ]+', ' ', regex=True)
+            .str.strip()
+            .apply(utils.remove_filler_words)
+            .isin(section_title_texts)
         )]
 
         # Don't remove bullets

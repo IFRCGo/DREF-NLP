@@ -88,9 +88,11 @@ def strip_non_alphanumeric(text):
     return text.strip()
 
 
-def strip_filler_words(text):
-    filler_words = ['and', 'the', 'to', 'for', 'in', 'a', 'in']
-    text_without_fillers = replace_phrases_in_sentence(filler_words, '', text).strip()
+def remove_filler_words(text):
+    if text != text:
+        return
+    filler_words = ['and', 'the', 'to', 'for', 'in', 'a', 'in', 'or', 'key']
+    text_without_fillers = replace_phrases_in_sentence(filler_words, '', str(text)).strip()
     return text_without_fillers
 
 

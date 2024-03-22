@@ -4,7 +4,7 @@ from functools import cached_property
 import numpy as np
 import pandas as pd
 import ea_parsing.definitions
-from ea_parsing.utils import generate_sentence_variations
+from ea_parsing.utils import generate_sentence_variations, remove_filler_words
 
 
 class ChallengesLessonsLearnedExtractor:
@@ -37,6 +37,13 @@ class ChallengesLessonsLearnedExtractor:
                     abbreviations=section_titles_details['abbreviations']
                 )
 
+        # Remove filler words from titles
+        for section_type in title_texts:
+            title_texts[section_type] = list(set([
+                remove_filler_words(x)
+                for x in title_texts[section_type]
+            ]))
+
         return title_texts
 
     def title_texts(self, section_type=None):
@@ -60,6 +67,7 @@ class ChallengesLessonsLearnedExtractor:
             self.document.titles['text_base']
                 .str.replace(r'[^A-Za-z ]+', ' ', regex=True)
                 .str.strip()
+                .apply(remove_filler_words)
                 .isin(self.title_texts(self.section_type))
         ]
         return section_titles
@@ -387,6 +395,7 @@ class ChallengesLessonsLearnedExtractor:
             self.document.titles['text_base']
                 .str.replace(r'[^A-Za-z ]+', ' ', regex=True)
                 .str.strip()
+                .apply(remove_filler_words)
                 .isin(self.title_texts())
         ]
         lessons_learned_challenges_titles_after_section = lessons_learned_challenges_titles.drop(title.name).loc[

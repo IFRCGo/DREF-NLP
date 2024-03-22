@@ -4,7 +4,7 @@ import re
 from functools import cached_property
 import pandas as pd
 import ea_parsing.definitions
-from ea_parsing.utils import is_text_title, strip_non_alphanumeric, tidy_sentence, is_bulleted, is_bullet, remove_bullet
+from ea_parsing.utils import is_text_title, strip_non_alphanumeric, tidy_sentence, is_bulleted, is_bullet, remove_bullet, remove_filler_words
 
 
 class Line(pd.Series):
@@ -141,7 +141,7 @@ class Lines(pd.DataFrame):
         # Don't merge rows which have text in exclude_texts (ignoring case etc)
         lines['ignore'] = False
         if exclude_texts is not None:
-            exclude_texts = [strip_non_alphanumeric(item) for item in exclude_texts]
+            exclude_texts = [remove_filler_words(strip_non_alphanumeric(item)) for item in exclude_texts]
             lines['text_base'] = lines['text']\
                 .str.replace(r'[^A-Za-z0-9 ]+', ' ', regex=True)\
                 .str.replace(' +', ' ', regex=True)\
@@ -151,6 +151,7 @@ class Lines(pd.DataFrame):
                 lines['text_base']
                 .str.replace(r'[^A-Za-z ]+', ' ', regex=True)
                 .str.strip()
+                .apply(remove_filler_words)
                 .isin(exclude_texts)
             ].index
             lines.loc[exclude_indexes, 'ignore'] = True

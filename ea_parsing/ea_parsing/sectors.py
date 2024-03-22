@@ -1,5 +1,5 @@
 import ea_parsing.definitions
-from ea_parsing.utils import strip_non_alpha, strip_filler_words, generate_sentence_variations
+from ea_parsing.utils import strip_non_alpha, remove_filler_words, generate_sentence_variations
 
 
 class Sectors:
@@ -78,7 +78,7 @@ class Sectors:
         # Next, check if the title is any title plus filler words
         for sector_name, titles in self.sectors.items():
             for title in titles:
-                if strip_filler_words(text_base) == strip_filler_words(title):
+                if remove_filler_words(text_base) == remove_filler_words(title):
                     return sector_name, 1
 
         return None, 0
