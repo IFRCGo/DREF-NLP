@@ -34,6 +34,8 @@ async def run_parsing(
 
     # Renaming: In the program we call it 'lead', while IFRC calls it 'Appeal_code'
     lead = Appeal_code 
+
+    all_parsed = parse_PDF_combined(lead)
     
     try:
         all_parsed = parse_PDF_combined(lead)

@@ -4,6 +4,7 @@ import sys
 import io
 import glob
 import requests
+from ast import literal_eval
 
 import datetime
 import dateutil.parser 
@@ -296,6 +297,7 @@ def get_global_features(lead):
 def get_pdf_url(lead):
     initialize_aadf()
     initialize_apdo()
+    apdo['appeal'] = apdo['appeal'].apply(lambda x: literal_eval(x) if isinstance(x, str) else x)
     merged = aadf.merge(apdo, left_on=aadf['id'].astype(int), right_on=apdo.appeal.str['id'])
     
     # Lets return all merged df if we dont specify a lead

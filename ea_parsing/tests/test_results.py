@@ -123,5 +123,8 @@ class TestResults(unittest.TestCase):
                         validated_result['items'],
                         f"""
                         Section items do not match for MDR code: {mdr_code}, sector: {result['sector_title']}
+
+                        Results: {result['items']}
+                        Validated results: {validated_result['items']}
                         """
                     )
