@@ -103,10 +103,6 @@ class Appeal:
         for k, v in appeal_data.items():
             setattr(self, k, v)
 
-        # Check that appeal is an emergency appeal
-        if self.atype != 1:
-            raise RuntimeError(f'Appeal with MDR code {mdr_code} is a {self.atype_display}, not an Emergency Appeal')
-
     @cached_property
     def documents(self):
         """
