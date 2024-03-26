@@ -1,0 +1,323 @@
+- title:
+    text: Lessons learned
+    text_base: lessons learned
+    style: 'arial,bold, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 2241.9100341796875
+    origin_x: 54.60000228881836
+    bbox: (54.60000228881836, 547.412841796875, 133.41346740722656, 561.1278076171875)
+    idx: 203
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 204
+    text: 'Overall the response strategy for Sierra Leone was relevant and added value to the overall response to the '
+    text_base: overall the response strategy for sierra leone was relevant and added value to the overall response to the
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 1
+    span_number: 0
+    total_y: 2253.550048828125
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 560.6935424804688, 547.747802734375, 571.8207397460938)
+    double_fontsize_int: 20
+  - index: 205
+    text: 'cholera epidemic. Some actions could have taken place earlier, but the intervention did reduce the impact of '
+    text_base: cholera epidemic some actions could have taken place earlier but the intervention did reduce the impact of
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 2
+    span_number: 0
+    total_y: 2264.9500122070312
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 572.093505859375, 547.43896484375, 583.220703125)
+    double_fontsize_int: 20
+  - index: 206
+    text: 'the epidemic through the community hygiene sensitisation programme. This was done through the '
+    text_base: the epidemic through the community hygiene sensitisation programme this was done through the
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 3
+    span_number: 0
+    total_y: 2276.470031738281
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 583.613525390625, 547.5287475585938, 594.74072265625)
+    double_fontsize_int: 20
+  - index: 207
+    text: 'establishment of 380 Oral Rehydration Points (ORP), through the provision of adequate supplies of ORS and '
+    text_base: establishment of 380 oral rehydration points orp through the provision of adequate supplies of ors and
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 4
+    span_number: 0
+    total_y: 2287.989990234375
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 595.1334838867188, 547.3195190429688, 606.2606811523438)
+    double_fontsize_int: 20
+  - index: 208
+    text: 'Aqua-tabs, through WatSan interventions at the community and district levels and through case management '
+    text_base: aqua tabs through watsan interventions at the community and district levels and through case management
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 5
+    span_number: 0
+    total_y: 2299.510009765625
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 606.6535034179688, 547.8176879882812, 617.7807006835938)
+    double_fontsize_int: 20
+  - index: 209
+    text: 'and technical support for district hospitals. The excellent capacity of the Sierra Leone Red Cross Society '
+    text_base: and technical support for district hospitals the excellent capacity of the sierra leone red cross society
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 6
+    span_number: 0
+    total_y: 2311.030029296875
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 618.1735229492188, 547.2200927734375, 629.3007202148438)
+    double_fontsize_int: 20
+  - index: 210
+    text: '(SLRCS) and their close relationships with national and local health authorities has proved critical to the '
+    text_base: slrcs and their close relationships with national and local health authorities has proved critical to the
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 7
+    span_number: 0
+    total_y: 2322.580017089844
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 629.7235107421875, 547.2198486328125, 640.8507080078125)
+    double_fontsize_int: 20
+  - index: 211
+    text: 'success of the programme.  '
+    text_base: success of the programme
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 8
+    span_number: 0
+    total_y: 2333.9800415039062
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 641.12353515625, 180.74720764160156, 652.250732421875)
+    double_fontsize_int: 20
+  - index: 212
+    text: 'The establishment of ORPs and the large sensitisation programme were major factors in reducing the impact '
+    text_base: the establishment of orps and the large sensitisation programme were major factors in reducing the impact
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 10
+    span_number: 0
+    total_y: 2357.02001953125
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 664.1635131835938, 547.3893432617188, 675.2907104492188)
+    double_fontsize_int: 20
+  - index: 213
+    text: 'of the epidemic, especially in regard to reducing the case fatality rate (CFR) and reducing the impact on the '
+    text_base: of the epidemic especially in regard to reducing the case fatality rate cfr and reducing the impact on the
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 11
+    span_number: 0
+    total_y: 2368.5400390625
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 675.6835327148438, 547.3096313476562, 686.8107299804688)
+    double_fontsize_int: 20
+  - index: 214
+    text: 'government health structures which had reached maximum capacity during the height of the epidemic. '
+    text_base: government health structures which had reached maximum capacity during the height of the epidemic
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 12
+    span_number: 0
+    total_y: 2380.06005859375
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 687.2035522460938, 509.8699951171875, 698.3307495117188)
+    double_fontsize_int: 20
+  - index: 215
+    text: 'The impact of the operation has been documented in an IFRC cholera operational review, a Sierra Leone '
+    text_base: the impact of the operation has been documented in an ifrc cholera operational review a sierra leone
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 14
+    span_number: 0
+    total_y: 2402.9800415039062
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 710.12353515625, 547.62841796875, 721.250732421875)
+    double_fontsize_int: 20
+  - index: 216
+    text: 'government cholera operation lessons learned report, an IFRC ERU review (CBHFA analysis), and a KAP '
+    text_base: government cholera operation lessons learned report an ifrc eru review cbhfa analysis and a kap
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 15
+    span_number: 0
+    total_y: 2414.500061035156
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 721.6435546875, 547.8624267578125, 732.770751953125)
+    double_fontsize_int: 20
+  - index: 217
+    text: 'survey report. '
+    text_base: survey report
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 11
+    line_number: 16
+    span_number: 0
+    total_y: 2426.0160522460938
+    origin_x: 54.5999755859375
+    bbox: (54.5999755859375, 733.1595458984375, 118.47178649902344, 744.2867431640625)
+    double_fontsize_int: 20
+  - index: 219
+    text: 'The operation greatly contributed to the capacity of the national society through staff and volunteer training and '
+    text_base: the operation greatly contributed to the capacity of the national society through staff and volunteer training and
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 1
+    line_number: 0
+    span_number: 0
+    total_y: 2606.999938964844
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 72.22346496582031, 547.4193115234375, 83.35065460205078)
+    double_fontsize_int: 20
+  - index: 220
+    text: 'lessons learnt from the activities. Through the implementation of cholera response activities SLRCS gained '
+    text_base: lessons learnt from the activities through the implementation of cholera response activities slrcs gained
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 1
+    line_number: 1
+    span_number: 0
+    total_y: 2618.5399169921875
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 83.76344299316406, 547.8775024414062, 94.89063262939453)
+    double_fontsize_int: 20
+  - index: 221
+    text: 'valuable experience and more ability to respond effectively to similar disasters in the future. '
+    text_base: valuable experience and more ability to respond effectively to similar disasters in the future
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 1
+    line_number: 2
+    span_number: 0
+    total_y: 2630.059936523437
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 95.28346252441406, 460.996337890625, 106.41065216064453)
+    double_fontsize_int: 20
+  - index: 222
+    text: 'Throughout the operation the IFRC worked within the coordination framework established by cholera task force '
+    text_base: throughout the operation the ifrc worked within the coordination framework established by cholera task force
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 1
+    line_number: 4
+    span_number: 0
+    total_y: 2652.97998046875
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 118.20350646972656, 547.5982055664062, 129.3306884765625)
+    double_fontsize_int: 20
+  - index: 223
+    text: 'headed by the SL ministry of health. IFRC and SLRCS met regularly with other implementing agencies and '
+    text_base: headed by the sl ministry of health ifrc and slrcs met regularly with other implementing agencies and
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 1
+    line_number: 5
+    span_number: 0
+    total_y: 2664.5
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 129.72352600097656, 547.3992919921875, 140.8507080078125)
+    double_fontsize_int: 20
+  - index: 224
+    text: 'organizations to ensure effective coordination of activities.  '
+    text_base: organizations to ensure effective coordination of activities
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 1
+    line_number: 6
+    span_number: 0
+    total_y: 2676.02001953125
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 141.24354553222656, 316.49664306640625, 152.3707275390625)
+    double_fontsize_int: 20
+  - index: 225
+    text: 'In all activities an effort was made to ensure participation of all age groups, men and women, and gender ratio '
+    text_base: in all activities an effort was made to ensure participation of all age groups men and women and gender ratio
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 1
+    line_number: 8
+    span_number: 0
+    total_y: 2699.06005859375
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 164.28358459472656, 547.8973388671875, 175.4107666015625)
+    double_fontsize_int: 20
+  - index: 226
+    text: 'among beneficiaries is well documented in operational reports, showing a healthy gender balance in most '
+    text_base: among beneficiaries is well documented in operational reports showing a healthy gender balance in most
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 1
+    line_number: 9
+    span_number: 0
+    total_y: 2710.4600830078125
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 175.68360900878906, 547.8771362304688, 186.810791015625)
+    double_fontsize_int: 20
+  - index: 227
+    text: 'activities where it was possible. '
+    text_base: activities where it was possible
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 1
+    line_number: 10
+    span_number: 0
+    total_y: 2721.9801025390625
+    origin_x: 54.59999847412109
+    bbox: (54.599998474121094, 187.20362854003906, 196.34906005859375, 198.330810546875)
+    double_fontsize_int: 20
+  items:
+  - Overall the response strategy for Sierra Leone was relevant and added value to the overall response to the cholera epidemic. Some actions could have taken place earlier, but the intervention did reduce the impact of the epidemic through the community hygiene sensitisation programme. This was done through the establishment of 380 Oral Rehydration Points (ORP), through the provision of adequate supplies of ORS and Aqua-tabs, through WatSan interventions at the community and district levels and through case management and technical support for district hospitals. The excellent capacity of the Sierra Leone Red Cross Society (SLRCS) and their close relationships with national and local health authorities has proved critical to the success of the programme.
+  - The establishment of ORPs and the large sensitisation programme were major factors in reducing the impact of the epidemic, especially in regard to reducing the case fatality rate (CFR) and reducing the impact on the government health structures which had reached maximum capacity during the height of the epidemic.
+  - The impact of the operation has been documented in an IFRC cholera operational review, a Sierra Leone government cholera operation lessons learned report, an IFRC ERU review (CBHFA analysis), and a KAP survey report.
+  - The operation greatly contributed to the capacity of the national society through staff and volunteer training and lessons learnt from the activities. Through the implementation of cholera response activities SLRCS gained valuable experience and more ability to respond effectively to similar disasters in the future.
+  - Throughout the operation the IFRC worked within the coordination framework established by cholera task force headed by the SL ministry of health. IFRC and SLRCS met regularly with other implementing agencies and organizations to ensure effective coordination of activities.
+  - In all activities an effort was made to ensure participation of all age groups, men and women, and gender ratio among beneficiaries is well documented in operational reports, showing a healthy gender balance in most activities where it was possible.

@@ -1,0 +1,190 @@
+- title:
+    text: 'Lessons learned '
+    text_base: lessons learned
+    style: 'arial,bold, 22, #000000, nan'
+    size: 11.039999961853027
+    page_number: 12
+    block_number: 1
+    line_number: 12
+    span_number: 0
+    total_y: 10324.219787597656
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 209.3671875, 134.7291259765625, 224.56927490234375)
+    idx: 1054
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 1055
+    text: 'Based on the feedback from beneficiaries, community members who did not received PRC assistance, '
+    text_base: based on the feedback from beneficiaries community members who did not received prc assistance
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 13
+    span_number: 0
+    total_y: 10336.099792480469
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 222.35299682617188, 551.5088500976562, 236.0380401611328)
+    double_fontsize_int: 20
+  - index: 1056
+    text: 'community leaders and local authorities; the community-led beneficiary selection process used in livelihood '
+    text_base: community leaders and local authorities the community led beneficiary selection process used in livelihood
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 14
+    span_number: 0
+    total_y: 10347.619750976562
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 233.87295532226562, 551.1895751953125, 247.55799865722656)
+    double_fontsize_int: 20
+  - index: 1057
+    text: 'interventions was appreciated as fair and transparent. The selection process has since been adopted and is being '
+    text_base: interventions was appreciated as fair and transparent the selection process has since been adopted and is being
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 15
+    span_number: 0
+    total_y: 10359.169799804688
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 245.42300415039062, 550.9078369140625, 259.1080322265625)
+    double_fontsize_int: 20
+  - index: 1058
+    text: 'applied in other sectors, including shelter.  '
+    text_base: applied in other sectors including shelter
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 16
+    span_number: 0
+    total_y: 10370.569763183594
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 256.8229675292969, 234.53887939453125, 270.50799560546875)
+    double_fontsize_int: 20
+  - index: 1059
+    text: 'The operation re-affirmed that cash-based programming is the most suitable modality where the specific context '
+    text_base: the operation re affirmed that cash based programming is the most suitable modality where the specific context
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 18
+    span_number: 0
+    total_y: 10393.609802246094
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 279.8630065917969, 551.1182861328125, 293.54803466796875)
+    double_fontsize_int: 20
+  - index: 1060
+    text: 'permits. This was based on feedback from the people reached, most of whom felt empowered to be able to '
+    text_base: permits this was based on feedback from the people reached most of whom felt empowered to be able to
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 19
+    span_number: 0
+    total_y: 10405.129760742188
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 291.3829650878906, 550.8781127929688, 305.0679931640625)
+    double_fontsize_int: 20
+  - index: 1061
+    text: "choose their own solutions \u2013 albeit within some guidance. However, where cash programming is used, engaged "
+    text_base: choose their own solutions albeit within some guidance however where cash programming is used engaged
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 20
+    span_number: 0
+    total_y: 10416.649780273438
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 302.9029846191406, 551.309814453125, 316.5880126953125)
+    double_fontsize_int: 20
+  - index: 1062
+    text: 'remittance providers will need to have presence so that pay-outs are made closer to the beneficiaries.  '
+    text_base: remittance providers will need to have presence so that pay outs are made closer to the beneficiaries
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 21
+    span_number: 0
+    total_y: 10428.0498046875
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 314.3030090332031, 500.2688903808594, 327.988037109375)
+    double_fontsize_int: 20
+  - index: 1063
+    text: 'In view of the number of storms and severe conditions that were expected during the season, it was deemed '
+    text_base: in view of the number of storms and severe conditions that were expected during the season it was deemed
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 23
+    span_number: 0
+    total_y: 10451.089782714844
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 337.3429870605469, 550.9378662109375, 351.02801513671875)
+    double_fontsize_int: 20
+  - index: 1064
+    text: 'practical to launch one appeal to cover the entire period. However, in November 2013, Typhoon Haiyan struck '
+    text_base: practical to launch one appeal to cover the entire period however in november 2013 typhoon haiyan struck
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 24
+    span_number: 0
+    total_y: 10462.609771728516
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 348.86297607421875, 550.9420776367188, 362.5480041503906)
+    double_fontsize_int: 20
+  - index: 1065
+    text: "with a colossal humanitarian impact. This new typhoon demanded a dedicated and separate response \u2013 appeal \u2013 "
+    text_base: with a colossal humanitarian impact this new typhoon demanded a dedicated and separate response appeal
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 25
+    span_number: 0
+    total_y: 10474.129791259766
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 360.38299560546875, 551.5088500976562, 374.0680236816406)
+    double_fontsize_int: 20
+  - index: 1066
+    text: 'owing to the magnitude of needs, the scale of response envisioned, the geographical coverage and the financial '
+    text_base: owing to the magnitude of needs the scale of response envisioned the geographical coverage and the financial
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 26
+    span_number: 0
+    total_y: 10485.649780273438
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 371.9029846191406, 551.1625366210938, 385.5880126953125)
+    double_fontsize_int: 20
+  - index: 1067
+    text: 'resources needed.  '
+    text_base: resources needed
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 1
+    line_number: 27
+    span_number: 0
+    total_y: 10497.049774169922
+    origin_x: 44.880001068115234
+    bbox: (44.880001068115234, 383.302978515625, 133.2288818359375, 396.9880065917969)
+    double_fontsize_int: 20
+  items:
+  - Based on the feedback from beneficiaries, community members who did not received PRC assistance, community leaders and local authorities; the community-led beneficiary selection process used in livelihood interventions was appreciated as fair and transparent. The selection process has since been adopted and is being applied in other sectors, including shelter.
+  - "The operation re-affirmed that cash-based programming is the most suitable modality where the specific context permits. This was based on feedback from the people reached, most of whom felt empowered to be able to choose their own solutions \u2013 albeit within some guidance. However, where cash programming is used, engaged remittance providers will need to have presence so that pay-outs are made closer to the beneficiaries."
+  - "In view of the number of storms and severe conditions that were expected during the season, it was deemed practical to launch one appeal to cover the entire period. However, in November 2013, Typhoon Haiyan struck with a colossal humanitarian impact. This new typhoon demanded a dedicated and separate response \u2013 appeal \u2013 owing to the magnitude of needs, the scale of response envisioned, the geographical coverage and the financial resources needed."

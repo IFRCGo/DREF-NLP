@@ -1,0 +1,58 @@
+- title:
+    text: 'Lessons learned: '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 0
+    block_number: 17
+    line_number: 11
+    span_number: 0
+    total_y: 730.0780029296875
+    origin_x: 59.35992431640625
+    bbox: (59.35992431640625, 719.3566284179688, 144.8205108642578, 733.1541137695312)
+    idx: 49
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 50
+    text: 'To ensure timely emergency response and reduce logistics costs in the future, the RCC '
+    text_base: to ensure timely emergency response and reduce logistics costs in the future the rcc
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 0
+    block_number: 17
+    line_number: 11
+    span_number: 1
+    total_y: 730.0780029296875
+    origin_x: 145.1561737060547
+    bbox: (145.1561737060547, 719.3065185546875, 539.2750854492188, 733.073974609375)
+    double_fontsize_int: 20
+  - index: 51
+    text: 'should advocate for an emergency stock to be pre-positioned in the capital to be able to respond to '
+    text_base: should advocate for an emergency stock to be pre positioned in the capital to be able to respond to
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 0
+    block_number: 17
+    line_number: 12
+    span_number: 0
+    total_y: 741.6010131835938
+    origin_x: 59.35992431640625
+    bbox: (59.35992431640625, 730.8295288085938, 539.2647705078125, 744.5969848632812)
+    double_fontsize_int: 20
+  - index: 52
+    text: 'disasters. Logistics costs absorbed an excessive proportion of the funds donated to the appeal.  '
+    text_base: disasters logistics costs absorbed an excessive proportion of the funds donated to the appeal
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 0
+    block_number: 17
+    line_number: 13
+    span_number: 0
+    total_y: 753.1240234375
+    origin_x: 59.35992431640625
+    bbox: (59.35992431640625, 742.3525390625, 485.6546630859375, 756.1199951171875)
+    double_fontsize_int: 20
+  items:
+  - To ensure timely emergency response and reduce logistics costs in the future, the RCC should advocate for an emergency stock to be pre-positioned in the capital to be able to respond to disasters. Logistics costs absorbed an excessive proportion of the funds donated to the appeal.

@@ -1,0 +1,832 @@
+- title:
+    text: 'Challenges  '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 3
+    line_number: 28
+    span_number: 0
+    total_y: 7118.08984375
+    origin_x: 46.79999923706055
+    bbox:
+    - 46.79999923706055
+    - 372.0727844238281
+    - 105.74888610839844
+    - 385.7876892089844
+    idx: 607
+  sector_title: Food insecurity and nutrition
+  sector_idx: 499
+  sector_similarity_score: 1.0
+  content:
+  - index: 608
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 7130.449859619141
+    origin_x: 53.52000045776367
+    bbox:
+    - 53.52000045776367
+    - 385.0765075683594
+    - 58.10121154785156
+    - 397.2784729003906
+    double_fontsize_int: 20
+  - index: 609
+    text: ' Road blockages and distance for herders to soum centres caused some delays in the delivery of the aid. '
+    text_base: road blockages and distance for herders to soum centres caused some delays in the delivery of the aid
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 7130.449859619141
+    origin_x: 58.08000183105469
+    bbox:
+    - 58.08000183105469
+    - 384.38299560546875
+    - 528.828857421875
+    - 398.0680236816406
+    double_fontsize_int: 20
+  - index: 610
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 7142.569854736328
+    origin_x: 53.52000045776367
+    bbox:
+    - 53.52000045776367
+    - 397.1965026855469
+    - 58.10121154785156
+    - 409.3984680175781
+    double_fontsize_int: 20
+  - index: 611
+    text: " Errors in beneficiary registration (e.g. mismatches between beneficiaries\u2019 names and citizen ID cards, "
+    text_base: errors in beneficiary registration e g mismatches between beneficiaries names and citizen id cards
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 4
+    line_number: 1
+    span_number: 1
+    total_y: 7142.569854736328
+    origin_x: 58.08000183105469
+    bbox:
+    - 58.08000183105469
+    - 396.50299072265625
+    - 543.45849609375
+    - 410.1880187988281
+    double_fontsize_int: 20
+  - index: 612
+    text: 'misspelling of names and registration numbers, migration of beneficiaries to different soums and provinces, '
+    text_base: misspelling of names and registration numbers migration of beneficiaries to different soums and provinces
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 7154.109832763672
+    origin_x: 64.7040023803711
+    bbox:
+    - 64.7040023803711
+    - 408.04296875
+    - 543.1925048828125
+    - 421.7279968261719
+    double_fontsize_int: 20
+  - index: 613
+    text: 'and death of some beneficiaries) caused some delays in the distribution of cash. '
+    text_base: and death of some beneficiaries caused some delays in the distribution of cash
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 7165.629852294922
+    origin_x: 64.7040023803711
+    bbox:
+    - 64.7040023803711
+    - 419.56298828125
+    - 422.7189025878906
+    - 433.2480163574219
+    double_fontsize_int: 20
+  - index: 614
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 7177.869842529297
+    origin_x: 53.63999938964844
+    bbox:
+    - 53.63999938964844
+    - 432.4964904785156
+    - 58.22121047973633
+    - 444.6984558105469
+    double_fontsize_int: 20
+  - index: 615
+    text: ' Some beneficiaries lacked knowledge of MRCS or were unaware of where assistance originated. '
+    text_base: some beneficiaries lacked knowledge of mrcs or were unaware of where assistance originated
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 7177.869842529297
+    origin_x: 58.20000076293945
+    bbox:
+    - 58.20000076293945
+    - 431.802978515625
+    - 496.18890380859375
+    - 445.4880065917969
+    double_fontsize_int: 20
+  items:
+  - Road blockages and distance for herders to soum centres caused some delays in the delivery of the aid.
+  - "Errors in beneficiary registration (e.g. mismatches between beneficiaries\u2019 names and citizen ID cards, misspelling of names and registration numbers, migration of beneficiaries to different soums and provinces, and death of some beneficiaries) caused some delays in the distribution of cash."
+  - Some beneficiaries lacked knowledge of MRCS or were unaware of where assistance originated.
+- title:
+    text: 'Challenges  '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 19
+    line_number: 11
+    span_number: 0
+    total_y: 8081.109832763672
+    origin_x: 46.79999923706055
+    bbox:
+    - 46.79999923706055
+    - 493.17279052734375
+    - 105.74888610839844
+    - 506.8876953125
+    idx: 676
+  sector_title: Health and Care
+  sector_idx: 631
+  sector_similarity_score: 1.0
+  content:
+  - index: 677
+    text: 'The PFA training materials only specific to Mongolian context was the main challenge to develop and '
+    text_base: the pfa training materials only specific to mongolian context was the main challenge to develop and
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 19
+    line_number: 12
+    span_number: 0
+    total_y: 8092.749816894531
+    origin_x: 46.79999923706055
+    bbox:
+    - 46.79999923706055
+    - 504.7629699707031
+    - 527.2504272460938
+    - 518.447998046875
+    double_fontsize_int: 20
+  - index: 678
+    text: mainstream throughout the country as the regions do vary in cultural context and perception of PSS for school-
+    text_base: mainstream throughout the country as the regions do vary in cultural context and perception of pss for school
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 19
+    line_number: 13
+    span_number: 0
+    total_y: 8104.149841308594
+    origin_x: 46.79999923706055
+    bbox:
+    - 46.79999923706055
+    - 516.1629638671875
+    - 525.056640625
+    - 529.8480224609375
+    double_fontsize_int: 20
+  - index: 679
+    text: 'going children.  '
+    text_base: going children
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 19
+    line_number: 14
+    span_number: 0
+    total_y: 8115.669860839844
+    origin_x: 46.79999923706055
+    bbox:
+    - 46.79999923706055
+    - 527.6829833984375
+    - 117.38888549804688
+    - 541.3680419921875
+    double_fontsize_int: 20
+  - index: 680
+    text: 'As the introduction of the new thematic area for MRCS, institutional capacity building was a challenge. The '
+    text_base: as the introduction of the new thematic area for mrcs institutional capacity building was a challenge the
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 19
+    line_number: 16
+    span_number: 0
+    total_y: 8138.7098388671875
+    origin_x: 46.79999923706055
+    bbox:
+    - 46.79999923706055
+    - 550.7230224609375
+    - 527.84912109375
+    - 564.4080200195312
+    double_fontsize_int: 20
+  - index: 681
+    text: 'staffs and volunteers of MRCS required more time in the training and practice to deliver the service to the '
+    text_base: staffs and volunteers of mrcs required more time in the training and practice to deliver the service to the
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 19
+    line_number: 17
+    span_number: 0
+    total_y: 8150.259826660156
+    origin_x: 46.79999923706055
+    bbox:
+    - 46.79999923706055
+    - 562.27294921875
+    - 527.3702392578125
+    - 575.9580078125
+    double_fontsize_int: 20
+  - index: 682
+    text: 'most needed. Therefore, addressing the challenge and speeding up the response, school and dormitory '
+    text_base: most needed therefore addressing the challenge and speeding up the response school and dormitory
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 19
+    line_number: 18
+    span_number: 0
+    total_y: 8161.779846191406
+    origin_x: 46.79999923706055
+    bbox:
+    - 46.79999923706055
+    - 573.79296875
+    - 527.616943359375
+    - 587.47802734375
+    double_fontsize_int: 20
+  - index: 683
+    text: 'teachers were actively engaged in trainings and service delivery. '
+    text_base: teachers were actively engaged in trainings and service delivery
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 19
+    line_number: 19
+    span_number: 0
+    total_y: 8173.1798095703125
+    origin_x: 46.79999923706055
+    bbox:
+    - 46.79999923706055
+    - 585.1929931640625
+    - 335.4788818359375
+    - 598.8779907226562
+    double_fontsize_int: 20
+  items:
+  - The PFA training materials only specific to Mongolian context was the main challenge to develop and mainstream throughout the country as the regions do vary in cultural context and perception of PSS for school- going children.
+  - As the introduction of the new thematic area for MRCS, institutional capacity building was a challenge. The staffs and volunteers of MRCS required more time in the training and practice to deliver the service to the most needed. Therefore, addressing the challenge and speeding up the response, school and dormitory teachers were actively engaged in trainings and service delivery.
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 24
+    line_number: 3
+    span_number: 0
+    total_y: 9080.379821777344
+    origin_x: 46.79999923706055
+    bbox:
+    - 46.79999923706055
+    - 650.5227661132812
+    - 102.98888397216797
+    - 664.2377319335938
+    idx: 765
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 694
+  sector_similarity_score: 1.0
+  content:
+  - index: 766
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 25
+    line_number: 0
+    span_number: 0
+    total_y: 9092.739807128906
+    origin_x: 53.52000045776367
+    bbox:
+    - 53.52000045776367
+    - 663.5264892578125
+    - 58.10121154785156
+    - 675.7284545898438
+    double_fontsize_int: 20
+  - index: 767
+    text: 'There were two kinds of blades for the grass harvester. One was inappropriate to use for hay collection, '
+    text_base: there were two kinds of blades for the grass harvester one was inappropriate to use for hay collection
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 25
+    line_number: 0
+    span_number: 1
+    total_y: 9092.739807128906
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 662.8330078125
+    - 536.08837890625
+    - 676.5180053710938
+    double_fontsize_int: 20
+  - index: 768
+    text: 'while the other with a round metal blade was suitable for hay collection.  '
+    text_base: while the other with a round metal blade was suitable for hay collection
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 25
+    line_number: 2
+    span_number: 0
+    total_y: 9104.139831542969
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 674.2330322265625
+    - 392.35888671875
+    - 687.9180297851562
+    double_fontsize_int: 20
+  - index: 769
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 26
+    line_number: 0
+    span_number: 0
+    total_y: 9116.379821777344
+    origin_x: 53.52000045776367
+    bbox:
+    - 53.52000045776367
+    - 687.16650390625
+    - 58.10121154785156
+    - 699.3684692382812
+    double_fontsize_int: 20
+  - index: 770
+    text: 'The provision of the grass harvester was in August when hay harvesting season has already started. The '
+    text_base: the provision of the grass harvester was in august when hay harvesting season has already started the
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 26
+    line_number: 0
+    span_number: 1
+    total_y: 9116.379821777344
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 686.4730224609375
+    - 536.6174926757812
+    - 700.1580200195312
+    double_fontsize_int: 20
+  - index: 771
+    text: 'transportation of grass harvesters, administration time for tripartite agreements took longer than expected '
+    text_base: transportation of grass harvesters administration time for tripartite agreements took longer than expected
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 26
+    line_number: 2
+    span_number: 0
+    total_y: 9127.899780273438
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 697.992919921875
+    - 536.7488403320312
+    - 711.677978515625
+    double_fontsize_int: 20
+  - index: 772
+    text: 'to delay the efficient utilization of the grass harvesters.  '
+    text_base: to delay the efficient utilization of the grass harvesters
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 26
+    line_number: 3
+    span_number: 0
+    total_y: 9139.419799804688
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 709.512939453125
+    - 317.8188781738281
+    - 723.197998046875
+    double_fontsize_int: 20
+  - index: 773
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 27
+    line_number: 0
+    span_number: 0
+    total_y: 9151.539794921875
+    origin_x: 53.52000045776367
+    bbox:
+    - 53.52000045776367
+    - 722.3264770507812
+    - 58.10121154785156
+    - 734.5284423828125
+    double_fontsize_int: 20
+  - index: 774
+    text: "The outcome of the herder\u2019s consultation meeting needs to be owned by the local communities and "
+    text_base: the outcome of the herder s consultation meeting needs to be owned by the local communities and
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 27
+    line_number: 0
+    span_number: 1
+    total_y: 9151.539794921875
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 721.6329345703125
+    - 536.5401611328125
+    - 735.3179931640625
+    double_fontsize_int: 20
+  - index: 775
+    text: 'followed-up and supported by the local authorities. But the current local situation as discussed during the '
+    text_base: followed up and supported by the local authorities but the current local situation as discussed during the
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 27
+    line_number: 2
+    span_number: 0
+    total_y: 9163.079833984375
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 733.1729736328125
+    - 536.224365234375
+    - 746.8580322265625
+    double_fontsize_int: 20
+  - index: 776
+    text: 'meeting, local government does not have available resources and capacity to support the '
+    text_base: meeting local government does not have available resources and capacity to support the
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 27
+    line_number: 3
+    span_number: 0
+    total_y: 9174.599792480469
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 744.6929931640625
+    - 536.1780395507812
+    - 758.3779907226562
+    double_fontsize_int: 20
+  - index: 777
+    text: 'recommendations. This creates expectation from the Red Cross as the main organizer of the consultation '
+    text_base: recommendations this creates expectation from the red cross as the main organizer of the consultation
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 27
+    line_number: 4
+    span_number: 0
+    total_y: 9185.999816894531
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 756.093017578125
+    - 536.3935546875
+    - 769.7780151367188
+    double_fontsize_int: 20
+  - index: 778
+    text: 'to bridge the authority to the communities.  '
+    text_base: to bridge the authority to the communities
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 27
+    line_number: 5
+    span_number: 0
+    total_y: 9197.519836425781
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 767.613037109375
+    - 263.3388977050781
+    - 781.2980346679688
+    double_fontsize_int: 20
+  items:
+  - There were two kinds of blades for the grass harvester. One was inappropriate to use for hay collection, while the other with a round metal blade was suitable for hay collection.
+  - The provision of the grass harvester was in August when hay harvesting season has already started. The transportation of grass harvesters, administration time for tripartite agreements took longer than expected to delay the efficient utilization of the grass harvesters.
+  - "The outcome of the herder\u2019s consultation meeting needs to be owned by the local communities and followed-up and supported by the local authorities. But the current local situation as discussed during the meeting, local government does not have available resources and capacity to support the recommendations. This creates expectation from the Red Cross as the main organizer of the consultation to bridge the authority to the communities."
+- title:
+    text: 'Challenges  '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 10205.539794921875
+    origin_x: 46.79999923706055
+    bbox:
+    - 46.79999923706055
+    - 91.8427963256836
+    - 105.74888610839844
+    - 105.55772399902344
+    idx: 898
+  sector_title: Quality Programming
+  sector_idx: 791
+  sector_similarity_score: 1.0
+  content:
+  - index: 899
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 10217.899780273438
+    origin_x: 53.52000045776367
+    bbox:
+    - 53.52000045776367
+    - 104.84648895263672
+    - 58.10121154785156
+    - 117.0484619140625
+    double_fontsize_int: 20
+  - index: 900
+    text: 'Monitoring and evaluation framework was not in place during the operation.  '
+    text_base: monitoring and evaluation framework was not in place during the operation
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 10217.899780273438
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 104.15298461914062
+    - 410.2388916015625
+    - 117.83802795410156
+    double_fontsize_int: 20
+  - index: 901
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 10230.019775390625
+    origin_x: 53.52000045776367
+    bbox:
+    - 53.52000045776367
+    - 116.96648406982422
+    - 58.10121154785156
+    - 129.16845703125
+    double_fontsize_int: 20
+  - index: 902
+    text: 'Beneficiary Satisfaction survey was collected in paper form,  making it difficult and time consuming for data '
+    text_base: beneficiary satisfaction survey was collected in paper form making it difficult and time consuming for data
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 10230.019775390625
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 116.27297973632812
+    - 538.0904541015625
+    - 129.95802307128906
+    double_fontsize_int: 20
+  - index: 903
+    text: 'entry, cleaning and analyzing. '
+    text_base: entry cleaning and analyzing
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 10241.539794921875
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 127.79299926757812
+    - 206.69886779785156
+    - 141.47804260253906
+    double_fontsize_int: 20
+  - index: 904
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 10253.77978515625
+    origin_x: 53.52000045776367
+    bbox:
+    - 53.52000045776367
+    - 140.72650146484375
+    - 58.10121154785156
+    - 152.928466796875
+    double_fontsize_int: 20
+  - index: 905
+    text: 'Khan Bank communication and guidance provided to the local branch was poor. Specific guidance was '
+    text_base: khan bank communication and guidance provided to the local branch was poor specific guidance was
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 10253.77978515625
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 140.03298950195312
+    - 538.2559814453125
+    - 153.71803283691406
+    double_fontsize_int: 20
+  - index: 906
+    text: 'not provided. Thus, local Red Cross had difficulty in placing banners and visibility within the bank during '
+    text_base: not provided thus local red cross had difficulty in placing banners and visibility within the bank during
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 10266.979797363281
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 153.23300170898438
+    - 538.5376586914062
+    - 166.9180450439453
+    double_fontsize_int: 20
+  - index: 907
+    text: 'cash distribution.  '
+    text_base: cash distribution
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 7
+    line_number: 3
+    span_number: 0
+    total_y: 10280.2998046875
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 166.55300903320312
+    - 152.18887329101562
+    - 180.23805236816406
+    double_fontsize_int: 20
+  - index: 908
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 10294.099792480469
+    origin_x: 53.52000045776367
+    bbox:
+    - 53.52000045776367
+    - 181.0465087890625
+    - 58.10121154785156
+    - 193.24847412109375
+    double_fontsize_int: 20
+  - index: 909
+    text: 'Based on the geographical location and remoteness of target households and communities, the outreach '
+    text_base: based on the geographical location and remoteness of target households and communities the outreach
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 10294.099792480469
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 180.35299682617188
+    - 538.4699096679688
+    - 194.0380401611328
+    double_fontsize_int: 20
+  - index: 910
+    text: 'of NDRT members was time-consuming and required more resources.  '
+    text_base: of ndrt members was time consuming and required more resources
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 10307.419799804688
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 193.67300415039062
+    - 388.2789001464844
+    - 207.35804748535156
+    double_fontsize_int: 20
+  - index: 911
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 10321.219787597656
+    origin_x: 53.52000045776367
+    bbox:
+    - 53.52000045776367
+    - 208.16650390625
+    - 58.10121154785156
+    - 220.36846923828125
+    double_fontsize_int: 20
+  - index: 912
+    text: 'Sufficient BDRTs were not established at every EA targeted branches. Thus, required direct assistance '
+    text_base: sufficient bdrts were not established at every ea targeted branches thus required direct assistance
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 9
+    line_number: 0
+    span_number: 1
+    total_y: 10321.219787597656
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 207.47299194335938
+    - 538.29248046875
+    - 221.1580352783203
+    double_fontsize_int: 20
+  - index: 913
+    text: 'and guidance from the headquarters and NDRT members onsite.  '
+    text_base: and guidance from the headquarters and ndrt members onsite
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 9
+    line_number: 2
+    span_number: 0
+    total_y: 10334.539794921875
+    origin_x: 71.54399871826172
+    bbox:
+    - 71.54399871826172
+    - 220.79299926757812
+    - 365.118896484375
+    - 234.47804260253906
+    double_fontsize_int: 20
+  items:
+  - Monitoring and evaluation framework was not in place during the operation.
+  - Beneficiary Satisfaction survey was collected in paper form, making it difficult and time consuming for data entry, cleaning and analyzing.
+  - Khan Bank communication and guidance provided to the local branch was poor. Specific guidance was not provided. Thus, local Red Cross had difficulty in placing banners and visibility within the bank during cash distribution.
+  - Based on the geographical location and remoteness of target households and communities, the outreach of NDRT members was time-consuming and required more resources.
+  - Sufficient BDRTs were not established at every EA targeted branches. Thus, required direct assistance and guidance from the headquarters and NDRT members onsite.

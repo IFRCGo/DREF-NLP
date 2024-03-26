@@ -1,0 +1,534 @@
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 5
+    block_number: 4
+    line_number: 11
+    span_number: 0
+    total_y: 4631.1392822265625
+    origin_x: 54.00010681152344
+    bbox:
+    - 54.00010681152344
+    - 410.4178771972656
+    - 113.48886108398438
+    - 424.2154235839844
+    idx: 474
+  sector_title: Livelihoods
+  sector_idx: 439
+  sector_similarity_score: 1.0
+  content:
+  - index: 475
+    text: 'Seeds could not be procured in time for a variety of reasons beyond control, mainly the shortage in '
+    text_base: seeds could not be procured in time for a variety of reasons beyond control mainly the shortage in
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 5
+    block_number: 4
+    line_number: 12
+    span_number: 0
+    total_y: 4642.599151611328
+    origin_x: 54.00010681152344
+    bbox:
+    - 54.00010681152344
+    - 421.82763671875
+    - 523.8379516601562
+    - 435.5951232910156
+    double_fontsize_int: 20
+  - index: 476
+    text: 'supplies due to the floods as well as the huge demand for the seeds. Besides the problematic supply and '
+    text_base: supplies due to the floods as well as the huge demand for the seeds besides the problematic supply and
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 5
+    block_number: 4
+    line_number: 13
+    span_number: 0
+    total_y: 4654.059020996094
+    origin_x: 54.0001220703125
+    bbox:
+    - 54.0001220703125
+    - 433.2875061035156
+    - 523.7962646484375
+    - 447.05499267578125
+    double_fontsize_int: 20
+  - index: 477
+    text: 'delivery of the seed/tools, there were also delays due to frequent agitation and blockades caused by '
+    text_base: delivery of the seed tools there were also delays due to frequent agitation and blockades caused by
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 5
+    block_number: 4
+    line_number: 14
+    span_number: 0
+    total_y: 4665.579010009766
+    origin_x: 54.0001220703125
+    bbox:
+    - 54.0001220703125
+    - 444.8074951171875
+    - 523.8197021484375
+    - 458.5749816894531
+    double_fontsize_int: 20
+  - index: 478
+    text: 'Maoists and other political groups. The delays affected smooth delivery of the items from the NRCS '
+    text_base: maoists and other political groups the delays affected smooth delivery of the items from the nrcs
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 5
+    block_number: 4
+    line_number: 15
+    span_number: 0
+    total_y: 4677.0989990234375
+    origin_x: 54.0001220703125
+    bbox:
+    - 54.0001220703125
+    - 456.3274841308594
+    - 523.8551025390625
+    - 470.094970703125
+    double_fontsize_int: 20
+  - index: 479
+    text: 'headquarters to district chapters. Seeds were meant to be sowed on time but this delay meant that the '
+    text_base: headquarters to district chapters seeds were meant to be sowed on time but this delay meant that the
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 5
+    block_number: 4
+    line_number: 16
+    span_number: 0
+    total_y: 4688.558868408203
+    origin_x: 54.000091552734375
+    bbox:
+    - 54.000091552734375
+    - 467.787353515625
+    - 523.8289184570312
+    - 481.5548400878906
+    double_fontsize_int: 20
+  - index: 480
+    text: 'germination of the seeds did not happen in time and reflected on the harvest. Secondly, some families '
+    text_base: germination of the seeds did not happen in time and reflected on the harvest secondly some families
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 5
+    block_number: 4
+    line_number: 17
+    span_number: 0
+    total_y: 4700.078857421875
+    origin_x: 54.000091552734375
+    bbox:
+    - 54.000091552734375
+    - 479.3073425292969
+    - 523.83203125
+    - 493.0748291015625
+    double_fontsize_int: 20
+  - index: 481
+    text: 'chose to keep the seeds aside for use in the forthcoming season. '
+    text_base: chose to keep the seeds aside for use in the forthcoming season
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 5
+    block_number: 4
+    line_number: 18
+    span_number: 0
+    total_y: 4711.598846435547
+    origin_x: 54.00007629394531
+    bbox:
+    - 54.00007629394531
+    - 490.82733154296875
+    - 345.2443542480469
+    - 504.5948181152344
+    double_fontsize_int: 20
+  items:
+  - Seeds could not be procured in time for a variety of reasons beyond control, mainly the shortage in supplies due to the floods as well as the huge demand for the seeds. Besides the problematic supply and delivery of the seed/tools, there were also delays due to frequent agitation and blockades caused by Maoists and other political groups. The delays affected smooth delivery of the items from the NRCS headquarters to district chapters. Seeds were meant to be sowed on time but this delay meant that the germination of the seeds did not happen in time and reflected on the harvest. Secondly, some families chose to keep the seeds aside for use in the forthcoming season.
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 6
+    span_number: 0
+    total_y: 5202.299560546875
+    origin_x: 53.99998474121094
+    bbox:
+    - 53.99998474121094
+    - 139.57815551757812
+    - 113.48873901367188
+    - 153.37570190429688
+    idx: 528
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 482
+  sector_similarity_score: 1.0
+  content:
+  - index: 529
+    text: 'The supply and delivery of construction materials were delayed due to frequent agitation and blockades '
+    text_base: the supply and delivery of construction materials were delayed due to frequent agitation and blockades
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 7
+    span_number: 0
+    total_y: 5213.759460449219
+    origin_x: 53.99998474121094
+    bbox:
+    - 53.99998474121094
+    - 150.9879608154297
+    - 523.7630615234375
+    - 164.7554473876953
+    double_fontsize_int: 20
+  - index: 530
+    text: 'caused by Maoists and other political groups, which in turn affected smooth delivery of the items from the '
+    text_base: caused by maoists and other political groups which in turn affected smooth delivery of the items from the
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 8
+    span_number: 0
+    total_y: 5225.2193603515625
+    origin_x: 53.99998474121094
+    bbox:
+    - 53.99998474121094
+    - 162.44786071777344
+    - 523.8079223632812
+    - 176.21534729003906
+    double_fontsize_int: 20
+  - index: 531
+    text: 'district chapter to the beneficiary level. Inflation affecting this objective as has been explained earlier. A '
+    text_base: district chapter to the beneficiary level inflation affecting this objective as has been explained earlier a
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 9
+    span_number: 0
+    total_y: 5236.7393798828125
+    origin_x: 53.99998474121094
+    bbox:
+    - 53.99998474121094
+    - 173.96788024902344
+    - 523.810302734375
+    - 187.73536682128906
+    double_fontsize_int: 20
+  - index: 532
+    text: "main reason for the number of benefiting families being revised downwards vis-\xE0-vis the original appeal "
+    text_base: main reason for the number of benefiting families being revised downwards vis vis the original appeal
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 10
+    span_number: 0
+    total_y: 5248.2593994140625
+    origin_x: 53.99998474121094
+    bbox:
+    - 53.99998474121094
+    - 185.48789978027344
+    - 523.8143310546875
+    - 199.25538635253906
+    double_fontsize_int: 20
+  - index: 533
+    text: 'was that in one case, a district chapter, as part of its own resource mobilization, entered into an '
+    text_base: was that in one case a district chapter as part of its own resource mobilization entered into an
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 11
+    span_number: 0
+    total_y: 5259.719299316406
+    origin_x: 53.99998474121094
+    bbox:
+    - 53.99998474121094
+    - 196.9477996826172
+    - 523.83837890625
+    - 210.7152862548828
+    double_fontsize_int: 20
+  - index: 534
+    text: 'agreement with an external organization constructing 200 houses and this, in turn, meant that the district '
+    text_base: agreement with an external organization constructing 200 houses and this in turn meant that the district
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 12
+    span_number: 0
+    total_y: 5271.239318847656
+    origin_x: 53.99998474121094
+    bbox:
+    - 53.99998474121094
+    - 208.4678192138672
+    - 523.806640625
+    - 222.2353057861328
+    double_fontsize_int: 20
+  - index: 535
+    text: 'chapter couldn''t build 200 houses out of the International Federation appeal. Similarly, the Dhanusha '
+    text_base: chapter couldn t build 200 houses out of the international federation appeal similarly the dhanusha
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 13
+    span_number: 0
+    total_y: 5282.69921875
+    origin_x: 53.99998474121094
+    bbox:
+    - 53.99998474121094
+    - 219.92771911621094
+    - 523.8441162109375
+    - 233.69520568847656
+    double_fontsize_int: 20
+  - index: 536
+    text: 'district chapter could not provide a detailed assessment on time for various reasons and so, the district '
+    text_base: district chapter could not provide a detailed assessment on time for various reasons and so the district
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 14
+    span_number: 0
+    total_y: 5294.21923828125
+    origin_x: 53.999969482421875
+    bbox:
+    - 53.999969482421875
+    - 231.44773864746094
+    - 523.8727416992188
+    - 245.21522521972656
+    double_fontsize_int: 20
+  - index: 537
+    text: 'chapter could not avail the benefits under this activity.  '
+    text_base: chapter could not avail the benefits under this activity
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 15
+    span_number: 0
+    total_y: 5305.7392578125
+    origin_x: 53.999969482421875
+    bbox:
+    - 53.999969482421875
+    - 242.96775817871094
+    - 296.9169616699219
+    - 256.7352294921875
+    double_fontsize_int: 20
+  items:
+  - "The supply and delivery of construction materials were delayed due to frequent agitation and blockades caused by Maoists and other political groups, which in turn affected smooth delivery of the items from the district chapter to the beneficiary level. Inflation affecting this objective as has been explained earlier. A main reason for the number of benefiting families being revised downwards vis-\xE0-vis the original appeal was that in one case, a district chapter, as part of its own resource mobilization, entered into an agreement with an external organization constructing 200 houses and this, in turn, meant that the district chapter couldn't build 200 houses out of the International Federation appeal. Similarly, the Dhanusha district chapter could not provide a detailed assessment on time for various reasons and so, the district chapter could not avail the benefits under this activity."
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 4
+    line_number: 15
+    span_number: 0
+    total_y: 5712.2996826171875
+    origin_x: 54.00001525878906
+    bbox:
+    - 54.00001525878906
+    - 649.5783081054688
+    - 113.48876953125
+    - 663.3757934570312
+    idx: 592
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 538
+  sector_similarity_score: 1.0
+  content:
+  - index: 593
+    text: 'The supply and delivery of construction materials was apparently delayed due to frequent agitation and '
+    text_base: the supply and delivery of construction materials was apparently delayed due to frequent agitation and
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 4
+    line_number: 16
+    span_number: 0
+    total_y: 5723.759521484375
+    origin_x: 54.00001525878906
+    bbox:
+    - 54.00001525878906
+    - 660.988037109375
+    - 523.8008422851562
+    - 674.7554931640625
+    double_fontsize_int: 20
+  - index: 594
+    text: 'blockades caused by Maoists and other political groups, which in turn affected smooth delivery of the '
+    text_base: blockades caused by maoists and other political groups which in turn affected smooth delivery of the
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 4
+    line_number: 17
+    span_number: 0
+    total_y: 5735.279541015625
+    origin_x: 53.998992919921875
+    bbox:
+    - 53.998992919921875
+    - 672.508056640625
+    - 523.743896484375
+    - 686.2755126953125
+    double_fontsize_int: 20
+  - index: 595
+    text: 'items from the district chapter to the beneficiary level. Furthermore, the magnitude of the disaster was so '
+    text_base: items from the district chapter to the beneficiary level furthermore the magnitude of the disaster was so
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 4
+    line_number: 18
+    span_number: 0
+    total_y: 5746.7393798828125
+    origin_x: 53.99897766113281
+    bbox:
+    - 53.99897766113281
+    - 683.9678955078125
+    - 523.8333740234375
+    - 697.7353515625
+    double_fontsize_int: 20
+  - index: 596
+    text: 'great that some district chapters had difficulties in managing the procurement and transportation of '
+    text_base: great that some district chapters had difficulties in managing the procurement and transportation of
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 4
+    line_number: 19
+    span_number: 0
+    total_y: 5758.2593994140625
+    origin_x: 53.99897766113281
+    bbox:
+    - 53.99897766113281
+    - 695.4879150390625
+    - 523.8208618164062
+    - 709.25537109375
+    double_fontsize_int: 20
+  - index: 597
+    text: 'construction materials. The NRCS conducted disaster response training for those districts to enhance '
+    text_base: construction materials the nrcs conducted disaster response training for those districts to enhance
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 4
+    line_number: 20
+    span_number: 0
+    total_y: 5769.779357910156
+    origin_x: 53.998992919921875
+    bbox:
+    - 53.998992919921875
+    - 707.0078735351562
+    - 523.873779296875
+    - 720.7753295898438
+    double_fontsize_int: 20
+  - index: 598
+    text: 'their capacity for assessment, coordination and relief management. '
+    text_base: their capacity for assessment coordination and relief management
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 4
+    line_number: 21
+    span_number: 0
+    total_y: 5781.2392578125
+    origin_x: 53.998992919921875
+    bbox:
+    - 53.998992919921875
+    - 718.4677734375
+    - 354.21917724609375
+    - 732.2352294921875
+    double_fontsize_int: 20
+  items:
+  - The supply and delivery of construction materials was apparently delayed due to frequent agitation and blockades caused by Maoists and other political groups, which in turn affected smooth delivery of the items from the district chapter to the beneficiary level. Furthermore, the magnitude of the disaster was so great that some district chapters had difficulties in managing the procurement and transportation of construction materials. The NRCS conducted disaster response training for those districts to enhance their capacity for assessment, coordination and relief management.
+- title:
+    text: 'Challenges:'
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 7
+    block_number: 4
+    line_number: 8
+    span_number: 0
+    total_y: 6308.2393798828125
+    origin_x: 53.99998474121094
+    bbox:
+    - 53.99998474121094
+    - 403.5179748535156
+    - 110.74224090576172
+    - 417.3155212402344
+    idx: 652
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 600
+  sector_similarity_score: 1.0
+  content:
+  - index: 653
+    text: 'The prevailing situation in the country and the road-blocks as part of agitations caused by Maoists and '
+    text_base: the prevailing situation in the country and the road blocks as part of agitations caused by maoists and
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 7
+    block_number: 4
+    line_number: 9
+    span_number: 0
+    total_y: 6319.699249267578
+    origin_x: 53.9999885559082
+    bbox:
+    - 53.9999885559082
+    - 414.927734375
+    - 523.846923828125
+    - 428.6952209472656
+    double_fontsize_int: 20
+  - index: 654
+    text: 'other political groups meant that the travel of facilitators was not easy. Additionally, with 13 trainings over '
+    text_base: other political groups meant that the travel of facilitators was not easy additionally with 13 trainings over
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 7
+    block_number: 4
+    line_number: 10
+    span_number: 0
+    total_y: 6331.159118652344
+    origin_x: 54.0
+    bbox:
+    - 54.0
+    - 426.3876037597656
+    - 365.91156005859375
+    - 440.15509033203125
+    double_fontsize_int: 20
+  - index: 656
+    text: 'a short period of time and other flood-related activities (many of which were delayed due to the very same '
+    text_base: a short period of time and other flood related activities many of which were delayed due to the very same
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 7
+    block_number: 4
+    line_number: 11
+    span_number: 0
+    total_y: 6342.679107666016
+    origin_x: 54.0
+    bbox:
+    - 54.0
+    - 437.9075927734375
+    - 523.6944580078125
+    - 451.6750793457031
+    double_fontsize_int: 20
+  - index: 657
+    text: 'reasons mentioned above), finalizing the schedule for these trainings were often challenging.  '
+    text_base: reasons mentioned above finalizing the schedule for these trainings were often challenging
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 7
+    block_number: 4
+    line_number: 12
+    span_number: 0
+    total_y: 6354.1990966796875
+    origin_x: 54.0
+    bbox:
+    - 54.0
+    - 449.4275817871094
+    - 469.7967529296875
+    - 463.195068359375
+    double_fontsize_int: 20
+  items:
+  - The prevailing situation in the country and the road-blocks as part of agitations caused by Maoists and other political groups meant that the travel of facilitators was not easy. Additionally, with 13 trainings over a short period of time and other flood-related activities (many of which were delayed due to the very same reasons mentioned above), finalizing the schedule for these trainings were often challenging.

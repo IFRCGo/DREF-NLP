@@ -1,0 +1,332 @@
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'bold, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 6
+    span_number: 0
+    total_y: 5514.599395751953
+    origin_x: 54.540008544921875
+    bbox:
+    - 54.540008544921875
+    - 451.87799072265625
+    - 114.02876281738281
+    - 465.675537109375
+    idx: 443
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 444
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 7
+    span_number: 0
+    total_y: 5526.719573974609
+    origin_x: 72.53993225097656
+    bbox:
+    - 72.53993225097656
+    - 464.645751953125
+    - 77.14874267578125
+    - 476.9212341308594
+    double_fontsize_int: 20
+  - index: 445
+    text: 'Extreme cold weather was an ongoing challenge for the PRCS/International Federation relief teams. '
+    text_base: extreme cold weather was an ongoing challenge for the prcs international federation relief teams
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 7
+    span_number: 1
+    total_y: 5526.719573974609
+    origin_x: 90.00178527832031
+    bbox:
+    - 90.00178527832031
+    - 463.94805908203125
+    - 546.3526611328125
+    - 477.7155456542969
+    double_fontsize_int: 20
+  - index: 446
+    text: 'This also allowed PRCS/International Federation personnel to lead a number of families in their '
+    text_base: this also allowed prcs international federation personnel to lead a number of families in their
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 9
+    span_number: 0
+    total_y: 5538.239562988281
+    origin_x: 90.54086303710938
+    bbox:
+    - 90.54086303710938
+    - 475.4680480957031
+    - 546.3468627929688
+    - 489.23553466796875
+    double_fontsize_int: 20
+  - index: 447
+    text: migration to lower grounds.
+    text_base: migration to lower grounds
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 10
+    span_number: 0
+    total_y: 5549.759552001953
+    origin_x: 90.54086303710938
+    bbox:
+    - 90.54086303710938
+    - 486.988037109375
+    - 211.17066955566406
+    - 500.7555236816406
+    double_fontsize_int: 20
+  - index: 448
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 11
+    span_number: 0
+    total_y: 5561.879730224609
+    origin_x: 72.54093933105469
+    bbox:
+    - 72.54093933105469
+    - 499.805908203125
+    - 77.14974975585938
+    - 512.0814208984375
+    double_fontsize_int: 20
+  - index: 449
+    text: 'Another challenge was timely delivery of the procured items in Quetta and Ziarat. Apart from delays of '
+    text_base: another challenge was timely delivery of the procured items in quetta and ziarat apart from delays of
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 11
+    span_number: 1
+    total_y: 5561.879730224609
+    origin_x: 90.00279235839844
+    bbox:
+    - 90.00279235839844
+    - 499.10821533203125
+    - 546.376708984375
+    - 512.875732421875
+    double_fontsize_int: 20
+  - index: 450
+    text: a couple of days for some items, suppliers were very much on schedule.
+    text_base: a couple of days for some items suppliers were very much on schedule
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 13
+    span_number: 0
+    total_y: 5573.399719238281
+    origin_x: 90.5418701171875
+    bbox:
+    - 90.5418701171875
+    - 510.6282043457031
+    - 410.04437255859375
+    - 524.3956909179688
+    double_fontsize_int: 20
+  - index: 451
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 14
+    span_number: 0
+    total_y: 5585.580017089844
+    origin_x: 72.54196166992188
+    bbox:
+    - 72.54196166992188
+    - 523.5062255859375
+    - 77.15077209472656
+    - 535.7816772460938
+    double_fontsize_int: 20
+  - index: 452
+    text: "The earthquake affected people were not satisfied with the government\u2019s compensation package and "
+    text_base: the earthquake affected people were not satisfied with the government s compensation package and
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 14
+    span_number: 1
+    total_y: 5585.580017089844
+    origin_x: 90.00381469726562
+    bbox:
+    - 90.00381469726562
+    - 522.8085327148438
+    - 546.4140014648438
+    - 536.5759887695312
+    double_fontsize_int: 20
+  - index: 453
+    text: 'there were some strikes and road blocks. It posed some difficulty for the PRCS/International '
+    text_base: there were some strikes and road blocks it posed some difficulty for the prcs international
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 16
+    span_number: 0
+    total_y: 5597.0999755859375
+    origin_x: 90.54188537597656
+    bbox:
+    - 90.54188537597656
+    - 534.3284912109375
+    - 546.3948974609375
+    - 548.095947265625
+    double_fontsize_int: 20
+  - index: 454
+    text: 'Federation while carrying out the distribution. However, the PRCS/International Federation '
+    text_base: federation while carrying out the distribution however the prcs international federation
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 17
+    span_number: 0
+    total_y: 5608.559875488281
+    origin_x: 90.5418701171875
+    bbox:
+    - 90.5418701171875
+    - 545.7883911132812
+    - 546.3687744140625
+    - 559.5558471679688
+    double_fontsize_int: 20
+  - index: 455
+    text: dissemination teams helped in neutralizing this situation.
+    text_base: dissemination teams helped in neutralizing this situation
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 18
+    span_number: 0
+    total_y: 5620.079833984375
+    origin_x: 90.54185485839844
+    bbox:
+    - 90.54185485839844
+    - 557.308349609375
+    - 340.09893798828125
+    - 571.0758056640625
+    double_fontsize_int: 20
+  - index: 456
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 19
+    span_number: 0
+    total_y: 5632.260192871094
+    origin_x: 72.54193115234375
+    bbox:
+    - 72.54193115234375
+    - 570.1864013671875
+    - 77.15074157714844
+    - 582.4618530273438
+    double_fontsize_int: 20
+  - index: 457
+    text: 'There was some dissonance between the NDMA/PDMA and the PRCS/International Federation. This '
+    text_base: there was some dissonance between the ndma pdma and the prcs international federation this
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 19
+    span_number: 1
+    total_y: 5632.260192871094
+    origin_x: 90.0037841796875
+    bbox:
+    - 90.0037841796875
+    - 569.4887084960938
+    - 546.371826171875
+    - 583.2561645507812
+    double_fontsize_int: 20
+  - index: 458
+    text: 'was because there was a confusion between the construction of an emergency shelter as opposed to '
+    text_base: was because there was a confusion between the construction of an emergency shelter as opposed to
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 21
+    span_number: 0
+    total_y: 5643.7801513671875
+    origin_x: 90.54287719726562
+    bbox:
+    - 90.54287719726562
+    - 581.0086669921875
+    - 546.3624877929688
+    - 594.776123046875
+    double_fontsize_int: 20
+  - index: 459
+    text: 'simple construction or the construction of basic housing. Persistent advocacy at coordination meetings '
+    text_base: simple construction or the construction of basic housing persistent advocacy at coordination meetings
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 22
+    span_number: 0
+    total_y: 5655.240051269531
+    origin_x: 90.54287719726562
+    bbox:
+    - 90.54287719726562
+    - 592.4685668945312
+    - 546.3955078125
+    - 606.2360229492188
+    double_fontsize_int: 20
+  - index: 460
+    text: 'in Islamabad and Quetta brought the frequency of the government authorities in accordance with the '
+    text_base: in islamabad and quetta brought the frequency of the government authorities in accordance with the
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 23
+    span_number: 0
+    total_y: 5666.760009765625
+    origin_x: 90.54287719726562
+    bbox:
+    - 90.54287719726562
+    - 603.988525390625
+    - 546.3447265625
+    - 617.7559814453125
+    double_fontsize_int: 20
+  - index: 461
+    text: PRCS/International Federation to some extent.
+    text_base: prcs international federation to some extent
+    style: 'arialmt, 20, #000000, None'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 24
+    span_number: 0
+    total_y: 5678.219909667969
+    origin_x: 90.54289245605469
+    bbox:
+    - 90.54289245605469
+    - 615.4484252929688
+    - 297.9288024902344
+    - 629.2158813476562
+    double_fontsize_int: 20
+  items:
+  - Extreme cold weather was an ongoing challenge for the PRCS/International Federation relief teams. This also allowed PRCS/International Federation personnel to lead a number of families in their migration to lower grounds.
+  - Another challenge was timely delivery of the procured items in Quetta and Ziarat. Apart from delays of a couple of days for some items, suppliers were very much on schedule.
+  - "The earthquake affected people were not satisfied with the government\u2019s compensation package and there were some strikes and road blocks. It posed some difficulty for the PRCS/International Federation while carrying out the distribution. However, the PRCS/International Federation dissemination teams helped in neutralizing this situation."
+  - There was some dissonance between the NDMA/PDMA and the PRCS/International Federation. This was because there was a confusion between the construction of an emergency shelter as opposed to simple construction or the construction of basic housing. Persistent advocacy at coordination meetings in Islamabad and Quetta brought the frequency of the government authorities in accordance with the PRCS/International Federation to some extent.

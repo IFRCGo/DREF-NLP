@@ -154,3 +154,7 @@ dmypy.json
 #bert model
 /training_model/DocBERT/hedwig-data/models
 
+ea_parsing/tests/raw_lines/*.csv
+ea_parsing/tests/processed_lines/*.csv
+ea_parsing/tests/bk.raw_lines/
+ea_parsing/tests/bk.processed_lines/

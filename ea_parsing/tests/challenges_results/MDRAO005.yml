@@ -1,0 +1,32 @@
+- title:
+    text: 'Challenges or constraints '
+    text_base: challenges or constraints
+    style: 'arial,bold, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 19
+    line_number: 10
+    span_number: 0
+    total_y: 4019.619873046875
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 642.9234008789062, 172.82411193847656, 654.0505981445312)
+    idx: 386
+  sector_title: Food insecurity and nutrition
+  sector_idx: 290
+  sector_similarity_score: 1.0
+  content:
+  - index: 387
+    text: 'The greatest challenge experienced was that of a limited supply of maize and mealy meal.   '
+    text_base: the greatest challenge experienced was that of a limited supply of maize and mealy meal
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 19
+    line_number: 11
+    span_number: 0
+    total_y: 4031.3798828125
+    origin_x: 44.87999725341797
+    bbox: (44.87999725341797, 652.992919921875, 451.8856201171875, 666.677978515625)
+    double_fontsize_int: 20
+  items:
+  - The greatest challenge experienced was that of a limited supply of maize and mealy meal.

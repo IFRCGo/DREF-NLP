@@ -1,0 +1,242 @@
+- title:
+    text: 'Lessons learned:  '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 4
+    span_number: 0
+    total_y: 5179.319763183594
+    origin_x: 54.0
+    bbox: (54.0, 116.59835815429688, 141.8302764892578, 130.39590454101562)
+    idx: 505
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 506
+    text: "\uF0A7"
+    text_base: ''
+    style: 'regular, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 5
+    span_number: 0
+    total_y: 5190.719543457031
+    origin_x: 54.0
+    bbox: (54.0, 129.71231079101562, 58.584346771240234, 140.8331298828125)
+    double_fontsize_int: 20
+  - index: 507
+    text: 'The Local Disaster Committees proved that they are the best response tool at the local level. In total, two '
+    text_base: the local disaster committees proved that they are the best response tool at the local level in total two
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 5
+    span_number: 1
+    total_y: 5190.719543457031
+    origin_x: 72.0019302368164
+    bbox: (72.0019302368164, 127.94804382324219, 542.79541015625, 141.7155303955078)
+    double_fontsize_int: 20
+  - index: 508
+    text: 'RCST National Disaster Response teams (NDRT) and two LDCs were mobilized to extend a helping '
+    text_base: rcst national disaster response teams ndrt and two ldcs were mobilized to extend a helping
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 7
+    span_number: 0
+    total_y: 5202.239562988281
+    origin_x: 71.99990844726562
+    bbox: (71.99990844726562, 139.4680633544922, 542.8187866210938, 153.2355499267578)
+    double_fontsize_int: 20
+  - index: 509
+    text: 'hand to the affected people. Community members and the Tajik National Society volunteers participated '
+    text_base: hand to the affected people community members and the tajik national society volunteers participated
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 8
+    span_number: 0
+    total_y: 5213.759582519531
+    origin_x: 71.99990844726562
+    bbox: (71.99990844726562, 150.9880828857422, 542.8316650390625, 164.7555694580078)
+    double_fontsize_int: 20
+  - index: 510
+    text: 'in distributing relief items, disseminating basic but essential messages on hygiene and disease '
+    text_base: in distributing relief items disseminating basic but essential messages on hygiene and disease
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 9
+    span_number: 0
+    total_y: 5225.219482421875
+    origin_x: 71.99990844726562
+    bbox: (71.99990844726562, 162.44798278808594, 542.8116455078125, 176.21546936035156)
+    double_fontsize_int: 20
+  - index: 511
+    text: 'prevention, and monitoring.  '
+    text_base: prevention and monitoring
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 10
+    span_number: 0
+    total_y: 5236.739501953125
+    origin_x: 71.99990844726562
+    bbox: (71.99990844726562, 173.96800231933594, 198.68577575683594, 187.73548889160156)
+    double_fontsize_int: 20
+  - index: 512
+    text: "\uF0A7"
+    text_base: ''
+    style: 'regular, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 11
+    span_number: 0
+    total_y: 5248.259521484375
+    origin_x: 53.99998092651367
+    bbox: (53.99998092651367, 187.25228881835938, 58.584327697753906, 198.37310791015625)
+    double_fontsize_int: 20
+  - index: 513
+    text: 'Despite some new staff in the National Society, their lack of personal experience of such emergency '
+    text_base: despite some new staff in the national society their lack of personal experience of such emergency
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 11
+    span_number: 1
+    total_y: 5248.259521484375
+    origin_x: 72.00191497802734
+    bbox: (72.00191497802734, 185.48802185058594, 542.7937622070312, 199.25550842285156)
+    double_fontsize_int: 20
+  - index: 514
+    text: "operations, the on-job/on-spot training showed that \u201Clearning by doing\u201D was the best way to strengthen "
+    text_base: operations the on job on spot training showed that learning by doing was the best way to strengthen
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 13
+    span_number: 0
+    total_y: 5259.719421386719
+    origin_x: 71.99990844726562
+    bbox: (71.99990844726562, 196.9479217529297, 542.7957763671875, 210.7154083251953)
+    double_fontsize_int: 20
+  - index: 515
+    text: "the National Society\u2019s response capacity. "
+    text_base: the national society s response capacity
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 14
+    span_number: 0
+    total_y: 5271.239440917969
+    origin_x: 71.99990844726562
+    bbox: (71.99990844726562, 208.4679412841797, 257.0623474121094, 222.2354278564453)
+    double_fontsize_int: 20
+  - index: 516
+    text: "\uF0A7"
+    text_base: ''
+    style: 'regular, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 15
+    span_number: 0
+    total_y: 5282.6993408203125
+    origin_x: 53.99998092651367
+    bbox: (53.99998092651367, 221.69210815429688, 58.584327697753906, 232.81292724609375)
+    double_fontsize_int: 20
+  - index: 517
+    text: 'The way that the information on relief was provided, i.e. preparation and proper pre-delivery distribution of '
+    text_base: the way that the information on relief was provided i e preparation and proper pre delivery distribution of
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 15
+    span_number: 1
+    total_y: 5282.6993408203125
+    origin_x: 72.00191497802734
+    bbox: (72.00191497802734, 219.92784118652344, 542.7374267578125, 233.69532775878906)
+    double_fontsize_int: 20
+  - index: 518
+    text: 'coupons (talons) to targeted beneficiaries by RCST made the project implementation smoother. Each '
+    text_base: coupons talons to targeted beneficiaries by rcst made the project implementation smoother each
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 17
+    span_number: 0
+    total_y: 5294.2193603515625
+    origin_x: 71.9998779296875
+    bbox: (71.9998779296875, 231.44786071777344, 542.7919311523438, 245.21534729003906)
+    double_fontsize_int: 20
+  - index: 519
+    text: 'coupon was issued in the name of recipient (head of family) and had the exact information on the amount '
+    text_base: coupon was issued in the name of recipient head of family and had the exact information on the amount
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 18
+    span_number: 0
+    total_y: 5305.7393798828125
+    origin_x: 71.99986267089844
+    bbox: (71.99986267089844, 242.96788024902344, 542.8082275390625, 256.7353515625)
+    double_fontsize_int: 20
+  - index: 520
+    text: 'of items to be distributed, date, time and place. This procedure allowed any misunderstandings/or '
+    text_base: of items to be distributed date time and place this procedure allowed any misunderstandings or
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 19
+    span_number: 0
+    total_y: 5317.199279785156
+    origin_x: 71.99986267089844
+    bbox: (71.99986267089844, 254.4277801513672, 542.7473754882812, 268.19525146484375)
+    double_fontsize_int: 20
+  - index: 521
+    text: 'complaints regarding non-proper distribution of items or date/time and place from the site of beneficiaries '
+    text_base: complaints regarding non proper distribution of items or date time and place from the site of beneficiaries
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 20
+    span_number: 0
+    total_y: 5328.719299316406
+    origin_x: 71.9998779296875
+    bbox: (71.9998779296875, 265.9477844238281, 542.791748046875, 279.71527099609375)
+    double_fontsize_int: 20
+  - index: 522
+    text: 'to be avoided.  '
+    text_base: to be avoided
+    style: 'arialmt, 20, #000000, nan'
+    size: 10.020000457763672
+    page_number: 6
+    block_number: 1
+    line_number: 21
+    span_number: 0
+    total_y: 5340.239318847656
+    origin_x: 71.9998779296875
+    bbox: (71.9998779296875, 277.4678039550781, 140.3362579345703, 291.23529052734375)
+    double_fontsize_int: 20
+  items:
+  - The Local Disaster Committees proved that they are the best response tool at the local level. In total, two RCST National Disaster Response teams (NDRT) and two LDCs were mobilized to extend a helping hand to the affected people. Community members and the Tajik National Society volunteers participated in distributing relief items, disseminating basic but essential messages on hygiene and disease prevention, and monitoring.
+  - "Despite some new staff in the National Society, their lack of personal experience of such emergency operations, the on-job/on-spot training showed that \u201Clearning by doing\u201D was the best way to strengthen the National Society\u2019s response capacity."
+  - The way that the information on relief was provided, i.e. preparation and proper pre-delivery distribution of coupons (talons) to targeted beneficiaries by RCST made the project implementation smoother. Each coupon was issued in the name of recipient (head of family) and had the exact information on the amount of items to be distributed, date, time and place. This procedure allowed any misunderstandings/or complaints regarding non-proper distribution of items or date/time and place from the site of beneficiaries to be avoided.

@@ -1,0 +1,1257 @@
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 9929.859802246094
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 658.082763671875, 126.14888000488281, 671.7977294921875)
+    idx: 1177
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 843
+  sector_similarity_score: 1.0
+  content:
+  - index: 1178
+    text: 'LRC has limited human resources yet has several ongoing projects. This means that all activities need to be '
+    text_base: lrc has limited human resources yet has several ongoing projects this means that all activities need to be
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 11
+    line_number: 1
+    span_number: 0
+    total_y: 9955.419799804688
+    origin_x: 46.79999923706055
+    bbox: (46.79999923706055, 683.593017578125, 551.642578125, 697.2780151367188)
+    double_fontsize_int: 20
+  - index: 1179
+    text: 'planned well in advance to fit within the timeframe of the project. The disaster management team also requires '
+    text_base: planned well in advance to fit within the timeframe of the project the disaster management team also requires
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 11
+    line_number: 2
+    span_number: 0
+    total_y: 9966.93975830078
+    origin_x: 46.79999923706055
+    bbox: (46.79999923706055, 695.1129150390625, 551.66259765625, 708.7979736328125)
+    double_fontsize_int: 20
+  - index: 1180
+    text: 'more capacity building to function as trainers.  '
+    text_base: more capacity building to function as trainers
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 11
+    line_number: 3
+    span_number: 0
+    total_y: 9978.459777832031
+    origin_x: 46.79999923706055
+    bbox: (46.79999923706055, 706.6329345703125, 253.1388702392578, 720.3179931640625)
+    double_fontsize_int: 20
+  items:
+  - LRC has limited human resources yet has several ongoing projects. This means that all activities need to be planned well in advance to fit within the timeframe of the project. The disaster management team also requires more capacity building to function as trainers.
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 12183.769744873049
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 386.2327880859375, 126.14888000488281, 399.94769287109375)
+    idx: 1417
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 1181
+  sector_similarity_score: 1.0
+  content:
+  - index: 1418
+    text: 'This EA operation has yielded several important lessons in working together which are applicable to all aspects of the '
+    text_base: this ea operation has yielded several important lessons in working together which are applicable to all aspects of the
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 12209.449737548828
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 411.86297607421875, 557.2928466796875, 425.5480041503906)
+    double_fontsize_int: 20
+  - index: 1419
+    text: 'operational plan. One of the key lessons is that, in future operations, IFRC needs to work with LRC on needs '
+    text_base: operational plan one of the key lessons is that in future operations ifrc needs to work with lrc on needs
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 12220.969757080078
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 423.38299560546875, 557.4478759765625, 437.0680236816406)
+    double_fontsize_int: 20
+  - index: 1420
+    text: 'assessments early on and that, training and capacity building of LRC (on areas detailed below) is essential for LRC '
+    text_base: assessments early on and that training and capacity building of lrc on areas detailed below is essential for lrc
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 12232.369750976562
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 434.7829895019531, 557.6174926757812, 448.468017578125)
+    double_fontsize_int: 20
+  - index: 1421
+    text: 'to deal with large recovery operations in future. IFRC is including this in its operational plan going forward. '
+    text_base: to deal with large recovery operations in future ifrc is including this in its operational plan going forward
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 5
+    span_number: 0
+    total_y: 12243.889739990234
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 446.302978515625, 512.1488647460938, 459.9880065917969)
+    double_fontsize_int: 20
+  - index: 1422
+    text: 'Some aspects of project implementation, especially cash-based interventions were new for the LRC, and it took '
+    text_base: some aspects of project implementation especially cash based interventions were new for the lrc and it took
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 7
+    span_number: 0
+    total_y: 12266.949737548828
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 469.36297607421875, 557.6840209960938, 483.0480041503906)
+    double_fontsize_int: 20
+  - index: 1423
+    text: 'additional time and effort to understand and implement by the team. LRC has gained a lot of valuable experience from '
+    text_base: additional time and effort to understand and implement by the team lrc has gained a lot of valuable experience from
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 8
+    span_number: 0
+    total_y: 12278.469757080078
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 480.88299560546875, 557.7488403320312, 494.5680236816406)
+    double_fontsize_int: 20
+  - index: 1424
+    text: 'this operation. Further support from IFRC in development of disaster response and recovery SOPS and training for '
+    text_base: this operation further support from ifrc in development of disaster response and recovery sops and training for
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 9
+    span_number: 0
+    total_y: 12289.98974609375
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 492.4029846191406, 557.258544921875, 506.0880126953125)
+    double_fontsize_int: 20
+  - index: 1425
+    text: 'staff and volunteers will help them to be better prepared to manage such disasters in future. '
+    text_base: staff and volunteers will help them to be better prepared to manage such disasters in future
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 10
+    span_number: 0
+    total_y: 12301.389770507812
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 503.8030090332031, 449.2388916015625, 517.488037109375)
+    double_fontsize_int: 20
+  - index: 1426
+    text: 'Lack of trained volunteers also hampered the operation. Implementation of all activities like beneficiary verification, '
+    text_base: lack of trained volunteers also hampered the operation implementation of all activities like beneficiary verification
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 12
+    span_number: 0
+    total_y: 12325.389770507812
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 527.802978515625, 557.5845336914062, 541.488037109375)
+    double_fontsize_int: 20
+  - index: 1427
+    text: 'assessment, distribution, and monitoring was done by Red Cross staff, which in fact, could have been done by '
+    text_base: assessment distribution and monitoring was done by red cross staff which in fact could have been done by
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 13
+    span_number: 0
+    total_y: 12337.749755859377
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 540.1629638671875, 557.709716796875, 553.8480224609375)
+    double_fontsize_int: 20
+  - index: 1428
+    text: 'volunteers. Hence, creation of a trained pool of volunteers is needed. '
+    text_base: volunteers hence creation of a trained pool of volunteers is needed
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 14
+    span_number: 0
+    total_y: 12350.229736328123
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 552.6429443359375, 349.2789001464844, 566.3280029296875)
+    double_fontsize_int: 20
+  - index: 1429
+    text: 'Having gained experience of a large recovery operation, moving forward LRC should develop further SOPs and '
+    text_base: having gained experience of a large recovery operation moving forward lrc should develop further sops and
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 16
+    span_number: 0
+    total_y: 12374.94970703125
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 577.3629150390625, 557.2273559570312, 591.0479736328125)
+    double_fontsize_int: 20
+  - index: 1430
+    text: 'conduct training at HQ and chapter level to be prepared for all eventualities. SOPs and training should focus on the '
+    text_base: conduct training at hq and chapter level to be prepared for all eventualities sops and training should focus on the
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 17
+    span_number: 0
+    total_y: 12386.4697265625
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 588.8829345703125, 557.46728515625, 602.5679931640625)
+    double_fontsize_int: 20
+  - index: 1431
+    text: 'entire process from conducting needs assessments, community engagement, planning and preparation of activities '
+    text_base: entire process from conducting needs assessments community engagement planning and preparation of activities
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 18
+    span_number: 0
+    total_y: 12397.98974609375
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 600.4029541015625, 557.1749877929688, 614.0880126953125)
+    double_fontsize_int: 20
+  - index: 1432
+    text: 'through to implementation and monitoring. The LRC team would also benefit from trainings on templates for reporting, '
+    text_base: through to implementation and monitoring the lrc team would also benefit from trainings on templates for reporting
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 19
+    span_number: 0
+    total_y: 12409.509765625
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 611.9229736328125, 557.421142578125, 625.6080322265625)
+    double_fontsize_int: 20
+  - index: 1433
+    text: 'assessments, and monitoring, helping the team to embed practices into all projects as well as disaster response and '
+    text_base: assessments and monitoring helping the team to embed practices into all projects as well as disaster response and
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 20
+    span_number: 0
+    total_y: 12421.029724121094
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 623.4429931640625, 557.4185791015625, 637.1279907226562)
+    double_fontsize_int: 20
+  - index: 1434
+    text: 'recovery operations. As a part of the process of continual improvement LRC should engage with IFRC to implement '
+    text_base: recovery operations as a part of the process of continual improvement lrc should engage with ifrc to implement
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 21
+    span_number: 0
+    total_y: 12432.429748535156
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 634.843017578125, 557.068115234375, 648.5280151367188)
+    double_fontsize_int: 20
+  - index: 1435
+    text: 'Preparedness for Effective Response (PER).  '
+    text_base: preparedness for effective response per
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 22
+    span_number: 0
+    total_y: 12443.94970703125
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 646.3629150390625, 245.2188720703125, 660.0479736328125)
+    double_fontsize_int: 20
+  - index: 1436
+    text: 'IFRC will provide procurement and logistics training and capacity building support to the LRC, to better carry out '
+    text_base: ifrc will provide procurement and logistics training and capacity building support to the lrc to better carry out
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 24
+    span_number: 0
+    total_y: 12467.019775390623
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 669.4329833984375, 557.1655883789062, 683.1180419921875)
+    double_fontsize_int: 20
+  - index: 1437
+    text: 'significant procurement of materials. IFRC and LRC have identified the technical support needed when it comes to '
+    text_base: significant procurement of materials ifrc and lrc have identified the technical support needed when it comes to
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 25
+    span_number: 0
+    total_y: 12478.53973388672
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 680.9530029296875, 557.2321166992188, 694.6380004882812)
+    double_fontsize_int: 20
+  - index: 1438
+    text: 'such large operations in Laos, to complement LRC staff and capacity and IFRC is including this in its operational plan '
+    text_base: such large operations in laos to complement lrc staff and capacity and ifrc is including this in its operational plan
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 26
+    span_number: 0
+    total_y: 12490.059753417969
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 692.4730224609375, 557.5686645507812, 706.1580200195312)
+    double_fontsize_int: 20
+  - index: 1439
+    text: 'going forward. '
+    text_base: going forward
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 27
+    span_number: 0
+    total_y: 12501.459716796877
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 703.8729248046875, 107.30888366699219, 717.5579833984375)
+    double_fontsize_int: 20
+  items:
+  - This EA operation has yielded several important lessons in working together which are applicable to all aspects of the operational plan. One of the key lessons is that, in future operations, IFRC needs to work with LRC on needs assessments early on and that, training and capacity building of LRC (on areas detailed below) is essential for LRC to deal with large recovery operations in future. IFRC is including this in its operational plan going forward.
+  - Some aspects of project implementation, especially cash-based interventions were new for the LRC, and it took additional time and effort to understand and implement by the team. LRC has gained a lot of valuable experience from this operation. Further support from IFRC in development of disaster response and recovery SOPS and training for staff and volunteers will help them to be better prepared to manage such disasters in future.
+  - Lack of trained volunteers also hampered the operation. Implementation of all activities like beneficiary verification, assessment, distribution, and monitoring was done by Red Cross staff, which in fact, could have been done by volunteers. Hence, creation of a trained pool of volunteers is needed.
+  - Having gained experience of a large recovery operation, moving forward LRC should develop further SOPs and conduct training at HQ and chapter level to be prepared for all eventualities. SOPs and training should focus on the entire process from conducting needs assessments, community engagement, planning and preparation of activities through to implementation and monitoring. The LRC team would also benefit from trainings on templates for reporting, assessments, and monitoring, helping the team to embed practices into all projects as well as disaster response and recovery operations. As a part of the process of continual improvement LRC should engage with IFRC to implement Preparedness for Effective Response (PER).
+  - IFRC will provide procurement and logistics training and capacity building support to the LRC, to better carry out significant procurement of materials. IFRC and LRC have identified the technical support needed when it comes to such large operations in Laos, to complement LRC staff and capacity and IFRC is including this in its operational plan going forward.
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 14472.49969482422
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 149.20278930664062, 126.14888000488281, 162.91770935058594)
+    idx: 1597
+  sector_title: Livelihoods
+  sector_idx: 1440
+  sector_similarity_score: 1.0
+  content:
+  - index: 1598
+    text: 'Cash based interventions were new for the NS, and it took additional time and effort to understand and implement by '
+    text_base: cash based interventions were new for the ns and it took additional time and effort to understand and implement by
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 14498.059692382812
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 174.71298217773438, 557.4454956054688, 188.3980255126953)
+    double_fontsize_int: 20
+  - index: 1599
+    text: 'the NS team. LRC has gained a lot of valuable experience from this operation. Further support from IFRC in '
+    text_base: the ns team lrc has gained a lot of valuable experience from this operation further support from ifrc in
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 3
+    span_number: 0
+    total_y: 14509.579711914062
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 186.23300170898438, 557.6022338867188, 199.9180450439453)
+    double_fontsize_int: 20
+  - index: 1600
+    text: 'development of disaster response and recovery SOPS and training for staff and volunteers will help them to be better '
+    text_base: development of disaster response and recovery sops and training for staff and volunteers will help them to be better
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 4
+    span_number: 0
+    total_y: 14521.099670410156
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 197.75296020507812, 557.5350952148438, 211.43800354003906)
+    double_fontsize_int: 20
+  - index: 1601
+    text: 'prepared to manage such disasters in future. '
+    text_base: prepared to manage such disasters in future
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 5
+    span_number: 0
+    total_y: 14532.619689941406
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 209.27297973632812, 242.45887756347656, 222.95802307128906)
+    double_fontsize_int: 20
+  - index: 1602
+    text: 'From the experience of implementing a conditional cash programme, LRC is now more confident of implementing a '
+    text_base: from the experience of implementing a conditional cash programme lrc is now more confident of implementing a
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 7
+    span_number: 0
+    total_y: 14556.49969482422
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 233.15298461914062, 557.7053833007812, 246.83802795410156)
+    double_fontsize_int: 20
+  - index: 1603
+    text: 'cash based programme that provides target households with more options in deciding what is best for them with the '
+    text_base: cash based programme that provides target households with more options in deciding what is best for them with the
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 8
+    span_number: 0
+    total_y: 14568.85968017578
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 245.51296997070312, 557.60595703125, 259.197998046875)
+    double_fontsize_int: 20
+  - index: 1604
+    text: 'flexibility to receive support based on a proposal that shows how the cash will be utilized to restart or build household '
+    text_base: flexibility to receive support based on a proposal that shows how the cash will be utilized to restart or build household
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 9
+    span_number: 0
+    total_y: 14581.339721679688
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 257.9930114746094, 557.6334228515625, 271.67803955078125)
+    double_fontsize_int: 20
+  - index: 1605
+    text: 'livelihoods. '
+    text_base: livelihoods
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 10
+    span_number: 0
+    total_y: 14593.69970703125
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 270.3529968261719, 93.39288330078125, 284.03802490234375)
+    double_fontsize_int: 20
+  - index: 1606
+    text: 'Lack of trained volunteers also hampered the operation. Implementation of all activities like beneficiary verification, '
+    text_base: lack of trained volunteers also hampered the operation implementation of all activities like beneficiary verification
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 12
+    span_number: 0
+    total_y: 14618.569702148438
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 295.2229919433594, 557.0780639648438, 308.90802001953125)
+    double_fontsize_int: 20
+  - index: 1607
+    text: 'assessment, distribution and monitoring was done by Red Cross staff, which in fact, could have been done by '
+    text_base: assessment distribution and monitoring was done by red cross staff which in fact could have been done by
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 13
+    span_number: 0
+    total_y: 14630.9296875
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 307.5829772949219, 557.6268310546875, 321.26800537109375)
+    double_fontsize_int: 20
+  - index: 1608
+    text: 'volunteers. Hence, creation of a trained pool of volunteers is needed. '
+    text_base: volunteers hence creation of a trained pool of volunteers is needed
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 14
+    span_number: 0
+    total_y: 14643.409698486328
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 320.06298828125, 349.2789001464844, 333.7480163574219)
+    double_fontsize_int: 20
+  - index: 1609
+    text: 'Having gained experience of a large recovery operation, moving forward LRC should develop further SOPs and '
+    text_base: having gained experience of a large recovery operation moving forward lrc should develop further sops and
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 16
+    span_number: 0
+    total_y: 14668.24969482422
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 344.9029846191406, 557.2273559570312, 358.5880126953125)
+    double_fontsize_int: 20
+  - index: 1610
+    text: 'conduct training at HQ and chapter level to be prepared for all eventualities. SOPs and training should focus on the '
+    text_base: conduct training at hq and chapter level to be prepared for all eventualities sops and training should focus on the
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 17
+    span_number: 0
+    total_y: 14679.649688720703
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 356.302978515625, 557.6690673828125, 369.9880065917969)
+    double_fontsize_int: 20
+  - index: 1611
+    text: 'entire process from conducting needs assessments, community engagement, planning and preparation of activities '
+    text_base: entire process from conducting needs assessments community engagement planning and preparation of activities
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 18
+    span_number: 0
+    total_y: 14691.169677734377
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 367.8229675292969, 557.1278686523438, 381.50799560546875)
+    double_fontsize_int: 20
+  - index: 1612
+    text: 'through to implementation and monitoring. The LRC team would also benefit from trainings on templates for reporting, '
+    text_base: through to implementation and monitoring the lrc team would also benefit from trainings on templates for reporting
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 19
+    span_number: 0
+    total_y: 14702.689697265623
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 379.3429870605469, 557.421142578125, 393.02801513671875)
+    double_fontsize_int: 20
+  - index: 1613
+    text: 'assessments and monitoring, helping the team to embed practices into all projects as well as disaster response and '
+    text_base: assessments and monitoring helping the team to embed practices into all projects as well as disaster response and
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 20
+    span_number: 0
+    total_y: 14714.209686279297
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 390.86297607421875, 557.1124877929688, 404.5480041503906)
+    double_fontsize_int: 20
+  - index: 1614
+    text: 'recovery operations. As a part of the process of continual improvement LRC should engage with IFRC to implement '
+    text_base: recovery operations as a part of the process of continual improvement lrc should engage with ifrc to implement
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 21
+    span_number: 0
+    total_y: 14725.729705810549
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 402.38299560546875, 557.068115234375, 416.0680236816406)
+    double_fontsize_int: 20
+  - index: 1615
+    text: 'Preparedness for Effective Response (PER).  '
+    text_base: preparedness for effective response per
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 3
+    line_number: 22
+    span_number: 0
+    total_y: 14737.129699707031
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 413.7829895019531, 245.2188720703125, 427.468017578125)
+    double_fontsize_int: 20
+  items:
+  - Cash based interventions were new for the NS, and it took additional time and effort to understand and implement by the NS team. LRC has gained a lot of valuable experience from this operation. Further support from IFRC in development of disaster response and recovery SOPS and training for staff and volunteers will help them to be better prepared to manage such disasters in future.
+  - From the experience of implementing a conditional cash programme, LRC is now more confident of implementing a cash based programme that provides target households with more options in deciding what is best for them with the flexibility to receive support based on a proposal that shows how the cash will be utilized to restart or build household livelihoods.
+  - Lack of trained volunteers also hampered the operation. Implementation of all activities like beneficiary verification, assessment, distribution and monitoring was done by Red Cross staff, which in fact, could have been done by volunteers. Hence, creation of a trained pool of volunteers is needed.
+  - Having gained experience of a large recovery operation, moving forward LRC should develop further SOPs and conduct training at HQ and chapter level to be prepared for all eventualities. SOPs and training should focus on the entire process from conducting needs assessments, community engagement, planning and preparation of activities through to implementation and monitoring. The LRC team would also benefit from trainings on templates for reporting, assessments and monitoring, helping the team to embed practices into all projects as well as disaster response and recovery operations. As a part of the process of continual improvement LRC should engage with IFRC to implement Preparedness for Effective Response (PER).
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 25
+    line_number: 17
+    span_number: 0
+    total_y: 15816.819702148438
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 651.602783203125, 126.14888000488281, 665.3177490234375)
+    idx: 1756
+  sector_title: Health and Care
+  sector_idx: 1616
+  sector_similarity_score: 1.0
+  content:
+  - index: 1757
+    text: 'There is a requirement for LRC to have more trained personnel and volunteers that can be deployed to support a '
+    text_base: there is a requirement for lrc to have more trained personnel and volunteers that can be deployed to support a
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 25
+    line_number: 19
+    span_number: 0
+    total_y: 15842.49969482422
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 677.2330322265625, 557.6129760742188, 690.9180297851562)
+    double_fontsize_int: 20
+  - index: 1758
+    text: 'disaster response or recovery operation, rather than relying on ad-hoc community based volunteers with little or no '
+    text_base: disaster response or recovery operation rather than relying on ad hoc community based volunteers with little or no
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 25
+    line_number: 20
+    span_number: 0
+    total_y: 15853.899658203123
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 688.6329345703125, 557.681640625, 702.3179931640625)
+    double_fontsize_int: 20
+  - index: 1759
+    text: 'training or experience. '
+    text_base: training or experience
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 25
+    line_number: 21
+    span_number: 0
+    total_y: 15865.419677734377
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 700.1529541015625, 142.94886779785156, 713.8380126953125)
+    double_fontsize_int: 20
+  - index: 1760
+    text: 'Further work is required to edit and adapt the health training packages and promotion guidelines to the Laos context '
+    text_base: further work is required to edit and adapt the health training packages and promotion guidelines to the laos context
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 25
+    line_number: 23
+    span_number: 0
+    total_y: 15888.45965576172
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 723.1929931640625, 557.9037475585938, 736.8779907226562)
+    double_fontsize_int: 20
+  - index: 1761
+    text: and capacities of staff and volunteers. The LRC health team also needs to set participant criteria for health and first-
+    text_base: and capacities of staff and volunteers the lrc health team also needs to set participant criteria for health and first
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 25
+    line_number: 24
+    span_number: 0
+    total_y: 15899.975708007812
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 734.708984375, 555.1766357421875, 748.39404296875)
+    double_fontsize_int: 20
+  - index: 1762
+    text: 'aid trainings based on experience and existing capacity. '
+    text_base: aid trainings based on experience and existing capacity
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 25
+    line_number: 25
+    span_number: 0
+    total_y: 15911.495666503906
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 746.22900390625, 291.8988952636719, 759.9140014648438)
+    double_fontsize_int: 20
+  - index: 1763
+    text: 'After trainings there is a need for HQ and chapters to monitor and conduct refresher training of staff and volunteers '
+    text_base: after trainings there is a need for hq and chapters to monitor and conduct refresher training of staff and volunteers
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 19
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 16054.31964111328
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 47.132965087890625, 557.9434814453125, 60.8180046081543)
+    double_fontsize_int: 20
+  - index: 1764
+    text: 'on an annual basis. In addition, the First Aid kits provided to volunteers, communities and schools needs to be checked '
+    text_base: on an annual basis in addition the first aid kits provided to volunteers communities and schools needs to be checked
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 19
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 16065.839660644531
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 58.652984619140625, 557.9447021484375, 72.33802795410156)
+    double_fontsize_int: 20
+  - index: 1765
+    text: 'every three to six months to ensure they are properly stocked and useable. '
+    text_base: every three to six months to ensure they are properly stocked and useable
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 19
+    block_number: 2
+    line_number: 2
+    span_number: 0
+    total_y: 16077.35968017578
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 70.17300415039062, 375.3188781738281, 83.85804748535156)
+    double_fontsize_int: 20
+  items:
+  - There is a requirement for LRC to have more trained personnel and volunteers that can be deployed to support a disaster response or recovery operation, rather than relying on ad-hoc community based volunteers with little or no training or experience.
+  - Further work is required to edit and adapt the health training packages and promotion guidelines to the Laos context and capacities of staff and volunteers. The LRC health team also needs to set participant criteria for health and first- aid trainings based on experience and existing capacity.
+  - After trainings there is a need for HQ and chapters to monitor and conduct refresher training of staff and volunteers on an annual basis. In addition, the First Aid kits provided to volunteers, communities and schools needs to be checked every three to six months to ensure they are properly stocked and useable.
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 21
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 17999.56964111328
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 308.5928039550781, 126.14888000488281, 322.3077087402344)
+    idx: 1946
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 1766
+  sector_similarity_score: 1.0
+  content:
+  - index: 1947
+    text: 'There should be a focus on increasing volunteer engagement and training. Hence, the maintenance of water '
+    text_base: there should be a focus on increasing volunteer engagement and training hence the maintenance of water
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 21
+    block_number: 4
+    line_number: 6
+    span_number: 0
+    total_y: 18025.249633789062
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 334.2229919433594, 557.7206420898438, 347.90802001953125)
+    double_fontsize_int: 20
+  - index: 1948
+    text: "purification units and training of volunteers for their upkeep needs to be factored into the regular budget of LRC\u2019s "
+    text_base: purification units and training of volunteers for their upkeep needs to be factored into the regular budget of lrc s
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 21
+    block_number: 4
+    line_number: 7
+    span_number: 0
+    total_y: 18036.76962280273
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 345.74298095703125, 557.2608032226562, 359.4280090332031)
+    double_fontsize_int: 20
+  - index: 1949
+    text: 'operations. This will enable them to remain ready for deployment in case of any emergency.  '
+    text_base: operations this will enable them to remain ready for deployment in case of any emergency
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 21
+    block_number: 4
+    line_number: 8
+    span_number: 0
+    total_y: 18048.289611816406
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 357.2629699707031, 453.0788879394531, 370.947998046875)
+    double_fontsize_int: 20
+  - index: 1950
+    text: 'It will be beneficial for LRC HQ and chapters to improve coordination of WASH personnel to maintain good flow of '
+    text_base: it will be beneficial for lrc hq and chapters to improve coordination of wash personnel to maintain good flow of
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 21
+    block_number: 4
+    line_number: 10
+    span_number: 0
+    total_y: 18071.20962524414
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 380.1829833984375, 557.7488403320312, 393.8680114746094)
+    double_fontsize_int: 20
+  - index: 1951
+    text: 'information and coordination. Contingency planning at HQ and chapters should be included in annual planning in '
+    text_base: information and coordination contingency planning at hq and chapters should be included in annual planning in
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 21
+    block_number: 4
+    line_number: 11
+    span_number: 0
+    total_y: 18082.72961425781
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 391.7029724121094, 557.2891845703125, 405.38800048828125)
+    double_fontsize_int: 20
+  - index: 1952
+    text: 'order to be prepared for potential disaster response requirements. '
+    text_base: order to be prepared for potential disaster response requirements
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 21
+    block_number: 4
+    line_number: 12
+    span_number: 0
+    total_y: 18094.249633789062
+    origin_x: 41.15999984741211
+    bbox: (41.15999984741211, 403.2229919433594, 335.6988830566406, 416.90802001953125)
+    double_fontsize_int: 20
+  items:
+  - "There should be a focus on increasing volunteer engagement and training. Hence, the maintenance of water purification units and training of volunteers for their upkeep needs to be factored into the regular budget of LRC\u2019s operations. This will enable them to remain ready for deployment in case of any emergency."
+  - It will be beneficial for LRC HQ and chapters to improve coordination of WASH personnel to maintain good flow of information and coordination. Contingency planning at HQ and chapters should be included in annual planning in order to be prepared for potential disaster response requirements.
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 19561.219604492188
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 186.40280151367188, 126.38888549804688, 200.1177215576172)
+    idx: 2065
+  sector_title: Protection, Gender and Inclusion
+  sector_idx: 1953
+  sector_similarity_score: 1.0
+  content:
+  - index: 2066
+    text: 'As PGI and SGBV are technical areas in which it is possible to create further harm in communities, it is important to '
+    text_base: as pgi and sgbv are technical areas in which it is possible to create further harm in communities it is important to
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 19587.73956298828
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 212.87295532226562, 557.3380737304688, 226.55799865722656)
+    double_fontsize_int: 20
+  - index: 2067
+    text: 'have adequately trained staff and volunteers. This makes having a proficient translator during community events and '
+    text_base: have adequately trained staff and volunteers this makes having a proficient translator during community events and
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 3
+    line_number: 3
+    span_number: 0
+    total_y: 19600.219604492188
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 225.35299682617188, 557.35791015625, 239.0380401611328)
+    double_fontsize_int: 20
+  - index: 2068
+    text: 'trainings necessary, and PGI should be prioritized in this regard.  '
+    text_base: trainings necessary and pgi should be prioritized in this regard
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 3
+    line_number: 4
+    span_number: 0
+    total_y: 19612.57958984375
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 237.71298217773438, 331.0188903808594, 251.3980255126953)
+    double_fontsize_int: 20
+  - index: 2069
+    text: 'Early inclusion of PGI staff and focal points in the planning periods are necessary for sufficient mainstreaming. This '
+    text_base: early inclusion of pgi staff and focal points in the planning periods are necessary for sufficient mainstreaming this
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 3
+    line_number: 6
+    span_number: 0
+    total_y: 19637.41961669922
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 262.5530090332031, 557.8167724609375, 276.238037109375)
+    double_fontsize_int: 20
+  - index: 2070
+    text: 'was done in the early planning period with LRC, but it was more of a coincidence than a planned event. '
+    text_base: was done in the early planning period with lrc but it was more of a coincidence than a planned event
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 3
+    line_number: 7
+    span_number: 0
+    total_y: 19649.8095703125
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 274.9429626464844, 500.7489013671875, 288.62799072265625)
+    double_fontsize_int: 20
+  - index: 2071
+    text: 'A situation where additional trained staff could be allocated to support the PGI work would be required in future '
+    text_base: a situation where additional trained staff could be allocated to support the pgi work would be required in future
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 3
+    line_number: 9
+    span_number: 0
+    total_y: 19674.64959716797
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 299.7829895019531, 557.337890625, 313.468017578125)
+    double_fontsize_int: 20
+  - index: 2072
+    text: 'disaster response work with LRC in order to ensure better overall program quality and to ensure that there are less '
+    text_base: disaster response work with lrc in order to ensure better overall program quality and to ensure that there are less
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 3
+    line_number: 10
+    span_number: 0
+    total_y: 19687.00958251953
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 312.1429748535156, 557.9029541015625, 325.8280029296875)
+    double_fontsize_int: 20
+  - index: 2073
+    text: 'disruptions in planned activities.  '
+    text_base: disruptions in planned activities
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 3
+    line_number: 11
+    span_number: 0
+    total_y: 19699.48959350586
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 324.62298583984375, 188.18887329101562, 338.3080139160156)
+    double_fontsize_int: 20
+  items:
+  - As PGI and SGBV are technical areas in which it is possible to create further harm in communities, it is important to have adequately trained staff and volunteers. This makes having a proficient translator during community events and trainings necessary, and PGI should be prioritized in this regard.
+  - Early inclusion of PGI staff and focal points in the planning periods are necessary for sufficient mainstreaming. This was done in the early planning period with LRC, but it was more of a coincidence than a planned event.
+  - A situation where additional trained staff could be allocated to support the PGI work would be required in future disaster response work with LRC in order to ensure better overall program quality and to ensure that there are less disruptions in planned activities.
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 26
+    line_number: 0
+    span_number: 0
+    total_y: 20875.65954589844
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 658.9227294921875, 126.38888549804688, 672.6376953125)
+    idx: 2189
+  sector_title: Strategies for implementation
+  sector_idx: 2074
+  sector_similarity_score: 1.0
+  content:
+  - index: 2190
+    text: 'As mentioned earlier in this report, the EA operation has yielded several important lessons in working together '
+    text_base: as mentioned earlier in this report the ea operation has yielded several important lessons in working together
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 27
+    line_number: 1
+    span_number: 0
+    total_y: 20901.33959960937
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 684.552978515625, 557.3359985351562, 698.238037109375)
+    double_fontsize_int: 20
+  - index: 2191
+    text: 'which are mainly related to technical and managerial capacity building of LRC. Accordingly, IFRC has planned '
+    text_base: which are mainly related to technical and managerial capacity building of lrc accordingly ifrc has planned
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 27
+    line_number: 2
+    span_number: 0
+    total_y: 20912.85955810547
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 696.072998046875, 557.6780395507812, 709.7579956054688)
+    double_fontsize_int: 20
+  - index: 2192
+    text: 'for the National Society enhancement activities mentioned above and is incorporating all the lessons learnt in its '
+    text_base: for the national society enhancement activities mentioned above and is incorporating all the lessons learnt in its
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 27
+    line_number: 3
+    span_number: 0
+    total_y: 20924.25958251953
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 707.4730224609375, 557.7161254882812, 721.1580200195312)
+    double_fontsize_int: 20
+  - index: 2193
+    text: 'operational plan going forward. '
+    text_base: operational plan going forward
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 27
+    line_number: 4
+    span_number: 0
+    total_y: 20935.779541015625
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 718.992919921875, 199.58888244628906, 732.677978515625)
+    double_fontsize_int: 20
+  items:
+  - As mentioned earlier in this report, the EA operation has yielded several important lessons in working together which are mainly related to technical and managerial capacity building of LRC. Accordingly, IFRC has planned for the National Society enhancement activities mentioned above and is incorporating all the lessons learnt in its operational plan going forward.
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 26
+    block_number: 17
+    line_number: 9
+    span_number: 0
+    total_y: 22518.06951904297
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 617.4927368164062, 126.38888549804688, 631.2077026367188)
+    idx: 2340
+  sector_title: Strategies for implementation
+  sector_idx: 2074
+  sector_similarity_score: 1.0
+  content:
+  - index: 2341
+    text: 'LRC would benefit from having further development of logistics and procurement management SOPs and training at '
+    text_base: lrc would benefit from having further development of logistics and procurement management sops and training at
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 26
+    block_number: 17
+    line_number: 11
+    span_number: 0
+    total_y: 22543.62951660156
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 643.0029296875, 557.1587524414062, 656.68798828125)
+    double_fontsize_int: 20
+  - index: 2342
+    text: 'HQ and chapter level.  '
+    text_base: hq and chapter level
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 26
+    block_number: 17
+    line_number: 12
+    span_number: 0
+    total_y: 22555.179565429688
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 654.552978515625, 143.6688690185547, 668.238037109375)
+    double_fontsize_int: 20
+  - index: 2343
+    text: 'LRC should consider creating the position of logistics manager to guide LRC logistics and procurement processes to '
+    text_base: lrc should consider creating the position of logistics manager to guide lrc logistics and procurement processes to
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 26
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 22578.21954345703
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 677.593017578125, 557.7219848632812, 691.2780151367188)
+    double_fontsize_int: 20
+  - index: 2344
+    text: 'avoid delays in future operations. '
+    text_base: avoid delays in future operations
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 26
+    block_number: 19
+    line_number: 1
+    span_number: 0
+    total_y: 22589.619506835938
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 688.992919921875, 191.06887817382812, 702.677978515625)
+    double_fontsize_int: 20
+  items:
+  - LRC would benefit from having further development of logistics and procurement management SOPs and training at HQ and chapter level.
+  - LRC should consider creating the position of logistics manager to guide LRC logistics and procurement processes to avoid delays in future operations.
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 30
+    line_number: 0
+    span_number: 0
+    total_y: 23451.21954345703
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 708.7227783203125, 126.38888549804688, 722.437744140625)
+    idx: 2430
+  sector_title: Strategies for implementation
+  sector_idx: 2074
+  sector_similarity_score: 1.0
+  content:
+  - index: 2431
+    text: 'The experience of their first EA operation has been valuable to LRC, and through strong technical support from '
+    text_base: the experience of their first ea operation has been valuable to lrc and through strong technical support from
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 30
+    line_number: 2
+    span_number: 0
+    total_y: 23476.8955078125
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 734.3489990234375, 534.0216064453125, 748.0339965820312)
+    double_fontsize_int: 20
+  - index: 2432
+    text: 'IFRC the capacity for implementation of large recovery programmes has improved. '
+    text_base: ifrc the capacity for implementation of large recovery programmes has improved
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 30
+    line_number: 3
+    span_number: 0
+    total_y: 23488.29553222656
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 745.7490234375, 410.4788818359375, 759.4340209960938)
+    double_fontsize_int: 20
+  - index: 2433
+    text: 'The experience of implementing conditional cash based programme was new for LRC. The guidelines and SOPs '
+    text_base: the experience of implementing conditional cash based programme was new for lrc the guidelines and sops
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 30
+    line_number: 5
+    span_number: 0
+    total_y: 23511.335510253903
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 768.7889404296875, 542.7337646484375, 782.4739990234375)
+    double_fontsize_int: 20
+  - index: 2434
+    text: 'developed for this program can be used to support affected communities in the future. '
+    text_base: developed for this program can be used to support affected communities in the future
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 30
+    line_number: 6
+    span_number: 0
+    total_y: 23522.85552978516
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 780.3089599609375, 423.43890380859375, 793.9940185546875)
+    double_fontsize_int: 20
+  items:
+  - The experience of their first EA operation has been valuable to LRC, and through strong technical support from IFRC the capacity for implementation of large recovery programmes has improved.
+  - The experience of implementing conditional cash based programme was new for LRC. The guidelines and SOPs developed for this program can be used to support affected communities in the future.
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 28
+    block_number: 18
+    line_number: 0
+    span_number: 0
+    total_y: 24004.489501953125
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 420.0727844238281, 126.38888549804688, 433.7876892089844)
+    idx: 2474
+  sector_title: Strategies for implementation
+  sector_idx: 2074
+  sector_similarity_score: 1.0
+  content:
+  - index: 2475
+    text: 'By undertaking large conditional cash programme to support affected communities, LRC learnt a new modality of '
+    text_base: by undertaking large conditional cash programme to support affected communities lrc learnt a new modality of
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 28
+    block_number: 19
+    line_number: 1
+    span_number: 0
+    total_y: 24030.169494628903
+    origin_x: 57.2400016784668
+    bbox: (57.2400016784668, 445.7029724121094, 557.5957641601562, 459.38800048828125)
+    double_fontsize_int: 20
+  - index: 2476
+    text: 'program implementation, and have developed capacity at the HQ and chapter level to implement such projects in '
+    text_base: program implementation and have developed capacity at the hq and chapter level to implement such projects in
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 28
+    block_number: 19
+    line_number: 2
+    span_number: 0
+    total_y: 24041.68951416016
+    origin_x: 57.2400016784668
+    bbox: (57.2400016784668, 457.2229919433594, 557.7376098632812, 470.90802001953125)
+    double_fontsize_int: 20
+  - index: 2477
+    text: 'future. '
+    text_base: future
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 28
+    block_number: 19
+    line_number: 3
+    span_number: 0
+    total_y: 24053.2294921875
+    origin_x: 57.2400016784668
+    bbox: (57.2400016784668, 468.7629699707031, 88.3528823852539, 482.447998046875)
+    double_fontsize_int: 20
+  items:
+  - By undertaking large conditional cash programme to support affected communities, LRC learnt a new modality of program implementation, and have developed capacity at the HQ and chapter level to implement such projects in future.

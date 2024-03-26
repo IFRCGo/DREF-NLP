@@ -1,0 +1,273 @@
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 25
+    span_number: 0
+    total_y: 2987.858703613281
+    origin_x: 44.487701416015625
+    bbox: (44.487701416015625, 451.4415588378906, 103.89910125732422, 465.1564636230469)
+    idx: 338
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 297
+  sector_similarity_score: 1.0
+  content:
+  - index: 339
+    text: 'Having responded to several emergencies related to floods, there is a need to support communities to construct '
+    text_base: having responded to several emergencies related to floods there is a need to support communities to construct
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 26
+    span_number: 0
+    total_y: 2999.501953125
+    origin_x: 44.487701416015625
+    bbox: (44.487701416015625, 463.0350036621094, 551.1629028320312, 476.72003173828125)
+    double_fontsize_int: 20
+  - index: 340
+    text: 'houses that are more resistant to floods as a lasting solution.  This will ensure appropriate living conditions as a '
+    text_base: houses that are more resistant to floods as a lasting solution this will ensure appropriate living conditions as a
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 27
+    span_number: 0
+    total_y: 3010.9061584472656
+    origin_x: 44.487701416015625
+    bbox: (44.487701416015625, 474.439208984375, 551.3222045898438, 488.1242370605469)
+    double_fontsize_int: 20
+  - index: 341
+    text: 'way to minimize vulnerability among those already vulnerable, and aiming to reduce risks for severe damage by '
+    text_base: way to minimize vulnerability among those already vulnerable and aiming to reduce risks for severe damage by
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 28
+    span_number: 0
+    total_y: 3022.4298706054688
+    origin_x: 44.48773193359375
+    bbox: (44.48773193359375, 485.9629211425781, 551.1729736328125, 499.64794921875)
+    double_fontsize_int: 20
+  - index: 342
+    text: 'simple yet innovative infrastructural techniques of raising foundations while using traditional construction material '
+    text_base: simple yet innovative infrastructural techniques of raising foundations while using traditional construction material
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 29
+    span_number: 0
+    total_y: 3033.953582763672
+    origin_x: 44.48773193359375
+    bbox: (44.48773193359375, 497.48663330078125, 551.262451171875, 511.1716613769531)
+    double_fontsize_int: 20
+  - index: 343
+    text: 'and architecture. The National Society is looking into supporting these populations whose homesteads have been '
+    text_base: and architecture the national society is looking into supporting these populations whose homesteads have been
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 30
+    span_number: 0
+    total_y: 3045.477294921875
+    origin_x: 44.48773193359375
+    bbox: (44.48773193359375, 509.0103454589844, 551.24267578125, 522.6953735351562)
+    double_fontsize_int: 20
+  - index: 344
+    text: 'damaged and do not have the resources to rebuild them. In total about 350 households were identified in '
+    text_base: damaged and do not have the resources to rebuild them in total about 350 households were identified in
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 31
+    span_number: 0
+    total_y: 3057.001037597656
+    origin_x: 44.48773956298828
+    bbox: (44.48773956298828, 520.5340576171875, 551.3223266601562, 534.2191162109375)
+    double_fontsize_int: 20
+  - index: 345
+    text: 'collaboration with the regional councils in the seven flood affected regions and only 70 households could be '
+    text_base: collaboration with the regional councils in the seven flood affected regions and only 70 households could be
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 32
+    span_number: 0
+    total_y: 3068.405212402344
+    origin_x: 44.48773193359375
+    bbox: (44.48773193359375, 531.938232421875, 551.2724609375, 545.623291015625)
+    double_fontsize_int: 20
+  - index: 346
+    text: 'supported in this programme. The aim is to reduce the number of people relocating every year due to poor '
+    text_base: supported in this programme the aim is to reduce the number of people relocating every year due to poor
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 33
+    span_number: 0
+    total_y: 3079.9288940429688
+    origin_x: 44.48773193359375
+    bbox: (44.48773193359375, 543.4619140625, 551.3421020507812, 557.14697265625)
+    double_fontsize_int: 20
+  - index: 347
+    text: 'housing. Similarly, some of these identified needs for shelter and initiatives related to living with floods will be '
+    text_base: housing similarly some of these identified needs for shelter and initiatives related to living with floods will be
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 34
+    span_number: 0
+    total_y: 3091.45263671875
+    origin_x: 44.48776245117188
+    bbox: (44.487762451171875, 554.9857177734375, 551.3323974609375, 568.6707153320312)
+    double_fontsize_int: 20
+  - index: 348
+    text: 'addressed through the Zambezi River Basin Initiative (ZRBI) programme in the Caprivi region. '
+    text_base: addressed through the zambezi river basin initiative zrbi programme in the caprivi region
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 35
+    span_number: 0
+    total_y: 3102.9763793945312
+    origin_x: 44.48776245117188
+    bbox: (44.487762451171875, 566.5093994140625, 462.210205078125, 580.1944580078125)
+    double_fontsize_int: 20
+  items:
+  - Having responded to several emergencies related to floods, there is a need to support communities to construct houses that are more resistant to floods as a lasting solution. This will ensure appropriate living conditions as a way to minimize vulnerability among those already vulnerable, and aiming to reduce risks for severe damage by simple yet innovative infrastructural techniques of raising foundations while using traditional construction material and architecture. The National Society is looking into supporting these populations whose homesteads have been damaged and do not have the resources to rebuild them. In total about 350 households were identified in collaboration with the regional councils in the seven flood affected regions and only 70 households could be supported in this programme. The aim is to reduce the number of people relocating every year due to poor housing. Similarly, some of these identified needs for shelter and initiatives related to living with floods will be addressed through the Zambezi River Basin Initiative (ZRBI) programme in the Caprivi region.
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 11
+    line_number: 3
+    span_number: 0
+    total_y: 4647.800109863281
+    origin_x: 44.51998901367188
+    bbox: (44.519989013671875, 427.5429992675781, 103.92143249511719, 441.2579040527344)
+    idx: 532
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 426
+  sector_similarity_score: 1.0
+  content:
+  - index: 533
+    text: 'Although the communities have returned back to their respective homesteads, there is a need to continue with '
+    text_base: although the communities have returned back to their respective homesteads there is a need to continue with
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 11
+    line_number: 4
+    span_number: 0
+    total_y: 4659.443359375
+    origin_x: 44.510032653808594
+    bbox: (44.510032653808594, 439.1364440917969, 551.2451171875, 452.82147216796875)
+    double_fontsize_int: 20
+  - index: 534
+    text: 'hygiene promotion due to poor sanitation in many villages.  This will reduce the risk to water borne diseases in '
+    text_base: hygiene promotion due to poor sanitation in many villages this will reduce the risk to water borne diseases in
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 11
+    line_number: 5
+    span_number: 0
+    total_y: 4670.847564697266
+    origin_x: 44.510032653808594
+    bbox: (44.510032653808594, 450.5406494140625, 551.284912109375, 464.2256774902344)
+    double_fontsize_int: 20
+  - index: 535
+    text: 'these villages. The other situation is that, there have been a lot of contaminations of water sources this year '
+    text_base: these villages the other situation is that there have been a lot of contaminations of water sources this year
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 11
+    line_number: 6
+    span_number: 0
+    total_y: 4682.371276855469
+    origin_x: 44.510040283203125
+    bbox: (44.510040283203125, 462.0643615722656, 551.3048095703125, 475.7493896484375)
+    double_fontsize_int: 20
+  - index: 536
+    text: 'therefore the communities have to be supplied with sufficient water markers to reduce the risks towards water '
+    text_base: therefore the communities have to be supplied with sufficient water markers to reduce the risks towards water
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 11
+    line_number: 7
+    span_number: 0
+    total_y: 4693.894989013672
+    origin_x: 44.510040283203125
+    bbox: (44.510040283203125, 473.58807373046875, 551.3843383789062, 487.2731018066406)
+    double_fontsize_int: 20
+  - index: 537
+    text: 'born disease.  '
+    text_base: born disease
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 11
+    line_number: 8
+    span_number: 0
+    total_y: 4705.418701171875
+    origin_x: 44.510040283203125
+    bbox: (44.510040283203125, 485.1117858886719, 110.15641021728516, 498.79681396484375)
+    double_fontsize_int: 20
+  - index: 538
+    text: 'Due to the outbreak of cholera  that was in Angola, the Society continues to conduct hygiene promotion and also '
+    text_base: due to the outbreak of cholera that was in angola the society continues to conduct hygiene promotion and also
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 11
+    line_number: 10
+    span_number: 0
+    total_y: 4728.466125488281
+    origin_x: 44.51004409790039
+    bbox: (44.51004409790039, 508.1592102050781, 551.304931640625, 521.84423828125)
+    double_fontsize_int: 20
+  - index: 539
+    text: 'conducting disease surveillance through the volunteers in an attempt to contain the diseases in case of any '
+    text_base: conducting disease surveillance through the volunteers in an attempt to contain the diseases in case of any
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 11
+    line_number: 11
+    span_number: 0
+    total_y: 4739.870300292969
+    origin_x: 44.51007080078125
+    bbox: (44.51007080078125, 519.5633544921875, 551.404296875, 533.2484130859375)
+    double_fontsize_int: 20
+  - index: 540
+    text: 'outbreak. '
+    text_base: outbreak
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 11
+    line_number: 12
+    span_number: 0
+    total_y: 4751.39404296875
+    origin_x: 44.52001953125
+    bbox: (44.52001953125, 531.087158203125, 89.05117797851562, 544.7721557617188)
+    double_fontsize_int: 20
+  items:
+  - Although the communities have returned back to their respective homesteads, there is a need to continue with hygiene promotion due to poor sanitation in many villages. This will reduce the risk to water borne diseases in these villages. The other situation is that, there have been a lot of contaminations of water sources this year therefore the communities have to be supplied with sufficient water markers to reduce the risks towards water born disease.
+  - Due to the outbreak of cholera that was in Angola, the Society continues to conduct hygiene promotion and also conducting disease surveillance through the volunteers in an attempt to contain the diseases in case of any outbreak.

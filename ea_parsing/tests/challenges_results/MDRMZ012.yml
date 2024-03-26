@@ -1,0 +1,341 @@
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #f2f2f2'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 5285.639892578125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 223.41299438476562, 102.09918212890625, 237.09803771972656)
+    idx: 351
+  sector_title: Quality Programming
+  sector_idx: 295
+  sector_similarity_score: 1.0
+  content:
+  - index: 352
+    text: ' No major challenges that are worth reporting that can be noted at this juncture.  '
+    text_base: no major challenges that are worth reporting that can be noted at this juncture
+    style: 'arialmt, 20, #000000, #f2f2f2'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 5300.639892578125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 238.41299438476562, 398.04888916015625, 252.09803771972656)
+    double_fontsize_int: 20
+  items:
+  - No major challenges that are worth reporting that can be noted at this juncture.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 6305.639862060547
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 401.49298095703125, 102.09918212890625, 415.1780090332031)
+    idx: 420
+  sector_title: Livelihoods
+  sector_idx: 409
+  sector_similarity_score: 1.0
+  content:
+  - index: 421
+    text: 'There was an initial challenge with the planned transfer modality of the mobile cash transfer. After an assessment '
+    text_base: there was an initial challenge with the planned transfer modality of the mobile cash transfer after an assessment
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 6333.959869384766
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 429.81298828125, 549.6519165039062, 443.4980163574219)
+    double_fontsize_int: 20
+  - index: 422
+    text: 'that was carried out by the CVM, it was noted that nearly 80 percent of intended programme beneficiaries did not '
+    text_base: that was carried out by the cvm it was noted that nearly 80 percent of intended programme beneficiaries did not
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 6347.1568603515625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 443.0099792480469, 549.6687622070312, 456.69500732421875)
+    double_fontsize_int: 20
+  - index: 423
+    text: 'have access to a cell phone and that the only mobile service provider in the country with network coverage in the '
+    text_base: have access to a cell phone and that the only mobile service provider in the country with network coverage in the
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 6360.353851318359
+    origin_x: 41.63003540039063
+    bbox: (41.630035400390625, 456.20697021484375, 549.6747436523438, 469.8919982910156)
+    double_fontsize_int: 20
+  - index: 424
+    text: 'target districts did not have a cash transfer service established. This affected the initial plan and the National Society '
+    text_base: target districts did not have a cash transfer service established this affected the initial plan and the national society
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 6373.550842285156
+    origin_x: 41.63003540039063
+    bbox: (41.630035400390625, 469.4039611816406, 549.719482421875, 483.0889892578125)
+    double_fontsize_int: 20
+  - index: 425
+    text: 'with support from the cluster office resorted to use the voucher system to support the targeted districts.  '
+    text_base: with support from the cluster office resorted to use the voucher system to support the targeted districts
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 5
+    span_number: 0
+    total_y: 6386.867370605469
+    origin_x: 41.6300048828125
+    bbox: (41.6300048828125, 482.7204895019531, 501.36370849609375, 496.405517578125)
+    double_fontsize_int: 20
+  - index: 426
+    text: 'The second challenge was the issue of changes in price of the basic commodities in Mozambique. It should be '
+    text_base: the second challenge was the issue of changes in price of the basic commodities in mozambique it should be
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 7
+    span_number: 0
+    total_y: 6413.261352539063
+    origin_x: 41.6300048828125
+    bbox: (41.6300048828125, 509.1144714355469, 549.6239013671875, 522.7994995117188)
+    double_fontsize_int: 20
+  - index: 427
+    text: 'noted that due to commodity price variations over time and fluctuations in the exchange rate of the US dollar, the '
+    text_base: noted that due to commodity price variations over time and fluctuations in the exchange rate of the us dollar the
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 8
+    span_number: 0
+    total_y: 6426.458312988281
+    origin_x: 41.6300048828125
+    bbox: (41.6300048828125, 522.3114013671875, 549.5924682617188, 535.9964599609375)
+    double_fontsize_int: 20
+  - index: 428
+    text: "contract value with the Appeal\u2019s food suppliers is re-examined every three months by CVM.  "
+    text_base: contract value with the appeal s food suppliers is re examined every three months by cvm
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 9
+    span_number: 0
+    total_y: 6439.655334472656
+    origin_x: 41.6300048828125
+    bbox: (41.6300048828125, 535.5084228515625, 450.8465576171875, 549.1934814453125)
+    double_fontsize_int: 20
+  - index: 429
+    text: 'The other challenge had to do with expectations of the communities with regards of the support that the Red Cross '
+    text_base: the other challenge had to do with expectations of the communities with regards of the support that the red cross
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 11
+    span_number: 0
+    total_y: 6466.168884277344
+    origin_x: 41.63995361328125
+    bbox: (41.63995361328125, 562.02197265625, 549.6168823242188, 575.70703125)
+    double_fontsize_int: 20
+  - index: 430
+    text: 'could provide. Due to limited funding of the appeal, there was a challenge initially when the CVM could not support '
+    text_base: could provide due to limited funding of the appeal there was a challenge initially when the cvm could not support
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 12
+    span_number: 0
+    total_y: 6479.3658447265625
+    origin_x: 41.63995361328125
+    bbox: (41.63995361328125, 575.218994140625, 549.6099853515625, 588.9039916992188)
+    double_fontsize_int: 20
+  - index: 431
+    text: 'all the targeted beneficiaries. At the onset of the response, CHF 380,000 was confirmed for the operation, which '
+    text_base: all the targeted beneficiaries at the onset of the response chf 380 000 was confirmed for the operation which
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 13
+    span_number: 0
+    total_y: 6492.5628662109375
+    origin_x: 41.63995361328125
+    bbox: (41.63995361328125, 588.416015625, 549.6609497070312, 602.1010131835938)
+    double_fontsize_int: 20
+  - index: 432
+    text: 'allowed for the targeting of 1,335 households (6,675 people) between July and September 2016 against 2,953 '
+    text_base: allowed for the targeting of 1 335 households 6 675 people between july and september 2016 against 2 953
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 14
+    span_number: 0
+    total_y: 6505.7598876953125
+    origin_x: 41.63995361328125
+    bbox: (41.63995361328125, 601.613037109375, 549.7018432617188, 615.2980346679688)
+    double_fontsize_int: 20
+  - index: 433
+    text: 'households which the CVM had initially identified. Expectations were raised on the support that the Red Cross could '
+    text_base: households which the cvm had initially identified expectations were raised on the support that the red cross could
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 15
+    span_number: 0
+    total_y: 6519.076354980469
+    origin_x: 41.64990234375
+    bbox: (41.64990234375, 614.929443359375, 549.6900024414062, 628.614501953125)
+    double_fontsize_int: 20
+  - index: 434
+    text: 'give to the communities and this posed a challenge to the CVM. However, when extra funding was raised for the '
+    text_base: give to the communities and this posed a challenge to the cvm however when extra funding was raised for the
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 16
+    span_number: 0
+    total_y: 6532.273376464844
+    origin_x: 41.65985870361328
+    bbox: (41.65985870361328, 628.12646484375, 549.7205200195312, 641.8115234375)
+    double_fontsize_int: 20
+  - index: 435
+    text: 'Appeal, the National Society was able to support the remainder of the beneficiaries.  '
+    text_base: appeal the national society was able to support the remainder of the beneficiaries
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 17
+    span_number: 0
+    total_y: 6545.470397949219
+    origin_x: 41.65988159179688
+    bbox: (41.659881591796875, 641.323486328125, 416.130126953125, 655.008544921875)
+    double_fontsize_int: 20
+  - index: 436
+    text: 'The National Society was also not able to support the implementation of the supplementary-feeding component of '
+    text_base: the national society was also not able to support the implementation of the supplementary feeding component of
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 6571.864440917969
+    origin_x: 41.649932861328125
+    bbox: (41.649932861328125, 667.717529296875, 549.7015380859375, 681.402587890625)
+    double_fontsize_int: 20
+  - index: 437
+    text: 'the operation due to limited funding and because there were other organizations like WFP who were better placed '
+    text_base: the operation due to limited funding and because there were other organizations like wfp who were better placed
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 1
+    span_number: 0
+    total_y: 6585.180908203125
+    origin_x: 41.639923095703125
+    bbox: (41.639923095703125, 681.0340576171875, 549.69775390625, 694.7190551757812)
+    double_fontsize_int: 20
+  - index: 438
+    text: 'to implement the component and already had the required support and infrastructure to do so.  '
+    text_base: to implement the component and already had the required support and infrastructure to do so
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 6598.3779296875
+    origin_x: 41.63995361328125
+    bbox: (41.63995361328125, 694.2310791015625, 461.7726745605469, 707.9160766601562)
+    double_fontsize_int: 20
+  - index: 439
+    text: 'During the Operation, Mozambique also faced a new challenge posed by the Cyclone Dineo. This affected some of '
+    text_base: during the operation mozambique also faced a new challenge posed by the cyclone dineo this affected some of
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 4
+    span_number: 0
+    total_y: 6624.771911621094
+    origin_x: 41.63995361328125
+    bbox: (41.63995361328125, 720.625, 549.6271362304688, 734.31005859375)
+    double_fontsize_int: 20
+  - index: 440
+    text: 'the districts where the operation was being implemented, impacting on crop production, destroying homes and '
+    text_base: the districts where the operation was being implemented impacting on crop production destroying homes and
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 5
+    span_number: 0
+    total_y: 6637.968933105469
+    origin_x: 41.63995361328125
+    bbox: (41.63995361328125, 733.822021484375, 549.6729125976562, 747.507080078125)
+    double_fontsize_int: 20
+  - index: 441
+    text: 'increasing the vulnerable communities. As such the impact of the Appeal was somehow eroded and there is a great '
+    text_base: increasing the vulnerable communities as such the impact of the appeal was somehow eroded and there is a great
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 6
+    span_number: 0
+    total_y: 6651.285461425781
+    origin_x: 41.63995361328125
+    bbox: (41.63995361328125, 747.1385498046875, 549.6489868164062, 760.8236083984375)
+    double_fontsize_int: 20
+  - index: 442
+    text: 'need to continue supporting the communities so that they become more resilient.  '
+    text_base: need to continue supporting the communities so that they become more resilient
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 7
+    span_number: 0
+    total_y: 6664.482421875
+    origin_x: 41.63995361328125
+    bbox: (41.63995361328125, 760.3355712890625, 404.5784606933594, 774.0205688476562)
+    double_fontsize_int: 20
+  items:
+  - There was an initial challenge with the planned transfer modality of the mobile cash transfer. After an assessment that was carried out by the CVM, it was noted that nearly 80 percent of intended programme beneficiaries did not have access to a cell phone and that the only mobile service provider in the country with network coverage in the target districts did not have a cash transfer service established. This affected the initial plan and the National Society with support from the cluster office resorted to use the voucher system to support the targeted districts.
+  - "The second challenge was the issue of changes in price of the basic commodities in Mozambique. It should be noted that due to commodity price variations over time and fluctuations in the exchange rate of the US dollar, the contract value with the Appeal\u2019s food suppliers is re-examined every three months by CVM."
+  - The other challenge had to do with expectations of the communities with regards of the support that the Red Cross could provide. Due to limited funding of the appeal, there was a challenge initially when the CVM could not support all the targeted beneficiaries. At the onset of the response, CHF 380,000 was confirmed for the operation, which allowed for the targeting of 1,335 households (6,675 people) between July and September 2016 against 2,953 households which the CVM had initially identified. Expectations were raised on the support that the Red Cross could give to the communities and this posed a challenge to the CVM. However, when extra funding was raised for the Appeal, the National Society was able to support the remainder of the beneficiaries.
+  - The National Society was also not able to support the implementation of the supplementary-feeding component of the operation due to limited funding and because there were other organizations like WFP who were better placed to implement the component and already had the required support and infrastructure to do so.
+  - During the Operation, Mozambique also faced a new challenge posed by the Cyclone Dineo. This affected some of the districts where the operation was being implemented, impacting on crop production, destroying homes and increasing the vulnerable communities. As such the impact of the Appeal was somehow eroded and there is a great need to continue supporting the communities so that they become more resilient.

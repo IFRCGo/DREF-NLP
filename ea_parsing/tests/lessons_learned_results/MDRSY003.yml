@@ -1,0 +1,1528 @@
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 22
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 18281.179626464844
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 241.49423217773438, 127.0472640991211, 255.05792236328125)
+    idx: 1415
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 1205
+  sector_similarity_score: 1.0
+  content:
+  - index: 1416
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 22
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 18296.809631347656
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 257.7564697265625, 46.22121047973633, 269.95843505859375)
+    double_fontsize_int: 20
+  - index: 1417
+    text: 'The establishment of Framework Agreements for Food and NFIs took much longer to establish than anticipated. '
+    text_base: the establishment of framework agreements for food and nfis took much longer to establish than anticipated
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 22
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 18296.809631347656
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 257.1242370605469, 573.10546875, 270.68792724609375)
+    double_fontsize_int: 20
+  - index: 1418
+    text: 'This, together with the need to reinforce a solid supply chain management system, remained one of the key '
+    text_base: this together with the need to reinforce a solid supply chain management system remained one of the key
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 22
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 18310.36962890625
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 270.6842346191406, 573.4488525390625, 284.2479248046875)
+    double_fontsize_int: 20
+  - index: 1419
+    text: "priorities for IFRC and Movement partners in supporting SARC\u2019s overall logistics and procurement capacity. "
+    text_base: priorities for ifrc and movement partners in supporting sarc s overall logistics and procurement capacity
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 22
+    block_number: 8
+    line_number: 3
+    span_number: 0
+    total_y: 18324.049682617188
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 284.3642883300781, 558.2872924804688, 297.927978515625)
+    double_fontsize_int: 20
+  - index: 1420
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 22
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 18337.60968017578
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 298.5565185546875, 46.22121047973633, 310.75848388671875)
+    double_fontsize_int: 20
+  - index: 1421
+    text: 'Flexible funding and prepositioning of relief stocks including NFIs have led to a faster response and better '
+    text_base: flexible funding and prepositioning of relief stocks including nfis have led to a faster response and better
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 22
+    block_number: 9
+    line_number: 0
+    span_number: 1
+    total_y: 18337.60968017578
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 297.9242858886719, 572.9656982421875, 311.48797607421875)
+    double_fontsize_int: 20
+  - index: 1422
+    text: 'targeting. '
+    text_base: targeting
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 22
+    block_number: 9
+    line_number: 2
+    span_number: 0
+    total_y: 18351.28967285156
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 311.6042785644531, 106.88726806640625, 325.16796875)
+    double_fontsize_int: 20
+  items:
+  - "The establishment of Framework Agreements for Food and NFIs took much longer to establish than anticipated. This, together with the need to reinforce a solid supply chain management system, remained one of the key priorities for IFRC and Movement partners in supporting SARC\u2019s overall logistics and procurement capacity."
+  - Flexible funding and prepositioning of relief stocks including NFIs have led to a faster response and better targeting.
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 26837.089477539062
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 378.2042541503906, 127.0472640991211, 391.7679443359375)
+    idx: 1895
+  sector_title: Livelihoods
+  sector_idx: 1423
+  sector_similarity_score: 1.0
+  content:
+  - index: 1896
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 26852.56948852539
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 394.3164978027344, 46.22121047973633, 406.5184631347656)
+    double_fontsize_int: 20
+  - index: 1897
+    text: 'The top three priority needs, as expressed by Syrian households, were access to food/nutrition, livelihood '
+    text_base: the top three priority needs as expressed by syrian households were access to food nutrition livelihood
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 10
+    line_number: 0
+    span_number: 1
+    total_y: 26852.56948852539
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 393.68426513671875, 564.6433715820312, 407.2479553222656)
+    double_fontsize_int: 20
+  - index: 1898
+    text: 'support, and winterization/shelter support . Accordingly, the support for livelihoods and vocational training '
+    text_base: support and winterization shelter support accordingly the support for livelihoods and vocational training
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 26866.24948120117
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 407.3642578125, 258.062744140625, 420.9279479980469)
+    double_fontsize_int: 20
+  - index: 1901
+    text: 'activities were essential, and it became increasingly important to identify innovative ways of including the '
+    text_base: activities were essential and it became increasingly important to identify innovative ways of including the
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 10
+    line_number: 3
+    span_number: 0
+    total_y: 26879.80947875977
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 420.92425537109375, 564.4622802734375, 434.4879455566406)
+    double_fontsize_int: 20
+  - index: 1902
+    text: population, as well as the private sector, in securing income and longer-term job creation to foster socio-
+    text_base: population as well as the private sector in securing income and longer term job creation to foster socio
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 10
+    line_number: 4
+    span_number: 0
+    total_y: 26893.489471435547
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 434.604248046875, 562.1448974609375, 448.1679382324219)
+    double_fontsize_int: 20
+  - index: 1903
+    text: 'economic resilience building and facilitate participation in the rebuilding of the Syrian society and economy. '
+    text_base: economic resilience building and facilitate participation in the rebuilding of the syrian society and economy
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 10
+    line_number: 5
+    span_number: 0
+    total_y: 26907.06948852539
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 448.18426513671875, 562.4873046875, 461.7479553222656)
+    double_fontsize_int: 20
+  - index: 1904
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 26920.74948120117
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 462.4964904785156, 46.22121047973633, 474.6984558105469)
+    double_fontsize_int: 20
+  - index: 1905
+    text: 'While the Monitoring & Evaluation system and tools (baseline, Post-Distribution Monitoring, Post-Harvest '
+    text_base: while the monitoring evaluation system and tools baseline post distribution monitoring post harvest
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 11
+    line_number: 0
+    span_number: 1
+    total_y: 26920.74948120117
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 461.8642578125, 564.8433837890625, 475.4279479980469)
+    double_fontsize_int: 20
+  - index: 1906
+    text: 'Monitoring, and end-line) are becoming within humanitarian assistance, consistent use of these tools was '
+    text_base: monitoring and end line are becoming within humanitarian assistance consistent use of these tools was
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 11
+    line_number: 2
+    span_number: 0
+    total_y: 26934.30947875977
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 475.42425537109375, 564.6732788085938, 488.9879455566406)
+    double_fontsize_int: 20
+  - index: 1907
+    text: 'relevant to measure and ensure the relevancy of livelihood programming and to reinforce accountability and '
+    text_base: relevant to measure and ensure the relevancy of livelihood programming and to reinforce accountability and
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 11
+    line_number: 3
+    span_number: 0
+    total_y: 26947.989471435547
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 489.104248046875, 564.7794189453125, 502.6679382324219)
+    double_fontsize_int: 20
+  - index: 1908
+    text: 'the level of satisfaction of the beneficiaries with the assistance provided. It needs a constant review and '
+    text_base: the level of satisfaction of the beneficiaries with the assistance provided it needs a constant review and
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 11
+    line_number: 4
+    span_number: 0
+    total_y: 26961.54949951172
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 502.6642761230469, 564.7317504882812, 516.2279663085938)
+    double_fontsize_int: 20
+  - index: 1909
+    text: 'adaptation for each project for future interventions to ensure that all relevant data required for programming '
+    text_base: adaptation for each project for future interventions to ensure that all relevant data required for programming
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 11
+    line_number: 5
+    span_number: 0
+    total_y: 26975.2294921875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 516.34423828125, 564.68359375, 529.907958984375)
+    double_fontsize_int: 20
+  - index: 1910
+    text: 'and accountability is collected in a timely manner. It is important to note that the end-lines reporting the '
+    text_base: and accountability is collected in a timely manner it is important to note that the end lines reporting the
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 11
+    line_number: 6
+    span_number: 0
+    total_y: 26988.789489746094
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 529.9042358398438, 564.8251953125, 543.4679565429688)
+    double_fontsize_int: 20
+  - index: 1911
+    text: 'impact of livelihood projects need to be conducted at least 6 months after the end of the project. However, '
+    text_base: impact of livelihood projects need to be conducted at least 6 months after the end of the project however
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 11
+    line_number: 7
+    span_number: 0
+    total_y: 27002.469482421875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 543.584228515625, 564.87109375, 557.14794921875)
+    double_fontsize_int: 20
+  - index: 1912
+    text: 'improved feedback mechanisms for people accessing SARC services are required to ensure timely actions. '
+    text_base: improved feedback mechanisms for people accessing sarc services are required to ensure timely actions
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 11
+    line_number: 8
+    span_number: 0
+    total_y: 27016.02947998047
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 557.1442260742188, 555.7672729492188, 570.7079467773438)
+    double_fontsize_int: 20
+  - index: 1913
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 27029.70947265625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 571.4564819335938, 46.22121047973633, 583.658447265625)
+    double_fontsize_int: 20
+  - index: 1914
+    text: 'The presence of the SARC livelihoods team (staff and volunteers) in the communities during the '
+    text_base: the presence of the sarc livelihoods team staff and volunteers in the communities during the
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 12
+    line_number: 0
+    span_number: 1
+    total_y: 27029.70947265625
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 570.82421875, 564.4111938476562, 584.387939453125)
+    double_fontsize_int: 20
+  - index: 1915
+    text: 'implementation of the project built a relationship between the community and the stakeholders, helped to '
+    text_base: implementation of the project built a relationship between the community and the stakeholders helped to
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 12
+    line_number: 2
+    span_number: 0
+    total_y: 27043.269470214844
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 584.3842163085938, 564.390380859375, 597.9479370117188)
+    double_fontsize_int: 20
+  - index: 1916
+    text: 'understand the situation of the beneficiaries, and developed the local knowledge and skills of the volunteers. '
+    text_base: understand the situation of the beneficiaries and developed the local knowledge and skills of the volunteers
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 12
+    line_number: 3
+    span_number: 0
+    total_y: 27056.949462890625
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 598.064208984375, 564.721923828125, 611.6279296875)
+    double_fontsize_int: 20
+  - index: 1917
+    text: 'Also, engagement with the relevant stakeholders, such as community leaders and local authorities, provided '
+    text_base: also engagement with the relevant stakeholders such as community leaders and local authorities provided
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 12
+    line_number: 4
+    span_number: 0
+    total_y: 27070.50952148437
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 611.624267578125, 564.8496704101562, 625.18798828125)
+    double_fontsize_int: 20
+  - index: 1918
+    text: "a strong basis to select the beneficiaries, speed up implementation, and resolve challenges \u2013 a) Livelihoods "
+    text_base: a strong basis to select the beneficiaries speed up implementation and resolve challenges a livelihoods
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 12
+    line_number: 5
+    span_number: 0
+    total_y: 27084.219482421875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 625.334228515625, 564.8577270507812, 638.89794921875)
+    double_fontsize_int: 20
+  - index: 1919
+    text: 'support and direct support to the affected population through cash was excellent responses in a highly '
+    text_base: support and direct support to the affected population through cash was excellent responses in a highly
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 12
+    line_number: 6
+    span_number: 0
+    total_y: 27097.77947998047
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 638.8942260742188, 564.5341186523438, 652.4579467773438)
+    double_fontsize_int: 20
+  - index: 1920
+    text: "politicized funding context, b) SARC\u2019s early engagement and capacity building within livelihoods has "
+    text_base: politicized funding context b sarc s early engagement and capacity building within livelihoods has
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 12
+    line_number: 7
+    span_number: 0
+    total_y: 27111.45947265625
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 652.57421875, 564.3857421875, 666.137939453125)
+    double_fontsize_int: 20
+  - index: 1921
+    text: 'positioned the National Society well in terms of early recovery and resilience building.  '
+    text_base: positioned the national society well in terms of early recovery and resilience building
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 32
+    block_number: 12
+    line_number: 8
+    span_number: 0
+    total_y: 27125.019470214844
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 666.1342163085938, 462.52728271484375, 679.6979370117188)
+    double_fontsize_int: 20
+  items:
+  - The top three priority needs, as expressed by Syrian households, were access to food/nutrition, livelihood support, and winterization/shelter support . Accordingly, the support for livelihoods and vocational training activities were essential, and it became increasingly important to identify innovative ways of including the population, as well as the private sector, in securing income and longer-term job creation to foster socio- economic resilience building and facilitate participation in the rebuilding of the Syrian society and economy.
+  - While the Monitoring & Evaluation system and tools (baseline, Post-Distribution Monitoring, Post-Harvest Monitoring, and end-line) are becoming within humanitarian assistance, consistent use of these tools was relevant to measure and ensure the relevancy of livelihood programming and to reinforce accountability and the level of satisfaction of the beneficiaries with the assistance provided. It needs a constant review and adaptation for each project for future interventions to ensure that all relevant data required for programming and accountability is collected in a timely manner. It is important to note that the end-lines reporting the impact of livelihood projects need to be conducted at least 6 months after the end of the project. However, improved feedback mechanisms for people accessing SARC services are required to ensure timely actions.
+  - "The presence of the SARC livelihoods team (staff and volunteers) in the communities during the implementation of the project built a relationship between the community and the stakeholders, helped to understand the situation of the beneficiaries, and developed the local knowledge and skills of the volunteers. Also, engagement with the relevant stakeholders, such as community leaders and local authorities, provided a strong basis to select the beneficiaries, speed up implementation, and resolve challenges \u2013 a) Livelihoods support and direct support to the affected population through cash was excellent responses in a highly politicized funding context, b) SARC\u2019s early engagement and capacity building within livelihoods has positioned the National Society well in terms of early recovery and resilience building."
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 39990.83923339844
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 61.234283447265625, 127.0472640991211, 74.7979736328125)
+    idx: 2672
+  sector_title: Health and Care
+  sector_idx: 1926
+  sector_similarity_score: 1.0
+  content:
+  - index: 2673
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 40006.439208984375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 77.46648406982422, 46.22121047973633, 89.66845703125)
+    double_fontsize_int: 20
+  - index: 2674
+    text: "SARC\u2019s efforts to ensure respect for the emblem and promote an understanding of the principles of "
+    text_base: sarc s efforts to ensure respect for the emblem and promote an understanding of the principles of
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 40006.439208984375
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 76.83425903320312, 564.122314453125, 90.39794921875)
+    double_fontsize_int: 20
+  - index: 2675
+    text: "impartiality and neutrality were a priority. SARC\u2019s continuous dialogue with the relevant parties on the "
+    text_base: impartiality and neutrality were a priority sarc s continuous dialogue with the relevant parties on the
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 40020.01922607422
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 90.41427612304688, 563.812744140625, 103.97796630859375)
+    double_fontsize_int: 20
+  - index: 2676
+    text: importance of protecting the emblem and safety of its staff and volunteers resulted in better access to hard-
+    text_base: importance of protecting the emblem and safety of its staff and volunteers resulted in better access to hard
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 40033.69921875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 104.09426879882812, 561.6649169921875, 117.657958984375)
+    double_fontsize_int: 20
+  - index: 2677
+    text: 'to-reach areas with ambulance missions and delivering of lifesaving health services through its health '
+    text_base: to reach areas with ambulance missions and delivering of lifesaving health services through its health
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 40047.259216308594
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 117.65426635742188, 564.053955078125, 131.21795654296875)
+    double_fontsize_int: 20
+  - index: 2678
+    text: 'facilities. '
+    text_base: facilities
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 6
+    line_number: 5
+    span_number: 0
+    total_y: 40060.939208984375
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 131.33425903320312, 102.68726348876953, 144.89794921875)
+    double_fontsize_int: 20
+  - index: 2679
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 40074.61920166016
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 145.646484375, 46.22121047973633, 157.84844970703125)
+    double_fontsize_int: 20
+  - index: 2680
+    text: 'Sustainability of health services should be taken into consideration at the forefront of planning health service '
+    text_base: sustainability of health services should be taken into consideration at the forefront of planning health service
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 40074.61920166016
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 145.01425170898438, 563.8926391601562, 158.57794189453125)
+    double_fontsize_int: 20
+  - index: 2681
+    text: 'interventions, and the plan for procurement (both national and international) of medicines, medical '
+    text_base: interventions and the plan for procurement both national and international of medicines medical
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 40088.659240722656
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 159.05429077148438, 563.9761962890625, 172.61798095703125)
+    double_fontsize_int: 20
+  - index: 2682
+    text: 'equipment, materials, and PPE for staff and volunteers should be completed in advance, considering the '
+    text_base: equipment materials and ppe for staff and volunteers should be completed in advance considering the
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 3
+    span_number: 0
+    total_y: 40102.69921875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 173.09426879882812, 563.922119140625, 186.657958984375)
+    double_fontsize_int: 20
+  - index: 2683
+    text: 'evolving economic situation, price, and availability of medical consumables in the local market. This was '
+    text_base: evolving economic situation price and availability of medical consumables in the local market this was
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 4
+    span_number: 0
+    total_y: 40116.739196777344
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 187.13424682617188, 564.2750854492188, 200.69793701171875)
+    double_fontsize_int: 20
+  - index: 2684
+    text: 'critical in a situation where expectations of the National Society remained high, and the health system '
+    text_base: critical in a situation where expectations of the national society remained high and the health system
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 5
+    span_number: 0
+    total_y: 40130.77923583984
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 201.17428588867188, 564.2294311523438, 214.73797607421875)
+    double_fontsize_int: 20
+  - index: 2685
+    text: 'continued to be fragile throughout the country. In addition to new sanctions and COVID-19-related '
+    text_base: continued to be fragile throughout the country in addition to new sanctions and covid 19 related
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 6
+    span_number: 0
+    total_y: 40144.69921875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 215.09426879882812, 564.2544555664062, 228.657958984375)
+    double_fontsize_int: 20
+  - index: 2686
+    text: 'challenges, the overall supply chain in the country remained unpredictable throughout the operation. '
+    text_base: challenges the overall supply chain in the country remained unpredictable throughout the operation
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 7
+    span_number: 0
+    total_y: 40158.739196777344
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 229.13424682617188, 563.928955078125, 242.69793701171875)
+    double_fontsize_int: 20
+  - index: 2687
+    text: 'Advanced planning and timely completion of tendering process, especially for the life-saving medicines, is '
+    text_base: advanced planning and timely completion of tendering process especially for the life saving medicines is
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 8
+    span_number: 0
+    total_y: 40172.77923583984
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 243.17428588867188, 564.2883911132812, 256.73797607421875)
+    double_fontsize_int: 20
+  - index: 2688
+    text: 'essential for the continuity of emergency health care services, as a higher number of people are now '
+    text_base: essential for the continuity of emergency health care services as a higher number of people are now
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 9
+    span_number: 0
+    total_y: 40186.849182128906
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 257.2442321777344, 564.1713256835938, 270.80792236328125)
+    double_fontsize_int: 20
+  - index: 2689
+    text: 'depending on SARC clinics due to the deepening economic crisis and the increased price of basic medications, '
+    text_base: depending on sarc clinics due to the deepening economic crisis and the increased price of basic medications
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 10
+    span_number: 0
+    total_y: 40200.889221191406
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 271.2842712402344, 564.2872924804688, 284.84796142578125)
+    double_fontsize_int: 20
+  - index: 2690
+    text: 'in general. For example, delayed procurement of medicines in 2020 affected their distribution and availability '
+    text_base: in general for example delayed procurement of medicines in 2020 affected their distribution and availability
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 11
+    span_number: 0
+    total_y: 40214.80920410156
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 285.2042541503906, 564.1944580078125, 298.7679443359375)
+    double_fontsize_int: 20
+  - index: 2691
+    text: 'in the clinics. IFRC Syria delegation recruited a procurement delegate to finalize a working modality and '
+    text_base: in the clinics ifrc syria delegation recruited a procurement delegate to finalize a working modality and
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 12
+    span_number: 0
+    total_y: 40228.849182128906
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 299.2442321777344, 564.2310180664062, 312.80792236328125)
+    double_fontsize_int: 20
+  - index: 2692
+    text: 'ensured a smooth supply chain in 2021.  '
+    text_base: ensured a smooth supply chain in 2021
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 7
+    line_number: 13
+    span_number: 0
+    total_y: 40242.889221191406
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 313.2842712402344, 250.3172607421875, 326.84796142578125)
+    double_fontsize_int: 20
+  - index: 2693
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 22, #000000, nan'
+    size: 11.039999961853027
+    page_number: 48
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 40257.1692199707
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 327.1106872558594, 46.71796798706055, 340.6357727050781)
+    double_fontsize_int: 22
+  - index: 2694
+    text: 'SARC, at the outbreak of the COVID-19 pandemic, adjusted its activities and took measures to protect its '
+    text_base: sarc at the outbreak of the covid 19 pandemic adjusted its activities and took measures to protect its
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 40257.1692199707
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 327.56427001953125, 564.002685546875, 341.1279602050781)
+    double_fontsize_int: 20
+  - index: 2695
+    text: 'health care staff, first aid team, and front-line volunteers. SARC was able to maintain its operations through '
+    text_base: health care staff first aid team and front line volunteers sarc was able to maintain its operations through
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 40270.7292175293
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 341.124267578125, 563.9472045898438, 354.6879577636719)
+    double_fontsize_int: 20
+  - index: 2696
+    text: '2020 after the initial movement restrictions were lifted. The COVID-19 protection measures for the staff and '
+    text_base: 2020 after the initial movement restrictions were lifted the covid 19 protection measures for the staff and
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 8
+    line_number: 3
+    span_number: 0
+    total_y: 40284.40921020508
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 354.80426025390625, 564.0889892578125, 368.3679504394531)
+    double_fontsize_int: 20
+  - index: 2697
+    text: 'volunteers, including the provision of PPE kits and training, were critical to maintaining their commitment '
+    text_base: volunteers including the provision of ppe kits and training were critical to maintaining their commitment
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 8
+    line_number: 4
+    span_number: 0
+    total_y: 40297.96920776367
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 368.3642578125, 564.2144775390625, 381.9279479980469)
+    double_fontsize_int: 20
+  - index: 2698
+    text: "toward the implementation and continuation of SARC\u2019s urgent life-saving and humanitarian assistance to "
+    text_base: toward the implementation and continuation of sarc s urgent life saving and humanitarian assistance to
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 8
+    line_number: 5
+    span_number: 0
+    total_y: 40311.64920043945
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 382.04425048828125, 564.13134765625, 395.6079406738281)
+    double_fontsize_int: 20
+  - index: 2699
+    text: millions of vulnerable people, who are in need due to the ongoing protracted crisis in Syria.
+    text_base: millions of vulnerable people who are in need due to the ongoing protracted crisis in syria
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 48
+    block_number: 8
+    line_number: 6
+    span_number: 0
+    total_y: 40325.20919799805
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 395.604248046875, 483.3504943847656, 409.1679382324219)
+    double_fontsize_int: 20
+  items:
+  - "SARC\u2019s efforts to ensure respect for the emblem and promote an understanding of the principles of impartiality and neutrality were a priority. SARC\u2019s continuous dialogue with the relevant parties on the importance of protecting the emblem and safety of its staff and volunteers resulted in better access to hard- to-reach areas with ambulance missions and delivering of lifesaving health services through its health facilities."
+  - Sustainability of health services should be taken into consideration at the forefront of planning health service interventions, and the plan for procurement (both national and international) of medicines, medical equipment, materials, and PPE for staff and volunteers should be completed in advance, considering the evolving economic situation, price, and availability of medical consumables in the local market. This was critical in a situation where expectations of the National Society remained high, and the health system continued to be fragile throughout the country. In addition to new sanctions and COVID-19-related challenges, the overall supply chain in the country remained unpredictable throughout the operation. Advanced planning and timely completion of tendering process, especially for the life-saving medicines, is essential for the continuity of emergency health care services, as a higher number of people are now depending on SARC clinics due to the deepening economic crisis and the increased price of basic medications, in general. For example, delayed procurement of medicines in 2020 affected their distribution and availability in the clinics. IFRC Syria delegation recruited a procurement delegate to finalize a working modality and ensured a smooth supply chain in 2021.
+  - "SARC, at the outbreak of the COVID-19 pandemic, adjusted its activities and took measures to protect its health care staff, first aid team, and front-line volunteers. SARC was able to maintain its operations through 2020 after the initial movement restrictions were lifted. The COVID-19 protection measures for the staff and volunteers, including the provision of PPE kits and training, were critical to maintaining their commitment toward the implementation and continuation of SARC\u2019s urgent life-saving and humanitarian assistance to millions of vulnerable people, who are in need due to the ongoing protracted crisis in Syria."
+- title:
+    text: Lessons Learned
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 52
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 43734.309143066406
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 437.0242614746094, 124.23641204833984, 450.58795166015625)
+    idx: 2862
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 2700
+  sector_similarity_score: 1.0
+  content: []
+  items: []
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 55
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 46281.66909790039
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 458.624267578125, 127.0472640991211, 472.1879577636719)
+    idx: 2991
+  sector_title: Protection, Gender and Inclusion
+  sector_idx: 2864
+  sector_similarity_score: 1.0
+  content: []
+  items: []
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 58
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 48604.33905029297
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 255.53427124023438, 127.0472640991211, 269.09796142578125)
+    idx: 3173
+  sector_title: National Society Strengthening
+  sector_idx: 2993
+  sector_similarity_score: 1.0
+  content:
+  - index: 3174
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 58
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 48619.96905517578
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 271.7965087890625, 46.22121047973633, 283.99847412109375)
+    double_fontsize_int: 20
+  - index: 3175
+    text: 'IFRC and SARC aim to increase investment in the core of service delivery and proximity to vulnerable '
+    text_base: ifrc and sarc aim to increase investment in the core of service delivery and proximity to vulnerable
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 58
+    block_number: 10
+    line_number: 0
+    span_number: 1
+    total_y: 48619.96905517578
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 271.1642761230469, 562.8666381835938, 284.72796630859375)
+    double_fontsize_int: 20
+  - index: 3176
+    text: "communities by supporting SARC\u2019s branch and sub-branches with tools and capacities, in their efforts of "
+    text_base: communities by supporting sarc s branch and sub branches with tools and capacities in their efforts of
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 58
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 48633.64904785156
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 284.8442687988281, 563.1593627929688, 298.407958984375)
+    double_fontsize_int: 20
+  - index: 3177
+    text: 'rebuilding resilience, promoting synergies at the local level in different initiatives, introducing participatory '
+    text_base: rebuilding resilience promoting synergies at the local level in different initiatives introducing participatory
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 58
+    block_number: 10
+    line_number: 3
+    span_number: 0
+    total_y: 48647.20904541016
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 298.4042663574219, 563.1721801757812, 311.96795654296875)
+    double_fontsize_int: 20
+  - index: 3178
+    text: 'and gender-sensitive approaches, and mainstreaming cross-cutting approaches such as gender, CEA, and '
+    text_base: and gender sensitive approaches and mainstreaming cross cutting approaches such as gender cea and
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 58
+    block_number: 10
+    line_number: 4
+    span_number: 0
+    total_y: 48660.76904296875
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 311.9642639160156, 563.2048950195312, 325.5279541015625)
+    double_fontsize_int: 20
+  - index: 3179
+    text: 'protection. With increased operational capacity and skilled staff and volunteers, SARC becomes better '
+    text_base: protection with increased operational capacity and skilled staff and volunteers sarc becomes better
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 58
+    block_number: 10
+    line_number: 5
+    span_number: 0
+    total_y: 48674.44903564453
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 325.6442565917969, 563.1221313476562, 339.20794677734375)
+    double_fontsize_int: 20
+  - index: 3180
+    text: "prepared to conduct activities to respond to the most urgent needs of communities. SARC\u2019s livelihoods "
+    text_base: prepared to conduct activities to respond to the most urgent needs of communities sarc s livelihoods
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 58
+    block_number: 10
+    line_number: 6
+    span_number: 0
+    total_y: 48688.009033203125
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 339.2042541503906, 562.9065551757812, 352.7679443359375)
+    double_fontsize_int: 20
+  - index: 3181
+    text: 'projects are proving to be much needed and very successful. Livelihood programmes provide opportunities '
+    text_base: projects are proving to be much needed and very successful livelihood programmes provide opportunities
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 58
+    block_number: 10
+    line_number: 7
+    span_number: 0
+    total_y: 48701.689025878906
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 352.8842468261719, 563.4473266601562, 366.44793701171875)
+    double_fontsize_int: 20
+  - index: 3182
+    text: 'for families to become self-sufficient again. It reduces aid dependency, supports community strength and '
+    text_base: for families to become self sufficient again it reduces aid dependency supports community strength and
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 58
+    block_number: 10
+    line_number: 8
+    span_number: 0
+    total_y: 48715.24905395508
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 366.44427490234375, 563.0487060546875, 380.0079650878906)
+    double_fontsize_int: 20
+  - index: 3183
+    text: 'resiliency, food security, and helps to ensure access to health services and education. '
+    text_base: resiliency food security and helps to ensure access to health services and education
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 58
+    block_number: 10
+    line_number: 9
+    span_number: 0
+    total_y: 48728.92904663086
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 380.124267578125, 458.3272705078125, 393.6879577636719)
+    double_fontsize_int: 20
+  items:
+  - "IFRC and SARC aim to increase investment in the core of service delivery and proximity to vulnerable communities by supporting SARC\u2019s branch and sub-branches with tools and capacities, in their efforts of rebuilding resilience, promoting synergies at the local level in different initiatives, introducing participatory and gender-sensitive approaches, and mainstreaming cross-cutting approaches such as gender, CEA, and protection. With increased operational capacity and skilled staff and volunteers, SARC becomes better prepared to conduct activities to respond to the most urgent needs of communities. SARC\u2019s livelihoods projects are proving to be much needed and very successful. Livelihood programmes provide opportunities for families to become self-sufficient again. It reduces aid dependency, supports community strength and resiliency, food security, and helps to ensure access to health services and education."
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 51822.97894287109
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 106.49423217773438, 127.0472640991211, 120.05792236328125)
+    idx: 3331
+  sector_title: International Disaster Response
+  sector_idx: 3184
+  sector_similarity_score: 1.0
+  content:
+  - index: 3332
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 51839.05895996094
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 123.20647430419922, 46.22121047973633, 135.408447265625)
+    double_fontsize_int: 20
+  - index: 3333
+    text: 'With the closure of the Emergency Appeal in December 2021, IFRC refocused its priorities in Syria with less '
+    text_base: with the closure of the emergency appeal in december 2021 ifrc refocused its priorities in syria with less
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 51839.05895996094
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 122.57424926757812, 561.5631103515625, 136.137939453125)
+    double_fontsize_int: 20
+  - index: 3334
+    text: 'support for operations and increased efforts on NSD. In 2022, IFRC will recruit an NSD delegate that is a '
+    text_base: support for operations and increased efforts on nsd in 2022 ifrc will recruit an nsd delegate that is a
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 51852.73895263672
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 136.25424194335938, 561.5119018554688, 149.81793212890625)
+    double_fontsize_int: 20
+  - index: 3335
+    text: 'shared Movement resource based in Syria to support SARC in a critical time being at the crossroads of having '
+    text_base: shared movement resource based in syria to support sarc in a critical time being at the crossroads of having
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 7
+    line_number: 3
+    span_number: 0
+    total_y: 51866.29895019531
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 149.81423950195312, 561.76953125, 163.3779296875)
+    double_fontsize_int: 20
+  - index: 3336
+    text: 'to define its future priorities as a relevant humanitarian actor and embarking on the planning process for its '
+    text_base: to define its future priorities as a relevant humanitarian actor and embarking on the planning process for its
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 7
+    line_number: 4
+    span_number: 0
+    total_y: 51879.97894287109
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 163.49423217773438, 561.7410888671875, 177.05792236328125)
+    double_fontsize_int: 20
+  - index: 3337
+    text: 'next Strategic Planning. '
+    text_base: next strategic planning
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 7
+    line_number: 5
+    span_number: 0
+    total_y: 51893.53900146485
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 177.05429077148438, 171.68727111816406, 190.61798095703125)
+    double_fontsize_int: 20
+  - index: 3338
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 51907.21899414063
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 191.36651611328125, 46.22121047973633, 203.5684814453125)
+    double_fontsize_int: 20
+  - index: 3339
+    text: 'Maintaining a balanced coordination approach was important for IFRC throughout the operation. IFRC '
+    text_base: maintaining a balanced coordination approach was important for ifrc throughout the operation ifrc
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 51907.21899414063
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 190.73428344726562, 567.6963500976562, 204.2979736328125)
+    double_fontsize_int: 20
+  - index: 3340
+    text: 'managed this crucial mandate to a certain degree and institutionalization of membership coordination was '
+    text_base: managed this crucial mandate to a certain degree and institutionalization of membership coordination was
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 51920.77899169922
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 204.29428100585938, 567.7213745117188, 217.85797119140625)
+    double_fontsize_int: 20
+  - index: 3341
+    text: 'partly possible. Membership coordination should go in parallel with the humanitarian diplomacy and NSD file '
+    text_base: partly possible membership coordination should go in parallel with the humanitarian diplomacy and nsd file
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 8
+    line_number: 3
+    span_number: 0
+    total_y: 51934.458984375
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 217.97427368164062, 567.7802734375, 231.5379638671875)
+    double_fontsize_int: 20
+  - index: 3342
+    text: 'in order to maximize the benefits of Movement presence. For such a massive appeal, IFRC had a small country '
+    text_base: in order to maximize the benefits of movement presence for such a massive appeal ifrc had a small country
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 8
+    line_number: 4
+    span_number: 0
+    total_y: 51948.0189819336
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 231.53427124023438, 567.5288696289062, 245.09796142578125)
+    double_fontsize_int: 20
+  - index: 3343
+    text: 'team that focused on implementation for obvious reasons. Also, there were only a few PNSs, and their number '
+    text_base: team that focused on implementation for obvious reasons also there were only a few pnss and their number
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 8
+    line_number: 5
+    span_number: 0
+    total_y: 51961.698974609375
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 245.21426391601562, 567.8421630859375, 258.7779541015625)
+    double_fontsize_int: 20
+  - index: 3344
+    text: 'increased from 2015 onwards. '
+    text_base: increased from 2015 onwards
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 62
+    block_number: 8
+    line_number: 6
+    span_number: 0
+    total_y: 51975.28900146485
+    origin_x: 59.63999938964844
+    bbox: (59.63999938964844, 258.8042907714844, 204.1172637939453, 272.36798095703125)
+    double_fontsize_int: 20
+  items:
+  - With the closure of the Emergency Appeal in December 2021, IFRC refocused its priorities in Syria with less support for operations and increased efforts on NSD. In 2022, IFRC will recruit an NSD delegate that is a shared Movement resource based in Syria to support SARC in a critical time being at the crossroads of having to define its future priorities as a relevant humanitarian actor and embarking on the planning process for its next Strategic Planning.
+  - Maintaining a balanced coordination approach was important for IFRC throughout the operation. IFRC managed this crucial mandate to a certain degree and institutionalization of membership coordination was partly possible. Membership coordination should go in parallel with the humanitarian diplomacy and NSD file in order to maximize the benefits of Movement presence. For such a massive appeal, IFRC had a small country team that focused on implementation for obvious reasons. Also, there were only a few PNSs, and their number increased from 2015 onwards.
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 64
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 53683.12896728516
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 282.8042907714844, 127.0472640991211, 296.36798095703125)
+    idx: 3457
+  sector_title: Influence others as leading strategic partner
+  sector_idx: 3345
+  sector_similarity_score: 1.0
+  content: []
+  items: []
+- title:
+    text: 'Lessons Learned '
+    text_base: lessons learned
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 9
+    line_number: 1
+    span_number: 0
+    total_y: 55461.888916015625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 377.7242736816406, 127.0472640991211, 391.2879638671875)
+    idx: 3575
+  sector_title: Effective, credible and accountable IFRC
+  sector_idx: 3459
+  sector_similarity_score: 1.0
+  content:
+  - index: 3576
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 55477.368896484375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 393.83648681640625, 46.22121047973633, 406.0384521484375)
+    double_fontsize_int: 20
+  - index: 3577
+    text: 'For this emergency appeal, IFRC received a good funding response from its partners and donors. At a certain '
+    text_base: for this emergency appeal ifrc received a good funding response from its partners and donors at a certain
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 10
+    line_number: 0
+    span_number: 1
+    total_y: 55477.368896484375
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 393.2042541503906, 563.342529296875, 406.7679443359375)
+    double_fontsize_int: 20
+  - index: 3578
+    text: 'stage, the funding environment became complex and started declining after international sanctions were put '
+    text_base: stage the funding environment became complex and started declining after international sanctions were put
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 10
+    line_number: 2
+    span_number: 0
+    total_y: 55491.04888916016
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 406.8842468261719, 563.4640502929688, 420.44793701171875)
+    double_fontsize_int: 20
+  - index: 3579
+    text: 'in place, with the politicization of the operational context and the funding environment in general. The '
+    text_base: in place with the politicization of the operational context and the funding environment in general the
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 10
+    line_number: 3
+    span_number: 0
+    total_y: 55504.60891723633
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 420.44427490234375, 563.1786499023438, 434.0079650878906)
+    double_fontsize_int: 20
+  - index: 3580
+    text: 'important aspect of multilateral funding to IFRC appeal was the flexibility to respond to the needs in complex '
+    text_base: important aspect of multilateral funding to ifrc appeal was the flexibility to respond to the needs in complex
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 10
+    line_number: 4
+    span_number: 0
+    total_y: 55518.28890991211
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 434.124267578125, 563.2944946289062, 447.6879577636719)
+    double_fontsize_int: 20
+  - index: 3581
+    text: 'and ever-evolving needs. The flexible funding allowed IFRC to support SARC interventions to meet unmet '
+    text_base: and ever evolving needs the flexible funding allowed ifrc to support sarc interventions to meet unmet
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 10
+    line_number: 5
+    span_number: 0
+    total_y: 55531.868896484375
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 447.7042541503906, 563.3560791015625, 461.2679443359375)
+    double_fontsize_int: 20
+  - index: 3582
+    text: 'needs and expand services to the most vulnerable people in hard-to-reach areas, where other agencies had '
+    text_base: needs and expand services to the most vulnerable people in hard to reach areas where other agencies had
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 10
+    line_number: 6
+    span_number: 0
+    total_y: 55545.54888916016
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 461.3842468261719, 563.2232055664062, 474.94793701171875)
+    double_fontsize_int: 20
+  - index: 3583
+    text: 'limited access. '
+    text_base: limited access
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 10
+    line_number: 7
+    span_number: 0
+    total_y: 55559.10891723633
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 474.94427490234375, 129.80726623535156, 488.5079650878906)
+    double_fontsize_int: 20
+  - index: 3584
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 55572.78890991211
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 489.2565002441406, 46.22121047973633, 501.4584655761719)
+    double_fontsize_int: 20
+  - index: 3585
+    text: 'In a very dynamic and complex operating environment, IFRC and its partners need to be flexible to position '
+    text_base: in a very dynamic and complex operating environment ifrc and its partners need to be flexible to position
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 11
+    line_number: 0
+    span_number: 1
+    total_y: 55572.78890991211
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 488.624267578125, 563.1520385742188, 502.1879577636719)
+    double_fontsize_int: 20
+  - index: 3586
+    text: 'as one Movement and as an organization with the right policies, procedures, guidelines, and funding, in order '
+    text_base: as one movement and as an organization with the right policies procedures guidelines and funding in order
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 11
+    line_number: 2
+    span_number: 0
+    total_y: 55586.348876953125
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 502.1842346191406, 563.2313232421875, 515.7479248046875)
+    double_fontsize_int: 20
+  - index: 3587
+    text: 'to assist more people who are in need of RCRC assistance in a time when increasing needs are driven by a '
+    text_base: to assist more people who are in need of rcrc assistance in a time when increasing needs are driven by a
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 11
+    line_number: 3
+    span_number: 0
+    total_y: 55600.02893066406
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 515.8642578125, 562.816162109375, 529.427978515625)
+    double_fontsize_int: 20
+  - index: 3588
+    text: 'declining economic situation.    '
+    text_base: declining economic situation
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 11
+    line_number: 4
+    span_number: 0
+    total_y: 55613.5888671875
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 529.4241943359375, 205.67726135253906, 542.9879150390625)
+    double_fontsize_int: 20
+  - index: 3589
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 55627.26892089844
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 543.7365112304688, 46.22121047973633, 555.9384765625)
+    double_fontsize_int: 20
+  - index: 3590
+    text: 'While managing an operation of such a big scale and complexity, it is important that IFRC works with a gradual '
+    text_base: while managing an operation of such a big scale and complexity it is important that ifrc works with a gradual
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 12
+    line_number: 0
+    span_number: 1
+    total_y: 55627.26892089844
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 543.104248046875, 563.1211547851562, 556.66796875)
+    double_fontsize_int: 20
+  - index: 3591
+    text: 'scaling down strategy, in parallel to institutional strengthening with the National Society. IFRC had huge '
+    text_base: scaling down strategy in parallel to institutional strengthening with the national society ifrc had huge
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 12
+    line_number: 2
+    span_number: 0
+    total_y: 55640.82891845703
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 556.6642456054688, 562.9656372070312, 570.2279663085938)
+    double_fontsize_int: 20
+  - index: 3592
+    text: 'funding without having a proper implementable strategy to scale down or migrate from the emergency '
+    text_base: funding without having a proper implementable strategy to scale down or migrate from the emergency
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 12
+    line_number: 3
+    span_number: 0
+    total_y: 55654.50891113281
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 570.34423828125, 563.1795654296875, 583.907958984375)
+    double_fontsize_int: 20
+  - index: 3593
+    text: 'platform to a more sustainable long-term programming with a strong NSD component. The plan for scaling '
+    text_base: platform to a more sustainable long term programming with a strong nsd component the plan for scaling
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 12
+    line_number: 4
+    span_number: 0
+    total_y: 55668.068908691406
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 583.9042358398438, 563.1438598632812, 597.4679565429688)
+    double_fontsize_int: 20
+  - index: 3594
+    text: 'down was developed together with SARC in 2021 when 80% of funds were slashed. This does not allow SARC '
+    text_base: down was developed together with sarc in 2021 when 80 of funds were slashed this does not allow sarc
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 12
+    line_number: 5
+    span_number: 0
+    total_y: 55681.62890625
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 597.4642333984375, 563.3599853515625, 611.0279541015625)
+    double_fontsize_int: 20
+  - index: 3595
+    text: 'to adapt its operation gradually over the years. A scenario planning on the funding situation based on risk '
+    text_base: to adapt its operation gradually over the years a scenario planning on the funding situation based on risk
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 12
+    line_number: 6
+    span_number: 0
+    total_y: 55695.30889892578
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 611.1442260742188, 562.9609375, 624.7079467773438)
+    double_fontsize_int: 20
+  - index: 3596
+    text: 'assessment, especially analyzing the political implication of the IFRC appeal funding is extremely critical. The '
+    text_base: assessment especially analyzing the political implication of the ifrc appeal funding is extremely critical the
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 12
+    line_number: 7
+    span_number: 0
+    total_y: 55708.89892578125
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 624.7342529296875, 563.2542724609375, 638.2979736328125)
+    double_fontsize_int: 20
+  - index: 3597
+    text: 'mitigation strategy needs to be developed and made operational well in advance and in line with the future '
+    text_base: mitigation strategy needs to be developed and made operational well in advance and in line with the future
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 12
+    line_number: 8
+    span_number: 0
+    total_y: 55722.57891845703
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 638.4142456054688, 563.431640625, 651.9779663085938)
+    double_fontsize_int: 20
+  - index: 3598
+    text: 'direction of such a protracted crisis. '
+    text_base: direction of such a protracted crisis
+    style: 'regular, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 66
+    block_number: 12
+    line_number: 9
+    span_number: 0
+    total_y: 55736.138916015625
+    origin_x: 59.52000045776367
+    bbox: (59.52000045776367, 651.9742431640625, 228.83726501464844, 665.5379638671875)
+    double_fontsize_int: 20
+  items:
+  - For this emergency appeal, IFRC received a good funding response from its partners and donors. At a certain stage, the funding environment became complex and started declining after international sanctions were put in place, with the politicization of the operational context and the funding environment in general. The important aspect of multilateral funding to IFRC appeal was the flexibility to respond to the needs in complex and ever-evolving needs. The flexible funding allowed IFRC to support SARC interventions to meet unmet needs and expand services to the most vulnerable people in hard-to-reach areas, where other agencies had limited access.
+  - In a very dynamic and complex operating environment, IFRC and its partners need to be flexible to position as one Movement and as an organization with the right policies, procedures, guidelines, and funding, in order to assist more people who are in need of RCRC assistance in a time when increasing needs are driven by a declining economic situation.
+  - While managing an operation of such a big scale and complexity, it is important that IFRC works with a gradual scaling down strategy, in parallel to institutional strengthening with the National Society. IFRC had huge funding without having a proper implementable strategy to scale down or migrate from the emergency platform to a more sustainable long-term programming with a strong NSD component. The plan for scaling down was developed together with SARC in 2021 when 80% of funds were slashed. This does not allow SARC to adapt its operation gradually over the years. A scenario planning on the funding situation based on risk assessment, especially analyzing the political implication of the IFRC appeal funding is extremely critical. The mitigation strategy needs to be developed and made operational well in advance and in line with the future direction of such a protracted crisis.

@@ -1,10 +1,4 @@
-# *****************************
-# Dockerfile for PARSE+TAG API
-# *****************************
-
-
-# *****************************
-# Install Python & Java
+############## FROM section 
 
 # We need to use both Python & Java, because of tika
 # There exist several methods
@@ -24,10 +18,7 @@ RUN java --version
 # Method 2, using a custom docker that has Python & Java (older versions)
 # FROM rappdw/docker-java-python:openjdk1.8.0_171-python3.6.6
 
-
-# *****************************
-# Rest of Dockerfile
- 
+############## Rest of Dockerfile
 
 # Should we use pip or pip3?
 # It is not really critical here, but a good practice is to use 'python -m pip'
@@ -36,31 +27,24 @@ RUN java --version
 RUN python -m pip install --upgrade pip
 
 # Create working directory
-#WORKDIR /app
+WORKDIR /ea_parsing/
 
-# Install Python dependencies with pip & download a spacy model
-COPY requirements.txt ./
-COPY main.py ./ 
+# Install Python dependencies with pip
+COPY requirements.txt .
 RUN python -m pip install -r requirements.txt --no-cache-dir --disable-pip-version-check
-RUN python -m spacy download en_core_web_md
 
-# Install two dref packages
-COPY dref_parsing ./dref_parsing
+# Install my app
+COPY setup.cfg setup.py ./
 COPY ea_parsing ./ea_parsing
-COPY dref_tagging ./dref_tagging
-
-RUN python -m pip install -e ./dref_parsing/ --no-cache-dir --disable-pip-version-check
-RUN python -m pip install -e ./ea_parsing/ --no-cache-dir --disable-pip-version-check
-RUN python -m pip install -e ./dref_tagging/ --no-cache-dir --disable-pip-version-check
+RUN python -m pip install -e . --no-cache-dir --disable-pip-version-check
 
 # The EXPOSE line can probably be skipped:
 EXPOSE 8000
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000","--workers", "1"]
-#EXPOSE 5000
-#CMD ["uvicorn", "dref_parsing.main:app", "--host", "0.0.0.0", "--port", "5000","--workers", "1"]
+CMD ["uvicorn", "ea_parsing.main:app", "--host", "0.0.0.0", "--port", "8000","--workers", "1"]
 
-# NB, in case of the following error during docker build:
-# "failed to solve with frontend dockerfile.v0: failed to create LLB definition: failed to authorize: rpc error: 
-# run this before build command
-# export DOCKER_BUILDKIT=0
-# export COMPOSE_DOCKER_CLI_BUILD=0
+# The same, but port 5000 instead of 8000:
+#EXPOSE 5000
+#CMD ["uvicorn", "ea_parsing.main:app", "--host", "0.0.0.0", "--port", "5000","--workers", "1"]
+
+# when main.py was not a part of ea_parsing package:
+# CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000","--workers", "1"]

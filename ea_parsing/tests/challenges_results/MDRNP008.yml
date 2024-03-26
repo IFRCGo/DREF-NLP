@@ -1,0 +1,1958 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 15845.619689941406
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 680.4027709960938
+    - 97.8328857421875
+    - 694.1177368164062
+    idx: 1287
+  sector_title: Health and Care
+  sector_idx: 947
+  sector_similarity_score: 1.0
+  content:
+  - index: 1288
+    text: 'Activities related to people referred to psychosocial counsellor was deprioritized by NRCS health team. The '
+    text_base: activities related to people referred to psychosocial counsellor was deprioritized by nrcs health team the
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 15860.859680175781
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 695.593017578125
+    - 557.9795532226562
+    - 709.2780151367188
+    double_fontsize_int: 20
+  - index: 1289
+    text: 'recruitment of psychosocial positions at NRCS headquarter and district level took more time than expected. This '
+    text_base: recruitment of psychosocial positions at nrcs headquarter and district level took more time than expected this
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 15874.059692382812
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 708.79296875
+    - 557.3289184570312
+    - 722.47802734375
+    double_fontsize_int: 20
+  - index: 1290
+    text: 'position was vacant throughout 2016, resulting in delayed technical support to the field team. Secondly. trained PSS '
+    text_base: position was vacant throughout 2016 resulting in delayed technical support to the field team secondly trained pss
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 15887.259643554688
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 721.992919921875
+    - 557.9252319335938
+    - 735.677978515625
+    double_fontsize_int: 20
+  - index: 1291
+    text: 'volunteers carried out household visits in the target communities and it was observed that needs for further '
+    text_base: volunteers carried out household visits in the target communities and it was observed that needs for further
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 15900.455688476562
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 735.18896484375
+    - 557.9732055664062
+    - 748.8740234375
+    double_fontsize_int: 20
+  - index: 1292
+    text: 'psychosocial counselling in target communities very low. NRCS changed the strategy to deliver this through schools. '
+    text_base: psychosocial counselling in target communities very low nrcs changed the strategy to deliver this through schools
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 15913.775695800781
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 748.509033203125
+    - 557.709716796875
+    - 762.1940307617188
+    double_fontsize_int: 20
+  - index: 1293
+    text: 'As a result, the initial target for psychosocial interventions significantly revised to 672 from 6,975 people.  '
+    text_base: as a result the initial target for psychosocial interventions significantly revised to 672 from 6 975 people
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 6
+    line_number: 5
+    span_number: 0
+    total_y: 15926.975708007812
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 761.708984375
+    - 508.0688781738281
+    - 775.39404296875
+    double_fontsize_int: 20
+  items:
+  - Activities related to people referred to psychosocial counsellor was deprioritized by NRCS health team. The recruitment of psychosocial positions at NRCS headquarter and district level took more time than expected. This position was vacant throughout 2016, resulting in delayed technical support to the field team. Secondly. trained PSS volunteers carried out household visits in the target communities and it was observed that needs for further psychosocial counselling in target communities very low. NRCS changed the strategy to deliver this through schools. As a result, the initial target for psychosocial interventions significantly revised to 672 from 6,975 people.
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 20132.015563964844
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 757.19873046875
+    - 97.8328857421875
+    - 770.9136962890625
+    idx: 1634
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 1301
+  sector_similarity_score: 1.0
+  content:
+  - index: 1635
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 20
+    line_number: 0
+    span_number: 0
+    total_y: 20150.49560546875
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 776.322509765625
+    - 46.22121047973633
+    - 788.5244750976562
+    double_fontsize_int: 20
+  - index: 1636
+    text: 'The EPoA target for the construction of DWSS was revised to 35 from 50 through operations update. Initial EPoA '
+    text_base: the epoa target for the construction of dwss was revised to 35 from 50 through operations update initial epoa
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 20
+    line_number: 0
+    span_number: 1
+    total_y: 20150.49560546875
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 775.6290283203125
+    - 557.9657592773438
+    - 789.3140258789062
+    double_fontsize_int: 20
+  - index: 1637
+    text: 'target was 50 based on findings from the water source mapping and inventory survey however during the actual '
+    text_base: target was 50 based on findings from the water source mapping and inventory survey however during the actual
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 23
+    block_number: 20
+    line_number: 2
+    span_number: 0
+    total_y: 20163.575561523438
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 788.708984375
+    - 557.4136352539062
+    - 802.3939819335938
+    double_fontsize_int: 20
+  - index: 1643
+    text: 'construction, per unit costs of some of the big-scale water facilities increased, resulted in excess of approved '
+    text_base: construction per unit costs of some of the big scale water facilities increased resulted in excess of approved
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 20251.919555664062
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 35.132965087890625
+    - 557.8532104492188
+    - 48.8180046081543
+    double_fontsize_int: 20
+  - index: 1644
+    text: 'budget limit. In addition, shortage of trained masons and break in the rate contract also escalated the overall cost '
+    text_base: budget limit in addition shortage of trained masons and break in the rate contract also escalated the overall cost
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 20265.119567871094
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 48.332977294921875
+    - 557.4747314453125
+    - 62.01801681518555
+    double_fontsize_int: 20
+  - index: 1645
+    text: 'of the DWSS construction. With the revision DWSS target, total number of people reach revised to 12,000 from '
+    text_base: of the dwss construction with the revision dwss target total number of people reach revised to 12 000 from
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 2
+    line_number: 2
+    span_number: 0
+    total_y: 20278.439575195312
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 61.652984619140625
+    - 557.8033447265625
+    - 75.33802795410156
+    double_fontsize_int: 20
+  - index: 1646
+    text: '17, 560 people.  '
+    text_base: 17 560 people
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 2
+    line_number: 3
+    span_number: 0
+    total_y: 20291.639587402344
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 74.85299682617188
+    - 134.06887817382812
+    - 88.53804016113281
+    double_fontsize_int: 20
+  - index: 1647
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 20305.57958984375
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 89.48650360107422
+    - 46.22121047973633
+    - 101.6884765625
+    double_fontsize_int: 20
+  - index: 1648
+    text: 'Community participation was slow in the initial phase of WASH intervention; especially for the construction DWSS '
+    text_base: community participation was slow in the initial phase of wash intervention especially for the construction dwss
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 20305.57958984375
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 88.79299926757812
+    - 557.7575073242188
+    - 102.47804260253906
+    double_fontsize_int: 20
+  - index: 1649
+    text: 'in terms of ownership, labour contribution, maintenance responsibilities. NRCS staff and volunteers conducted '
+    text_base: in terms of ownership labour contribution maintenance responsibilities nrcs staff and volunteers conducted
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 20318.77960205078
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 101.99301147460938
+    - 557.9336547851562
+    - 115.67805480957031
+    double_fontsize_int: 20
+  - index: 1650
+    text: 'door-to-door visits to create awareness, community mobilization and formation of the WUCs. '
+    text_base: door to door visits to create awareness community mobilization and formation of the wucs
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 3
+    line_number: 3
+    span_number: 0
+    total_y: 20331.979553222656
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 115.19296264648438
+    - 470.868896484375
+    - 128.8780059814453
+    double_fontsize_int: 20
+  - index: 1651
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 20345.89959716797
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 129.8065185546875
+    - 46.22121047973633
+    - 142.00848388671875
+    double_fontsize_int: 20
+  - index: 1652
+    text: 'Managing procurement of 200 plus different types of construction material for water schemes (314 DWSS) and '
+    text_base: managing procurement of 200 plus different types of construction material for water schemes 314 dwss and
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 20345.89959716797
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 129.11300659179688
+    - 557.9887084960938
+    - 142.7980499267578
+    double_fontsize_int: 20
+  - index: 1653
+    text: 'toilets (10,000 toilets) to be transported to remote communities of 14 districts through NRCS HQ was challenging '
+    text_base: toilets 10 000 toilets to be transported to remote communities of 14 districts through nrcs hq was challenging
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 20359.099548339844
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 142.31295776367188
+    - 557.9888305664062
+    - 155.9980010986328
+    double_fontsize_int: 20
+  - index: 1654
+    text: 'and time consuming; especially quantity and type of construction material for each DWSS was possible only upon '
+    text_base: and time consuming especially quantity and type of construction material for each dwss was possible only upon
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 20372.299560546875
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 155.51296997070312
+    - 557.8786010742188
+    - 169.19801330566406
+    double_fontsize_int: 20
+  - index: 1655
+    text: 'completing the design. Considering the standard procurement procedure of NRCS that has provision of 40 days '
+    text_base: completing the design considering the standard procurement procedure of nrcs that has provision of 40 days
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 20385.499572753906
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 168.71298217773438
+    - 557.7853393554688
+    - 182.3980255126953
+    double_fontsize_int: 20
+  - index: 1656
+    text: 'tendering process could have significantly delayed delivery of construction materials through parallel tendering '
+    text_base: tendering process could have significantly delayed delivery of construction materials through parallel tendering
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 4
+    line_number: 5
+    span_number: 0
+    total_y: 20398.819580078125
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 182.03298950195312
+    - 557.4463500976562
+    - 195.71803283691406
+    double_fontsize_int: 20
+  - index: 1657
+    text: 'process. Hence, ERO took the decision to follow Rate Contract modality with selected vendors for speedy delivery '
+    text_base: process hence ero took the decision to follow rate contract modality with selected vendors for speedy delivery
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 4
+    line_number: 6
+    span_number: 0
+    total_y: 20412.019592285156
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 195.23300170898438
+    - 557.926025390625
+    - 208.9180450439453
+    double_fontsize_int: 20
+  - index: 1658
+    text: of material in remote communities.
+    text_base: of material in remote communities
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 24
+    block_number: 4
+    line_number: 7
+    span_number: 0
+    total_y: 20425.21954345703
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 208.43295288085938
+    - 212.21730041503906
+    - 222.1179962158203
+    double_fontsize_int: 20
+  items:
+  - The EPoA target for the construction of DWSS was revised to 35 from 50 through operations update. Initial EPoA target was 50 based on findings from the water source mapping and inventory survey however during the actual construction, per unit costs of some of the big-scale water facilities increased, resulted in excess of approved budget limit. In addition, shortage of trained masons and break in the rate contract also escalated the overall cost of the DWSS construction. With the revision DWSS target, total number of people reach revised to 12,000 from 17, 560 people.
+  - Community participation was slow in the initial phase of WASH intervention; especially for the construction DWSS in terms of ownership, labour contribution, maintenance responsibilities. NRCS staff and volunteers conducted door-to-door visits to create awareness, community mobilization and formation of the WUCs.
+  - Managing procurement of 200 plus different types of construction material for water schemes (314 DWSS) and toilets (10,000 toilets) to be transported to remote communities of 14 districts through NRCS HQ was challenging and time consuming; especially quantity and type of construction material for each DWSS was possible only upon completing the design. Considering the standard procurement procedure of NRCS that has provision of 40 days tendering process could have significantly delayed delivery of construction materials through parallel tendering process. Hence, ERO took the decision to follow Rate Contract modality with selected vendors for speedy delivery of material in remote communities.
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 23302.509521484375
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 560.0127563476562
+    - 97.8328857421875
+    - 573.7277221679688
+    idx: 1845
+  sector_title: Livelihoods
+  sector_idx: 1685
+  sector_similarity_score: 1.0
+  content:
+  - index: 1846
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 23320.149536132812
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 578.2965087890625
+    - 46.22121047973633
+    - 590.4984741210938
+    double_fontsize_int: 20
+  - index: 1847
+    text: 'Under new federal structure overall target for livelihoods cash grants, trainings, support to ultra-poor families to '
+    text_base: under new federal structure overall target for livelihoods cash grants trainings support to ultra poor families to
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 12
+    line_number: 0
+    span_number: 1
+    total_y: 23320.149536132812
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 577.60302734375
+    - 556.243896484375
+    - 591.2880249023438
+    double_fontsize_int: 20
+  - index: 1848
+    text: 'strengthen their traditional business activities and enterprises revised. The plan for increased access to livelihood '
+    text_base: strengthen their traditional business activities and enterprises revised the plan for increased access to livelihood
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 12
+    line_number: 2
+    span_number: 0
+    total_y: 23333.349548339844
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 590.802978515625
+    - 555.6781005859375
+    - 604.488037109375
+    double_fontsize_int: 20
+  - index: 1849
+    text: 'activities through community-based projects was adjusted based on community needs and priority as well. While '
+    text_base: activities through community based projects was adjusted based on community needs and priority as well while
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 12
+    line_number: 3
+    span_number: 0
+    total_y: 23346.54949951172
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 604.0029296875
+    - 556.2453002929688
+    - 617.68798828125
+    double_fontsize_int: 20
+  - index: 1850
+    text: 'implementing community projects such as irrigation canals and foot trails, number of small schemes merged '
+    text_base: implementing community projects such as irrigation canals and foot trails number of small schemes merged
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 12
+    line_number: 4
+    span_number: 0
+    total_y: 23359.74951171875
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 617.2030029296875
+    - 555.6780395507812
+    - 630.8880004882812
+    double_fontsize_int: 20
+  - index: 1851
+    text: 'together into big schemes for practical reasons and to avoid conflicts within communities.  '
+    text_base: together into big schemes for practical reasons and to avoid conflicts within communities
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 12
+    line_number: 5
+    span_number: 0
+    total_y: 23372.94952392578
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 630.4029541015625
+    - 458.8388977050781
+    - 644.0880126953125
+    double_fontsize_int: 20
+  - index: 1852
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 23386.989501953125
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 645.136474609375
+    - 46.22121047973633
+    - 657.3384399414062
+    double_fontsize_int: 20
+  - index: 1853
+    text: 'Although NRCS followed vulnerability criteria and wellbeing ranking for the selection of livelihoods support '
+    text_base: although nrcs followed vulnerability criteria and wellbeing ranking for the selection of livelihoods support
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 13
+    line_number: 0
+    span_number: 1
+    total_y: 23386.989501953125
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 644.4429931640625
+    - 556.2079467773438
+    - 658.1279907226562
+    double_fontsize_int: 20
+  - index: 1854
+    text: 'beneficiaries, the challenge remained to ensure exclusion due to variance in vulnerability from one community to '
+    text_base: beneficiaries the challenge remained to ensure exclusion due to variance in vulnerability from one community to
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 13
+    line_number: 2
+    span_number: 0
+    total_y: 23400.099548339844
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 657.552978515625
+    - 555.8821411132812
+    - 671.238037109375
+    double_fontsize_int: 20
+  - index: 1855
+    text: 'other. Secondly, every household had a preference to be included for livelihoods cash grant support.  '
+    text_base: other secondly every household had a preference to be included for livelihoods cash grant support
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 27
+    block_number: 13
+    line_number: 3
+    span_number: 0
+    total_y: 23413.419494628906
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 670.8729248046875
+    - 509.5088806152344
+    - 684.5579833984375
+    double_fontsize_int: 20
+  items:
+  - Under new federal structure overall target for livelihoods cash grants, trainings, support to ultra-poor families to strengthen their traditional business activities and enterprises revised. The plan for increased access to livelihood activities through community-based projects was adjusted based on community needs and priority as well. While implementing community projects such as irrigation canals and foot trails, number of small schemes merged together into big schemes for practical reasons and to avoid conflicts within communities.
+  - Although NRCS followed vulnerability criteria and wellbeing ranking for the selection of livelihoods support beneficiaries, the challenge remained to ensure exclusion due to variance in vulnerability from one community to other. Secondly, every household had a preference to be included for livelihoods cash grant support.
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 28146.6494140625
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 352.6327819824219
+    - 97.8328857421875
+    - 366.3476867675781
+    idx: 2180
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 1875
+  sector_similarity_score: 1.0
+  content:
+  - index: 2181
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 28163.569427490234
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 370.1965026855469
+    - 46.22121047973633
+    - 382.3984680175781
+    double_fontsize_int: 20
+  - index: 2182
+    text: 'The reconstruction of houses slowly started after the disbursement of first instalment of NPR 50,000 per '
+    text_base: the reconstruction of houses slowly started after the disbursement of first instalment of npr 50 000 per
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 28163.569427490234
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 369.50299072265625
+    - 557.4189453125
+    - 383.1880187988281
+    double_fontsize_int: 20
+  - index: 2183
+    text: 'household in August 2016, but could not progress much further as NRA requested partners to wait until it '
+    text_base: household in august 2016 but could not progress much further as nra requested partners to wait until it
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 28176.769409179688
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 382.7029724121094
+    - 557.4109497070312
+    - 396.38800048828125
+    double_fontsize_int: 20
+  - index: 2184
+    text: 'reconfigured the grant distribution amount and tranches which only finalized the guidelines and procedure for the '
+    text_base: reconfigured the grant distribution amount and tranches which only finalized the guidelines and procedure for the
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 5
+    line_number: 3
+    span_number: 0
+    total_y: 28189.96942138672
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 395.9029846191406
+    - 557.8018798828125
+    - 409.5880126953125
+    double_fontsize_int: 20
+  - index: 2185
+    text: 'progressive distribution of instalments on 18 January 2017. Further, On 26 September 2016, the Government '
+    text_base: progressive distribution of instalments on 18 january 2017 further on 26 september 2016 the government
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 5
+    line_number: 4
+    span_number: 0
+    total_y: 28203.16943359375
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 409.1029968261719
+    - 557.753173828125
+    - 422.78802490234375
+    double_fontsize_int: 20
+  - index: 2186
+    text: 'declared that the funds to be made available to each housing grant beneficiary was to be raised from NPR 200,000 '
+    text_base: declared that the funds to be made available to each housing grant beneficiary was to be raised from npr 200 000
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 5
+    line_number: 5
+    span_number: 0
+    total_y: 28216.369415283203
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 422.302978515625
+    - 557.943603515625
+    - 435.9880065917969
+    double_fontsize_int: 20
+  - index: 2187
+    text: 'NPR to NPR 300,000, this action led to a review of the IFRC shelter target from a total of 3,000, to 2469 to meet '
+    text_base: npr to npr 300 000 this action led to a review of the ifrc shelter target from a total of 3 000 to 2469 to meet
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 5
+    line_number: 6
+    span_number: 0
+    total_y: 28229.689422607422
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 435.62298583984375
+    - 557.9445190429688
+    - 449.3080139160156
+    double_fontsize_int: 20
+  - index: 2188
+    text: 'the 50 per cent increase in total shelter cash grants per family. Since January 2017, the distribution of 2nd '
+    text_base: the 50 per cent increase in total shelter cash grants per family since january 2017 the distribution of 2nd
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 5
+    line_number: 7
+    span_number: 0
+    total_y: 28242.889404296875
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 448.8229675292969
+    - 557.953125
+    - 462.50799560546875
+    double_fontsize_int: 20
+  - index: 2189
+    text: 'instalment of NPR 150,000 commenced, and the construction started picking up the momentum. Later, based on '
+    text_base: instalment of npr 150 000 commenced and the construction started picking up the momentum later based on
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 5
+    line_number: 8
+    span_number: 0
+    total_y: 28256.109405517578
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 462.04296875
+    - 557.9207153320312
+    - 475.7279968261719
+    double_fontsize_int: 20
+  - index: 2190
+    text: 'MoU signed between beneficiary and the local government this figure further revised to 2,433 families which was '
+    text_base: mou signed between beneficiary and the local government this figure further revised to 2 433 families which was
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 5
+    line_number: 9
+    span_number: 0
+    total_y: 28269.30941772461
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 475.24298095703125
+    - 557.9638671875
+    - 488.9280090332031
+    double_fontsize_int: 20
+  - index: 2191
+    text: 'announced through operations update.  '
+    text_base: announced through operations update
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 5
+    line_number: 10
+    span_number: 0
+    total_y: 28282.50942993164
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 488.4429931640625
+    - 237.05886840820312
+    - 502.1280212402344
+    double_fontsize_int: 20
+  - index: 2192
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 28296.549377441406
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 503.17645263671875
+    - 46.22121047973633
+    - 515.37841796875
+    double_fontsize_int: 20
+  - index: 2193
+    text: 'The common challenge experienced during the house construction process in all of the three districts was delayed '
+    text_base: the common challenge experienced during the house construction process in all of the three districts was delayed
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 28296.549377441406
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 502.4829406738281
+    - 557.4608764648438
+    - 516.16796875
+    double_fontsize_int: 20
+  - index: 2194
+    text: 'technical supervision and certification of different stages of construction by the government engineers due to '
+    text_base: technical supervision and certification of different stages of construction by the government engineers due to
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 28307.94940185547
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 513.8829345703125
+    - 557.8119506835938
+    - 527.5679931640625
+    double_fontsize_int: 20
+  - index: 2195
+    text: 'shortage of staff at local levels. Delayed certification of construction phases and approval for releasing next '
+    text_base: shortage of staff at local levels delayed certification of construction phases and approval for releasing next
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 28319.46942138672
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 525.4029541015625
+    - 557.7979125976562
+    - 539.0880126953125
+    double_fontsize_int: 20
+  - index: 2196
+    text: 'tranche by government engineer to adhere to the national construction standards significantly impacted '
+    text_base: tranche by government engineer to adhere to the national construction standards significantly impacted
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 28330.86944580078
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 536.802978515625
+    - 557.4531860351562
+    - 550.488037109375
+    double_fontsize_int: 20
+  - index: 2197
+    text: 'construction progress. '
+    text_base: construction progress
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 6
+    line_number: 5
+    span_number: 0
+    total_y: 28342.389404296875
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 548.322998046875
+    - 160.82887268066406
+    - 562.0079956054688
+    double_fontsize_int: 20
+  - index: 2198
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 28354.629455566406
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 561.2565307617188
+    - 46.22121047973633
+    - 573.45849609375
+    double_fontsize_int: 20
+  - index: 2199
+    text: 'Since the starting of the project, one of the major challenges while implementing ERO had always been lack up '
+    text_base: since the starting of the project one of the major challenges while implementing ero had always been lack up
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 28354.629455566406
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 560.56298828125
+    - 557.271484375
+    - 574.248046875
+    double_fontsize_int: 20
+  - index: 2200
+    text: 'local materials such as stone, wood, water and also human resources. Secondly, unavailability of sufficient trained '
+    text_base: local materials such as stone wood water and also human resources secondly unavailability of sufficient trained
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 28366.1494140625
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 572.0830078125
+    - 557.470703125
+    - 585.7680053710938
+    double_fontsize_int: 20
+  - index: 2201
+    text: 'masons at community level and compelled to mobilize the same masons for shelter construction as well as WASH '
+    text_base: masons at community level and compelled to mobilize the same masons for shelter construction as well as wash
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 7
+    line_number: 3
+    span_number: 0
+    total_y: 28377.549438476562
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 583.4830322265625
+    - 557.64306640625
+    - 597.1680297851562
+    double_fontsize_int: 20
+  - index: 2202
+    text: 'related constructions such as DWSS and toilets. This in turn had resulted in delayed shelter and WASH '
+    text_base: related constructions such as dwss and toilets this in turn had resulted in delayed shelter and wash
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 7
+    line_number: 4
+    span_number: 0
+    total_y: 28389.069396972656
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 595.0029296875
+    - 557.3112182617188
+    - 608.68798828125
+    double_fontsize_int: 20
+  - index: 2203
+    text: 'infrastructure constructions across districts.  '
+    text_base: infrastructure constructions across districts
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 7
+    line_number: 5
+    span_number: 0
+    total_y: 28400.589416503906
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 606.52294921875
+    - 256.9788818359375
+    - 620.2080078125
+    double_fontsize_int: 20
+  - index: 2204
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 28412.82940673828
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 619.4564819335938
+    - 46.22121047973633
+    - 631.658447265625
+    double_fontsize_int: 20
+  - index: 2205
+    text: 'Finding a suitable space for the construction of community infrastruture was challenging. Hence this activity was '
+    text_base: finding a suitable space for the construction of community infrastruture was challenging hence this activity was
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 8
+    line_number: 0
+    span_number: 1
+    total_y: 28412.82940673828
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 618.762939453125
+    - 557.9671630859375
+    - 632.447998046875
+    double_fontsize_int: 20
+  - index: 2206
+    text: 'deprioritised in three target districts of this appeal. However, IFRC provided support to NRCS and PNSs in '
+    text_base: deprioritised in three target districts of this appeal however ifrc provided support to nrcs and pnss in
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 8
+    line_number: 2
+    span_number: 0
+    total_y: 28424.229431152344
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 630.1629638671875
+    - 557.88037109375
+    - 643.8480224609375
+    double_fontsize_int: 20
+  - index: 2207
+    text: 'assessments, designing, monitoring, quality assurance and contractual agreements for the construction of '
+    text_base: assessments designing monitoring quality assurance and contractual agreements for the construction of
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 8
+    line_number: 3
+    span_number: 0
+    total_y: 28435.749450683594
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 641.6829833984375
+    - 557.880859375
+    - 655.3680419921875
+    double_fontsize_int: 20
+  - index: 2208
+    text: 'community infrastructure in other districts where it was feasible.  '
+    text_base: community infrastructure in other districts where it was feasible
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 33
+    block_number: 8
+    line_number: 4
+    span_number: 0
+    total_y: 28447.299438476562
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 653.2330322265625
+    - 345.91888427734375
+    - 666.9180297851562
+    double_fontsize_int: 20
+  items:
+  - The reconstruction of houses slowly started after the disbursement of first instalment of NPR 50,000 per household in August 2016, but could not progress much further as NRA requested partners to wait until it reconfigured the grant distribution amount and tranches which only finalized the guidelines and procedure for the progressive distribution of instalments on 18 January 2017. Further, On 26 September 2016, the Government declared that the funds to be made available to each housing grant beneficiary was to be raised from NPR 200,000 NPR to NPR 300,000, this action led to a review of the IFRC shelter target from a total of 3,000, to 2469 to meet the 50 per cent increase in total shelter cash grants per family. Since January 2017, the distribution of 2nd instalment of NPR 150,000 commenced, and the construction started picking up the momentum. Later, based on MoU signed between beneficiary and the local government this figure further revised to 2,433 families which was announced through operations update.
+  - The common challenge experienced during the house construction process in all of the three districts was delayed technical supervision and certification of different stages of construction by the government engineers due to shortage of staff at local levels. Delayed certification of construction phases and approval for releasing next tranche by government engineer to adhere to the national construction standards significantly impacted construction progress.
+  - Since the starting of the project, one of the major challenges while implementing ERO had always been lack up local materials such as stone, wood, water and also human resources. Secondly, unavailability of sufficient trained masons at community level and compelled to mobilize the same masons for shelter construction as well as WASH related constructions such as DWSS and toilets. This in turn had resulted in delayed shelter and WASH infrastructure constructions across districts.
+  - Finding a suitable space for the construction of community infrastruture was challenging. Hence this activity was deprioritised in three target districts of this appeal. However, IFRC provided support to NRCS and PNSs in assessments, designing, monitoring, quality assurance and contractual agreements for the construction of community infrastructure in other districts where it was feasible.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 35
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 29782.489379882812
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 304.3281555175781
+    - 102.04578399658203
+    - 318.373291015625
+    idx: 2309
+  sector_title: Migration and displacement
+  sector_idx: 2246
+  sector_similarity_score: 1.0
+  content:
+  - index: 2310
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 35
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 29800.609375
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 323.396484375
+    - 46.22121047973633
+    - 335.59844970703125
+    double_fontsize_int: 20
+  - index: 2311
+    text: 'Lack of flexibility among the Movement partners to respond the needs of coordinated activities, as operational '
+    text_base: lack of flexibility among the movement partners to respond the needs of coordinated activities as operational
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 35
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 29800.609375
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 322.7029724121094
+    - 557.9417724609375
+    - 336.38800048828125
+    double_fontsize_int: 20
+  - index: 2312
+    text: 'priorities were more focused on relief distribution than RFL. The trained RFL volunteers were widely mobilized to '
+    text_base: priorities were more focused on relief distribution than rfl the trained rfl volunteers were widely mobilized to
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 35
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 29812.009399414062
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 334.1029968261719
+    - 557.9751586914062
+    - 347.78802490234375
+    double_fontsize_int: 20
+  - index: 2313
+    text: 'support relief distribution.  '
+    text_base: support relief distribution
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 35
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 29823.529388427734
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 345.62298583984375
+    - 176.90887451171875
+    - 359.3080139160156
+    double_fontsize_int: 20
+  - index: 2314
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 35
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 29835.76937866211
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 358.5564880371094
+    - 46.22121047973633
+    - 370.7584533691406
+    double_fontsize_int: 20
+  - index: 2315
+    text: 'Lack of knowledge on importance of RFL and Dignified Management of the Dead among the Movement partners '
+    text_base: lack of knowledge on importance of rfl and dignified management of the dead among the movement partners
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 35
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 29835.76937866211
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 357.86297607421875
+    - 557.9888305664062
+    - 371.5480041503906
+    double_fontsize_int: 20
+  - index: 2316
+    text: 'and NRCS district chapters need to be further strengthened.  '
+    text_base: and nrcs district chapters need to be further strengthened
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 35
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 29847.169372558594
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 369.2629699707031
+    - 331.4989013671875
+    - 382.947998046875
+    double_fontsize_int: 20
+  items:
+  - Lack of flexibility among the Movement partners to respond the needs of coordinated activities, as operational priorities were more focused on relief distribution than RFL. The trained RFL volunteers were widely mobilized to support relief distribution.
+  - Lack of knowledge on importance of RFL and Dignified Management of the Dead among the Movement partners and NRCS district chapters need to be further strengthened.
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 36
+    block_number: 24
+    line_number: 0
+    span_number: 0
+    total_y: 30611.08935546875
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 291.0081481933594
+    - 105.58162689208984
+    - 305.05328369140625
+    idx: 2423
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 2328
+  sector_similarity_score: 1.0
+  content: []
+  items: []
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 39
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 32882.39929199219
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 36.55812072753906
+    - 105.58162689208984
+    - 50.60327911376953
+    idx: 2539
+  sector_title: Protection, Gender and Inclusion
+  sector_idx: 2351
+  sector_similarity_score: 1.0
+  content:
+  - index: 2540
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 39
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 32897.759338378906
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 52.86650848388672
+    - 46.22121047973633
+    - 65.0684814453125
+    double_fontsize_int: 20
+  - index: 2541
+    text: 'Gender issues often interpreted as women related issues and trainings. At local level, the concept of Dignity '
+    text_base: gender issues often interpreted as women related issues and trainings at local level the concept of dignity
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 39
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 32897.759338378906
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 52.173004150390625
+    - 557.779541015625
+    - 65.85804748535156
+    double_fontsize_int: 20
+  - index: 2542
+    text: 'Access Participation and Safety (DAPS) framework was misunderstood due to local context and cultural practices. '
+    text_base: access participation and safety daps framework was misunderstood due to local context and cultural practices
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 39
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 32910.11932373047
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 64.53298950195312
+    - 557.5602416992188
+    - 78.21803283691406
+    double_fontsize_int: 20
+  - index: 2543
+    text: 'During the implementation of DAP framework, it was difficult to make local community understand the essence of '
+    text_base: during the implementation of dap framework it was difficult to make local community understand the essence of
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 39
+    block_number: 3
+    line_number: 3
+    span_number: 0
+    total_y: 32922.47930908203
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 76.89297485351562
+    - 557.9089965820312
+    - 90.57801818847656
+    double_fontsize_int: 20
+  - index: 2544
+    text: 'inclusiveness approach in recovery programmes.  '
+    text_base: inclusiveness approach in recovery programmes
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 39
+    block_number: 3
+    line_number: 4
+    span_number: 0
+    total_y: 32934.859313964844
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 89.27297973632812
+    - 282.53887939453125
+    - 102.95802307128906
+    double_fontsize_int: 20
+  - index: 2545
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 39
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 32948.059326171875
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 103.16649627685547
+    - 46.22121047973633
+    - 115.36846923828125
+    double_fontsize_int: 20
+  - index: 2546
+    text: 'Blanket approach always not sufficient to address the needs of the people with special needs. There is lack of '
+    text_base: blanket approach always not sufficient to address the needs of the people with special needs there is lack of
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 39
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 32948.059326171875
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 102.47299194335938
+    - 557.97900390625
+    - 116.15803527832031
+    double_fontsize_int: 20
+  - index: 2547
+    text: 'child hygiene and care (slippers, proper body covering clothes for children). '
+    text_base: child hygiene and care slippers proper body covering clothes for children
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 39
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 32960.41931152344
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 114.83297729492188
+    - 395.4788818359375
+    - 128.5180206298828
+    double_fontsize_int: 20
+  - index: 2548
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 39
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 32973.49932861328
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 128.60650634765625
+    - 46.22121047973633
+    - 140.8084716796875
+    double_fontsize_int: 20
+  - index: 2549
+    text: 'Referral pathway mechanism was widely disseminated but after dissemination of referral pathway is required to '
+    text_base: referral pathway mechanism was widely disseminated but after dissemination of referral pathway is required to
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 39
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 32973.49932861328
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 127.91299438476562
+    - 557.3513793945312
+    - 141.59803771972656
+    double_fontsize_int: 20
+  - index: 2550
+    text: measure the changes in the community.
+    text_base: measure the changes in the community
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 39
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 32985.859313964844
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 140.27297973632812
+    - 236.7487335205078
+    - 153.95802307128906
+    double_fontsize_int: 20
+  items:
+  - Gender issues often interpreted as women related issues and trainings. At local level, the concept of Dignity Access Participation and Safety (DAPS) framework was misunderstood due to local context and cultural practices. During the implementation of DAP framework, it was difficult to make local community understand the essence of inclusiveness approach in recovery programmes.
+  - Blanket approach always not sufficient to address the needs of the people with special needs. There is lack of child hygiene and care (slippers, proper body covering clothes for children).
+  - Referral pathway mechanism was widely disseminated but after dissemination of referral pathway is required to measure the changes in the community.
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 41
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 34911.28927612305
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 381.608154296875
+    - 105.58162689208984
+    - 395.6532897949219
+    idx: 2686
+  sector_title: National Society Strengthening
+  sector_idx: 2569
+  sector_similarity_score: 1.0
+  content:
+  - index: 2687
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 41
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 34925.68927001953
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 396.95648193359375
+    - 46.22121047973633
+    - 409.158447265625
+    double_fontsize_int: 20
+  - index: 2688
+    text: 'Delays associated with decision-making in logistics and procurement adversely impacted on the implementation '
+    text_base: delays associated with decision making in logistics and procurement adversely impacted on the implementation
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 41
+    block_number: 4
+    line_number: 1
+    span_number: 1
+    total_y: 34925.68927001953
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 396.2629699707031
+    - 552.348876953125
+    - 409.947998046875
+    double_fontsize_int: 20
+  - index: 2689
+    text: 'rate of construction activities. This was further aggravated by a tedious and complex bidding process and system '
+    text_base: rate of construction activities this was further aggravated by a tedious and complex bidding process and system
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 41
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 34938.88928222656
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 409.4629821777344
+    - 552.28515625
+    - 423.14801025390625
+    double_fontsize_int: 20
+  - index: 2690
+    text: 'in place.  '
+    text_base: in place
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 41
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 34952.089294433594
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 422.6629943847656
+    - 102.51288604736328
+    - 436.3480224609375
+    double_fontsize_int: 20
+  - index: 2691
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 41
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 34966.12927246094
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 437.396484375
+    - 46.22121047973633
+    - 449.59844970703125
+    double_fontsize_int: 20
+  - index: 2692
+    text: 'Transition discussion of the operation to regular structure of the NRCS resulted in fear and job uncertainty among '
+    text_base: transition discussion of the operation to regular structure of the nrcs resulted in fear and job uncertainty among
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 41
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 34966.12927246094
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 436.7029724121094
+    - 557.9860229492188
+    - 450.38800048828125
+    double_fontsize_int: 20
+  - index: 2693
+    text: 'staff which slowed down programme implementation in the middle of the operation due to high turnover of good '
+    text_base: staff which slowed down programme implementation in the middle of the operation due to high turnover of good
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 41
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 34979.20928955078
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 449.7829895019531
+    - 557.89697265625
+    - 463.468017578125
+    double_fontsize_int: 20
+  - index: 2694
+    text: and qualified programme staff.
+    text_base: and qualified programme staff
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 41
+    block_number: 5
+    line_number: 3
+    span_number: 0
+    total_y: 34992.54928588867
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 463.12298583984375
+    - 194.5488739013672
+    - 476.8080139160156
+    double_fontsize_int: 20
+  items:
+  - Delays associated with decision-making in logistics and procurement adversely impacted on the implementation rate of construction activities. This was further aggravated by a tedious and complex bidding process and system in place.
+  - Transition discussion of the operation to regular structure of the NRCS resulted in fear and job uncertainty among staff which slowed down programme implementation in the middle of the operation due to high turnover of good and qualified programme staff.
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 45
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 38220.64920043945
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 323.28814697265625
+    - 105.58162689208984
+    - 337.3332824707031
+    idx: 2953
+  sector_title: International Disaster Response
+  sector_idx: 2709
+  sector_similarity_score: 1.0
+  content:
+  - index: 2954
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 45
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 38236.009216308594
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 339.59649658203125
+    - 46.22121047973633
+    - 351.7984619140625
+    double_fontsize_int: 20
+  - index: 2955
+    text: 'CEA tools were used extensively throughout the operation however its yet to be institutionalized within NRCS '
+    text_base: cea tools were used extensively throughout the operation however its yet to be institutionalized within nrcs
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 45
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 38236.009216308594
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 338.9029846191406
+    - 557.9708862304688
+    - 352.5880126953125
+    double_fontsize_int: 20
+  - index: 2956
+    text: 'across all departments. '
+    text_base: across all departments
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 45
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 38249.08920288086
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 351.98297119140625
+    - 165.86888122558594
+    - 365.6679992675781
+    double_fontsize_int: 20
+  - index: 2957
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 45
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 38263.12921142578
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 366.71649169921875
+    - 46.22121047973633
+    - 378.91845703125
+    double_fontsize_int: 20
+  - index: 2958
+    text: 'Community are not aware of rights to receive humanitarian aid making them reluctant to raise their concerns and '
+    text_base: community are not aware of rights to receive humanitarian aid making them reluctant to raise their concerns and
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 45
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 38263.12921142578
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 366.0229797363281
+    - 557.9888305664062
+    - 379.7080078125
+    double_fontsize_int: 20
+  - index: 2959
+    text: 'problems they have been facing. '
+    text_base: problems they have been facing
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 45
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 38276.209228515625
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 379.1029968261719
+    - 206.93887329101562
+    - 392.78802490234375
+    double_fontsize_int: 20
+  - index: 2960
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 45
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 38290.24920654297
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 393.83648681640625
+    - 46.22121047973633
+    - 406.0384521484375
+    double_fontsize_int: 20
+  - index: 2961
+    text: 'Lack of compilation and documentation of feedbacks, suggestions and responses from all the channels available '
+    text_base: lack of compilation and documentation of feedbacks suggestions and responses from all the channels available
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 45
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 38290.24920654297
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 393.1429748535156
+    - 557.9888305664062
+    - 406.8280029296875
+    double_fontsize_int: 20
+  - index: 2962
+    text: 'to address CEA issues. '
+    text_base: to address cea issues
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 45
+    block_number: 5
+    line_number: 2
+    span_number: 0
+    total_y: 38303.32922363281
+    origin_x: 59.63999938964844
+    bbox:
+    - 59.63999938964844
+    - 406.2229919433594
+    - 166.348876953125
+    - 419.90802001953125
+    double_fontsize_int: 20
+  items:
+  - CEA tools were used extensively throughout the operation however its yet to be institutionalized within NRCS across all departments.
+  - Community are not aware of rights to receive humanitarian aid making them reluctant to raise their concerns and problems they have been facing.
+  - Lack of compilation and documentation of feedbacks, suggestions and responses from all the channels available to address CEA issues.
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 49
+    block_number: 2
+    line_number: 25
+    span_number: 0
+    total_y: 41630.929138183594
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 365.8881530761719
+    - 105.58162689208984
+    - 379.93328857421875
+    idx: 3225
+  sector_title: Effective, credible and accountable IFRC
+  sector_idx: 2982
+  sector_similarity_score: 1.0
+  content:
+  - index: 3226
+    text: "\u2022"
+    text_base: ''
+    style: 'symbolmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 49
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 41646.289154052734
+    origin_x: 41.63999938964844
+    bbox:
+    - 41.63999938964844
+    - 382.1965026855469
+    - 46.22121047973633
+    - 394.3984680175781
+    double_fontsize_int: 20
+  - index: 3227
+    text: 'Managing transition planning and its implementation for such a complex operation in which more than 13 '
+    text_base: managing transition planning and its implementation for such a complex operation in which more than 13
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 49
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 41646.289154052734
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 381.50299072265625
+    - 557.9251708984375
+    - 395.1880187988281
+    double_fontsize_int: 20
+  - index: 3228
+    text: 'Movement partners and government involved, took long time than expected.  '
+    text_base: movement partners and government involved took long time than expected
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 49
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 41657.809143066406
+    origin_x: 59.52000045776367
+    bbox:
+    - 59.52000045776367
+    - 393.0229797363281
+    - 402.0788879394531
+    - 406.7080078125
+    double_fontsize_int: 20
+  items:
+  - Managing transition planning and its implementation for such a complex operation in which more than 13 Movement partners and government involved, took long time than expected.

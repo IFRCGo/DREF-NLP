@@ -1,0 +1,97 @@
+- title:
+    text: 'Lessons learned: '
+    text_base: lessons learned
+    style: 'arial,bold, 20, #000000, nan'
+    size: 10.079999923706056
+    page_number: 0
+    block_number: 5
+    line_number: 48
+    span_number: 0
+    total_y: 686.9598999023438
+    origin_x: 59.280006408691406
+    bbox: (59.280006408691406, 676.17431640625, 147.75555419921875, 690.054443359375)
+    idx: 62
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 63
+    text: 'The intervention has strengthened the capacity of the state branch which took '
+    text_base: the intervention has strengthened the capacity of the state branch which took
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
+    page_number: 0
+    block_number: 5
+    line_number: 48
+    span_number: 1
+    total_y: 686.9598999023438
+    origin_x: 150.9600067138672
+    bbox: (150.9600067138672, 676.1239013671875, 533.9221801757812, 689.9738159179688)
+    double_fontsize_int: 20
+  - index: 64
+    text: "advantage of the operation\u2019s success to build local partnerships with the local community and government "
+    text_base: advantage of the operation s success to build local partnerships with the local community and government
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
+    page_number: 0
+    block_number: 5
+    line_number: 49
+    span_number: 0
+    total_y: 698.7199096679688
+    origin_x: 59.280006408691406
+    bbox: (59.280006408691406, 687.8839111328125, 533.8817138671875, 701.7338256835938)
+    double_fontsize_int: 20
+  - index: 65
+    text: "authorities. The early intervention, in addition, has enhanced Red Cross\u2019 image and visibility as the only "
+    text_base: authorities the early intervention in addition has enhanced red cross image and visibility as the only
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
+    page_number: 0
+    block_number: 5
+    line_number: 50
+    span_number: 0
+    total_y: 710.2399291992188
+    origin_x: 59.280006408691406
+    bbox: (59.280006408691406, 699.4039306640625, 533.922119140625, 713.2538452148438)
+    double_fontsize_int: 20
+  - index: 66
+    text: 'humanitarian organization that really intervened though few other humanitarian agencies were involved in '
+    text_base: humanitarian organization that really intervened though few other humanitarian agencies were involved in
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
+    page_number: 0
+    block_number: 5
+    line_number: 51
+    span_number: 0
+    total_y: 721.7598876953125
+    origin_x: 59.280006408691406
+    bbox: (59.280006408691406, 710.9238891601562, 533.8917236328125, 724.7738037109375)
+    double_fontsize_int: 20
+  - index: 67
+    text: 'the assistance to the returnees. However there is a need to improve the coordination between the branch '
+    text_base: the assistance to the returnees however there is a need to improve the coordination between the branch
+    style: 'arial, 20, #000000, nan'
+    size: 10.079999923706056
+    page_number: 0
+    block_number: 5
+    line_number: 52
+    span_number: 0
+    total_y: 733.2799072265625
+    origin_x: 59.280006408691406
+    bbox: (59.280006408691406, 722.4439086914062, 533.8984985351562, 736.2938232421875)
+    double_fontsize_int: 20
+  - index: 68
+    text: 'and the national headquarters. '
+    text_base: and the national headquarters
+    style: 'arial, 20, #000000, #7f7f7f'
+    size: 10.079999923706056
+    page_number: 0
+    block_number: 5
+    line_number: 53
+    span_number: 0
+    total_y: 744.7999267578125
+    origin_x: 59.280006408691406
+    bbox: (59.280006408691406, 733.9639282226562, 197.66888427734375, 747.8138427734375)
+    double_fontsize_int: 20
+  items:
+  - "The intervention has strengthened the capacity of the state branch which took advantage of the operation\u2019s success to build local partnerships with the local community and government authorities. The early intervention, in addition, has enhanced Red Cross\u2019 image and visibility as the only humanitarian organization that really intervened though few other humanitarian agencies were involved in the assistance to the returnees. However there is a need to improve the coordination between the branch and the national headquarters."

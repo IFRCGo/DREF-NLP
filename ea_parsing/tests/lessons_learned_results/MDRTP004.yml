@@ -1,0 +1,3397 @@
+- title:
+    text: Achievements, challenges and lessons learned
+    text_base: achievements challenges and lessons learned
+    style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 3854.1099243164062
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 475.7727966308594, 271.0014953613281, 489.4877014160156)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 271.0014953613281
+    idx: 292
+  sector_title: Food insecurity and nutrition
+  sector_idx: 263
+  sector_similarity_score: 1.0
+  content:
+  - index: 293
+    text: 'Nutrition awareness was conducted in 16 of the 20 affected villages reaching 1,356 pregnant and/or nursing women. '
+    text_base: nutrition awareness was conducted in 16 of the 20 affected villages reaching 1 356 pregnant and or nursing women
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 19
+    span_number: 0
+    total_y: 4073.139892578125
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 694.7529296875, 563.833740234375, 708.43798828125)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.833740234375
+    double_fontsize_int: 20
+  - index: 294
+    text: 'Posters were developed and distributed in affected the communities. IEC materials were reinforced with awareness '
+    text_base: posters were developed and distributed in affected the communities iec materials were reinforced with awareness
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 20
+    span_number: 0
+    total_y: 4084.539916992188
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 706.1529541015625, 563.8049926757812, 719.8380126953125)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.8049926757812
+    double_fontsize_int: 20
+  - index: 295
+    text: "and training sessions conducted for groups of 10 \u2013 15 women, and these sessions have been well received. Cooking "
+    text_base: and training sessions conducted for groups of 10 15 women and these sessions have been well received cooking
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 21
+    span_number: 0
+    total_y: 4096.0599365234375
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 717.6729736328125, 563.7411499023438, 731.3580322265625)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.7411499023438
+    double_fontsize_int: 20
+  - index: 296
+    text: 'and food demonstrations were undertaken by health staff and volunteers with food options and combinations, '
+    text_base: and food demonstrations were undertaken by health staff and volunteers with food options and combinations
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 22
+    span_number: 0
+    total_y: 4107.599914550781
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 729.2130126953125, 563.8687133789062, 742.8980102539062)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.8687133789062
+    double_fontsize_int: 20
+  - index: 297
+    text: 'promoting positive nutrition outcomes.  '
+    text_base: promoting positive nutrition outcomes
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 23
+    span_number: 0
+    total_y: 4119.119934082031
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 740.7330322265625, 221.33888244628906, 754.4180297851562)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 221.33888244628903
+    double_fontsize_int: 20
+  - index: 298
+    text: "Post-distribution monitoring was conducted in March and April in all three municipalities, collecting data on women\u2019s "
+    text_base: post distribution monitoring was conducted in march and april in all three municipalities collecting data on women s
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 25
+    span_number: 0
+    total_y: 4142.159912109375
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 763.77294921875, 563.6196899414062, 777.4580078125)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.6196899414062
+    double_fontsize_int: 20
+  - index: 299
+    text: 'knowledge of nutrition. The final evaluation identified difficulties within the target group to put the nutrition advice '
+    text_base: knowledge of nutrition the final evaluation identified difficulties within the target group to put the nutrition advice
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 26
+    span_number: 0
+    total_y: 4153.5599365234375
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 775.1729736328125, 149.43971252441406, 788.8580322265625)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.4039306640625
+    double_fontsize_int: 20
+  - index: 304
+    text: 'received into practice due to lack of availability of nutritious food (for example, communities could not grow vegetables '
+    text_base: received into practice due to lack of availability of nutritious food for example communities could not grow vegetables
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 4267.439880371094
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 47.132965087890625, 563.7781372070312, 60.8180046081543)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.7781372070312
+    double_fontsize_int: 20
+  - index: 305
+    text: 'due to lack of availability of water caused by the drought and could not afford to buy vegetables when they were '
+    text_base: due to lack of availability of water caused by the drought and could not afford to buy vegetables when they were
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 4278.959899902344
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 58.652984619140625, 563.8307495117188, 72.33802795410156)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.8307495117188
+    double_fontsize_int: 20
+  - index: 306
+    text: 'available due to insufficient funds). The chronic nature of malnutrition in Timor-Leste indicates the importance of '
+    text_base: available due to insufficient funds the chronic nature of malnutrition in timor leste indicates the importance of
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 2
+    line_number: 2
+    span_number: 0
+    total_y: 4290.479919433594
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 70.17300415039062, 563.854736328125, 83.85804748535156)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.854736328125
+    double_fontsize_int: 20
+  - index: 307
+    text: 'continuous investment in improving nutrition. Half of the villages targeted under this drought operation are also part '
+    text_base: continuous investment in improving nutrition half of the villages targeted under this drought operation are also part
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 2
+    line_number: 3
+    span_number: 0
+    total_y: 4302.0198974609375
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 81.71298217773438, 563.6439208984375, 95.39802551269531)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.6439208984375
+    double_fontsize_int: 20
+  - index: 308
+    text: 'of a longer-term nutrition programme, where CVTL is an implementing partner. This allows the nutrition awareness '
+    text_base: of a longer term nutrition programme where cvtl is an implementing partner this allows the nutrition awareness
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 2
+    line_number: 4
+    span_number: 0
+    total_y: 4313.539916992188
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 93.23300170898438, 563.7689819335938, 106.91804504394531)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.7689819335938
+    double_fontsize_int: 20
+  - index: 309
+    text: 'raising to be continued, based on demand and positive feedback from communities.  '
+    text_base: raising to be continued based on demand and positive feedback from communities
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 2
+    line_number: 5
+    span_number: 0
+    total_y: 4325.059875488281
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 104.75296020507812, 422.9660949707031, 118.43800354003906)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 422.9660949707031
+    double_fontsize_int: 20
+  - index: 313
+    text: 'Outputs '
+    text_base: outputs
+    style: 'bold, 18, #ffffff, #7c6d66'
+    size: 9.0
+    page_number: 5
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 4336.099914550781
+    origin_x: 326.95001220703125
+    bbox: (326.95001220703125, 116.87000274658203, 363.89202880859375, 129.26300048828125)
+    bbox_x1: 326.95001220703125
+    bbox_x2: 363.89202880859375
+    double_fontsize_int: 18
+  - index: 314
+    text: '% of achievement '
+    text_base: of achievement
+    style: 'bold, 18, #ffffff, #7c6d66'
+    size: 9.0
+    page_number: 5
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 4336.099914550781
+    origin_x: 475.2999877929688
+    bbox: (475.29998779296875, 116.87000274658203, 553.8820190429688, 129.26300048828125)
+    bbox_x1: 475.2999877929688
+    bbox_x2: 553.8820190429688
+    double_fontsize_int: 18
+  items:
+  - "Nutrition awareness was conducted in 16 of the 20 affected villages reaching 1,356 pregnant and/or nursing women. Posters were developed and distributed in affected the communities. IEC materials were reinforced with awareness and training sessions conducted for groups of 10 \u2013 15 women, and these sessions have been well received. Cooking and food demonstrations were undertaken by health staff and volunteers with food options and combinations, promoting positive nutrition outcomes."
+  - "Post-distribution monitoring was conducted in March and April in all three municipalities, collecting data on women\u2019s knowledge of nutrition. The final evaluation identified difficulties within the target group to put the nutrition advice received into practice due to lack of availability of nutritious food (for example, communities could not grow vegetables due to lack of availability of water caused by the drought and could not afford to buy vegetables when they were available due to insufficient funds). The chronic nature of malnutrition in Timor-Leste indicates the importance of continuous investment in improving nutrition. Half of the villages targeted under this drought operation are also part of a longer-term nutrition programme, where CVTL is an implementing partner. This allows the nutrition awareness raising to be continued, based on demand and positive feedback from communities."
+  - Outputs % of achievement
+- title:
+    text: Achievements, challenges and lessons learned
+    text_base: achievements challenges and lessons learned
+    style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 4493.929870605469
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 273.6727600097656, 271.14678955078125, 287.3876647949219)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 271.14678955078125
+    idx: 338
+  sector_title: Food insecurity and nutrition
+  sector_idx: 263
+  sector_similarity_score: 1.0
+  content:
+  - index: 339
+    text: 'Following the assessment, the drought plan of action was revised on 15 September 2016 to increase the number of '
+    text_base: following the assessment the drought plan of action was revised on 15 september 2016 to increase the number of
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 2
+    span_number: 0
+    total_y: 4517.449890136719
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 297.1429748535156, 563.7600708007812, 310.8280029296875)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.7600708007812
+    double_fontsize_int: 20
+  - index: 340
+    text: 'target households from 4,000 to 5,500. Of this, 2,700 households were identified as requiring support to enhance their '
+    text_base: target households from 4 000 to 5 500 of this 2 700 households were identified as requiring support to enhance their
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 3
+    span_number: 0
+    total_y: 4528.969909667969
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 308.6629943847656, 563.2279052734375, 322.3480224609375)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.2279052734375
+    double_fontsize_int: 20
+  - index: 341
+    text: 'food security and strengthen their livelihoods. The revision also combined the existing health and nutrition activities '
+    text_base: food security and strengthen their livelihoods the revision also combined the existing health and nutrition activities
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 4
+    span_number: 0
+    total_y: 4540.489898681641
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 320.1829833984375, 563.8274536132812, 333.8680114746094)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.8274536132812
+    double_fontsize_int: 20
+  - index: 342
+    text: 'to be under a single outcome. This revised strategy was designed specifically to support and prepare communities '
+    text_base: to be under a single outcome this revised strategy was designed specifically to support and prepare communities
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 5
+    span_number: 0
+    total_y: 4552.0098876953125
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 331.7029724121094, 563.1980590820312, 345.38800048828125)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.1980590820312
+    double_fontsize_int: 20
+  - index: 343
+    text: 'for the lean season due in Timor-Leste, from November to March.  '
+    text_base: for the lean season due in timor leste from november to march
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 6
+    span_number: 0
+    total_y: 4563.409912109375
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 343.1029968261719, 343.03887939453125, 356.78802490234375)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 343.03887939453125
+    double_fontsize_int: 20
+  - index: 344
+    text: 'In order to support affected communities under this revision, a tender for food purchase was issued, however, the '
+    text_base: in order to support affected communities under this revision a tender for food purchase was issued however the
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 8
+    span_number: 0
+    total_y: 4586.449890136719
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 366.1429748535156, 563.8284301757812, 379.8280029296875)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.8284301757812
+    double_fontsize_int: 20
+  - index: 345
+    text: 'tender did not receive an adequate response and as a result, CVTL elected to broaden its planned cash transfer '
+    text_base: tender did not receive an adequate response and as a result cvtl elected to broaden its planned cash transfer
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 9
+    span_number: 0
+    total_y: 4597.969909667969
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 377.6629943847656, 563.27783203125, 391.3480224609375)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.27783203125
+    double_fontsize_int: 20
+  - index: 346
+    text: 'programme (CTP) to include money for local food procurement. This decision was backed by findings from data '
+    text_base: programme ctp to include money for local food procurement this decision was backed by findings from data
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 10
+    span_number: 0
+    total_y: 4609.489898681641
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 389.1829833984375, 563.6441650390625, 402.8680114746094)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.6441650390625
+    double_fontsize_int: 20
+  - index: 347
+    text: 'collected during a seasonal mapping, livelihoods assessment and community consultation. An updated Plan of Action '
+    text_base: collected during a seasonal mapping livelihoods assessment and community consultation an updated plan of action
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 11
+    span_number: 0
+    total_y: 4621.0299072265625
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 400.7229919433594, 563.833740234375, 414.40802001953125)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.833740234375
+    double_fontsize_int: 20
+  - index: 348
+    text: 'was developed initially for food, seed and conditional cash transfer activities, and was later replaced by a broader '
+    text_base: was developed initially for food seed and conditional cash transfer activities and was later replaced by a broader
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 12
+    span_number: 0
+    total_y: 4632.429901123047
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 412.12298583984375, 563.8430786132812, 425.8080139160156)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.8430786132812
+    double_fontsize_int: 20
+  - index: 349
+    text: 'unconditional cash transfer programme. After a revalidation of household data, 2,543 heads of households (1,678 '
+    text_base: unconditional cash transfer programme after a revalidation of household data 2 543 heads of households 1 678
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 13
+    span_number: 0
+    total_y: 4643.949890136719
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 423.6429748535156, 563.8718872070312, 437.3280029296875)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.8718872070312
+    double_fontsize_int: 20
+  - index: 350
+    text: 'males and 865 females) received unconditional cash of USD 50 between November and December 2016. The '
+    text_base: males and 865 females received unconditional cash of usd 50 between november and december 2016 the
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 14
+    span_number: 0
+    total_y: 4655.469909667969
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 435.1629943847656, 563.8600463867188, 448.8480224609375)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.8600463867188
+    double_fontsize_int: 20
+  - index: 351
+    text: 'development of CTP procedures, training and proposed sensitization of community committees has also been '
+    text_base: development of ctp procedures training and proposed sensitization of community committees has also been
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 15
+    span_number: 0
+    total_y: 4666.989898681641
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 446.6829833984375, 563.208251953125, 460.3680114746094)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.208251953125
+    double_fontsize_int: 20
+  - index: 352
+    text: 'undertaken with the support of a peer advisor from the Philippines Red Cross. '
+    text_base: undertaken with the support of a peer advisor from the philippines red cross
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 14
+    line_number: 16
+    span_number: 0
+    total_y: 4678.5098876953125
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 458.2029724121094, 394.1589050292969, 471.88800048828125)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 394.1589050292969
+    double_fontsize_int: 20
+  - index: 353
+    text: 'Post-distribution monitoring (PDM) survey was designed to '
+    text_base: post distribution monitoring pdm survey was designed to
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 4701.429901123047
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 481.12298583984375, 563.9751586914062, 494.8080139160156)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 563.9751586914062
+    double_fontsize_int: 20
+  - index: 354
+    text: 'measure the beneficiary satisfaction of non-food items and cash '
+    text_base: measure the beneficiary satisfaction of non food items and cash
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 1
+    span_number: 0
+    total_y: 4712.949890136719
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 492.6429748535156, 563.91064453125, 506.3280029296875)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 563.91064453125
+    double_fontsize_int: 20
+  - index: 355
+    text: 'grants distributed during the operation and the current recovery '
+    text_base: grants distributed during the operation and the current recovery
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 2
+    span_number: 0
+    total_y: 4724.469909667969
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 504.1629943847656, 563.5682373046875, 517.8480224609375)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 563.5682373046875
+    double_fontsize_int: 20
+  - index: 356
+    text: 'status of assisted households were conducted between March '
+    text_base: status of assisted households were conducted between march
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 3
+    span_number: 0
+    total_y: 4735.989929199219
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 515.6829833984375, 563.7998046875, 529.3680419921875)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 563.7998046875
+    double_fontsize_int: 20
+  - index: 357
+    text: 'and May in one affected community in each of the three '
+    text_base: and may in one affected community in each of the three
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 4
+    span_number: 0
+    total_y: 4747.5098876953125
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 527.2030029296875, 563.9888305664062, 540.8880004882812)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 563.9888305664062
+    double_fontsize_int: 20
+  - index: 358
+    text: 'municipalities.  '
+    text_base: municipalities
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 5
+    span_number: 0
+    total_y: 4759.0299072265625
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 538.7230224609375, 347.7189025878906, 552.4080200195312)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 347.7189025878906
+    double_fontsize_int: 20
+  - index: 359
+    text: 'The unconditional cash grant was very well received, with 76% '
+    text_base: the unconditional cash grant was very well received with 76
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 7
+    span_number: 0
+    total_y: 4781.979919433594
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 561.6729736328125, 563.968017578125, 575.3580322265625)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 563.968017578125
+    double_fontsize_int: 20
+  - index: 360
+    text: 'of the PDM respondents and all focus group participants '
+    text_base: of the pdm respondents and all focus group participants
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 8
+    span_number: 0
+    total_y: 4793.499938964844
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 573.1929931640625, 563.66796875, 586.8780517578125)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 563.66796875
+    double_fontsize_int: 20
+  - index: 361
+    text: 'targeted in the final evaluation said they spent the cash on food, '
+    text_base: targeted in the final evaluation said they spent the cash on food
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 9
+    span_number: 0
+    total_y: 4805.0198974609375
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 584.7130126953125, 563.6580810546875, 598.3980102539062)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 563.6580810546875
+    double_fontsize_int: 20
+  - index: 362
+    text: 'which was the intended result. Cash beneficiaries also reported '
+    text_base: which was the intended result cash beneficiaries also reported
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 10
+    span_number: 0
+    total_y: 4816.539916992188
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 596.2330322265625, 563.5980224609375, 609.9180297851562)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 563.5980224609375
+    double_fontsize_int: 20
+  - index: 363
+    text: 'a high level of satisfaction with cash transfer as a modality of '
+    text_base: a high level of satisfaction with cash transfer as a modality of
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 11
+    span_number: 0
+    total_y: 4827.939880371094
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 607.6329345703125, 563.5883178710938, 621.3179931640625)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 563.5883178710938
+    double_fontsize_int: 20
+  - index: 364
+    text: 'assistance (82% of men and 71% of women) compared with the '
+    text_base: assistance 82 of men and 71 of women compared with the
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 12
+    span_number: 0
+    total_y: 4839.459899902344
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 619.1529541015625, 563.6978759765625, 632.8380126953125)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 563.6978759765625
+    double_fontsize_int: 20
+  - index: 365
+    text: 'distribution of non-food Items. As this was the first time CVTL '
+    text_base: distribution of non food items as this was the first time cvtl
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 13
+    span_number: 0
+    total_y: 4850.979919433594
+    origin_x: 279.2900085449219
+    bbox: (279.2900085449219, 630.6729736328125, 563.7581787109375, 644.3580322265625)
+    bbox_x1: 279.2900085449219
+    bbox_x2: 563.7581787109375
+    double_fontsize_int: 20
+  - index: 366
+    text: 'implemented '
+    text_base: implemented
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 14
+    span_number: 0
+    total_y: 4862.499877929688
+    origin_x: 277.25
+    bbox: (277.25, 642.1929931640625, 337.23907470703125, 655.8779907226562)
+    bbox_x1: 277.25
+    bbox_x2: 337.23907470703125
+    double_fontsize_int: 20
+  - index: 367
+    text: 'a '
+    text_base: a
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 15
+    span_number: 0
+    total_y: 4862.499877929688
+    origin_x: 345.9100036621094
+    bbox: (345.9100036621094, 642.1929931640625, 354.2166442871094, 655.8779907226562)
+    bbox_x1: 345.9100036621094
+    bbox_x2: 354.2166442871094
+    double_fontsize_int: 20
+  - index: 368
+    text: 'Cash '
+    text_base: cash
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 16
+    span_number: 0
+    total_y: 4862.499877929688
+    origin_x: 362.8220825195313
+    bbox: (362.82208251953125, 642.1929931640625, 388.87744140625, 655.8779907226562)
+    bbox_x1: 362.8220825195313
+    bbox_x2: 388.87744140625
+    double_fontsize_int: 20
+  - index: 369
+    text: 'Transfer '
+    text_base: transfer
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 17
+    span_number: 0
+    total_y: 4862.499877929688
+    origin_x: 397.4828796386719
+    bbox: (397.4828796386719, 642.1929931640625, 437.5121765136719, 655.8779907226562)
+    bbox_x1: 397.4828796386719
+    bbox_x2: 437.5121765136719
+    double_fontsize_int: 20
+  - index: 370
+    text: 'Programme, '
+    text_base: programme
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 18
+    span_number: 0
+    total_y: 4862.499877929688
+    origin_x: 446.157470703125
+    bbox: (446.157470703125, 642.1929931640625, 503.9977722167969, 655.8779907226562)
+    bbox_x1: 446.157470703125
+    bbox_x2: 503.9977722167969
+    double_fontsize_int: 20
+  - index: 371
+    text: 'they '
+    text_base: they
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 19
+    span_number: 0
+    total_y: 4862.499877929688
+    origin_x: 512.6131591796875
+    bbox: (512.6131591796875, 642.1929931640625, 533.9674072265625, 655.8779907226562)
+    bbox_x1: 512.6131591796875
+    bbox_x2: 533.9674072265625
+    double_fontsize_int: 20
+  - index: 372
+    text: 'also '
+    text_base: also
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 15
+    line_number: 20
+    span_number: 0
+    total_y: 4862.499877929688
+    origin_x: 542.5927734375
+    bbox: (542.5927734375, 642.1929931640625, 563.9271240234375, 655.8779907226562)
+    bbox_x1: 542.5927734375
+    bbox_x2: 563.9271240234375
+    double_fontsize_int: 20
+  - index: 379
+    text: 'CVTL staff registers a community member for     '
+    text_base: cvtl staff registers a community member for
+    style: 'arialmt, 18, #000000, #ffffff'
+    size: 9.0
+    page_number: 5
+    block_number: 19
+    line_number: 0
+    span_number: 0
+    total_y: 4853.859924316406
+    origin_x: 69.14399719238281
+    bbox: (69.14399719238281, 634.5850219726562, 263.31201171875, 646.9509887695312)
+    bbox_x1: 69.14399719238281
+    bbox_x2: 263.31201171875
+    double_fontsize_int: 18
+  - index: 373
+    text: 'experienced challenges related to the complex and time '
+    text_base: experienced challenges related to the complex and time
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 4874.0198974609375
+    origin_x: 277.25
+    bbox: (277.25, 653.7130126953125, 563.590087890625, 667.3980102539062)
+    bbox_x1: 277.25
+    bbox_x2: 563.590087890625
+    double_fontsize_int: 20
+  - index: 374
+    text: 'consuming beneficiary selection process, calculation of the amount of assistance and handling and recording the '
+    text_base: consuming beneficiary selection process calculation of the amount of assistance and handling and recording the
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 4885.539916992188
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 665.2330322265625, 563.8541259765625, 678.9180297851562)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.8541259765625
+    double_fontsize_int: 20
+  - index: 375
+    text: 'complaints. As per the final evaluation, the CVTL staff interviewed had a positive impression of cash programming '
+    text_base: complaints as per the final evaluation the cvtl staff interviewed had a positive impression of cash programming
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 17
+    line_number: 1
+    span_number: 0
+    total_y: 4896.939880371094
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 676.6329345703125, 563.46044921875, 690.3179931640625)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.46044921875
+    double_fontsize_int: 20
+  - index: 376
+    text: "originating from \u201Clearning by doing\u201D which dispelled misconceptions. Staff also benefited from IFRC technical support "
+    text_base: originating from learning by doing which dispelled misconceptions staff also benefited from ifrc technical support
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 17
+    line_number: 2
+    span_number: 0
+    total_y: 4908.459899902344
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 688.1529541015625, 563.6343383789062, 701.8380126953125)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.6343383789062
+    double_fontsize_int: 20
+  - index: 377
+    text: 'not only in being trained in CTP prior to implementation but through assistance in drafting CTP SOPs after the '
+    text_base: not only in being trained in ctp prior to implementation but through assistance in drafting ctp sops after the
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 17
+    line_number: 3
+    span_number: 0
+    total_y: 4919.979919433594
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 699.6729736328125, 563.3931884765625, 713.3580322265625)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 563.3931884765625
+    double_fontsize_int: 20
+  - index: 378
+    text: 'intervention. '
+    text_base: intervention
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 5
+    block_number: 17
+    line_number: 4
+    span_number: 0
+    total_y: 4931.499877929688
+    origin_x: 47.27999877929688
+    bbox: (47.279998779296875, 711.1929931640625, 104.54888153076172, 724.8779907226562)
+    bbox_x1: 47.27999877929688
+    bbox_x2: 104.54888153076172
+    double_fontsize_int: 20
+  items:
+  - Following the assessment, the drought plan of action was revised on 15 September 2016 to increase the number of target households from 4,000 to 5,500. Of this, 2,700 households were identified as requiring support to enhance their food security and strengthen their livelihoods. The revision also combined the existing health and nutrition activities to be under a single outcome. This revised strategy was designed specifically to support and prepare communities for the lean season due in Timor-Leste, from November to March.
+  - In order to support affected communities under this revision, a tender for food purchase was issued, however, the tender did not receive an adequate response and as a result, CVTL elected to broaden its planned cash transfer programme (CTP) to include money for local food procurement. This decision was backed by findings from data collected during a seasonal mapping, livelihoods assessment and community consultation. An updated Plan of Action was developed initially for food, seed and conditional cash transfer activities, and was later replaced by a broader unconditional cash transfer programme. After a revalidation of household data, 2,543 heads of households (1,678 males and 865 females) received unconditional cash of USD 50 between November and December 2016. The development of CTP procedures, training and proposed sensitization of community committees has also been undertaken with the support of a peer advisor from the Philippines Red Cross.
+  - Post-distribution monitoring (PDM) survey was designed to measure the beneficiary satisfaction of non-food items and cash grants distributed during the operation and the current recovery status of assisted households were conducted between March and May in one affected community in each of the three municipalities.
+  - "The unconditional cash grant was very well received, with 76% of the PDM respondents and all focus group participants targeted in the final evaluation said they spent the cash on food, which was the intended result. Cash beneficiaries also reported a high level of satisfaction with cash transfer as a modality of assistance (82% of men and 71% of women) compared with the distribution of non-food Items. As this was the first time CVTL implemented a Cash Transfer Programme, they also CVTL staff registers a community member for experienced challenges related to the complex and time consuming beneficiary selection process, calculation of the amount of assistance and handling and recording the complaints. As per the final evaluation, the CVTL staff interviewed had a positive impression of cash programming originating from \u201Clearning by doing\u201D which dispelled misconceptions. Staff also benefited from IFRC technical support not only in being trained in CTP prior to implementation but through assistance in drafting CTP SOPs after the intervention."
+- title:
+    text: Achievements, challenges and lessons learned
+    text_base: achievements challenges and lessons learned
+    style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 27
+    line_number: 0
+    span_number: 0
+    total_y: 5452.1298828125
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 389.9527893066406, 270.7615051269531, 403.6676940917969)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 270.7615051269531
+    idx: 451
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 383
+  sector_similarity_score: 1.0
+  content:
+  - index: 452
+    text: 'As reported in  Operations Update #3 , 155,000 litres of '
+    text_base: as reported in operations update 3 155 000 litres of
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 28
+    line_number: 0
+    span_number: 0
+    total_y: 5475.549865722656
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 413.3229675292969, 372.4911193847656, 427.00799560546875)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.55517578125
+    double_fontsize_int: 20
+  - index: 455
+    text: 'drinking water was provided to five target communities in '
+    text_base: drinking water was provided to five target communities in
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 28
+    line_number: 1
+    span_number: 0
+    total_y: 5487.069885253906
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 424.8429870605469, 563.5938720703125, 438.52801513671875)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.5938720703125
+    double_fontsize_int: 20
+  - index: 456
+    text: 'Viqueque and Bacau Districts. The water was distributed '
+    text_base: viqueque and bacau districts the water was distributed
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 28
+    line_number: 2
+    span_number: 0
+    total_y: 5498.589874267578
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 436.36297607421875, 563.585693359375, 450.0480041503906)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.585693359375
+    double_fontsize_int: 20
+  - index: 457
+    text: 'by tanker to bladders positioned in each community where '
+    text_base: by tanker to bladders positioned in each community where
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 28
+    line_number: 3
+    span_number: 0
+    total_y: 5510.109893798828
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 447.88299560546875, 563.384521484375, 461.5680236816406)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.384521484375
+    double_fontsize_int: 20
+  - index: 458
+    text: 'community '
+    text_base: community
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 28
+    line_number: 4
+    span_number: 0
+    total_y: 5521.6298828125
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 459.4029846191406, 354.0054016113281, 473.0880126953125)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 354.0054016113281
+    double_fontsize_int: 20
+  - index: 459
+    text: 'members '
+    text_base: members
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 28
+    line_number: 5
+    span_number: 0
+    total_y: 5521.6298828125
+    origin_x: 367.1824951171875
+    bbox: (367.1824951171875, 459.4029846191406, 411.7734680175781, 473.0880126953125)
+    bbox_x1: 367.1824951171875
+    bbox_x2: 411.7734680175781
+    double_fontsize_int: 20
+  - index: 460
+    text: 'managed '
+    text_base: managed
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 28
+    line_number: 6
+    span_number: 0
+    total_y: 5521.6298828125
+    origin_x: 424.8310241699219
+    bbox: (424.8310241699219, 459.4029846191406, 469.2127990722656, 473.0880126953125)
+    bbox_x1: 424.8310241699219
+    bbox_x2: 469.2127990722656
+    double_fontsize_int: 20
+  - index: 461
+    text: 'the '
+    text_base: the
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 28
+    line_number: 7
+    span_number: 0
+    total_y: 5521.6298828125
+    origin_x: 482.389892578125
+    bbox: (482.389892578125, 459.4029846191406, 498.9633483886719, 473.0880126953125)
+    bbox_x1: 482.389892578125
+    bbox_x2: 498.9633483886719
+    double_fontsize_int: 20
+  - index: 462
+    text: 'distribution '
+    text_base: distribution
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 28
+    line_number: 8
+    span_number: 0
+    total_y: 5521.6298828125
+    origin_x: 512.1404418945312
+    bbox: (512.1404418945312, 459.4029846191406, 563.3148803710938, 473.0880126953125)
+    bbox_x1: 512.1404418945312
+    bbox_x2: 563.3148803710938
+    double_fontsize_int: 20
+  - index: 463
+    text: 'accompanied by safe water and hygiene messaging '
+    text_base: accompanied by safe water and hygiene messaging
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 29
+    line_number: 0
+    span_number: 0
+    total_y: 5533.149871826172
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 470.9229736328125, 563.3048095703125, 484.6080017089844)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.3048095703125
+    double_fontsize_int: 20
+  - index: 464
+    text: 'provided by trained branch volunteers. Water distribution '
+    text_base: provided by trained branch volunteers water distribution
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 29
+    line_number: 1
+    span_number: 0
+    total_y: 5544.549865722656
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 482.3229675292969, 563.6288452148438, 496.00799560546875)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.6288452148438
+    double_fontsize_int: 20
+  - index: 465
+    text: 'began in June and ceased in September. In addition, CVTL '
+    text_base: began in june and ceased in september in addition cvtl
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 29
+    line_number: 2
+    span_number: 0
+    total_y: 5556.069885253906
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 493.8429870605469, 563.6052856445312, 507.52801513671875)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.6052856445312
+    double_fontsize_int: 20
+  - index: 466
+    text: 'distributed 4,000 units of 10 litre water containers supplied '
+    text_base: distributed 4 000 units of 10 litre water containers supplied
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 29
+    line_number: 3
+    span_number: 0
+    total_y: 5567.58984375
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 505.3629455566406, 563.4940185546875, 519.0479736328125)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.4940185546875
+    double_fontsize_int: 20
+  - index: 467
+    text: 'by IFRC and 1,776 water containers from CVTL stocks in '
+    text_base: by ifrc and 1 776 water containers from cvtl stocks in
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 29
+    line_number: 4
+    span_number: 0
+    total_y: 5579.10986328125
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 516.8829345703125, 563.3048095703125, 530.5679931640625)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.3048095703125
+    double_fontsize_int: 20
+  - index: 468
+    text: 'eight communities in Viqueque, Bacau and Lautem districts '
+    text_base: eight communities in viqueque bacau and lautem districts
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 29
+    line_number: 5
+    span_number: 0
+    total_y: 5590.6298828125
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 528.4029541015625, 563.5435180664062, 542.0880126953125)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.5435180664062
+    double_fontsize_int: 20
+  - index: 469
+    text: 'in June, with each family receiving 2 jerry cans each. '
+    text_base: in june with each family receiving 2 jerry cans each
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 29
+    line_number: 6
+    span_number: 0
+    total_y: 5602.14990234375
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 539.9229736328125, 539.2688598632812, 553.6080322265625)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 539.2688598632812
+    double_fontsize_int: 20
+  - index: 470
+    text: 'Eight rainwater harvesting systems and tanks were '
+    text_base: eight rainwater harvesting systems and tanks were
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 29
+    line_number: 8
+    span_number: 0
+    total_y: 5625.099853515625
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 562.8729248046875, 563.6288452148438, 576.5579833984375)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.6288452148438
+    double_fontsize_int: 20
+  - index: 471
+    text: 'installed in schools in Makadiki, Samalari, Tequinomata, '
+    text_base: installed in schools in makadiki samalari tequinomata
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 29
+    line_number: 9
+    span_number: 0
+    total_y: 5636.619873046875
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 574.3929443359375, 563.6039428710938, 588.0780029296875)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.6039428710938
+    double_fontsize_int: 20
+  - index: 472
+    text: 'Parlimento and Illilai Village. Two additional water '
+    text_base: parlimento and illilai village two additional water
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 29
+    line_number: 10
+    span_number: 0
+    total_y: 5648.139892578125
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 585.9129638671875, 563.611083984375, 599.5980224609375)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.611083984375
+    double_fontsize_int: 20
+  - index: 473
+    text: 'catchment systems were installed in October-November in '
+    text_base: catchment systems were installed in october november in
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 29
+    line_number: 11
+    span_number: 0
+    total_y: 5659.659912109375
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 597.4329833984375, 563.5817260742188, 611.1180419921875)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 563.5817260742188
+    double_fontsize_int: 20
+  - index: 474
+    text: "a community center and women\u2019s collective building. "
+    text_base: a community center and women s collective building
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 6
+    block_number: 29
+    line_number: 12
+    span_number: 0
+    total_y: 5671.059875488281
+    origin_x: 303.04998779296875
+    bbox: (303.04998779296875, 608.8330078125, 538.7888793945312, 622.5180053710938)
+    bbox_x1: 303.04998779296875
+    bbox_x2: 538.7888793945312
+    double_fontsize_int: 20
+  - index: 507
+    text: 'Water catchment and tank installed in school in Parlimento '
+    text_base: water catchment and tank installed in school in parlimento
+    style: 'arialmt, 18, #000000, #ffffff'
+    size: 9.0
+    page_number: 6
+    block_number: 42
+    line_number: 0
+    span_number: 0
+    total_y: 5667.819885253906
+    origin_x: 50.7599983215332
+    bbox: (50.7599983215332, 606.625, 287.0360412597656, 618.990966796875)
+    bbox_x1: 50.7599983215332
+    bbox_x2: 287.0360412597656
+    double_fontsize_int: 18
+  - index: 479
+    text: 'Outputs '
+    text_base: outputs
+    style: 'bold, 18, #ffffff, #7c6d66'
+    size: 9.0
+    page_number: 6
+    block_number: 32
+    line_number: 0
+    span_number: 0
+    total_y: 5709.939880371094
+    origin_x: 326.8299865722656
+    bbox: (326.8299865722656, 648.7899780273438, 363.7720031738281, 661.1829833984375)
+    bbox_x1: 326.8299865722656
+    bbox_x2: 363.7720031738281
+    double_fontsize_int: 18
+  - index: 480
+    text: '% of achievement '
+    text_base: of achievement
+    style: 'bold, 18, #ffffff, #7c6d66'
+    size: 9.0
+    page_number: 6
+    block_number: 32
+    line_number: 1
+    span_number: 0
+    total_y: 5709.939880371094
+    origin_x: 474.9400024414063
+    bbox: (474.94000244140625, 648.7899780273438, 553.5220336914062, 661.1829833984375)
+    bbox_x1: 474.9400024414063
+    bbox_x2: 553.5220336914062
+    double_fontsize_int: 18
+  items:
+  - 'As reported in Operations Update #3 , 155,000 litres of drinking water was provided to five target communities in Viqueque and Bacau Districts. The water was distributed by tanker to bladders positioned in each community where community members managed the distribution accompanied by safe water and hygiene messaging provided by trained branch volunteers. Water distribution began in June and ceased in September. In addition, CVTL distributed 4,000 units of 10 litre water containers supplied by IFRC and 1,776 water containers from CVTL stocks in eight communities in Viqueque, Bacau and Lautem districts in June, with each family receiving 2 jerry cans each.'
+  - "Eight rainwater harvesting systems and tanks were installed in schools in Makadiki, Samalari, Tequinomata, Parlimento and Illilai Village. Two additional water catchment systems were installed in October-November in a community center and women\u2019s collective building. Water catchment and tank installed in school in Parlimento"
+  - Outputs % of achievement
+- title:
+    text: Achievements, challenges and lessons learned
+    text_base: achievements challenges and lessons learned
+    style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 6033.619873046875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 129.52279663085938, 270.8158264160156, 143.2377166748047)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 270.8158264160156
+    idx: 522
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 383
+  sector_similarity_score: 1.0
+  content:
+  - index: 523
+    text: 'Although some delays were caused by accessibility, such as in '
+    text_base: although some delays were caused by accessibility such as in
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 6057.139892578125
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 152.99301147460938, 563.6176147460938, 166.6780548095703)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.6176147460938
+    double_fontsize_int: 20
+  - index: 524
+    text: 'certain parts of Viqueque district where communities are '
+    text_base: certain parts of viqueque district where communities are
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 6068.659851074219
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 164.51296997070312, 563.62060546875, 178.19801330566406)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.62060546875
+    double_fontsize_int: 20
+  - index: 525
+    text: 'geographically dispersed and are only accessible by foot, most '
+    text_base: geographically dispersed and are only accessible by foot most
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 6080.179870605469
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 176.03298950195312, 563.388671875, 189.71803283691406)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.388671875
+    double_fontsize_int: 20
+  - index: 526
+    text: 'of the activities was successfully completed. The distribution of '
+    text_base: of the activities was successfully completed the distribution of
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 4
+    span_number: 0
+    total_y: 6091.699890136719
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 187.55300903320312, 563.4168090820312, 201.23805236816406)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.4168090820312
+    double_fontsize_int: 20
+  - index: 527
+    text: hygiene kits reached in total 4,546 households.
+    text_base: hygiene kits reached in total 4 546 households
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 5
+    span_number: 0
+    total_y: 6103.099853515625
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 198.95297241210938, 492.7926330566406, 212.6380157470703)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 492.7926330566406
+    double_fontsize_int: 20
+  - index: 528
+    text: 'Some 2,612 people affected by drought in eight communities in '
+    text_base: some 2 612 people affected by drought in eight communities in
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 7
+    span_number: 0
+    total_y: 6126.139892578125
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 221.99301147460938, 563.5448608398438, 235.6780548095703)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.5448608398438
+    double_fontsize_int: 20
+  - index: 529
+    text: 'Viqueque, 1,777 people in four communities in Bacau and '
+    text_base: viqueque 1 777 people in four communities in bacau and
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 8
+    span_number: 0
+    total_y: 6137.659851074219
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 233.51296997070312, 563.4583129882812, 247.19801330566406)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.4583129882812
+    double_fontsize_int: 20
+  - index: 530
+    text: '2,645 people in one community in Lautem (7,034 people in '
+    text_base: 2 645 people in one community in lautem 7 034 people in
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 9
+    span_number: 0
+    total_y: 6149.209838867188
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 245.06295776367188, 563.5244750976562, 258.74798583984375)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.5244750976562
+    double_fontsize_int: 20
+  - index: 531
+    text: 'total) have received hygiene promotion and awareness '
+    text_base: total have received hygiene promotion and awareness
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 10
+    span_number: 0
+    total_y: 6160.60986328125
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 256.4629821777344, 563.2702026367188, 270.14801025390625)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.2702026367188
+    double_fontsize_int: 20
+  - index: 532
+    text: 'messaging via door to door visits and distribution of posters. '
+    text_base: messaging via door to door visits and distribution of posters
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 11
+    span_number: 0
+    total_y: 6172.1298828125
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 267.9830017089844, 563.2800903320312, 281.66802978515625)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.2800903320312
+    double_fontsize_int: 20
+  - index: 533
+    text: 'This messaging includes safe water management and '
+    text_base: this messaging includes safe water management and
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 12
+    span_number: 0
+    total_y: 6183.649841308594
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 279.5029602050781, 563.3401489257812, 293.18798828125)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.3401489257812
+    double_fontsize_int: 20
+  - index: 534
+    text: 'handwashing as well as prevention of malaria and dengue. It '
+    text_base: handwashing as well as prevention of malaria and dengue it
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 13
+    span_number: 0
+    total_y: 6195.169860839844
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 291.0229797363281, 563.2203369140625, 304.7080078125)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.2203369140625
+    double_fontsize_int: 20
+  - index: 535
+    text: 'was originally planned that this education would be '
+    text_base: was originally planned that this education would be
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 14
+    span_number: 0
+    total_y: 6206.689880371094
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 302.5429992675781, 563.330078125, 316.22802734375)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.330078125
+    double_fontsize_int: 20
+  - index: 536
+    text: 'accompanied by the distribution of hygiene kits to families. '
+    text_base: accompanied by the distribution of hygiene kits to families
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 15
+    span_number: 0
+    total_y: 6218.209838867188
+    origin_x: 284.45001220703125
+    bbox: (284.45001220703125, 314.0629577636719, 563.6288452148438, 327.74798583984375)
+    bbox_x1: 284.45001220703125
+    bbox_x2: 563.6288452148438
+    double_fontsize_int: 20
+  - index: 537
+    text: 'However, this was delayed due to procurement and finally took '
+    text_base: however this was delayed due to procurement and finally took
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 16
+    span_number: 0
+    total_y: 6229.60986328125
+    origin_x: 281.2099914550781
+    bbox: (281.2099914550781, 325.4629821777344, 563.6288452148438, 339.14801025390625)
+    bbox_x1: 281.2099914550781
+    bbox_x2: 563.6288452148438
+    double_fontsize_int: 20
+  - index: 538
+    text: 'place in November.  '
+    text_base: place in november
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 17
+    span_number: 0
+    total_y: 6241.129852294922
+    origin_x: 281.2099914550781
+    bbox: (281.2099914550781, 336.98297119140625, 372.91888427734375, 350.6679992675781)
+    bbox_x1: 281.2099914550781
+    bbox_x2: 372.91888427734375
+    double_fontsize_int: 20
+  - index: 615
+    text: 'CVTL volunteers conduct hygiene promotion '
+    text_base: cvtl volunteers conduct hygiene promotion
+    style: 'arialmt, 18, #000000, #ffffff'
+    size: 9.0
+    page_number: 7
+    block_number: 33
+    line_number: 0
+    span_number: 0
+    total_y: 6226.9698486328125
+    origin_x: 70.8239974975586
+    bbox: (70.8239974975586, 323.85498046875, 250.96392822265625, 336.2209777832031)
+    bbox_x1: 70.8239974975586
+    bbox_x2: 250.96392822265625
+    double_fontsize_int: 18
+  - index: 539
+    text: 'Monitoring of hygiene practices in target communities was planned to be carried out via post-distribution monitoring '
+    text_base: monitoring of hygiene practices in target communities was planned to be carried out via post distribution monitoring
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 6264.169860839844
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 360.0229797363281, 563.591552734375, 373.7080078125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.591552734375
+    double_fontsize_int: 20
+  - index: 540
+    text: 'visits. While the monitoring visits were undertaken, the visits were not recorded sufficiently to verify how well the '
+    text_base: visits while the monitoring visits were undertaken the visits were not recorded sufficiently to verify how well the
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 1
+    span_number: 0
+    total_y: 6275.689849853516
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 371.54296875, 563.5578002929688, 385.2279968261719)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5578002929688
+    double_fontsize_int: 20
+  - index: 541
+    text: 'practices have been adopted to all targeted communities. CVTL are determined to improve monitoring tools and '
+    text_base: practices have been adopted to all targeted communities cvtl are determined to improve monitoring tools and
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 6287.209869384766
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 383.06298828125, 563.3873901367188, 396.7480163574219)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.3873901367188
+    double_fontsize_int: 20
+  - index: 542
+    text: 'process for future operations.  '
+    text_base: process for future operations
+    style: 'arialmt, 20, #000000, #ffffff'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 3
+    span_number: 0
+    total_y: 6298.60986328125
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 394.4629821777344, 182.6688690185547, 408.14801025390625)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 182.6688690185547
+    double_fontsize_int: 20
+  items:
+  - Although some delays were caused by accessibility, such as in certain parts of Viqueque district where communities are geographically dispersed and are only accessible by foot, most of the activities was successfully completed. The distribution of hygiene kits reached in total 4,546 households.
+  - Some 2,612 people affected by drought in eight communities in Viqueque, 1,777 people in four communities in Bacau and 2,645 people in one community in Lautem (7,034 people in total) have received hygiene promotion and awareness messaging via door to door visits and distribution of posters. This messaging includes safe water management and handwashing as well as prevention of malaria and dengue. It was originally planned that this education would be accompanied by the distribution of hygiene kits to families. However, this was delayed due to procurement and finally took place in November. CVTL volunteers conduct hygiene promotion
+  - Monitoring of hygiene practices in target communities was planned to be carried out via post-distribution monitoring visits. While the monitoring visits were undertaken, the visits were not recorded sufficiently to verify how well the practices have been adopted to all targeted communities. CVTL are determined to improve monitoring tools and process for future operations.
+- title:
+    text: 'Achievements, challenges and lessons learned '
+    text_base: achievements challenges and lessons learned
+    style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 6793.1998291015625
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 47.18276596069336, 273.8988952636719, 60.89768600463867)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 273.8988952636719
+    idx: 619
+  sector_title: National Society Strengthening
+  sector_idx: 543
+  sector_similarity_score: 1.0
+  content:
+  - index: 620
+    text: 'The extension of operation timeframe was largely sought due to delays in implementing some activities under this '
+    text_base: the extension of operation timeframe was largely sought due to delays in implementing some activities under this
+    style: 'arialmt, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 6805.1998291015625
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 59.132965087890625, 562.8883666992188, 72.81800842285156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.8883666992188
+    double_fontsize_int: 20
+  - index: 621
+    text: 'sector due to gaps in technical support available from IFRC for CVTL.  '
+    text_base: sector due to gaps in technical support available from ifrc for cvtl
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 2
+    span_number: 0
+    total_y: 6816.7198486328125
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 70.65298461914062, 360.55889892578125, 84.33802795410156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 360.5588989257813
+    double_fontsize_int: 20
+  - index: 622
+    text: 'During the operation, eight full time staff were recruited by CVTL to support the branch and headquarters staff to '
+    text_base: during the operation eight full time staff were recruited by cvtl to support the branch and headquarters staff to
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 4
+    span_number: 0
+    total_y: 6839.779846191406
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 93.71298217773438, 563.6288452148438, 107.39802551269531)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.6288452148438
+    double_fontsize_int: 20
+  - index: 623
+    text: 'implement the drought plan of action. Five staff members were recruited at the national level and three at branch level '
+    text_base: implement the drought plan of action five staff members were recruited at the national level and three at branch level
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 5
+    span_number: 0
+    total_y: 6851.299865722656
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 105.23300170898438, 563.6288452148438, 118.91804504394531)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.6288452148438
+    double_fontsize_int: 20
+  - index: 624
+    text: '(one for each district: Lautem, Viqueque and Baucau).  '
+    text_base: one for each district lautem viqueque and baucau
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 6
+    span_number: 0
+    total_y: 6862.81982421875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 116.75296020507812, 292.2588806152344, 130.43800354003906)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 292.2588806152344
+    double_fontsize_int: 20
+  - index: 625
+    text: 'CVTL convened regular drought task force meetings, where a representative from each of CVTL departments came '
+    text_base: cvtl convened regular drought task force meetings where a representative from each of cvtl departments came
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 8
+    span_number: 0
+    total_y: 6885.739868164063
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 139.67300415039062, 563.5889282226562, 153.35804748535156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5889282226562
+    double_fontsize_int: 20
+  - index: 626
+    text: 'together to strategize and plan this drought response. The final evaluation highlighted the establishment of the task '
+    text_base: together to strategize and plan this drought response the final evaluation highlighted the establishment of the task
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 9
+    span_number: 0
+    total_y: 6897.259826660156
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 151.19296264648438, 563.5606079101562, 164.8780059814453)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5606079101562
+    double_fontsize_int: 20
+  - index: 627
+    text: 'force as an important initiative enabling senior management to take a more direct role in ensuring tasks and functions '
+    text_base: force as an important initiative enabling senior management to take a more direct role in ensuring tasks and functions
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 10
+    span_number: 0
+    total_y: 6908.779846191406
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 162.71298217773438, 563.2268676757812, 176.3980255126953)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.2268676757812
+    double_fontsize_int: 20
+  - index: 628
+    text: 'were resourced adequately to ease the workload of the Disaster Management Unit. This task force structure is now '
+    text_base: were resourced adequately to ease the workload of the disaster management unit this task force structure is now
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 11
+    span_number: 0
+    total_y: 6920.299865722656
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 174.23300170898438, 563.6288452148438, 187.9180450439453)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.6288452148438
+    double_fontsize_int: 20
+  - index: 629
+    text: 'formalized into CVTL Standard Operating Procedures for emergency response, that were revised and finalized after '
+    text_base: formalized into cvtl standard operating procedures for emergency response that were revised and finalized after
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 12
+    span_number: 0
+    total_y: 6931.6998291015625
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 185.63296508789062, 563.5875244140625, 199.31800842285156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5875244140625
+    double_fontsize_int: 20
+  - index: 630
+    text: 'the final evaluation and based on the drought response, with the support of the DRM Delegate from CCST Jakarta.  '
+    text_base: the final evaluation and based on the drought response with the support of the drm delegate from ccst jakarta
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 13
+    span_number: 0
+    total_y: 6943.2198486328125
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 197.15298461914062, 560.2688598632812, 210.83802795410156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 560.2688598632812
+    double_fontsize_int: 20
+  - index: 631
+    text: 'Non-food relief items including kitchen sets, blankets, water containers, hygiene kits and tarpaulins for 400 families in '
+    text_base: non food relief items including kitchen sets blankets water containers hygiene kits and tarpaulins for 400 families in
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 15
+    span_number: 0
+    total_y: 6966.259826660156
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 220.19296264648438, 563.4749145507812, 233.8780059814453)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.4749145507812
+    double_fontsize_int: 20
+  - index: 632
+    text: 'each of the three districts were requisitioned from the Asia Pacific Regional Logistics Unit and arrived in Dili in early '
+    text_base: each of the three districts were requisitioned from the asia pacific regional logistics unit and arrived in dili in early
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 16
+    span_number: 0
+    total_y: 6977.779846191406
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 231.71298217773438, 562.9842529296875, 245.3980255126953)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.9842529296875
+    double_fontsize_int: 20
+  - index: 633
+    text: '2017. This stock will be managed by the respective branches and prepositioned for future shocks including the '
+    text_base: 2017 this stock will be managed by the respective branches and prepositioned for future shocks including the
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 17
+    span_number: 0
+    total_y: 6989.329833984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 243.26296997070312, 563.56787109375, 256.947998046875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.56787109375
+    double_fontsize_int: 20
+  - index: 634
+    text: 'pending lean and wet seasons.  '
+    text_base: pending lean and wet seasons
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 18
+    span_number: 0
+    total_y: 7000.7298583984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 254.66299438476562, 190.58888244628906, 268.3480224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 190.58888244628903
+    double_fontsize_int: 20
+  - index: 635
+    text: 'National Disaster Response Team went through Emergency WatSan refresher training in March 2017 in Dili and '
+    text_base: national disaster response team went through emergency watsan refresher training in march 2017 in dili and
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 20
+    span_number: 0
+    total_y: 7023.769836425781
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 277.7029724121094, 563.0576171875, 291.38800048828125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.0576171875
+    double_fontsize_int: 20
+  - index: 636
+    text: 'Branch Disaster Response Team refresher trainings were carried out in all three affected branches. '
+    text_base: branch disaster response team refresher trainings were carried out in all three affected branches
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 21
+    span_number: 0
+    total_y: 7035.289855957031
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 289.2229919433594, 488.9888916015625, 302.90802001953125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 488.9888916015625
+    double_fontsize_int: 20
+  - index: 637
+    text: 'British Red Cross are currently supporting CVTL in logistics capacity development. The pre-positioned initiative with '
+    text_base: british red cross are currently supporting cvtl in logistics capacity development the pre positioned initiative with
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 23
+    span_number: 0
+    total_y: 7058.329833984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 312.2629699707031, 563.5458984375, 325.947998046875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5458984375
+    double_fontsize_int: 20
+  - index: 638
+    text: 'training and development support and logistics SOP development has been linked and harmonised with the logistics '
+    text_base: training and development support and logistics sop development has been linked and harmonised with the logistics
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 24
+    span_number: 0
+    total_y: 7069.7298583984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 323.6629943847656, 562.9779663085938, 337.3480224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.9779663085938
+    double_fontsize_int: 20
+  - index: 639
+    text: 'development plan of action. Warehousing assessments, inventory and branch capacity have been undertaken in the '
+    text_base: development plan of action warehousing assessments inventory and branch capacity have been undertaken in the
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 25
+    span_number: 0
+    total_y: 7081.249847412109
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 335.1829833984375, 563.1491088867188, 348.8680114746094)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.1491088867188
+    double_fontsize_int: 20
+  - index: 640
+    text: 'branches in Viqueque, Bacau and Lautem with the support of British Red Cross. Since the assessments found issues '
+    text_base: branches in viqueque bacau and lautem with the support of british red cross since the assessments found issues
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 26
+    span_number: 0
+    total_y: 7092.769836425781
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 346.7029724121094, 563.1275024414062, 360.38800048828125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.1275024414062
+    double_fontsize_int: 20
+  - index: 641
+    text: 'related to branch storage actually go beyond the operation scope, part of the preparedness stock is prepositioned in '
+    text_base: related to branch storage actually go beyond the operation scope part of the preparedness stock is prepositioned in
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 27
+    span_number: 0
+    total_y: 7104.289855957031
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 358.2229919433594, 563.607177734375, 371.90802001953125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.607177734375
+    double_fontsize_int: 20
+  - index: 642
+    text: 'Dili warehouse.   '
+    text_base: dili warehouse
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 28
+    span_number: 0
+    total_y: 7115.809844970703
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 369.74298095703125, 123.74888610839844, 383.4280090332031)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 123.74888610839844
+    double_fontsize_int: 20
+  - index: 643
+    text: The National Society was also considering to undertake the revised Well Prepared National Society (WPNS+) self-
+    text_base: the national society was also considering to undertake the revised well prepared national society wpns self
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 30
+    span_number: 0
+    total_y: 7138.7298583984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 392.6629943847656, 560.6966552734375, 406.3480224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 560.6966552734375
+    double_fontsize_int: 20
+  - index: 644
+    text: 'assessment as a step towards an evidence-based approach to enhancing its disaster response capacity. As technical '
+    text_base: assessment as a step towards an evidence based approach to enhancing its disaster response capacity as technical
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 31
+    span_number: 0
+    total_y: 7150.269836425781
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 404.2029724121094, 563.4119873046875, 417.88800048828125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.4119873046875
+    double_fontsize_int: 20
+  - index: 645
+    text: 'guidance for this process were not available during the operation timeframe, CVTL will carry this exercise out with '
+    text_base: guidance for this process were not available during the operation timeframe cvtl will carry this exercise out with
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 32
+    span_number: 0
+    total_y: 7161.789855957031
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 415.7229919433594, 563.18701171875, 429.40802001953125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.18701171875
+    double_fontsize_int: 20
+  - index: 646
+    text: 'peer support later on in 2017. CVTL has contingency plans for flood, drought and election preparedness. The '
+    text_base: peer support later on in 2017 cvtl has contingency plans for flood drought and election preparedness the
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 33
+    span_number: 0
+    total_y: 7173.309844970703
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 427.24298095703125, 563.5467529296875, 440.9280090332031)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5467529296875
+    double_fontsize_int: 20
+  - index: 647
+    text: 'experience gained from implementing this operation provides a good opportunity to review the drought contingency '
+    text_base: experience gained from implementing this operation provides a good opportunity to review the drought contingency
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 34
+    span_number: 0
+    total_y: 7184.829833984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 438.7629699707031, 562.87841796875, 452.447998046875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.87841796875
+    double_fontsize_int: 20
+  - index: 648
+    text: 'plan, this will be carried out after the WPNS+ exercise. '
+    text_base: plan this will be carried out after the wpns exercise
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 35
+    span_number: 0
+    total_y: 7196.2298583984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 450.1629943847656, 291.29888916015625, 463.8480224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 291.29888916015625
+    double_fontsize_int: 20
+  - index: 649
+    text: "The final evaluation notes that CVTL\u2019s capacity to respond to disasters has been enhanced, most noticeably in regard "
+    text_base: the final evaluation notes that cvtl s capacity to respond to disasters has been enhanced most noticeably in regard
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 37
+    span_number: 0
+    total_y: 7219.269836425781
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 473.2029724121094, 563.5919189453125, 486.88800048828125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5919189453125
+    double_fontsize_int: 20
+  - index: 650
+    text: 'to cash programming. Prior to the operation, there was a reluctance to consider cash programming, particularly '
+    text_base: to cash programming prior to the operation there was a reluctance to consider cash programming particularly
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 38
+    span_number: 0
+    total_y: 7230.789855957031
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 484.7229919433594, 563.0283813476562, 498.40802001953125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.0283813476562
+    double_fontsize_int: 20
+  - index: 651
+    text: 'amongst senior management. All CVTL staff interviewed now had a positive impression of cash programming. There '
+    text_base: amongst senior management all cvtl staff interviewed now had a positive impression of cash programming there
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 39
+    span_number: 0
+    total_y: 7242.309844970703
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 496.24298095703125, 563.6288452148438, 509.9280090332031)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.6288452148438
+    double_fontsize_int: 20
+  - index: 652
+    text: "was no doubt from \u201Clearning by doing\u201D which dispelled misconceptions, but staff also benefited from IFRC technical "
+    text_base: was no doubt from learning by doing which dispelled misconceptions but staff also benefited from ifrc technical
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 40
+    span_number: 0
+    total_y: 7253.829833984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 509.4534606933594, 562.787353515625, 520.5806274414062)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.787353515625
+    double_fontsize_int: 20
+  - index: 653
+    text: 'support not only in being trained in CTP prior to implementation but through assistance in drafting CTP SOPs after '
+    text_base: support not only in being trained in ctp prior to implementation but through assistance in drafting ctp sops after
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 41
+    span_number: 0
+    total_y: 7265.229858398437
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 519.1629638671875, 563.0078125, 532.8480224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.0078125
+    double_fontsize_int: 20
+  - index: 654
+    text: 'the intervention. '
+    text_base: the intervention
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 42
+    span_number: 0
+    total_y: 7276.749877929687
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 530.6829833984375, 120.98888397216797, 544.3680419921875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 120.98888397216795
+    double_fontsize_int: 20
+  - index: 655
+    text: 'A number of technical trainings and capacity building activities were undertaken and delivered during this operation, '
+    text_base: a number of technical trainings and capacity building activities were undertaken and delivered during this operation
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 44
+    span_number: 0
+    total_y: 7299.789855957031
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 553.7230224609375, 563.6287231445312, 567.4080200195312)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.6287231445312
+    double_fontsize_int: 20
+  - index: 656
+    text: "however what is most noticeable is the \u2018accompaniment\u2019 approach of the IFRC operations managers. The evaluation "
+    text_base: however what is most noticeable is the accompaniment approach of the ifrc operations managers the evaluation
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 45
+    span_number: 0
+    total_y: 7311.33984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 565.27294921875, 563.3544921875, 578.9580078125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.3544921875
+    double_fontsize_int: 20
+  - index: 657
+    text: 'noted considerable capacity improvement in the staff and CVTL; indicating the positive impact of staff and '
+    text_base: noted considerable capacity improvement in the staff and cvtl indicating the positive impact of staff and
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 46
+    span_number: 0
+    total_y: 7322.85986328125
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 576.79296875, 563.3810424804688, 590.47802734375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.3810424804688
+    double_fontsize_int: 20
+  - index: 658
+    text: 'organizational capacity development prior to and part of this emergency response.   '
+    text_base: organizational capacity development prior to and part of this emergency response
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 8
+    block_number: 2
+    line_number: 47
+    span_number: 0
+    total_y: 7334.259826660156
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 588.1929931640625, 418.8788757324219, 601.8779907226562)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 418.8788757324219
+    double_fontsize_int: 20
+  items:
+  - The extension of operation timeframe was largely sought due to delays in implementing some activities under this sector due to gaps in technical support available from IFRC for CVTL.
+  - 'During the operation, eight full time staff were recruited by CVTL to support the branch and headquarters staff to implement the drought plan of action. Five staff members were recruited at the national level and three at branch level (one for each district: Lautem, Viqueque and Baucau).'
+  - CVTL convened regular drought task force meetings, where a representative from each of CVTL departments came together to strategize and plan this drought response. The final evaluation highlighted the establishment of the task force as an important initiative enabling senior management to take a more direct role in ensuring tasks and functions were resourced adequately to ease the workload of the Disaster Management Unit. This task force structure is now formalized into CVTL Standard Operating Procedures for emergency response, that were revised and finalized after the final evaluation and based on the drought response, with the support of the DRM Delegate from CCST Jakarta.
+  - Non-food relief items including kitchen sets, blankets, water containers, hygiene kits and tarpaulins for 400 families in each of the three districts were requisitioned from the Asia Pacific Regional Logistics Unit and arrived in Dili in early 2017. This stock will be managed by the respective branches and prepositioned for future shocks including the pending lean and wet seasons.
+  - National Disaster Response Team went through Emergency WatSan refresher training in March 2017 in Dili and Branch Disaster Response Team refresher trainings were carried out in all three affected branches.
+  - British Red Cross are currently supporting CVTL in logistics capacity development. The pre-positioned initiative with training and development support and logistics SOP development has been linked and harmonised with the logistics development plan of action. Warehousing assessments, inventory and branch capacity have been undertaken in the branches in Viqueque, Bacau and Lautem with the support of British Red Cross. Since the assessments found issues related to branch storage actually go beyond the operation scope, part of the preparedness stock is prepositioned in Dili warehouse.
+  - The National Society was also considering to undertake the revised Well Prepared National Society (WPNS+) self- assessment as a step towards an evidence-based approach to enhancing its disaster response capacity. As technical guidance for this process were not available during the operation timeframe, CVTL will carry this exercise out with peer support later on in 2017. CVTL has contingency plans for flood, drought and election preparedness. The experience gained from implementing this operation provides a good opportunity to review the drought contingency plan, this will be carried out after the WPNS+ exercise.
+  - "The final evaluation notes that CVTL\u2019s capacity to respond to disasters has been enhanced, most noticeably in regard to cash programming. Prior to the operation, there was a reluctance to consider cash programming, particularly amongst senior management. All CVTL staff interviewed now had a positive impression of cash programming. There was no doubt from \u201Clearning by doing\u201D which dispelled misconceptions, but staff also benefited from IFRC technical support not only in being trained in CTP prior to implementation but through assistance in drafting CTP SOPs after the intervention."
+  - "A number of technical trainings and capacity building activities were undertaken and delivered during this operation, however what is most noticeable is the \u2018accompaniment\u2019 approach of the IFRC operations managers. The evaluation noted considerable capacity improvement in the staff and CVTL; indicating the positive impact of staff and organizational capacity development prior to and part of this emergency response."
+- title:
+    text: 'Achievements, challenges and lessons learned '
+    text_base: achievements challenges and lessons learned
+    style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 7682.179809570312
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 94.24275970458984, 273.8988952636719, 107.95768737792969)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 273.8988952636719
+    idx: 697
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 659
+  sector_similarity_score: 1.0
+  content:
+  - index: 698
+    text: 'CVTL regularly respond to meteorological hazards including floods and landslips during the annual rainy season. '
+    text_base: cvtl regularly respond to meteorological hazards including floods and landslips during the annual rainy season
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 7705.699829101562
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 117.71298217773438, 562.9680786132812, 131.3980255126953)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.9680786132812
+    double_fontsize_int: 20
+  - index: 699
+    text: "Forecasters predict a 50% chance of a developing La Ni\xF1a conditions in 2017, which potentially can result in increased "
+    text_base: forecasters predict a 50 chance of a developing la ni a conditions in 2017 which potentially can result in increased
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 7717.2198486328125
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 129.23300170898438, 563.5546875, 142.9180450439453)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5546875
+    double_fontsize_int: 20
+  - index: 700
+    text: 'rainfall and floods. Therefore, CVTL kept a database on rainfall until the rainy season started in January/February and '
+    text_base: rainfall and floods therefore cvtl kept a database on rainfall until the rainy season started in january february and
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 7728.739807128906
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 140.75296020507812, 563.5615844726562, 154.43800354003906)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5615844726562
+    double_fontsize_int: 20
+  - index: 701
+    text: 'ends in May. The rainfall patterns in January-March were very erratic, returning to normality in some drought-affected '
+    text_base: ends in may the rainfall patterns in january march were very erratic returning to normality in some drought affected
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 5
+    span_number: 0
+    total_y: 7740.139831542969
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 152.15298461914062, 563.58642578125, 165.83802795410156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.58642578125
+    double_fontsize_int: 20
+  - index: 702
+    text: 'areas but not in all.  '
+    text_base: areas but not in all
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 6
+    span_number: 0
+    total_y: 7751.659851074219
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 163.67300415039062, 137.06887817382812, 177.35804748535156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 137.06887817382812
+    double_fontsize_int: 20
+  - index: 703
+    text: 'CVTL have a draft contingency plan for flood response, a contingency plan for drought and a contingency plan for '
+    text_base: cvtl have a draft contingency plan for flood response a contingency plan for drought and a contingency plan for
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 8
+    span_number: 0
+    total_y: 7774.699829101562
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 186.71298217773438, 563.1691284179688, 200.3980255126953)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.1691284179688
+    double_fontsize_int: 20
+  - index: 704
+    text: 'election preparedness. The DRM Delegate has undertaken a desk based review of all of the contingency plans and '
+    text_base: election preparedness the drm delegate has undertaken a desk based review of all of the contingency plans and
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 9
+    span_number: 0
+    total_y: 7786.2198486328125
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 198.23300170898438, 563.0272827148438, 211.9180450439453)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.0272827148438
+    double_fontsize_int: 20
+  - index: 705
+    text: 'has worked with CVTL to do a country specific risk and hazard mapping. Due to resource constraints, there was  '
+    text_base: has worked with cvtl to do a country specific risk and hazard mapping due to resource constraints there was
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 10
+    span_number: 0
+    total_y: 7797.619812011719
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 209.63296508789062, 566.3888549804688, 223.31800842285156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 566.3888549804688
+    double_fontsize_int: 20
+  - index: 706
+    text: "insufficient time within the operation to revise all of CVTL\u2019s contingency plans. Based on discussions with CVTL, it "
+    text_base: insufficient time within the operation to revise all of cvtl s contingency plans based on discussions with cvtl it
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 11
+    span_number: 0
+    total_y: 7809.139831542969
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 221.15298461914062, 563.4463500976562, 234.83802795410156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.4463500976562
+    double_fontsize_int: 20
+  - index: 707
+    text: 'was agreed that a review of the current Standard Operation Procedures was the main priority, which was done in a '
+    text_base: was agreed that a review of the current standard operation procedures was the main priority which was done in a
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 12
+    span_number: 0
+    total_y: 7820.659851074219
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 232.67300415039062, 563.3765258789062, 246.35804748535156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.3765258789062
+    double_fontsize_int: 20
+  - index: 708
+    text: 'workshop in June 2017. The review of contingency plans would be done once the WPNS+ review was undertaken, in '
+    text_base: workshop in june 2017 the review of contingency plans would be done once the wpns review was undertaken in
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 13
+    span_number: 0
+    total_y: 7832.2098388671875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 244.22299194335938, 563.5137939453125, 257.90802001953125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5137939453125
+    double_fontsize_int: 20
+  - index: 709
+    text: 'the second half of 2017. '
+    text_base: the second half of 2017
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 14
+    span_number: 0
+    total_y: 7843.729858398437
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 255.74301147460938, 156.62887573242188, 269.42803955078125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 156.62887573242188
+    double_fontsize_int: 20
+  - index: 710
+    text: 'Communities receiving assistance under the cash distribution plan also received awareness information and guidance '
+    text_base: communities receiving assistance under the cash distribution plan also received awareness information and guidance
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 16
+    span_number: 0
+    total_y: 7866.649841308594
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 278.6629943847656, 562.9580688476562, 292.3480224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.9580688476562
+    double_fontsize_int: 20
+  - index: 711
+    text: 'on seasonal risk reduction via the community recovery committees and broadcasts on local radio. Radio messaging '
+    text_base: on seasonal risk reduction via the community recovery committees and broadcasts on local radio radio messaging
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 17
+    span_number: 0
+    total_y: 7878.169799804687
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 290.1829528808594, 563.5479736328125, 303.86798095703125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5479736328125
+    double_fontsize_int: 20
+  - index: 712
+    text: 'targeted 20 communities in Baucau (8), Lautem (5) and Viqueque (7) reaching the total population of 28,650 people.  '
+    text_base: targeted 20 communities in baucau 8 lautem 5 and viqueque 7 reaching the total population of 28 650 people
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 18
+    span_number: 0
+    total_y: 7889.6898193359375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 301.7029724121094, 566.35791015625, 315.38800048828125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 566.35791015625
+    double_fontsize_int: 20
+  - index: 713
+    text: 'Participatory risk mapping was done with community members and local authorities in three communities, after which '
+    text_base: participatory risk mapping was done with community members and local authorities in three communities after which
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 19
+    span_number: 0
+    total_y: 7901.2098388671875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 313.2229919433594, 563.5387573242188, 326.90802001953125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5387573242188
+    double_fontsize_int: 20
+  - index: 714
+    text: 'the risk maps with prevention messaging (posters) were put in government building for public display. CVTL also '
+    text_base: the risk maps with prevention messaging posters were put in government building for public display cvtl also
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 20
+    span_number: 0
+    total_y: 7912.729827880859
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 324.74298095703125, 563.587158203125, 338.4280090332031)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.587158203125
+    double_fontsize_int: 20
+  - index: 715
+    text: 'increased Disaster Risk Reduction messaging using social media identified as a gap in CVTL drought task force '
+    text_base: increased disaster risk reduction messaging using social media identified as a gap in cvtl drought task force
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 21
+    span_number: 0
+    total_y: 7924.249816894531
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 336.2629699707031, 563.047607421875, 349.947998046875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.047607421875
+    double_fontsize_int: 20
+  - index: 716
+    text: 'meetings. Besides the disaster risk messaging, no additional seasonal forecasts were transmitted to the communities '
+    text_base: meetings besides the disaster risk messaging no additional seasonal forecasts were transmitted to the communities
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 22
+    span_number: 0
+    total_y: 7935.649841308594
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 347.6629943847656, 563.2528686523438, 361.3480224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.2528686523438
+    double_fontsize_int: 20
+  - index: 717
+    text: 'during the operation. '
+    text_base: during the operation
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 23
+    span_number: 0
+    total_y: 7947.169830322266
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 359.1829833984375, 141.62887573242188, 372.8680114746094)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 141.62887573242188
+    double_fontsize_int: 20
+  - index: 718
+    text: 'The Joint Rapid Assessment process has however kicked-off the discussion on the need for national Early Warning '
+    text_base: the joint rapid assessment process has however kicked off the discussion on the need for national early warning
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 25
+    span_number: 0
+    total_y: 7970.2098388671875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 382.2229919433594, 563.5225830078125, 395.90802001953125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5225830078125
+    double_fontsize_int: 20
+  - index: 719
+    text: 'Early Action system not targeting only high winds, rains and floods recurrent in the country but also drought. Within '
+    text_base: early action system not targeting only high winds rains and floods recurrent in the country but also drought within
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 26
+    span_number: 0
+    total_y: 7981.729827880859
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 393.74298095703125, 563.1098022460938, 407.4280090332031)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.1098022460938
+    double_fontsize_int: 20
+  - index: 720
+    text: 'this framework, FAO is supporting the Timor-Leste Ministry of Agriculture to create a seasonal forecast system for '
+    text_base: this framework fao is supporting the timor leste ministry of agriculture to create a seasonal forecast system for
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 27
+    span_number: 0
+    total_y: 7993.149841308594
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 405.1629943847656, 563.25341796875, 418.8480224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.25341796875
+    double_fontsize_int: 20
+  - index: 721
+    text: 'agricultural and drought monitoring purposes. CVTL has offered assistance in supporting the dissemination of weather '
+    text_base: agricultural and drought monitoring purposes cvtl has offered assistance in supporting the dissemination of weather
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 28
+    span_number: 0
+    total_y: 8004.669830322266
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 416.6829833984375, 563.4217529296875, 430.3680114746094)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.4217529296875
+    double_fontsize_int: 20
+  - index: 722
+    text: 'forecast messaging through its volunteers once the system is in place. At the moment, CVTL plans to assist its Ministry '
+    text_base: forecast messaging through its volunteers once the system is in place at the moment cvtl plans to assist its ministry
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 29
+    span_number: 0
+    total_y: 8016.1898193359375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 428.2029724121094, 563.137451171875, 441.88800048828125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.137451171875
+    double_fontsize_int: 20
+  - index: 723
+    text: 'of Interior with disseminating weather warnings through its branch volunteer network.  '
+    text_base: of interior with disseminating weather warnings through its branch volunteer network
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 30
+    span_number: 0
+    total_y: 8027.7098388671875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 439.7229919433594, 427.8788757324219, 453.40802001953125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 427.8788757324219
+    double_fontsize_int: 20
+  - index: 724
+    text: "Integrated Community-Based Risk Reduction (ICBRR) programme is CVTL\u2019s biggest long-term resilience programme "
+    text_base: integrated community based risk reduction icbrr programme is cvtl s biggest long term resilience programme
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 32
+    span_number: 0
+    total_y: 8050.749816894531
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 462.7629699707031, 563.4951171875, 476.447998046875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.4951171875
+    double_fontsize_int: 20
+  - index: 725
+    text: 'supported by a Consortium of Red Cross partners formed by Australian, British, Korean and New Zealand Red Cross '
+    text_base: supported by a consortium of red cross partners formed by australian british korean and new zealand red cross
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 33
+    span_number: 0
+    total_y: 8062.149841308594
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 474.1629943847656, 563.07763671875, 487.8480224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.07763671875
+    double_fontsize_int: 20
+  - index: 726
+    text: 'societies together with KOICA and IFRC. ICBRR works on community resilience in improving access to water and '
+    text_base: societies together with koica and ifrc icbrr works on community resilience in improving access to water and
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 34
+    span_number: 0
+    total_y: 8073.669830322266
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 485.6829833984375, 563.1028442382812, 499.3680114746094)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.1028442382812
+    double_fontsize_int: 20
+  - index: 727
+    text: 'promoting livelihoods. The first and foremost recommendation in the Joint Rapid Assessment on the Delayed Impact '
+    text_base: promoting livelihoods the first and foremost recommendation in the joint rapid assessment on the delayed impact
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 35
+    span_number: 0
+    total_y: 8085.1898193359375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 497.2029724121094, 563.5623168945312, 510.88800048828125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5623168945312
+    double_fontsize_int: 20
+  - index: 728
+    text: "of El Ni\xF1o Southern Oscillation in Timor-Leste was to support most affected communities through resilience building "
+    text_base: of el ni o southern oscillation in timor leste was to support most affected communities through resilience building
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 36
+    span_number: 0
+    total_y: 8096.7098388671875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 508.7229919433594, 563.3102416992188, 522.4080200195312)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.3102416992188
+    double_fontsize_int: 20
+  - index: 729
+    text: 'programmes so as to effectively help affected households to recover. The community vulnerability to drought will be '
+    text_base: programmes so as to effectively help affected households to recover the community vulnerability to drought will be
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 37
+    span_number: 0
+    total_y: 8108.229797363281
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 520.242919921875, 563.1694946289062, 533.927978515625)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.1694946289062
+    double_fontsize_int: 20
+  - index: 730
+    text: 'taken into account by CVTL as an important criterion in the next ICBRR community selection round. '
+    text_base: taken into account by cvtl as an important criterion in the next icbrr community selection round
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 4
+    line_number: 38
+    span_number: 0
+    total_y: 8119.749816894531
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 531.762939453125, 490.0688781738281, 545.447998046875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 490.0688781738281
+    double_fontsize_int: 20
+  items:
+  - "CVTL regularly respond to meteorological hazards including floods and landslips during the annual rainy season. Forecasters predict a 50% chance of a developing La Ni\xF1a conditions in 2017, which potentially can result in increased rainfall and floods. Therefore, CVTL kept a database on rainfall until the rainy season started in January/February and ends in May. The rainfall patterns in January-March were very erratic, returning to normality in some drought-affected areas but not in all."
+  - "CVTL have a draft contingency plan for flood response, a contingency plan for drought and a contingency plan for election preparedness. The DRM Delegate has undertaken a desk based review of all of the contingency plans and has worked with CVTL to do a country specific risk and hazard mapping. Due to resource constraints, there was insufficient time within the operation to revise all of CVTL\u2019s contingency plans. Based on discussions with CVTL, it was agreed that a review of the current Standard Operation Procedures was the main priority, which was done in a workshop in June 2017. The review of contingency plans would be done once the WPNS+ review was undertaken, in the second half of 2017."
+  - Communities receiving assistance under the cash distribution plan also received awareness information and guidance on seasonal risk reduction via the community recovery committees and broadcasts on local radio. Radio messaging targeted 20 communities in Baucau (8), Lautem (5) and Viqueque (7) reaching the total population of 28,650 people. Participatory risk mapping was done with community members and local authorities in three communities, after which the risk maps with prevention messaging (posters) were put in government building for public display. CVTL also increased Disaster Risk Reduction messaging using social media identified as a gap in CVTL drought task force meetings. Besides the disaster risk messaging, no additional seasonal forecasts were transmitted to the communities during the operation.
+  - The Joint Rapid Assessment process has however kicked-off the discussion on the need for national Early Warning Early Action system not targeting only high winds, rains and floods recurrent in the country but also drought. Within this framework, FAO is supporting the Timor-Leste Ministry of Agriculture to create a seasonal forecast system for agricultural and drought monitoring purposes. CVTL has offered assistance in supporting the dissemination of weather forecast messaging through its volunteers once the system is in place. At the moment, CVTL plans to assist its Ministry of Interior with disseminating weather warnings through its branch volunteer network.
+  - "Integrated Community-Based Risk Reduction (ICBRR) programme is CVTL\u2019s biggest long-term resilience programme supported by a Consortium of Red Cross partners formed by Australian, British, Korean and New Zealand Red Cross societies together with KOICA and IFRC. ICBRR works on community resilience in improving access to water and promoting livelihoods. The first and foremost recommendation in the Joint Rapid Assessment on the Delayed Impact of El Ni\xF1o Southern Oscillation in Timor-Leste was to support most affected communities through resilience building programmes so as to effectively help affected households to recover. The community vulnerability to drought will be taken into account by CVTL as an important criterion in the next ICBRR community selection round."
+- title:
+    text: 'Achievements, challenges and lessons learned '
+    text_base: achievements challenges and lessons learned
+    style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 0
+    span_number: 0
+    total_y: 8818.729797363281
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 388.8727722167969, 273.8988952636719, 402.5876770019531)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 273.8988952636719
+    idx: 836
+  sector_title: Quality Programming
+  sector_idx: 731
+  sector_similarity_score: 1.0
+  content:
+  - index: 837
+    text: 'Assessments  '
+    text_base: assessments
+    style: 'bold, 20, #000000, #e0e0e0'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 1
+    span_number: 0
+    total_y: 8830.749816894531
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 400.8927917480469, 117.14888000488281, 414.6076965332031)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 117.1488800048828
+    double_fontsize_int: 20
+  - index: 838
+    text: '23 National Disaster Response Team (NDRT) and 90 Branch Response Team (BDRT) members received training '
+    text_base: 23 national disaster response team ndrt and 90 branch response team bdrt members received training
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 2
+    span_number: 0
+    total_y: 8842.269805908203
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 412.36297607421875, 562.8984375, 426.0480041503906)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.8984375
+    double_fontsize_int: 20
+  - index: 839
+    text: 'and refreshers on assessment methods prior to conducting door to door household assessments in the twenty '
+    text_base: and refreshers on assessment methods prior to conducting door to door household assessments in the twenty
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 3
+    span_number: 0
+    total_y: 8853.789825439453
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 423.88299560546875, 562.92822265625, 437.5680236816406)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.92822265625
+    double_fontsize_int: 20
+  - index: 840
+    text: 'targeted communities in May. The resulting data collected identified the 5,500 households that will benefit from this '
+    text_base: targeted communities in may the resulting data collected identified the 5 500 households that will benefit from this
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 4
+    span_number: 0
+    total_y: 8865.309814453125
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 435.4029846191406, 563.2568969726562, 449.0880126953125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.2568969726562
+    double_fontsize_int: 20
+  - index: 841
+    text: 'operation as well as the 2,700 households identified as being candidates for the CTP. Prior to the commencement of '
+    text_base: operation as well as the 2 700 households identified as being candidates for the ctp prior to the commencement of
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 5
+    span_number: 0
+    total_y: 8876.829803466797
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 446.9229736328125, 563.1773071289062, 460.6080017089844)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.1773071289062
+    double_fontsize_int: 20
+  - index: 842
+    text: 'the CTP in October, each community had its data revalidated by a fresh assessment and analysis. A pilot livelihoods '
+    text_base: the ctp in october each community had its data revalidated by a fresh assessment and analysis a pilot livelihoods
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 6
+    span_number: 0
+    total_y: 8888.229797363281
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 458.3229675292969, 563.548828125, 472.00799560546875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.548828125
+    double_fontsize_int: 20
+  - index: 843
+    text: 'assessment and seasonal mapping took place in two villages in Lautem in September 2016. Its purpose was to '
+    text_base: assessment and seasonal mapping took place in two villages in lautem in september 2016 its purpose was to
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 7
+    span_number: 0
+    total_y: 8899.749816894531
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 469.8429870605469, 562.9778442382812, 483.52801513671875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.9778442382812
+    double_fontsize_int: 20
+  - index: 844
+    text: 'establish a more recent baseline and seasonal calendar to inform livelihood options. This initiative resulted in the '
+    text_base: establish a more recent baseline and seasonal calendar to inform livelihood options this initiative resulted in the
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 8
+    span_number: 0
+    total_y: 8911.269805908203
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 481.36297607421875, 563.5120849609375, 495.0480041503906)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5120849609375
+    double_fontsize_int: 20
+  - index: 845
+    text: 'confirmation and establishment of cash transfer programme as the primary livelihood and nutrition activity. '
+    text_base: confirmation and establishment of cash transfer programme as the primary livelihood and nutrition activity
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 9
+    span_number: 0
+    total_y: 8922.789825439453
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 492.88299560546875, 518.5088500976562, 506.5680236816406)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 518.5088500976562
+    double_fontsize_int: 20
+  - index: 846
+    text: 'Community engagement and accountability  '
+    text_base: community engagement and accountability
+    style: 'bold, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 11
+    span_number: 0
+    total_y: 8945.829833984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 515.9727783203125, 259.9788818359375, 529.687744140625)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 259.9788818359375
+    double_fontsize_int: 20
+  - index: 847
+    text: 'Community engagement has been refocused with the establishment of community recovery committees to support '
+    text_base: community engagement has been refocused with the establishment of community recovery committees to support
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 12
+    span_number: 0
+    total_y: 8957.229797363281
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 527.322998046875, 563.5291137695312, 541.0079956054688)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5291137695312
+    double_fontsize_int: 20
+  - index: 848
+    text: 'the implementation of CTP and to disseminate information to affected communities. These groups are representative '
+    text_base: the implementation of ctp and to disseminate information to affected communities these groups are representative
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 13
+    span_number: 0
+    total_y: 8968.749816894531
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 538.843017578125, 563.1873168945312, 552.5280151367188)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.1873168945312
+    double_fontsize_int: 20
+  - index: 849
+    text: 'of communities and include the vulnerable, women and established leadership. Each committee is also responsible '
+    text_base: of communities and include the vulnerable women and established leadership each committee is also responsible
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 14
+    span_number: 0
+    total_y: 8980.269775390625
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 550.3629150390625, 562.958251953125, 564.0479736328125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.958251953125
+    double_fontsize_int: 20
+  - index: 850
+    text: 'for the revalidation of beneficiary data and engagement with branch volunteers and staff for the distribution of cash. '
+    text_base: for the revalidation of beneficiary data and engagement with branch volunteers and staff for the distribution of cash
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 15
+    span_number: 0
+    total_y: 8991.81982421875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 561.9129638671875, 562.9326782226562, 575.5980224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.9326782226562
+    double_fontsize_int: 20
+  - index: 851
+    text: 'A complaint hotline has been activated at the CVTL headquarters data on the outcomes of any calls was not available '
+    text_base: a complaint hotline has been activated at the cvtl headquarters data on the outcomes of any calls was not available
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 16
+    span_number: 0
+    total_y: 9003.33984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 573.4329833984375, 563.0677490234375, 587.1180419921875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.0677490234375
+    double_fontsize_int: 20
+  - index: 852
+    text: 'but will be analysed to inform programming in real time. '
+    text_base: but will be analysed to inform programming in real time
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 17
+    span_number: 0
+    total_y: 9014.739807128906
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 584.8330078125, 294.8988952636719, 598.5180053710938)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 294.8988952636719
+    double_fontsize_int: 20
+  - index: 853
+    text: 'Monitoring  '
+    text_base: monitoring
+    style: 'bold, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 19
+    span_number: 0
+    total_y: 9037.77978515625
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 607.9227294921875, 104.30888366699219, 621.6376953125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 104.3088836669922
+    double_fontsize_int: 20
+  - index: 854
+    text: 'Informal recording of activities by CVTL staff and volunteers is ongoing. This will require continued strengthening to '
+    text_base: informal recording of activities by cvtl staff and volunteers is ongoing this will require continued strengthening to
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 20
+    span_number: 0
+    total_y: 9049.2998046875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 619.3929443359375, 562.8983154296875, 633.0780029296875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.8983154296875
+    double_fontsize_int: 20
+  - index: 855
+    text: 'meet more formal reporting requirements but also to establish evidence based indicators of change and impact over '
+    text_base: meet more formal reporting requirements but also to establish evidence based indicators of change and impact over
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 21
+    span_number: 0
+    total_y: 9060.81982421875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 630.9129638671875, 562.9581298828125, 644.5980224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.9581298828125
+    double_fontsize_int: 20
+  - index: 856
+    text: 'the longer term. This is viewed as important by CVTL especially in relation to hygiene promotion and cash transfer '
+    text_base: the longer term this is viewed as important by cvtl especially in relation to hygiene promotion and cash transfer
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 22
+    span_number: 0
+    total_y: 9072.33984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 642.4329833984375, 563.014404296875, 656.1180419921875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.014404296875
+    double_fontsize_int: 20
+  - index: 857
+    text: 'activities. A monitoring template has been established to accompany the revised plan of action. A peer from '
+    text_base: activities a monitoring template has been established to accompany the revised plan of action a peer from
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 23
+    span_number: 0
+    total_y: 9083.739807128906
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 653.8330078125, 562.9282836914062, 667.5180053710938)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.9282836914062
+    double_fontsize_int: 20
+  - index: 858
+    text: 'Indonesian Red Cross (PMI) has recently conducted a PMER capacity assessment with support from the British Red '
+    text_base: indonesian red cross pmi has recently conducted a pmer capacity assessment with support from the british red
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 24
+    span_number: 0
+    total_y: 9095.259826660156
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 665.35302734375, 563.3655395507812, 679.0380249023438)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.3655395507812
+    double_fontsize_int: 20
+  - index: 859
+    text: 'Cross and will be used to guide future development. The final evaluation also noted the same need to strengthen '
+    text_base: cross and will be used to guide future development the final evaluation also noted the same need to strengthen
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 25
+    span_number: 0
+    total_y: 9106.77978515625
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 676.8729248046875, 562.97802734375, 690.5579833984375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 562.97802734375
+    double_fontsize_int: 20
+  - index: 860
+    text: "CVTL\u2019s capacities in data collection and analysis, evident in the slow Post-Distribution Monitoring survey process. "
+    text_base: cvtl s capacities in data collection and analysis evident in the slow post distribution monitoring survey process
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 26
+    span_number: 0
+    total_y: 9118.2998046875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 688.3929443359375, 563.47314453125, 702.0780029296875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.47314453125
+    double_fontsize_int: 20
+  - index: 861
+    text: 'The Post Distribution Monitoring fell short of the planned 10% of the recipients receiving cash in envelope, reaching '
+    text_base: the post distribution monitoring fell short of the planned 10 of the recipients receiving cash in envelope reaching
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 27
+    span_number: 0
+    total_y: 9129.81982421875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 699.9129638671875, 563.3281860351562, 713.5980224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.3281860351562
+    double_fontsize_int: 20
+  - index: 862
+    text: 'only 5.9% recipients (150 households out of 2,543 households was involved in the survey). '
+    text_base: only 5 9 recipients 150 households out of 2 543 households was involved in the survey
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 28
+    span_number: 0
+    total_y: 9141.33984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 711.4329833984375, 451.42889404296875, 725.1180419921875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 451.4288940429688
+    double_fontsize_int: 20
+  - index: 863
+    text: 'Gender and diversity '
+    text_base: gender and diversity
+    style: 'bold, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 30
+    span_number: 0
+    total_y: 9164.27978515625
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 734.4227294921875, 149.30886840820312, 748.1376953125)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 149.30886840820312
+    double_fontsize_int: 20
+  - index: 864
+    text: 'Gendered impacts of drought were built into the in different phases of the operation. Female-headed households, '
+    text_base: gendered impacts of drought were built into the in different phases of the operation female headed households
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 31
+    span_number: 0
+    total_y: 9175.7998046875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 745.8929443359375, 563.5870971679688, 759.5780029296875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5870971679688
+    double_fontsize_int: 20
+  - index: 865
+    text: 'pregnant and nursing mothers and families with small children were targeted with different strategies under the '
+    text_base: pregnant and nursing mothers and families with small children were targeted with different strategies under the
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 32
+    span_number: 0
+    total_y: 9187.31982421875
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 757.4129638671875, 563.22119140625, 771.0980224609375)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.22119140625
+    double_fontsize_int: 20
+  - index: 866
+    text: 'operation. Disability inclusion was considered during the beneficiary selection and the accessibility of cash distribution '
+    text_base: operation disability inclusion was considered during the beneficiary selection and the accessibility of cash distribution
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 33
+    span_number: 0
+    total_y: 9198.83984375
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 768.9329833984375, 563.1412963867188, 782.6180419921875)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.1412963867188
+    double_fontsize_int: 20
+  - index: 867
+    text: 'points to disabled beneficiaries was properly ensured.  All beneficiary monitoring data recorded by the CVTL Disaster '
+    text_base: points to disabled beneficiaries was properly ensured all beneficiary monitoring data recorded by the cvtl disaster
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 30
+    line_number: 34
+    span_number: 0
+    total_y: 9210.239807128906
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 780.3330078125, 563.3866577148438, 794.0180053710938)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.3866577148438
+    double_fontsize_int: 20
+  - index: 869
+    text: 'Management Unit was disaggregated by sex but not by age groups. The operation did not however meet the IFRC '
+    text_base: management unit was disaggregated by sex but not by age groups the operation did not however meet the ifrc
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 9318.959777832031
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 47.132965087890625, 563.0437622070312, 60.8180046081543)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.0437622070312
+    double_fontsize_int: 20
+  - index: 870
+    text: 'commitment of demonstrate evidence of addressing sexual and gender-based violence or child protection. The final '
+    text_base: commitment of demonstrate evidence of addressing sexual and gender based violence or child protection the final
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 2
+    line_number: 1
+    span_number: 0
+    total_y: 9330.47979736328
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 58.652984619140625, 563.38134765625, 72.33802795410156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.38134765625
+    double_fontsize_int: 20
+  - index: 871
+    text: 'evaluation noted that only 20% of men reported problems with the cash received as part the operation compared to '
+    text_base: evaluation noted that only 20 of men reported problems with the cash received as part the operation compared to
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 2
+    line_number: 2
+    span_number: 0
+    total_y: 9341.999816894531
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 70.17300415039062, 563.5540771484375, 83.85804748535156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5540771484375
+    double_fontsize_int: 20
+  - index: 872
+    text: '33% of women but as the type of problem faced was not recorded, the evaluation suggests further investigation to be '
+    text_base: 33 of women but as the type of problem faced was not recorded the evaluation suggests further investigation to be
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 2
+    line_number: 3
+    span_number: 0
+    total_y: 9353.539794921877
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 81.71298217773438, 563.5951538085938, 95.39802551269531)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5951538085938
+    double_fontsize_int: 20
+  - index: 873
+    text: 'made prior to future CTPs. '
+    text_base: made prior to future ctps
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 2
+    line_number: 4
+    span_number: 0
+    total_y: 9365.059814453123
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 93.23300170898438, 167.6688690185547, 106.91804504394531)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 167.6688690185547
+    double_fontsize_int: 20
+  - index: 874
+    text: 'Evaluation and learning '
+    text_base: evaluation and learning
+    style: 'bold, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 2
+    line_number: 6
+    span_number: 0
+    total_y: 9387.97979736328
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 116.2027816772461, 162.62887573242188, 129.91770935058594)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 162.62887573242188
+    double_fontsize_int: 20
+  - index: 875
+    text: 'Participatory workshops on sharing experiences and identifying strengths and weaknesses in the operation were held '
+    text_base: participatory workshops on sharing experiences and identifying strengths and weaknesses in the operation were held
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 2
+    line_number: 7
+    span_number: 0
+    total_y: 9399.499816894531
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 127.67300415039062, 563.57666015625, 141.35804748535156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.57666015625
+    double_fontsize_int: 20
+  - index: 876
+    text: 'in three affected branches in April 2017. Lessons learned were translated and used as material in the final evaluation '
+    text_base: in three affected branches in april 2017 lessons learned were translated and used as material in the final evaluation
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 2
+    line_number: 8
+    span_number: 0
+    total_y: 9411.019775390623
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 139.19296264648438, 563.565673828125, 152.8780059814453)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.565673828125
+    double_fontsize_int: 20
+  - index: 877
+    text: 'carried out in May 2017. The key recommendations of the evaluations were dealt with CVTL through management '
+    text_base: carried out in may 2017 the key recommendations of the evaluations were dealt with cvtl through management
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 2
+    line_number: 9
+    span_number: 0
+    total_y: 9422.539794921877
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 150.71298217773438, 563.1505126953125, 164.3980255126953)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.1505126953125
+    double_fontsize_int: 20
+  - index: 878
+    text: 'response mechanism. One of the main recommendations is, to review the current emergency Standard Operation '
+    text_base: response mechanism one of the main recommendations is to review the current emergency standard operation
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 2
+    line_number: 10
+    span_number: 0
+    total_y: 9434.059814453123
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 162.23300170898438, 563.5451049804688, 175.9180450439453)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 563.5451049804688
+    double_fontsize_int: 20
+  - index: 879
+    text: 'Procedures based on the lessons learned from the operation and new good practices were created. '
+    text_base: procedures based on the lessons learned from the operation and new good practices were created
+    style: 'arialmt, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 2
+    line_number: 11
+    span_number: 0
+    total_y: 9445.459777832031
+    origin_x: 47.040000915527344
+    bbox: (47.040000915527344, 173.63296508789062, 490.18890380859375, 187.31800842285156)
+    bbox_x1: 47.040000915527344
+    bbox_x2: 490.18890380859375
+    double_fontsize_int: 20
+  items:
+  - Assessments 23 National Disaster Response Team (NDRT) and 90 Branch Response Team (BDRT) members received training and refreshers on assessment methods prior to conducting door to door household assessments in the twenty targeted communities in May. The resulting data collected identified the 5,500 households that will benefit from this operation as well as the 2,700 households identified as being candidates for the CTP. Prior to the commencement of the CTP in October, each community had its data revalidated by a fresh assessment and analysis. A pilot livelihoods assessment and seasonal mapping took place in two villages in Lautem in September 2016. Its purpose was to establish a more recent baseline and seasonal calendar to inform livelihood options. This initiative resulted in the confirmation and establishment of cash transfer programme as the primary livelihood and nutrition activity.
+  - Community engagement and accountability Community engagement has been refocused with the establishment of community recovery committees to support the implementation of CTP and to disseminate information to affected communities. These groups are representative of communities and include the vulnerable, women and established leadership. Each committee is also responsible for the revalidation of beneficiary data and engagement with branch volunteers and staff for the distribution of cash. A complaint hotline has been activated at the CVTL headquarters data on the outcomes of any calls was not available but will be analysed to inform programming in real time.
+  - "Monitoring Informal recording of activities by CVTL staff and volunteers is ongoing. This will require continued strengthening to meet more formal reporting requirements but also to establish evidence based indicators of change and impact over the longer term. This is viewed as important by CVTL especially in relation to hygiene promotion and cash transfer activities. A monitoring template has been established to accompany the revised plan of action. A peer from Indonesian Red Cross (PMI) has recently conducted a PMER capacity assessment with support from the British Red Cross and will be used to guide future development. The final evaluation also noted the same need to strengthen CVTL\u2019s capacities in data collection and analysis, evident in the slow Post-Distribution Monitoring survey process. The Post Distribution Monitoring fell short of the planned 10% of the recipients receiving cash in envelope, reaching only 5.9% recipients (150 households out of 2,543 households was involved in the survey)."
+  - Gender and diversity Gendered impacts of drought were built into the in different phases of the operation. Female-headed households, pregnant and nursing mothers and families with small children were targeted with different strategies under the operation. Disability inclusion was considered during the beneficiary selection and the accessibility of cash distribution points to disabled beneficiaries was properly ensured. All beneficiary monitoring data recorded by the CVTL Disaster Management Unit was disaggregated by sex but not by age groups. The operation did not however meet the IFRC commitment of demonstrate evidence of addressing sexual and gender-based violence or child protection. The final evaluation noted that only 20% of men reported problems with the cash received as part the operation compared to 33% of women but as the type of problem faced was not recorded, the evaluation suggests further investigation to be made prior to future CTPs.
+  - Evaluation and learning Participatory workshops on sharing experiences and identifying strengths and weaknesses in the operation were held in three affected branches in April 2017. Lessons learned were translated and used as material in the final evaluation carried out in May 2017. The key recommendations of the evaluations were dealt with CVTL through management response mechanism. One of the main recommendations is, to review the current emergency Standard Operation Procedures based on the lessons learned from the operation and new good practices were created.

@@ -1,0 +1,522 @@
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'arialmt, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 9271.32000732422
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 550.303466796875, 94.20720672607422, 561.4306640625)
+    idx: 595
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 535
+  sector_similarity_score: 1.0
+  content:
+  - index: 596
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 9284.039978027344
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 562.0264892578125, 63.9812126159668, 574.2284545898438)
+    double_fontsize_int: 20
+  - index: 597
+    text: 'Security challenges at the border between Oromia and Somali regions of Babile woreda jeopardized the operation '
+    text_base: security challenges at the border between oromia and somali regions of babile woreda jeopardized the operation
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 9284.039978027344
+    origin_x: 77.4000015258789
+    bbox: (77.4000015258789, 563.0234375, 591.8385009765625, 574.150634765625)
+    double_fontsize_int: 20
+  - index: 598
+    text: 'for two months as the NS could not implement activities due to access issues. '
+    text_base: for two months as the ns could not implement activities due to access issues
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 9301.200012207031
+    origin_x: 77.4000015258789
+    bbox: (77.4000015258789, 580.1834716796875, 424.20556640625, 591.3106689453125)
+    double_fontsize_int: 20
+  - index: 599
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 9319.200012207031
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 597.1865234375, 63.9812126159668, 609.3884887695312)
+    double_fontsize_int: 20
+  - index: 600
+    text: 'Delays from local authorities approving rehabilitation work on the ponds.  '
+    text_base: delays from local authorities approving rehabilitation work on the ponds
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 6
+    line_number: 0
+    span_number: 1
+    total_y: 9319.200012207031
+    origin_x: 77.39772033691406
+    bbox: (77.39772033691406, 598.1834716796875, 402.0024108886719, 609.3106689453125)
+    double_fontsize_int: 20
+  - index: 601
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 9337.078186035156
+    origin_x: 59.399993896484375
+    bbox: (59.399993896484375, 615.064697265625, 63.981204986572266, 627.2666625976562)
+    double_fontsize_int: 20
+  - index: 602
+    text: 'High turnover of government higher officials, especially of conflict induced areas of Somali & Oromia region created '
+    text_base: high turnover of government higher officials especially of conflict induced areas of somali oromia region created
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 9337.078186035156
+    origin_x: 77.39771270751953
+    bbox: (77.39771270751953, 616.0616455078125, 591.7803955078125, 627.1888427734375)
+    double_fontsize_int: 20
+  - index: 603
+    text: 'a communication gap '
+    text_base: a communication gap
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 9354.358764648438
+    origin_x: 77.39768981933594
+    bbox: (77.39768981933594, 633.3422241210938, 175.20321655273438, 644.4694213867188)
+    double_fontsize_int: 20
+  - index: 604
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 9372.23699951172
+    origin_x: 59.39996337890625
+    bbox: (59.39996337890625, 650.2235107421875, 63.98117446899414, 662.4254760742188)
+    double_fontsize_int: 20
+  - index: 605
+    text: 'Revision of the operational plan in conducting water tracking created dissatisfaction among the community ( E.g. '
+    text_base: revision of the operational plan in conducting water tracking created dissatisfaction among the community e g
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 9
+    line_number: 0
+    span_number: 1
+    total_y: 9372.23699951172
+    origin_x: 77.3976821899414
+    bbox: (77.3976821899414, 651.220458984375, 591.8092651367188, 662.34765625)
+    double_fontsize_int: 20
+  - index: 606
+    text: 'Afar, Kuri district) '
+    text_base: afar kuri district
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 9389.517578125
+    origin_x: 77.397705078125
+    bbox: (77.397705078125, 668.5010375976562, 156.84695434570312, 679.6282348632812)
+    double_fontsize_int: 20
+  - index: 607
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 11
+    line_number: 0
+    span_number: 0
+    total_y: 9407.400024414062
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 685.3865356445312, 63.9812126159668, 697.5885009765625)
+    double_fontsize_int: 20
+  - index: 608
+    text: 'Delay in budget transfer and budget settlement from the concerned bodies affected the performance of the '
+    text_base: delay in budget transfer and budget settlement from the concerned bodies affected the performance of the
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 11
+    line_number: 0
+    span_number: 1
+    total_y: 9407.400024414062
+    origin_x: 77.39772033691406
+    bbox: (77.39772033691406, 686.3834838867188, 591.75537109375, 697.5106811523438)
+    double_fontsize_int: 20
+  - index: 609
+    text: 'implementation '
+    text_base: implementation
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 12
+    line_number: 0
+    span_number: 0
+    total_y: 9424.67999267578
+    origin_x: 77.4000015258789
+    bbox: (77.4000015258789, 703.6634521484375, 147.96493530273438, 714.7906494140625)
+    double_fontsize_int: 20
+  - index: 610
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 9442.559997558594
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 720.5465087890625, 63.9812126159668, 732.7484741210938)
+    double_fontsize_int: 20
+  - index: 611
+    text: "Contractor\u2019s late start of construction of the pond affected the branches  "
+    text_base: contractor s late start of construction of the pond affected the branches
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 13
+    line_number: 0
+    span_number: 1
+    total_y: 9442.559997558594
+    origin_x: 77.39772033691406
+    bbox: (77.39772033691406, 721.54345703125, 397.57025146484375, 732.670654296875)
+    double_fontsize_int: 20
+  items:
+  - Security challenges at the border between Oromia and Somali regions of Babile woreda jeopardized the operation for two months as the NS could not implement activities due to access issues.
+  - Delays from local authorities approving rehabilitation work on the ponds.
+  - High turnover of government higher officials, especially of conflict induced areas of Somali & Oromia region created a communication gap
+  - Revision of the operational plan in conducting water tracking created dissatisfaction among the community ( E.g. Afar, Kuri district)
+  - Delay in budget transfer and budget settlement from the concerned bodies affected the performance of the implementation
+  - "Contractor\u2019s late start of construction of the pond affected the branches"
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'bold, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 13
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 10710.0
+    origin_x: 41.400001525878906
+    bbox: (41.400001525878906, 404.9834899902344, 94.699462890625, 416.11065673828125)
+    idx: 753
+  sector_title: Food insecurity and nutrition
+  sector_idx: 671
+  sector_similarity_score: 1.0
+  content:
+  - index: 754
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 13
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 10722.720001220703
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 416.7065124511719, 63.9812126159668, 428.9084777832031)
+    double_fontsize_int: 20
+  - index: 755
+    text: "Short term provision of the nutrition assistance \u2013 two rounds cannot guarantee the malnourished under five children "
+    text_base: short term provision of the nutrition assistance two rounds cannot guarantee the malnourished under five children
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 13
+    block_number: 5
+    line_number: 0
+    span_number: 1
+    total_y: 10722.720001220703
+    origin_x: 77.4000015258789
+    bbox: (77.4000015258789, 417.7034912109375, 591.787353515625, 428.8306579589844)
+    double_fontsize_int: 20
+  - index: 756
+    text: 'and Pregnant and lactating women was not sufficient to address malnutrition  '
+    text_base: and pregnant and lactating women was not sufficient to address malnutrition
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 13
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 10740.0
+    origin_x: 77.4000015258789
+    bbox: (77.4000015258789, 434.9834899902344, 420.8490295410156, 446.11065673828125)
+    double_fontsize_int: 20
+  - index: 757
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 13
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 10758.0
+    origin_x: 59.400001525878906
+    bbox: (59.400001525878906, 451.98651123046875, 63.9812126159668, 464.1884765625)
+    double_fontsize_int: 20
+  - index: 758
+    text: 'The nutrition assistance package that ERCS provided was slightly different from other agencies as it did not have '
+    text_base: the nutrition assistance package that ercs provided was slightly different from other agencies as it did not have
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 13
+    block_number: 7
+    line_number: 0
+    span_number: 1
+    total_y: 10758.0
+    origin_x: 77.39772033691406
+    bbox: (77.39772033691406, 452.9834899902344, 591.79931640625, 464.11065673828125)
+    double_fontsize_int: 20
+  - index: 759
+    text: 'milk/milk products  '
+    text_base: milk milk products
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 13
+    block_number: 8
+    line_number: 0
+    span_number: 0
+    total_y: 10775.161071777344
+    origin_x: 77.38775634765625
+    bbox: (77.38775634765625, 470.1445617675781, 162.35484313964844, 481.271728515625)
+    double_fontsize_int: 20
+  - index: 760
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 13
+    block_number: 9
+    line_number: 0
+    span_number: 0
+    total_y: 10793.158782958984
+    origin_x: 59.39002990722656
+    bbox: (59.39002990722656, 487.1452941894531, 63.97124099731445, 499.3472595214844)
+    double_fontsize_int: 20
+  - index: 761
+    text: 'Due to competing priorities and commitments related to the operation the NS could not conduct all planned post '
+    text_base: due to competing priorities and commitments related to the operation the ns could not conduct all planned post
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 13
+    block_number: 9
+    line_number: 0
+    span_number: 1
+    total_y: 10793.158782958984
+    origin_x: 77.38774871826172
+    bbox: (77.38774871826172, 488.14227294921875, 591.8341064453125, 499.2694396972656)
+    double_fontsize_int: 20
+  - index: 762
+    text: 'distribution monitoring '
+    text_base: distribution monitoring
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 13
+    block_number: 10
+    line_number: 0
+    span_number: 0
+    total_y: 10810.31982421875
+    origin_x: 77.397705078125
+    bbox: (77.397705078125, 505.3033142089844, 177.97210693359375, 516.4304809570312)
+    double_fontsize_int: 20
+  items:
+  - "Short term provision of the nutrition assistance \u2013 two rounds cannot guarantee the malnourished under five children and Pregnant and lactating women was not sufficient to address malnutrition"
+  - The nutrition assistance package that ERCS provided was slightly different from other agencies as it did not have milk/milk products
+  - Due to competing priorities and commitments related to the operation the NS could not conduct all planned post distribution monitoring
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 27
+    line_number: 12
+    span_number: 0
+    total_y: 11766.239990234377
+    origin_x: 42.119998931884766
+    bbox: (42.119998931884766, 669.2234497070312, 98.28720092773438, 680.3506469726562)
+    idx: 857
+  sector_title: Health and Care
+  sector_idx: 781
+  sector_similarity_score: 1.0
+  content:
+  - index: 858
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 28
+    line_number: 0
+    span_number: 0
+    total_y: 11778.47998046875
+    origin_x: 60.119998931884766
+    bbox: (60.119998931884766, 680.4664916992188, 64.70121002197266, 692.66845703125)
+    double_fontsize_int: 20
+  - index: 859
+    text: 'Serious security problems at Babile woreda of Oromia and Somali regions  '
+    text_base: serious security problems at babile woreda of oromia and somali regions
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 28
+    line_number: 0
+    span_number: 1
+    total_y: 11778.47998046875
+    origin_x: 78.11772155761719
+    bbox: (78.11772155761719, 681.4634399414062, 411.11871337890625, 692.5906372070312)
+    double_fontsize_int: 20
+  - index: 860
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 29
+    line_number: 0
+    span_number: 0
+    total_y: 11790.601318359377
+    origin_x: 60.11004638671875
+    bbox: (60.11004638671875, 692.5878295898438, 64.69125366210938, 704.789794921875)
+    double_fontsize_int: 20
+  - index: 861
+    text: 'Delay of funds  transfer from IFRC to ERCS jeopardized the operation not to execute the activities as per the EPOA '
+    text_base: delay of funds transfer from ifrc to ercs jeopardized the operation not to execute the activities as per the epoa
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 29
+    line_number: 0
+    span_number: 1
+    total_y: 11790.601318359377
+    origin_x: 78.1077651977539
+    bbox: (78.1077651977539, 693.5847778320312, 591.8328857421875, 704.7119750976562)
+    double_fontsize_int: 20
+  - index: 862
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 30
+    line_number: 0
+    span_number: 0
+    total_y: 11802.719970703123
+    origin_x: 60.119998931884766
+    bbox: (60.119998931884766, 704.7064819335938, 64.70121002197266, 716.908447265625)
+    double_fontsize_int: 20
+  - index: 863
+    text: 'Absence of CBHFA & PHAST TOT trained professionals in the respective implementing districts, the training was '
+    text_base: absence of cbhfa phast tot trained professionals in the respective implementing districts the training was
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 30
+    line_number: 0
+    span_number: 1
+    total_y: 11802.719970703123
+    origin_x: 78.11772155761719
+    bbox: (78.11772155761719, 705.7034301757812, 581.03125, 716.8306274414062)
+    double_fontsize_int: 20
+  - index: 864
+    text: 'delayed for 4 months '
+    text_base: delayed for 4 months
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 30
+    line_number: 2
+    span_number: 0
+    total_y: 11814.239990234377
+    origin_x: 78.12000274658203
+    bbox: (78.12000274658203, 717.2234497070312, 174.24720764160156, 728.3506469726562)
+    double_fontsize_int: 20
+  - index: 868
+    text: "\u2022"
+    text_base: .nan
+    style: 'symbolmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 11937.719970703123
+    origin_x: 60.119998931884766
+    bbox: (60.119998931884766, 47.70647430419922, 64.70121002197266, 59.908447265625)
+    double_fontsize_int: 20
+  - index: 869
+    text: 'Due to work burden in the implementing districts, the follow up and feedback system for the trained CBHFA & '
+    text_base: due to work burden in the implementing districts the follow up and feedback system for the trained cbhfa
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 11937.719970703123
+    origin_x: 78.12000274658203
+    bbox: (78.12000274658203, 48.70344543457031, 563.7879638671875, 59.83063507080078)
+    double_fontsize_int: 20
+  - index: 870
+    text: 'PHAST volunteers were not adequate to improve the health status of the community as per the expected '
+    text_base: phast volunteers were not adequate to improve the health status of the community as per the expected
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 11949.119995117188
+    origin_x: 78.12000274658203
+    bbox: (78.12000274658203, 60.10346984863281, 543.9674682617188, 71.23065948486328)
+    double_fontsize_int: 20
+  items:
+  - Serious security problems at Babile woreda of Oromia and Somali regions
+  - Delay of funds transfer from IFRC to ERCS jeopardized the operation not to execute the activities as per the EPOA
+  - Absence of CBHFA & PHAST TOT trained professionals in the respective implementing districts, the training was delayed for 4 months
+  - Due to work burden in the implementing districts, the follow up and feedback system for the trained CBHFA & PHAST volunteers were not adequate to improve the health status of the community as per the expected

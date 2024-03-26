@@ -1,0 +1,645 @@
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'arial black, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 1
+    line_number: 37
+    span_number: 0
+    total_y: 8904.669799804688
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 474.5081481933594
+    - 96.40579223632812
+    - 488.55328369140625
+    idx: 757
+  sector_title: Quality Programming
+  sector_idx: 629
+  sector_similarity_score: 1.0
+  content:
+  - index: 758
+    text: 'The political situation in the country caused major delays in effective starting up of the recovery activities. Hence, the '
+    text_base: the political situation in the country caused major delays in effective starting up of the recovery activities hence the
+    style: 'arial, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 1
+    line_number: 38
+    span_number: 0
+    total_y: 8917.629821777344
+    origin_x: 36.0
+    bbox: (36.0, 487.7229919433594, 372.6158752441406, 501.40802001953125)
+    double_fontsize_int: 20
+  - index: 760
+    text: 'identification of proper beneficiary communication channels was also being delayed. '
+    text_base: identification of proper beneficiary communication channels was also being delayed
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 10
+    block_number: 1
+    line_number: 39
+    span_number: 0
+    total_y: 8929.149810791016
+    origin_x: 36.0
+    bbox: (36.0, 499.24298095703125, 410.7189025878906, 512.9280395507812)
+    double_fontsize_int: 20
+  items:
+  - The political situation in the country caused major delays in effective starting up of the recovery activities. Hence, the identification of proper beneficiary communication channels was also being delayed.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'arial black, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 14
+    line_number: 19
+    span_number: 0
+    total_y: 9755.589782714844
+    origin_x: 36.0
+    bbox: (36.0, 483.5081481933594, 96.40579223632812, 497.55328369140625)
+    idx: 841
+  sector_title: Health and Care
+  sector_idx: 780
+  sector_similarity_score: 1.0
+  content:
+  - index: 842
+    text: 'For any in-country medicine procurement, IFRC is required to invite the WHO and UNICEF listed manufacturers. It '
+    text_base: for any in country medicine procurement ifrc is required to invite the who and unicef listed manufacturers it
+    style: 'arial, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 14
+    line_number: 20
+    span_number: 0
+    total_y: 9768.5498046875
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 496.7229919433594
+    - 561.982421875
+    - 510.40802001953125
+    double_fontsize_int: 20
+  - index: 843
+    text: 'has proven to be quite time consuming creating a dialogue with the respective agencies to get a list of their suppliers, '
+    text_base: has proven to be quite time consuming creating a dialogue with the respective agencies to get a list of their suppliers
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 14
+    line_number: 21
+    span_number: 0
+    total_y: 9779.949768066406
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 508.1229553222656
+    - 561.4996337890625
+    - 521.8079833984375
+    double_fontsize_int: 20
+  - index: 844
+    text: 'resulting in the delay of ORS procurement. '
+    text_base: resulting in the delay of ors procurement
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 14
+    line_number: 22
+    span_number: 0
+    total_y: 9791.469787597656
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 519.6429443359375
+    - 227.81887817382812
+    - 533.3280029296875
+    double_fontsize_int: 20
+  items:
+  - For any in-country medicine procurement, IFRC is required to invite the WHO and UNICEF listed manufacturers. It has proven to be quite time consuming creating a dialogue with the respective agencies to get a list of their suppliers, resulting in the delay of ORS procurement.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'arial black, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 16
+    line_number: 13
+    span_number: 0
+    total_y: 10692.579772949219
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 578.578125
+    - 96.40579223632812
+    - 592.623291015625
+    idx: 934
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 849
+  sector_similarity_score: 1.0
+  content:
+  - index: 935
+    text: 'Initially, the decision was to set up Kit-5 water treatment plants at each of the four districts mentioned. After the '
+    text_base: initially the decision was to set up kit 5 water treatment plants at each of the four districts mentioned after the
+    style: 'arial, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 16
+    line_number: 14
+    span_number: 0
+    total_y: 10705.539794921875
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 591.79296875
+    - 561.7474975585938
+    - 605.47802734375
+    double_fontsize_int: 20
+  - index: 936
+    text: 'installation and running of the first Kit-5 at Kurigram, it became clear that more beneficiaries would be able to benefit '
+    text_base: installation and running of the first kit 5 at kurigram it became clear that more beneficiaries would be able to benefit
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 16
+    line_number: 15
+    span_number: 0
+    total_y: 10717.059814453125
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 603.31298828125
+    - 561.8233642578125
+    - 616.998046875
+    double_fontsize_int: 20
+  - index: 937
+    text: 'from the safe drinking water distributions if mobile kits were used as they were smaller in size and could be '
+    text_base: from the safe drinking water distributions if mobile kits were used as they were smaller in size and could be
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 16
+    line_number: 16
+    span_number: 0
+    total_y: 10728.459777832031
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 614.7130126953125
+    - 561.8056640625
+    - 628.3980102539062
+    double_fontsize_int: 20
+  - index: 938
+    text: 'transported to the islands in boats. As the families received purified water, distribution of water purification tablets was '
+    text_base: transported to the islands in boats as the families received purified water distribution of water purification tablets was
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 16
+    line_number: 17
+    span_number: 0
+    total_y: 10739.979797363281
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 626.2330322265625
+    - 561.489501953125
+    - 639.9180297851562
+    double_fontsize_int: 20
+  - index: 939
+    text: 'no longer required. '
+    text_base: no longer required
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 16
+    line_number: 18
+    span_number: 0
+    total_y: 10751.499755859375
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 637.7529296875
+    - 122.78887939453125
+    - 651.43798828125
+    double_fontsize_int: 20
+  - index: 940
+    text: 'Finding an appropriate location for the suppliers for the construction of ring slabs was also a challenge as it was '
+    text_base: finding an appropriate location for the suppliers for the construction of ring slabs was also a challenge as it was
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 16
+    line_number: 20
+    span_number: 0
+    total_y: 10774.539794921875
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 660.79296875
+    - 562.0098266601562
+    - 674.47802734375
+    double_fontsize_int: 20
+  - index: 941
+    text: 'difficult to find a location which had plenty of water supply, power supply and proper road accessibility, and at the '
+    text_base: difficult to find a location which had plenty of water supply power supply and proper road accessibility and at the
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 16
+    line_number: 21
+    span_number: 0
+    total_y: 10785.939758300781
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 672.1929931640625
+    - 561.6041259765625
+    - 685.8779907226562
+    double_fontsize_int: 20
+  - index: 942
+    text: 'same time convenient for the beneficiaries. However, after several joint field surveys by the suppliers and the district '
+    text_base: same time convenient for the beneficiaries however after several joint field surveys by the suppliers and the district
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 16
+    line_number: 22
+    span_number: 0
+    total_y: 10797.459777832031
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 683.7130126953125
+    - 562.142822265625
+    - 697.3980102539062
+    double_fontsize_int: 20
+  - index: 943
+    text: 'branches, the locations were identified and the sites were handed over. '
+    text_base: branches the locations were identified and the sites were handed over
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 16
+    line_number: 23
+    span_number: 0
+    total_y: 10808.979797363281
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 695.2330322265625
+    - 354.0788879394531
+    - 708.9180297851562
+    double_fontsize_int: 20
+  - index: 944
+    text: 'Because of the recent flood in July 2015 the installation of ring-slab and fixing of the superstructure were heavily '
+    text_base: because of the recent flood in july 2015 the installation of ring slab and fixing of the superstructure were heavily
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 16
+    line_number: 25
+    span_number: 0
+    total_y: 10832.039794921875
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 718.29296875
+    - 561.9152221679688
+    - 731.97802734375
+    double_fontsize_int: 20
+  - index: 945
+    text: 'affected, as it was not possible to excavate the latrine pits due to the stagnant floodwater. '
+    text_base: affected as it was not possible to excavate the latrine pits due to the stagnant floodwater
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 12
+    block_number: 16
+    line_number: 26
+    span_number: 0
+    total_y: 10843.559753417969
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 729.81298828125
+    - 434.118896484375
+    - 743.4979858398438
+    double_fontsize_int: 20
+  items:
+  - Initially, the decision was to set up Kit-5 water treatment plants at each of the four districts mentioned. After the installation and running of the first Kit-5 at Kurigram, it became clear that more beneficiaries would be able to benefit from the safe drinking water distributions if mobile kits were used as they were smaller in size and could be transported to the islands in boats. As the families received purified water, distribution of water purification tablets was no longer required.
+  - Finding an appropriate location for the suppliers for the construction of ring slabs was also a challenge as it was difficult to find a location which had plenty of water supply, power supply and proper road accessibility, and at the same time convenient for the beneficiaries. However, after several joint field surveys by the suppliers and the district branches, the locations were identified and the sites were handed over.
+  - Because of the recent flood in July 2015 the installation of ring-slab and fixing of the superstructure were heavily affected, as it was not possible to excavate the latrine pits due to the stagnant floodwater.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'arial black, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 1
+    line_number: 1
+    span_number: 0
+    total_y: 11858.399719238281
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 60.55812072753906
+    - 96.40579223632812
+    - 74.60327911376953
+    idx: 1042
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 953
+  sector_similarity_score: 1.0
+  content:
+  - index: 1043
+    text: 'As the recovery phase for shelter assistance did not commence in December 2014 as expected and the political '
+    text_base: as the recovery phase for shelter assistance did not commence in december 2014 as expected and the political
+    style: 'arial, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 1
+    line_number: 2
+    span_number: 0
+    total_y: 11871.259765625
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 73.67300415039062
+    - 562.0259399414062
+    - 87.35804748535156
+    double_fontsize_int: 20
+  - index: 1044
+    text: 'situation did not allow for the cash to be distributed before March, the timeframe for the activities was limited '
+    text_base: situation did not allow for the cash to be distributed before march the timeframe for the activities was limited
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 1
+    line_number: 3
+    span_number: 0
+    total_y: 11882.779724121094
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 85.19296264648438
+    - 562.1513671875
+    - 98.87800598144531
+    double_fontsize_int: 20
+  - index: 1045
+    text: 'considering that construction activities need to complete before the rainy season (start from May). As a result, there '
+    text_base: considering that construction activities need to complete before the rainy season start from may as a result there
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 1
+    line_number: 4
+    span_number: 0
+    total_y: 11894.299743652344
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 96.71298217773438
+    - 562.0960083007812
+    - 110.39802551269531
+    double_fontsize_int: 20
+  - index: 1046
+    text: 'was not sufficient time to implement PASSA tools in the communities.   '
+    text_base: was not sufficient time to implement passa tools in the communities
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 1
+    line_number: 5
+    span_number: 0
+    total_y: 11905.819763183594
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 108.23300170898438
+    - 351.79888916015625
+    - 121.91804504394531
+    double_fontsize_int: 20
+  items:
+  - As the recovery phase for shelter assistance did not commence in December 2014 as expected and the political situation did not allow for the cash to be distributed before March, the timeframe for the activities was limited considering that construction activities need to complete before the rainy season (start from May). As a result, there was not sufficient time to implement PASSA tools in the communities.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'arial black, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 5
+    line_number: 11
+    span_number: 0
+    total_y: 12989.80972290039
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 350.04815673828125
+    - 96.40579223632812
+    - 364.0932922363281
+    idx: 1173
+  sector_title: Food insecurity and nutrition
+  sector_idx: 1062
+  sector_similarity_score: 1.0
+  content:
+  - index: 1174
+    text: 'For some of the district branches cash grant distribution during the relief phase was a challenge as that was the first '
+    text_base: for some of the district branches cash grant distribution during the relief phase was a challenge as that was the first
+    style: 'arial, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 5
+    line_number: 12
+    span_number: 0
+    total_y: 13002.769714355469
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 363.2629699707031
+    - 555.822265625
+    - 376.947998046875
+    double_fontsize_int: 20
+  - index: 1175
+    text: 'time they did it. Sensitization of the CTP procedures and dissemination of the standard operating procedures (SOP) '
+    text_base: time they did it sensitization of the ctp procedures and dissemination of the standard operating procedures sop
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 5
+    line_number: 13
+    span_number: 0
+    total_y: 13014.289733886719
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 374.7829895019531
+    - 556.5488891601562
+    - 388.468017578125
+    double_fontsize_int: 20
+  - index: 1176
+    text: 'is needed for those branches.  '
+    text_base: is needed for those branches
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 5
+    line_number: 14
+    span_number: 0
+    total_y: 13025.689727783203
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 386.1829833984375
+    - 173.30886840820312
+    - 399.8680114746094
+    double_fontsize_int: 20
+  - index: 1177
+    text: 'Implementation of cash for work was a challenge as there were different opinions of the community people to select '
+    text_base: implementation of cash for work was a challenge as there were different opinions of the community people to select
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 5
+    line_number: 16
+    span_number: 0
+    total_y: 13048.749725341797
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 409.24298095703125
+    - 556.50244140625
+    - 422.9280090332031
+    double_fontsize_int: 20
+  - index: 1178
+    text: 'the schemes. After the community consultation, the beneficiaries together with the local governance representative '
+    text_base: the schemes after the community consultation the beneficiaries together with the local governance representative
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 5
+    line_number: 17
+    span_number: 0
+    total_y: 13060.269714355469
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 420.7629699707031
+    - 556.1827392578125
+    - 434.447998046875
+    double_fontsize_int: 20
+  - index: 1179
+    text: 'arrived at a suitable solution.  '
+    text_base: arrived at a suitable solution
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 5
+    line_number: 18
+    span_number: 0
+    total_y: 13071.789733886719
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 432.2829895019531
+    - 168.86888122558594
+    - 445.968017578125
+    double_fontsize_int: 20
+  items:
+  - For some of the district branches cash grant distribution during the relief phase was a challenge as that was the first time they did it. Sensitization of the CTP procedures and dissemination of the standard operating procedures (SOP) is needed for those branches.
+  - Implementation of cash for work was a challenge as there were different opinions of the community people to select the schemes. After the community consultation, the beneficiaries together with the local governance representative arrived at a suitable solution.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'arial black, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 16
+    block_number: 2
+    line_number: 2
+    span_number: 0
+    total_y: 13635.499694824219
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 153.81813049316406
+    - 96.40579223632812
+    - 167.86328125
+    idx: 1226
+  sector_title: National Society Strengthening
+  sector_idx: 1193
+  sector_similarity_score: 1.0
+  content:
+  - index: 1227
+    text: 'Specific funding for this outcome was not ensured.  '
+    text_base: specific funding for this outcome was not ensured
+    style: 'arial, 20, #000000, #edebe0'
+    size: 9.960000038146973
+    page_number: 16
+    block_number: 2
+    line_number: 3
+    span_number: 0
+    total_y: 13648.459716796875
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 167.03298950195312
+    - 265.1388854980469
+    - 180.71803283691406
+    double_fontsize_int: 20
+  items:
+  - Specific funding for this outcome was not ensured.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'arial black, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 16
+    block_number: 9
+    line_number: 18
+    span_number: 0
+    total_y: 14151.819702148438
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 670.1381225585938
+    - 96.40579223632812
+    - 684.1832885742188
+    idx: 1278
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 1233
+  sector_similarity_score: 1.0
+  content:
+  - index: 1279
+    text: 'Due to the ongoing political situation in the country and the resulting movement restrictions, the customs clearance of '
+    text_base: due to the ongoing political situation in the country and the resulting movement restrictions the customs clearance of
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 16
+    block_number: 9
+    line_number: 19
+    span_number: 0
+    total_y: 14164.779724121094
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 683.35302734375
+    - 561.4699096679688
+    - 697.0380249023438
+    double_fontsize_int: 20
+  - index: 1280
+    text: 'the blankets at Chittagong port and their transportation to BDRCS NHQ took more time than expected.  '
+    text_base: the blankets at chittagong port and their transportation to bdrcs nhq took more time than expected
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 16
+    block_number: 9
+    line_number: 20
+    span_number: 0
+    total_y: 14176.1796875
+    origin_x: 36.0
+    bbox:
+    - 36.0
+    - 694.7529296875
+    - 494.6288757324219
+    - 708.43798828125
+    double_fontsize_int: 20
+  items:
+  - Due to the ongoing political situation in the country and the resulting movement restrictions, the customs clearance of the blankets at Chittagong port and their transportation to BDRCS NHQ took more time than expected.

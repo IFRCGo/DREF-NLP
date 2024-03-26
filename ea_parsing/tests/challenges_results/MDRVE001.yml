@@ -1,0 +1,647 @@
+- title:
+    text: 'Challenges:  '
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 12
+    line_number: 11
+    span_number: 0
+    total_y: 3769.129913330078
+    origin_x: 45.0
+    bbox:
+    - 45.0
+    - 390.79278564453125
+    - 107.30888366699219
+    - 404.5076904296875
+    idx: 327
+  sector_title: Relief
+  sector_idx: 226
+  sector_similarity_score: 1.0
+  content:
+  - index: 328
+    text: "\uF0B7"
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 13
+    line_number: 0
+    span_number: 0
+    total_y: 3781.389923095703
+    origin_x: 63.02399826049805
+    bbox:
+    - 63.02399826049805
+    - 403.6965026855469
+    - 67.60520935058594
+    - 415.8984680175781
+    double_fontsize_int: 20
+  - index: 329
+    text: 'The VRC confronted the need to complete new assessments some months after the onset of the '
+    text_base: the vrc confronted the need to complete new assessments some months after the onset of the
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 13
+    line_number: 0
+    span_number: 1
+    total_y: 3781.389923095703
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 403.00299072265625
+    - 551.3019409179688
+    - 416.6880187988281
+    double_fontsize_int: 20
+  - index: 330
+    text: 'emergency to guarantee that the information available on the current needs within collective centres and '
+    text_base: emergency to guarantee that the information available on the current needs within collective centres and
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 13
+    line_number: 2
+    span_number: 0
+    total_y: 3792.909912109375
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 414.5229797363281
+    - 551.2908325195312
+    - 428.2080078125
+    double_fontsize_int: 20
+  - index: 331
+    text: 'other shelter solutions was still valid, in order to decide and act appropriately considering the high mobility '
+    text_base: other shelter solutions was still valid in order to decide and act appropriately considering the high mobility
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 13
+    line_number: 3
+    span_number: 0
+    total_y: 3804.429901123047
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 426.04296875
+    - 551.3515014648438
+    - 439.7279968261719
+    double_fontsize_int: 20
+  - index: 332
+    text: 'of people entering and leaving collective centres. '
+    text_base: of people entering and leaving collective centres
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 13
+    line_number: 4
+    span_number: 0
+    total_y: 3815.8299255371094
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 437.4429931640625
+    - 300.0788879394531
+    - 451.1280212402344
+    double_fontsize_int: 20
+  - index: 333
+    text: "\uF0B7"
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 0
+    span_number: 0
+    total_y: 3828.0699157714844
+    origin_x: 63.02399826049805
+    bbox:
+    - 63.02399826049805
+    - 450.3764953613281
+    - 67.60520935058594
+    - 462.5784606933594
+    double_fontsize_int: 20
+  - index: 334
+    text: 'As it was mentioned in previous updates, it is been some time since the National Society carried an '
+    text_base: as it was mentioned in previous updates it is been some time since the national society carried an
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 0
+    span_number: 1
+    total_y: 3828.0699157714844
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 449.6829833984375
+    - 551.2899780273438
+    - 463.3680114746094
+    double_fontsize_int: 20
+  - index: 335
+    text: 'operation of this size in coordination with the IFRC. One of the main challenges that resulted because of '
+    text_base: operation of this size in coordination with the ifrc one of the main challenges that resulted because of
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 2
+    span_number: 0
+    total_y: 3839.5899047851562
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 461.2029724121094
+    - 551.3637084960938
+    - 474.88800048828125
+    double_fontsize_int: 20
+  - index: 336
+    text: 'this was a common difficulty on some branches with the distribution tracking reports. However the RIT '
+    text_base: this was a common difficulty on some branches with the distribution tracking reports however the rit
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 3
+    span_number: 0
+    total_y: 3851.1099243164062
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 472.7229919433594
+    - 551.438720703125
+    - 486.40802001953125
+    double_fontsize_int: 20
+  - index: 337
+    text: 'member deployed to Venezuela supported the National Society in this regard.  '
+    text_base: member deployed to venezuela supported the national society in this regard
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 14
+    line_number: 4
+    span_number: 0
+    total_y: 3862.5099182128906
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 484.12298583984375
+    - 430.18890380859375
+    - 497.8080139160156
+    double_fontsize_int: 20
+  - index: 338
+    text: "\uF0B7"
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 15
+    line_number: 0
+    span_number: 0
+    total_y: 3874.7499084472656
+    origin_x: 63.02399826049805
+    bbox:
+    - 63.02399826049805
+    - 497.0564880371094
+    - 67.60520935058594
+    - 509.2584533691406
+    double_fontsize_int: 20
+  - index: 339
+    text: 'Transportation was an issue in some cases, as the distance between affected communities was lengthy '
+    text_base: transportation was an issue in some cases as the distance between affected communities was lengthy
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 15
+    line_number: 0
+    span_number: 1
+    total_y: 3874.7499084472656
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 496.36297607421875
+    - 550.9569091796875
+    - 510.0480041503906
+    double_fontsize_int: 20
+  - index: 340
+    text: 'and the road access was not ideal. However, the appeal covered vehicle maintenance, repairs and spare '
+    text_base: and the road access was not ideal however the appeal covered vehicle maintenance repairs and spare
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 15
+    line_number: 2
+    span_number: 0
+    total_y: 3886.2698974609375
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 507.8829650878906
+    - 551.3746948242188
+    - 521.5679931640625
+    double_fontsize_int: 20
+  - index: 341
+    text: 'parts, as well as car rental when the need arose. '
+    text_base: parts as well as car rental when the need arose
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 15
+    line_number: 3
+    span_number: 0
+    total_y: 3897.669921875
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 519.282958984375
+    - 298.9989013671875
+    - 532.968017578125
+    double_fontsize_int: 20
+  - index: 342
+    text: "\uF0B7"
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 3909.909912109375
+    origin_x: 63.02399826049805
+    bbox:
+    - 63.02399826049805
+    - 532.2164916992188
+    - 67.60520935058594
+    - 544.41845703125
+    double_fontsize_int: 20
+  - index: 343
+    text: 'Geographic location was a factor that affected the initial plan for emergency relief, the VRC had to adapt '
+    text_base: geographic location was a factor that affected the initial plan for emergency relief the vrc had to adapt
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 16
+    line_number: 0
+    span_number: 1
+    total_y: 3909.909912109375
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 531.52294921875
+    - 550.9666748046875
+    - 545.2080078125
+    double_fontsize_int: 20
+  - index: 344
+    text: 'to the fact that the needs of those who lost their homes but lived in the Capital District were quite different '
+    text_base: to the fact that the needs of those who lost their homes but lived in the capital district were quite different
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 16
+    line_number: 2
+    span_number: 0
+    total_y: 3921.429931640625
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 543.04296875
+    - 551.3422241210938
+    - 556.72802734375
+    double_fontsize_int: 20
+  - index: 345
+    text: 'than those from people who lived in the countryside. In this regard the distribution cleaning kits that had '
+    text_base: than those from people who lived in the countryside in this regard the distribution cleaning kits that had
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 16
+    line_number: 3
+    span_number: 0
+    total_y: 3932.949951171875
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 554.56298828125
+    - 551.2382202148438
+    - 568.248046875
+    double_fontsize_int: 20
+  - index: 346
+    text: 'items related to control and prevent mosquito-related diseases were mostly relocated to the regional '
+    text_base: items related to control and prevent mosquito related diseases were mostly relocated to the regional
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 16
+    line_number: 4
+    span_number: 0
+    total_y: 3944.3798828125
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 565.992919921875
+    - 551.5288696289062
+    - 579.677978515625
+    double_fontsize_int: 20
+  - index: 347
+    text: 'branches, as people living in collective centres and emergency shelters built with zinc, plastic and '
+    text_base: branches as people living in collective centres and emergency shelters built with zinc plastic and
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 16
+    line_number: 5
+    span_number: 0
+    total_y: 3955.89990234375
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 577.512939453125
+    - 550.9891357421875
+    - 591.197998046875
+    double_fontsize_int: 20
+  - index: 348
+    text: 'cardboard in those areas were much more exposed to the risk of this kind of diseases. '
+    text_base: cardboard in those areas were much more exposed to the risk of this kind of diseases
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 16
+    line_number: 6
+    span_number: 0
+    total_y: 3967.419921875
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 589.032958984375
+    - 465.10888671875
+    - 602.718017578125
+    double_fontsize_int: 20
+  - index: 349
+    text: "\uF0B7"
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 17
+    line_number: 0
+    span_number: 0
+    total_y: 3979.659912109375
+    origin_x: 63.02399826049805
+    bbox:
+    - 63.02399826049805
+    - 601.9664916992188
+    - 67.60520935058594
+    - 614.16845703125
+    double_fontsize_int: 20
+  - index: 350
+    text: 'High rotation of volunteers and staff to cover the needs caused issues in warehouse management; the '
+    text_base: high rotation of volunteers and staff to cover the needs caused issues in warehouse management the
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 17
+    line_number: 0
+    span_number: 1
+    total_y: 3979.659912109375
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 601.27294921875
+    - 551.5230102539062
+    - 614.9580078125
+    double_fontsize_int: 20
+  - index: 351
+    text: 'use of proper tools such as warehouse management software and logistics training could improve the '
+    text_base: use of proper tools such as warehouse management software and logistics training could improve the
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 17
+    line_number: 2
+    span_number: 0
+    total_y: 3991.0599365234375
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 612.6729736328125
+    - 551.0563354492188
+    - 626.3580322265625
+    double_fontsize_int: 20
+  - index: 352
+    text: 'situation and ensure better control.  '
+    text_base: situation and ensure better control
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 17
+    line_number: 3
+    span_number: 0
+    total_y: 4002.5798950195312
+    origin_x: 81.02400207519531
+    bbox:
+    - 81.02400207519531
+    - 624.1929931640625
+    - 240.53887939453125
+    - 637.8779907226562
+    double_fontsize_int: 20
+  items:
+  - The VRC confronted the need to complete new assessments some months after the onset of the emergency to guarantee that the information available on the current needs within collective centres and other shelter solutions was still valid, in order to decide and act appropriately considering the high mobility of people entering and leaving collective centres.
+  - As it was mentioned in previous updates, it is been some time since the National Society carried an operation of this size in coordination with the IFRC. One of the main challenges that resulted because of this was a common difficulty on some branches with the distribution tracking reports. However the RIT member deployed to Venezuela supported the National Society in this regard.
+  - Transportation was an issue in some cases, as the distance between affected communities was lengthy and the road access was not ideal. However, the appeal covered vehicle maintenance, repairs and spare parts, as well as car rental when the need arose.
+  - Geographic location was a factor that affected the initial plan for emergency relief, the VRC had to adapt to the fact that the needs of those who lost their homes but lived in the Capital District were quite different than those from people who lived in the countryside. In this regard the distribution cleaning kits that had items related to control and prevent mosquito-related diseases were mostly relocated to the regional branches, as people living in collective centres and emergency shelters built with zinc, plastic and cardboard in those areas were much more exposed to the risk of this kind of diseases.
+  - High rotation of volunteers and staff to cover the needs caused issues in warehouse management; the use of proper tools such as warehouse management software and logistics training could improve the situation and ensure better control.
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 1
+    line_number: 0
+    span_number: 0
+    total_y: 5974.559875488281
+    origin_x: 54.02399826049805
+    bbox:
+    - 54.02399826049805
+    - 70.4627914428711
+    - 113.42888641357422
+    - 84.17771911621094
+    idx: 599
+  sector_title: Health and Care
+  sector_idx: 353
+  sector_similarity_score: 1.0
+  content:
+  - index: 600
+    text: "\uF0B7"
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 2
+    line_number: 0
+    span_number: 0
+    total_y: 5986.939880371094
+    origin_x: 72.02400207519531
+    bbox:
+    - 72.02400207519531
+    - 83.48650360107422
+    - 76.60520935058594
+    - 95.6884765625
+    double_fontsize_int: 20
+  - index: 601
+    text: 'As previously seen on the challenges that arose during the relief distribution, access to remote '
+    text_base: as previously seen on the challenges that arose during the relief distribution access to remote
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 2
+    line_number: 0
+    span_number: 1
+    total_y: 5986.939880371094
+    origin_x: 90.02400207519531
+    bbox:
+    - 90.02400207519531
+    - 82.79299926757812
+    - 542.7766723632812
+    - 96.47804260253906
+    double_fontsize_int: 20
+  - index: 602
+    text: 'communities and transportation between communities is an issue due to the length and conditions of '
+    text_base: communities and transportation between communities is an issue due to the length and conditions of
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 2
+    line_number: 2
+    span_number: 0
+    total_y: 5998.33984375
+    origin_x: 90.02400207519531
+    bbox:
+    - 90.02400207519531
+    - 94.19296264648438
+    - 542.8751220703125
+    - 107.87800598144531
+    double_fontsize_int: 20
+  - index: 603
+    text: 'the roads. This was again an issue when reaching communities for health-related interventions. '
+    text_base: the roads this was again an issue when reaching communities for health related interventions
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 2
+    line_number: 3
+    span_number: 0
+    total_y: 6009.85986328125
+    origin_x: 90.02400207519531
+    bbox:
+    - 90.02400207519531
+    - 105.71298217773438
+    - 514.2088623046875
+    - 119.39802551269531
+    double_fontsize_int: 20
+  - index: 604
+    text: "\uF0B7"
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 3
+    line_number: 0
+    span_number: 0
+    total_y: 6022.099853515625
+    origin_x: 72.02400207519531
+    bbox:
+    - 72.02400207519531
+    - 118.64647674560547
+    - 76.60520935058594
+    - 130.84844970703125
+    double_fontsize_int: 20
+  - index: 605
+    text: 'A delay in the transfer of funds for operational use caused further inconveniences when procuring key '
+    text_base: a delay in the transfer of funds for operational use caused further inconveniences when procuring key
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 3
+    line_number: 0
+    span_number: 1
+    total_y: 6022.099853515625
+    origin_x: 90.02400207519531
+    bbox:
+    - 90.02400207519531
+    - 117.95297241210938
+    - 542.496337890625
+    - 131.6380157470703
+    double_fontsize_int: 20
+  - index: 606
+    text: 'items for field visits. '
+    text_base: items for field visits
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 3
+    line_number: 2
+    span_number: 0
+    total_y: 6033.4998779296875
+    origin_x: 90.02400207519531
+    bbox:
+    - 90.02400207519531
+    - 129.35299682617188
+    - 180.05886840820312
+    - 143.0380401611328
+    double_fontsize_int: 20
+  - index: 607
+    text: "\uF0B7"
+    text_base: ''
+    style: 'symbol, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 6045.7398681640625
+    origin_x: 72.02400207519531
+    bbox:
+    - 72.02400207519531
+    - 142.2864990234375
+    - 76.60520935058594
+    - 154.48846435546875
+    double_fontsize_int: 20
+  - index: 608
+    text: 'The fact that the rains continued affecting roads that had already suffered considerable damage and '
+    text_base: the fact that the rains continued affecting roads that had already suffered considerable damage and
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 4
+    line_number: 0
+    span_number: 1
+    total_y: 6045.7398681640625
+    origin_x: 90.02400207519531
+    bbox:
+    - 90.02400207519531
+    - 141.59298706054688
+    - 542.5281372070312
+    - 155.2780303955078
+    double_fontsize_int: 20
+  - index: 609
+    text: 'recurrent flooding of some areas also slowed down the pace of the operation. '
+    text_base: recurrent flooding of some areas also slowed down the pace of the operation
+    style: 'arial, 20, #000000, None'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 6057.2598876953125
+    origin_x: 90.02400207519531
+    bbox:
+    - 90.02400207519531
+    - 153.11300659179688
+    - 434.7489013671875
+    - 166.7980499267578
+    double_fontsize_int: 20
+  items:
+  - As previously seen on the challenges that arose during the relief distribution, access to remote communities and transportation between communities is an issue due to the length and conditions of the roads. This was again an issue when reaching communities for health-related interventions.
+  - A delay in the transfer of funds for operational use caused further inconveniences when procuring key items for field visits.
+  - The fact that the rains continued affecting roads that had already suffered considerable damage and recurrent flooding of some areas also slowed down the pace of the operation.

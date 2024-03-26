@@ -1,0 +1,699 @@
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 5
+    line_number: 37
+    span_number: 0
+    total_y: 6430.509826660156
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 526.4127197265625, 94.89611053466797, 540.127685546875)
+    idx: 451
+  sector_title: Shelter, Housing and Settlements
+  sector_idx: 364
+  sector_similarity_score: 1.0
+  content:
+  - index: 452
+    text: 'The major challenge in the shelter support was the increased costs, including that of construction materials, delivery '
+    text_base: the major challenge in the shelter support was the increased costs including that of construction materials delivery
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 5
+    line_number: 38
+    span_number: 0
+    total_y: 6445.149841308594
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 541.0029296875, 550.5986938476562, 554.68798828125)
+    double_fontsize_int: 20
+  - index: 453
+    text: 'etc.  While construction materials were out of supply in Dominica, procurement took longer than expected. The costs '
+    text_base: etc while construction materials were out of supply in dominica procurement took longer than expected the costs
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 5
+    line_number: 39
+    span_number: 0
+    total_y: 6458.349853515625
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 554.2030029296875, 550.3670043945312, 567.8880004882812)
+    double_fontsize_int: 20
+  - index: 454
+    text: 'were higher too as the suppliers were overseas. A direct consequence of this challenge was that the target number '
+    text_base: were higher too as the suppliers were overseas a direct consequence of this challenge was that the target number
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 5
+    line_number: 40
+    span_number: 0
+    total_y: 6471.549865722656
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 567.4029541015625, 550.7950439453125, 581.0880126953125)
+    double_fontsize_int: 20
+  - index: 455
+    text: 'of households receiving the support was scaled down (from 1,000 to 550).  '
+    text_base: of households receiving the support was scaled down from 1 000 to 550
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 5
+    line_number: 41
+    span_number: 0
+    total_y: 6484.749877929688
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 580.60302734375, 374.7189025878906, 594.2880249023438)
+    double_fontsize_int: 20
+  - index: 456
+    text: 'There was also a lack of trained carpenters and construction workers, which was addressed through the training of '
+    text_base: there was also a lack of trained carpenters and construction workers which was addressed through the training of
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 0
+    span_number: 0
+    total_y: 6511.989868164063
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 607.843017578125, 550.7879638671875, 621.5280151367188)
+    double_fontsize_int: 20
+  - index: 457
+    text: 'carpenters in cooperation with the government. The most serious challenge was caused by the lack of site '
+    text_base: carpenters in cooperation with the government the most serious challenge was caused by the lack of site
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 1
+    span_number: 0
+    total_y: 6525.189880371094
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 621.04296875, 550.7112426757812, 634.72802734375)
+    double_fontsize_int: 20
+  - index: 458
+    text: 'supervisors whose task it was to supervise their daily work. Furthermore, there was a shortage of engineers and '
+    text_base: supervisors whose task it was to supervise their daily work furthermore there was a shortage of engineers and
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 2
+    span_number: 0
+    total_y: 6538.509826660156
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 634.3629150390625, 550.6484985351562, 648.0479736328125)
+    double_fontsize_int: 20
+  - index: 459
+    text: 'architects available to undertake the technical assessment. '
+    text_base: architects available to undertake the technical assessment
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 6
+    line_number: 3
+    span_number: 0
+    total_y: 6551.709899902344
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 647.56298828125, 305.6988830566406, 661.248046875)
+    double_fontsize_int: 20
+  - index: 460
+    text: Another challenge was the selection criteria used for communities and households to receive support.  Certain socio-
+    text_base: another challenge was the selection criteria used for communities and households to receive support certain socio
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 0
+    span_number: 0
+    total_y: 6578.9798583984375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 674.8330078125, 547.9766235351562, 688.5180053710938)
+    double_fontsize_int: 20
+  - index: 461
+    text: 'political developments such as the elections created a sense of dissatisfaction in areas where people were equally '
+    text_base: political developments such as the elections created a sense of dissatisfaction in areas where people were equally
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 1
+    span_number: 0
+    total_y: 6592.179870605469
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 688.032958984375, 550.8472290039062, 701.718017578125)
+    double_fontsize_int: 20
+  - index: 462
+    text: 'divided. However, DRCS dealt with these situations quickly by explaining their beneficiary selection to the '
+    text_base: divided however drcs dealt with these situations quickly by explaining their beneficiary selection to the
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 2
+    span_number: 0
+    total_y: 6605.3798828125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 701.2330322265625, 550.7281494140625, 714.9180297851562)
+    double_fontsize_int: 20
+  - index: 463
+    text: 'communities through the Town Halls and Village Councils. '
+    text_base: communities through the town halls and village councils
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 7
+    block_number: 7
+    line_number: 3
+    span_number: 0
+    total_y: 6618.579895019531
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 714.4329833984375, 302.0841064453125, 728.1180419921875)
+    double_fontsize_int: 20
+  items:
+  - The major challenge in the shelter support was the increased costs, including that of construction materials, delivery etc. While construction materials were out of supply in Dominica, procurement took longer than expected. The costs were higher too as the suppliers were overseas. A direct consequence of this challenge was that the target number of households receiving the support was scaled down (from 1,000 to 550).
+  - There was also a lack of trained carpenters and construction workers, which was addressed through the training of carpenters in cooperation with the government. The most serious challenge was caused by the lack of site supervisors whose task it was to supervise their daily work. Furthermore, there was a shortage of engineers and architects available to undertake the technical assessment.
+  - Another challenge was the selection criteria used for communities and households to receive support. Certain socio- political developments such as the elections created a sense of dissatisfaction in areas where people were equally divided. However, DRCS dealt with these situations quickly by explaining their beneficiary selection to the communities through the Town Halls and Village Councils.
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 6
+    line_number: 11
+    span_number: 0
+    total_y: 8064.669830322266
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 476.7327880859375, 97.8328857421875, 490.44769287109375)
+    idx: 543
+  sector_title: Livelihoods
+  sector_idx: 477
+  sector_similarity_score: 1.0
+  content:
+  - index: 544
+    text: 'Similar to the shelter sector, a major challenge for livelihoods and basic needs was the selection and identification '
+    text_base: similar to the shelter sector a major challenge for livelihoods and basic needs was the selection and identification
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 6
+    line_number: 12
+    span_number: 0
+    total_y: 8079.309814453125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 491.3229675292969, 550.8441772460938, 505.00799560546875)
+    double_fontsize_int: 20
+  - index: 545
+    text: 'of households to receive cash support.  There were grievances that the selection process and the technical system '
+    text_base: of households to receive cash support there were grievances that the selection process and the technical system
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 6
+    line_number: 13
+    span_number: 0
+    total_y: 8090.829833984375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 502.8429870605469, 550.6223754882812, 516.5280151367188)
+    double_fontsize_int: 20
+  - index: 546
+    text: 'may have had issues. There were some persons who appeared to be clearly in need but who did not satisfy the '
+    text_base: may have had issues there were some persons who appeared to be clearly in need but who did not satisfy the
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 6
+    line_number: 14
+    span_number: 0
+    total_y: 8102.349792480469
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 514.3629150390625, 550.8572998046875, 528.0479736328125)
+    double_fontsize_int: 20
+  - index: 547
+    text: 'eligibility criteria, which suggests the need to explore the development of a more robust system. '
+    text_base: eligibility criteria which suggests the need to explore the development of a more robust system
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 6
+    line_number: 15
+    span_number: 0
+    total_y: 8113.749816894531
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 525.762939453125, 466.9089050292969, 539.447998046875)
+    double_fontsize_int: 20
+  - index: 548
+    text: 'There were also selected persons who, on account of the hurricane, had lost their national identification. Red Cross '
+    text_base: there were also selected persons who on account of the hurricane had lost their national identification red cross
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 6
+    line_number: 17
+    span_number: 0
+    total_y: 8136.789855957031
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 548.802978515625, 550.8701171875, 562.488037109375)
+    double_fontsize_int: 20
+  - index: 549
+    text: 'hence created a proxy identification system in which a photograph of the person was taken and used during '
+    text_base: hence created a proxy identification system in which a photograph of the person was taken and used during
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 6
+    line_number: 18
+    span_number: 0
+    total_y: 8148.309814453125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 560.322998046875, 550.8767700195312, 574.0079956054688)
+    double_fontsize_int: 20
+  - index: 550
+    text: 'assessment and distribution for comparison and validation. In additon, village councils were on site to assist in '
+    text_base: assessment and distribution for comparison and validation in additon village councils were on site to assist in
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 6
+    line_number: 19
+    span_number: 0
+    total_y: 8159.829833984375
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 571.843017578125, 550.8976440429688, 585.5280151367188)
+    double_fontsize_int: 20
+  - index: 551
+    text: 'verifying the beneficiaries in their communities. '
+    text_base: verifying the beneficiaries in their communities
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 6
+    line_number: 20
+    span_number: 0
+    total_y: 8171.349792480469
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 583.3629150390625, 251.81887817382812, 597.0479736328125)
+    double_fontsize_int: 20
+  - index: 552
+    text: 'There were also recipients for support who were not sure or unable to properly use or access the card.  These '
+    text_base: there were also recipients for support who were not sure or unable to properly use or access the card these
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 6
+    line_number: 22
+    span_number: 0
+    total_y: 8194.269836425781
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 606.282958984375, 550.8857421875, 619.968017578125)
+    double_fontsize_int: 20
+  - index: 553
+    text: 'elderly or disabled people were accompanied by the Red Cross through the process.  In some cases, debit cards '
+    text_base: elderly or disabled people were accompanied by the red cross through the process in some cases debit cards
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 6
+    line_number: 23
+    span_number: 0
+    total_y: 8205.789855957031
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 617.802978515625, 550.8399658203125, 631.488037109375)
+    double_fontsize_int: 20
+  - index: 554
+    text: 'were delivered to them.   '
+    text_base: were delivered to them
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 9
+    block_number: 6
+    line_number: 24
+    span_number: 0
+    total_y: 8217.309814453125
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 629.322998046875, 153.98887634277344, 643.0079956054688)
+    double_fontsize_int: 20
+  items:
+  - Similar to the shelter sector, a major challenge for livelihoods and basic needs was the selection and identification of households to receive cash support. There were grievances that the selection process and the technical system may have had issues. There were some persons who appeared to be clearly in need but who did not satisfy the eligibility criteria, which suggests the need to explore the development of a more robust system.
+  - There were also selected persons who, on account of the hurricane, had lost their national identification. Red Cross hence created a proxy identification system in which a photograph of the person was taken and used during assessment and distribution for comparison and validation. In additon, village councils were on site to assist in verifying the beneficiaries in their communities.
+  - There were also recipients for support who were not sure or unable to properly use or access the card. These elderly or disabled people were accompanied by the Red Cross through the process. In some cases, debit cards were delivered to them.
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 6
+    line_number: 23
+    span_number: 0
+    total_y: 9645.0498046875
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 373.2727966308594, 97.8328857421875, 386.9877014160156)
+    idx: 689
+  sector_title: Health and Care
+  sector_idx: 570
+  sector_similarity_score: 1.0
+  content:
+  - index: 690
+    text: 'Initially, the plan included the procurement and distribution of 60 dressing/suture kits for primary care facilities, '
+    text_base: initially the plan included the procurement and distribution of 60 dressing suture kits for primary care facilities
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 6
+    line_number: 24
+    span_number: 0
+    total_y: 9659.68978881836
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 387.86297607421875, 550.8677978515625, 401.5480041503906)
+    double_fontsize_int: 20
+  - index: 691
+    text: 'however this was removed because other actors were providing similar goods. '
+    text_base: however this was removed because other actors were providing similar goods
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 6
+    line_number: 25
+    span_number: 0
+    total_y: 9671.089782714844
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 399.2629699707031, 391.2789001464844, 412.947998046875)
+    double_fontsize_int: 20
+  - index: 692
+    text: 'For PSS, although services were provided to 379 people, there were delays in the delivery of the services before '
+    text_base: for pss although services were provided to 379 people there were delays in the delivery of the services before
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 6
+    line_number: 27
+    span_number: 0
+    total_y: 9694.129791259766
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 422.302978515625, 550.4561767578125, 435.9880065917969)
+    double_fontsize_int: 20
+  - index: 693
+    text: 'the successful identification of a PSS lead by the National Society. In addition, some volunteers who were trained '
+    text_base: the successful identification of a pss lead by the national society in addition some volunteers who were trained
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 6
+    line_number: 28
+    span_number: 0
+    total_y: 9705.649780273438
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 433.8229675292969, 550.4864501953125, 447.50799560546875)
+    double_fontsize_int: 20
+  - index: 694
+    text: 'in PSS had found employment. '
+    text_base: in pss had found employment
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 11
+    block_number: 6
+    line_number: 29
+    span_number: 0
+    total_y: 9717.169799804688
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 445.3429870605469, 182.30886840820312, 459.02801513671875)
+    double_fontsize_int: 20
+  items:
+  - Initially, the plan included the procurement and distribution of 60 dressing/suture kits for primary care facilities, however this was removed because other actors were providing similar goods.
+  - For PSS, although services were provided to 379 people, there were delays in the delivery of the services before the successful identification of a PSS lead by the National Society. In addition, some volunteers who were trained in PSS had found employment.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 11879.39971923828
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 81.86275482177734, 94.89611053466797, 95.57768249511719)
+    idx: 913
+  sector_title: Water, Sanitation and Hygiene
+  sector_idx: 700
+  sector_similarity_score: 1.0
+  content:
+  - index: 914
+    text: 'In the response phase, it was difficult for DRCS to recruit volunteers because this service looked like hard work and '
+    text_base: in the response phase it was difficult for drcs to recruit volunteers because this service looked like hard work and
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 11893.93975830078
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 96.35299682617188, 550.7866821289062, 110.03804016113281)
+    double_fontsize_int: 20
+  - index: 915
+    text: 'too technical to move and operate equipment from one place to the next. Nevertheless, DRCS made the '
+    text_base: too technical to move and operate equipment from one place to the next nevertheless drcs made the
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 11905.459716796877
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 107.87295532226562, 550.9025268554688, 121.55799865722656)
+    double_fontsize_int: 20
+  - index: 916
+    text: 'requirements of the sector easier for the volunteers to understand.   '
+    text_base: requirements of the sector easier for the volunteers to understand
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 4
+    line_number: 3
+    span_number: 0
+    total_y: 11916.979736328123
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 119.39297485351562, 342.91888427734375, 133.07801818847656)
+    double_fontsize_int: 20
+  - index: 917
+    text: 'The distribution of chlorine tablets was ceased by the government.  The existence of a number of actors who were '
+    text_base: the distribution of chlorine tablets was ceased by the government the existence of a number of actors who were
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 5
+    line_number: 0
+    span_number: 0
+    total_y: 11942.53973388672
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 144.95297241210938, 550.8912353515625, 158.6380157470703)
+    double_fontsize_int: 20
+  - index: 918
+    text: 'distributing the same but of various strengths, led to some confusion.   '
+    text_base: distributing the same but of various strengths led to some confusion
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 14
+    block_number: 5
+    line_number: 1
+    span_number: 0
+    total_y: 11953.93975830078
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 156.35299682617188, 354.67889404296875, 170.0380401611328)
+    double_fontsize_int: 20
+  items:
+  - In the response phase, it was difficult for DRCS to recruit volunteers because this service looked like hard work and too technical to move and operate equipment from one place to the next. Nevertheless, DRCS made the requirements of the sector easier for the volunteers to understand.
+  - The distribution of chlorine tablets was ceased by the government. The existence of a number of actors who were distributing the same but of various strengths, led to some confusion.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 8
+    line_number: 12
+    span_number: 0
+    total_y: 13211.949768066406
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 572.4429931640625, 91.48979949951172, 586.1280517578125)
+    idx: 976
+  sector_title: Risk Reduction, Climate adaptation and Recovery
+  sector_idx: 926
+  sector_similarity_score: 1.0
+  content:
+  - index: 977
+    text: 'DRCS met challenges to get land property for the two branches. It worked closely with the local government to '
+    text_base: drcs met challenges to get land property for the two branches it worked closely with the local government to
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 8
+    line_number: 13
+    span_number: 0
+    total_y: 13226.589721679688
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 587.0830078125, 531.724365234375, 600.7680053710938)
+    double_fontsize_int: 20
+  - index: 978
+    text: 'secure permits. '
+    text_base: secure permits
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 8
+    line_number: 14
+    span_number: 0
+    total_y: 13238.109741210938
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 598.60302734375, 112.6348876953125, 612.2880249023438)
+    double_fontsize_int: 20
+  - index: 979
+    text: 'In addition, the cost of construction of branches was higher than the original budgets.  Therefore, the target '
+    text_base: in addition the cost of construction of branches was higher than the original budgets therefore the target
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 8
+    line_number: 16
+    span_number: 0
+    total_y: 13261.029724121094
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 621.52294921875, 517.0530395507812, 635.2080078125)
+    double_fontsize_int: 20
+  - index: 980
+    text: 'number of branches was readjusted from four to two. '
+    text_base: number of branches was readjusted from four to two
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 15
+    block_number: 8
+    line_number: 17
+    span_number: 0
+    total_y: 13272.549743652344
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 633.04296875, 278.3388977050781, 646.72802734375)
+    double_fontsize_int: 20
+  items:
+  - DRCS met challenges to get land property for the two branches. It worked closely with the local government to secure permits.
+  - In addition, the cost of construction of branches was higher than the original budgets. Therefore, the target number of branches was readjusted from four to two.
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 18, #000000, #f4f4f4'
+    size: 9.0
+    page_number: 16
+    block_number: 16
+    line_number: 0
+    span_number: 0
+    total_y: 14241.455688476562
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 761.10595703125, 92.16600036621094, 773.4989624023438)
+    idx: 1017
+  sector_title: Migration and displacement
+  sector_idx: 990
+  sector_similarity_score: 1.0
+  content:
+  - index: 1021
+    text: 'Thanks to the partners who supported the implementation, particularly ICRC, and due to the length of the support, '
+    text_base: thanks to the partners who supported the implementation particularly icrc and due to the length of the support
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 14394.35968017578
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 71.01296997070312, 547.548828125, 84.69801330566406)
+    double_fontsize_int: 20
+  - index: 1022
+    text: 'there were not much significant challenges.  '
+    text_base: there were not much significant challenges
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 17
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 14405.879699707031
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 82.53298950195312, 238.9788818359375, 96.21803283691406)
+    double_fontsize_int: 20
+  items:
+  - Thanks to the partners who supported the implementation, particularly ICRC, and due to the length of the support, there were not much significant challenges.
+- title:
+    text: 'Challenges '
+    text_base: challenges
+    style: 'bold, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 13
+    line_number: 36
+    span_number: 0
+    total_y: 15789.669677734377
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 624.4527587890625, 97.8328857421875, 638.167724609375)
+    idx: 1153
+  sector_title: National Society Strengthening
+  sector_idx: 1027
+  sector_similarity_score: 1.0
+  content:
+  - index: 1154
+    text: 'One of the challenges has been sustaining staff and capacity of DRCS after the operation. Fortunately, the operation '
+    text_base: one of the challenges has been sustaining staff and capacity of drcs after the operation fortunately the operation
+    style: 'arialmt, 20, #000000, #f4f4f4'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 13
+    line_number: 37
+    span_number: 0
+    total_y: 15804.309692382812
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 639.04296875, 550.8563842773438, 652.72802734375)
+    double_fontsize_int: 20
+  - index: 1155
+    text: 'created opportunities for other stakeholders to engage with DRCS to support them in future. With the positive '
+    text_base: created opportunities for other stakeholders to engage with drcs to support them in future with the positive
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 13
+    line_number: 38
+    span_number: 0
+    total_y: 15815.85968017578
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 650.593017578125, 550.59521484375, 664.2780151367188)
+    double_fontsize_int: 20
+  - index: 1156
+    text: 'achievements of DRCS in the hurricane recovery operation, national and local government, and other Movement '
+    text_base: achievements of drcs in the hurricane recovery operation national and local government and other movement
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 13
+    line_number: 39
+    span_number: 0
+    total_y: 15827.259643554688
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 661.992919921875, 550.2772827148438, 675.677978515625)
+    double_fontsize_int: 20
+  - index: 1157
+    text: 'partners are providing essential additional resources to DRCS.  '
+    text_base: partners are providing essential additional resources to drcs
+    style: 'arialmt, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 18
+    block_number: 13
+    line_number: 40
+    span_number: 0
+    total_y: 15838.779663085938
+    origin_x: 41.63999938964844
+    bbox: (41.63999938964844, 673.512939453125, 324.17889404296875, 687.197998046875)
+    double_fontsize_int: 20
+  items:
+  - One of the challenges has been sustaining staff and capacity of DRCS after the operation. Fortunately, the operation created opportunities for other stakeholders to engage with DRCS to support them in future. With the positive achievements of DRCS in the hurricane recovery operation, national and local government, and other Movement partners are providing essential additional resources to DRCS.

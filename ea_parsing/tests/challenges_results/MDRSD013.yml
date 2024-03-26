@@ -1,0 +1,319 @@
+- title:
+    text: 'Challenges:   '
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 4
+    line_number: 0
+    span_number: 0
+    total_y: 2077.729949951172
+    origin_x: 47.400001525878906
+    bbox: (47.400001525878906, 383.2327880859375, 112.46887969970703, 396.94769287109375)
+    idx: 135
+  sector_title: null
+  sector_idx: null
+  sector_similarity_score: null
+  content:
+  - index: 136
+    text: 'The limited funding of this appeal proved the main challenge, which limited the possibility to comprehensively '
+    text_base: the limited funding of this appeal proved the main challenge which limited the possibility to comprehensively
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 4
+    line_number: 1
+    span_number: 0
+    total_y: 2089.3699340820312
+    origin_x: 45.0
+    bbox: (45.0, 394.8229675292969, 551.5088500976562, 408.50799560546875)
+    double_fontsize_int: 20
+  - index: 137
+    text: 'respond to the food security crisis. '
+    text_base: respond to the food security crisis
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 4
+    line_number: 2
+    span_number: 0
+    total_y: 2100.889953613281
+    origin_x: 45.0
+    bbox: (45.0, 406.3429870605469, 199.58888244628906, 420.02801513671875)
+    double_fontsize_int: 20
+  - index: 138
+    text: 'In regards to provision of the food aid, the initial plan was to provide food items including cereals, pulse (lentils), '
+    text_base: in regards to provision of the food aid the initial plan was to provide food items including cereals pulse lentils
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 4
+    line_number: 4
+    span_number: 0
+    total_y: 2123.929962158203
+    origin_x: 45.0
+    bbox: (45.0, 429.38299560546875, 550.8396606445312, 443.0680236816406)
+    double_fontsize_int: 20
+  - index: 139
+    text: 'salt, oil and sugar over a three months period in a single distribution for 12,800 households. Instead, due to '
+    text_base: salt oil and sugar over a three months period in a single distribution for 12 800 households instead due to
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 4
+    line_number: 5
+    span_number: 0
+    total_y: 2135.449951171875
+    origin_x: 45.0
+    bbox: (45.0, 440.9029846191406, 551.4904174804688, 454.5880126953125)
+    double_fontsize_int: 20
+  - index: 140
+    text: 'funding constrains, it was only possible to provide one food item (sorghum) for 6000 households (30,000 '
+    text_base: funding constrains it was only possible to provide one food item sorghum for 6000 households 30 000
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 4
+    line_number: 6
+    span_number: 0
+    total_y: 2146.8699340820312
+    origin_x: 45.0
+    bbox: (45.0, 452.3229675292969, 551.4727172851562, 466.00799560546875)
+    double_fontsize_int: 20
+  - index: 141
+    text: 'individuals) beside the food rations distributed. Fortunately, the government managed to supplement the '
+    text_base: individuals beside the food rations distributed fortunately the government managed to supplement the
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 4
+    line_number: 7
+    span_number: 0
+    total_y: 2158.389953613281
+    origin_x: 45.0
+    bbox: (45.0, 463.8429870605469, 550.938232421875, 477.52801513671875)
+    double_fontsize_int: 20
+  - index: 142
+    text: 'distribution with vegetable oil and sugar, and UNICEF provided support towards the nutrition centres. Moreover, '
+    text_base: distribution with vegetable oil and sugar and unicef provided support towards the nutrition centres moreover
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 4
+    line_number: 8
+    span_number: 0
+    total_y: 2169.909942626953
+    origin_x: 45.0
+    bbox: (45.0, 475.36297607421875, 551.478271484375, 489.0480041503906)
+    double_fontsize_int: 20
+  - index: 143
+    text: 'funds constraints affected the recruitment process of the staff which was solved by using the available staff from '
+    text_base: funds constraints affected the recruitment process of the staff which was solved by using the available staff from
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 4
+    line_number: 9
+    span_number: 0
+    total_y: 2181.429962158203
+    origin_x: 45.0
+    bbox: (45.0, 486.88299560546875, 551.3519287109375, 500.5680236816406)
+    double_fontsize_int: 20
+  - index: 144
+    text: 'the SRCS. '
+    text_base: the srcs
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 2
+    block_number: 4
+    line_number: 10
+    span_number: 0
+    total_y: 2192.949951171875
+    origin_x: 45.0
+    bbox: (45.0, 498.4029846191406, 95.07288360595703, 512.0880126953125)
+    double_fontsize_int: 20
+  items:
+  - The limited funding of this appeal proved the main challenge, which limited the possibility to comprehensively respond to the food security crisis.
+  - In regards to provision of the food aid, the initial plan was to provide food items including cereals, pulse (lentils), salt, oil and sugar over a three months period in a single distribution for 12,800 households. Instead, due to funding constrains, it was only possible to provide one food item (sorghum) for 6000 households (30,000 individuals) beside the food rations distributed. Fortunately, the government managed to supplement the distribution with vegetable oil and sugar, and UNICEF provided support towards the nutrition centres. Moreover, funds constraints affected the recruitment process of the staff which was solved by using the available staff from the SRCS.
+- title:
+    text: 'Challenges: '
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 10
+    span_number: 0
+    total_y: 3144.0699462890625
+    origin_x: 45.0
+    bbox: (45.0, 607.6527709960938, 104.42888641357422, 621.3677368164062)
+    idx: 206
+  sector_title: Relief
+  sector_idx: 145
+  sector_similarity_score: 1.0
+  content:
+  - index: 207
+    text: 'In regards to provision of the food aid, the initial plan was to provide food items including cereals, pulse (lentils), '
+    text_base: in regards to provision of the food aid the initial plan was to provide food items including cereals pulse lentils
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 11
+    span_number: 0
+    total_y: 3155.709899902344
+    origin_x: 45.0
+    bbox: (45.0, 619.242919921875, 550.8396606445312, 632.927978515625)
+    double_fontsize_int: 20
+  - index: 208
+    text: 'salt, oil and sugar over a three months period in a single distribution for 12,800 households. Instead, due to '
+    text_base: salt oil and sugar over a three months period in a single distribution for 12 800 households instead due to
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 12
+    span_number: 0
+    total_y: 3167.2599487304688
+    origin_x: 45.0
+    bbox: (45.0, 630.79296875, 551.4904174804688, 644.47802734375)
+    double_fontsize_int: 20
+  - index: 209
+    text: 'funding constrains, it was only possible to provide one food item (sorghum) for 6000 households (30,000 '
+    text_base: funding constrains it was only possible to provide one food item sorghum for 6000 households 30 000
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 13
+    span_number: 0
+    total_y: 3178.7799682617188
+    origin_x: 45.0
+    bbox: (45.0, 642.31298828125, 551.4727172851562, 655.998046875)
+    double_fontsize_int: 20
+  - index: 210
+    text: 'individuals) beside the food rations distributed. Fortunately, the government managed to supplement the '
+    text_base: individuals beside the food rations distributed fortunately the government managed to supplement the
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 14
+    span_number: 0
+    total_y: 3190.2999267578125
+    origin_x: 45.0
+    bbox: (45.0, 653.8330078125, 550.938232421875, 667.5180053710938)
+    double_fontsize_int: 20
+  - index: 211
+    text: 'distribution with vegetable oil and sugar, and UNICEF provided support towards the nutrition centres.  '
+    text_base: distribution with vegetable oil and sugar and unicef provided support towards the nutrition centres
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 15
+    span_number: 0
+    total_y: 3201.699951171875
+    origin_x: 45.0
+    bbox: (45.0, 665.2330322265625, 496.42889404296875, 678.9180297851562)
+    double_fontsize_int: 20
+  - index: 212
+    text: 'Moreover, funds constraints affected the recruitment process of the international operations staff which was '
+    text_base: moreover funds constraints affected the recruitment process of the international operations staff which was
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 17
+    span_number: 0
+    total_y: 3224.7399291992188
+    origin_x: 45.0
+    bbox: (45.0, 688.27294921875, 551.4182739257812, 701.9580078125)
+    double_fontsize_int: 20
+  - index: 213
+    text: 'solved by using the available staff from the SRCS. Furthermore, transport and logistic proved more costly than '
+    text_base: solved by using the available staff from the srcs furthermore transport and logistic proved more costly than
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 18
+    span_number: 0
+    total_y: 3236.2599487304688
+    origin_x: 45.0
+    bbox: (45.0, 699.79296875, 551.276611328125, 713.47802734375)
+    double_fontsize_int: 20
+  - index: 214
+    text: 'foreseen and budgeted. '
+    text_base: foreseen and budgeted
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 3
+    block_number: 8
+    line_number: 19
+    span_number: 0
+    total_y: 3247.7799072265625
+    origin_x: 45.0
+    bbox: (45.0, 711.31298828125, 153.3888702392578, 724.9979858398438)
+    double_fontsize_int: 20
+  items:
+  - In regards to provision of the food aid, the initial plan was to provide food items including cereals, pulse (lentils), salt, oil and sugar over a three months period in a single distribution for 12,800 households. Instead, due to funding constrains, it was only possible to provide one food item (sorghum) for 6000 households (30,000 individuals) beside the food rations distributed. Fortunately, the government managed to supplement the distribution with vegetable oil and sugar, and UNICEF provided support towards the nutrition centres.
+  - Moreover, funds constraints affected the recruitment process of the international operations staff which was solved by using the available staff from the SRCS. Furthermore, transport and logistic proved more costly than foreseen and budgeted.
+- title:
+    text: Challenges
+    text_base: challenges
+    style: 'arial,bold, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 7
+    line_number: 6
+    span_number: 0
+    total_y: 3705.169921875
+    origin_x: 45.0
+    bbox: (45.0, 326.8327941894531, 98.25611114501953, 340.5476989746094)
+    idx: 285
+  sector_title: Logistics
+  sector_idx: 255
+  sector_similarity_score: 1.0
+  content:
+  - index: 286
+    text: ': '
+    text_base: ''
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 7
+    line_number: 6
+    span_number: 1
+    total_y: 3705.169921875
+    origin_x: 98.3040008544922
+    bbox: (98.30400085449219, 326.7829895019531, 103.94888305664062, 340.468017578125)
+    double_fontsize_int: 20
+  - index: 287
+    text: 'The transportation and logistical arrangements with transportation of food support over long distances proved '
+    text_base: the transportation and logistical arrangements with transportation of food support over long distances proved
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 7
+    line_number: 7
+    span_number: 0
+    total_y: 3716.8099060058594
+    origin_x: 45.0
+    bbox: (45.0, 338.4229736328125, 551.5164794921875, 352.1080017089844)
+    double_fontsize_int: 20
+  - index: 288
+    text: 'more costly than initially foreseen. '
+    text_base: more costly than initially foreseen
+    style: 'arial, 20, #000000, nan'
+    size: 9.960000038146973
+    page_number: 4
+    block_number: 7
+    line_number: 8
+    span_number: 0
+    total_y: 3728.329925537109
+    origin_x: 45.0
+    bbox: (45.0, 349.9429931640625, 198.3888702392578, 363.6280212402344)
+    double_fontsize_int: 20
+  items:
+  - The transportation and logistical arrangements with transportation of food support over long distances proved more costly than initially foreseen.
