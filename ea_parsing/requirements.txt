@@ -53,6 +53,7 @@ python-multipart==0.0.5
     # via -r requirements.in
 pytz==2021.3
     # via pandas
+pyyaml==6.0
 requests==2.26.0
     # via
     #   -r requirements.in
